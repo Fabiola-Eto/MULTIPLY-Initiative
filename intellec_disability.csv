@@ -1,0 +1,95 @@
+Readcode;Disease;Medcode;ReadcodeDescr;Category;CodingSystem;Provenance
+918e.00;Intellectual disability;22760;On learning disability register;History of Intellectual disability;NA;Kuan
+94Z9.00;Intellectual disability;108881;Preferred place of death: learning disability unit;History of Intellectual disability;NA;Kuan
+9HB..00;Intellectual disability;19445;Learning disabilities administration status;History of Intellectual disability;NA;Kuan
+9HB0.00;Intellectual disability;43447;Learning disabilities health action plan declined;History of Intellectual disability;NA;Kuan
+9HB1.00;Intellectual disability;41391;Learning disabilities health action plan offered;History of Intellectual disability;NA;Kuan
+9HB2.00;Intellectual disability;43445;Learning disabilities health action plan reviewed;History of Intellectual disability;NA;Kuan
+9HB3.00;Intellectual disability;32511;Learning disabilities health assessment;History of Intellectual disability;NA;Kuan
+9HB4.00;Intellectual disability;43436;Learning disabilities health action plan completed;History of Intellectual disability;NA;Kuan
+9HB5.00;Intellectual disability;32952;Learning disabilities annual health assessment;History of Intellectual disability;NA;Kuan
+9HB6.00;Intellectual disability;100730;Learning disabilities annual health assessment declined;History of Intellectual disability;NA;Kuan
+9HB6.11;Intellectual disability;100965;Learning disabilities annual health check declined;History of Intellectual disability;NA;Kuan
+9HB7.00;Intellectual disability;100729;Did not attend learning disabilities annual health assessmnt;History of Intellectual disability;NA;Kuan
+9HB7.11;Intellectual disability;102234;Did not attend learning disabilities annual health check;History of Intellectual disability;NA;Kuan
+9mA..00;Intellectual disability;106219;Learning disability annual health check invitation;History of Intellectual disability;NA;Kuan
+9mA0.00;Intellectual disability;106249;Learning disability annual health check verbal invitation;History of Intellectual disability;NA;Kuan
+9mA1.00;Intellectual disability;106248;Learning disability annual health check telephone invitation;History of Intellectual disability;NA;Kuan
+9mA2.00;Intellectual disability;106247;Learning disability annual health check letter invitation;History of Intellectual disability;NA;Kuan
+9mA2000;Intellectual disability;106272;Learning disability annual health check invtation 1st letter;History of Intellectual disability;NA;Kuan
+9mA2100;Intellectual disability;106274;Learning disability annual health check invtation 2nd letter;History of Intellectual disability;NA;Kuan
+9mA2200;Intellectual disability;106276;Learning disability annual health check invtation 3rd letter;History of Intellectual disability;NA;Kuan
+E2F2.00;Intellectual disability;4672;Other specific learning difficulty;Diagnosis of Intellectual disability;NA;Kuan
+E3...00;Intellectual disability;1362;Mental retardation;Diagnosis of Intellectual disability;readcode;Kuan and Cambridge
+E30..00;Intellectual disability;1787;Mild mental retardation, IQ in range 50-70;Diagnosis of Intellectual disability;readcode;Kuan and Cambridge
+E30..11;Intellectual disability;1680;Educationally subnormal;Diagnosis of Intellectual disability;readcode;Kuan and Cambridge
+E30..12;Intellectual disability;51954;Feeble-minded;Diagnosis of Intellectual disability;NA;Kuan
+E30..13;Intellectual disability;71632;Moron;Diagnosis of Intellectual disability;NA;Kuan
+E31..00;Intellectual disability;56577;Other specified mental retardation;Diagnosis of Intellectual disability;readcode;Kuan and Cambridge
+E310.00;Intellectual disability;302;Moderate mental retardation, IQ in range 35-49;Diagnosis of Intellectual disability;readcode;Kuan and Cambridge
+E310.11;Intellectual disability;1278;Imbecile;Diagnosis of Intellectual disability;NA;Kuan
+E311.00;Intellectual disability;4825;Severe mental retardation, IQ in range 20-34;Diagnosis of Intellectual disability;readcode;Kuan and Cambridge
+E312.00;Intellectual disability;45133;Profound mental retardation with IQ less than 20;Diagnosis of Intellectual disability;readcode;Kuan and Cambridge
+E312.11;Intellectual disability;51622;Idiocy;Diagnosis of Intellectual disability;NA;Kuan
+E31z.00;Intellectual disability;54179;Other specified mental retardation NOS;Diagnosis of Intellectual disability;readcode;Kuan and Cambridge
+E3y..00;Intellectual disability;57199;Other specified mental retardation;Diagnosis of Intellectual disability;readcode;Kuan and Cambridge
+E3z..00;Intellectual disability;37867;Mental retardation NOS;Diagnosis of Intellectual disability;readcode;Kuan and Cambridge
+Eu7..00;Intellectual disability;28962;[X]Mental retardation;Diagnosis of Intellectual disability;readcode;Kuan and Cambridge
+Eu70.00;Intellectual disability;28740;[X]Mild mental retardation;Diagnosis of Intellectual disability;readcode;Kuan and Cambridge
+Eu70.12;Intellectual disability;33949;[X]Mild mental subnormality;Diagnosis of Intellectual disability;readcode;Kuan and Cambridge
+Eu70000;Intellectual disability;46504;[X]Mld mental retard with statement no or min impairm behav;Diagnosis of Intellectual disability;readcode;Kuan and Cambridge
+Eu70100;Intellectual disability;39412;[X]Mld mental retard sig impairment behav req attent/treatmt;Diagnosis of Intellectual disability;readcode;Kuan and Cambridge
+Eu70y00;Intellectual disability;39016;[X]Mild mental retardation, other impairments of behaviour;Diagnosis of Intellectual disability;readcode;Kuan and Cambridge
+Eu70z00;Intellectual disability;50606;[X]Mild mental retardation without mention impairment behav;Diagnosis of Intellectual disability;readcode;Kuan and Cambridge
+Eu71.00;Intellectual disability;6123;[X]Moderate mental retardation;Diagnosis of Intellectual disability;readcode;Kuan and Cambridge
+Eu71.11;Intellectual disability;34734;[X]Moderate mental subnormality;Diagnosis of Intellectual disability;readcode;Kuan and Cambridge
+Eu71000;Intellectual disability;60913;[X]Mod mental retard with statement no or min impairm behav;Diagnosis of Intellectual disability;readcode;Kuan and Cambridge
+Eu71100;Intellectual disability;54881;[X]Mod mental retard sig impairment behav req attent/treatmt;Diagnosis of Intellectual disability;readcode;Kuan and Cambridge
+Eu71y00;Intellectual disability;59407;[X]Mod retard oth behav impair;Diagnosis of Intellectual disability;readcode;Kuan and Cambridge
+Eu71z00;Intellectual disability;60473;[X]Mod mental retardation without mention impairment behav;Diagnosis of Intellectual disability;readcode;Kuan and Cambridge
+Eu72.00;Intellectual disability;36143;[X]Severe mental retardation;Diagnosis of Intellectual disability;readcode;Kuan and Cambridge
+Eu72.11;Intellectual disability;27691;[X]Severe mental subnormality;Diagnosis of Intellectual disability;readcode;Kuan and Cambridge
+Eu72000;Intellectual disability;50947;[X]Sev mental retard with statement no or min impairm behav;Diagnosis of Intellectual disability;readcode;Kuan and Cambridge
+Eu72100;Intellectual disability;50751;[X]Sev mental retard sig impairment behav req attent/treatmt;Diagnosis of Intellectual disability;readcode;Kuan and Cambridge
+Eu72y00;Intellectual disability;55848;[X]Severe mental retardation, other impairments of behaviour;Diagnosis of Intellectual disability;readcode;Kuan and Cambridge
+Eu72z00;Intellectual disability;55560;[X]Sev mental retardation without mention impairment behav;Diagnosis of Intellectual disability;readcode;Kuan and Cambridge
+Eu73.00;Intellectual disability;51268;[X]Profound mental retardation;Diagnosis of Intellectual disability;readcode;Kuan and Cambridge
+Eu73.11;Intellectual disability;65468;[X]Profound mental subnormality;Diagnosis of Intellectual disability;readcode;Kuan and Cambridge
+Eu73000;Intellectual disability;70102;[X]Profound ment retrd wth statement no or min impairm behav;Diagnosis of Intellectual disability;readcode;Kuan and Cambridge
+Eu73100;Intellectual disability;98100;[X]Profound ment retard sig impairmnt behav req attent/treat;Diagnosis of Intellectual disability;readcode;Kuan and Cambridge
+Eu73y00;Intellectual disability;90276;[X]Profound mental retardation, other impairments of behavr;Diagnosis of Intellectual disability;readcode;Kuan and Cambridge
+Eu73z00;Intellectual disability;60062;[X]Prfnd mental retardation without mention impairment behav;Diagnosis of Intellectual disability;readcode;Kuan and Cambridge
+Eu7y.00;Intellectual disability;71196;[X]Other mental retardation;Diagnosis of Intellectual disability;readcode;Kuan and Cambridge
+Eu7y000;Intellectual disability;70008;[X]Oth mental retard with statement no or min impairm behav;Diagnosis of Intellectual disability;readcode;Kuan and Cambridge
+Eu7y100;Intellectual disability;56547;[X]Oth mental retard sig impairment behav req attent/treatmt;Diagnosis of Intellectual disability;readcode;Kuan and Cambridge
+Eu7yy00;Intellectual disability;42520;[X]Other mental retardation, other impairments of behaviour;Diagnosis of Intellectual disability;readcode;Kuan and Cambridge
+Eu7yz00;Intellectual disability;63273;[X]Other mental retardation without mention impairment behav;Diagnosis of Intellectual disability;readcode;Kuan and Cambridge
+Eu7z.00;Intellectual disability;42589;[X]Unspecified mental retardation;Diagnosis of Intellectual disability;readcode;Kuan and Cambridge
+Eu7z.11;Intellectual disability;37887;[X]Mental deficiency NOS;Diagnosis of Intellectual disability;readcode;Kuan and Cambridge
+Eu7z.12;Intellectual disability;37911;[X]Mental subnormality NOS;Diagnosis of Intellectual disability;readcode;Kuan and Cambridge
+Eu7z000;Intellectual disability;42886;[X]Unsp mental retard with statement no or min impairm behav;Diagnosis of Intellectual disability;readcode;Kuan and Cambridge
+Eu7z100;Intellectual disability;66783;[X]Unsp mentl retard sig impairment behav req attent/treatmt;Diagnosis of Intellectual disability;readcode;Kuan and Cambridge
+Eu7zy00;Intellectual disability;66383;[X]Unspecified mental retardatn, other impairments of behav;Diagnosis of Intellectual disability;readcode;Kuan and Cambridge
+Eu7zz00;Intellectual disability;32820;[X]Unsp mental retardation without mention impairment behav;Diagnosis of Intellectual disability;readcode;Kuan and Cambridge
+Eu81400;Intellectual disability;98342;[X]Moderate learning disability;Diagnosis of Intellectual disability;readcode;Kuan and Cambridge
+Eu81500;Intellectual disability;98293;[X]Severe learning disability;Diagnosis of Intellectual disability;readcode;Kuan and Cambridge
+Eu81600;Intellectual disability;99774;[X]Mild learning disability;Diagnosis of Intellectual disability;readcode;Kuan and Cambridge
+Eu81700;Intellectual disability;100648;[X]Profound learning disability;Diagnosis of Intellectual disability;readcode;Kuan and Cambridge
+Eu81800;Intellectual disability;107968;[X]Specific learning disability;Diagnosis of Intellectual disability;NA;Kuan
+Eu81z00;Intellectual disability;6516;[X]Developmental disorder of scholastic skills, unspecified;Diagnosis of Intellectual disability;NA;Kuan
+Eu81z11;Intellectual disability;4477;[X]Learning disability NOS;Diagnosis of Intellectual disability;readcode;Kuan and Cambridge
+Eu81z12;Intellectual disability;16855;[X]Learning disorder NOS;Diagnosis of Intellectual disability;NA;Kuan
+Eu81z13;Intellectual disability;36045;[X]Learn acquisition disab NOS;Diagnosis of Intellectual disability;NA;Kuan
+Eu84.00;Intellectual disability;7226;[X]Pervasive developmental disorders;NA;readcode;Cambridge
+Eu84112;Intellectual disability;34174;[X]Mental retardation with autistic features;Diagnosis of Intellectual disability;readcode;Kuan and Cambridge
+Eu84400;Intellectual disability;52602;[X]Overactive disorder assoc mental retard/stereotype movts;Diagnosis of Intellectual disability;readcode;Kuan and Cambridge
+Eu84y00;Intellectual disability;47948;[X]Other pervasive developmental disorders;NA;readcode;Cambridge
+Eu84z00;Intellectual disability;44327;[X]Pervasive developmental disorder, unspecified;NA;readcode;Cambridge
+PJ0..00;Intellectual disability;1543;Down's syndrome - trisomy 21;NA;readcode;Cambridge
+PJ0..11;Intellectual disability;23489;Mongolism;NA;readcode;Cambridge
+PJ0..12;Intellectual disability;18415;Trisomy 21;NA;readcode;Cambridge
+PJ0z.00;Intellectual disability;10759;Down's syndrome NOS;NA;readcode;Cambridge
+PJ0z.11;Intellectual disability;61627;Trisomy 21 NOS;NA;readcode;Cambridge
+PJyy200;Intellectual disability;10628;Fragile X chromosome;NA;readcode;Cambridge
+PJyy400;Intellectual disability;32603;Fragile X syndrome;NA;readcode;Cambridge
+ZS34.11;Intellectual disability;19436;Learning disability;NA;readcode;Cambridge

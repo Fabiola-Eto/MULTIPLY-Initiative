@@ -1,0 +1,120 @@
+Readcode;Disease;Medcode;ReadcodeDescr;Category;CodingSystem;provenance
+136S.00;Alcohol Problems;19494;Hazardous alcohol use;Diagnosis of Alcohol Problems;readcode;Kuan and Cambridge
+136T.00;Alcohol Problems;30695;Harmful alcohol use;Diagnosis of Alcohol Problems;readcode;Kuan and Cambridge
+136W.00;Alcohol Problems;94670;Alcohol misuse;Diagnosis of Alcohol Problems;NA;Kuan
+13Y8.00;Alcohol Problems;18156;Alcoholics anonymous;Diagnosis of Alcohol Problems;NA;Kuan
+1462.00;Alcohol Problems;8430;H/O: alcoholism;History of Alcohol Problems;NA;Kuan
+1B1c.00;Alcohol Problems;38061;Alcohol induced hallucinations;Diagnosis of Alcohol Problems;NA;Kuan
+63C7.00;Alcohol Problems;17266;Maternal alcohol abuse;NA;readcode;Cambridge
+66e..00;Alcohol Problems;12442;Alcohol disorder monitoring;Diagnosis of Alcohol Problems;readcode;Kuan and Cambridge
+66e0.00;Alcohol Problems;32964;Alcohol abuse monitoring;Diagnosis of Alcohol Problems;readcode;Kuan and Cambridge
+7P22100;Alcohol Problems;56410;Delivery of rehabilitation for alcohol addiction;Diagnosis of Alcohol Problems;NA;Kuan
+8BA8.00;Alcohol Problems;2083;Alcohol detoxification;Diagnosis of Alcohol Problems;NA;Kuan
+8CAv.00;Alcohol Problems;97309;Advised to contact primary care alcohol worker;Diagnosis of Alcohol Problems;NA;Kuan
+8G32.00;Alcohol Problems;29691;Aversion therapy - alcoholism;Diagnosis of Alcohol Problems;NA;Kuan
+8H35.00;Alcohol Problems;21650;Admitted to alcohol detoxification centre;Diagnosis of Alcohol Problems;NA;Kuan
+8H7p.00;Alcohol Problems;9849;Referral to community alcohol team;Diagnosis of Alcohol Problems;NA;Kuan
+8HkG.00;Alcohol Problems;94553;Referral to specialist alcohol treatment service;Diagnosis of Alcohol Problems;NA;Kuan
+8HkJ.00;Alcohol Problems;96993;Referral to alcohol brief intervention service;Diagnosis of Alcohol Problems;NA;Kuan
+9k1..00;Alcohol Problems;11740;Alcohol misuse - enhanced services administration;Diagnosis of Alcohol Problems;NA;Kuan
+9k12.00;Alcohol Problems;63529;Alcohol misuse - enhanced service completed;Diagnosis of Alcohol Problems;NA;Kuan
+9k1A.00;Alcohol Problems;96053;Brief intervention for excessive alcohol consumptn completed;Diagnosis of Alcohol Problems;NA;Kuan
+9k1B.00;Alcohol Problems;96054;Extended intervention for excessive alcohol consumptn complt;Diagnosis of Alcohol Problems;NA;Kuan
+9NN2.00;Alcohol Problems;9489;Under care of community alcohol team;Diagnosis of Alcohol Problems;NA;Kuan
+C150500;Alcohol Problems;65754;Alcohol-induced pseudo-Cushing's syndrome;Diagnosis of Alcohol Problems;NA;Kuan
+C251.11;Alcohol Problems;4501;Wernicke's encephalopathy;Diagnosis of Alcohol Problems;NA;Kuan
+C253.00;Alcohol Problems;11107;Wernicke's encephalopathy;Diagnosis of Alcohol Problems;NA;Kuan
+E01..00;Alcohol Problems;16237;Alcoholic psychoses;Diagnosis of Alcohol Problems;readcode;Kuan and Cambridge
+E010.00;Alcohol Problems;16225;Alcohol withdrawal delirium;Diagnosis of Alcohol Problems;readcode;Kuan and Cambridge
+E010.11;Alcohol Problems;22277;DTs - delirium tremens;Diagnosis of Alcohol Problems;NA;Kuan
+E010.12;Alcohol Problems;1476;Delirium tremens;Diagnosis of Alcohol Problems;NA;Kuan
+E011.00;Alcohol Problems;20762;Alcohol amnestic syndrome;Diagnosis of Alcohol Problems;readcode;Kuan and Cambridge
+E011000;Alcohol Problems;4500;Korsakov's alcoholic psychosis;Diagnosis of Alcohol Problems;readcode;Kuan and Cambridge
+E011100;Alcohol Problems;11106;Korsakov's alcoholic psychosis with peripheral neuritis;Diagnosis of Alcohol Problems;readcode;Kuan and Cambridge
+E011200;Alcohol Problems;18636;Wernicke-Korsakov syndrome;Diagnosis of Alcohol Problems;readcode;Kuan and Cambridge
+E011z00;Alcohol Problems;41920;Alcohol amnestic syndrome NOS;Diagnosis of Alcohol Problems;readcode;Kuan and Cambridge
+E012.00;Alcohol Problems;54505;Other alcoholic dementia;Diagnosis of Alcohol Problems;readcode;Kuan and Cambridge
+E012.11;Alcohol Problems;27342;Alcoholic dementia NOS;Diagnosis of Alcohol Problems;NA;Kuan
+E012000;Alcohol Problems;37946;Chronic alcoholic brain syndrome;Diagnosis of Alcohol Problems;readcode;Kuan and Cambridge
+E013.00;Alcohol Problems;25110;Alcohol withdrawal hallucinosis;Diagnosis of Alcohol Problems;readcode;Kuan and Cambridge
+E014.00;Alcohol Problems;57939;Pathological alcohol intoxication;NA;readcode;Cambridge
+E015.00;Alcohol Problems;30404;Alcoholic paranoia;Diagnosis of Alcohol Problems;readcode;Kuan and Cambridge
+E01y.00;Alcohol Problems;33670;Other alcoholic psychosis;Diagnosis of Alcohol Problems;readcode;Kuan and Cambridge
+E01y000;Alcohol Problems;2082;Alcohol withdrawal syndrome;Diagnosis of Alcohol Problems;readcode;Kuan and Cambridge
+E01yz00;Alcohol Problems;68111;Other alcoholic psychosis NOS;Diagnosis of Alcohol Problems;readcode;Kuan and Cambridge
+E01z.00;Alcohol Problems;67651;Alcoholic psychosis NOS;Diagnosis of Alcohol Problems;readcode;Kuan and Cambridge
+E23..00;Alcohol Problems;2084;Alcohol dependence syndrome;Diagnosis of Alcohol Problems;readcode;Kuan and Cambridge
+E23..11;Alcohol Problems;2081;Alcoholism;Diagnosis of Alcohol Problems;NA;Kuan
+E23..12;Alcohol Problems;1399;Alcohol problem drinking;Diagnosis of Alcohol Problems;NA;Kuan
+E230.00;Alcohol Problems;5740;Acute alcoholic intoxication in alcoholism;Diagnosis of Alcohol Problems;readcode;Kuan and Cambridge
+E230.11;Alcohol Problems;57714;Alcohol dependence with acute alcoholic intoxication;Diagnosis of Alcohol Problems;NA;Kuan
+E230000;Alcohol Problems;40530;Acute alcoholic intoxication, unspecified, in alcoholism;Diagnosis of Alcohol Problems;readcode;Kuan and Cambridge
+E230100;Alcohol Problems;56947;Continuous acute alcoholic intoxication in alcoholism;Diagnosis of Alcohol Problems;readcode;Kuan and Cambridge
+E230200;Alcohol Problems;21624;Episodic acute alcoholic intoxication in alcoholism;Diagnosis of Alcohol Problems;readcode;Kuan and Cambridge
+E230300;Alcohol Problems;59574;Acute alcoholic intoxication in remission, in alcoholism;Diagnosis of Alcohol Problems;readcode;Kuan and Cambridge
+E230z00;Alcohol Problems;36296;Acute alcoholic intoxication in alcoholism NOS;Diagnosis of Alcohol Problems;readcode;Kuan and Cambridge
+E231.00;Alcohol Problems;31443;Chronic alcoholism;Diagnosis of Alcohol Problems;readcode;Kuan and Cambridge
+E231.11;Alcohol Problems;37605;Dipsomania;Diagnosis of Alcohol Problems;NA;Kuan
+E231000;Alcohol Problems;43193;Unspecified chronic alcoholism;Diagnosis of Alcohol Problems;readcode;Kuan and Cambridge
+E231100;Alcohol Problems;24064;Continuous chronic alcoholism;Diagnosis of Alcohol Problems;readcode;Kuan and Cambridge
+E231200;Alcohol Problems;26106;Episodic chronic alcoholism;Diagnosis of Alcohol Problems;readcode;Kuan and Cambridge
+E231300;Alcohol Problems;24485;Chronic alcoholism in remission;Diagnosis of Alcohol Problems;readcode;Kuan and Cambridge
+E231z00;Alcohol Problems;33635;Chronic alcoholism NOS;Diagnosis of Alcohol Problems;readcode;Kuan and Cambridge
+E23z.00;Alcohol Problems;6169;Alcohol dependence syndrome NOS;Diagnosis of Alcohol Problems;readcode;Kuan and Cambridge
+E250.00;Alcohol Problems;7746;Nondependent alcohol abuse;NA;readcode;Cambridge
+E250000;Alcohol Problems;669;Nondependent alcohol abuse, unspecified;NA;readcode;Cambridge
+E250100;Alcohol Problems;23610;Nondependent alcohol abuse, continuous;NA;readcode;Cambridge
+E250200;Alcohol Problems;12974;Nondependent alcohol abuse, episodic;NA;readcode;Cambridge
+E250300;Alcohol Problems;31569;Nondependent alcohol abuse in remission;NA;readcode;Cambridge
+E250z00;Alcohol Problems;28150;Nondependent alcohol abuse NOS;NA;readcode;Cambridge
+Eu10.00;Alcohol Problems;5611;[X]Mental and behavioural disorders due to use of alcohol;Diagnosis of Alcohol Problems;readcode;Kuan and Cambridge
+Eu10000;Alcohol Problems;44299;[X]Mental & behav dis due to use alcohol: acute intoxication;NA;readcode;Cambridge
+Eu10100;Alcohol Problems;21879;[X]Mental and behav dis due to use of alcohol: harmful use;Diagnosis of Alcohol Problems;readcode;Kuan and Cambridge
+Eu10200;Alcohol Problems;39327;[X]Mental and behav dis due to use alcohol: dependence syndr;Diagnosis of Alcohol Problems;readcode;Kuan and Cambridge
+Eu10211;Alcohol Problems;28780;[X]Alcohol addiction;Diagnosis of Alcohol Problems;NA;Kuan
+Eu10212;Alcohol Problems;5758;[X]Chronic alcoholism;Diagnosis of Alcohol Problems;NA;Kuan
+Eu10213;Alcohol Problems;69691;[X]Dipsomania;Diagnosis of Alcohol Problems;NA;Kuan
+Eu10300;Alcohol Problems;20514;[X]Mental and behav dis due to use alcohol: withdrawal state;Diagnosis of Alcohol Problems;readcode;Kuan and Cambridge
+Eu10400;Alcohol Problems;64101;[X]Men & behav dis due alcohl: withdrawl state with delirium;Diagnosis of Alcohol Problems;readcode;Kuan and Cambridge
+Eu10411;Alcohol Problems;17259;[X]Delirium tremens, alcohol induced;Diagnosis of Alcohol Problems;NA;Kuan
+Eu10500;Alcohol Problems;12353;[X]Mental & behav dis due to use alcohol: psychotic disorder;Diagnosis of Alcohol Problems;readcode;Kuan and Cambridge
+Eu10511;Alcohol Problems;6467;[X]Alcoholic hallucinosis;Diagnosis of Alcohol Problems;NA;Kuan
+Eu10512;Alcohol Problems;65932;[X]Alcoholic jealousy;Diagnosis of Alcohol Problems;NA;Kuan
+Eu10513;Alcohol Problems;30162;[X]Alcoholic paranoia;Diagnosis of Alcohol Problems;NA;Kuan
+Eu10514;Alcohol Problems;17607;[X]Alcoholic psychosis NOS;Diagnosis of Alcohol Problems;NA;Kuan
+Eu10600;Alcohol Problems;39799;[X]Mental and behav dis due to use alcohol: amnesic syndrome;Diagnosis of Alcohol Problems;readcode;Kuan and Cambridge
+Eu10611;Alcohol Problems;11670;[X]Korsakov's psychosis, alcohol induced;Diagnosis of Alcohol Problems;NA;Kuan
+Eu10700;Alcohol Problems;62000;[X]Men & behav dis due alcoh: resid & late-onset psychot dis;Diagnosis of Alcohol Problems;readcode;Kuan and Cambridge
+Eu10711;Alcohol Problems;26323;[X]Alcoholic dementia NOS;Diagnosis of Alcohol Problems;NA;Kuan
+Eu10712;Alcohol Problems;37691;[X]Chronic alcoholic brain syndrome;Diagnosis of Alcohol Problems;NA;Kuan
+Eu10800;Alcohol Problems;32927;[X]Alcohol withdrawal-induced seizure;Diagnosis of Alcohol Problems;readcode;Kuan and Cambridge
+Eu10y00;Alcohol Problems;45169;[X]Men & behav dis due to use alcohol: oth men & behav dis;Diagnosis of Alcohol Problems;readcode;Kuan and Cambridge
+Eu10z00;Alcohol Problems;64389;[X]Ment & behav dis due use alcohol: unsp ment & behav dis;Diagnosis of Alcohol Problems;readcode;Kuan and Cambridge
+F11x000;Alcohol Problems;47555;Cerebral degeneration due to alcoholism;Diagnosis of Alcohol Problems;NA;Kuan
+F11x011;Alcohol Problems;36748;Alcoholic encephalopathy;Diagnosis of Alcohol Problems;NA;Kuan
+F144000;Alcohol Problems;33839;Cerebellar ataxia due to alcoholism;Diagnosis of Alcohol Problems;NA;Kuan
+F25B.00;Alcohol Problems;30604;Alcohol-induced epilepsy;Diagnosis of Alcohol Problems;NA;Kuan
+F375.00;Alcohol Problems;2925;Alcoholic polyneuropathy;Diagnosis of Alcohol Problems;NA;Kuan
+F394100;Alcohol Problems;31742;Alcoholic myopathy;Diagnosis of Alcohol Problems;NA;Kuan
+G555.00;Alcohol Problems;4915;Alcoholic cardiomyopathy;Diagnosis of Alcohol Problems;NA;Kuan
+G852300;Alcohol Problems;8363;Oesophageal varices in alcoholic cirrhosis of the liver;Diagnosis of Alcohol Problems;NA;Kuan
+J153.00;Alcohol Problems;4506;Alcoholic gastritis;Diagnosis of Alcohol Problems;NA;Kuan
+J610.00;Alcohol Problems;10691;Alcoholic fatty liver;Diagnosis of Alcohol Problems;NA;Kuan
+J611.00;Alcohol Problems;3216;Acute alcoholic hepatitis;Diagnosis of Alcohol Problems;NA;Kuan
+J612.00;Alcohol Problems;4743;Alcoholic cirrhosis of liver;Diagnosis of Alcohol Problems;NA;Kuan
+J612000;Alcohol Problems;21713;Alcoholic fibrosis and sclerosis of liver;Diagnosis of Alcohol Problems;NA;Kuan
+J613.00;Alcohol Problems;7885;Alcoholic liver damage unspecified;Diagnosis of Alcohol Problems;NA;Kuan
+J613000;Alcohol Problems;17330;Alcoholic hepatic failure;Diagnosis of Alcohol Problems;NA;Kuan
+J617.00;Alcohol Problems;7943;Alcoholic hepatitis;Diagnosis of Alcohol Problems;NA;Kuan
+J617000;Alcohol Problems;7602;Chronic alcoholic hepatitis;Diagnosis of Alcohol Problems;NA;Kuan
+J670800;Alcohol Problems;104611;Alcohol-induced acute pancreatitis;Diagnosis of Alcohol Problems;NA;Kuan
+J671000;Alcohol Problems;24984;Alcohol-induced chronic pancreatitis;Diagnosis of Alcohol Problems;NA;Kuan
+Z191.00;Alcohol Problems;41983;Alcohol detoxification;Diagnosis of Alcohol Problems;readcode;Kuan and Cambridge
+Z191100;Alcohol Problems;46677;Alcohol withdrawal regime;Diagnosis of Alcohol Problems;NA;Kuan
+Z191200;Alcohol Problems;61383;Planned reduction of alcohol consumption;Diagnosis of Alcohol Problems;NA;Kuan
+Z191211;Alcohol Problems;95181;Alcohol reduction programme;Diagnosis of Alcohol Problems;NA;Kuan
+Z4B1.00;Alcohol Problems;30460;Alcoholism counselling;Diagnosis of Alcohol Problems;NA;Kuan
+ZV11300;Alcohol Problems;7123;[V]Personal history of alcoholism;History of Alcohol Problems;NA;Kuan
+ZV11311;Alcohol Problems;16587;[V]Problems related to lifestyle alcohol use;Diagnosis of Alcohol Problems;NA;Kuan
+ZV57A00;Alcohol Problems;8388;[V]Alcohol rehabilitation;Diagnosis of Alcohol Problems;NA;Kuan
+ZV6D600;Alcohol Problems;8030;[V]Alcohol abuse counselling and surveillance;Diagnosis of Alcohol Problems;NA;Kuan

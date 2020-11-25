@@ -1,0 +1,236 @@
+Readcode;Disease;Medcode;ReadcodeDescr;Category;CodingSystem;Provencance
+1466.00;Anxiety disorders;3407;H/O: anxiety state;History of Anxiety disorders;NA;Kuan
+146G.00;Anxiety disorders;11764;H/O: agoraphobia;History of Anxiety disorders;NA;Kuan
+1B1H.11;Anxiety disorders;5347;Fear;Diagnosis of Anxiety disorders;NA;Kuan
+1B1V.00;Anxiety disorders;11890;C/O - panic attack;Diagnosis of Anxiety disorders;NA;Kuan
+1Bb..00;Anxiety disorders;18672;Specific fear;Diagnosis of Anxiety disorders;NA;Kuan
+225J.00;Anxiety disorders;19000;O/E - panic attack;Diagnosis of Anxiety disorders;NA;Kuan
+225K.00;Anxiety disorders;26331;O/E - fearful mood;Diagnosis of Anxiety disorders;NA;Kuan
+285..00;Anxiety disorders;15811;Neurotic condition, insight present;Diagnosis of Anxiety disorders;NA;Kuan
+286..00;Anxiety disorders;5274;Poor insight into neurotic condition;Diagnosis of Anxiety disorders;NA;Kuan
+8G52.00;Anxiety disorders;63521;Antiphobic therapy;Diagnosis of Anxiety disorders;NA;Kuan
+8G94.00;Anxiety disorders;9125;Anxiety management training;Diagnosis of Anxiety disorders;readcode;Kuan and Cambridge
+8HHp.00;Anxiety disorders;28925;Referral for guided self-help for anxiety;Diagnosis of Anxiety disorders;NA;Kuan
+9N54.00;Anxiety disorders;53067;Encounter for fear;Diagnosis of Anxiety disorders;NA;Kuan
+E2...00;Anxiety disorders;9686;Neurotic, personality and other nonpsychotic disorders;NA;readcode;Cambridge
+E20..00;Anxiety disorders;5249;Neurotic disorders;Diagnosis of Anxiety disorders;readcode;Kuan and Cambridge
+E200.00;Anxiety disorders;636;Anxiety states;Diagnosis of Anxiety disorders;readcode;Kuan and Cambridge
+E200000;Anxiety disorders;6939;Anxiety state unspecified;Diagnosis of Anxiety disorders;readcode;Kuan and Cambridge
+E200100;Anxiety disorders;4069;Panic disorder;Diagnosis of Anxiety disorders;readcode;Kuan and Cambridge
+E200111;Anxiety disorders;462;Panic attack;Diagnosis of Anxiety disorders;NA;Kuan
+E200200;Anxiety disorders;4659;Generalised anxiety disorder;Diagnosis of Anxiety disorders;readcode;Kuan and Cambridge
+E200300;Anxiety disorders;655;Anxiety with depression;Diagnosis of Anxiety disorders;readcode;Kuan and Cambridge
+E200400;Anxiety disorders;1758;Chronic anxiety;Diagnosis of Anxiety disorders;readcode;Kuan and Cambridge
+E200500;Anxiety disorders;4634;Recurrent anxiety;Diagnosis of Anxiety disorders;readcode;Kuan and Cambridge
+E200z00;Anxiety disorders;4534;Anxiety state NOS;Diagnosis of Anxiety disorders;readcode;Kuan and Cambridge
+E201.00;Anxiety disorders;2188;Hysteria;NA;readcode;Cambridge
+E201000;Anxiety disorders;41572;Hysteria unspecified;NA;readcode;Cambridge
+E201100;Anxiety disorders;3438;Hysterical blindness;NA;readcode;Cambridge
+E201200;Anxiety disorders;44739;Hysterical deafness;NA;readcode;Cambridge
+E201300;Anxiety disorders;23598;Hysterical tremor;NA;readcode;Cambridge
+E201400;Anxiety disorders;34696;Hysterical paralysis;NA;readcode;Cambridge
+E201500;Anxiety disorders;16484;Hysterical seizures;NA;readcode;Cambridge
+E201600;Anxiety disorders;15431;Other conversion disorder;NA;readcode;Cambridge
+E201700;Anxiety disorders;4269;Hysterical amnesia;NA;readcode;Cambridge
+E201800;Anxiety disorders;4775;Hysterical fugue;NA;readcode;Cambridge
+E201900;Anxiety disorders;43302;Multiple personality;NA;readcode;Cambridge
+E201A00;Anxiety disorders;23490;Dissociative reaction unspecified;NA;readcode;Cambridge
+E201B00;Anxiety disorders;29322;Compensation neurosis;Diagnosis of Anxiety disorders;readcode;Kuan and Cambridge
+E201C00;Anxiety disorders;24525;Phantom pregnancy;NA;readcode;Cambridge
+E201z00;Anxiety disorders;23354;Hysteria NOS;NA;readcode;Cambridge
+E202.00;Anxiety disorders;1907;Phobic disorders;Diagnosis of Anxiety disorders;readcode;Kuan and Cambridge
+E202.11;Anxiety disorders;16638;Social phobic disorders;Diagnosis of Anxiety disorders;NA;Kuan
+E202.12;Anxiety disorders;9944;Phobic anxiety;Diagnosis of Anxiety disorders;NA;Kuan
+E202000;Anxiety disorders;2300;Phobia unspecified;Diagnosis of Anxiety disorders;readcode;Kuan and Cambridge
+E202100;Anxiety disorders;3076;Agoraphobia with panic attacks;Diagnosis of Anxiety disorders;readcode;Kuan and Cambridge
+E202200;Anxiety disorders;12838;Agoraphobia without mention of panic attacks;Diagnosis of Anxiety disorders;readcode;Kuan and Cambridge
+E202300;Anxiety disorders;16199;Social phobia, fear of eating in public;Diagnosis of Anxiety disorders;readcode;Kuan and Cambridge
+E202400;Anxiety disorders;31957;Social phobia, fear of public speaking;Diagnosis of Anxiety disorders;readcode;Kuan and Cambridge
+E202500;Anxiety disorders;18603;Social phobia, fear of public washing;Diagnosis of Anxiety disorders;readcode;Kuan and Cambridge
+E202600;Anxiety disorders;28106;Acrophobia;Diagnosis of Anxiety disorders;readcode;Kuan and Cambridge
+E202700;Anxiety disorders;28938;Animal phobia;Diagnosis of Anxiety disorders;readcode;Kuan and Cambridge
+E202800;Anxiety disorders;1723;Claustrophobia;Diagnosis of Anxiety disorders;readcode;Kuan and Cambridge
+E202900;Anxiety disorders;31672;Fear of crowds;Diagnosis of Anxiety disorders;readcode;Kuan and Cambridge
+E202A00;Anxiety disorders;4167;Fear of flying;Diagnosis of Anxiety disorders;readcode;Kuan and Cambridge
+E202B00;Anxiety disorders;1510;Cancer phobia;Diagnosis of Anxiety disorders;readcode;Kuan and Cambridge
+E202C00;Anxiety disorders;2366;Dental phobia;Diagnosis of Anxiety disorders;readcode;Kuan and Cambridge
+E202D00;Anxiety disorders;10390;Fear of death;Diagnosis of Anxiety disorders;readcode;Kuan and Cambridge
+E202E00;Anxiety disorders;6071;Fear of pregnancy;Diagnosis of Anxiety disorders;readcode;Kuan and Cambridge
+E202z00;Anxiety disorders;14729;Phobic disorder NOS;Diagnosis of Anxiety disorders;readcode;Kuan and Cambridge
+E203.00;Anxiety disorders;3208;Obsessive-compulsive disorders;NA;readcode;Cambridge
+E203000;Anxiety disorders;5678;Compulsive neurosis;NA;readcode;Cambridge
+E203100;Anxiety disorders;2030;Obsessional neurosis;NA;readcode;Cambridge
+E203z00;Anxiety disorders;15566;Obsessive-compulsive disorder NOS;NA;readcode;Cambridge
+E205.00;Anxiety disorders;3361;Neurasthenia - nervous debility;NA;readcode;Cambridge
+E206.00;Anxiety disorders;5305;Depersonalisation syndrome;NA;readcode;Cambridge
+E207.00;Anxiety disorders;966;Hypochondriasis;NA;readcode;Cambridge
+E20y.00;Anxiety disorders;42000;Other neurotic disorders;Diagnosis of Anxiety disorders;readcode;Kuan and Cambridge
+E20y000;Anxiety disorders;15321;Somatization disorder;NA;readcode;Cambridge
+E20y100;Anxiety disorders;3685;Writer's cramp neurosis;Diagnosis of Anxiety disorders;readcode;Kuan and Cambridge
+E20y200;Anxiety disorders;39518;Other occupational neurosis;Diagnosis of Anxiety disorders;readcode;Kuan and Cambridge
+E20y300;Anxiety disorders;72171;Psychasthenic neurosis;Diagnosis of Anxiety disorders;readcode;Kuan and Cambridge
+E20yz00;Anxiety disorders;43050;Other neurotic disorder NOS;Diagnosis of Anxiety disorders;readcode;Kuan and Cambridge
+E20z.00;Anxiety disorders;14780;Neurotic disorder NOS;Diagnosis of Anxiety disorders;readcode;Kuan and Cambridge
+E21..00;Anxiety disorders;2076;Personality disorders;NA;readcode;Cambridge
+E210.00;Anxiety disorders;5652;Paranoid personality disorder;NA;readcode;Cambridge
+E211.00;Anxiety disorders;14979;Affective personality disorder;NA;readcode;Cambridge
+E211000;Anxiety disorders;16178;Unspecified affective personality disorder;NA;readcode;Cambridge
+E211100;Anxiety disorders;12228;Hypomanic personality disorder;NA;readcode;Cambridge
+E211200;Anxiety disorders;10455;Depressive personality disorder;NA;readcode;Cambridge
+E211300;Anxiety disorders;12707;Cyclothymic personality disorder;NA;readcode;Cambridge
+E211z00;Anxiety disorders;51497;Affective personality disorder NOS;NA;readcode;Cambridge
+E26..00;Anxiety disorders;4199;Physiological malfunction arising from mental factors;NA;readcode;Cambridge
+E260.00;Anxiety disorders;44212;Psychogenic musculoskeletal symptoms;NA;readcode;Cambridge
+E260000;Anxiety disorders;48561;Psychogenic paralysis;NA;readcode;Cambridge
+E260100;Anxiety disorders;56800;Psychogenic torticollis;NA;readcode;Cambridge
+E260z00;Anxiety disorders;15035;Psychogenic musculoskeletal symptoms NOS;NA;readcode;Cambridge
+E261.00;Anxiety disorders;38134;Psychogenic respiratory symptoms;NA;readcode;Cambridge
+E261000;Anxiety disorders;32034;Psychogenic air hunger;NA;readcode;Cambridge
+E261100;Anxiety disorders;15483;Psychogenic cough;NA;readcode;Cambridge
+E261200;Anxiety disorders;47809;Psychogenic hiccough;NA;readcode;Cambridge
+E261300;Anxiety disorders;20053;Psychogenic hyperventilation;NA;readcode;Cambridge
+E261400;Anxiety disorders;23413;Psychogenic yawning;NA;readcode;Cambridge
+E261500;Anxiety disorders;41615;Psychogenic aphonia;NA;readcode;Cambridge
+E261z00;Anxiety disorders;34664;Psychogenic respiratory symptom NOS;NA;readcode;Cambridge
+E262.00;Anxiety disorders;29448;Psychogenic cardiovascular symptoms;NA;readcode;Cambridge
+E262000;Anxiety disorders;15292;Cardiac neurosis;NA;readcode;Cambridge
+E262200;Anxiety disorders;15284;Neurocirculatory asthenia;NA;readcode;Cambridge
+E262300;Anxiety disorders;30961;Psychogenic cardiovascular disorder;NA;readcode;Cambridge
+E262z00;Anxiety disorders;15034;Psychogenic cardiovascular symptom NOS;NA;readcode;Cambridge
+E263.00;Anxiety disorders;29461;Psychogenic skin symptoms;NA;readcode;Cambridge
+E263000;Anxiety disorders;15959;Psychogenic pruritus;NA;readcode;Cambridge
+E263z00;Anxiety disorders;15224;Psychogenic skin symptoms NOS;NA;readcode;Cambridge
+E264.00;Anxiety disorders;31422;Psychogenic gastrointestinal tract symptoms;NA;readcode;Cambridge
+E264000;Anxiety disorders;4963;Psychogenic aerophagy;NA;readcode;Cambridge
+E264200;Anxiety disorders;2871;Cyclical vomiting - psychogenic;NA;readcode;Cambridge
+E264300;Anxiety disorders;15371;Psychogenic diarrhoea;NA;readcode;Cambridge
+E264400;Anxiety disorders;3869;Psychogenic dyspepsia;NA;readcode;Cambridge
+E264500;Anxiety disorders;15939;Psychogenic constipation;NA;readcode;Cambridge
+E264z00;Anxiety disorders;71437;Psychogenic gastrointestinal tract symptom NOS;NA;readcode;Cambridge
+E265.00;Anxiety disorders;68379;Psychogenic genitourinary tract symptoms;NA;readcode;Cambridge
+E265100;Anxiety disorders;20109;Psychogenic vaginismus;NA;readcode;Cambridge
+E265200;Anxiety disorders;44547;Psychogenic dysmenorrhea;NA;readcode;Cambridge
+E265300;Anxiety disorders;55781;Psychogenic dysuria;NA;readcode;Cambridge
+E265z00;Anxiety disorders;73547;Psychogenic genitourinary tract symptom NOS;NA;readcode;Cambridge
+E267.00;Anxiety disorders;89237;Psychogenic symptom of special sense organ;NA;readcode;Cambridge
+E26y.00;Anxiety disorders;62400;Other psychogenic malfunction;NA;readcode;Cambridge
+E26y000;Anxiety disorders;10001;Bruxism (teeth grinding);NA;readcode;Cambridge
+E26yz00;Anxiety disorders;96391;Other psychogenic malfunction NOS;NA;readcode;Cambridge
+E26z.00;Anxiety disorders;5067;Psychosomatic disorder NOS;NA;readcode;Cambridge
+E278.00;Anxiety disorders;40311;Psychalgia;NA;readcode;Cambridge
+E278000;Anxiety disorders;53766;Psychogenic pain unspecified;NA;readcode;Cambridge
+E278100;Anxiety disorders;191;Tension headache;NA;readcode;Cambridge
+E278200;Anxiety disorders;45205;Psychogenic backache;NA;readcode;Cambridge
+E278z00;Anxiety disorders;54373;Psychalgia NOS;NA;readcode;Cambridge
+E28..00;Anxiety disorders;276;Acute reaction to stress;NA;readcode;Cambridge
+E280.00;Anxiety disorders;11940;Acute panic state due to acute stress reaction;NA;readcode;Cambridge
+E281.00;Anxiety disorders;42737;Acute fugue state due to acute stress reaction;NA;readcode;Cambridge
+E282.00;Anxiety disorders;15551;Acute stupor state due to acute stress reaction;NA;readcode;Cambridge
+E283.00;Anxiety disorders;38640;Other acute stress reactions;NA;readcode;Cambridge
+E283000;Anxiety disorders;20245;Acute situational disturbance;NA;readcode;Cambridge
+E283100;Anxiety disorders;24847;Acute posttrauma stress state;NA;readcode;Cambridge
+E283z00;Anxiety disorders;29707;Other acute stress reaction NOS;NA;readcode;Cambridge
+E284.00;Anxiety disorders;23869;Stress reaction causing mixed disturbance of emotion/conduct;NA;readcode;Cambridge
+E28z.00;Anxiety disorders;26138;Acute stress reaction NOS;NA;readcode;Cambridge
+E29..00;Anxiety disorders;2826;Adjustment reaction;NA;readcode;Cambridge
+E290000;Anxiety disorders;2775;Grief reaction;NA;readcode;Cambridge
+E292.00;Anxiety disorders;24212;Adjustment reaction, predominant disturbance other emotions;NA;readcode;Cambridge
+E292000;Anxiety disorders;6221;Separation anxiety disorder;NA;readcode;Cambridge
+E292100;Anxiety disorders;23327;Adolescent emancipation disorder;NA;readcode;Cambridge
+E292200;Anxiety disorders;54658;Early adult emancipation disorder;NA;readcode;Cambridge
+E292311;Anxiety disorders;67304;Specific academic or work inhibition;NA;readcode;Cambridge
+E292400;Anxiety disorders;56924;Adjustment reaction with anxious mood;NA;readcode;Cambridge
+E292500;Anxiety disorders;58013;Culture shock;NA;readcode;Cambridge
+E292y00;Anxiety disorders;48588;Adjustment reaction with mixed disturbance of emotion;NA;readcode;Cambridge
+E292z00;Anxiety disorders;15665;Adjustment reaction with disturbance of other emotion NOS;NA;readcode;Cambridge
+E293.00;Anxiety disorders;16415;Adjustment reaction with predominant disturbance of conduct;NA;readcode;Cambridge
+E293000;Anxiety disorders;6075;Adjustment reaction with aggression;NA;readcode;Cambridge
+E293100;Anxiety disorders;35914;Adjustment reaction with antisocial behaviour;NA;readcode;Cambridge
+E293200;Anxiety disorders;66398;Adjustment reaction with destructiveness;NA;readcode;Cambridge
+E293z00;Anxiety disorders;104891;Adjustment reaction with predominant disturbance conduct NOS;NA;readcode;Cambridge
+E294.00;Anxiety disorders;45603;Adjustment reaction with disturbance emotion and conduct;NA;readcode;Cambridge
+E29y.00;Anxiety disorders;41455;Other adjustment reactions;NA;readcode;Cambridge
+E29y000;Anxiety disorders;53362;Concentration camp syndrome;NA;readcode;Cambridge
+E29y100;Anxiety disorders;32387;Other post-traumatic stress disorder;NA;readcode;Cambridge
+E29y200;Anxiety disorders;35632;Adjustment reaction with physical symptoms;NA;readcode;Cambridge
+E29y300;Anxiety disorders;7716;Elective mutism due to an adjustment reaction;NA;readcode;Cambridge
+E29y400;Anxiety disorders;27390;Adjustment reaction due to hospitalisation;NA;readcode;Cambridge
+E29y500;Anxiety disorders;19921;Other adjustment reaction with withdrawal;NA;readcode;Cambridge
+E29yz00;Anxiety disorders;23462;Other adjustment reactions NOS;NA;readcode;Cambridge
+E29z.00;Anxiety disorders;37669;Adjustment reaction NOS;NA;readcode;Cambridge
+Eu34111;Anxiety disorders;8584;[X]Depressive neurosis;Diagnosis of Anxiety disorders;NA;Kuan
+Eu34113;Anxiety disorders;7737;[X]Neurotic depression;Diagnosis of Anxiety disorders;NA;Kuan
+Eu34114;Anxiety disorders;15220;[X]Persistant anxiety depression;Diagnosis of Anxiety disorders;NA;Kuan
+Eu4..00;Anxiety disorders;23808;[X]Neurotic, stress - related and somoform disorders;NA;readcode;Cambridge
+Eu40.00;Anxiety disorders;9386;[X]Phobic anxiety disorders;Diagnosis of Anxiety disorders;readcode;Kuan and Cambridge
+Eu40000;Anxiety disorders;2571;[X]Agoraphobia;Diagnosis of Anxiety disorders;readcode;Kuan and Cambridge
+Eu40011;Anxiety disorders;16729;[X]Agoraphobia without history of panic disorder;Diagnosis of Anxiety disorders;NA;Kuan
+Eu40012;Anxiety disorders;14890;[X]Panic disorder with agoraphobia;Diagnosis of Anxiety disorders;NA;Kuan
+Eu40100;Anxiety disorders;11602;[X]Social phobias;Diagnosis of Anxiety disorders;readcode;Kuan and Cambridge
+Eu40112;Anxiety disorders;42788;[X]Social neurosis;Diagnosis of Anxiety disorders;NA;Kuan
+Eu40200;Anxiety disorders;9785;[X]Specific (isolated) phobias;Diagnosis of Anxiety disorders;readcode;Kuan and Cambridge
+Eu40211;Anxiety disorders;67965;[X]Acrophobia;Diagnosis of Anxiety disorders;NA;Kuan
+Eu40212;Anxiety disorders;18248;[X]Animal phobias;Diagnosis of Anxiety disorders;NA;Kuan
+Eu40213;Anxiety disorders;11280;[X]Claustrophobia;Diagnosis of Anxiety disorders;NA;Kuan
+Eu40214;Anxiety disorders;12635;[X]Simple phobia;Diagnosis of Anxiety disorders;NA;Kuan
+Eu40300;Anxiety disorders;12508;[X]Needle phobia;Diagnosis of Anxiety disorders;readcode;Kuan and Cambridge
+Eu40y00;Anxiety disorders;27685;[X]Other phobic anxiety disorders;Diagnosis of Anxiety disorders;readcode;Kuan and Cambridge
+Eu40z00;Anxiety disorders;34064;[X]Phobic anxiety disorder, unspecified;Diagnosis of Anxiety disorders;readcode;Kuan and Cambridge
+Eu40z11;Anxiety disorders;7222;[X]Phobia NOS;Diagnosis of Anxiety disorders;NA;Kuan
+Eu40z12;Anxiety disorders;67898;[X]Phobic state NOS;Diagnosis of Anxiety disorders;NA;Kuan
+Eu41.00;Anxiety disorders;5385;[X]Other anxiety disorders;Diagnosis of Anxiety disorders;readcode;Kuan and Cambridge
+Eu41000;Anxiety disorders;8205;[X]Panic disorder [episodic paroxysmal anxiety];Diagnosis of Anxiety disorders;readcode;Kuan and Cambridge
+Eu41011;Anxiety disorders;6408;[X]Panic attack;Diagnosis of Anxiety disorders;NA;Kuan
+Eu41012;Anxiety disorders;4081;[X]Panic state;Diagnosis of Anxiety disorders;NA;Kuan
+Eu41100;Anxiety disorders;10344;[X]Generalized anxiety disorder;Diagnosis of Anxiety disorders;readcode;Kuan and Cambridge
+Eu41111;Anxiety disorders;962;[X]Anxiety neurosis;Diagnosis of Anxiety disorders;NA;Kuan
+Eu41112;Anxiety disorders;35825;[X]Anxiety reaction;Diagnosis of Anxiety disorders;NA;Kuan
+Eu41113;Anxiety disorders;50191;[X]Anxiety state;Diagnosis of Anxiety disorders;NA;Kuan
+Eu41200;Anxiety disorders;11913;[X]Mixed anxiety and depressive disorder;Diagnosis of Anxiety disorders;readcode;Kuan and Cambridge
+Eu41211;Anxiety disorders;7749;[X]Mild anxiety depression;Diagnosis of Anxiety disorders;NA;Kuan
+Eu41300;Anxiety disorders;44321;[X]Other mixed anxiety disorders;Diagnosis of Anxiety disorders;readcode;Kuan and Cambridge
+Eu41y00;Anxiety disorders;24066;[X]Other specified anxiety disorders;Diagnosis of Anxiety disorders;readcode;Kuan and Cambridge
+Eu41y11;Anxiety disorders;28167;[X]Anxiety hysteria;Diagnosis of Anxiety disorders;NA;Kuan
+Eu41z00;Anxiety disorders;23838;[X]Anxiety disorder, unspecified;Diagnosis of Anxiety disorders;readcode;Kuan and Cambridge
+Eu41z11;Anxiety disorders;25638;[X]Anxiety NOS;Diagnosis of Anxiety disorders;NA;Kuan
+Eu42.00;Anxiety disorders;5304;[X]Obsessive - compulsive disorder;NA;readcode;Cambridge
+Eu42000;Anxiety disorders;20634;[X]Predominantly obsessional thoughts or ruminations;NA;readcode;Cambridge
+Eu42100;Anxiety disorders;22019;[X]Predominantly compulsive acts [obsessional rituals];NA;readcode;Cambridge
+Eu42200;Anxiety disorders;18399;[X]Mixed obsessional thoughts and acts;NA;readcode;Cambridge
+Eu42y00;Anxiety disorders;38809;[X]Other obsessive-compulsive disorders;NA;readcode;Cambridge
+Eu42z00;Anxiety disorders;22721;[X]Obsessive-compulsive disorder, unspecified;NA;readcode;Cambridge
+Eu43.00;Anxiety disorders;11098;[X]Reaction to severe stress, and adjustment disorders;NA;readcode;Cambridge
+Eu43000;Anxiety disorders;11607;[X]Acute stress reaction;NA;readcode;Cambridge
+Eu43100;Anxiety disorders;4171;[X]Post - traumatic stress disorder;NA;readcode;Cambridge
+Eu43200;Anxiety disorders;11336;[X]Adjustment disorders;NA;readcode;Cambridge
+Eu43y00;Anxiety disorders;21753;[X]Other reactions to severe stress;NA;readcode;Cambridge
+Eu43z00;Anxiety disorders;31515;[X]Reaction to severe stress, unspecified;NA;readcode;Cambridge
+Eu44.00;Anxiety disorders;22136;[X]Dissociative [conversion] disorders;NA;readcode;Cambridge
+Eu44000;Anxiety disorders;40994;[X]Dissociative amnesia;NA;readcode;Cambridge
+Eu44100;Anxiety disorders;39826;[X]Dissociative fugue;NA;readcode;Cambridge
+Eu44200;Anxiety disorders;56141;[X]Dissociative stupor;NA;readcode;Cambridge
+Eu44300;Anxiety disorders;39747;[X]Trance and possession disorders;NA;readcode;Cambridge
+Eu44400;Anxiety disorders;34978;[X]Dissociative motor disorders;NA;readcode;Cambridge
+Eu44500;Anxiety disorders;56966;[X]Dissociative convulsions;NA;readcode;Cambridge
+Eu44600;Anxiety disorders;27633;[X]Dissociative anaesthesia and sensory loss;NA;readcode;Cambridge
+Eu44700;Anxiety disorders;88758;[X]Mixed dissociative [conversion] disorders;NA;readcode;Cambridge
+Eu44y00;Anxiety disorders;64166;[X]Other dissociative [conversion] disorders;NA;readcode;Cambridge
+Eu44z00;Anxiety disorders;48906;[X]Dissociative [conversion] disorder, unspecified;NA;readcode;Cambridge
+Eu45.00;Anxiety disorders;18049;[X]Somatoform disorders;NA;readcode;Cambridge
+Eu45000;Anxiety disorders;24439;[X]Somatization disorder;NA;readcode;Cambridge
+Eu45100;Anxiety disorders;57877;[X]Undifferentiated somatoform disorder;NA;readcode;Cambridge
+Eu45200;Anxiety disorders;7537;[X]Hypochondriacal disorder;NA;readcode;Cambridge
+Eu45300;Anxiety disorders;41038;[X]Somatoform autonomic dysfunction;NA;readcode;Cambridge
+Eu45400;Anxiety disorders;30179;[X]Persistent somatoform pain disorder;NA;readcode;Cambridge
+Eu45500;Anxiety disorders;12453;[X]Globus pharyngeus;NA;readcode;Cambridge
+Eu45y00;Anxiety disorders;62002;[X]Other somatoform disorders;NA;readcode;Cambridge
+Eu45z00;Anxiety disorders;48671;[X]Somatoform disorder, unspecified;NA;readcode;Cambridge
+Eu46.00;Anxiety disorders;28090;[X]Other neurotic disorders;NA;readcode;Cambridge
+Eu46000;Anxiety disorders;16561;[X]Neurasthenia;NA;readcode;Cambridge
+Eu46100;Anxiety disorders;9265;[X]Depersonalization - derealization syndrome;NA;readcode;Cambridge
+Eu46y00;Anxiety disorders;44331;[X]Other specified neurotic disorders;NA;readcode;Cambridge
+Eu46z00;Anxiety disorders;49628;[X]Neurotic disorder, unspecified;NA;readcode;Cambridge
+Z481.00;Anxiety disorders;25749;Phobia counselling;Diagnosis of Anxiety disorders;NA;Kuan
+Z4L1.00;Anxiety disorders;7999;Anxiety counselling;Diagnosis of Anxiety disorders;NA;Kuan
+ZS7C700;Anxiety disorders;99609;Post-traumatic mutism;NA;readcode;Cambridge
+ZV11200;Anxiety disorders;51613;[V]Personal history of neurosis;History of Anxiety disorders;NA;Kuan

@@ -1,0 +1,155 @@
+Readcode;Disease;Medcode;ReadcodeDescr;Category;CodingSystem;Provenance
+1473.00;Epilepsy;3783;H/O: epilepsy;History of Epilepsy;NA;Kuan
+1B1W.00;Epilepsy;38919;Transient epileptic amnesia;History of Epilepsy;readcode;Kuan and Cambridge
+1O30.00;Epilepsy;22341;Epilepsy confirmed;Diagnosis of Epilepsy;NA;Kuan
+2126000;Epilepsy;8385;Epilepsy resolved;NA;readcode;Cambridge
+2126000.0;Epilepsy;8385;Epilepsy resolved;History of Epilepsy;NA;Kuan
+212J.00;Epilepsy;12848;Epilepsy resolved;History of Epilepsy;readcode;Kuan and Cambridge
+2932;Epilepsy;85082;NA;NA;readcode;Cambridge
+3032EP;Epilepsy;82462;NA;NA;readcode;Cambridge
+342 E;Epilepsy;89130;NA;NA;OXMIS;Cambridge
+3450;Epilepsy;78393;NA;NA;readcode;Cambridge
+3451;Epilepsy;76778;NA;NA;readcode;Cambridge
+3453AT;Epilepsy;87815;NA;NA;readcode;Cambridge
+3453P;Epilepsy;85350;NA;NA;readcode;Cambridge
+3453T;Epilepsy;74303;NA;NA;readcode;Cambridge
+3459A;Epilepsy;82399;NA;NA;readcode;Cambridge
+3459AB;Epilepsy;92813;NA;NA;readcode;Cambridge
+3459BA;Epilepsy;86106;NA;NA;readcode;Cambridge
+3459C;Epilepsy;84691;NA;NA;readcode;Cambridge
+3459CL;Epilepsy;88904;NA;NA;readcode;Cambridge
+3459D;Epilepsy;79623;NA;NA;readcode;Cambridge
+3459F;Epilepsy;74519;NA;NA;readcode;Cambridge
+3459M;Epilepsy;85904;NA;NA;readcode;Cambridge
+3459N;Epilepsy;74525;NA;NA;readcode;Cambridge
+3459R;Epilepsy;78769;NA;NA;readcode;Cambridge
+6110.00;Epilepsy;100652;Contraceptive advice for patients with epilepsy;History of Epilepsy;NA;Kuan
+667..00;Epilepsy;6983;Epilepsy monitoring;History of Epilepsy;readcode;Kuan and Cambridge
+6672.00;Epilepsy;26511;Follow-up epilepsy assessment;NA;readcode;Cambridge
+6674.00;Epilepsy;50012;Epilepsy associated problems;History of Epilepsy;readcode;Kuan and Cambridge
+6675.00;Epilepsy;8262;Fit frequency;NA;readcode;Cambridge
+6676.00;Epilepsy;7807;Last fit;NA;readcode;Cambridge
+6677.00;Epilepsy;13073;Epilepsy drug side effects;History of Epilepsy;NA;Kuan
+6678.00;Epilepsy;26512;Epilepsy treatment changed;History of Epilepsy;readcode;Kuan and Cambridge
+6679.00;Epilepsy;34473;Epilepsy treatment started;History of Epilepsy;readcode;Kuan and Cambridge
+667A.00;Epilepsy;20566;Epilepsy treatment stopped;History of Epilepsy;readcode;Kuan and Cambridge
+667B.00;Epilepsy;4602;Nocturnal epilepsy;Diagnosis of Epilepsy;readcode;Kuan and Cambridge
+667C.00;Epilepsy;19550;Epilepsy control good;History of Epilepsy;readcode;Kuan and Cambridge
+667D.00;Epilepsy;13220;Epilepsy control poor;History of Epilepsy;readcode;Kuan and Cambridge
+667E.00;Epilepsy;19551;Epilepsy care arrangement;History of Epilepsy;readcode;Kuan and Cambridge
+667F.00;Epilepsy;11015;Seizure free >12 months;History of Epilepsy;readcode;Kuan and Cambridge
+667G.00;Epilepsy;26620;Epilepsy restricts employment;History of Epilepsy;readcode;Kuan and Cambridge
+667H.00;Epilepsy;50702;Epilepsy prevents employment;History of Epilepsy;readcode;Kuan and Cambridge
+667J.00;Epilepsy;40863;Epilepsy impairs education;History of Epilepsy;readcode;Kuan and Cambridge
+667K.00;Epilepsy;26619;Epilepsy limits activities;History of Epilepsy;readcode;Kuan and Cambridge
+667L.00;Epilepsy;19552;Epilepsy does not limit activities;History of Epilepsy;readcode;Kuan and Cambridge
+667M.00;Epilepsy;55706;Epilepsy management plan given;History of Epilepsy;readcode;Kuan and Cambridge
+667N.00;Epilepsy;22991;Epilepsy severity;History of Epilepsy;readcode;Kuan and Cambridge
+667P.00;Epilepsy;13219;No seizures on treatment;History of Epilepsy;readcode;Kuan and Cambridge
+667Q.00;Epilepsy;26618;1 to 12 seizures a year;History of Epilepsy;readcode;Kuan and Cambridge
+667R.00;Epilepsy;13221;2 to 4 seizures a month;History of Epilepsy;readcode;Kuan and Cambridge
+667S.00;Epilepsy;19549;1 to 7 seizures a week;History of Epilepsy;readcode;Kuan and Cambridge
+667T.00;Epilepsy;18899;Daily seizures;History of Epilepsy;readcode;Kuan and Cambridge
+667V.00;Epilepsy;39160;Many seizures a day;History of Epilepsy;readcode;Kuan and Cambridge
+667W.00;Epilepsy;46603;Emergency epilepsy treatment since last appointment;History of Epilepsy;readcode;Kuan and Cambridge
+667X.00;Epilepsy;52632;No epilepsy drug side effects;History of Epilepsy;readcode;Kuan and Cambridge
+667Z.00;Epilepsy;36696;Epilepsy monitoring NOS;History of Epilepsy;NA;Kuan
+67AF.00;Epilepsy;102359;Pregnancy advice for patients with epilepsy;History of Epilepsy;NA;Kuan
+67IJ000;Epilepsy;100920;Pre-conception advice for patients with epilepsy;History of Epilepsy;NA;Kuan
+8BIF.00;Epilepsy;9326;Epilepsy medication review;History of Epilepsy;readcode;Kuan and Cambridge
+8BL3.00;Epilepsy;11752;Patient on maximal tolerated anticonvulsant therapy;NA;readcode;Cambridge
+9N0r.00;Epilepsy;47117;Seen in epilepsy clinic;NA;readcode;Cambridge
+9N4V.00;Epilepsy;35217;DNA - Did not attend epilepsy clinic;NA;readcode;Cambridge
+9Of3.00;Epilepsy;45757;Epilepsy monitoring verbal invite;History of Epilepsy;NA;Kuan
+9Of4.00;Epilepsy;72384;Epilepsy monitoring telephone invite;History of Epilepsy;NA;Kuan
+9Of5.00;Epilepsy;98442;Epilepsy monitoring call first letter;History of Epilepsy;NA;Kuan
+9Of6.00;Epilepsy;98536;Epilepsy monitoring call second letter;History of Epilepsy;NA;Kuan
+9Of7.00;Epilepsy;98977;Epilepsy monitoring call third letter;History of Epilepsy;NA;Kuan
+Eu05212;Epilepsy;31877;[X]Schizophrenia-like psychosis in epilepsy;History of Epilepsy;readcode;Kuan and Cambridge
+Eu05y11;Epilepsy;6709;[X]Epileptic psychosis NOS;History of Epilepsy;readcode;Kuan and Cambridge
+Eu06013;Epilepsy;48462;[X]Limbic epilepsy personality;History of Epilepsy;readcode;Kuan and Cambridge
+Eu80300;Epilepsy;43679;[X]Acquired aphasia with epilepsy [Landau - Kleffner];Diagnosis of Epilepsy;readcode;Kuan and Cambridge
+F132100;Epilepsy;37644;Progressive myoclonic epilepsy;Diagnosis of Epilepsy;readcode;Kuan and Cambridge
+F132111;Epilepsy;63826;Unverricht - Lundborg disease;Diagnosis of Epilepsy;NA;Kuan
+F132200;Epilepsy;45602;Myoclonic encephalopathy;Diagnosis of Epilepsy;NA;Kuan
+F142200;Epilepsy;49737;Dyssynergia cerebellaris myoclonica;Diagnosis of Epilepsy;NA;Kuan
+F25..00;Epilepsy;573;Epilepsy;Diagnosis of Epilepsy;readcode;Kuan and Cambridge
+F250.00;Epilepsy;11186;Generalised nonconvulsive epilepsy;Diagnosis of Epilepsy;readcode;Kuan and Cambridge
+F250000;Epilepsy;2907;Petit mal (minor) epilepsy;Diagnosis of Epilepsy;readcode;Kuan and Cambridge
+F250011;Epilepsy;1715;Epileptic absences;Diagnosis of Epilepsy;readcode;Kuan and Cambridge
+F250100;Epilepsy;99548;Pykno-epilepsy;Diagnosis of Epilepsy;readcode;Kuan and Cambridge
+F250200;Epilepsy;24309;Epileptic seizures - atonic;Diagnosis of Epilepsy;readcode;Kuan and Cambridge
+F250300;Epilepsy;31830;Epileptic seizures - akinetic;Diagnosis of Epilepsy;readcode;Kuan and Cambridge
+F250400;Epilepsy;17399;Juvenile absence epilepsy;Diagnosis of Epilepsy;NA;Kuan
+F250500;Epilepsy;34792;Lennox-Gastaut syndrome;Diagnosis of Epilepsy;readcode;Kuan and Cambridge
+F250y00;Epilepsy;59185;Other specified generalised nonconvulsive epilepsy;Diagnosis of Epilepsy;readcode;Kuan and Cambridge
+F250z00;Epilepsy;44252;Generalised nonconvulsive epilepsy NOS;Diagnosis of Epilepsy;readcode;Kuan and Cambridge
+F251.00;Epilepsy;26144;Generalised convulsive epilepsy;Diagnosis of Epilepsy;readcode;Kuan and Cambridge
+F251000;Epilepsy;988;Grand mal (major) epilepsy;Diagnosis of Epilepsy;readcode;Kuan and Cambridge
+F251011;Epilepsy;22804;Tonic-clonic epilepsy;Diagnosis of Epilepsy;readcode;Kuan and Cambridge
+F251100;Epilepsy;37782;Neonatal myoclonic epilepsy;Diagnosis of Epilepsy;NA;Kuan
+F251111;Epilepsy;49340;Otohara syndrome;Diagnosis of Epilepsy;readcode;Kuan and Cambridge
+F251200;Epilepsy;18471;Epileptic seizures - clonic;Diagnosis of Epilepsy;readcode;Kuan and Cambridge
+F251300;Epilepsy;4801;Epileptic seizures - myoclonic;Diagnosis of Epilepsy;readcode;Kuan and Cambridge
+F251400;Epilepsy;5152;Epileptic seizures - tonic;Diagnosis of Epilepsy;readcode;Kuan and Cambridge
+F251500;Epilepsy;8187;Tonic-clonic epilepsy;Diagnosis of Epilepsy;readcode;Kuan and Cambridge
+F251y00;Epilepsy;45927;Other specified generalised convulsive epilepsy;Diagnosis of Epilepsy;readcode;Kuan and Cambridge
+F251z00;Epilepsy;40806;Generalised convulsive epilepsy NOS;Diagnosis of Epilepsy;readcode;Kuan and Cambridge
+F252.00;Epilepsy;9886;Petit mal status;Diagnosis of Epilepsy;readcode;Kuan and Cambridge
+F253.00;Epilepsy;5117;Grand mal status;Diagnosis of Epilepsy;readcode;Kuan and Cambridge
+F253.11;Epilepsy;4093;Status epilepticus;Diagnosis of Epilepsy;readcode;Kuan and Cambridge
+F254.00;Epilepsy;32288;Partial epilepsy with impairment of consciousness;Diagnosis of Epilepsy;readcode;Kuan and Cambridge
+F254000;Epilepsy;3175;Temporal lobe epilepsy;Diagnosis of Epilepsy;readcode;Kuan and Cambridge
+F254100;Epilepsy;23634;Psychomotor epilepsy;Diagnosis of Epilepsy;readcode;Kuan and Cambridge
+F254200;Epilepsy;36203;Psychosensory epilepsy;Diagnosis of Epilepsy;readcode;Kuan and Cambridge
+F254300;Epilepsy;55665;Limbic system epilepsy;Diagnosis of Epilepsy;readcode;Kuan and Cambridge
+F254400;Epilepsy;34079;Epileptic automatism;Diagnosis of Epilepsy;readcode;Kuan and Cambridge
+F254500;Epilepsy;11394;Complex partial epileptic seizure;Diagnosis of Epilepsy;readcode;Kuan and Cambridge
+F254z00;Epilepsy;31920;Partial epilepsy with impairment of consciousness NOS;Diagnosis of Epilepsy;readcode;Kuan and Cambridge
+F255.00;Epilepsy;26015;Partial epilepsy without impairment of consciousness;Diagnosis of Epilepsy;readcode;Kuan and Cambridge
+F255000;Epilepsy;9569;Jacksonian, focal or motor epilepsy;Diagnosis of Epilepsy;readcode;Kuan and Cambridge
+F255011;Epilepsy;5525;Focal epilepsy;Diagnosis of Epilepsy;readcode;Kuan and Cambridge
+F255012;Epilepsy;65699;Motor epilepsy;Diagnosis of Epilepsy;readcode;Kuan and Cambridge
+F255100;Epilepsy;48134;Sensory induced epilepsy;Diagnosis of Epilepsy;readcode;Kuan and Cambridge
+F255200;Epilepsy;37592;Somatosensory epilepsy;Diagnosis of Epilepsy;readcode;Kuan and Cambridge
+F255300;Epilepsy;73542;Visceral reflex epilepsy;Diagnosis of Epilepsy;readcode;Kuan and Cambridge
+F255311;Epilepsy;98870;Partial epilepsy with autonomic symptoms;Diagnosis of Epilepsy;readcode;Kuan and Cambridge
+F255400;Epilepsy;55739;Visual reflex epilepsy;Diagnosis of Epilepsy;readcode;Kuan and Cambridge
+F255500;Epilepsy;68946;Unilateral epilepsy;Diagnosis of Epilepsy;readcode;Kuan and Cambridge
+F255600;Epilepsy;40105;Simple partial epileptic seizure;Diagnosis of Epilepsy;readcode;Kuan and Cambridge
+F255y00;Epilepsy;26733;Partial epilepsy without impairment of consciousness OS;Diagnosis of Epilepsy;readcode;Kuan and Cambridge
+F255z00;Epilepsy;27526;Partial epilepsy without impairment of consciousness NOS;Diagnosis of Epilepsy;readcode;Kuan and Cambridge
+F256.00;Epilepsy;4478;Infantile spasms;Diagnosis of Epilepsy;NA;Kuan
+F256.11;Epilepsy;68486;Lightning spasms;Diagnosis of Epilepsy;NA;Kuan
+F256.12;Epilepsy;39023;West syndrome;Diagnosis of Epilepsy;NA;Kuan
+F256000;Epilepsy;7945;Hypsarrhythmia;Diagnosis of Epilepsy;NA;Kuan
+F256100;Epilepsy;23415;Salaam attacks;Diagnosis of Epilepsy;NA;Kuan
+F256z00;Epilepsy;49322;Infantile spasms NOS;Diagnosis of Epilepsy;NA;Kuan
+F257.00;Epilepsy;71719;Kojevnikov's epilepsy;Diagnosis of Epilepsy;readcode;Kuan and Cambridge
+F258.00;Epilepsy;21885;Post-ictal state;Diagnosis of Epilepsy;NA;Kuan
+F259.00;Epilepsy;37906;Early infant epileptic encephalopathy wth suppression bursts;Diagnosis of Epilepsy;NA;Kuan
+F259.11;Epilepsy;51998;Ohtahara syndrome;Diagnosis of Epilepsy;NA;Kuan
+F25A.00;Epilepsy;19363;Juvenile myoclonic epilepsy;Diagnosis of Epilepsy;NA;Kuan
+F25B.00;Epilepsy;30604;Alcohol-induced epilepsy;Diagnosis of Epilepsy;readcode;Kuan and Cambridge
+F25C.00;Epilepsy;30816;Drug-induced epilepsy;Diagnosis of Epilepsy;readcode;Kuan and Cambridge
+F25D.00;Epilepsy;56359;Menstrual epilepsy;Diagnosis of Epilepsy;readcode;Kuan and Cambridge
+F25E.00;Epilepsy;65673;Stress-induced epilepsy;Diagnosis of Epilepsy;readcode;Kuan and Cambridge
+F25F.00;Epilepsy;30635;Photosensitive epilepsy;Diagnosis of Epilepsy;readcode;Kuan and Cambridge
+F25G.00;Epilepsy;108409;Severe myoclonic epilepsy in infancy;Diagnosis of Epilepsy;NA;Kuan
+F25G.11;Epilepsy;105679;Dravet syndrome;Diagnosis of Epilepsy;NA;Kuan
+F25X.00;Epilepsy;6271;Status epilepticus, unspecified;Diagnosis of Epilepsy;readcode;Kuan and Cambridge
+F25y.00;Epilepsy;38307;Other forms of epilepsy;Diagnosis of Epilepsy;readcode;Kuan and Cambridge
+F25y000;Epilepsy;55260;Cursive (running) epilepsy;Diagnosis of Epilepsy;readcode;Kuan and Cambridge
+F25y100;Epilepsy;53483;Gelastic epilepsy;Diagnosis of Epilepsy;readcode;Kuan and Cambridge
+F25y200;Epilepsy;9887;Locl-rlt(foc)(part)idiop epilep&epilptic syn seiz locl onset;Diagnosis of Epilepsy;readcode;Kuan and Cambridge
+F25y300;Epilepsy;25330;Complex partial status epilepticus;Diagnosis of Epilepsy;readcode;Kuan and Cambridge
+F25y400;Epilepsy;19170;Benign Rolandic epilepsy;Diagnosis of Epilepsy;readcode;Kuan and Cambridge
+F25y500;Epilepsy;96641;Panayiotopoulos syndrome;Diagnosis of Epilepsy;NA;Kuan
+F25yz00;Epilepsy;9979;Other forms of epilepsy NOS;Diagnosis of Epilepsy;readcode;Kuan and Cambridge
+F25z.00;Epilepsy;9747;Epilepsy NOS;Diagnosis of Epilepsy;readcode;Kuan and Cambridge
+F25z.11;Epilepsy;3607;Fit (in known epileptic) NOS;Diagnosis of Epilepsy;readcode;Kuan and Cambridge
+Fyu5000;Epilepsy;99731;[X]Other generalized epilepsy and epileptic syndromes;Diagnosis of Epilepsy;NA;Kuan
+Fyu5100;Epilepsy;69831;[X]Other epilepsy;Diagnosis of Epilepsy;NA;Kuan
+Fyu5200;Epilepsy;59120;[X]Other status epilepticus;Diagnosis of Epilepsy;NA;Kuan
+Fyu5900;Epilepsy;71801;[X]Status epilepticus, unspecified;Diagnosis of Epilepsy;NA;Kuan
+SC20000;Epilepsy;4109;Traumatic epilepsy;NA;readcode;Cambridge

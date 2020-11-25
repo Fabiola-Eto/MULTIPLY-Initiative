@@ -1,0 +1,12 @@
+Readcode;Disease;Medcode;ReadcodeDescr;Category;CodingSystem;Provenance
+1467.00;Anorexia and bulimia nervosa;8027;H/O: anorexia nervosa;History of Anorexia and bulimia nervosa;readcode;Kuan and Cambridge
+E271.00;Anorexia and bulimia nervosa;2135;Anorexia nervosa;Diagnosis of Anorexia and bulimia nervosa;readcode;Kuan and Cambridge
+E275100;Anorexia and bulimia nervosa;4377;Bulimia (non-organic overeating);Diagnosis of Anorexia and bulimia nervosa;readcode;Kuan and Cambridge
+Eu50000;Anorexia and bulimia nervosa;30570;[X]Anorexia nervosa;Diagnosis of Anorexia and bulimia nervosa;readcode;Kuan and Cambridge
+Eu50100;Anorexia and bulimia nervosa;34929;[X]Atypical anorexia nervosa;Diagnosis of Anorexia and bulimia nervosa;readcode;Kuan and Cambridge
+Eu50200;Anorexia and bulimia nervosa;9581;[X]Bulimia nervosa;Diagnosis of Anorexia and bulimia nervosa;readcode;Kuan and Cambridge
+Eu50211;Anorexia and bulimia nervosa;6583;[X]Bulimia NOS;Diagnosis of Anorexia and bulimia nervosa;readcode;Kuan and Cambridge
+Eu50300;Anorexia and bulimia nervosa;33863;[X]Atypical bulimia nervosa;Diagnosis of Anorexia and bulimia nervosa;readcode;Kuan and Cambridge
+R030.00;Anorexia and bulimia nervosa;912;[D]Anorexia;NA;readcode;Cambridge
+R030z00;Anorexia and bulimia nervosa;53746;[D]Anorexia NOS;NA;readcode;Cambridge
+R036011;Anorexia and bulimia nervosa;605;[D]Bulimia NOS;Diagnosis of Anorexia and bulimia nervosa;readcode;Kuan and Cambridge

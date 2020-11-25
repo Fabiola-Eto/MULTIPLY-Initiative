@@ -1,0 +1,75 @@
+Readcode;Disease;Medcode;ReadcodeDescr;Category;CodingSystem;Provenance
+14B4.00;Asthma;719;H/O: asthma;History of Asthma;NA;Kuan
+173A.00;Asthma;5867;Exercise induced asthma;Diagnosis of Asthma;readcode;Kuan and Cambridge
+173c.00;Asthma;22752;Occupational asthma;Diagnosis of Asthma;readcode;Kuan and Cambridge
+173d.00;Asthma;73522;Work aggravated asthma;Diagnosis of Asthma;readcode;Kuan and Cambridge
+1780.00;Asthma;41017;Aspirin induced asthma;Diagnosis of Asthma;readcode;Kuan and Cambridge
+1O2..00;Asthma;11370;Asthma confirmed;Diagnosis of Asthma;readcode;Kuan and Cambridge
+2126200.0;Asthma;10996;Asthma resolved;History of Asthma;NA;Kuan
+212G.00;Asthma;11839;Asthma resolved;History of Asthma;NA;Kuan
+3052AT;Asthma;80085;NA;NA;OXMIS;Cambridge
+493;Asthma;74025;NA;NA;OXMIS;Cambridge
+493 AA;Asthma;75049;NA;NA;OXMIS;Cambridge
+493 AB;Asthma;74093;NA;NA;OXMIS;Cambridge
+493 AD;Asthma;81364;NA;NA;OXMIS;Cambridge
+493 AE;Asthma;74778;NA;NA;OXMIS;Cambridge
+493 AI;Asthma;74627;NA;NA;OXMIS;Cambridge
+493 AJ;Asthma;84312;NA;NA;OXMIS;Cambridge
+493 AK;Asthma;77881;NA;NA;OXMIS;Cambridge
+493 AR;Asthma;83552;NA;NA;OXMIS;Cambridge
+493 BD;Asthma;79714;NA;NA;OXMIS;Cambridge
+493 BR;Asthma;74381;NA;NA;OXMIS;Cambridge
+493 C;Asthma;86315;NA;NA;OXMIS;Cambridge
+493 CH;Asthma;74588;NA;NA;OXMIS;Cambridge
+493 EA;Asthma;81113;NA;NA;OXMIS;Cambridge
+493 EB;Asthma;74348;NA;NA;OXMIS;Cambridge
+493 EP;Asthma;81835;NA;NA;OXMIS;Cambridge
+493 GR;Asthma;78930;NA;NA;OXMIS;Cambridge
+493 GS;Asthma;84251;NA;NA;OXMIS;Cambridge
+493 HT;Asthma;76765;NA;NA;OXMIS;Cambridge
+493 JC;Asthma;78239;NA;NA;OXMIS;Cambridge
+493 NA;Asthma;74500;NA;NA;OXMIS;Cambridge
+663j.00;Asthma;10487;Asthma - currently active;NA;readcode;Cambridge
+663V000;Asthma;3458;Occasional asthma;NA;readcode;Cambridge
+663V100;Asthma;3018;Mild asthma;NA;readcode;Cambridge
+663V200;Asthma;13065;Moderate asthma;NA;readcode;Cambridge
+663V300;Asthma;3366;Severe asthma;NA;readcode;Cambridge
+691 TM;Asthma;84275;NA;NA;OXMIS;Cambridge
+H312000;Asthma;5798;Chronic asthmatic bronchitis;Diagnosis of Asthma;readcode;Kuan and Cambridge
+H33..00;Asthma;78;Asthma;Diagnosis of Asthma;readcode;Kuan and Cambridge
+H33..11;Asthma;1555;Bronchial asthma;Diagnosis of Asthma;readcode;Kuan and Cambridge
+H330.00;Asthma;7146;Extrinsic (atopic) asthma;Diagnosis of Asthma;readcode;Kuan and Cambridge
+H330.11;Asthma;2290;Allergic asthma;Diagnosis of Asthma;readcode;Kuan and Cambridge
+H330.12;Asthma;1208;Childhood asthma;Diagnosis of Asthma;readcode;Kuan and Cambridge
+H330.13;Asthma;15248;Hay fever with asthma;Diagnosis of Asthma;readcode;Kuan and Cambridge
+H330.14;Asthma;7731;Pollen asthma;Diagnosis of Asthma;readcode;Kuan and Cambridge
+H330000;Asthma;14777;Extrinsic asthma without status asthmaticus;Diagnosis of Asthma;readcode;Kuan and Cambridge
+H330011;Asthma;5627;Hay fever with asthma;Diagnosis of Asthma;readcode;Kuan and Cambridge
+H330100;Asthma;27926;Extrinsic asthma with status asthmaticus;Diagnosis of Asthma;readcode;Kuan and Cambridge
+H330111;Asthma;6707;Extrinsic asthma with asthma attack;Diagnosis of Asthma;readcode;Kuan and Cambridge
+H330z00;Asthma;45782;Extrinsic asthma NOS;Diagnosis of Asthma;readcode;Kuan and Cambridge
+H331.00;Asthma;5267;Intrinsic asthma;Diagnosis of Asthma;readcode;Kuan and Cambridge
+H331.11;Asthma;3665;Late onset asthma;Diagnosis of Asthma;readcode;Kuan and Cambridge
+H331000;Asthma;29325;Intrinsic asthma without status asthmaticus;Diagnosis of Asthma;readcode;Kuan and Cambridge
+H331100;Asthma;58196;Intrinsic asthma with status asthmaticus;Diagnosis of Asthma;readcode;Kuan and Cambridge
+H331111;Asthma;18323;Intrinsic asthma with asthma attack;Diagnosis of Asthma;readcode;Kuan and Cambridge
+H331z00;Asthma;45073;Intrinsic asthma NOS;Diagnosis of Asthma;readcode;Kuan and Cambridge
+H332.00;Asthma;25796;Mixed asthma;Diagnosis of Asthma;readcode;Kuan and Cambridge
+H333.00;Asthma;185;Acute exacerbation of asthma;Diagnosis of Asthma;readcode;Kuan and Cambridge
+H334.00;Asthma;40823;Brittle asthma;Diagnosis of Asthma;readcode;Kuan and Cambridge
+H335.00;Asthma;106805;Chronic asthma with fixed airflow obstruction;Diagnosis of Asthma;NA;Kuan
+H33z.00;Asthma;4442;Asthma unspecified;Diagnosis of Asthma;readcode;Kuan and Cambridge
+H33z.11;Asthma;32727;Hyperreactive airways disease;Diagnosis of Asthma;readcode;Kuan and Cambridge
+H33z000;Asthma;4892;Status asthmaticus NOS;Diagnosis of Asthma;readcode;Kuan and Cambridge
+H33z011;Asthma;233;Severe asthma attack;Diagnosis of Asthma;readcode;Kuan and Cambridge
+H33z100;Asthma;232;Asthma attack;Diagnosis of Asthma;readcode;Kuan and Cambridge
+H33z111;Asthma;8335;Asthma attack NOS;Diagnosis of Asthma;readcode;Kuan and Cambridge
+H33z200;Asthma;12987;Late-onset asthma;Diagnosis of Asthma;readcode;Kuan and Cambridge
+H33zz00;Asthma;16070;Asthma NOS;Diagnosis of Asthma;readcode;Kuan and Cambridge
+H33zz11;Asthma;4606;Exercise induced asthma;Diagnosis of Asthma;readcode;Kuan and Cambridge
+H33zz12;Asthma;21232;Allergic asthma NEC;Diagnosis of Asthma;readcode;Kuan and Cambridge
+H33zz13;Asthma;18207;Allergic bronchitis NEC;Diagnosis of Asthma;readcode;Kuan and Cambridge
+H35y600;Asthma;93353;Sequoiosis (red-cedar asthma);NA;readcode;Cambridge
+H35y700;Asthma;39478;Wood asthma;NA;readcode;Cambridge
+H47y000;Asthma;47684;Detergent asthma;NA;readcode;Cambridge
+L4930LO;Asthma;74458;NA;NA;OXMIS;Cambridge
