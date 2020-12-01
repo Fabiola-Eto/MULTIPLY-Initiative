@@ -1,0 +1,575 @@
+Readcode,Disease,Medcode,ReadcodeDescr,Category,CodingSystem,Provenance
+2BBo.00,Visual impairment and blindness,52630,O/E - sight threatening diabetic retinopathy,Diagnosis of blindness,NA,Kuan
+2BBo.00,Diabetic ophthalmic complications,52630,O/E - sight threatening diabetic retinopathy,Diagnosis of diabetic ophthalmic complications,NA,NA
+2BBr.00,Visual impairment and blindness,101881,Impaired vision due to diabetic retinopathy,Diagnosis of blindness,NA,Kuan
+2BBr.00,Diabetic ophthalmic complications,101881,Impaired vision due to diabetic retinopathy,Diagnosis of diabetic ophthalmic complications,NA,NA
+2BE3.00,Disorders of autonomic nervous system,22097,O/E - Horner's syndrome,Diagnosis of autonomic neuropathy,NA,NA
+2BE3.00,Ptosis of eyelid,22097,O/E - Horner's syndrome,Diagnosis of ptosis,NA,NA
+7416F00,Nasal polyp,42166,Functional endoscopic sinus surg - polypectomy nasal sinus,Procedure for Nasal polyp,NA,NA
+7416F00,Chronic sinusitis,42166,Functional endoscopic sinus surg - polypectomy nasal sinus,NA,readcode,Cambridge
+9NfB.00,Visual impairment and blindness,105795,Requires deafblind communicator guide,Diagnosis of blindness,NA,Kuan
+9NfB.00,Hearing loss,105795,Requires deafblind communicator guide,Diagnosis of Hearing loss,NA,Kuan
+A115.00,Bronchiectasis,15693,Tuberculous bronchiectasis,Diagnosis of Bronchiectasis,NA,Kuan
+A115.00,Tuberculosis,15693,Tuberculous bronchiectasis,Diagnosis of tuberculosis,NA,NA
+A789500,HIV,27853,HIV disease resulting in Kaposi's sarcoma,Diagnosis of HIV,NA,NA
+A789500,Primary Malignancy_Other Organs,27853,HIV disease resulting in Kaposi's sarcoma,Diagnosis of Primary Malignancy_Other Organs,NA,NA
+A789511,HIV,108054,HIV disease resulting in Kaposi sarcoma,Diagnosis of HIV,NA,NA
+A789511,Primary Malignancy_Other Organs,108054,HIV disease resulting in Kaposi sarcoma,Diagnosis of Primary Malignancy_Other Organs,NA,NA
+A789600,HIV,44617,HIV disease resulting in Burkitt's lymphoma,Diagnosis of HIV,NA,NA
+A789600,Non-Hodgkin Lymphoma,44617,HIV disease resulting in Burkitt's lymphoma,Diagnosis of Non-Hodgkin Lymphoma,NA,NA
+A789700,HIV,66367,HIV dis resulting oth types of non-Hodgkin's lymphoma,Diagnosis of HIV,NA,NA
+A789700,Non-Hodgkin Lymphoma,66367,HIV dis resulting oth types of non-Hodgkin's lymphoma,Diagnosis of Non-Hodgkin Lymphoma,NA,NA
+AyuC600,HIV,69767,[X]HIV disease resulting in other non-Hodgkin's lymphoma,Diagnosis of HIV,NA,NA
+AyuC600,Non-Hodgkin Lymphoma,69767,[X]HIV disease resulting in other non-Hodgkin's lymphoma,Diagnosis of Non-Hodgkin Lymphoma,NA,NA
+B62x500,Non-Hodgkin Lymphoma,58962,Malignant immunoproliferative small intestinal disease,Diagnosis of Non-Hodgkin Lymphoma,NA,NA
+B62x500,Primary Malignancy_Other Organs,58962,Malignant immunoproliferative small intestinal disease,Possible Diagnosis of Primary Malignancy_Other Organs,NA,NA
+B63z.00,Multiple myeloma and malignant plasma cell neoplasms,43450,Immunoproliferative neoplasm or myeloma NOS,Diagnosis of Multiple myeloma and malignant plasma cell neoplasms,NA,NA
+B63z.00,Primary Malignancy_Other Organs,43450,Immunoproliferative neoplasm or myeloma NOS,Possible Diagnosis of Primary Malignancy_Other Organs,NA,NA
+BB5D700,Primary Malignancy_biliary tract,107299,[M]Combined hepatocellular carcinoma and cholangiocarcinoma,Diagnosis of Primary Malignancy_biliary tract,NA,NA
+BB5D700,Primary Malignancy_Liver,107299,[M]Combined hepatocellular carcinoma and cholangiocarcinoma,Diagnosis of Primary Malignancy_Liver,NA,NA
+BB5D711,Primary Malignancy_biliary tract,110147,[M]Hepatocholangiocarcinoma,Diagnosis of Primary Malignancy_biliary tract,NA,NA
+BB5D711,Primary Malignancy_Liver,110147,[M]Hepatocholangiocarcinoma,Diagnosis of Primary Malignancy_Liver,NA,NA
+ByuC600,Primary Malignancy_Other Organs,68332,[X]2ndry malignant neoplasm/oth+unspec parts/nervous system,Possible Diagnosis of Primary Malignancy_Other Organs,NA,NA
+ByuC600,Secondary Malignancy_Other organs,68332,[X]2ndry malignant neoplasm/oth+unspec parts/nervous system,Possible diagnosis of Secondary Malignancy_Other organs,NA,NA
+C105.00,Diabetic ophthalmic complications,33254,Diabetes mellitus with ophthalmic manifestation,Diagnosis of diabetic ophthalmic complications,NA,NA
+C105.00,Diabetes,33254,Diabetes mellitus with ophthalmic manifestation,NA,readcode,Cambridge
+C105000,Diabetic ophthalmic complications,69748,"Diabetes mellitus, juvenile type, + ophthalmic manifestation",Diagnosis of diabetic ophthalmic complications,NA,NA
+C105000,Diabetes,69748,"Diabetes mellitus, juvenile type, + ophthalmic manifestation",NA,readcode,Cambridge
+C105100,Diabetic ophthalmic complications,41389,"Diabetes mellitus, adult onset, + ophthalmic manifestation",Diagnosis of diabetic ophthalmic complications,NA,NA
+C105100,Diabetes,41389,"Diabetes mellitus, adult onset, + ophthalmic manifestation",NA,readcode,Cambridge
+C105y00,Diabetic ophthalmic complications,47377,Other specified diabetes mellitus with ophthalmic complicatn,Diagnosis of diabetic ophthalmic complications,NA,NA
+C105y00,Diabetes,47377,Other specified diabetes mellitus with ophthalmic complicatn,NA,readcode,Cambridge
+C105z00,Diabetic ophthalmic complications,34283,Diabetes mellitus NOS with ophthalmic manifestation,Diagnosis of diabetic ophthalmic complications,NA,NA
+C105z00,Diabetes,34283,Diabetes mellitus NOS with ophthalmic manifestation,NA,readcode,Cambridge
+C106.00,Diabetic neurological complications,16230,Diabetes mellitus with neurological manifestation,Diagnosis of diabetic neurological complications,NA,NA
+C106.00,Diabetes,16230,Diabetes mellitus with neurological manifestation,NA,readcode,Cambridge
+C106.11,Diabetic neurological complications,59903,Diabetic amyotrophy,Diagnosis of diabetic neurological complications,NA,NA
+C106.11,Diabetes,59903,Diabetic amyotrophy,NA,readcode,Cambridge
+C106.12,Diabetic neurological complications,7795,Diabetes mellitus with neuropathy,Diagnosis of diabetic neurological complications,NA,NA
+C106.12,Peripheral neuropathies (excluding cranial nerve and carpal tunnel syndromes),7795,Diabetes mellitus with neuropathy,Diagnosis of peripheral neuropathy,NA,NA
+C106.12,Diabetes,7795,Diabetes mellitus with neuropathy,NA,readcode,Cambridge
+C106.13,Diabetic neurological complications,16491,Diabetes mellitus with polyneuropathy,Diagnosis of diabetic neurological complications,NA,NA
+C106.13,Peripheral neuropathies (excluding cranial nerve and carpal tunnel syndromes),16491,Diabetes mellitus with polyneuropathy,Diagnosis of peripheral neuropathy,NA,NA
+C106.13,Diabetes,16491,Diabetes mellitus with polyneuropathy,NA,readcode,Cambridge
+C106000,Diabetic neurological complications,67853,"Diabetes mellitus, juvenile, + neurological manifestation",Diagnosis of diabetic neurological complications,NA,NA
+C106000,Diabetes,67853,"Diabetes mellitus, juvenile, + neurological manifestation",NA,readcode,Cambridge
+C106100,Diabetic neurological complications,39317,"Diabetes mellitus, adult onset, + neurological manifestation",Diagnosis of diabetic neurological complications,NA,NA
+C106100,Diabetes,39317,"Diabetes mellitus, adult onset, + neurological manifestation",NA,readcode,Cambridge
+C106y00,Diabetic neurological complications,61523,Other specified diabetes mellitus with neurological comps,Diagnosis of diabetic neurological complications,NA,NA
+C106y00,Diabetes,61523,Other specified diabetes mellitus with neurological comps,NA,readcode,Cambridge
+C106z00,Diabetic neurological complications,22573,Diabetes mellitus NOS with neurological manifestation,Diagnosis of diabetic neurological complications,NA,NA
+C106z00,Diabetes,22573,Diabetes mellitus NOS with neurological manifestation,NA,readcode,Cambridge
+C107.00,Diabetes,35399,Diabetes mellitus with peripheral circulatory disorder,NA,readcode,Cambridge
+C107.00,Peripheral arterial disease,35399,Diabetes mellitus with peripheral circulatory disorder,Peripheral vascular disease (7),NA,Kuan
+C107000,Diabetes,70448,"Diabetes mellitus, juvenile +peripheral circulatory disorder",NA,readcode,Cambridge
+C107000,Peripheral arterial disease,70448,"Diabetes mellitus, juvenile +peripheral circulatory disorder",Peripheral vascular disease (7),NA,Kuan
+C107100,Diabetes,63357,"Diabetes mellitus, adult, + peripheral circulatory disorder",NA,readcode,Cambridge
+C107100,Peripheral arterial disease,63357,"Diabetes mellitus, adult, + peripheral circulatory disorder",Peripheral vascular disease (7),NA,Kuan
+C107300,Diabetes,69124,IDDM with peripheral circulatory disorder,NA,readcode,Cambridge
+C107300,Peripheral arterial disease,69124,IDDM with peripheral circulatory disorder,Peripheral vascular disease (7),NA,Kuan
+C107400,Diabetes,56803,NIDDM with peripheral circulatory disorder,NA,readcode,Cambridge
+C107400,Peripheral arterial disease,56803,NIDDM with peripheral circulatory disorder,Peripheral vascular disease (7),NA,Kuan
+C107z00,Diabetes,65025,Diabetes mellitus NOS with peripheral circulatory disorder,NA,readcode,Cambridge
+C107z00,Peripheral arterial disease,65025,Diabetes mellitus NOS with peripheral circulatory disorder,Peripheral vascular disease (7),NA,Kuan
+C108100,Diabetic ophthalmic complications,49276,Insulin-dependent diabetes mellitus with ophthalmic comps,Diagnosis of diabetic ophthalmic complications,NA,NA
+C108100,Diabetes,49276,Insulin-dependent diabetes mellitus with ophthalmic comps,NA,readcode,Cambridge
+C108112,Diabetic ophthalmic complications,102740,Type 1 diabetes mellitus with ophthalmic complications,Diagnosis of diabetic ophthalmic complications,NA,NA
+C108112,Diabetes,102740,Type 1 diabetes mellitus with ophthalmic complications,NA,readcode,Cambridge
+C108200,Diabetic neurological complications,52283,Insulin-dependent diabetes mellitus with neurological comps,Diagnosis of diabetic neurological complications,NA,NA
+C108200,Diabetes,52283,Insulin-dependent diabetes mellitus with neurological comps,NA,readcode,Cambridge
+C108211,Diabetic neurological complications,49146,Type I diabetes mellitus with neurological complications,Diagnosis of diabetic neurological complications,NA,NA
+C108211,Diabetes,49146,Type I diabetes mellitus with neurological complications,Type I diabetes mellitus (3),readcode,Kuan and Cambridge
+C108212,Diabetic neurological complications,61829,Type 1 diabetes mellitus with neurological complications,Diagnosis of diabetic neurological complications,NA,NA
+C108212,Diabetes,61829,Type 1 diabetes mellitus with neurological complications,Type I diabetes mellitus (3),readcode,Kuan and Cambridge
+C108700,Diabetic ophthalmic complications,6509,Insulin dependent diabetes mellitus with retinopathy,Diagnosis of diabetic ophthalmic complications,NA,NA
+C108700,Diabetes,6509,Insulin dependent diabetes mellitus with retinopathy,NA,readcode,Cambridge
+C108711,Diabetic ophthalmic complications,38161,Type I diabetes mellitus with retinopathy,Diagnosis of diabetic ophthalmic complications,NA,NA
+C108711,Diabetes,38161,Type I diabetes mellitus with retinopathy,Type I diabetes mellitus (3),readcode,Kuan and Cambridge
+C108712,Diabetic ophthalmic complications,41049,Type 1 diabetes mellitus with retinopathy,Diagnosis of diabetic ophthalmic complications,NA,NA
+C108712,Diabetes,41049,Type 1 diabetes mellitus with retinopathy,Type I diabetes mellitus (3),readcode,Kuan and Cambridge
+C108B00,Diabetic neurological complications,24694,Insulin dependent diabetes mellitus with mononeuropathy,Diagnosis of diabetic neurological complications,NA,NA
+C108B00,Peripheral neuropathies (excluding cranial nerve and carpal tunnel syndromes),24694,Insulin dependent diabetes mellitus with mononeuropathy,Diagnosis of peripheral neuropathy,NA,NA
+C108B00,Diabetes,24694,Insulin dependent diabetes mellitus with mononeuropathy,NA,readcode,Cambridge
+C108B11,Diabetic neurological complications,99231,Type I diabetes mellitus with mononeuropathy,Diagnosis of diabetic neurological complications,NA,NA
+C108B11,Peripheral neuropathies (excluding cranial nerve and carpal tunnel syndromes),99231,Type I diabetes mellitus with mononeuropathy,Diagnosis of peripheral neuropathy,NA,NA
+C108B11,Diabetes,99231,Type I diabetes mellitus with mononeuropathy,NA,readcode,Cambridge
+C108C00,Diabetic neurological complications,41716,Insulin dependent diabetes mellitus with polyneuropathy,Diagnosis of diabetic neurological complications,NA,NA
+C108C00,Peripheral neuropathies (excluding cranial nerve and carpal tunnel syndromes),41716,Insulin dependent diabetes mellitus with polyneuropathy,Diagnosis of peripheral neuropathy,NA,NA
+C108C00,Diabetes,41716,Insulin dependent diabetes mellitus with polyneuropathy,NA,readcode,Cambridge
+C108F00,Diabetic ophthalmic complications,44260,Insulin dependent diabetes mellitus with diabetic cataract,Diagnosis of diabetic ophthalmic complications,NA,NA
+C108F00,Diabetes,44260,Insulin dependent diabetes mellitus with diabetic cataract,NA,readcode,Cambridge
+C108F11,Diabetic ophthalmic complications,17545,Type I diabetes mellitus with diabetic cataract,Diagnosis of diabetic ophthalmic complications,NA,NA
+C108F11,Diabetes,17545,Type I diabetes mellitus with diabetic cataract,Type I diabetes mellitus (3),readcode,Kuan and Cambridge
+C108J00,Diabetic neurological complications,39809,Insulin dependent diab mell with neuropathic arthropathy,Diagnosis of diabetic neurological complications,NA,NA
+C108J00,Peripheral neuropathies (excluding cranial nerve and carpal tunnel syndromes),39809,Insulin dependent diab mell with neuropathic arthropathy,Diagnosis of peripheral neuropathy,NA,NA
+C108J11,Diabetic neurological complications,60208,Type I diabetes mellitus with neuropathic arthropathy,Diagnosis of diabetic neurological complications,NA,NA
+C108J11,Peripheral neuropathies (excluding cranial nerve and carpal tunnel syndromes),60208,Type I diabetes mellitus with neuropathic arthropathy,Diagnosis of peripheral neuropathy,NA,NA
+C108J11,Diabetes,60208,Type I diabetes mellitus with neuropathic arthropathy,Type I diabetes mellitus (3),readcode,Kuan and Cambridge
+C108J12,Diabetic neurological complications,18230,Type 1 diabetes mellitus with neuropathic arthropathy,Diagnosis of diabetic neurological complications,NA,NA
+C108J12,Peripheral neuropathies (excluding cranial nerve and carpal tunnel syndromes),18230,Type 1 diabetes mellitus with neuropathic arthropathy,Diagnosis of peripheral neuropathy,NA,NA
+C108J12,Diabetes,18230,Type 1 diabetes mellitus with neuropathic arthropathy,Type I diabetes mellitus (3),readcode,Kuan and Cambridge
+C109100,Diabetic ophthalmic complications,50429,Non-insulin-dependent diabetes mellitus with ophthalm comps,Diagnosis of diabetic ophthalmic complications,NA,NA
+C109100,Diabetes,50429,Non-insulin-dependent diabetes mellitus with ophthalm comps,NA,readcode,Cambridge
+C109111,Diabetic ophthalmic complications,59725,Type II diabetes mellitus with ophthalmic complications,Diagnosis of diabetic ophthalmic complications,NA,NA
+C109111,Diabetes,59725,Type II diabetes mellitus with ophthalmic complications,Type II diabetes mellitus (4),readcode,Kuan and Cambridge
+C109112,Diabetic ophthalmic complications,70316,Type 2 diabetes mellitus with ophthalmic complications,Diagnosis of diabetic ophthalmic complications,NA,NA
+C109112,Diabetes,70316,Type 2 diabetes mellitus with ophthalmic complications,Type II diabetes mellitus (4),readcode,Kuan and Cambridge
+C109200,Diabetic neurological complications,55842,Non-insulin-dependent diabetes mellitus with neuro comps,Diagnosis of diabetic neurological complications,NA,NA
+C109200,Diabetes,55842,Non-insulin-dependent diabetes mellitus with neuro comps,NA,readcode,Cambridge
+C109211,Diabetic neurological complications,67905,Type II diabetes mellitus with neurological complications,Diagnosis of diabetic neurological complications,NA,NA
+C109211,Diabetes,67905,Type II diabetes mellitus with neurological complications,Type II diabetes mellitus (4),readcode,Kuan and Cambridge
+C109212,Diabetic neurological complications,45919,Type 2 diabetes mellitus with neurological complications,Diagnosis of diabetic neurological complications,NA,NA
+C109212,Diabetes,45919,Type 2 diabetes mellitus with neurological complications,Type II diabetes mellitus (4),readcode,Kuan and Cambridge
+C109600,Diabetic ophthalmic complications,17262,Non-insulin-dependent diabetes mellitus with retinopathy,Diagnosis of diabetic ophthalmic complications,NA,NA
+C109600,Diabetes,17262,Non-insulin-dependent diabetes mellitus with retinopathy,NA,readcode,Cambridge
+C109611,Diabetic ophthalmic complications,58604,Type II diabetes mellitus with retinopathy,Diagnosis of diabetic ophthalmic complications,NA,NA
+C109611,Diabetes,58604,Type II diabetes mellitus with retinopathy,Type II diabetes mellitus (4),readcode,Kuan and Cambridge
+C109612,Diabetic ophthalmic complications,42762,Type 2 diabetes mellitus with retinopathy,Diagnosis of diabetic ophthalmic complications,NA,NA
+C109612,Diabetes,42762,Type 2 diabetes mellitus with retinopathy,Type II diabetes mellitus (4),readcode,Kuan and Cambridge
+C109A00,Diabetic neurological complications,72320,Non-insulin dependent diabetes mellitus with mononeuropathy,Diagnosis of diabetic neurological complications,NA,NA
+C109A00,Peripheral neuropathies (excluding cranial nerve and carpal tunnel syndromes),72320,Non-insulin dependent diabetes mellitus with mononeuropathy,Diagnosis of peripheral neuropathy,NA,NA
+C109A00,Diabetes,72320,Non-insulin dependent diabetes mellitus with mononeuropathy,NA,readcode,Cambridge
+C109A11,Diabetic neurological complications,50813,Type II diabetes mellitus with mononeuropathy,Diagnosis of diabetic neurological complications,NA,NA
+C109A11,Peripheral neuropathies (excluding cranial nerve and carpal tunnel syndromes),50813,Type II diabetes mellitus with mononeuropathy,Diagnosis of peripheral neuropathy,NA,NA
+C109A11,Diabetes,50813,Type II diabetes mellitus with mononeuropathy,Type II diabetes mellitus (4),readcode,Kuan and Cambridge
+C109B00,Diabetic neurological complications,45467,Non-insulin dependent diabetes mellitus with polyneuropathy,Diagnosis of diabetic neurological complications,NA,NA
+C109B00,Peripheral neuropathies (excluding cranial nerve and carpal tunnel syndromes),45467,Non-insulin dependent diabetes mellitus with polyneuropathy,Diagnosis of peripheral neuropathy,NA,NA
+C109B00,Diabetes,45467,Non-insulin dependent diabetes mellitus with polyneuropathy,NA,readcode,Cambridge
+C109B11,Diabetic neurological complications,47409,Type II diabetes mellitus with polyneuropathy,Diagnosis of diabetic neurological complications,NA,NA
+C109B11,Peripheral neuropathies (excluding cranial nerve and carpal tunnel syndromes),47409,Type II diabetes mellitus with polyneuropathy,Diagnosis of peripheral neuropathy,NA,NA
+C109B11,Diabetes,47409,Type II diabetes mellitus with polyneuropathy,Type II diabetes mellitus (4),readcode,Kuan and Cambridge
+C109B12,Diabetic neurological complications,109865,Type 2 diabetes mellitus with polyneuropathy,Diagnosis of diabetic neurological complications,NA,NA
+C109B12,Peripheral neuropathies (excluding cranial nerve and carpal tunnel syndromes),109865,Type 2 diabetes mellitus with polyneuropathy,Diagnosis of peripheral neuropathy,NA,NA
+C109E00,Diabetic ophthalmic complications,69278,Non-insulin depend diabetes mellitus with diabetic cataract,Diagnosis of diabetic ophthalmic complications,NA,NA
+C109E00,Diabetes,69278,Non-insulin depend diabetes mellitus with diabetic cataract,NA,readcode,Cambridge
+C109E11,Diabetic ophthalmic complications,48192,Type II diabetes mellitus with diabetic cataract,Diagnosis of diabetic ophthalmic complications,NA,NA
+C109E11,Diabetes,48192,Type II diabetes mellitus with diabetic cataract,Type II diabetes mellitus (4),readcode,Kuan and Cambridge
+C109E12,Diabetic ophthalmic complications,44779,Type 2 diabetes mellitus with diabetic cataract,Diagnosis of diabetic ophthalmic complications,NA,NA
+C109E12,Diabetes,44779,Type 2 diabetes mellitus with diabetic cataract,Type II diabetes mellitus (4),readcode,Kuan and Cambridge
+C109F11,Diabetes,54899,Type II diabetes mellitus with peripheral angiopathy,Type II diabetes mellitus (4),readcode,Kuan and Cambridge
+C109F11,Peripheral arterial disease,54899,Type II diabetes mellitus with peripheral angiopathy,Peripheral vascular disease (7),NA,Kuan
+C109F12,Diabetes,60699,Type 2 diabetes mellitus with peripheral angiopathy,Type II diabetes mellitus (4),readcode,Kuan and Cambridge
+C109F12,Peripheral arterial disease,60699,Type 2 diabetes mellitus with peripheral angiopathy,Peripheral vascular disease (7),NA,Kuan
+C109H00,Diabetic neurological complications,40962,Non-insulin dependent d m with neuropathic arthropathy,Diagnosis of diabetic neurological complications,NA,NA
+C109H00,Peripheral neuropathies (excluding cranial nerve and carpal tunnel syndromes),40962,Non-insulin dependent d m with neuropathic arthropathy,Diagnosis of peripheral neuropathy,NA,NA
+C109H00,Diabetes,40962,Non-insulin dependent d m with neuropathic arthropathy,NA,readcode,Cambridge
+C109H11,Diabetic neurological complications,47816,Type II diabetes mellitus with neuropathic arthropathy,Diagnosis of diabetic neurological complications,NA,NA
+C109H11,Peripheral neuropathies (excluding cranial nerve and carpal tunnel syndromes),47816,Type II diabetes mellitus with neuropathic arthropathy,Diagnosis of peripheral neuropathy,NA,NA
+C109H11,Diabetes,47816,Type II diabetes mellitus with neuropathic arthropathy,Type II diabetes mellitus (4),readcode,Kuan and Cambridge
+C109H12,Diabetic neurological complications,66965,Type 2 diabetes mellitus with neuropathic arthropathy,Diagnosis of diabetic neurological complications,NA,NA
+C109H12,Peripheral neuropathies (excluding cranial nerve and carpal tunnel syndromes),66965,Type 2 diabetes mellitus with neuropathic arthropathy,Diagnosis of peripheral neuropathy,NA,NA
+C109H12,Diabetes,66965,Type 2 diabetes mellitus with neuropathic arthropathy,Type II diabetes mellitus (4),readcode,Kuan and Cambridge
+C10E100,Diabetic ophthalmic complications,47649,Type 1 diabetes mellitus with ophthalmic complications,Diagnosis of diabetic ophthalmic complications,NA,NA
+C10E100,Diabetes,47649,Type 1 diabetes mellitus with ophthalmic complications,Type I diabetes mellitus (3),readcode,Kuan and Cambridge
+C10E111,Diabetic ophthalmic complications,99311,Type I diabetes mellitus with ophthalmic complications,Diagnosis of diabetic ophthalmic complications,NA,NA
+C10E111,Diabetes,99311,Type I diabetes mellitus with ophthalmic complications,NA,readcode,Cambridge
+C10E112,Diabetic ophthalmic complications,98071,Insulin-dependent diabetes mellitus with ophthalmic comps,Diagnosis of diabetic ophthalmic complications,NA,NA
+C10E112,Diabetes,98071,Insulin-dependent diabetes mellitus with ophthalmic comps,NA,readcode,Cambridge
+C10E200,Diabetic neurological complications,42831,Type 1 diabetes mellitus with neurological complications,Diagnosis of diabetic neurological complications,NA,NA
+C10E200,Diabetes,42831,Type 1 diabetes mellitus with neurological complications,Type I diabetes mellitus (3),readcode,Kuan and Cambridge
+C10E212,Diabetic neurological complications,101735,Insulin-dependent diabetes mellitus with neurological comps,Diagnosis of diabetic neurological complications,NA,NA
+C10E212,Diabetes,101735,Insulin-dependent diabetes mellitus with neurological comps,NA,readcode,Cambridge
+C10E700,Diabetic ophthalmic complications,18387,Type 1 diabetes mellitus with retinopathy,Diagnosis of diabetic ophthalmic complications,NA,NA
+C10E700,Diabetes,18387,Type 1 diabetes mellitus with retinopathy,Type I diabetes mellitus (3),readcode,Kuan and Cambridge
+C10E711,Diabetic ophthalmic complications,95343,Type I diabetes mellitus with retinopathy,Diagnosis of diabetic ophthalmic complications,NA,NA
+C10E711,Diabetes,95343,Type I diabetes mellitus with retinopathy,Type I diabetes mellitus (3),readcode,Kuan and Cambridge
+C10E712,Diabetic ophthalmic complications,93875,Insulin dependent diabetes mellitus with retinopathy,Diagnosis of diabetic ophthalmic complications,NA,NA
+C10E712,Diabetes,93875,Insulin dependent diabetes mellitus with retinopathy,NA,readcode,Cambridge
+C10EB00,Diabetic neurological complications,68105,Type 1 diabetes mellitus with mononeuropathy,Diagnosis of diabetic neurological complications,NA,NA
+C10EB00,Peripheral neuropathies (excluding cranial nerve and carpal tunnel syndromes),68105,Type 1 diabetes mellitus with mononeuropathy,Diagnosis of peripheral neuropathy,NA,NA
+C10EB00,Diabetes,68105,Type 1 diabetes mellitus with mononeuropathy,Type I diabetes mellitus (3),readcode,Kuan and Cambridge
+C10EC00,Diabetic neurological complications,46301,Type 1 diabetes mellitus with polyneuropathy,Diagnosis of diabetic neurological complications,NA,NA
+C10EC00,Peripheral neuropathies (excluding cranial nerve and carpal tunnel syndromes),46301,Type 1 diabetes mellitus with polyneuropathy,Diagnosis of peripheral neuropathy,NA,NA
+C10EC00,Diabetes,46301,Type 1 diabetes mellitus with polyneuropathy,Type I diabetes mellitus (3),readcode,Kuan and Cambridge
+C10EC11,Diabetic neurological complications,91943,Type I diabetes mellitus with polyneuropathy,Diagnosis of diabetic neurological complications,NA,NA
+C10EC11,Peripheral neuropathies (excluding cranial nerve and carpal tunnel syndromes),91943,Type I diabetes mellitus with polyneuropathy,Diagnosis of peripheral neuropathy,NA,NA
+C10EC11,Diabetes,91943,Type I diabetes mellitus with polyneuropathy,Type I diabetes mellitus (3),readcode,Kuan and Cambridge
+C10EC12,Diabetic neurological complications,101311,Insulin dependent diabetes mellitus with polyneuropathy,Diagnosis of diabetic neurological complications,NA,NA
+C10EC12,Peripheral neuropathies (excluding cranial nerve and carpal tunnel syndromes),101311,Insulin dependent diabetes mellitus with polyneuropathy,Diagnosis of peripheral neuropathy,NA,NA
+C10EC12,Diabetes,101311,Insulin dependent diabetes mellitus with polyneuropathy,NA,readcode,Cambridge
+C10EF00,Diabetic ophthalmic complications,49554,Type 1 diabetes mellitus with diabetic cataract,Diagnosis of diabetic ophthalmic complications,NA,NA
+C10EF00,Diabetes,49554,Type 1 diabetes mellitus with diabetic cataract,Type I diabetes mellitus (3),readcode,Kuan and Cambridge
+C10EF12,Diabetic ophthalmic complications,100770,Insulin dependent diabetes mellitus with diabetic cataract,Diagnosis of diabetic ophthalmic complications,NA,NA
+C10EF12,Diabetes,100770,Insulin dependent diabetes mellitus with diabetic cataract,NA,readcode,Cambridge
+C10EG00,Diabetes,93468,Type 1 diabetes mellitus with peripheral angiopathy,Type I diabetes mellitus (3),readcode,Kuan and Cambridge
+C10EG00,Peripheral arterial disease,93468,Type 1 diabetes mellitus with peripheral angiopathy,Peripheral vascular disease (7),NA,Kuan
+C10EJ00,Diabetic neurological complications,54008,Type 1 diabetes mellitus with neuropathic arthropathy,Diagnosis of diabetic neurological complications,NA,NA
+C10EJ00,Peripheral neuropathies (excluding cranial nerve and carpal tunnel syndromes),54008,Type 1 diabetes mellitus with neuropathic arthropathy,Diagnosis of peripheral neuropathy,NA,NA
+C10EJ00,Diabetes,54008,Type 1 diabetes mellitus with neuropathic arthropathy,Type I diabetes mellitus (3),readcode,Kuan and Cambridge
+C10EP00,Diabetic ophthalmic complications,22871,Type 1 diabetes mellitus with exudative maculopathy,Diagnosis of diabetic ophthalmic complications,NA,NA
+C10EP00,Diabetes,22871,Type 1 diabetes mellitus with exudative maculopathy,Type I diabetes mellitus (3),readcode,Kuan and Cambridge
+C10EP11,Diabetic ophthalmic complications,97894,Type I diabetes mellitus with exudative maculopathy,Diagnosis of diabetic ophthalmic complications,NA,NA
+C10EP11,Diabetes,97894,Type I diabetes mellitus with exudative maculopathy,Type I diabetes mellitus (3),readcode,Kuan and Cambridge
+C10F100,Diabetic ophthalmic complications,47321,Type 2 diabetes mellitus with ophthalmic complications,Diagnosis of diabetic ophthalmic complications,NA,NA
+C10F100,Diabetes,47321,Type 2 diabetes mellitus with ophthalmic complications,Type II diabetes mellitus (4),readcode,Kuan and Cambridge
+C10F111,Diabetic ophthalmic complications,100964,Type II diabetes mellitus with ophthalmic complications,Diagnosis of diabetic ophthalmic complications,NA,NA
+C10F111,Diabetes,100964,Type II diabetes mellitus with ophthalmic complications,NA,readcode,Cambridge
+C10F200,Diabetic neurological complications,34268,Type 2 diabetes mellitus with neurological complications,Diagnosis of diabetic neurological complications,NA,NA
+C10F200,Diabetes,34268,Type 2 diabetes mellitus with neurological complications,Type II diabetes mellitus (4),readcode,Kuan and Cambridge
+C10F211,Diabetic neurological complications,98616,Type II diabetes mellitus with neurological complications,Diagnosis of diabetic neurological complications,NA,NA
+C10F211,Diabetes,98616,Type II diabetes mellitus with neurological complications,Type II diabetes mellitus (4),readcode,Kuan and Cambridge
+C10F600,Diabetic ophthalmic complications,18496,Type 2 diabetes mellitus with retinopathy,Diagnosis of diabetic ophthalmic complications,NA,NA
+C10F600,Diabetes,18496,Type 2 diabetes mellitus with retinopathy,Type II diabetes mellitus (4),readcode,Kuan and Cambridge
+C10F611,Diabetic ophthalmic complications,49655,Type II diabetes mellitus with retinopathy,Diagnosis of diabetic ophthalmic complications,NA,NA
+C10F611,Diabetes,49655,Type II diabetes mellitus with retinopathy,Type II diabetes mellitus (4),readcode,Kuan and Cambridge
+C10FA00,Diabetic neurological complications,62674,Type 2 diabetes mellitus with mononeuropathy,Diagnosis of diabetic neurological complications,NA,NA
+C10FA00,Peripheral neuropathies (excluding cranial nerve and carpal tunnel syndromes),62674,Type 2 diabetes mellitus with mononeuropathy,Diagnosis of peripheral neuropathy,NA,NA
+C10FA00,Diabetes,62674,Type 2 diabetes mellitus with mononeuropathy,Type II diabetes mellitus (4),readcode,Kuan and Cambridge
+C10FA11,Diabetic neurological complications,95351,Type II diabetes mellitus with mononeuropathy,Diagnosis of diabetic neurological complications,NA,NA
+C10FA11,Peripheral neuropathies (excluding cranial nerve and carpal tunnel syndromes),95351,Type II diabetes mellitus with mononeuropathy,Diagnosis of peripheral neuropathy,NA,NA
+C10FA11,Diabetes,95351,Type II diabetes mellitus with mononeuropathy,Type II diabetes mellitus (4),readcode,Kuan and Cambridge
+C10FB00,Diabetic neurological complications,18425,Type 2 diabetes mellitus with polyneuropathy,Diagnosis of diabetic neurological complications,NA,NA
+C10FB00,Peripheral neuropathies (excluding cranial nerve and carpal tunnel syndromes),18425,Type 2 diabetes mellitus with polyneuropathy,Diagnosis of peripheral neuropathy,NA,NA
+C10FB00,Diabetes,18425,Type 2 diabetes mellitus with polyneuropathy,Type II diabetes mellitus (4),readcode,Kuan and Cambridge
+C10FB11,Diabetic neurological complications,50527,Type II diabetes mellitus with polyneuropathy,Diagnosis of diabetic neurological complications,NA,NA
+C10FB11,Peripheral neuropathies (excluding cranial nerve and carpal tunnel syndromes),50527,Type II diabetes mellitus with polyneuropathy,Diagnosis of peripheral neuropathy,NA,NA
+C10FB11,Diabetes,50527,Type II diabetes mellitus with polyneuropathy,Type II diabetes mellitus (4),readcode,Kuan and Cambridge
+C10FE00,Diabetic ophthalmic complications,44982,Type 2 diabetes mellitus with diabetic cataract,Diagnosis of diabetic ophthalmic complications,NA,NA
+C10FE00,Diabetes,44982,Type 2 diabetes mellitus with diabetic cataract,Type II diabetes mellitus (4),readcode,Kuan and Cambridge
+C10FE11,Diabetic ophthalmic complications,93727,Type II diabetes mellitus with diabetic cataract,Diagnosis of diabetic ophthalmic complications,NA,NA
+C10FE11,Diabetes,93727,Type II diabetes mellitus with diabetic cataract,Type II diabetes mellitus (4),readcode,Kuan and Cambridge
+C10FF00,Diabetes,37806,Type 2 diabetes mellitus with peripheral angiopathy,Type II diabetes mellitus (4),readcode,Kuan and Cambridge
+C10FF00,Peripheral arterial disease,37806,Type 2 diabetes mellitus with peripheral angiopathy,Peripheral vascular disease (7),NA,Kuan
+C10FH00,Diabetic neurological complications,35385,Type 2 diabetes mellitus with neuropathic arthropathy,Diagnosis of diabetic neurological complications,NA,NA
+C10FH00,Peripheral neuropathies (excluding cranial nerve and carpal tunnel syndromes),35385,Type 2 diabetes mellitus with neuropathic arthropathy,Diagnosis of peripheral neuropathy,NA,NA
+C10FH00,Diabetes,35385,Type 2 diabetes mellitus with neuropathic arthropathy,Type II diabetes mellitus (4),readcode,Kuan and Cambridge
+C10FH11,Diabetic neurological complications,109197,Type II diabetes mellitus with neuropathic arthropathy,Diagnosis of diabetic neurological complications,NA,NA
+C10FH11,Peripheral neuropathies (excluding cranial nerve and carpal tunnel syndromes),109197,Type II diabetes mellitus with neuropathic arthropathy,Diagnosis of peripheral neuropathy,NA,NA
+C10FH11,Diabetes,109197,Type II diabetes mellitus with neuropathic arthropathy,NA,readcode,Cambridge
+C10FQ00,Diabetic ophthalmic complications,25591,Type 2 diabetes mellitus with exudative maculopathy,Diagnosis of diabetic ophthalmic complications,NA,NA
+C10FQ00,Diabetes,25591,Type 2 diabetes mellitus with exudative maculopathy,Type II diabetes mellitus (4),readcode,Kuan and Cambridge
+C10N100,Cystic Fibrosis,93380,Cystic fibrosis related diabetes mellitus,History of Cystic Fibrosis,NA,NA
+C10N100,Diabetes,93380,Cystic fibrosis related diabetes mellitus,NA,readcode,Cambridge
+C34y400,Gout,59344,Gouty neuritis,Diagnosis of Gout,NA,NA
+C34y400,Peripheral neuropathies (excluding cranial nerve and carpal tunnel syndromes),59344,Gouty neuritis,Diagnosis of peripheral neuropathy,NA,NA
+C370800,Cystic Fibrosis,102922,Cystic fibrosis related cirrhosis,History of Cystic Fibrosis,NA,NA
+C370800,"Liver fibrosis, sclerosis and cirrhosis",102922,Cystic fibrosis related cirrhosis,"Diagnosis of Liver fibrosis, sclerosis and cirrhosis",NA,NA
+C391200,Immunodeficiencies,31322,Wiskott - Aldrich syndrome,Diagnosis of Immunodeficiencies,NA,NA
+C391200,Secondary or other Thrombocytopaenia,31322,Wiskott - Aldrich syndrome,Diagnosis of Secondary or other Thrombocytopaenia,NA,NA
+C391211,Dermatitis (atopc/contact/other/unspecified),42439,Thrombocytopenic eczema with immunodeficiency,Diagnosis of Dermatitis (atopc/contact/other/unspecified),NA,NA
+C391211,Immunodeficiencies,42439,Thrombocytopenic eczema with immunodeficiency,Diagnosis of Immunodeficiencies,NA,NA
+C391211,Secondary or other Thrombocytopaenia,42439,Thrombocytopenic eczema with immunodeficiency,Diagnosis of Secondary or other Thrombocytopaenia,NA,NA
+D013000,Vitamin B12 deficiency anaemia,22715,Combined B12 and folate deficiency anaemia,Diagnosis of Vitamin B12 deficiency anaemia,NA,NA
+D013000,Folate deficiency anaemia,22715,Combined B12 and folate deficiency anaemia,Diagnosis of Folate deficiency anaemia,NA,NA
+D104211,Sickle-cell anaemia,31075,Sickle-cell thalassaemia,Diagnosis of Sickle-cell anaemia,NA,NA
+D104211,Thalassaemia,31075,Sickle-cell thalassaemia,Diagnosis of Thalassaemia,NA,NA
+D201612,Aplastic anaemias,61326,Pancytopenia with pancreatitis,Diagnosis of Aplastic anaemias,NA,NA
+D201612,Pancreatitis,61326,Pancytopenia with pancreatitis,Diagnosis of Pancreatitis,NA,NA
+D212000,Other anaemias,48145,Anaemia in ovarian carcinoma,Diagnosis of Other anaemias,NA,NA
+D212000,Primary Malignancy_Ovarian,48145,Anaemia in ovarian carcinoma,History of Primary Malignancy_Ovarian,NA,NA
+D213.00,Myelodysplastic syndromes,16052,Refractory Anaemia,Diagnosis of Myelodysplastic syndromes,NA,NA
+D213.00,Other anaemias,16052,Refractory Anaemia,Diagnosis of Other anaemias,NA,NA
+E001300,Dementia,27677,Presenile dementia with depression,Diagnosis of Dementia,readcode,Kuan and Cambridge
+E001300,Depression,27677,Presenile dementia with depression,Diagnosis of Depression,readcode,Kuan and Cambridge
+E002100,Dementia,21887,Senile dementia with depression,Diagnosis of Dementia,readcode,Kuan and Cambridge
+E002100,Depression,21887,Senile dementia with depression,Diagnosis of Depression,readcode,Kuan and Cambridge
+E004300,Dementia,43292,Arteriosclerotic dementia with depression,Diagnosis of Dementia,readcode,Kuan and Cambridge
+E004300,Depression,43292,Arteriosclerotic dementia with depression,Diagnosis of Depression,readcode,Kuan and Cambridge
+E011100,Alcohol Problems,11106,Korsakov's alcoholic psychosis with peripheral neuritis,Diagnosis of Alcohol Problems,readcode,Kuan and Cambridge
+E011100,Peripheral neuropathies (excluding cranial nerve and carpal tunnel syndromes),11106,Korsakov's alcoholic psychosis with peripheral neuritis,Diagnosis of peripheral neuropathy,NA,NA
+E012.00,Alcohol Problems,54505,Other alcoholic dementia,Diagnosis of Alcohol Problems,readcode,Kuan and Cambridge
+E012.00,Dementia,54505,Other alcoholic dementia,NA,readcode,Cambridge
+E012.11,Alcohol Problems,27342,Alcoholic dementia NOS,Diagnosis of Alcohol Problems,NA,Kuan
+E012.11,Dementia,27342,Alcoholic dementia NOS,NA,readcode,Cambridge
+E200300,Anxiety disorders,655,Anxiety with depression,Diagnosis of Anxiety disorders,readcode,Kuan and Cambridge
+E200300,Depression,655,Anxiety with depression,Diagnosis of Depression,readcode,Kuan and Cambridge
+E203.00,Anxiety disorders,3208,Obsessive-compulsive disorders,NA,readcode,Cambridge
+E203.00,Obsessive-compulsive disorder,3208,Obsessive-compulsive disorders,Diagnosis of Obsessive-compulsive disorder,NA,NA
+E203000,Anxiety disorders,5678,Compulsive neurosis,NA,readcode,Cambridge
+E203000,Obsessive-compulsive disorder,5678,Compulsive neurosis,Diagnosis of Obsessive-compulsive disorder,NA,NA
+E203100,Anxiety disorders,2030,Obsessional neurosis,NA,readcode,Cambridge
+E203100,Obsessive-compulsive disorder,2030,Obsessional neurosis,Diagnosis of Obsessive-compulsive disorder,NA,NA
+E203z00,Anxiety disorders,15566,Obsessive-compulsive disorder NOS,NA,readcode,Cambridge
+E203z00,Obsessive-compulsive disorder,15566,Obsessive-compulsive disorder NOS,Diagnosis of Obsessive-compulsive disorder,NA,NA
+E205.00,Anxiety disorders,3361,Neurasthenia - nervous debility,NA,readcode,Cambridge
+E205.00,"Postviral fatigue syndrome, neurasthenia and fibromyalgia",3361,Neurasthenia - nervous debility,"Diagnosis of Postviral fatigue syndrome, neurasthenia and fibromyalgia",NA,NA
+E21..00,Anxiety disorders,2076,Personality disorders,NA,readcode,Cambridge
+E21..00,Personality disorders,2076,Personality disorders,Diagnosis of Personality disorders,NA,NA
+E210.00,Anxiety disorders,5652,Paranoid personality disorder,NA,readcode,Cambridge
+E210.00,Personality disorders,5652,Paranoid personality disorder,Diagnosis of Personality disorders,NA,NA
+E211200,Anxiety disorders,10455,Depressive personality disorder,NA,readcode,Cambridge
+E211200,Depression,10455,Depressive personality disorder,NA,readcode,Cambridge
+E250000,Alcohol Problems,669,"Nondependent alcohol abuse, unspecified",NA,readcode,Cambridge
+E250000,Other psychoactive substance misuse,669,"Nondependent alcohol abuse, unspecified",NA,readcode,Cambridge
+Eu02300,Dementia,9509,[X]Dementia in Parkinson's disease,NA,readcode,Cambridge
+Eu02300,Parkinson's disease,9509,[X]Dementia in Parkinson's disease,History of Parkinson's disease,NA,Kuan
+Eu02400,HIV,41185,[X]Dementia in human immunodef virus [HIV] disease,Diagnosis of HIV,NA,NA
+Eu02400,Dementia,41185,[X]Dementia in human immunodef virus [HIV] disease,NA,readcode,Cambridge
+Eu10500,Alcohol Problems,12353,[X]Mental & behav dis due to use alcohol: psychotic disorder,Diagnosis of Alcohol Problems,readcode,Kuan and Cambridge
+Eu10500,Other psychoactive substance misuse,12353,[X]Mental & behav dis due to use alcohol: psychotic disorder,NA,readcode,Cambridge
+Eu10711,Alcohol Problems,26323,[X]Alcoholic dementia NOS,Diagnosis of Alcohol Problems,NA,Kuan
+Eu10711,Dementia,26323,[X]Alcoholic dementia NOS,NA,readcode,Cambridge
+Eu20400,"Schizophrenia, schizotypal and delusional disorders",20785,[X]Post-schizophrenic depression,"Diagnosis of Schizophrenia, schizotypal and delusional disorders",NA,NA
+Eu20400,Depression,20785,[X]Post-schizophrenic depression,Diagnosis of Depression,NA,Kuan
+Eu25100,"Schizophrenia, schizotypal and delusional disorders",11055,"[X]Schizoaffective disorder, depressive type","Diagnosis of Schizophrenia, schizotypal and delusional disorders",NA,NA
+Eu25100,Depression,11055,"[X]Schizoaffective disorder, depressive type",Diagnosis of Depression,NA,Kuan
+Eu25111,"Schizophrenia, schizotypal and delusional disorders",35274,"[X]Schizoaffective psychosis, depressive type","Diagnosis of Schizophrenia, schizotypal and delusional disorders",NA,NA
+Eu25111,Depression,35274,"[X]Schizoaffective psychosis, depressive type",Diagnosis of Depression,NA,Kuan
+Eu25112,"Schizophrenia, schizotypal and delusional disorders",41022,"[X]Schizophreniform psychosis, depressive type","Diagnosis of Schizophrenia, schizotypal and delusional disorders",NA,NA
+Eu25112,Depression,41022,"[X]Schizophreniform psychosis, depressive type",Diagnosis of Depression,NA,Kuan
+Eu33213,Bipolar affective disorder and mania,29451,"[X]Manic-depress psychosis,depressd,no psychotic symptoms",Diagnosis of Bipolar affective disorder and mania,NA,NA
+Eu33213,Depression,29451,"[X]Manic-depress psychosis,depressd,no psychotic symptoms",Diagnosis of Depression,NA,Kuan
+Eu33312,Bipolar affective disorder and mania,28677,"[X]Manic-depress psychosis,depressed type+psychotic symptoms",Diagnosis of Bipolar affective disorder and mania,NA,NA
+Eu33312,Depression,28677,"[X]Manic-depress psychosis,depressed type+psychotic symptoms",Diagnosis of Depression,NA,Kuan
+Eu34111,Anxiety disorders,8584,[X]Depressive neurosis,Diagnosis of Anxiety disorders,NA,Kuan
+Eu34111,Depression,8584,[X]Depressive neurosis,Diagnosis of Depression,readcode,Kuan and Cambridge
+Eu34113,Anxiety disorders,7737,[X]Neurotic depression,Diagnosis of Anxiety disorders,NA,Kuan
+Eu34113,Depression,7737,[X]Neurotic depression,Diagnosis of Depression,readcode,Kuan and Cambridge
+Eu34114,Anxiety disorders,15220,[X]Persistant anxiety depression,Diagnosis of Anxiety disorders,NA,Kuan
+Eu34114,Depression,15220,[X]Persistant anxiety depression,Diagnosis of Depression,readcode,Kuan and Cambridge
+Eu41200,Anxiety disorders,11913,[X]Mixed anxiety and depressive disorder,Diagnosis of Anxiety disorders,readcode,Kuan and Cambridge
+Eu41200,Depression,11913,[X]Mixed anxiety and depressive disorder,Diagnosis of Depression,readcode,Kuan and Cambridge
+Eu41211,Anxiety disorders,7749,[X]Mild anxiety depression,Diagnosis of Anxiety disorders,NA,Kuan
+Eu41211,Depression,7749,[X]Mild anxiety depression,Diagnosis of Depression,readcode,Kuan and Cambridge
+Eu42.00,Anxiety disorders,5304,[X]Obsessive - compulsive disorder,NA,readcode,Cambridge
+Eu42.00,Obsessive-compulsive disorder,5304,[X]Obsessive - compulsive disorder,Diagnosis of Obsessive-compulsive disorder,NA,NA
+Eu42000,Anxiety disorders,20634,[X]Predominantly obsessional thoughts or ruminations,NA,readcode,Cambridge
+Eu42000,Obsessive-compulsive disorder,20634,[X]Predominantly obsessional thoughts or ruminations,Diagnosis of Obsessive-compulsive disorder,NA,NA
+Eu42100,Anxiety disorders,22019,[X]Predominantly compulsive acts [obsessional rituals],NA,readcode,Cambridge
+Eu42100,Obsessive-compulsive disorder,22019,[X]Predominantly compulsive acts [obsessional rituals],Diagnosis of Obsessive-compulsive disorder,NA,NA
+Eu42200,Anxiety disorders,18399,[X]Mixed obsessional thoughts and acts,NA,readcode,Cambridge
+Eu42200,Obsessive-compulsive disorder,18399,[X]Mixed obsessional thoughts and acts,Diagnosis of Obsessive-compulsive disorder,NA,NA
+Eu42y00,Anxiety disorders,38809,[X]Other obsessive-compulsive disorders,NA,readcode,Cambridge
+Eu42y00,Obsessive-compulsive disorder,38809,[X]Other obsessive-compulsive disorders,Diagnosis of Obsessive-compulsive disorder,NA,NA
+Eu42z00,Anxiety disorders,22721,"[X]Obsessive-compulsive disorder, unspecified",NA,readcode,Cambridge
+Eu42z00,Obsessive-compulsive disorder,22721,"[X]Obsessive-compulsive disorder, unspecified",Diagnosis of Obsessive-compulsive disorder,NA,NA
+Eu46000,Anxiety disorders,16561,[X]Neurasthenia,NA,readcode,Cambridge
+Eu46000,"Postviral fatigue syndrome, neurasthenia and fibromyalgia",16561,[X]Neurasthenia,"Diagnosis of Postviral fatigue syndrome, neurasthenia and fibromyalgia",NA,NA
+Eu84112,Autism and Asperger's syndrome,34174,[X]Mental retardation with autistic features,Diagnosis of Autism and Asperger's syndrome,NA,NA
+Eu84112,Intellectual disability,34174,[X]Mental retardation with autistic features,Diagnosis of Intellectual disability,readcode,Kuan and Cambridge
+Eu84400,Hyperkinetic disorders,52602,[X]Overactive disorder assoc mental retard/stereotype movts,Diagnosis of Hyperkinetic disorders,NA,NA
+Eu84400,Intellectual disability,52602,[X]Overactive disorder assoc mental retard/stereotype movts,Diagnosis of Intellectual disability,readcode,Kuan and Cambridge
+F171100,Disorders of autonomic nervous system,17067,Autonomic neuropathy due to diabetes,Diagnosis of autonomic neuropathy,NA,NA
+F171100,Diabetic neurological complications,17067,Autonomic neuropathy due to diabetes,Diagnosis of diabetic neurological complications,NA,NA
+F25B.00,Alcohol Problems,30604,Alcohol-induced epilepsy,Diagnosis of Alcohol Problems,NA,Kuan
+F25B.00,Epilepsy,30604,Alcohol-induced epilepsy,Diagnosis of Epilepsy,readcode,Kuan and Cambridge
+F345000,Diabetic neurological complications,44033,Diabetic mononeuritis multiplex,Diagnosis of diabetic neurological complications,NA,NA
+F345000,Peripheral neuropathies (excluding cranial nerve and carpal tunnel syndromes),44033,Diabetic mononeuritis multiplex,Diagnosis of peripheral neuropathy,NA,NA
+F35z000,Diabetic neurological complications,17247,Diabetic mononeuritis NOS,Diagnosis of diabetic neurological complications,NA,NA
+F35z000,Peripheral neuropathies (excluding cranial nerve and carpal tunnel syndromes),17247,Diabetic mononeuritis NOS,Diagnosis of peripheral neuropathy,NA,NA
+F371000,Peripheral neuropathies (excluding cranial nerve and carpal tunnel syndromes),44095,Polyneuropathy in disseminated lupus erythematosus,Diagnosis of peripheral neuropathy,NA,NA
+F371000,Lupus erythematosus (local and systemic),44095,Polyneuropathy in disseminated lupus erythematosus,Diagnosis of Lupus erythematosus (local and systemic),NA,NA
+F371200,Peripheral neuropathies (excluding cranial nerve and carpal tunnel syndromes),62401,Polyneuropathy in rheumatoid arthritis,Diagnosis of peripheral neuropathy,NA,NA
+F371200,Rheumatoid Arthritis,62401,Polyneuropathy in rheumatoid arthritis,Diagnosis of Rheumatoid Arthritis,NA,NA
+F372.00,Diabetic neurological complications,31790,Polyneuropathy in diabetes,Diagnosis of diabetic neurological complications,NA,NA
+F372.00,Peripheral neuropathies (excluding cranial nerve and carpal tunnel syndromes),31790,Polyneuropathy in diabetes,Diagnosis of peripheral neuropathy,NA,NA
+F372.11,Diabetic neurological complications,5002,Diabetic polyneuropathy,Diagnosis of diabetic neurological complications,NA,NA
+F372.11,Peripheral neuropathies (excluding cranial nerve and carpal tunnel syndromes),5002,Diabetic polyneuropathy,Diagnosis of peripheral neuropathy,NA,NA
+F372.11,Diabetes,5002,Diabetic polyneuropathy,NA,readcode,Cambridge
+F372.12,Diabetic neurological complications,2342,Diabetic neuropathy,Diagnosis of diabetic neurological complications,NA,NA
+F372.12,Peripheral neuropathies (excluding cranial nerve and carpal tunnel syndromes),2342,Diabetic neuropathy,Diagnosis of peripheral neuropathy,NA,NA
+F372.12,Diabetes,2342,Diabetic neuropathy,NA,readcode,Cambridge
+F372000,Diabetic neurological complications,48078,Acute painful diabetic neuropathy,Diagnosis of diabetic neurological complications,NA,NA
+F372000,Peripheral neuropathies (excluding cranial nerve and carpal tunnel syndromes),48078,Acute painful diabetic neuropathy,Diagnosis of peripheral neuropathy,NA,NA
+F372100,Diabetic neurological complications,35785,Chronic painful diabetic neuropathy,Diagnosis of diabetic neurological complications,NA,NA
+F372100,Peripheral neuropathies (excluding cranial nerve and carpal tunnel syndromes),35785,Chronic painful diabetic neuropathy,Diagnosis of peripheral neuropathy,NA,NA
+F372200,Diabetic neurological complications,24571,Asymptomatic diabetic neuropathy,Diagnosis of diabetic neurological complications,NA,NA
+F372200,Peripheral neuropathies (excluding cranial nerve and carpal tunnel syndromes),24571,Asymptomatic diabetic neuropathy,Diagnosis of peripheral neuropathy,NA,NA
+F374900,Peripheral neuropathies (excluding cranial nerve and carpal tunnel syndromes),40751,Polyneuropathy in sarcoidosis,Diagnosis of peripheral neuropathy,NA,NA
+F374900,Sarcoidosis,40751,Polyneuropathy in sarcoidosis,Diagnosis of Sarcoidosis,NA,NA
+F375.00,Alcohol Problems,2925,Alcoholic polyneuropathy,Diagnosis of Alcohol Problems,NA,Kuan
+F375.00,Peripheral neuropathies (excluding cranial nerve and carpal tunnel syndromes),2925,Alcoholic polyneuropathy,Diagnosis of peripheral neuropathy,NA,NA
+F381300,Diabetic neurological complications,39420,Myasthenic syndrome due to diabetic amyotrophy,History of diabetic neurological complications,NA,NA
+F381300,Diabetes,39420,Myasthenic syndrome due to diabetic amyotrophy,NA,readcode,Cambridge
+F381311,Diabetic neurological complications,2340,Diabetic amyotrophy,Diagnosis of diabetic neurological complications,NA,NA
+F381311,Diabetes,2340,Diabetic amyotrophy,NA,readcode,Cambridge
+F3y0.00,Diabetic neurological complications,37315,Diabetic mononeuropathy,Diagnosis of diabetic neurological complications,NA,NA
+F3y0.00,Peripheral neuropathies (excluding cranial nerve and carpal tunnel syndromes),37315,Diabetic mononeuropathy,Diagnosis of peripheral neuropathy,NA,NA
+F3y0.00,Diabetes,37315,Diabetic mononeuropathy,NA,readcode,Cambridge
+F404200,Visual impairment and blindness,37086,Blind hypertensive eye,Diagnosis of blindness,readcode,Kuan and Cambridge
+F404200,Hypertension,37086,Blind hypertensive eye,Hypertension (3),NA,Kuan
+F420.00,Diabetic ophthalmic complications,1323,Diabetic retinopathy,Diagnosis of diabetic ophthalmic complications,NA,NA
+F420.00,Diabetes,1323,Diabetic retinopathy,NA,readcode,Cambridge
+F420100,Diabetic ophthalmic complications,3286,Proliferative diabetic retinopathy,Diagnosis of diabetic ophthalmic complications,NA,NA
+F420100,Diabetes,3286,Proliferative diabetic retinopathy,NA,readcode,Cambridge
+F420200,Diabetic ophthalmic complications,2986,Preproliferative diabetic retinopathy,Diagnosis of diabetic ophthalmic complications,NA,NA
+F420200,Diabetes,2986,Preproliferative diabetic retinopathy,NA,readcode,Cambridge
+F420300,Diabetic ophthalmic complications,10099,Advanced diabetic maculopathy,Diagnosis of diabetic ophthalmic complications,NA,NA
+F420300,Diabetes,10099,Advanced diabetic maculopathy,NA,readcode,Cambridge
+F420400,Diabetic ophthalmic complications,3837,Diabetic maculopathy,Diagnosis of diabetic ophthalmic complications,NA,NA
+F420400,Diabetes,3837,Diabetic maculopathy,NA,readcode,Cambridge
+F420600,Diabetic ophthalmic complications,10755,Non proliferative diabetic retinopathy,Diagnosis of diabetic ophthalmic complications,NA,NA
+F420600,Diabetes,10755,Non proliferative diabetic retinopathy,NA,readcode,Cambridge
+F420700,Diabetic ophthalmic complications,30477,High risk proliferative diabetic retinopathy,Diagnosis of diabetic ophthalmic complications,NA,NA
+F420700,Diabetes,30477,High risk proliferative diabetic retinopathy,NA,readcode,Cambridge
+F420800,Diabetic ophthalmic complications,65463,High risk non proliferative diabetic retinopathy,Diagnosis of diabetic ophthalmic complications,NA,NA
+F420800,Diabetes,65463,High risk non proliferative diabetic retinopathy,NA,readcode,Cambridge
+F420z00,Diabetic ophthalmic complications,11626,Diabetic retinopathy NOS,Diagnosis of diabetic ophthalmic complications,NA,NA
+F420z00,Diabetes,11626,Diabetic retinopathy NOS,NA,readcode,Cambridge
+Fy1..00,Visual impairment and blindness,103907,Combined visual and hearing impairment,Diagnosis of blindness,NA,Kuan
+Fy1..00,Hearing loss,103907,Combined visual and hearing impairment,Diagnosis of Hearing loss,NA,Kuan
+G210100,Heart failure,72668,Malignant hypertensive heart disease with CCF,Diagnosis of Heart failure,NA,Kuan
+G210100,Hypertension,72668,Malignant hypertensive heart disease with CCF,Hypertension (3),NA,Kuan
+G211100,Heart failure,52127,Benign hypertensive heart disease with CCF,Diagnosis of Heart failure,NA,Kuan
+G211100,Hypertension,52127,Benign hypertensive heart disease with CCF,Hypertension (3),NA,Kuan
+G21z100,Heart failure,62718,Hypertensive heart disease NOS with CCF,Diagnosis of Heart failure,NA,Kuan
+G21z100,Hypertension,62718,Hypertensive heart disease NOS with CCF,Hypertension (3),NA,Kuan
+G232.00,Heart failure,21837,Hypertensive heart&renal dis wth (congestive) heart failure,Diagnosis of Heart failure,readcode,Kuan and Cambridge
+G232.00,Hypertension,21837,Hypertensive heart&renal dis wth (congestive) heart failure,Hypertension (3),NA,Kuan
+G234.00,Heart failure,57987,Hyperten heart&renal dis+both(congestv)heart and renal fail,Diagnosis of Heart failure,readcode,Kuan and Cambridge
+G234.00,Hypertension,57987,Hyperten heart&renal dis+both(congestv)heart and renal fail,Hypertension (3),NA,Kuan
+G33z500,Myocardial infarction,9555,Post infarct angina,History of MI (1),NA,NA
+G33z500,Stable angina,9555,Post infarct angina,Stable angina (4),NA,NA
+G343.00,Other Cardiomyopathy,7320,Ischaemic cardiomyopathy,Diagnosis of Other Cardiomyopathy,NA,NA
+G343.00,Coronary heart disease not otherwise specified,7320,Ischaemic cardiomyopathy,Diagnosed (3),NA,NA
+G554000,Dilated cardiomyopathy,5141,Congestive cardiomyopathy,Diagnosis of Dilated cardiomyopathy,NA,NA
+G554000,Heart failure,5141,Congestive cardiomyopathy,Diagnosis of Heart failure,NA,Kuan
+G555.00,Alcohol Problems,4915,Alcoholic cardiomyopathy,Diagnosis of Alcohol Problems,NA,Kuan
+G555.00,Dilated cardiomyopathy,4915,Alcoholic cardiomyopathy,Diagnosis of Dilated cardiomyopathy,NA,NA
+G557500,Other Cardiomyopathy,20035,Thyrotoxic heart disease,Diagnosis of Other Cardiomyopathy,NA,NA
+G557500,Hypo or hyperthyroidism,20035,Thyrotoxic heart disease,History of Hypo or hyperthyroidism,NA,Kuan
+G852200,"Liver fibrosis, sclerosis and cirrhosis",26319,Oesophageal varices in cirrhosis of the liver,"Diagnosis of Liver fibrosis, sclerosis and cirrhosis",NA,NA
+G852200,Oesophageal varices,26319,Oesophageal varices in cirrhosis of the liver,Diagnosis of Oesophageal varices,NA,NA
+G852300,Alcohol Problems,8363,Oesophageal varices in alcoholic cirrhosis of the liver,Diagnosis of Alcohol Problems,NA,Kuan
+G852300,"Liver fibrosis, sclerosis and cirrhosis",8363,Oesophageal varices in alcoholic cirrhosis of the liver,"Diagnosis of Liver fibrosis, sclerosis and cirrhosis",NA,NA
+G852300,Alcoholic liver disease,8363,Oesophageal varices in alcoholic cirrhosis of the liver,Diagnosis of Alcoholic liver disease,NA,NA
+G852300,Oesophageal varices,8363,Oesophageal varices in alcoholic cirrhosis of the liver,Diagnosis of Oesophageal varices,NA,NA
+Gyu1100,Nonrheumatic aortic valve disorders,94521,[X]Other rheumatic aortic valve diseases,Diagnosis of Nonrheumatic aortic valve disorders,NA,NA
+Gyu1100,Rheumatic valve dz,94521,[X]Other rheumatic aortic valve diseases,Diagnosis of Rheumatic valve dz,NA,NA
+H11y.11,Nasal polyp,19742,Nasal sinus polyps,Diagnosis of Nasal polyp,NA,NA
+H11y.11,Chronic sinusitis,19742,Nasal sinus polyps,NA,readcode,Cambridge
+H11y100,Nasal polyp,11744,Polyp of ethmoidal sinus,Diagnosis of Nasal polyp,NA,NA
+H11y100,Chronic sinusitis,11744,Polyp of ethmoidal sinus,NA,readcode,Cambridge
+H11y200,Nasal polyp,35897,Polyp of maxillary sinus,Diagnosis of Nasal polyp,NA,NA
+H11y200,Chronic sinusitis,35897,Polyp of maxillary sinus,NA,readcode,Cambridge
+H13..11,Allergic and chronic rhinitis,10546,Chronic rhinosinusitis,Diagnosis of Allergic and chronic rhinitis,NA,NA
+H13..11,Chronic sinusitis,10546,Chronic rhinosinusitis,Diagnosis of Chronic sinusitis,readcode,Kuan and Cambridge
+H17..12,Allergic and chronic rhinitis,18572,Allergic rhinosinusitis,Diagnosis of Allergic and chronic rhinitis,NA,NA
+H17..12,Chronic sinusitis,18572,Allergic rhinosinusitis,Diagnosis of Chronic sinusitis,NA,Kuan
+H312000,Asthma,5798,Chronic asthmatic bronchitis,Diagnosis of Asthma,readcode,Kuan and Cambridge
+H312000,COPD,5798,Chronic asthmatic bronchitis,Diagnosis of COPD,readcode,Kuan and Cambridge
+H330.00,Asthma,7146,Extrinsic (atopic) asthma,Diagnosis of Asthma,readcode,Kuan and Cambridge
+H330.00,Dermatitis (atopc/contact/other/unspecified),7146,Extrinsic (atopic) asthma,Diagnosis of Dermatitis (atopc/contact/other/unspecified),NA,NA
+H330.13,Asthma,15248,Hay fever with asthma,Diagnosis of Asthma,readcode,Kuan and Cambridge
+H330.13,Allergic and chronic rhinitis,15248,Hay fever with asthma,Diagnosis of Allergic and chronic rhinitis,NA,NA
+H330011,Asthma,5627,Hay fever with asthma,Diagnosis of Asthma,readcode,Kuan and Cambridge
+H330011,Allergic and chronic rhinitis,5627,Hay fever with asthma,Diagnosis of Allergic and chronic rhinitis,NA,NA
+H410.00,Asbestosis,5005,Pleural plaque disease due to asbestosis,History of Asbestosis,NA,NA
+H410.00,Pleural plaque,5005,Pleural plaque disease due to asbestosis,Diagnosis of Pleural plaque,NA,NA
+H410.11,Asbestosis,100994,Asbestos-induced pleural plaque,History of Asbestosis,NA,NA
+H410.11,Pleural plaque,100994,Asbestos-induced pleural plaque,Diagnosis of Pleural plaque,NA,NA
+J101100,Gastro-oesophageal reflux disease,2535,Reflux oesophagitis,Diagnosis of Gastro-oesophageal reflux disease,NA,NA
+J101100,Oesophagitis and oesophageal ulcer,2535,Reflux oesophagitis,Diagnosis of Oesophagitis and oesophageal ulcer,NA,NA
+J101112,Gastro-oesophageal reflux disease,7104,Gastro-oesophageal reflux with oesophagitis,Diagnosis of Gastro-oesophageal reflux disease,NA,NA
+J101112,Oesophagitis and oesophageal ulcer,7104,Gastro-oesophageal reflux with oesophagitis,Diagnosis of Oesophagitis and oesophageal ulcer,NA,NA
+J101113,Gastro-oesophageal reflux disease,16605,Oesophageal reflux with oesophagitis,Diagnosis of Gastro-oesophageal reflux disease,NA,NA
+J101113,Oesophagitis and oesophageal ulcer,16605,Oesophageal reflux with oesophagitis,Diagnosis of Oesophagitis and oesophageal ulcer,NA,NA
+J102000,Oesophagitis and oesophageal ulcer,24021,Peptic ulcer of oesophagus,Diagnosis of Oesophagitis and oesophageal ulcer,NA,NA
+J102000,Peptic ulcer disease,24021,Peptic ulcer of oesophagus,NA,readcode,Cambridge
+J11z.11,Gastritis and duodenitis,2877,Gastric erosions,Diagnosis of Gastritis and duodenitis,NA,NA
+J11z.11,Peptic ulcer disease,2877,Gastric erosions,Diagnosis of Peptic ulcer disease,NA,Kuan
+J123.00,Gastritis and duodenitis,3462,Duodenal erosion,Diagnosis of Gastritis and duodenitis,NA,NA
+J123.00,Peptic ulcer disease,3462,Duodenal erosion,Diagnosis of Peptic ulcer disease,readcode,Kuan and Cambridge
+J153.00,Alcohol Problems,4506,Alcoholic gastritis,Diagnosis of Alcohol Problems,NA,Kuan
+J153.00,Gastritis and duodenitis,4506,Alcoholic gastritis,Diagnosis of Gastritis and duodenitis,NA,NA
+J610.00,Alcohol Problems,10691,Alcoholic fatty liver,Diagnosis of Alcohol Problems,NA,Kuan
+J610.00,Alcoholic liver disease,10691,Alcoholic fatty liver,Diagnosis of Alcoholic liver disease,NA,NA
+J611.00,Alcohol Problems,3216,Acute alcoholic hepatitis,Diagnosis of Alcohol Problems,NA,Kuan
+J611.00,Alcoholic liver disease,3216,Acute alcoholic hepatitis,Diagnosis of Alcoholic liver disease,NA,NA
+J612.00,Alcohol Problems,4743,Alcoholic cirrhosis of liver,Diagnosis of Alcohol Problems,NA,Kuan
+J612.00,"Liver fibrosis, sclerosis and cirrhosis",4743,Alcoholic cirrhosis of liver,"Diagnosis of Liver fibrosis, sclerosis and cirrhosis",NA,NA
+J612.00,Alcoholic liver disease,4743,Alcoholic cirrhosis of liver,Diagnosis of Alcoholic liver disease,NA,NA
+J612.12,"Liver fibrosis, sclerosis and cirrhosis",100474,Laennec's cirrhosis,"Diagnosis of Liver fibrosis, sclerosis and cirrhosis",NA,NA
+J612.12,Alcoholic liver disease,100474,Laennec's cirrhosis,Diagnosis of Alcoholic liver disease,NA,NA
+J612000,Alcohol Problems,21713,Alcoholic fibrosis and sclerosis of liver,Diagnosis of Alcohol Problems,NA,Kuan
+J612000,"Liver fibrosis, sclerosis and cirrhosis",21713,Alcoholic fibrosis and sclerosis of liver,"Diagnosis of Liver fibrosis, sclerosis and cirrhosis",NA,NA
+J612000,Alcoholic liver disease,21713,Alcoholic fibrosis and sclerosis of liver,Diagnosis of Alcoholic liver disease,NA,NA
+J613.00,Alcohol Problems,7885,Alcoholic liver damage unspecified,Diagnosis of Alcohol Problems,NA,Kuan
+J613.00,"Liver fibrosis, sclerosis and cirrhosis",7885,Alcoholic liver damage unspecified,"Diagnosis of Liver fibrosis, sclerosis and cirrhosis",NA,NA
+J613.00,Alcoholic liver disease,7885,Alcoholic liver damage unspecified,Diagnosis of Alcoholic liver disease,NA,NA
+J613000,Alcohol Problems,17330,Alcoholic hepatic failure,Diagnosis of Alcohol Problems,NA,Kuan
+J613000,"Liver fibrosis, sclerosis and cirrhosis",17330,Alcoholic hepatic failure,"Diagnosis of Liver fibrosis, sclerosis and cirrhosis",NA,NA
+J613000,Alcoholic liver disease,17330,Alcoholic hepatic failure,Diagnosis of Alcoholic liver disease,NA,NA
+J613000,Hepatic failure,17330,Alcoholic hepatic failure,Diagnosis of Hepatic failure,NA,NA
+J617.00,Alcohol Problems,7943,Alcoholic hepatitis,Diagnosis of Alcohol Problems,NA,Kuan
+J617.00,"Liver fibrosis, sclerosis and cirrhosis",7943,Alcoholic hepatitis,"Diagnosis of Liver fibrosis, sclerosis and cirrhosis",NA,NA
+J617.00,Alcoholic liver disease,7943,Alcoholic hepatitis,Diagnosis of Alcoholic liver disease,NA,NA
+J617000,Alcohol Problems,7602,Chronic alcoholic hepatitis,Diagnosis of Alcohol Problems,NA,Kuan
+J617000,"Liver fibrosis, sclerosis and cirrhosis",7602,Chronic alcoholic hepatitis,"Diagnosis of Liver fibrosis, sclerosis and cirrhosis",NA,NA
+J617000,Alcoholic liver disease,7602,Chronic alcoholic hepatitis,Diagnosis of Alcoholic liver disease,NA,NA
+J670500,Cholelithiasis,12316,Gallstone acute pancreatitis,Diagnosis of Cholelithiasis,NA,NA
+J670500,Pancreatitis,12316,Gallstone acute pancreatitis,Diagnosis of Pancreatitis,NA,NA
+J670800,Alcohol Problems,104611,Alcohol-induced acute pancreatitis,Diagnosis of Alcohol Problems,NA,Kuan
+J670800,Pancreatitis,104611,Alcohol-induced acute pancreatitis,Diagnosis of Pancreatitis,NA,NA
+J671000,Alcohol Problems,24984,Alcohol-induced chronic pancreatitis,Diagnosis of Alcohol Problems,NA,Kuan
+J671000,Pancreatitis,24984,Alcohol-induced chronic pancreatitis,Diagnosis of Pancreatitis,NA,NA
+J671100,Cholelithiasis,42278,Gallstone chronic pancreatitis,Diagnosis of Cholelithiasis,NA,NA
+J671100,Pancreatitis,42278,Gallstone chronic pancreatitis,Diagnosis of Pancreatitis,NA,NA
+K01x400,Glomerulonephritis,47672,Nephrotic syndrome in systemic lupus erythematosus,Diagnosis of Glomerulonephritis,NA,NA
+K01x400,Lupus erythematosus (local and systemic),47672,Nephrotic syndrome in systemic lupus erythematosus,Diagnosis of Lupus erythematosus (local and systemic),NA,NA
+K01x411,Glomerulonephritis,22205,Lupus nephritis,Diagnosis of Glomerulonephritis,NA,NA
+K01x411,Lupus erythematosus (local and systemic),22205,Lupus nephritis,Diagnosis of Lupus erythematosus (local and systemic),NA,NA
+K112.00,Obstructive and reflux uropathy,27592,Hydronephrosis with renal and ureteral calculous obstruction,Diagnosis of Obstructive and reflux uropathy,NA,NA
+K112.00,Urolithiasis,27592,Hydronephrosis with renal and ureteral calculous obstruction,Diagnosis of Urolithiasis,NA,NA
+K26y300,Female infertility,101598,Infertility due to radiation,Possible diagnosis of Female Infertility,NA,NA
+K26y300,Male infertility,101598,Infertility due to radiation,Possible diagnosis of Male infertility,NA,NA
+K26y400,Female infertility,108577,Infertility in systemic disease,Possible diagnosis of Female Infertility,NA,NA
+K26y400,Male infertility,108577,Infertility in systemic disease,Possible diagnosis of Male infertility,NA,NA
+K5B1000,Female infertility,94448,Primary pituitary - hypothalamic infertility,Possible diagnosis of Female Infertility,NA,NA
+K5B1000,Male infertility,94448,Primary pituitary - hypothalamic infertility,Possible diagnosis of Male infertility,NA,NA
+K5B1100,Female infertility,99535,Secondary pituitary - hypothalamic infertility,Possible diagnosis of Female Infertility,NA,NA
+K5B1100,Male infertility,99535,Secondary pituitary - hypothalamic infertility,Possible diagnosis of Male infertility,NA,NA
+K5B6.00,Female infertility,54282,Female infertility associated with male factors,Diagnosis of Female Infertility,NA,NA
+K5B6.00,Male infertility,54282,Female infertility associated with male factors,Diagnosis of Male infertility,NA,NA
+K5By000,Female infertility,2014,Primary infertility unspecified,Possible diagnosis of Female Infertility,NA,NA
+K5By000,Male infertility,2014,Primary infertility unspecified,Possible diagnosis of Male infertility,NA,NA
+K5By100,Female infertility,1943,Secondary infertility unspecified,Possible diagnosis of Female Infertility,NA,NA
+K5By100,Male infertility,1943,Secondary infertility unspecified,Possible diagnosis of Male infertility,NA,NA
+K5Byz11,Female infertility,7246,Subfertility,Possible diagnosis of Female Infertility,NA,NA
+K5Byz11,Male infertility,7246,Subfertility,Possible diagnosis of Male infertility,NA,NA
+M160.00,Psoriatic arthropathy,476,Psoriatic arthropathy,Diagnosis of Psoriatic arthropathy,NA,NA
+M160.00,Psoriasis,476,Psoriatic arthropathy,Diagnosis of Psoriasis,NA,NA
+M160.11,Psoriatic arthropathy,96880,Psoriatic arthritis,Diagnosis of Psoriatic arthropathy,NA,NA
+M160.11,Psoriasis,96880,Psoriatic arthritis,Diagnosis of Psoriasis,NA,NA
+M160000,Psoriatic arthropathy,26368,Psoriasis spondylitica,Diagnosis of Psoriatic arthropathy,NA,NA
+M160000,Psoriasis,26368,Psoriasis spondylitica,Diagnosis of Psoriasis,NA,NA
+M160100,Psoriatic arthropathy,32149,Distal interphalangeal psoriatic arthropathy,Diagnosis of Psoriatic arthropathy,NA,NA
+M160100,Psoriasis,32149,Distal interphalangeal psoriatic arthropathy,Diagnosis of Psoriasis,NA,NA
+M160200,Psoriatic arthropathy,21503,Arthritis mutilans,Diagnosis of Psoriatic arthropathy,NA,NA
+M160200,Psoriasis,21503,Arthritis mutilans,Diagnosis of Psoriasis,NA,NA
+M160z00,Psoriatic arthropathy,12500,Psoriatic arthropathy NOS,Diagnosis of Psoriatic arthropathy,NA,NA
+M160z00,Psoriasis,12500,Psoriatic arthropathy NOS,Diagnosis of Psoriasis,NA,NA
+M271100,Diabetic neurological complications,11663,Neuropathic diabetic ulcer - foot,History of diabetic neurological complications,NA,NA
+M271100,Peripheral neuropathies (excluding cranial nerve and carpal tunnel syndromes),11663,Neuropathic diabetic ulcer - foot,History of peripheral neuropathy,NA,NA
+N031000,Enteropathic arthropathy,17641,Arthropathy in ulcerative colitis,Diagnosis of Enteropathic arthropathy,NA,NA
+N031000,Ulcerative colitis,17641,Arthropathy in ulcerative colitis,History of Ulcerative colitis,NA,NA
+N031100,Crohn's disease,20480,Arthropathy in Crohn's disease,Diagnosis of Crohn's disease,NA,NA
+N031100,Enteropathic arthropathy,20480,Arthropathy in Crohn's disease,Diagnosis of Enteropathic arthropathy,NA,NA
+N040Q00,Enthesopathies & synovial disorders,18155,Rheumatoid bursitis,Diagnosis of Enthesopathies & synovial disorders,NA,NA
+N040Q00,Rheumatoid Arthritis,18155,Rheumatoid bursitis,Diagnosis of Rheumatoid Arthritis,NA,NA
+N045200,Juvenile arthritis,28456,Juvenile arthritis in psoriasis,Diagnosis of Juvenile arthritis,NA,NA
+N045200,Psoriasis,28456,Juvenile arthritis in psoriasis,Diagnosis of Psoriasis,NA,NA
+N045300,Crohn's disease,12575,Juvenile arthritis in Crohn's disease,History of Crohn's disease,NA,NA
+N045300,Juvenile arthritis,12575,Juvenile arthritis in Crohn's disease,Diagnosis of Juvenile arthritis,NA,NA
+N045400,Juvenile arthritis,71083,Juvenile arthritis in ulcerative colitis,Diagnosis of Juvenile arthritis,NA,NA
+N045400,Ulcerative colitis,71083,Juvenile arthritis in ulcerative colitis,History of Ulcerative colitis,NA,NA
+N200.00,Giant Cell arteritis,29472,Giant cell arteritis with polymyalgia rheumatica,Diagnosis of Giant Cell arteritis,NA,NA
+N200.00,Polymyalgia Rheumatica,29472,Giant cell arteritis with polymyalgia rheumatica,Diagnosis of Polymyalgia Rheumatica,NA,NA
+N331800,Collapsed vertebra,17377,Osteoporosis + pathological fracture lumbar vertebrae,Diagnosis of Collapsed vertebra,NA,NA
+N331800,Osteoporosis,17377,Osteoporosis + pathological fracture lumbar vertebrae,Diagnosis of Osteoporosis,NA,NA
+N331900,Collapsed vertebra,12673,Osteoporosis + pathological fracture thoracic vertebrae,Diagnosis of Collapsed vertebra,NA,NA
+N331900,Osteoporosis,12673,Osteoporosis + pathological fracture thoracic vertebrae,Diagnosis of Osteoporosis,NA,NA
+N331A00,Collapsed vertebra,48772,Osteoporosis + pathological fracture cervical vertebrae,Diagnosis of Collapsed vertebra,NA,NA
+N331A00,Osteoporosis,48772,Osteoporosis + pathological fracture cervical vertebrae,Diagnosis of Osteoporosis,NA,NA
+N331H00,Collapsed vertebra,45736,Collapse of cervical vertebra due to osteoporosis,Diagnosis of Collapsed vertebra,NA,NA
+N331H00,Osteoporosis,45736,Collapse of cervical vertebra due to osteoporosis,Diagnosis of Osteoporosis,NA,NA
+N331J00,Collapsed vertebra,5841,Collapse of lumbar vertebra due to osteoporosis,Diagnosis of Collapsed vertebra,NA,NA
+N331J00,Osteoporosis,5841,Collapse of lumbar vertebra due to osteoporosis,Diagnosis of Osteoporosis,NA,NA
+N331K00,Collapsed vertebra,19048,Collapse of thoracic vertebra due to osteoporosis,Diagnosis of Collapsed vertebra,NA,NA
+N331K00,Osteoporosis,19048,Collapse of thoracic vertebra due to osteoporosis,Diagnosis of Osteoporosis,NA,NA
+N331L00,Collapsed vertebra,4013,Collapse of vertebra due to osteoporosis NOS,Diagnosis of Collapsed vertebra,NA,NA
+N331L00,Osteoporosis,4013,Collapse of vertebra due to osteoporosis NOS,Diagnosis of Osteoporosis,NA,NA
+Nyu1300,Psoriatic arthropathy,59107,[X]Other psoriatic arthropathies,Diagnosis of Psoriatic arthropathy,NA,NA
+Nyu1300,Psoriasis,59107,[X]Other psoriatic arthropathies,Diagnosis of Psoriasis,NA,NA
+PJ0..00,Down's syndrome,1543,Down's syndrome - trisomy 21,Diagnosis of Down's syndrome,NA,NA
+PJ0..00,Intellectual disability,1543,Down's syndrome - trisomy 21,NA,readcode,Cambridge
+PJ0..11,Down's syndrome,23489,Mongolism,Diagnosis of Down's syndrome,NA,NA
+PJ0..11,Intellectual disability,23489,Mongolism,NA,readcode,Cambridge
+PJ0..12,Down's syndrome,18415,Trisomy 21,Diagnosis of Down's syndrome,NA,NA
+PJ0..12,Intellectual disability,18415,Trisomy 21,NA,readcode,Cambridge
+PJ0z.00,Down's syndrome,10759,Down's syndrome NOS,Diagnosis of Down's syndrome,NA,NA
+PJ0z.00,Intellectual disability,10759,Down's syndrome NOS,NA,readcode,Cambridge
+PJ0z.11,Down's syndrome,61627,Trisomy 21 NOS,Diagnosis of Down's syndrome,NA,NA
+PJ0z.11,Intellectual disability,61627,Trisomy 21 NOS,NA,readcode,Cambridge
+ZN56A00,Visual impairment and blindness,110179,Deaf-blind telephone user,Diagnosis of blindness,NA,Kuan
+ZN56A00,Hearing loss,110179,Deaf-blind telephone user,Diagnosis of Hearing loss,NA,Kuan
