@@ -1,0 +1,97 @@
+Readcode,Disease,Medcode,ReadcodeDescr,Category,CodingSystem,Provenance
+14A6.00,Heart failure,15058,H/O: heart failure,History of Heart failure,NA,Kuan
+14AM.00,Heart failure,46912,H/O: Heart failure in last year,History of Heart failure,NA,Kuan
+1O1..00,Heart failure,9913,Heart failure confirmed,Diagnosis of Heart failure,readcode,Kuan and Cambridge
+388D.00,Heart failure,46672,New York Heart Assoc classification heart failure symptoms,Diagnosis of Heart failure,NA,Kuan
+402 C,Heart failure,83679,NA,NA,OXMIS,Cambridge
+4270,Heart failure,75877,NA,NA,OXMIS,Cambridge
+4270C,Heart failure,74146,NA,NA,OXMIS,Cambridge
+4270CC,Heart failure,82757,NA,NA,OXMIS,Cambridge
+4270D,Heart failure,83955,NA,NA,OXMIS,Cambridge
+4270DR,Heart failure,89828,NA,NA,OXMIS,Cambridge
+4270LW,Heart failure,84356,NA,NA,OXMIS,Cambridge
+4270R,Heart failure,83557,NA,NA,OXMIS,Cambridge
+4271,Heart failure,74131,NA,NA,OXMIS,Cambridge
+4271A,Heart failure,75716,NA,NA,OXMIS,Cambridge
+4271H,Heart failure,82617,NA,NA,OXMIS,Cambridge
+428 A,Heart failure,84734,NA,NA,OXMIS,Cambridge
+661M500,Heart failure,106198,Heart failure self-management plan agreed,History of Heart failure,NA,Kuan
+662f.00,Heart failure,18853,New York Heart Association classification - class I,Diagnosis of Heart failure,NA,Kuan
+662g.00,Heart failure,13189,New York Heart Association classification - class II,Diagnosis of Heart failure,NA,Kuan
+662h.00,Heart failure,19066,New York Heart Association classification - class III,Diagnosis of Heart failure,NA,Kuan
+662i.00,Heart failure,51214,New York Heart Association classification - class IV,Diagnosis of Heart failure,NA,Kuan
+662p.00,Heart failure,83502,Heart failure 6 month review,History of Heart failure,NA,Kuan
+662T.00,Heart failure,12366,Congestive heart failure monitoring,History of Heart failure,NA,Kuan
+662W.00,Heart failure,30779,Heart failure annual review,History of Heart failure,NA,Kuan
+679W100,Heart failure,105002,Education about deteriorating heart failure,History of Heart failure,NA,Kuan
+679X.00,Heart failure,95835,Heart failure education,History of Heart failure,NA,Kuan
+7824A,Heart failure,91635,NA,NA,OXMIS,Cambridge
+7824AC,Heart failure,80109,NA,NA,OXMIS,Cambridge
+7824FC,Heart failure,75276,NA,NA,OXMIS,Cambridge
+7824FH,Heart failure,74516,NA,NA,OXMIS,Cambridge
+8B29.00,Heart failure,24503,Cardiac failure therapy,Diagnosis of Heart failure,NA,Kuan
+8CeC.00,Heart failure,105542,Preferred place of care for next exacerbation heart failure,History of Heart failure,NA,Kuan
+8CL3.00,Heart failure,32945,Heart failure care plan discussed with patient,History of Heart failure,NA,Kuan
+8CMK.00,Heart failure,103732,Has heart failure management plan,History of Heart failure,NA,Kuan
+8CMW800,Heart failure,106008,Heart failure clinical pathway,History of Heart failure,NA,Kuan
+8H2S.00,Heart failure,32898,Admit heart failure emergency,History of Heart failure,NA,Kuan
+8HBE.00,Heart failure,17851,Heart failure follow-up,History of Heart failure,NA,Kuan
+8HHz.00,Heart failure,70619,Referral to heart failure exercise programme,History of Heart failure,NA,Kuan
+8Hk0.00,Heart failure,71235,Referred to heart failure education group,History of Heart failure,NA,Kuan
+9h1..00,Heart failure,34213,Exception reporting: LVD quality indicators,History of Heart failure,NA,Kuan
+9h11.00,Heart failure,11613,Excepted from LVD quality indicators: Patient unsuitable,History of Heart failure,NA,Kuan
+9h12.00,Heart failure,28649,Excepted from LVD quality indicators: Informed dissent,History of Heart failure,NA,Kuan
+9hH..00,Heart failure,90935,Exception reporting: heart failure quality indicators,History of Heart failure,NA,Kuan
+9hH0.00,Heart failure,30749,Excepted heart failure quality indicators: Patient unsuitabl,History of Heart failure,NA,Kuan
+9hH1.00,Heart failure,64062,Excepted heart failure quality indicators: Informed dissent,History of Heart failure,NA,Kuan
+9N2p.00,Heart failure,19002,Seen by community heart failure nurse,History of Heart failure,NA,Kuan
+9N6T.00,Heart failure,69062,Referred by heart failure nurse specialist,History of Heart failure,NA,Kuan
+9On..00,Heart failure,18793,Left ventricular dysfunction monitoring administration,History of Heart failure,NA,Kuan
+9On0.00,Heart failure,60710,Left ventricular dysfunction monitoring first letter,History of Heart failure,NA,Kuan
+9On1.00,Heart failure,60721,Left ventricular dysfunction monitoring second letter,History of Heart failure,NA,Kuan
+9On2.00,Heart failure,72341,Left ventricular dysfunction monitoring third letter,History of Heart failure,NA,Kuan
+9On3.00,Heart failure,92305,Left ventricular dysfunction monitoring verbal invite,History of Heart failure,NA,Kuan
+9On4.00,Heart failure,96484,Left ventricular dysfunction monitoring telephone invite,History of Heart failure,NA,Kuan
+9Or..00,Heart failure,32911,Heart failure monitoring administration,History of Heart failure,NA,Kuan
+9Or0.00,Heart failure,19380,Heart failure review completed,History of Heart failure,NA,Kuan
+9Or1.00,Heart failure,90193,Heart failure monitoring telephone invite,History of Heart failure,NA,Kuan
+9Or2.00,Heart failure,90192,Heart failure monitoring verbal invite,History of Heart failure,NA,Kuan
+9Or3.00,Heart failure,72965,Heart failure monitoring first letter,History of Heart failure,NA,Kuan
+9Or4.00,Heart failure,72386,Heart failure monitoring second letter,History of Heart failure,NA,Kuan
+9Or5.00,Heart failure,89650,Heart failure monitoring third letter,History of Heart failure,NA,Kuan
+G1yz100,Heart failure,22262,Rheumatic left ventricular failure,Diagnosis of Heart failure,readcode,Kuan and Cambridge
+G210100,Heart failure,72668,Malignant hypertensive heart disease with CCF,Diagnosis of Heart failure,NA,Kuan
+G211100,Heart failure,52127,Benign hypertensive heart disease with CCF,Diagnosis of Heart failure,NA,Kuan
+G21z100,Heart failure,62718,Hypertensive heart disease NOS with CCF,Diagnosis of Heart failure,NA,Kuan
+G232.00,Heart failure,21837,Hypertensive heart&renal dis wth (congestive) heart failure,Diagnosis of Heart failure,readcode,Kuan and Cambridge
+G234.00,Heart failure,57987,Hyperten heart&renal dis+both(congestv)heart and renal fail,Diagnosis of Heart failure,readcode,Kuan and Cambridge
+G400.00,Heart failure,8464,Acute cor pulmonale,Diagnosis of Heart failure,NA,Kuan
+G41z.11,Heart failure,5695,Chronic cor pulmonale,Diagnosis of Heart failure,NA,Kuan
+G554000,Heart failure,5141,Congestive cardiomyopathy,Diagnosis of Heart failure,NA,Kuan
+G554011,Heart failure,68766,Congestive obstructive cardiomyopathy,Diagnosis of Heart failure,NA,Kuan
+G58..00,Heart failure,2062,Heart failure,Diagnosis of Heart failure,readcode,Kuan and Cambridge
+G58..11,Heart failure,1223,Cardiac failure,Diagnosis of Heart failure,readcode,Kuan and Cambridge
+G580.00,Heart failure,398,Congestive heart failure,Diagnosis of Heart failure,readcode,Kuan and Cambridge
+G580.11,Heart failure,2906,Congestive cardiac failure,Diagnosis of Heart failure,readcode,Kuan and Cambridge
+G580.12,Heart failure,10079,Right heart failure,Diagnosis of Heart failure,readcode,Kuan and Cambridge
+G580.13,Heart failure,10154,Right ventricular failure,Diagnosis of Heart failure,readcode,Kuan and Cambridge
+G580.14,Heart failure,9524,Biventricular failure,Diagnosis of Heart failure,readcode,Kuan and Cambridge
+G580000,Heart failure,23707,Acute congestive heart failure,Diagnosis of Heart failure,readcode,Kuan and Cambridge
+G580100,Heart failure,32671,Chronic congestive heart failure,Diagnosis of Heart failure,readcode,Kuan and Cambridge
+G580200,Heart failure,27884,Decompensated cardiac failure,Diagnosis of Heart failure,readcode,Kuan and Cambridge
+G580300,Heart failure,11424,Compensated cardiac failure,Diagnosis of Heart failure,readcode,Kuan and Cambridge
+G580400,Heart failure,94870,Congestive heart failure due to valvular disease,Diagnosis of Heart failure,NA,Kuan
+G581.00,Heart failure,884,Left ventricular failure,Diagnosis of Heart failure,readcode,Kuan and Cambridge
+G581.11,Heart failure,23481,Asthma - cardiac,Diagnosis of Heart failure,readcode,Kuan and Cambridge
+G581.12,Heart failure,43618,Pulmonary oedema - acute,NA,readcode,Cambridge
+G581.13,Heart failure,5942,Impaired left ventricular function,Diagnosis of Heart failure,readcode,Kuan and Cambridge
+G581000,Heart failure,5255,Acute left ventricular failure,Diagnosis of Heart failure,readcode,Kuan and Cambridge
+G582.00,Heart failure,27964,Acute heart failure,Diagnosis of Heart failure,readcode,Kuan and Cambridge
+G584.00,Heart failure,104275,Right ventricular failure,Diagnosis of Heart failure,NA,Kuan
+G58z.00,Heart failure,4024,Heart failure NOS,Diagnosis of Heart failure,readcode,Kuan and Cambridge
+G58z.12,Heart failure,17278,Cardiac failure NOS,Diagnosis of Heart failure,readcode,Kuan and Cambridge
+G5yy900,Heart failure,8966,Left ventricular systolic dysfunction,Diagnosis of Heart failure,NA,Kuan
+G5yyA00,Heart failure,12550,Left ventricular diastolic dysfunction,Diagnosis of Heart failure,NA,Kuan
+Q48y100,Heart failure,20822,Congenital cardiac failure,NA,readcode,Cambridge
+Q490.00,Heart failure,23566,Neonatal cardiac failure,NA,readcode,Cambridge
+ZRad.00,Heart failure,26242,New York Heart Assoc classification heart failure symptoms,Diagnosis of Heart failure,NA,Kuan

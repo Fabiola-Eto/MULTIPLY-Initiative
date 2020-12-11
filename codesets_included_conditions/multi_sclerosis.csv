@@ -1,0 +1,24 @@
+Readcode,Disease,Medcode,ReadcodeDescr,Category,CodingSystem,Provenance
+666A.00,Multiple sclerosis,44985,Multiple sclerosis review,History of Multiple sclerosis,readcode,Kuan and Cambridge
+666B.00,Multiple sclerosis,43232,Multiple sclerosis multidisciplinary review,History of Multiple sclerosis,readcode,Kuan and Cambridge
+8Cc0.00,Multiple sclerosis,98835,Management of multiple sclerosis in onset phase,Diagnosis of Multiple sclerosis,NA,Kuan
+8Cc1.00,Multiple sclerosis,97487,Management of multiple sclerosis in early disease phase,Diagnosis of Multiple sclerosis,NA,Kuan
+8Cc2.00,Multiple sclerosis,95864,Management of multiple sclerosis in stable disability phase,History of Multiple sclerosis,NA,Kuan
+8Cc4.00,Multiple sclerosis,98521,Management of multiple sclerosis in palliative phase,History of Multiple sclerosis,NA,Kuan
+8CS1.00,Multiple sclerosis,50161,Multiple sclerosis care plan agreed,History of Multiple sclerosis,readcode,Kuan and Cambridge
+8IAb.00,Multiple sclerosis,100503,Multiple sclerosis review declined,History of Multiple sclerosis,NA,Kuan
+9kG..00,Multiple sclerosis,48527,Spec serv for pat with multiple sclerosis - enh serv admin,History of Multiple sclerosis,NA,Kuan
+9mD..00,Multiple sclerosis,106307,Multiple sclerosis monitoring administration,History of Multiple sclerosis,NA,Kuan
+9mD0.00,Multiple sclerosis,109049,Multiple sclerosis monitoring first letter,History of Multiple sclerosis,NA,Kuan
+9mD1.00,Multiple sclerosis,109302,Multiple sclerosis monitoring second letter,History of Multiple sclerosis,NA,Kuan
+F20..00,Multiple sclerosis,684,Multiple sclerosis,Diagnosis of Multiple sclerosis,readcode,Kuan and Cambridge
+F20..11,Multiple sclerosis,3440,Disseminated sclerosis,Diagnosis of Multiple sclerosis,NA,Kuan
+F200.00,Multiple sclerosis,40344,Multiple sclerosis of the brain stem,Diagnosis of Multiple sclerosis,readcode,Kuan and Cambridge
+F201.00,Multiple sclerosis,69886,Multiple sclerosis of the spinal cord,Diagnosis of Multiple sclerosis,readcode,Kuan and Cambridge
+F202.00,Multiple sclerosis,23730,Generalised multiple sclerosis,Diagnosis of Multiple sclerosis,readcode,Kuan and Cambridge
+F203.00,Multiple sclerosis,2298,Exacerbation of multiple sclerosis,History of Multiple sclerosis,readcode,Kuan and Cambridge
+F204.00,Multiple sclerosis,96291,Benign multiple sclerosis,Diagnosis of Multiple sclerosis,readcode,Kuan and Cambridge
+F206.00,Multiple sclerosis,96607,Primary progressive multiple sclerosis,Diagnosis of Multiple sclerosis,readcode,Kuan and Cambridge
+F207.00,Multiple sclerosis,95972,Relapsing and remitting multiple sclerosis,Diagnosis of Multiple sclerosis,readcode,Kuan and Cambridge
+F208.00,Multiple sclerosis,96246,Secondary progressive multiple sclerosis,Diagnosis of Multiple sclerosis,readcode,Kuan and Cambridge
+F20z.00,Multiple sclerosis,20493,Multiple sclerosis NOS,Diagnosis of Multiple sclerosis,readcode,Kuan and Cambridge

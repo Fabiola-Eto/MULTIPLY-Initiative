@@ -1,0 +1,455 @@
+Readcode,Disease,Medcode,ReadcodeDescr,Category,CodingSystem,Provenance
+13c..00,Other psychoactive substance misuse,8490,Drug user,NA,readcode,Cambridge
+13c0.00,Other psychoactive substance misuse,22079,Injecting drug user,NA,readcode,Cambridge
+13c1.00,Other psychoactive substance misuse,30251,Intravenous drug user,NA,readcode,Cambridge
+13c4.00,Other psychoactive substance misuse,42257,Intranasal drug user,NA,readcode,Cambridge
+13c5.00,Other psychoactive substance misuse,28642,Substance misuse increased,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+13c6.00,Other psychoactive substance misuse,35286,Substance misuse decreased,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+13c7.00,Other psychoactive substance misuse,49618,Current drug user,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+13c8.00,Other psychoactive substance misuse,35404,Reduced drugs misuse,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+13c9.00,Other psychoactive substance misuse,38125,Subcutaneous drug user,Diagnosis of Other psychoactive substance misuse,NA,Kuan
+13cA.00,Other psychoactive substance misuse,26096,Smokes drugs,Diagnosis of Other psychoactive substance misuse,NA,Kuan
+13cB.00,Other psychoactive substance misuse,38029,Misuses drugs orally,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+13cC.00,Other psychoactive substance misuse,47804,Continuous use of drugs,Diagnosis of Other psychoactive substance misuse,NA,Kuan
+13cD.00,Other psychoactive substance misuse,44966,Episodic use of drugs,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+13cE.00,Other psychoactive substance misuse,25925,Prolonged high dose use of cannabis,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+13cF.00,Other psychoactive substance misuse,41039,Preoccupied with substance misuse,Diagnosis of Other psychoactive substance misuse,NA,Kuan
+13cH.00,Other psychoactive substance misuse,28766,Persistent substance misuse,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+13cJ.00,Other psychoactive substance misuse,32709,Previously injecting drug user,Diagnosis of Other psychoactive substance misuse,NA,Kuan
+13cK.00,Other psychoactive substance misuse,69977,Current non recreational drug user,Diagnosis of Other psychoactive substance misuse,NA,Kuan
+13cM.00,Other psychoactive substance misuse,93412,Substance misuse,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+13r3.00,Other psychoactive substance misuse,68327,Abstinent from drug misuse on maintenance replacement,History of Other psychoactive substance misuse,NA,Kuan
+13r4.00,Other psychoactive substance misuse,94693,Abstinent from drug misuse when receiving blocking therapy,History of Other psychoactive substance misuse,NA,Kuan
+146C.00,Other psychoactive substance misuse,30565,Failed heroin detoxification,NA,readcode,Cambridge
+146F.00,Other psychoactive substance misuse,12651,H/O: drug abuse,History of Other psychoactive substance misuse,NA,Kuan
+1T...00,Other psychoactive substance misuse,85956,History of substance misuse,History of Other psychoactive substance misuse,NA,Kuan
+1T0..00,Other psychoactive substance misuse,82479,H/O heroin misuse,History of Other psychoactive substance misuse,NA,Kuan
+1T00.00,Other psychoactive substance misuse,86002,H/O daily heroin misuse,History of Other psychoactive substance misuse,NA,Kuan
+1T01.00,Other psychoactive substance misuse,93554,H/O weekly heroin misuse,History of Other psychoactive substance misuse,NA,Kuan
+1T02.00,Other psychoactive substance misuse,88372,Previous history of heroin misuse,History of Other psychoactive substance misuse,NA,Kuan
+1T03.00,Other psychoactive substance misuse,89145,H/O infrequent heroin misuse,History of Other psychoactive substance misuse,NA,Kuan
+1T1..00,Other psychoactive substance misuse,85097,H/O methadone misuse,History of Other psychoactive substance misuse,NA,Kuan
+1T10.00,Other psychoactive substance misuse,92404,H/O daily methadone misuse,History of Other psychoactive substance misuse,NA,Kuan
+1T11.00,Other psychoactive substance misuse,93109,H/O weekly methadone misuse,History of Other psychoactive substance misuse,NA,Kuan
+1T12.00,Other psychoactive substance misuse,106342,H/O infrequent methadone misuse,History of Other psychoactive substance misuse,NA,Kuan
+1T13.00,Other psychoactive substance misuse,86771,Previous history of methadone misuse,History of Other psychoactive substance misuse,NA,Kuan
+1T2..00,Other psychoactive substance misuse,81441,H/O ecstasy misuse,History of Other psychoactive substance misuse,NA,Kuan
+1T20.00,Other psychoactive substance misuse,95380,H/O daily ecstasy misuse,History of Other psychoactive substance misuse,NA,Kuan
+1T21.00,Other psychoactive substance misuse,92359,H/O weekly ecstasy misuse,History of Other psychoactive substance misuse,NA,Kuan
+1T22.00,Other psychoactive substance misuse,90442,H/O infrequent ecstasy misuse,History of Other psychoactive substance misuse,NA,Kuan
+1T23.00,Other psychoactive substance misuse,89698,Previous history of ecstasy misuse,History of Other psychoactive substance misuse,NA,Kuan
+1T3..00,Other psychoactive substance misuse,85834,H/O benzodiazepine misuse,History of Other psychoactive substance misuse,NA,Kuan
+1T30.00,Other psychoactive substance misuse,92232,H/O daily benzodiazepine misuse,History of Other psychoactive substance misuse,NA,Kuan
+1T31.00,Other psychoactive substance misuse,93774,H/O weekly benzodiazepine misuse,History of Other psychoactive substance misuse,NA,Kuan
+1T32.00,Other psychoactive substance misuse,92993,H/O infrequent benzodiazepine misuse,History of Other psychoactive substance misuse,NA,Kuan
+1T33.00,Other psychoactive substance misuse,91848,Previous history of benzodiazepine misuse,History of Other psychoactive substance misuse,NA,Kuan
+1T4..00,Other psychoactive substance misuse,85096,H/O amphetamine misuse,History of Other psychoactive substance misuse,NA,Kuan
+1T40.00,Other psychoactive substance misuse,90664,H/O daily amphetamine misuse,History of Other psychoactive substance misuse,NA,Kuan
+1T41.00,Other psychoactive substance misuse,88782,H/O weekly amphetamine misuse,History of Other psychoactive substance misuse,NA,Kuan
+1T42.00,Other psychoactive substance misuse,88781,H/O infrequent amphetamine misuse,History of Other psychoactive substance misuse,NA,Kuan
+1T43.00,Other psychoactive substance misuse,83574,Previous history of amphetamine misuse,History of Other psychoactive substance misuse,NA,Kuan
+1T5..00,Other psychoactive substance misuse,82471,H/O cocaine misuse,History of Other psychoactive substance misuse,NA,Kuan
+1T50.00,Other psychoactive substance misuse,85091,H/O daily cocaine misuse,History of Other psychoactive substance misuse,NA,Kuan
+1T51.00,Other psychoactive substance misuse,90109,H/O weekly cocaine misuse,History of Other psychoactive substance misuse,NA,Kuan
+1T52.00,Other psychoactive substance misuse,87002,H/O infrequent cocaine misuse,History of Other psychoactive substance misuse,NA,Kuan
+1T53.00,Other psychoactive substance misuse,84156,Previous history of cocaine misuse,History of Other psychoactive substance misuse,NA,Kuan
+1T6..00,Other psychoactive substance misuse,86035,H/O crack cocaine misuse,History of Other psychoactive substance misuse,NA,Kuan
+1T60.00,Other psychoactive substance misuse,88990,H/O daily crack cocaine misuse,History of Other psychoactive substance misuse,NA,Kuan
+1T61.00,Other psychoactive substance misuse,90271,H/O weekly crack cocaine misuse,History of Other psychoactive substance misuse,NA,Kuan
+1T62.00,Other psychoactive substance misuse,88844,H/O infrequent crack cocaine misuse,History of Other psychoactive substance misuse,NA,Kuan
+1T63.00,Other psychoactive substance misuse,85671,Previous history of crack cocaine misuse,History of Other psychoactive substance misuse,NA,Kuan
+1T7..00,Other psychoactive substance misuse,96198,H/O hallucinogen misuse,History of Other psychoactive substance misuse,NA,Kuan
+1T73.00,Other psychoactive substance misuse,93193,Previous history of hallucinogen misuse,History of Other psychoactive substance misuse,NA,Kuan
+1T8..00,Other psychoactive substance misuse,78442,H/O cannabis misuse,History of Other psychoactive substance misuse,NA,Kuan
+1T80.00,Other psychoactive substance misuse,86754,H/O daily cannabis misuse,History of Other psychoactive substance misuse,NA,Kuan
+1T81.00,Other psychoactive substance misuse,87502,H/O weekly cannabis misuse,History of Other psychoactive substance misuse,NA,Kuan
+1T82.00,Other psychoactive substance misuse,83564,H/O infrequent cannabis misuse,History of Other psychoactive substance misuse,NA,Kuan
+1T83.00,Other psychoactive substance misuse,82476,Previous history of cannabis misuse,History of Other psychoactive substance misuse,NA,Kuan
+1T9..00,Other psychoactive substance misuse,84215,H/O solvent misuse,History of Other psychoactive substance misuse,NA,Kuan
+1T90.00,Other psychoactive substance misuse,95396,H/O daily solvent misuse,History of Other psychoactive substance misuse,NA,Kuan
+1T91.00,Other psychoactive substance misuse,99429,H/O weekly solvent misuse,History of Other psychoactive substance misuse,NA,Kuan
+1T92.00,Other psychoactive substance misuse,109471,H/O infrequent solvent misuse,History of Other psychoactive substance misuse,NA,Kuan
+1T93.00,Other psychoactive substance misuse,89930,Previous history of solvent misuse,History of Other psychoactive substance misuse,NA,Kuan
+1TA..00,Other psychoactive substance misuse,93263,H/O barbiturate misuse,History of Other psychoactive substance misuse,NA,Kuan
+1TA3.00,Other psychoactive substance misuse,109849,Previous history of barbiturate misuse,History of Other psychoactive substance misuse,NA,Kuan
+1TB..00,Other psychoactive substance misuse,101724,H/O major tranquilliser misuse,History of Other psychoactive substance misuse,NA,Kuan
+1TB0.00,Other psychoactive substance misuse,93528,H/O daily major tranquilliser misuse,History of Other psychoactive substance misuse,NA,Kuan
+1TC..00,Other psychoactive substance misuse,99798,H/O anti-depressant misuse,History of Other psychoactive substance misuse,NA,Kuan
+1TC0.00,Other psychoactive substance misuse,103881,H/O daily anti-depressant misuse,History of Other psychoactive substance misuse,NA,Kuan
+1TC3.00,Other psychoactive substance misuse,106143,Previous history of anti-depressant misuse,History of Other psychoactive substance misuse,NA,Kuan
+1TD..00,Other psychoactive substance misuse,86036,H/O opiate misuse,History of Other psychoactive substance misuse,NA,Kuan
+1TD0.00,Other psychoactive substance misuse,88760,H/O daily opiate misuse,History of Other psychoactive substance misuse,NA,Kuan
+1TD1.00,Other psychoactive substance misuse,101377,H/O weekly opiate misuse,History of Other psychoactive substance misuse,NA,Kuan
+1TD2.00,Other psychoactive substance misuse,91029,H/O infrequent opiate misuse,History of Other psychoactive substance misuse,NA,Kuan
+1TD3.00,Other psychoactive substance misuse,91256,Previous history of opiate misuse,History of Other psychoactive substance misuse,NA,Kuan
+1TE..00,Other psychoactive substance misuse,86041,Uses heroin on top of substitution therapy,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+1TF..00,Other psychoactive substance misuse,85953,Does not use heroin on top of substitution therapy,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+1V...00,Other psychoactive substance misuse,97025,Drug misuse behaviour,Diagnosis of Other psychoactive substance misuse,NA,Kuan
+1V0..00,Other psychoactive substance misuse,97578,Misuses drugs,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+1V00.00,Other psychoactive substance misuse,97648,Occasional drug user,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+1V01.00,Other psychoactive substance misuse,98528,Long-term drug misuser,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+1V02.00,Other psychoactive substance misuse,97698,Poly-drug misuser,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+1V04.00,Other psychoactive substance misuse,110153,Misuses drugs rectally,Diagnosis of Other psychoactive substance misuse,NA,Kuan
+1V07.00,Other psychoactive substance misuse,101697,Notified addict,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+1V08.00,Other psychoactive substance misuse,105999,Smokes drugs in cigarette form,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+1V09.00,Other psychoactive substance misuse,107593,Smokes drugs through a pipe,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+1V0A.00,Other psychoactive substance misuse,105104,Chases the dragon,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+1V0B.00,Other psychoactive substance misuse,103844,Sniffs drugs,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+1V0C.00,Other psychoactive substance misuse,98914,Drug addict,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+1V0E.00,Other psychoactive substance misuse,100935,Health problem secondary to drug misuse,History of Other psychoactive substance misuse,NA,Kuan
+1V22.00,Other psychoactive substance misuse,101892,Age at starting drug misuse,Diagnosis of Other psychoactive substance misuse,NA,Kuan
+1V23.00,Other psychoactive substance misuse,101394,Time since stopped drug misuse,History of Other psychoactive substance misuse,NA,Kuan
+1V26.00,Other psychoactive substance misuse,100477,Misused drugs in past,History of Other psychoactive substance misuse,NA,Kuan
+1V3..00,Other psychoactive substance misuse,97000,Drug injection behaviour,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+1V30.00,Other psychoactive substance misuse,109558,Injects drugs subcutaneously,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+1V31.00,Other psychoactive substance misuse,109544,Injects drugs intramuscularly,Diagnosis of Other psychoactive substance misuse,NA,Kuan
+1V32.00,Other psychoactive substance misuse,107780,Neck injector,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+1V35.00,Other psychoactive substance misuse,103726,Shares drug equipment,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+1V37.00,Other psychoactive substance misuse,103725,Drug injecting equipment hygiene,Diagnosis of Other psychoactive substance misuse,NA,Kuan
+1V38.00,Other psychoactive substance misuse,97811,Sharing of drug injecting equipment,Diagnosis of Other psychoactive substance misuse,NA,Kuan
+1V4..00,Other psychoactive substance misuse,103018,Priority of drug-related activities,Diagnosis of Other psychoactive substance misuse,NA,Kuan
+1V5..00,Other psychoactive substance misuse,98452,Routine of drug-related activities,Diagnosis of Other psychoactive substance misuse,NA,Kuan
+1V6..00,Other psychoactive substance misuse,97245,Drug-related offending behaviour,NA,readcode,Cambridge
+1V62.00,Other psychoactive substance misuse,98169,Buying drugs,NA,readcode,Cambridge
+1V63.00,Other psychoactive substance misuse,97071,Possession of drugs,NA,readcode,Cambridge
+1V64.00,Other psychoactive substance misuse,97028,Illicit drug use,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+1V65.00,Other psychoactive substance misuse,96925,Heroin misuse,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+1V66.00,Other psychoactive substance misuse,97031,Ecstasy misuse,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+46QB100,Other psychoactive substance misuse,107755,Urine methadone positive,Diagnosis of Other psychoactive substance misuse,NA,Kuan
+46Qr000,Other psychoactive substance misuse,108762,Urine buprenorphine positive,Diagnosis of Other psychoactive substance misuse,NA,Kuan
+677T.00,Other psychoactive substance misuse,96049,Substance misuse structured counselling,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+7P22000,Other psychoactive substance misuse,30750,Delivery of rehabilitation for drug addiction,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+8AA..00,Other psychoactive substance misuse,54356,Drug abuse monitoring,Diagnosis of Other psychoactive substance misuse,NA,Kuan
+8B23.00,Other psychoactive substance misuse,7496,Drug addiction therapy,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+8B23.11,Other psychoactive substance misuse,6111,Drug addictn therap-methadone,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+8B23.13,Other psychoactive substance misuse,9024,Drug dependence therapy,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+8B2M.00,Other psychoactive substance misuse,47083,Buprenorphine maintenance therapy,Diagnosis of Other psychoactive substance misuse,NA,Kuan
+8B2N.00,Other psychoactive substance misuse,28976,Drug addiction detoxification therapy - methadone,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+8B2P.00,Other psychoactive substance misuse,30694,Drug addiction maintenance therapy - methadone,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+8B2Q.00,Other psychoactive substance misuse,43487,Drug addiction maintenance therapy - buprenorphine,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+8B2R.00,Other psychoactive substance misuse,51052,Drug addiction detoxification therapy - buprenorphine,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+8B2S.00,Other psychoactive substance misuse,93980,Opioid agonist substitution therapy,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+8B2T.00,Other psychoactive substance misuse,93979,Opioid antagonist therapy,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+8BA9.00,Other psychoactive substance misuse,3222,Detoxification dependence drug,Diagnosis of Other psychoactive substance misuse,NA,Kuan
+8BAc.00,Other psychoactive substance misuse,42649,Substance misuse management stopped - self withdrawal,History of Other psychoactive substance misuse,NA,Kuan
+8BAd.00,Other psychoactive substance misuse,30598,Opiate dependence detoxification,Diagnosis of Other psychoactive substance misuse,NA,Kuan
+8BAW.00,Other psychoactive substance misuse,32653,Drug dependence self detoxification,NA,readcode,Cambridge
+8BAX.00,Other psychoactive substance misuse,30679,Drug dependence home detoxification,NA,readcode,Cambridge
+8BE0.00,Other psychoactive substance misuse,90198,Reinduction to methadone maintenance therapy,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+8BE1.00,Other psychoactive substance misuse,96081,Reinduction to buprenorphine maintenance therapy,Diagnosis of Other psychoactive substance misuse,NA,Kuan
+8H7x.00,Other psychoactive substance misuse,12856,Referral to drug abuse counsellor,Diagnosis of Other psychoactive substance misuse,NA,Kuan
+8Hh1.00,Other psychoactive substance misuse,94686,Self referral to substance misuse service,Diagnosis of Other psychoactive substance misuse,NA,Kuan
+8HkF.00,Other psychoactive substance misuse,93850,Referral to substance misuse service,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+8Hq..00,Other psychoactive substance misuse,100178,Admission to substance misuse detoxification centre,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+8I2N.00,Other psychoactive substance misuse,60985,Drug dependence home detoxification contraindicated,NA,readcode,Cambridge
+9G2..00,Other psychoactive substance misuse,29728,Drug addiction notification,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+9G2..11,Other psychoactive substance misuse,21623,Drug addict notific admin,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+9G21.00,Other psychoactive substance misuse,24849,Drug addict notific to CMO,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+9G22.00,Other psychoactive substance misuse,69963,Drug addict re-notific due,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+9G23.00,Other psychoactive substance misuse,60372,Drug addict re-notif to CMO,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+9G24.00,Other psychoactive substance misuse,65927,Drug addict-notify local SMR22,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+9G2Z.00,Other psychoactive substance misuse,58743,Drug addiction notif NOS,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+9HC..00,Other psychoactive substance misuse,31213,Substance misuse monitoring,Diagnosis of Other psychoactive substance misuse,NA,Kuan
+9HC0.00,Other psychoactive substance misuse,22530,Initial substance misuse assessment,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+9HC1.00,Other psychoactive substance misuse,58145,Follow up substance misuse assessment,Diagnosis of Other psychoactive substance misuse,NA,Kuan
+9HC2.00,Other psychoactive substance misuse,45550,Substance misuse clinical management plan agreed,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+9HC3.00,Other psychoactive substance misuse,72663,Substance misuse clinical management plan reviewed,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+9HC4.00,Other psychoactive substance misuse,91939,Substance misuse treatment withdrawn,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+9HC5.00,Other psychoactive substance misuse,91277,Substance misuse treatment programme completed,Diagnosis of Other psychoactive substance misuse,NA,Kuan
+9HC6.00,Other psychoactive substance misuse,96009,Substance misuse treatment declined,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+9K4..00,Other psychoactive substance misuse,98763,SMR25a drug misuse initial assessment form,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+9k5..00,Other psychoactive substance misuse,34398,Drug misuse - enhanced services administration,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+9k50.00,Other psychoactive substance misuse,62490,Drug misuse - enhanced service completed,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+9k51.00,Other psychoactive substance misuse,97586,Shared care drug misuse treatment - enhanced services admin,Diagnosis of Other psychoactive substance misuse,NA,Kuan
+9k51.11,Other psychoactive substance misuse,103241,Shared care drug misuse treatment,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+9k52.00,Other psychoactive substance misuse,97676,Drug misuse treatment primary care - enhanced services admin,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+9k53.00,Other psychoactive substance misuse,98566,Pharmacy attended for drug misuse - enhanced services admin,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+9kS..00,Other psychoactive substance misuse,98362,Drug misuse assessment declined - enhanced services administ,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+9N1yJ00,Other psychoactive substance misuse,107355,Seen in drug misuse clinic,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+9N4i.00,Other psychoactive substance misuse,30465,DNA - Did not attend substance misuse clinic,Diagnosis of Other psychoactive substance misuse,NA,Kuan
+9NdN.00,Other psychoactive substance misuse,106290,Declined consent for notification of drug misuse,NA,readcode,Cambridge
+9No5.00,Other psychoactive substance misuse,98221,Seen in substance misuse clinic,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+9s...00,Other psychoactive substance misuse,106802,Drug misuse clinic administration,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+E02..00,Other psychoactive substance misuse,16256,Drug psychoses,Diagnosis of Other psychoactive substance misuse,NA,Kuan
+E020.00,Other psychoactive substance misuse,3844,Drug withdrawal syndrome,Diagnosis of Other psychoactive substance misuse,NA,Kuan
+E021.00,Other psychoactive substance misuse,45997,Drug-induced paranoia or hallucinatory states,Diagnosis of Other psychoactive substance misuse,NA,Kuan
+E021000,Other psychoactive substance misuse,12628,Drug-induced paranoid state,Diagnosis of Other psychoactive substance misuse,NA,Kuan
+E021100,Other psychoactive substance misuse,20026,Drug-induced hallucinosis,Diagnosis of Other psychoactive substance misuse,NA,Kuan
+E021z00,Other psychoactive substance misuse,26481,Drug-induced paranoia or hallucinatory state NOS,Diagnosis of Other psychoactive substance misuse,NA,Kuan
+E022.00,Other psychoactive substance misuse,15876,Pathological drug intoxication,Diagnosis of Other psychoactive substance misuse,NA,Kuan
+E02y.00,Other psychoactive substance misuse,51135,Other drug psychoses,Diagnosis of Other psychoactive substance misuse,NA,Kuan
+E02y000,Other psychoactive substance misuse,29783,Drug-induced delirium,Diagnosis of Other psychoactive substance misuse,NA,Kuan
+E02y100,Other psychoactive substance misuse,62132,Drug-induced dementia,Diagnosis of Other psychoactive substance misuse,NA,Kuan
+E02y300,Other psychoactive substance misuse,46244,Drug-induced depressive state,Diagnosis of Other psychoactive substance misuse,NA,Kuan
+E02y400,Other psychoactive substance misuse,22103,Drug-induced personality disorder,Diagnosis of Other psychoactive substance misuse,NA,Kuan
+E02yz00,Other psychoactive substance misuse,28767,Other drug psychoses NOS,Diagnosis of Other psychoactive substance misuse,NA,Kuan
+E02z.00,Other psychoactive substance misuse,26002,Drug psychosis NOS,Diagnosis of Other psychoactive substance misuse,NA,Kuan
+E24..00,Other psychoactive substance misuse,5105,Drug dependence,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+E24..11,Other psychoactive substance misuse,3519,Drug addiction,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+E240.00,Other psychoactive substance misuse,16243,Opioid type drug dependence,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+E240.11,Other psychoactive substance misuse,689,Heroin dependence,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+E240.12,Other psychoactive substance misuse,16374,Methadone dependence,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+E240.13,Other psychoactive substance misuse,22059,Morphine dependence,Diagnosis of Other psychoactive substance misuse,NA,Kuan
+E240.14,Other psychoactive substance misuse,32804,Opium dependence,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+E240000,Other psychoactive substance misuse,38034,Unspecified opioid dependence,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+E240100,Other psychoactive substance misuse,43075,Continuous opioid dependence,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+E240200,Other psychoactive substance misuse,20962,Episodic opioid dependence,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+E240300,Other psychoactive substance misuse,27960,Opioid dependence in remission,Diagnosis of Other psychoactive substance misuse,NA,Kuan
+E240z00,Other psychoactive substance misuse,24441,Opioid drug dependence NOS,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+E241.00,Other psychoactive substance misuse,25344,Hypnotic or anxiolytic dependence,Diagnosis of Other psychoactive substance misuse,NA,Kuan
+E241.11,Other psychoactive substance misuse,35733,Anxiolytic dependence,Diagnosis of Other psychoactive substance misuse,NA,Kuan
+E241.12,Other psychoactive substance misuse,23436,Barbiturate dependence,Diagnosis of Other psychoactive substance misuse,NA,Kuan
+E241.13,Other psychoactive substance misuse,460,Benzodiazepine dependence,Diagnosis of Other psychoactive substance misuse,NA,Kuan
+E241.14,Other psychoactive substance misuse,18210,Diazepam dependence,Diagnosis of Other psychoactive substance misuse,NA,Kuan
+E241.15,Other psychoactive substance misuse,31862,Librium dependence,Diagnosis of Other psychoactive substance misuse,NA,Kuan
+E241.16,Other psychoactive substance misuse,36223,Sedative dependence,Diagnosis of Other psychoactive substance misuse,NA,Kuan
+E241.17,Other psychoactive substance misuse,37130,Valium dependence,Diagnosis of Other psychoactive substance misuse,NA,Kuan
+E241000,Other psychoactive substance misuse,53025,"Hypnotic or anxiolytic dependence, unspecified",Diagnosis of Other psychoactive substance misuse,NA,Kuan
+E241100,Other psychoactive substance misuse,26208,"Hypnotic or anxiolytic dependence, continuous",Diagnosis of Other psychoactive substance misuse,NA,Kuan
+E241200,Other psychoactive substance misuse,50778,"Hypnotic or anxiolytic dependence, episodic",Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+E241300,Other psychoactive substance misuse,48702,Hypnotic or anxiolytic dependence in remission,Diagnosis of Other psychoactive substance misuse,NA,Kuan
+E241z00,Other psychoactive substance misuse,29797,Hypnotic or anxiolytic dependence NOS,Diagnosis of Other psychoactive substance misuse,NA,Kuan
+E242.00,Other psychoactive substance misuse,11840,Cocaine type drug dependence,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+E242000,Other psychoactive substance misuse,25808,"Cocaine dependence, unspecified",Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+E242100,Other psychoactive substance misuse,25748,"Cocaine dependence, continuous",Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+E242200,Other psychoactive substance misuse,39836,"Cocaine dependence, episodic",Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+E242300,Other psychoactive substance misuse,52765,Cocaine dependence in remission,Diagnosis of Other psychoactive substance misuse,NA,Kuan
+E242z00,Other psychoactive substance misuse,33942,Cocaine drug dependence NOS,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+E243.00,Other psychoactive substance misuse,8284,Cannabis type drug dependence,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+E243.11,Other psychoactive substance misuse,40720,Hashish dependence,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+E243.12,Other psychoactive substance misuse,23712,Hemp dependence,Diagnosis of Other psychoactive substance misuse,NA,Kuan
+E243.13,Other psychoactive substance misuse,37316,Marihuana dependence,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+E243000,Other psychoactive substance misuse,24616,"Cannabis dependence, unspecified",Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+E243100,Other psychoactive substance misuse,42923,"Cannabis dependence, continuous",Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+E243200,Other psychoactive substance misuse,52794,"Cannabis dependence, episodic",Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+E243300,Other psychoactive substance misuse,44991,Cannabis dependence in remission,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+E243z00,Other psychoactive substance misuse,33462,Cannabis drug dependence NOS,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+E244.00,Other psychoactive substance misuse,22186,Amphetamine or other psychostimulant dependence,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+E244.11,Other psychoactive substance misuse,41476,Psychostimulant dependence,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+E244.12,Other psychoactive substance misuse,25670,Stimulant dependence,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+E244000,Other psychoactive substance misuse,37472,"Amphetamine or psychostimulant dependence, unspecified",Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+E244011,Other psychoactive substance misuse,109077,"Amfetamine or psychostimulant dependence, unspecified",Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+E244100,Other psychoactive substance misuse,38360,"Amphetamine or psychostimulant dependence, continuous",Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+E244200,Other psychoactive substance misuse,49585,"Amphetamine or psychostimulant dependence, episodic",Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+E244300,Other psychoactive substance misuse,46800,Amphetamine or psychostimulant dependence in remission,Diagnosis of Other psychoactive substance misuse,NA,Kuan
+E244z00,Other psychoactive substance misuse,25646,Amphetamine or psychostimulant dependence NOS,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+E244z11,Other psychoactive substance misuse,102440,Amfetamine or psychostimulant dependence NOS,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+E245.00,Other psychoactive substance misuse,32887,Hallucinogen dependence,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+E245.11,Other psychoactive substance misuse,21683,LSD dependence,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+E245.12,Other psychoactive substance misuse,72371,Lysergic acid diethylamide dependence,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+E245000,Other psychoactive substance misuse,92353,"Hallucinogen dependence, unspecified",Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+E245100,Other psychoactive substance misuse,71086,"Hallucinogen dependence, continuous",Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+E245200,Other psychoactive substance misuse,73448,"Hallucinogen dependence, episodic",Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+E245300,Other psychoactive substance misuse,70578,Hallucinogen dependence in remission,Diagnosis of Other psychoactive substance misuse,NA,Kuan
+E245z00,Other psychoactive substance misuse,68150,Hallucinogen dependence NOS,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+E246.00,Other psychoactive substance misuse,5203,Glue sniffing dependence,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+E246000,Other psychoactive substance misuse,38072,"Glue sniffing dependence, unspecified",Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+E246100,Other psychoactive substance misuse,97375,"Glue sniffing dependence, continuous",Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+E246200,Other psychoactive substance misuse,33774,"Glue sniffing dependence, episodic",Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+E246300,Other psychoactive substance misuse,70761,Glue sniffing dependence in remission,Diagnosis of Other psychoactive substance misuse,NA,Kuan
+E246z00,Other psychoactive substance misuse,59184,Glue sniffing dependence NOS,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+E247.00,Other psychoactive substance misuse,51197,Other specified drug dependence,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+E247.11,Other psychoactive substance misuse,87505,Absinthe addiction,Diagnosis of Other psychoactive substance misuse,NA,Kuan
+E247000,Other psychoactive substance misuse,59676,"Other specified drug dependence, unspecified",Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+E247100,Other psychoactive substance misuse,24998,"Other specified drug dependence, continuous",Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+E247200,Other psychoactive substance misuse,72564,"Other specified drug dependence, episodic",Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+E247300,Other psychoactive substance misuse,64269,Other specified drug dependence in remission,Diagnosis of Other psychoactive substance misuse,NA,Kuan
+E247z00,Other psychoactive substance misuse,40781,Other specified drug dependence NOS,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+E248.00,Other psychoactive substance misuse,26061,Combined opioid with other drug dependence,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+E248000,Other psychoactive substance misuse,56194,"Combined opioid with other drug dependence, unspecified",Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+E248100,Other psychoactive substance misuse,64265,"Combined opioid with other drug dependence, continuous",Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+E248200,Other psychoactive substance misuse,64277,"Combined opioid with other drug dependence, episodic",Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+E248300,Other psychoactive substance misuse,52451,Combined opioid with other drug dependence in remission,Diagnosis of Other psychoactive substance misuse,NA,Kuan
+E248z00,Other psychoactive substance misuse,73737,Combined opioid with other drug dependence NOS,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+E249.00,Other psychoactive substance misuse,14809,"Combined drug dependence, excluding opioids",Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+E249000,Other psychoactive substance misuse,91260,"Combined drug dependence, excluding opioid, unspecified",Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+E249100,Other psychoactive substance misuse,53678,"Combined drug dependence, excluding opioid, continuous",Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+E249200,Other psychoactive substance misuse,62717,"Combined drug dependence, excluding opioid, episodic",Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+E249300,Other psychoactive substance misuse,70900,"Combined drug dependence, excluding opioid, in remission",Diagnosis of Other psychoactive substance misuse,NA,Kuan
+E249z00,Other psychoactive substance misuse,72342,"Combined drug dependence, excluding opioid, NOS",Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+E24A.00,Other psychoactive substance misuse,21087,Ecstasy type drug dependence,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+E24z.00,Other psychoactive substance misuse,29446,Drug dependence NOS,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+E25..00,Other psychoactive substance misuse,7747,Nondependent abuse of drugs,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+E250000,Other psychoactive substance misuse,669,"Nondependent alcohol abuse, unspecified",NA,readcode,Cambridge
+E252.00,Other psychoactive substance misuse,3635,Nondependent cannabis abuse,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+E252000,Other psychoactive substance misuse,42140,"Nondependent cannabis abuse, unspecified",Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+E252100,Other psychoactive substance misuse,39983,"Nondependent cannabis abuse, continuous",Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+E252200,Other psychoactive substance misuse,25448,"Nondependent cannabis abuse, episodic",Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+E252300,Other psychoactive substance misuse,53071,Nondependent cannabis abuse in remission,Diagnosis of Other psychoactive substance misuse,NA,Kuan
+E252z00,Other psychoactive substance misuse,25526,Nondependent cannabis abuse NOS,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+E253.00,Other psychoactive substance misuse,5610,Nondependent hallucinogen abuse,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+E253.11,Other psychoactive substance misuse,60048,'Bad trips',Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+E253.12,Other psychoactive substance misuse,16071,LSD reaction,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+E253000,Other psychoactive substance misuse,71060,"Nondependent hallucinogen abuse, unspecified",Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+E253100,Other psychoactive substance misuse,95955,"Nondependent hallucinogen abuse, continuous",Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+E253200,Other psychoactive substance misuse,95956,"Nondependent hallucinogen abuse, episodic",Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+E253300,Other psychoactive substance misuse,67462,Nondependent hallucinogen abuse in remission,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+E253z00,Other psychoactive substance misuse,48131,Nondependent hallucinogen abuse NOS,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+E254.00,Other psychoactive substance misuse,60180,Nondependent hypnotic or anxiolytic abuse,Diagnosis of Other psychoactive substance misuse,NA,Kuan
+E254.11,Other psychoactive substance misuse,29075,Barbiturate abuse,Diagnosis of Other psychoactive substance misuse,NA,Kuan
+E254.12,Other psychoactive substance misuse,43296,Hypnotic or anxiolytic abuse,Diagnosis of Other psychoactive substance misuse,NA,Kuan
+E254.13,Other psychoactive substance misuse,39051,Sedative abuse,Diagnosis of Other psychoactive substance misuse,NA,Kuan
+E254.14,Other psychoactive substance misuse,18285,Tranquilliser abuse,Diagnosis of Other psychoactive substance misuse,NA,Kuan
+E254000,Other psychoactive substance misuse,66243,"Nondependent hypnotic or anxiolytic abuse, unspecified",Diagnosis of Other psychoactive substance misuse,NA,Kuan
+E254100,Other psychoactive substance misuse,95954,"Nondependent hypnotic or anxiolytic abuse, continuous",Diagnosis of Other psychoactive substance misuse,NA,Kuan
+E254200,Other psychoactive substance misuse,65942,"Nondependent hypnotic or anxiolytic abuse, episodic",Diagnosis of Other psychoactive substance misuse,NA,Kuan
+E254300,Other psychoactive substance misuse,68396,Nondependent hypnotic or anxiolytic abuse in remission,Diagnosis of Other psychoactive substance misuse,NA,Kuan
+E254z00,Other psychoactive substance misuse,94394,Nondependent hypnotic or anxiolytic abuse NOS,Diagnosis of Other psychoactive substance misuse,NA,Kuan
+E255.00,Other psychoactive substance misuse,26831,Nondependent opioid abuse,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+E255000,Other psychoactive substance misuse,40536,"Nondependent opioid abuse, unspecified",Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+E255100,Other psychoactive substance misuse,58731,"Nondependent opioid abuse, continuous",Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+E255200,Other psychoactive substance misuse,64382,"Nondependent opioid abuse, episodic",Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+E255300,Other psychoactive substance misuse,95953,Nondependent opioid abuse in remission,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+E255z00,Other psychoactive substance misuse,69508,Nondependent opioid abuse NOS,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+E256.00,Other psychoactive substance misuse,10860,Nondependent cocaine abuse,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+E256000,Other psychoactive substance misuse,32931,"Nondependent cocaine abuse, unspecified",Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+E256100,Other psychoactive substance misuse,46896,"Nondependent cocaine abuse, continuous",Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+E256200,Other psychoactive substance misuse,43901,"Nondependent cocaine abuse, episodic",Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+E256300,Other psychoactive substance misuse,58934,Nondependent cocaine abuse in remission,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+E256z00,Other psychoactive substance misuse,64338,Nondependent cocaine abuse NOS,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+E257.00,Other psychoactive substance misuse,22481,Nondependent amphetamine or other psychostimulant abuse,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+E257.11,Other psychoactive substance misuse,32751,Psychostimulant abuse,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+E257.12,Other psychoactive substance misuse,46732,Stimulant abuse,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+E257000,Other psychoactive substance misuse,39058,"Nondependent amphetamine/psychostimulant abuse, unspecified",Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+E257100,Other psychoactive substance misuse,52841,"Nondependent amphetamine/psychostimulant abuse, continuous",Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+E257200,Other psychoactive substance misuse,25229,"Nondependent amphetamine or psychostimulant abuse, episodic",Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+E257300,Other psychoactive substance misuse,43176,Nondependent amphetamine/psychostimulant abuse in remission,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+E257z00,Other psychoactive substance misuse,47836,Nondependent amphetamine or psychostimulant abuse NOS,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+E258.00,Other psychoactive substance misuse,46962,Nondependent antidepressant type drug abuse,Diagnosis of Other psychoactive substance misuse,NA,Kuan
+E258z00,Other psychoactive substance misuse,94436,Nondependent antidepressant type drug abuse NOS,Diagnosis of Other psychoactive substance misuse,NA,Kuan
+E259.00,Other psychoactive substance misuse,53008,Nondependent mixed drug abuse,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+E259000,Other psychoactive substance misuse,56337,"Nondependent mixed drug abuse, unspecified",Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+E259100,Other psychoactive substance misuse,62887,"Nondependent mixed drug abuse, continuous",Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+E259200,Other psychoactive substance misuse,52953,"Nondependent mixed drug abuse, episodic",Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+E259300,Other psychoactive substance misuse,52842,Nondependent mixed drug abuse in remission,Diagnosis of Other psychoactive substance misuse,NA,Kuan
+E259400,Other psychoactive substance misuse,25175,Misuse of prescription only drugs,Diagnosis of Other psychoactive substance misuse,NA,Kuan
+E259z00,Other psychoactive substance misuse,33838,Nondependent mixed drug abuse NOS,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+E25y.00,Other psychoactive substance misuse,16161,Nondependent other drug abuse,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+E25y.11,Other psychoactive substance misuse,8608,Analgesic abuse,Diagnosis of Other psychoactive substance misuse,NA,Kuan
+E25y000,Other psychoactive substance misuse,63076,"Nondependent other drug abuse, unspecified",Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+E25y100,Other psychoactive substance misuse,54800,"Nondependent other drug abuse, continuous",Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+E25y200,Other psychoactive substance misuse,64983,"Nondependent other drug abuse, episodic",Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+E25y300,Other psychoactive substance misuse,52846,Nondependent other drug abuse in remission,Diagnosis of Other psychoactive substance misuse,NA,Kuan
+E25yz00,Other psychoactive substance misuse,64316,Nondependent other drug abuse NOS,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+E25z.00,Other psychoactive substance misuse,1588,Misuse of drugs NOS,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+Eu1..00,Other psychoactive substance misuse,30034,[X]Mental and behavioural disorders due to psychoactive subs,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+Eu10500,Other psychoactive substance misuse,12353,[X]Mental & behav dis due to use alcohol: psychotic disorder,NA,readcode,Cambridge
+Eu11.00,Other psychoactive substance misuse,47335,[X]Mental and behavioural disorders due to use of opioids,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+Eu11000,Other psychoactive substance misuse,42456,[X]Mental & behav dis due to use opioids: acute intoxication,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+Eu11100,Other psychoactive substance misuse,37568,[X]Mental and behav dis due to use of opioids: harmful use,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+Eu11200,Other psychoactive substance misuse,34249,[X]Mental and behav dis due to use opioids: dependence syndr,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+Eu11211,Other psychoactive substance misuse,10538,[X]Drug addiction - opioids,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+Eu11212,Other psychoactive substance misuse,4564,[X]Heroin addiction,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+Eu11300,Other psychoactive substance misuse,36241,[X]Mental and behav dis due to use opioids: withdrawal state,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+Eu11311,Other psychoactive substance misuse,25527,"[X]Cold turkey, opiate withdrawal",Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+Eu11400,Other psychoactive substance misuse,97488,[X]Men & behav dis due opioid: withdrawl state with delirium,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+Eu11500,Other psychoactive substance misuse,50964,[X]Mental & behav dis due to use opioids: psychotic disorder,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+Eu11600,Other psychoactive substance misuse,103991,[X]Mental and behav dis due to use opioids: amnesic syndrome,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+Eu11700,Other psychoactive substance misuse,27652,[X]Men & beh dis due opioids: resid & late-onset psychot dis,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+Eu11y00,Other psychoactive substance misuse,52739,[X]Men & behav dis due to use opioids: oth men & behav dis,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+Eu11z00,Other psychoactive substance misuse,91801,[X]Ment & behav dis due use opioids: unsp ment & behav dis,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+Eu12.00,Other psychoactive substance misuse,10655,[X]Mental and behavioural disorders due to use cannabinoids,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+Eu12000,Other psychoactive substance misuse,37389,[X]Mental & behav dis due cannabinoids: acute intoxication,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+Eu12100,Other psychoactive substance misuse,50343,[X]Mental and behav dis due to use cannabinoids: harmful use,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+Eu12200,Other psychoactive substance misuse,56504,[X]Mental and behav dis due to cannabinoids: dependence synd,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+Eu12211,Other psychoactive substance misuse,21662,[X]Drug addiction - cannabis,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+Eu12300,Other psychoactive substance misuse,65681,[X]Mental and behav dis due cannabinoids: withdrawal state,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+Eu12500,Other psychoactive substance misuse,38429,[X]Mental & behav dis due to cannabinoids: psychotic disordr,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+Eu12600,Other psychoactive substance misuse,97561,[X]Mental and behav dis due to use cannabinoids: amnesic syn,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+Eu12700,Other psychoactive substance misuse,57574,[X]Mnt/bh dis due cannabinds: resid & late-onset psychot dis,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+Eu12y00,Other psychoactive substance misuse,64308,[X]Men/behav dis due to use cannabinoids: oth men/behav disd,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+Eu12z00,Other psychoactive substance misuse,64987,[X]Ment/behav dis due use cannabinoids: unsp ment/behav disd,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+Eu13.00,Other psychoactive substance misuse,41317,[X]Mental and behavioural dis due use sedatives/hypnotics,Diagnosis of Other psychoactive substance misuse,NA,Kuan
+Eu13000,Other psychoactive substance misuse,64210,[X]Mental & behav dis due seds/hypntcs: acute intoxication,Diagnosis of Other psychoactive substance misuse,NA,Kuan
+Eu13100,Other psychoactive substance misuse,93407,[X]Mental and behav dis due to use seds/hypntcs: harmful use,Diagnosis of Other psychoactive substance misuse,NA,Kuan
+Eu13200,Other psychoactive substance misuse,44330,[X]Mental and behav dis due to seds/hypntcs: dependence synd,Diagnosis of Other psychoactive substance misuse,NA,Kuan
+Eu13211,Other psychoactive substance misuse,25757,[X]Drug addiction- sedative / hypnotics,Diagnosis of Other psychoactive substance misuse,NA,Kuan
+Eu13300,Other psychoactive substance misuse,61342,[X]Mental and behav dis due seds/hypntcs: withdrawal state,Diagnosis of Other psychoactive substance misuse,NA,Kuan
+Eu13400,Other psychoactive substance misuse,44131,[X]Men & beh dis due seds/hypns: withdrwl state wth delirium,Diagnosis of Other psychoactive substance misuse,NA,Kuan
+Eu13500,Other psychoactive substance misuse,69138,[X]Mental & behav dis due to seds/hypntcs: psychotic disordr,Diagnosis of Other psychoactive substance misuse,NA,Kuan
+Eu14.00,Other psychoactive substance misuse,32052,[X]Mental and behavioural disorders due to use of cocaine,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+Eu14000,Other psychoactive substance misuse,49566,[X]Mental & behav dis due to use cocaine: acute intoxication,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+Eu14100,Other psychoactive substance misuse,47739,[X]Mental and behav dis due to use of cocaine: harmful use,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+Eu14200,Other psychoactive substance misuse,50302,[X]Mental and behav dis due to use cocaine: dependence syndr,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+Eu14211,Other psychoactive substance misuse,11746,[X]Drug addiction - cocaine,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+Eu14300,Other psychoactive substance misuse,67535,[X]Mental and behav dis due to use cocaine: withdrawal state,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+Eu14500,Other psychoactive substance misuse,49565,[X]Mental & behav dis due to use cocaine: psychotic disorder,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+Eu14700,Other psychoactive substance misuse,102591,[X]Men & beh dis due cocaine: resid & late-onset psychot dis,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+Eu15.00,Other psychoactive substance misuse,43101,[X]Mental & behav disorder due other stimulants inc caffein,Diagnosis of Other psychoactive substance misuse,NA,Kuan
+Eu15000,Other psychoactive substance misuse,44742,[X]Mnt/beh dis due oth stim inc caffein: acute intoxication,Diagnosis of Other psychoactive substance misuse,NA,Kuan
+Eu15100,Other psychoactive substance misuse,72712,[X]Ment/behav dis due to use oth stims inc caff: harmful use,Diagnosis of Other psychoactive substance misuse,NA,Kuan
+Eu15200,Other psychoactive substance misuse,33493,[X]Mental and behav dis oth stim inc caffein: dependnce synd,Diagnosis of Other psychoactive substance misuse,NA,Kuan
+Eu15211,Other psychoactive substance misuse,10045,[X]Drug addiction-other stimul,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+Eu15300,Other psychoactive substance misuse,48760,[X]Mnt/behav dis other stimlnts inc caffeine: withdrwl state,Diagnosis of Other psychoactive substance misuse,NA,Kuan
+Eu15500,Other psychoactive substance misuse,49879,[X]Mental/behav dis oth stims inc caffeine: psychotic dis,Diagnosis of Other psychoactive substance misuse,NA,Kuan
+Eu15700,Other psychoactive substance misuse,59163,[X]Mnt/bh dis oth stm inc caffne resid/late-onset psycht dis,Diagnosis of Other psychoactive substance misuse,NA,Kuan
+Eu15z00,Other psychoactive substance misuse,56650,[X]Ment/beh dis oth stims inc caffeine: unsp ment/behav disd,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+Eu16.00,Other psychoactive substance misuse,50265,[X]Mental and behavioural disorders due to use hallucinogens,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+Eu16000,Other psychoactive substance misuse,66187,[X]Mental & behav dis due hallucinogens: acute intoxicatn,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+Eu16100,Other psychoactive substance misuse,67491,[X]Mental and behav dis due to use hallucinogens: harmfl use,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+Eu16200,Other psychoactive substance misuse,65826,[X]Mental and behav dis due to hallucinogens: dependence syn,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+Eu16211,Other psychoactive substance misuse,47784,[X]Drug addiction - hallucinogen,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+Eu16300,Other psychoactive substance misuse,56179,[X]Mental and behav dis due hallucinogens: withdrawal state,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+Eu16500,Other psychoactive substance misuse,54983,[X]Mental & behav dis due to hallucinogens: psychotic disord,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+Eu16700,Other psychoactive substance misuse,105346,[X]Mnt/bh dis due hallucngns: resid & late-onset psychot dis,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+Eu16711,Other psychoactive substance misuse,35196,[X]Post hallucinogen perception disorder,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+Eu16z00,Other psychoactive substance misuse,92291,[X]Ment/behav dis due use hallucinogens: unsp ment/behav dis,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+Eu18.00,Other psychoactive substance misuse,31736,[X]Mental & behav disorders due to use of volatile solvents,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+Eu18000,Other psychoactive substance misuse,50136,[X]Mental & behav dis due vol solvents: acute intoxication,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+Eu18100,Other psychoactive substance misuse,59009,[X]Mental and behav dis due volatile solvents: harmful use,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+Eu18200,Other psychoactive substance misuse,52815,[X]Mental and behav dis due to vol solvents: dependence synd,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+Eu18211,Other psychoactive substance misuse,33585,[X]Drug addiction - solvent,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+Eu18400,Other psychoactive substance misuse,62106,[X]Men & beh dis vol solvents: withdrawal state wth delirium,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+Eu18500,Other psychoactive substance misuse,98618,[X]Mental & behav dis due to vol solvents: psychotic disordr,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+Eu18z00,Other psychoactive substance misuse,49068,[X]Ment/behav dis due use vol solvents: unsp ment/behav dis,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+Eu19.00,Other psychoactive substance misuse,10656,[X]Men & behav disorder multiple drug use/psychoactive subst,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+Eu19000,Other psychoactive substance misuse,60676,[X]Mental/behav dis multi drg use/psychoac subs: acute intox,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+Eu19100,Other psychoactive substance misuse,62959,[X]Mental and behav dis mlti drg/oth psychoa sbs: harmfl use,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+Eu19200,Other psychoactive substance misuse,45208,[X]Mental and behav dis mlti/oth psych sbs: dependence syndr,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+Eu19211,Other psychoactive substance misuse,9615,[X]Drug addiction NOS,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+Eu19300,Other psychoactive substance misuse,51290,[X]Mental and behav dis mlti/oth psychoa sbs: withdrwl state,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+Eu19400,Other psychoactive substance misuse,65950,[X]Mnt/bh dis mlti drg use/oth psy sbs: wthdr state + dlrium,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+Eu19500,Other psychoactive substance misuse,24637,[X]Ment/behav dis mlti drug use/oth psyc sbs: psychotc dis,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+Eu19600,Other psychoactive substance misuse,106958,[X]Mental/behav dis multi drg use/oth psy sbs: amnesic syndr,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+Eu19700,Other psychoactive substance misuse,56948,[X]Men/beh dis mlt drg use/oth subs: resid/late psychot dis,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+Eu19y00,Other psychoactive substance misuse,93009,[X]Men/beh dis mlt drg use/oth psy sbs: oth men & behav dis,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+Eu19z00,Other psychoactive substance misuse,70961,[X]Ment/beh dis multi drug use/oth psy sbs unsp mnt/beh dis,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+Eu1A.00,Other psychoactive substance misuse,32640,[X]Mental and behavioural disorders due use of crack cocaine,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+Eu1A000,Other psychoactive substance misuse,60420,[X]Ment behav dis due use crack cocaine: acute intoxication,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+Eu1A100,Other psychoactive substance misuse,86034,[X]Mental behav disorders due use crack cocaine: harmful use,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+Eu1A200,Other psychoactive substance misuse,102582,[X]Mental behav disorders due use crack cocaine: depend synd,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+Eu1A300,Other psychoactive substance misuse,101738,[X]Mental behav disord due crack cocaine: withdrawal state,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+Eu1A500,Other psychoactive substance misuse,102475,[X]Mental behav disord due crack cocaine: psychotic disorder,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+Eu1Az00,Other psychoactive substance misuse,91577,[X]Ment behav dis due crack cocaine: unsp ment and behav dis,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+L183.00,Other psychoactive substance misuse,41473,"Drug dependence in pregnancy, childbirth and the puerperium",NA,readcode,Cambridge
+L183.11,Other psychoactive substance misuse,64500,Pregnancy and drug dependence,NA,readcode,Cambridge
+L183100,Other psychoactive substance misuse,63379,Drug dependence during pregnancy - baby delivered,NA,readcode,Cambridge
+L183300,Other psychoactive substance misuse,67098,Drug dependence during pregnancy - baby not yet delivered,NA,readcode,Cambridge
+L183z00,Other psychoactive substance misuse,96004,Drug dependence during pregnancy/childbirth/puerperium NOS,NA,readcode,Cambridge
+SL50.00,Other psychoactive substance misuse,61673,Opiate and narcotic poisoning,NA,readcode,Cambridge
+SL50.12,Other psychoactive substance misuse,32760,Opiate poisoning,NA,readcode,Cambridge
+SL50100,Other psychoactive substance misuse,20458,Heroin poisoning,NA,readcode,Cambridge
+SL50500,Other psychoactive substance misuse,37056,Morphine poisoning,NA,readcode,Cambridge
+SL85000,Other psychoactive substance misuse,10859,Cocaine poisoning,NA,readcode,Cambridge
+SL96000,Other psychoactive substance misuse,36231,Cannabis poisoning,NA,readcode,Cambridge
+SL97000,Other psychoactive substance misuse,31754,Amfetamine poisoning,NA,readcode,Cambridge
+SL97011,Other psychoactive substance misuse,102176,Amphetamine poisoning,NA,readcode,Cambridge
+SL97200,Other psychoactive substance misuse,37544,Ecstasy poisoning,NA,readcode,Cambridge
+T800.00,Other psychoactive substance misuse,54560,Accidental poisoning by heroin,NA,readcode,Cambridge
+TJ51.00,Other psychoactive substance misuse,55126,Adverse reaction to methadone,Diagnosis of Other psychoactive substance misuse,NA,Kuan
+TJ52100,Other psychoactive substance misuse,48674,Adverse reaction to buprenorphine,Diagnosis of Other psychoactive substance misuse,NA,Kuan
+TJ85000,Other psychoactive substance misuse,40852,Adverse reaction to cocaine,NA,readcode,Cambridge
+TJ96000,Other psychoactive substance misuse,33876,Adverse reaction to cannabis,NA,readcode,Cambridge
+U1A5.11,Other psychoactive substance misuse,51334,[X]Accidental poisoning with heroin,NA,readcode,Cambridge
+U205.11,Other psychoactive substance misuse,28710,[X]Overdose - heroin,NA,readcode,Cambridge
+U605012,Other psychoactive substance misuse,69347,[X] Adverse reaction to methadone,Diagnosis of Other psychoactive substance misuse,NA,Kuan
+U605015,Other psychoactive substance misuse,73857,[X] Adverse reaction to buprenorphine,Diagnosis of Other psychoactive substance misuse,NA,Kuan
+U606312,Other psychoactive substance misuse,109871,[X] Adverse reaction to cocaine,NA,readcode,Cambridge
+U60A100,Other psychoactive substance misuse,55611,[X]Opioid recept antag causing adverse effect in therap use,NA,readcode,Cambridge
+Z1Q6200,Other psychoactive substance misuse,60355,Methadone maintenance,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+Z1Q6212,Other psychoactive substance misuse,100632,Methadone therapy,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+Z1Q6214,Other psychoactive substance misuse,95460,Heroin maintenance,Diagnosis of Other psychoactive substance misuse,readcode,Kuan and Cambridge
+Z416.00,Other psychoactive substance misuse,9273,Substance abuse counselling,Diagnosis of Other psychoactive substance misuse,NA,Kuan
+ZV11400,Other psychoactive substance misuse,21096,[V]Personal history of psychoactive substance abuse,History of Other psychoactive substance misuse,NA,Kuan
+ZV11500,Other psychoactive substance misuse,30711,[V]Personal history of drug abuse by injection,History of Other psychoactive substance misuse,NA,Kuan
+ZV6D700,Other psychoactive substance misuse,8463,[V]Drug abuse counselling and surveillance,Diagnosis of Other psychoactive substance misuse,NA,Kuan

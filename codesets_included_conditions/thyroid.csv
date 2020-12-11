@@ -1,0 +1,104 @@
+Readcode,Disease,Medcode,ReadcodeDescr,Category,CodingSystem,Provenance
+143..11,Hypo or hyperthyroidism,4937,H/O: thyroid disorder,History of Hypo or hyperthyroidism,NA,Kuan
+1431.00,Hypo or hyperthyroidism,6245,H/O: hyperthyroidism,History of Hypo or hyperthyroidism,NA,Kuan
+1431.11,Hypo or hyperthyroidism,8038,H/O: thyrotoxicosis,History of Hypo or hyperthyroidism,NA,Kuan
+1432.00,Hypo or hyperthyroidism,3611,H/O: hypothyroidism,History of Hypo or hyperthyroidism,NA,Kuan
+1433.00,Hypo or hyperthyroidism,35608,H/O: thyroid disorder NOS,History of Hypo or hyperthyroidism,NA,Kuan
+212P.00,Hypo or hyperthyroidism,26362,Hyperthyroidism resolved,History of Hypo or hyperthyroidism,NA,Kuan
+66B..00,Hypo or hyperthyroidism,8268,Thyroid disease monitoring,History of Hypo or hyperthyroidism,NA,Kuan
+66B4.00,Hypo or hyperthyroidism,28530,Thyroid eye disease,History of Hypo or hyperthyroidism,NA,Kuan
+66BB.00,Hypo or hyperthyroidism,95885,Hypothyroidism annual review,History of Hypo or hyperthyroidism,NA,Kuan
+66BZ.00,Hypo or hyperthyroidism,28822,Thyroid disease monitoring NOS,History of Hypo or hyperthyroidism,NA,Kuan
+8CR5.00,Hypo or hyperthyroidism,85955,Hypothyroidism clinical management plan,History of Hypo or hyperthyroidism,NA,Kuan
+9Oj..00,Hypo or hyperthyroidism,28735,Hypothyroidism monitoring administration,History of Hypo or hyperthyroidism,NA,Kuan
+9Oj0.00,Hypo or hyperthyroidism,46057,Hypothyroidism monitoring first letter,History of Hypo or hyperthyroidism,NA,Kuan
+9Oj1.00,Hypo or hyperthyroidism,46630,Hypothyroidism monitoring second letter,History of Hypo or hyperthyroidism,NA,Kuan
+9Oj2.00,Hypo or hyperthyroidism,46640,Hypothyroidism monitoring third letter,History of Hypo or hyperthyroidism,NA,Kuan
+9Oj3.00,Hypo or hyperthyroidism,19367,Hypothyroidism monitoring verbal invite,History of Hypo or hyperthyroidism,NA,Kuan
+9Oj4.00,Hypo or hyperthyroidism,85661,Hypothyroidism monitoring telephone invitation,History of Hypo or hyperthyroidism,NA,Kuan
+C02..00,Hypo or hyperthyroidism,677,Thyrotoxicosis,Diagnosis of Hypo or Hyperthyroidism,NA,Kuan
+C02..11,Hypo or hyperthyroidism,1472,Hyperthyroidism,Diagnosis of Hypo or Hyperthyroidism,readcode,Kuan and Cambridge
+C02..12,Hypo or hyperthyroidism,10760,Toxic goitre,Diagnosis of Hypo or Hyperthyroidism,NA,Kuan
+C020.00,Hypo or hyperthyroidism,23315,Toxic diffuse goitre,Diagnosis of Hypo or Hyperthyroidism,NA,Kuan
+C020.11,Hypo or hyperthyroidism,44405,Basedow's disease,Diagnosis of Hypo or Hyperthyroidism,NA,Kuan
+C020.12,Hypo or hyperthyroidism,5257,Graves' disease,Diagnosis of Hypo or Hyperthyroidism,NA,Kuan
+C020000,Hypo or hyperthyroidism,26702,Toxic diffuse goitre with no crisis,Diagnosis of Hypo or Hyperthyroidism,NA,Kuan
+C020100,Hypo or hyperthyroidism,57011,Toxic diffuse goitre with crisis,Diagnosis of Hypo or Hyperthyroidism,NA,Kuan
+C020200,Hypo or hyperthyroidism,100476,Thyroid-associated dermopathy,Diagnosis of Hypo or Hyperthyroidism,NA,Kuan
+C020z00,Hypo or hyperthyroidism,49334,Toxic diffuse goitre NOS,Diagnosis of Hypo or Hyperthyroidism,NA,Kuan
+C021.00,Hypo or hyperthyroidism,53280,Toxic uninodular goitre,Diagnosis of Hypo or Hyperthyroidism,NA,Kuan
+C021000,Hypo or hyperthyroidism,26869,Toxic uninodular goitre with no crisis,Diagnosis of Hypo or Hyperthyroidism,NA,Kuan
+C021z00,Hypo or hyperthyroidism,61498,Toxic uninodular goitre NOS,Diagnosis of Hypo or Hyperthyroidism,NA,Kuan
+C022.00,Hypo or hyperthyroidism,11426,Toxic multinodular goitre,Diagnosis of Hypo or Hyperthyroidism,NA,Kuan
+C022000,Hypo or hyperthyroidism,46985,Toxic multinodular goitre with no crisis,Diagnosis of Hypo or Hyperthyroidism,NA,Kuan
+C022z00,Hypo or hyperthyroidism,53981,Toxic multinodular goitre NOS,Diagnosis of Hypo or Hyperthyroidism,NA,Kuan
+C023.00,Hypo or hyperthyroidism,15790,Toxic nodular goitre unspecified,Diagnosis of Hypo or Hyperthyroidism,NA,Kuan
+C023000,Hypo or hyperthyroidism,68512,Toxic nodular goitre unspecified with no crisis,Diagnosis of Hypo or Hyperthyroidism,NA,Kuan
+C023100,Hypo or hyperthyroidism,100004,Toxic nodular goitre unspecified with crisis,Diagnosis of Hypo or Hyperthyroidism,NA,Kuan
+C023z00,Hypo or hyperthyroidism,49361,Toxic nodular goitre NOS,Diagnosis of Hypo or Hyperthyroidism,NA,Kuan
+C02y.00,Hypo or hyperthyroidism,43136,Thyrotoxicosis of other specified origin,Diagnosis of Hypo or Hyperthyroidism,NA,Kuan
+C02y000,Hypo or hyperthyroidism,51273,Thyrotoxicosis of other specified origin with no crisis,Diagnosis of Hypo or Hyperthyroidism,NA,Kuan
+C02y100,Hypo or hyperthyroidism,106532,Thyrotoxicosis of other specified origin with crisis,Diagnosis of Hypo or Hyperthyroidism,NA,Kuan
+C02y300,Hypo or hyperthyroidism,19205,Thyroid crisis,Diagnosis of Hypo or Hyperthyroidism,NA,Kuan
+C02yz00,Hypo or hyperthyroidism,34220,Thyrotoxicosis of other specified origin NOS,Diagnosis of Hypo or Hyperthyroidism,NA,Kuan
+C02z.00,Hypo or hyperthyroidism,15565,Thyrotoxicosis without mention of goitre or other cause,Diagnosis of Hypo or Hyperthyroidism,NA,Kuan
+C02z000,Hypo or hyperthyroidism,26701,Thyrotoxicosis without mention of goitre or cause no crisis,Diagnosis of Hypo or Hyperthyroidism,NA,Kuan
+C02z100,Hypo or hyperthyroidism,3194,"Thyrotoxicosis without mention of goitre, cause with crisis",Diagnosis of Hypo or Hyperthyroidism,NA,Kuan
+C02zz00,Hypo or hyperthyroidism,26699,Thyrotoxicosis NOS,Diagnosis of Hypo or Hyperthyroidism,NA,Kuan
+C03..00,Hypo or hyperthyroidism,10097,Congenital hypothyroidism,NA,readcode,Cambridge
+C03..11,Hypo or hyperthyroidism,67513,Cretinism,NA,readcode,Cambridge
+C030.00,Hypo or hyperthyroidism,11892,Pendred's syndrome,NA,readcode,Cambridge
+C031.00,Hypo or hyperthyroidism,47449,Goitrous cretin,NA,readcode,Cambridge
+C03y.00,Hypo or hyperthyroidism,69290,Other specified congenital hypothyroidism,NA,readcode,Cambridge
+C03y000,Hypo or hyperthyroidism,31612,Congenital hypothyroidism with diffuse goitre,NA,readcode,Cambridge
+C03y100,Hypo or hyperthyroidism,93159,Congenital hypothyroidism without goitre,NA,readcode,Cambridge
+C03z.00,Hypo or hyperthyroidism,51481,Congenital hypothyroidism NOS,NA,readcode,Cambridge
+C03z.11,Hypo or hyperthyroidism,93323,Congenital thyroid insufficiency,NA,readcode,Cambridge
+C03z.12,Hypo or hyperthyroidism,27533,Cretinism,NA,readcode,Cambridge
+C04..00,Hypo or hyperthyroidism,3290,Acquired hypothyroidism,Diagnosis of Hypo or Hyperthyroidism,readcode,Kuan and Cambridge
+C04..11,Hypo or hyperthyroidism,1619,Myxoedema,Diagnosis of Hypo or Hyperthyroidism,readcode,Kuan and Cambridge
+C04..12,Hypo or hyperthyroidism,14704,Thyroid deficiency,Diagnosis of Hypo or Hyperthyroidism,readcode,Kuan and Cambridge
+C04..13,Hypo or hyperthyroidism,273,Hypothyroidism,Diagnosis of Hypo or Hyperthyroidism,readcode,Kuan and Cambridge
+C040.00,Hypo or hyperthyroidism,28852,Postsurgical hypothyroidism,History of Hypo or hyperthyroidism,readcode,Kuan and Cambridge
+C040.11,Hypo or hyperthyroidism,47521,Post ablative hypothyroidism,History of Hypo or hyperthyroidism,readcode,Kuan and Cambridge
+C041.00,Hypo or hyperthyroidism,50275,Other postablative hypothyroidism,History of Hypo or hyperthyroidism,readcode,Kuan and Cambridge
+C041000,Hypo or hyperthyroidism,11322,Irradiation hypothyroidism,History of Hypo or hyperthyroidism,readcode,Kuan and Cambridge
+C041z00,Hypo or hyperthyroidism,51706,Postablative hypothyroidism NOS,History of Hypo or hyperthyroidism,readcode,Kuan and Cambridge
+C042.00,Hypo or hyperthyroidism,34221,Iodine hypothyroidism,NA,readcode,Cambridge
+C043.00,Hypo or hyperthyroidism,25913,Other iatrogenic hypothyroidism,History of Hypo or hyperthyroidism,readcode,Kuan and Cambridge
+C043000,Hypo or hyperthyroidism,15743,Hypothyroidism resulting from para-aminosalicylic acid,NA,readcode,Cambridge
+C043100,Hypo or hyperthyroidism,97090,Hypothyroidism resulting from phenylbutazone,NA,readcode,Cambridge
+C043200,Hypo or hyperthyroidism,94915,Hypothyroidism resulting from resorcinol,NA,readcode,Cambridge
+C043z00,Hypo or hyperthyroidism,38976,Iatrogenic hypothyroidism NOS,History of Hypo or hyperthyroidism,readcode,Kuan and Cambridge
+C044.00,Hypo or hyperthyroidism,50860,Postinfectious hypothyroidism,NA,readcode,Cambridge
+C045.00,Hypo or hyperthyroidism,46345,Acquired atrophy of thyroid,NA,readcode,Cambridge
+C046.00,Hypo or hyperthyroidism,31971,Autoimmune myxoedema,Diagnosis of Hypo or Hyperthyroidism,readcode,Kuan and Cambridge
+C047.00,Hypo or hyperthyroidism,95830,Subclinical hypothyroidism,NA,readcode,Cambridge
+C04y.00,Hypo or hyperthyroidism,24748,Other acquired hypothyroidism,Diagnosis of Hypo or Hyperthyroidism,readcode,Kuan and Cambridge
+C04z.00,Hypo or hyperthyroidism,3941,Hypothyroidism NOS,Diagnosis of Hypo or Hyperthyroidism,readcode,Kuan and Cambridge
+C04z.11,Hypo or hyperthyroidism,20310,Pretibial myxoedema - hypothyroid,Diagnosis of Hypo or Hyperthyroidism,readcode,Kuan and Cambridge
+C04z.12,Hypo or hyperthyroidism,23014,Thyroid insufficiency,Diagnosis of Hypo or Hyperthyroidism,readcode,Kuan and Cambridge
+C04z.13,Hypo or hyperthyroidism,18282,"Hypothyroid goitre, acquired",Diagnosis of Hypo or Hyperthyroidism,readcode,Kuan and Cambridge
+C04z000,Hypo or hyperthyroidism,56722,Premature puberty due to hypothyroidism,Diagnosis of Hypo or Hyperthyroidism,readcode,Kuan and Cambridge
+C04z100,Hypo or hyperthyroidism,59702,Myxoedema coma,Diagnosis of Hypo or Hyperthyroidism,readcode,Kuan and Cambridge
+C05..00,Hypo or hyperthyroidism,1346,Thyroiditis,Diagnosis of Hypo or Hyperthyroidism,NA,Kuan
+C052.00,Hypo or hyperthyroidism,26833,Chronic lymphocytic thyroiditis,Diagnosis of Hypo or Hyperthyroidism,NA,Kuan
+C052.11,Hypo or hyperthyroidism,3857,Autoimmune thyroiditis,Diagnosis of Hypo or Hyperthyroidism,NA,Kuan
+C052.12,Hypo or hyperthyroidism,3436,Hashimoto's disease,Diagnosis of Hypo or Hyperthyroidism,NA,Kuan
+C053.00,Hypo or hyperthyroidism,70244,Chronic fibrous thyroiditis,Diagnosis of Hypo or Hyperthyroidism,NA,Kuan
+C05y.00,Hypo or hyperthyroidism,65444,Other and unspecified chronic thyroiditis,Diagnosis of Hypo or Hyperthyroidism,NA,Kuan
+C05y400,Hypo or hyperthyroidism,65907,Chronic thyroiditis with transient thyrotoxicosis,Diagnosis of Hypo or Hyperthyroidism,NA,Kuan
+C05z.00,Hypo or hyperthyroidism,20909,Thyroiditis NOS,Diagnosis of Hypo or Hyperthyroidism,NA,Kuan
+C06y100,Hypo or hyperthyroidism,69113,Thyroid atrophy,Diagnosis of Hypo or Hyperthyroidism,NA,Kuan
+C134300,Hypo or hyperthyroidism,11146,TSH - thyroid-stimulating hormone deficiency,Diagnosis of Hypo or Hyperthyroidism,NA,Kuan
+Cyu1100,Hypo or hyperthyroidism,73107,[X]Other sp cified hypothyroidism,Diagnosis of Hypo or Hyperthyroidism,NA,Kuan
+Cyu1300,Hypo or hyperthyroidism,72690,[X]Other thyrotoxicosis,Diagnosis of Hypo or Hyperthyroidism,NA,Kuan
+Cyu1400,Hypo or hyperthyroidism,95335,[X]Other chronic thyroiditis,Diagnosis of Hypo or Hyperthyroidism,NA,Kuan
+F11x500,Hypo or hyperthyroidism,47658,Cerebral degeneration due to myxoedema,History of Hypo or hyperthyroidism,NA,Kuan
+F381400,Hypo or hyperthyroidism,61069,Myasthenic syndrome due to hypothyroidism,History of Hypo or hyperthyroidism,NA,Kuan
+F381600,Hypo or hyperthyroidism,47695,Myasthenic syndrome due to thyrotoxicosis,History of Hypo or hyperthyroidism,NA,Kuan
+F395300,Hypo or hyperthyroidism,51416,Myopathy due to myxoedema,History of Hypo or hyperthyroidism,NA,Kuan
+F395400,Hypo or hyperthyroidism,48167,Myopathy due to thyrotoxicosis,History of Hypo or hyperthyroidism,NA,Kuan
+F4G2000,Hypo or hyperthyroidism,1567,Thyrotoxic exophthalmos,History of Hypo or hyperthyroidism,NA,Kuan
+FyuBD00,Hypo or hyperthyroidism,68626,[X]Dysthyroid exophthalmos,History of Hypo or hyperthyroidism,NA,Kuan
+G557500,Hypo or hyperthyroidism,20035,Thyrotoxic heart disease,History of Hypo or hyperthyroidism,NA,Kuan

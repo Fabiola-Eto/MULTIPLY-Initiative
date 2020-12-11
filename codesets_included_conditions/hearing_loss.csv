@@ -1,0 +1,165 @@
+Readcode,Disease,Medcode,ReadcodeDescr,Category,CodingSystem,Provenance
+1493.00,Hearing loss,4957,H/O: hearing problem,History of Hearing loss,NA,Kuan
+1C12.00,Hearing loss,5967,Hearing difficulty,NA,readcode,Cambridge
+1C13.00,Hearing loss,14805,Deafness,Diagnosis of Hearing loss,readcode,Kuan and Cambridge
+1C13.11,Hearing loss,6641,Deafness symptom,Diagnosis of Hearing loss,readcode,Kuan and Cambridge
+1C13100,Hearing loss,1681,Unilateral deafness,Diagnosis of Hearing loss,readcode,Kuan and Cambridge
+1C13200,Hearing loss,1774,Partial deafness,Diagnosis of Hearing loss,readcode,Kuan and Cambridge
+1C13300,Hearing loss,4035,Bilateral deafness,Diagnosis of Hearing loss,readcode,Kuan and Cambridge
+1C16.00,Hearing loss,17699,Deteriorating hearing,NA,readcode,Cambridge
+1C17.00,Hearing loss,47475,Hearing aid problem,Diagnosis of Hearing loss,readcode,Kuan and Cambridge
+1C18.00,Hearing loss,39022,Difficulty hearing with background noise,NA,readcode,Cambridge
+1C19.00,Hearing loss,60293,Difficulty hearing whispers,NA,readcode,Cambridge
+2BL..11,Hearing loss,13114,O/E - deaf,Diagnosis of Hearing loss,readcode,Kuan and Cambridge
+2BL2.00,Hearing loss,13115,O/E - slightly deaf,NA,readcode,Cambridge
+2BL3.00,Hearing loss,13113,O/E - significantly deaf,Diagnosis of Hearing loss,readcode,Kuan and Cambridge
+2BL4.00,Hearing loss,5149,O/E - very deaf,Diagnosis of Hearing loss,readcode,Kuan and Cambridge
+2BL5.00,Hearing loss,26539,O/E - completely deaf,Diagnosis of Hearing loss,readcode,Kuan and Cambridge
+2BM2.00,Hearing loss,42893,O/E -tune fork=conductive deaf,NA,readcode,Cambridge
+2BM2.11,Hearing loss,7085,O/E - conductive deafness,Diagnosis of Hearing loss,readcode,Kuan and Cambridge
+2BM3.00,Hearing loss,30355,O/E tune fork=perceptive deaf,NA,readcode,Cambridge
+2BM3.11,Hearing loss,7825,O/E - perceptive deafness,Diagnosis of Hearing loss,readcode,Kuan and Cambridge
+2BM4.00,Hearing loss,20715,O/E - High tone deafness,NA,readcode,Cambridge
+2DG..00,Hearing loss,10170,Hearing aid worn,Diagnosis of Hearing loss,readcode,Kuan and Cambridge
+2DH0.00,Hearing loss,47129,Uses hearing loop,Diagnosis of Hearing loss,NA,Kuan
+7308400.0,Hearing loss,84365,Placement of hearing implant in external ear,Procedure for Hearing loss,NA,Kuan
+7308500.0,Hearing loss,95814,Attention to hearing implant in external ear,Procedure for Hearing loss,NA,Kuan
+7308600.0,Hearing loss,96555,Removal of hearing implant from external ear,Procedure for Hearing loss,NA,Kuan
+7311A00,Hearing loss,19694,Insertn bone anchors subcutaneous bone anchored hearing aid,Procedure for Hearing loss,readcode,Kuan and Cambridge
+7317.00,Hearing loss,100449,Removal of hearing implant from middle ear,Procedure for Hearing loss,NA,Kuan
+7317C00,Hearing loss,68636,Placement of hearing implant in middle ear,Procedure for Hearing loss,NA,Kuan
+7317D00,Hearing loss,93446,Attention to hearing implant in middle ear,Procedure for Hearing loss,NA,Kuan
+7319.00,Hearing loss,59392,Attachment of bone anchored hearing prosthesis,Procedure for Hearing loss,NA,Kuan
+7319000.0,Hearing loss,97657,Insertion fixtures bone anchored hearing prosthesis Stage 1,Procedure for Hearing loss,NA,Kuan
+7319100.0,Hearing loss,89253,Insertion fixtures bone anchored hearing prosthesis Stage 2,Procedure for Hearing loss,NA,Kuan
+7319200.0,Hearing loss,91930,Reduction soft tissue for bone anchored hearing prosthesis,Procedure for Hearing loss,NA,Kuan
+7319300.0,Hearing loss,97761,Attention to fixtures for bone anchored hearing prosthesis,Procedure for Hearing loss,NA,Kuan
+7319400.0,Hearing loss,93278,One stage insert fixtures bone anchored hearing prosthesis,Procedure for Hearing loss,NA,Kuan
+7319500.0,Hearing loss,101755,Fitting external hearing prosthesis bone anchored fixtures,Procedure for Hearing loss,NA,Kuan
+7319600.0,Hearing loss,108029,First stge ins fixtures for bone anchored hearing prosthesis,Procedure for Hearing loss,NA,Kuan
+7319700.0,Hearing loss,108030,Second stage ins fixtures for bone anchored hearing prosth,Procedure for Hearing loss,NA,Kuan
+7319y00,Hearing loss,98553,Other specified attachment bone anchored hearing prosthesis,Procedure for Hearing loss,NA,Kuan
+7319z00,Hearing loss,98241,Attachment of bone anchored hearing prosthesis NOS,Procedure for Hearing loss,NA,Kuan
+8D2..12,Hearing loss,3912,Hearing aid provision,Diagnosis of Hearing loss,readcode,Kuan and Cambridge
+8D21.00,Hearing loss,58602,Provide head worn hearing aid,Diagnosis of Hearing loss,readcode,Kuan and Cambridge
+8D22.00,Hearing loss,36766,Provide body worn hearing aid,Diagnosis of Hearing loss,NA,Kuan
+8D23.00,Hearing loss,626,Ear fitting hearing aid,Diagnosis of Hearing loss,readcode,Kuan and Cambridge
+8D24.00,Hearing loss,52853,Replace hearing aid battery,Diagnosis of Hearing loss,NA,Kuan
+8D26.00,Hearing loss,107246,Provision of replacement hearing aid,Diagnosis of Hearing loss,NA,Kuan
+8E3..00,Hearing loss,66126,Deafness remedial therapy,Diagnosis of Hearing loss,NA,Kuan
+8E3Z.00,Hearing loss,72765,Deafness remedial therapy NOS,Diagnosis of Hearing loss,NA,Kuan
+8HT2.00,Hearing loss,10479,Referral to hearing aid clinic,Diagnosis of Hearing loss,NA,Kuan
+8M41.00,Hearing loss,10975,Hearing aid requested,Diagnosis of Hearing loss,NA,Kuan
+9N0b.00,Hearing loss,401,Seen in hearing aid clinic,Diagnosis of Hearing loss,NA,Kuan
+9NfB.00,Hearing loss,105795,Requires deafblind communicator guide,Diagnosis of Hearing loss,NA,Kuan
+A560200,Hearing loss,14893,Rubella deafness,Diagnosis of Hearing loss,readcode,Kuan and Cambridge
+F580100,Hearing loss,1752,Presbyacusis,Diagnosis of Hearing loss,readcode,Kuan and Cambridge
+F580111,Hearing loss,30208,Senile presbyacusis,Diagnosis of Hearing loss,NA,Kuan
+F581200,Hearing loss,15940,Noise-induced hearing loss,Diagnosis of Hearing loss,readcode,Kuan and Cambridge
+F581211,Hearing loss,2552,Noise induced deafness,Diagnosis of Hearing loss,readcode,Kuan and Cambridge
+F582.00,Hearing loss,6082,Unspecified sudden hearing loss,Diagnosis of Hearing loss,readcode,Kuan and Cambridge
+F59..00,Hearing loss,412,Hearing loss,Diagnosis of Hearing loss,readcode,Kuan and Cambridge
+F59..11,Hearing loss,467,Deafness,Diagnosis of Hearing loss,readcode,Kuan and Cambridge
+F590.00,Hearing loss,8941,Conductive hearing loss,Diagnosis of Hearing loss,readcode,Kuan and Cambridge
+F590.11,Hearing loss,45751,Conductive deafness,Diagnosis of Hearing loss,readcode,Kuan and Cambridge
+F590000,Hearing loss,1151,Unspecified conductive hearing loss,Diagnosis of Hearing loss,readcode,Kuan and Cambridge
+F590100,Hearing loss,36660,Conductive hearing loss due to disorder of external ear,Diagnosis of Hearing loss,readcode,Kuan and Cambridge
+F590200,Hearing loss,52758,Conductive hearing loss due to disorder of tympanic membrane,Diagnosis of Hearing loss,readcode,Kuan and Cambridge
+F590300,Hearing loss,31748,Conductive hearing loss due to disorder of middle ear,Diagnosis of Hearing loss,readcode,Kuan and Cambridge
+F590400,Hearing loss,94782,Conductive hearing loss due to disorder of inner ear,Diagnosis of Hearing loss,readcode,Kuan and Cambridge
+F590500,Hearing loss,18945,"Conductive hearing loss, bilateral",Diagnosis of Hearing loss,readcode,Kuan and Cambridge
+F590600,Hearing loss,43581,"Conduct hear loss,unilat+unrestric hearing on contralat side",Diagnosis of Hearing loss,readcode,Kuan and Cambridge
+F590y00,Hearing loss,62906,Combined conductive hearing loss,Diagnosis of Hearing loss,readcode,Kuan and Cambridge
+F590z00,Hearing loss,33583,Conductive hearing loss NOS,Diagnosis of Hearing loss,readcode,Kuan and Cambridge
+F591.00,Hearing loss,536,Sensorineural hearing loss,Diagnosis of Hearing loss,readcode,Kuan and Cambridge
+F591.11,Hearing loss,2625,High frequency deafness,Diagnosis of Hearing loss,readcode,Kuan and Cambridge
+F591.12,Hearing loss,8033,Low frequency deafness,Diagnosis of Hearing loss,readcode,Kuan and Cambridge
+F591.13,Hearing loss,2348,Perceptive deafness,Diagnosis of Hearing loss,readcode,Kuan and Cambridge
+F591.14,Hearing loss,12829,Perceptive hearing loss,Diagnosis of Hearing loss,NA,Kuan
+F591000,Hearing loss,2061,Unspecified perceptive hearing loss,Diagnosis of Hearing loss,readcode,Kuan and Cambridge
+F591100,Hearing loss,18520,Sensory hearing loss,Diagnosis of Hearing loss,readcode,Kuan and Cambridge
+F591200,Hearing loss,6846,Neural hearing loss,Diagnosis of Hearing loss,readcode,Kuan and Cambridge
+F591211,Hearing loss,3171,Nerve deafness,Diagnosis of Hearing loss,readcode,Kuan and Cambridge
+F591300,Hearing loss,69894,Central hearing loss,Diagnosis of Hearing loss,readcode,Kuan and Cambridge
+F591400,Hearing loss,10665,Congenital sensorineural deafness,Diagnosis of Hearing loss,readcode,Kuan and Cambridge
+F591500,Hearing loss,47440,Ototoxicity - deafness,Diagnosis of Hearing loss,readcode,Kuan and Cambridge
+F591511,Hearing loss,102069,Drug ototoxicity - deafness,Diagnosis of Hearing loss,NA,Kuan
+F591600,Hearing loss,10112,"Sensorineural hearing loss, bilateral",Diagnosis of Hearing loss,readcode,Kuan and Cambridge
+F591700,Hearing loss,29191,"Sensorineurl hear loss,unilat unrestrict hear/contralat side",Diagnosis of Hearing loss,readcode,Kuan and Cambridge
+F591800,Hearing loss,100736,Congenital prelingual deafness,Diagnosis of Hearing loss,NA,Kuan
+F591900,Hearing loss,107364,Bilateral profound sensorineural hearing loss,Diagnosis of Hearing loss,NA,Kuan
+F591A00,Hearing loss,107323,Bilateral congenital sensorineural hearing loss,Diagnosis of Hearing loss,NA,Kuan
+F591B00,Hearing loss,107607,Profound sensorineural hearing loss,Diagnosis of Hearing loss,NA,Kuan
+F591C00,Hearing loss,107350,Moderate sensorineural hearing loss,Diagnosis of Hearing loss,NA,Kuan
+F591D00,Hearing loss,107265,Mild sensorineural hearing loss,Diagnosis of Hearing loss,NA,Kuan
+F591E00,Hearing loss,107610,Severe sensorineural hearing loss,Diagnosis of Hearing loss,NA,Kuan
+F591y00,Hearing loss,54116,Combined perceptive hearing loss,Diagnosis of Hearing loss,readcode,Kuan and Cambridge
+F591z00,Hearing loss,16393,Perceptive hearing loss NOS,Diagnosis of Hearing loss,readcode,Kuan and Cambridge
+F592.00,Hearing loss,14983,Mixed conductive and sensorineural deafness,Diagnosis of Hearing loss,readcode,Kuan and Cambridge
+F592.11,Hearing loss,9882,Mixed hearing loss,Diagnosis of Hearing loss,readcode,Kuan and Cambridge
+F592000,Hearing loss,27901,"Mix cond/sensneurl hear loss,unlat unrestrc hear/contrlat sd",Diagnosis of Hearing loss,readcode,Kuan and Cambridge
+F592100,Hearing loss,7301,"Mixed conductive and sensorineural hearing loss, bilateral",Diagnosis of Hearing loss,readcode,Kuan and Cambridge
+F593.00,Hearing loss,3747,"Deaf mutism, NEC",Diagnosis of Hearing loss,readcode,Kuan and Cambridge
+F594.00,Hearing loss,19084,High frequency deafness,Diagnosis of Hearing loss,readcode,Kuan and Cambridge
+F595.00,Hearing loss,44282,Low frequency deafness,Diagnosis of Hearing loss,readcode,Kuan and Cambridge
+F596.00,Hearing loss,98253,Maternally inherited deafness,Diagnosis of Hearing loss,readcode,Kuan and Cambridge
+F597.00,Hearing loss,99753,Mild acquired hearing loss,Diagnosis of Hearing loss,NA,Kuan
+F598.00,Hearing loss,100127,Moderate acquired hearing loss,Diagnosis of Hearing loss,NA,Kuan
+F599.00,Hearing loss,100276,Severe acquired hearing loss,Diagnosis of Hearing loss,NA,Kuan
+F59A.00,Hearing loss,100654,Profound acquired hearing loss,Diagnosis of Hearing loss,NA,Kuan
+F59A.11,Hearing loss,102872,Deafened,Diagnosis of Hearing loss,NA,Kuan
+F59y.00,Hearing loss,38563,Other specified forms of hearing loss,Diagnosis of Hearing loss,readcode,Kuan and Cambridge
+F59z.00,Hearing loss,686,Deafness NOS,Diagnosis of Hearing loss,readcode,Kuan and Cambridge
+F59z.11,Hearing loss,16648,Chronic deafness,Diagnosis of Hearing loss,readcode,Kuan and Cambridge
+F5A..00,Hearing loss,96245,Hearing impairment,Diagnosis of Hearing loss,readcode,Kuan and Cambridge
+Fy1..00,Hearing loss,103907,Combined visual and hearing impairment,Diagnosis of Hearing loss,NA,Kuan
+FyuU000,Hearing loss,71827,"[X]Deaf mutism, not elsewhere classified",Diagnosis of Hearing loss,readcode,Kuan and Cambridge
+FyuU100,Hearing loss,53800,[X]Other specified hearing loss,Diagnosis of Hearing loss,readcode,Kuan and Cambridge
+P40..00,Hearing loss,5016,Ear anomalies with hearing impairment,Diagnosis of Hearing loss,readcode,Kuan and Cambridge
+P400.00,Hearing loss,50016,"Ear anomalies with hearing impaired, unspecified",Diagnosis of Hearing loss,NA,Kuan
+P402.00,Hearing loss,52802,Other external ear anomaly with hearing impairment,Diagnosis of Hearing loss,NA,Kuan
+P402z00,Hearing loss,72933,Other external ear anomaly with hearing impairment NOS,Diagnosis of Hearing loss,NA,Kuan
+P40z.00,Hearing loss,27313,Other and unspecified ear anomaly with hearing impaired,Diagnosis of Hearing loss,NA,Kuan
+P40z.11,Hearing loss,31374,Deafness due to congenital anomaly NEC,Diagnosis of Hearing loss,readcode,Kuan and Cambridge
+P40zz00,Hearing loss,57053,Ear anomaly with hearing impaired NOS,Diagnosis of Hearing loss,NA,Kuan
+PKyP.00,Hearing loss,106927,"Diab insipidus,diab mell,optic atrophy and deafness",Diagnosis of Hearing loss,NA,Kuan
+Pyu1B00,Hearing loss,103542,"[X]Malformation of ear with impairment of hearing, unspec",Diagnosis of Hearing loss,NA,Kuan
+SJ15.12,Hearing loss,12339,Deafness - traumatic - NOS,NA,readcode,Cambridge
+Z8B5.00,Hearing loss,52245,Ability to use hearing aid,Diagnosis of Hearing loss,NA,Kuan
+Z8B5100,Hearing loss,46837,Able to use hearing aid,Diagnosis of Hearing loss,NA,Kuan
+Z8B5200,Hearing loss,35178,Unable to use hearing aid,NA,readcode,Cambridge
+Z8B5300,Hearing loss,19417,Does use hearing aid,Diagnosis of Hearing loss,readcode,Kuan and Cambridge
+Z8B5311,Hearing loss,18375,Uses hearing aid,Diagnosis of Hearing loss,readcode,Kuan and Cambridge
+Z8B5500,Hearing loss,17407,Difficulty using hearing aid,Diagnosis of Hearing loss,readcode,Kuan and Cambridge
+Z911.00,Hearing loss,30206,Hearing aid procedure,Diagnosis of Hearing loss,readcode,Kuan and Cambridge
+Z911100,Hearing loss,7344,Fit hearing aid,Diagnosis of Hearing loss,readcode,Kuan and Cambridge
+Z911300,Hearing loss,51744,Adjust hearing aid settings,Diagnosis of Hearing loss,NA,Kuan
+Z911400,Hearing loss,31962,Changing hearing aid battery,Diagnosis of Hearing loss,NA,Kuan
+Z911500,Hearing loss,30394,Checking hearing aid,Diagnosis of Hearing loss,readcode,Kuan and Cambridge
+Z911700,Hearing loss,97300,Switching on hearing aid,Diagnosis of Hearing loss,NA,Kuan
+Z911800,Hearing loss,93722,Turning off hearing aid,Diagnosis of Hearing loss,NA,Kuan
+Z911900,Hearing loss,59596,Putting on hearing aid,Diagnosis of Hearing loss,NA,Kuan
+Z911A00,Hearing loss,58046,Listening for feedback whistle of hearing aid,Diagnosis of Hearing loss,NA,Kuan
+Z911B00,Hearing loss,42879,Attention to hearing aid,Diagnosis of Hearing loss,NA,Kuan
+Z911E00,Hearing loss,58826,Fit ear mould for existing hearing aid,Diagnosis of Hearing loss,NA,Kuan
+Z911G00,Hearing loss,65516,Fit ear mould for hearing protection,Diagnosis of Hearing loss,NA,Kuan
+Z9E8100,Hearing loss,11619,Hearing aid provision,Diagnosis of Hearing loss,readcode,Kuan and Cambridge
+ZE7..00,Hearing loss,11704,Hearing problem,NA,readcode,Cambridge
+ZE87.00,Hearing loss,9830,Hearing loss,Diagnosis of Hearing loss,readcode,Kuan and Cambridge
+ZE87.11,Hearing loss,10367,Deafness,Diagnosis of Hearing loss,readcode,Kuan and Cambridge
+ZE87.12,Hearing loss,19666,Difficulty hearing,NA,readcode,Cambridge
+ZE87.13,Hearing loss,22102,Hard of hearing,Diagnosis of Hearing loss,readcode,Kuan and Cambridge
+ZE87.15,Hearing loss,12692,HI - Hearing impairment,Diagnosis of Hearing loss,readcode,Kuan and Cambridge
+ZE87.16,Hearing loss,12324,HL - Hearing loss,Diagnosis of Hearing loss,readcode,Kuan and Cambridge
+ZE87.17,Hearing loss,7891,HOH - Hard of hearing,Diagnosis of Hearing loss,readcode,Kuan and Cambridge
+ZE87.18,Hearing loss,18008,Hearing impairment,Diagnosis of Hearing loss,readcode,Kuan and Cambridge
+ZE87.19,Hearing loss,19068,Hearing impaired,Diagnosis of Hearing loss,readcode,Kuan and Cambridge
+ZE87.20,Hearing loss,30033,Hearing impaired,Diagnosis of Hearing loss,NA,Kuan
+ZL71600,Hearing loss,22831,Referral to registered hearing aid dispenser,Diagnosis of Hearing loss,NA,Kuan
+ZN56900,Hearing loss,63490,Deaf telephone user,Diagnosis of Hearing loss,NA,Kuan
+ZN56A00,Hearing loss,110179,Deaf-blind telephone user,Diagnosis of Hearing loss,NA,Kuan
+ZV41200,Hearing loss,15723,[V]Problems with hearing,NA,readcode,Cambridge
+ZV45G00,Hearing loss,18148,[V]Presence of external hearing-aid,Diagnosis of Hearing loss,NA,Kuan
+ZV45N00,Hearing loss,96803,[V]Bone anchored hearing aid in situ,Diagnosis of Hearing loss,readcode,Kuan and Cambridge
+ZV53200,Hearing loss,2876,[V]Fitting or adjustment of hearing aid,Diagnosis of Hearing loss,readcode,Kuan and Cambridge
+ZV53D00,Hearing loss,45604,[V]Adjustment and management of implanted hearing device,Diagnosis of Hearing loss,NA,Kuan

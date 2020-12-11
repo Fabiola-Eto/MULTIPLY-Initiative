@@ -1,0 +1,8 @@
+Readcode,Disease,Medcode,ReadcodeDescr,Category,CodingSystem,Provenance
+14CF.00,Irritable bowel syndrome,30630,History of irritable bowel syndrome,History of Irritable bowel syndrome,NA,Kuan
+8Cm..00,Irritable bowel syndrome,104591,Management of irritable bowel syndrome,Diagnosis of Irritable bowel syndrome,NA,Kuan
+Eu45324,Irritable bowel syndrome,16560,[X]Psychogenic IBS,NA,readcode,Cambridge
+J521.00,Irritable bowel syndrome,923,Irritable colon - Irritable bowel syndrome,Diagnosis of Irritable bowel syndrome,readcode,Kuan and Cambridge
+J521.11,Irritable bowel syndrome,451,Irritable bowel syndrome,Diagnosis of Irritable bowel syndrome,readcode,Kuan and Cambridge
+J521.13,Irritable bowel syndrome,2153,Spastic colon,Diagnosis of Irritable bowel syndrome,NA,Kuan
+J521000,Irritable bowel syndrome,29835,Irritable bowel syndrome with diarrhoea,Diagnosis of Irritable bowel syndrome,readcode,Kuan and Cambridge

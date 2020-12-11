@@ -1,0 +1,158 @@
+Readcode,Disease,Medcode,ReadcodeDescr,Category,CodingSystem,Provenance
+14C1.00,Peptic ulcer disease,2812,H/O: peptic ulcer,History of Peptic ulcer disease,NA,Kuan
+14C1.11,Peptic ulcer disease,6321,H/O: duodenal ulcer,History of Peptic ulcer disease,NA,Kuan
+14C1.12,Peptic ulcer disease,7108,H/O: gastric ulcer,History of Peptic ulcer disease,NA,Kuan
+5310,Peptic ulcer disease,79977,NA,NA,readcode,Cambridge
+5310PT,Peptic ulcer disease,83963,NA,NA,readcode,Cambridge
+5310TM,Peptic ulcer disease,88195,NA,NA,readcode,Cambridge
+5319PP,Peptic ulcer disease,75550,NA,NA,readcode,Cambridge
+5319PT,Peptic ulcer disease,83017,NA,NA,readcode,Cambridge
+5319TM,Peptic ulcer disease,75354,NA,NA,readcode,Cambridge
+5320,Peptic ulcer disease,74848,NA,NA,readcode,Cambridge
+5320PT,Peptic ulcer disease,88070,NA,NA,readcode,Cambridge
+5329,Peptic ulcer disease,74496,NA,NA,readcode,Cambridge
+5329BD,Peptic ulcer disease,77740,NA,NA,readcode,Cambridge
+5329PT,Peptic ulcer disease,74539,NA,NA,readcode,Cambridge
+5330,Peptic ulcer disease,82405,NA,NA,readcode,Cambridge
+5339,Peptic ulcer disease,75673,NA,NA,readcode,Cambridge
+5339DB,Peptic ulcer disease,76394,NA,NA,readcode,Cambridge
+5340GJ,Peptic ulcer disease,90208,NA,NA,readcode,Cambridge
+5349GJ,Peptic ulcer disease,88061,NA,NA,readcode,Cambridge
+5349MR,Peptic ulcer disease,82043,NA,NA,readcode,Cambridge
+7612111,Peptic ulcer disease,92695,Balfour excision of gastric ulcer,NA,readcode,Cambridge
+7612111.0,Peptic ulcer disease,92695,Balfour excision of gastric ulcer,Procedure for Peptic ulcer disease,NA,Kuan
+7612500,Peptic ulcer disease,64710,Resection of gastric ulcer by cautery,NA,readcode,Cambridge
+7612500.0,Peptic ulcer disease,64710,Resection of gastric ulcer by cautery,Procedure for Peptic ulcer disease,NA,Kuan
+761D500,Peptic ulcer disease,45981,Endoscopic injection haemostasis of duodenal ulcer,Procedure for Peptic ulcer disease,NA,Kuan
+761D600,Peptic ulcer disease,63718,Endoscopic injection haemostasis of gastric ulcer,Procedure for Peptic ulcer disease,readcode,Kuan and Cambridge
+761J.00,Peptic ulcer disease,23688,Operations on gastric ulcer,Procedure for Peptic ulcer disease,readcode,Kuan and Cambridge
+761J.11,Peptic ulcer disease,6865,Stomach ulcer operations,Procedure for Peptic ulcer disease,readcode,Kuan and Cambridge
+761J000,Peptic ulcer disease,20677,Closure of perforated gastric ulcer,Procedure for Peptic ulcer disease,readcode,Kuan and Cambridge
+761J100,Peptic ulcer disease,64014,Closure of gastric ulcer NEC,Procedure for Peptic ulcer disease,readcode,Kuan and Cambridge
+761J111,Peptic ulcer disease,70005,Suture of ulcer of stomach NEC,Procedure for Peptic ulcer disease,readcode,Kuan and Cambridge
+761Jy00,Peptic ulcer disease,94104,Other specified operation on gastric ulcer,Procedure for Peptic ulcer disease,readcode,Kuan and Cambridge
+761Jz00,Peptic ulcer disease,33914,Operation on gastric ulcer NOS,Procedure for Peptic ulcer disease,readcode,Kuan and Cambridge
+7627.00,Peptic ulcer disease,5928,Operations on duodenal ulcer,Procedure for Peptic ulcer disease,readcode,Kuan and Cambridge
+7627000,Peptic ulcer disease,4741,Closure of perforated duodenal ulcer,NA,readcode,Cambridge
+7627000.0,Peptic ulcer disease,4741,Closure of perforated duodenal ulcer,Procedure for Peptic ulcer disease,NA,Kuan
+7627100.0,Peptic ulcer disease,37268,Suture of duodenal ulcer not elsewhere classified,Procedure for Peptic ulcer disease,NA,Kuan
+7627200.0,Peptic ulcer disease,55350,Oversew of blood vessel of duodenal ulcer,Procedure for Peptic ulcer disease,NA,Kuan
+7627y00,Peptic ulcer disease,56005,Other specified operation on duodenal ulcer,Procedure for Peptic ulcer disease,NA,Kuan
+7627z00,Peptic ulcer disease,55933,Operation on duodenal ulcer NOS,Procedure for Peptic ulcer disease,NA,Kuan
+J102000,Peptic ulcer disease,24021,Peptic ulcer of oesophagus,NA,readcode,Cambridge
+J11..00,Peptic ulcer disease,1262,Gastric ulcer - (GU),Diagnosis of Peptic ulcer disease,readcode,Kuan and Cambridge
+J11..11,Peptic ulcer disease,6333,Prepyloric ulcer,Diagnosis of Peptic ulcer disease,readcode,Kuan and Cambridge
+J11..12,Peptic ulcer disease,3101,Pyloric ulcer,Diagnosis of Peptic ulcer disease,readcode,Kuan and Cambridge
+J110.00,Peptic ulcer disease,24040,Acute gastric ulcer,Diagnosis of Peptic ulcer disease,readcode,Kuan and Cambridge
+J110000,Peptic ulcer disease,64165,Acute gastric ulcer without mention of complication,Diagnosis of Peptic ulcer disease,readcode,Kuan and Cambridge
+J110100,Peptic ulcer disease,30054,Acute gastric ulcer with haemorrhage,Diagnosis of Peptic ulcer disease,readcode,Kuan and Cambridge
+J110111,Peptic ulcer disease,11124,Bleeding acute gastric ulcer,Diagnosis of Peptic ulcer disease,readcode,Kuan and Cambridge
+J110200,Peptic ulcer disease,14671,Acute gastric ulcer with perforation,Diagnosis of Peptic ulcer disease,readcode,Kuan and Cambridge
+J110300,Peptic ulcer disease,71403,Acute gastric ulcer with haemorrhage and perforation,Diagnosis of Peptic ulcer disease,readcode,Kuan and Cambridge
+J110400,Peptic ulcer disease,109546,Acute gastric ulcer with obstruction,Diagnosis of Peptic ulcer disease,readcode,Kuan and Cambridge
+J110y00,Peptic ulcer disease,24342,Acute gastric ulcer unspecified,Diagnosis of Peptic ulcer disease,readcode,Kuan and Cambridge
+J110z00,Peptic ulcer disease,44324,Acute gastric ulcer NOS,Diagnosis of Peptic ulcer disease,readcode,Kuan and Cambridge
+J111.00,Peptic ulcer disease,18654,Chronic gastric ulcer,Diagnosis of Peptic ulcer disease,readcode,Kuan and Cambridge
+J111000,Peptic ulcer disease,48946,Chronic gastric ulcer without mention of complication,Diagnosis of Peptic ulcer disease,readcode,Kuan and Cambridge
+J111100,Peptic ulcer disease,63582,Chronic gastric ulcer with haemorrhage,Diagnosis of Peptic ulcer disease,readcode,Kuan and Cambridge
+J111111,Peptic ulcer disease,36583,Bleeding chronic gastric ulcer,Diagnosis of Peptic ulcer disease,readcode,Kuan and Cambridge
+J111200,Peptic ulcer disease,53336,Chronic gastric ulcer with perforation,Diagnosis of Peptic ulcer disease,readcode,Kuan and Cambridge
+J111211,Peptic ulcer disease,11104,Perforated chronic gastric ulcer,Diagnosis of Peptic ulcer disease,readcode,Kuan and Cambridge
+J111300,Peptic ulcer disease,71897,Chronic gastric ulcer with haemorrhage and perforation,Diagnosis of Peptic ulcer disease,readcode,Kuan and Cambridge
+J111400,Peptic ulcer disease,67356,Chronic gastric ulcer with obstruction,Diagnosis of Peptic ulcer disease,readcode,Kuan and Cambridge
+J111y00,Peptic ulcer disease,64556,Chronic gastric ulcer unspecified,Diagnosis of Peptic ulcer disease,readcode,Kuan and Cambridge
+J111z00,Peptic ulcer disease,44309,Chronic gastric ulcer NOS,Diagnosis of Peptic ulcer disease,readcode,Kuan and Cambridge
+J112.00,Peptic ulcer disease,63001,Anti-platelet induced gastric ulcer,Diagnosis of Peptic ulcer disease,readcode,Kuan and Cambridge
+J112z00,Peptic ulcer disease,89227,Anti-platelet induced gastric ulcer NOS,Diagnosis of Peptic ulcer disease,NA,Kuan
+J113.00,Peptic ulcer disease,89023,Non steroidal anti inflammatory drug induced gastric ulcer,Diagnosis of Peptic ulcer disease,NA,Kuan
+J113z00,Peptic ulcer disease,97993,Non steroidal anti inflammatory drug induced gastric ulc NOS,Diagnosis of Peptic ulcer disease,NA,Kuan
+J11y.00,Peptic ulcer disease,53081,Unspecified gastric ulcer,Diagnosis of Peptic ulcer disease,readcode,Kuan and Cambridge
+J11y000,Peptic ulcer disease,73338,Unspecified gastric ulcer without mention of complication,Diagnosis of Peptic ulcer disease,readcode,Kuan and Cambridge
+J11y100,Peptic ulcer disease,57958,Unspecified gastric ulcer with haemorrhage,Diagnosis of Peptic ulcer disease,readcode,Kuan and Cambridge
+J11y200,Peptic ulcer disease,36461,Unspecified gastric ulcer with perforation,Diagnosis of Peptic ulcer disease,readcode,Kuan and Cambridge
+J11y400,Peptic ulcer disease,73697,Unspecified gastric ulcer with obstruction,Diagnosis of Peptic ulcer disease,readcode,Kuan and Cambridge
+J11yy00,Peptic ulcer disease,94397,Unspec gastric ulcer; unspec haemorrhage and/or perforation,Diagnosis of Peptic ulcer disease,readcode,Kuan and Cambridge
+J11yz00,Peptic ulcer disease,44284,Unspecified gastric ulcer NOS,Diagnosis of Peptic ulcer disease,readcode,Kuan and Cambridge
+J11z.00,Peptic ulcer disease,29771,Gastric ulcer NOS,Diagnosis of Peptic ulcer disease,readcode,Kuan and Cambridge
+J11z.11,Peptic ulcer disease,2877,Gastric erosions,Diagnosis of Peptic ulcer disease,NA,Kuan
+J11z.12,Peptic ulcer disease,52323,Multiple gastric ulcers,Diagnosis of Peptic ulcer disease,readcode,Kuan and Cambridge
+J12..00,Peptic ulcer disease,352,Duodenal ulcer - (DU),Diagnosis of Peptic ulcer disease,readcode,Kuan and Cambridge
+J120.00,Peptic ulcer disease,18027,Acute duodenal ulcer,Diagnosis of Peptic ulcer disease,readcode,Kuan and Cambridge
+J120000,Peptic ulcer disease,44335,Acute duodenal ulcer without mention of complication,Diagnosis of Peptic ulcer disease,readcode,Kuan and Cambridge
+J120100,Peptic ulcer disease,18001,Acute duodenal ulcer with haemorrhage,Diagnosis of Peptic ulcer disease,readcode,Kuan and Cambridge
+J120200,Peptic ulcer disease,18324,Acute duodenal ulcer with perforation,Diagnosis of Peptic ulcer disease,readcode,Kuan and Cambridge
+J120300,Peptic ulcer disease,48730,Acute duodenal ulcer with haemorrhage and perforation,Diagnosis of Peptic ulcer disease,readcode,Kuan and Cambridge
+J120400,Peptic ulcer disease,73417,Acute duodenal ulcer with obstruction,Diagnosis of Peptic ulcer disease,readcode,Kuan and Cambridge
+J120y00,Peptic ulcer disease,53822,Acute duodenal ulcer unspecified,Diagnosis of Peptic ulcer disease,readcode,Kuan and Cambridge
+J120z00,Peptic ulcer disease,53797,Acute duodenal ulcer NOS,Diagnosis of Peptic ulcer disease,readcode,Kuan and Cambridge
+J121.00,Peptic ulcer disease,9853,Chronic duodenal ulcer,Diagnosis of Peptic ulcer disease,readcode,Kuan and Cambridge
+J121000,Peptic ulcer disease,33438,Chronic duodenal ulcer without mention of complication,Diagnosis of Peptic ulcer disease,readcode,Kuan and Cambridge
+J121100,Peptic ulcer disease,48951,Chronic duodenal ulcer with haemorrhage,Diagnosis of Peptic ulcer disease,NA,Kuan
+J121111,Peptic ulcer disease,18625,Bleeding chronic duodenal ulcer,Diagnosis of Peptic ulcer disease,readcode,Kuan and Cambridge
+J121200,Peptic ulcer disease,37643,Chronic duodenal ulcer with perforation,Diagnosis of Peptic ulcer disease,NA,Kuan
+J121211,Peptic ulcer disease,23087,Perforated chronic duodenal ulcer,Diagnosis of Peptic ulcer disease,NA,Kuan
+J121300,Peptic ulcer disease,71881,Chronic duodenal ulcer with haemorrhage and perforation,Diagnosis of Peptic ulcer disease,readcode,Kuan and Cambridge
+J121400,Peptic ulcer disease,44073,Chronic duodenal ulcer with obstruction,Diagnosis of Peptic ulcer disease,readcode,Kuan and Cambridge
+J121y00,Peptic ulcer disease,52138,Chronic duodenal ulcer unspecified,Diagnosis of Peptic ulcer disease,readcode,Kuan and Cambridge
+J121z00,Peptic ulcer disease,51406,Chronic duodenal ulcer NOS,Diagnosis of Peptic ulcer disease,readcode,Kuan and Cambridge
+J122.00,Peptic ulcer disease,22918,Duodenal ulcer disease,Diagnosis of Peptic ulcer disease,readcode,Kuan and Cambridge
+J123.00,Peptic ulcer disease,3462,Duodenal erosion,Diagnosis of Peptic ulcer disease,readcode,Kuan and Cambridge
+J124.00,Peptic ulcer disease,29317,Recurrent duodenal ulcer,Diagnosis of Peptic ulcer disease,readcode,Kuan and Cambridge
+J125.00,Peptic ulcer disease,89234,Anti-platelet induced duodenal ulcer,Diagnosis of Peptic ulcer disease,NA,Kuan
+J126.00,Peptic ulcer disease,85989,Non steroidal anti inflammatory drug induced duodenal ulcer,Diagnosis of Peptic ulcer disease,NA,Kuan
+J12y.00,Peptic ulcer disease,53669,Unspecified duodenal ulcer,Diagnosis of Peptic ulcer disease,readcode,Kuan and Cambridge
+J12y000,Peptic ulcer disease,71150,Unspecified duodenal ulcer without mention of complication,Diagnosis of Peptic ulcer disease,readcode,Kuan and Cambridge
+J12y100,Peptic ulcer disease,2814,Unspecified duodenal ulcer with haemorrhage,Diagnosis of Peptic ulcer disease,NA,Kuan
+J12y200,Peptic ulcer disease,657,Unspecified duodenal ulcer with perforation,Diagnosis of Peptic ulcer disease,readcode,Kuan and Cambridge
+J12y300,Peptic ulcer disease,93436,Unspecified duodenal ulcer with haemorrhage and perforation,Diagnosis of Peptic ulcer disease,readcode,Kuan and Cambridge
+J12y400,Peptic ulcer disease,71904,Unspecified duodenal ulcer with obstruction,Diagnosis of Peptic ulcer disease,readcode,Kuan and Cambridge
+J12yy00,Peptic ulcer disease,28366,Unspec duodenal ulcer; unspec haemorrhage and/or perforation,Diagnosis of Peptic ulcer disease,readcode,Kuan and Cambridge
+J12yz00,Peptic ulcer disease,65737,Unspecified duodenal ulcer NOS,Diagnosis of Peptic ulcer disease,readcode,Kuan and Cambridge
+J12z.00,Peptic ulcer disease,15175,Duodenal ulcer NOS,Diagnosis of Peptic ulcer disease,readcode,Kuan and Cambridge
+J13..00,Peptic ulcer disease,670,Peptic ulcer - (PU) site unspecified,Diagnosis of Peptic ulcer disease,readcode,Kuan and Cambridge
+J13..11,Peptic ulcer disease,15821,Stress ulcer NOS,Diagnosis of Peptic ulcer disease,readcode,Kuan and Cambridge
+J130.00,Peptic ulcer disease,32856,Acute peptic ulcer,Diagnosis of Peptic ulcer disease,readcode,Kuan and Cambridge
+J130000,Peptic ulcer disease,68661,Acute peptic ulcer without mention of complication,Diagnosis of Peptic ulcer disease,readcode,Kuan and Cambridge
+J130100,Peptic ulcer disease,44637,Acute peptic ulcer with haemorrhage,Diagnosis of Peptic ulcer disease,readcode,Kuan and Cambridge
+J130200,Peptic ulcer disease,5521,Acute peptic ulcer with perforation,Diagnosis of Peptic ulcer disease,readcode,Kuan and Cambridge
+J130300,Peptic ulcer disease,45304,Acute peptic ulcer with haemorrhage and perforation,Diagnosis of Peptic ulcer disease,readcode,Kuan and Cambridge
+J130y00,Peptic ulcer disease,67711,Acute peptic ulcer unspecified,Diagnosis of Peptic ulcer disease,readcode,Kuan and Cambridge
+J130z00,Peptic ulcer disease,50048,Acute peptic ulcer NOS,Diagnosis of Peptic ulcer disease,readcode,Kuan and Cambridge
+J131.00,Peptic ulcer disease,40997,Chronic peptic ulcer,Diagnosis of Peptic ulcer disease,readcode,Kuan and Cambridge
+J131000,Peptic ulcer disease,99430,Chronic peptic ulcer without mention of complication,Diagnosis of Peptic ulcer disease,readcode,Kuan and Cambridge
+J131100,Peptic ulcer disease,53126,Chronic peptic ulcer with haemorrhage,Diagnosis of Peptic ulcer disease,readcode,Kuan and Cambridge
+J131200,Peptic ulcer disease,37620,Chronic peptic ulcer with perforation,Diagnosis of Peptic ulcer disease,readcode,Kuan and Cambridge
+J131400,Peptic ulcer disease,52313,Chronic peptic ulcer with obstruction,Diagnosis of Peptic ulcer disease,readcode,Kuan and Cambridge
+J131y00,Peptic ulcer disease,70390,Chronic peptic ulcer unspecified,Diagnosis of Peptic ulcer disease,readcode,Kuan and Cambridge
+J131z00,Peptic ulcer disease,69663,Chronic peptic ulcer NOS,Diagnosis of Peptic ulcer disease,readcode,Kuan and Cambridge
+J13y.00,Peptic ulcer disease,50497,Unspecified peptic ulcer,Diagnosis of Peptic ulcer disease,readcode,Kuan and Cambridge
+J13y000,Peptic ulcer disease,67082,Unspecified peptic ulcer without mention of complication,Diagnosis of Peptic ulcer disease,readcode,Kuan and Cambridge
+J13y100,Peptic ulcer disease,70456,Unspecified peptic ulcer with haemorrhage,Diagnosis of Peptic ulcer disease,readcode,Kuan and Cambridge
+J13y200,Peptic ulcer disease,64111,Unspecified peptic ulcer with perforation,Diagnosis of Peptic ulcer disease,readcode,Kuan and Cambridge
+J13y300,Peptic ulcer disease,96622,Unspecified peptic ulcer with haemorrhage and perforation,Diagnosis of Peptic ulcer disease,readcode,Kuan and Cambridge
+J13y400,Peptic ulcer disease,99670,Unspecified peptic ulcer with obstruction,Diagnosis of Peptic ulcer disease,readcode,Kuan and Cambridge
+J13yz00,Peptic ulcer disease,60249,Unspecified peptic ulcer NOS,Diagnosis of Peptic ulcer disease,readcode,Kuan and Cambridge
+J13z.00,Peptic ulcer disease,19928,Peptic ulcer NOS,Diagnosis of Peptic ulcer disease,readcode,Kuan and Cambridge
+J14..00,Peptic ulcer disease,23082,Gastrojejunal ulcer (GJU),Diagnosis of Peptic ulcer disease,readcode,Kuan and Cambridge
+J14..11,Peptic ulcer disease,23487,Anastomotic ulcer,Diagnosis of Peptic ulcer disease,NA,Kuan
+J14..12,Peptic ulcer disease,64913,Gastrocolic ulcer,Diagnosis of Peptic ulcer disease,readcode,Kuan and Cambridge
+J14..13,Peptic ulcer disease,9981,Jejunal ulcer,Diagnosis of Peptic ulcer disease,NA,Kuan
+J14..15,Peptic ulcer disease,1295,Stomal ulcer,NA,readcode,Cambridge
+J140.00,Peptic ulcer disease,45184,Acute gastrojejunal ulcer,Diagnosis of Peptic ulcer disease,readcode,Kuan and Cambridge
+J140100,Peptic ulcer disease,96628,Acute gastrojejunal ulcer with haemorrhage,Diagnosis of Peptic ulcer disease,readcode,Kuan and Cambridge
+J140200,Peptic ulcer disease,102177,Acute gastrojejunal ulcer with perforation,Diagnosis of Peptic ulcer disease,readcode,Kuan and Cambridge
+J140300,Peptic ulcer disease,106330,Acute gastrojejunal ulcer with haemorrhage and perforation,Diagnosis of Peptic ulcer disease,readcode,Kuan and Cambridge
+J140z00,Peptic ulcer disease,42274,Acute gastrojejunal ulcer NOS,Diagnosis of Peptic ulcer disease,readcode,Kuan and Cambridge
+J141.00,Peptic ulcer disease,96090,Chronic gastrojejunal ulcer,Diagnosis of Peptic ulcer disease,readcode,Kuan and Cambridge
+J141300,Peptic ulcer disease,110244,Chronic gastrojejunal ulcer with haemorrhage and perforation,Diagnosis of Peptic ulcer disease,readcode,Kuan and Cambridge
+J14y.00,Peptic ulcer disease,63482,Unspecified gastrojejunal ulcer,Diagnosis of Peptic ulcer disease,readcode,Kuan and Cambridge
+J14y100,Peptic ulcer disease,60346,Unspecified gastrojejunal ulcer with haemorrhage,Diagnosis of Peptic ulcer disease,readcode,Kuan and Cambridge
+J14y200,Peptic ulcer disease,15979,Unspecified gastrojejunal ulcer with perforation,Diagnosis of Peptic ulcer disease,readcode,Kuan and Cambridge
+J14yz00,Peptic ulcer disease,66092,Unspecified gastrojejunal ulcer NOS,Diagnosis of Peptic ulcer disease,readcode,Kuan and Cambridge
+J14z.00,Peptic ulcer disease,15403,Gastrojejunal ulcer NOS,Diagnosis of Peptic ulcer disease,readcode,Kuan and Cambridge
+J17y800,Peptic ulcer disease,18319,Healed gastric ulcer leaving a scar,History of Peptic ulcer disease,NA,Kuan
+K4271,Peptic ulcer disease,84227,NA,NA,readcode,Cambridge
+K458 PT,Peptic ulcer disease,90899,NA,NA,readcode,Cambridge
+ZV12711,Peptic ulcer disease,26261,[V]Personal history of peptic ulcer,History of Peptic ulcer disease,readcode,Kuan and Cambridge
+ZV12712,Peptic ulcer disease,40489,[V]Personal history of duodenal ulcer,History of Peptic ulcer disease,NA,Kuan
+ZV12C00,Peptic ulcer disease,41271,[V] Personal history of gastric ulcer,History of Peptic ulcer disease,readcode,Kuan and Cambridge
