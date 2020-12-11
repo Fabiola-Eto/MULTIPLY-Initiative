@@ -1,0 +1,133 @@
+Readcode,Disease,Medcode,ReadcodeDescr,Category,CodingSystem,Provenance
+1B75.00,Visual impairment and blindness,3268,Loss of vision,Diagnosis of blindness,NA,Kuan
+2B69.00,Visual impairment and blindness,33015,O/E -R-eye counts fingers only,NA,readcode,Cambridge
+2B6A.00,Visual impairment and blindness,26722,O/E-R-eye perceives light only,NA,readcode,Cambridge
+2B6A.11,Visual impairment and blindness,10388,O/E - blind R-eye,Diagnosis of blindness,NA,Kuan
+2B6B.00,Visual impairment and blindness,33014,O/E - R-eye completely blind,Diagnosis of blindness,readcode,Kuan and Cambridge
+2B6C.00,Visual impairment and blindness,45030,O/E - R-eye sees hand movements,NA,readcode,Cambridge
+2B6P.00,Visual impairment and blindness,48983,O/E - pinhole R-eye sees hand movements,NA,readcode,Cambridge
+2B6Q.00,Visual impairment and blindness,47158,O/E - pinhole R-eye counts fingers only,NA,readcode,Cambridge
+2B6R.00,Visual impairment and blindness,41060,O/E - pinhole R-eye perceives light only,NA,readcode,Cambridge
+2B6S.00,Visual impairment and blindness,51274,O/E - pinhole R-eye completely blind,Diagnosis of blindness,readcode,Kuan and Cambridge
+2B6T.00,Visual impairment and blindness,45786,O/E - R-eye visual acuity (corrected) 1/60,NA,readcode,Cambridge
+2B6V.00,Visual impairment and blindness,47911,O/E - R-eye visual acuity (corrected) 2/60,NA,readcode,Cambridge
+2B6W.00,Visual impairment and blindness,38166,O/E - R-eye visual acuity (corrected) 4/60,NA,readcode,Cambridge
+2B6X.00,Visual impairment and blindness,66391,O/E - R-eye visual acuity (corrected) 5/60,NA,readcode,Cambridge
+2B79.00,Visual impairment and blindness,35515,O/E -L-eye counts fingers only,NA,readcode,Cambridge
+2B7A.00,Visual impairment and blindness,38167,O/E-L-eye perceives light only,NA,readcode,Cambridge
+2B7A.11,Visual impairment and blindness,3852,O/E - blind L-eye,Diagnosis of blindness,NA,Kuan
+2B7B.00,Visual impairment and blindness,33016,O/E - L-eye completely blind,Diagnosis of blindness,readcode,Kuan and Cambridge
+2B7C.00,Visual impairment and blindness,33017,O/E - L-eye sees hand movements,NA,readcode,Cambridge
+2B7P.00,Visual impairment and blindness,50925,O/E - pinhole L-eye sees hand movements,NA,readcode,Cambridge
+2B7Q.00,Visual impairment and blindness,49283,O/E - pinhole L-eye counts fingers only,NA,readcode,Cambridge
+2B7R.00,Visual impairment and blindness,54514,O/E - pinhole L-eye perceives light only,NA,readcode,Cambridge
+2B7S.00,Visual impairment and blindness,54513,O/E - pinhole L-eye completely blind,Diagnosis of blindness,readcode,Kuan and Cambridge
+2B7T.00,Visual impairment and blindness,47912,O/E - L-eye visual acuity (corrected) 1/60,NA,readcode,Cambridge
+2B7V.00,Visual impairment and blindness,60032,O/E - L-eye visual acuity (corrected) 2/60,NA,readcode,Cambridge
+2B7W.00,Visual impairment and blindness,38168,O/E - L-eye visual acuity (corrected) 4/60,NA,readcode,Cambridge
+2B7X.00,Visual impairment and blindness,65569,O/E - L-eye visual acuity (corrected) 5/60,NA,readcode,Cambridge
+2BBo.00,Visual impairment and blindness,52630,O/E - sight threatening diabetic retinopathy,Diagnosis of blindness,NA,Kuan
+2BBr.00,Visual impairment and blindness,101881,Impaired vision due to diabetic retinopathy,Diagnosis of blindness,NA,Kuan
+6688,Visual impairment and blindness,2746,Registered partially sighted,Diagnosis of blindness,NA,Kuan
+6688.00,Visual impairment and blindness,2746,Registered partially sighted,NA,readcode,Cambridge
+6688.11,Visual impairment and blindness,6768,Registered partially blind,Diagnosis of blindness,readcode,Kuan and Cambridge
+6689,Visual impairment and blindness,510,Registered blind,Diagnosis of blindness,NA,Kuan
+6689.00,Visual impairment and blindness,510,Registered blind,NA,readcode,Cambridge
+6689.11,Visual impairment and blindness,101051,Registered severely sight impaired,Diagnosis of blindness,readcode,Kuan and Cambridge
+668B.00,Visual impairment and blindness,555,Poor visual acuity,NA,readcode,Cambridge
+668C.00,Visual impairment and blindness,13152,Certificate of vision impairment,NA,readcode,Cambridge
+668D.00,Visual impairment and blindness,100999,Registered sight impaired,Diagnosis of blindness,readcode,Kuan and Cambridge
+8F6..11,Visual impairment and blindness,55846,Blind rehabilitation,Diagnosis of blindness,NA,Kuan
+8F61.00,Visual impairment and blindness,67126,Blind rehabilitation,Diagnosis of blindness,NA,Kuan
+8F62.00,Visual impairment and blindness,91521,Blind lead dog rehabilitation,Diagnosis of blindness,NA,Kuan
+8HlE.00,Visual impairment and blindness,98935,Referral to visual impairment multidisciplinary team,Diagnosis of blindness,NA,Kuan
+9m08.00,Visual impairment and blindness,106329,Excluded from diabetic retinopathy screening as blind,Diagnosis of blindness,NA,Kuan
+9NfB.00,Visual impairment and blindness,105795,Requires deafblind communicator guide,Diagnosis of blindness,NA,Kuan
+9NlD.00,Visual impairment and blindness,98226,Seen by visual impairment teacher,Diagnosis of blindness,NA,Kuan
+F404100,Visual impairment and blindness,10868,Blind hypotensive eye,Diagnosis of blindness,readcode,Kuan and Cambridge
+F404200,Visual impairment and blindness,37086,Blind hypertensive eye,Diagnosis of blindness,readcode,Kuan and Cambridge
+F49..00,Visual impairment and blindness,8367,Blindness and low vision,Diagnosis of blindness,readcode,Kuan and Cambridge
+F49..11,Visual impairment and blindness,6020,Impaired vision,Diagnosis of blindness,readcode,Kuan and Cambridge
+F49..12,Visual impairment and blindness,12493,Low vision,NA,readcode,Cambridge
+F49..13,Visual impairment and blindness,3976,Partial sight,Diagnosis of blindness,readcode,Kuan and Cambridge
+F49..14,Visual impairment and blindness,9645,Sight impaired,Diagnosis of blindness,readcode,Kuan and Cambridge
+F490.00,Visual impairment and blindness,1990,"Blindness, both eyes",Diagnosis of blindness,readcode,Kuan and Cambridge
+F490000,Visual impairment and blindness,55108,Unspecified blindness both eyes,Diagnosis of blindness,readcode,Kuan and Cambridge
+F490100,Visual impairment and blindness,55436,Both eyes total visual impairment,Diagnosis of blindness,readcode,Kuan and Cambridge
+F490200,Visual impairment and blindness,98672,"Better eye: near total VI, Lesser eye: unspecified",Diagnosis of blindness,readcode,Kuan and Cambridge
+F490400,Visual impairment and blindness,96455,"Better eye: near total VI, Lesser eye: near total VI",Diagnosis of blindness,readcode,Kuan and Cambridge
+F490600,Visual impairment and blindness,99191,"Better eye: profound VI, Lesser eye: total VI",Diagnosis of blindness,readcode,Kuan and Cambridge
+F490900,Visual impairment and blindness,42262,"Acquired blindness, both eyes",Diagnosis of blindness,readcode,Kuan and Cambridge
+F490z00,Visual impairment and blindness,47956,Blindness both eyes NOS,Diagnosis of blindness,readcode,Kuan and Cambridge
+F491.00,Visual impairment and blindness,55844,"Better eye: low vision, Lesser eye: profound VI",Diagnosis of blindness,readcode,Kuan and Cambridge
+F491000,Visual impairment and blindness,29387,"One eye blind, one eye low vision",Diagnosis of blindness,readcode,Kuan and Cambridge
+F491100,Visual impairment and blindness,99504,"Better eye: severe VI, Lesser eye: blind, unspecified",Diagnosis of blindness,readcode,Kuan and Cambridge
+F491300,Visual impairment and blindness,50679,"Better eye: severe VI, Lesser eye: near total VI",Diagnosis of blindness,readcode,Kuan and Cambridge
+F491400,Visual impairment and blindness,67594,"Better eye: severe VI, Lesser eye: profound VI",Diagnosis of blindness,readcode,Kuan and Cambridge
+F491500,Visual impairment and blindness,68391,"Better eye: moderate VI, Lesser eye: blind, unspecified",Diagnosis of blindness,readcode,Kuan and Cambridge
+F491700,Visual impairment and blindness,72411,"Better eye: moderate VI, Lesser eye: near total VI",Diagnosis of blindness,readcode,Kuan and Cambridge
+F491z00,Visual impairment and blindness,54962,"One eye blind, one eye low vision NOS",Diagnosis of blindness,readcode,Kuan and Cambridge
+F492.00,Visual impairment and blindness,7203,"Low vision, both eyes",Diagnosis of blindness,readcode,Kuan and Cambridge
+F492000,Visual impairment and blindness,40451,"Low vision, both eyes unspecified",Diagnosis of blindness,readcode,Kuan and Cambridge
+F492200,Visual impairment and blindness,66731,"Better eye: severe VI, Lesser eye: severe VI",Diagnosis of blindness,readcode,Kuan and Cambridge
+F492300,Visual impairment and blindness,73224,"Better eye: moderate VI, Lesser eye: low vision unspecified",Diagnosis of blindness,readcode,Kuan and Cambridge
+F492400,Visual impairment and blindness,68386,"Better eye: moderate VI, Lesser eye: severe VI",Diagnosis of blindness,readcode,Kuan and Cambridge
+F492500,Visual impairment and blindness,71319,"Better eye: moderate VI, Lesser eye: moderate VI",Diagnosis of blindness,readcode,Kuan and Cambridge
+F492z00,Visual impairment and blindness,33447,"Low vision, both eyes NOS",Diagnosis of blindness,readcode,Kuan and Cambridge
+F493.00,Visual impairment and blindness,20256,"Visual loss, both eyes unqualified",Diagnosis of blindness,readcode,Kuan and Cambridge
+F494.00,Visual impairment and blindness,60401,Legal blindness USA,Diagnosis of blindness,readcode,Kuan and Cambridge
+F495.00,Visual impairment and blindness,15269,"Profound impairment, one eye",Diagnosis of blindness,readcode,Kuan and Cambridge
+F495000,Visual impairment and blindness,3851,"Blindness, one eye, unspecified",Diagnosis of blindness,readcode,Kuan and Cambridge
+F495100,Visual impairment and blindness,63045,"Lesser eye: total visual impairment, Better eye: unspecified",Diagnosis of blindness,readcode,Kuan and Cambridge
+F495200,Visual impairment and blindness,99165,"Lesser eye: total VI, Better eye: near normal vision",Diagnosis of blindness,readcode,Kuan and Cambridge
+F495300,Visual impairment and blindness,99166,"Lesser eye: total VI, Better eye: normal vision",Diagnosis of blindness,readcode,Kuan and Cambridge
+F495400,Visual impairment and blindness,60043,"Lesser eye: near total VI, Better eye: unspecified",Diagnosis of blindness,readcode,Kuan and Cambridge
+F495500,Visual impairment and blindness,63928,"Lesser eye: near total VI, Better eye: near normal vision",Diagnosis of blindness,readcode,Kuan and Cambridge
+F495600,Visual impairment and blindness,65144,"Lesser eye: near total VI, Better eye: normal vision",Diagnosis of blindness,readcode,Kuan and Cambridge
+F495800,Visual impairment and blindness,69998,"Lesser eye: profound VI, Better eye: near normal vision",Diagnosis of blindness,readcode,Kuan and Cambridge
+F495A00,Visual impairment and blindness,38000,"Acquired blindness, one eye",Diagnosis of blindness,readcode,Kuan and Cambridge
+F495z00,Visual impairment and blindness,44954,Profound impairment one eye NOS,Diagnosis of blindness,readcode,Kuan and Cambridge
+F496.00,Visual impairment and blindness,25831,"Low vision, one eye",Diagnosis of blindness,readcode,Kuan and Cambridge
+F496000,Visual impairment and blindness,20607,"Low vision, one eye, unspecified",Diagnosis of blindness,readcode,Kuan and Cambridge
+F496100,Visual impairment and blindness,104087,"Lesser eye: severe VI, Better eye: unspecified",Diagnosis of blindness,readcode,Kuan and Cambridge
+F496200,Visual impairment and blindness,25168,"Lesser eye: severe VI, Better eye: near normal vision",Diagnosis of blindness,readcode,Kuan and Cambridge
+F496300,Visual impairment and blindness,67765,"Lesser eye: severe VI, Better eye: normal vision",Diagnosis of blindness,readcode,Kuan and Cambridge
+F496400,Visual impairment and blindness,100755,"Lesser eye: moderate VI, Better eye: unspecified",Diagnosis of blindness,readcode,Kuan and Cambridge
+F496500,Visual impairment and blindness,62657,"Lesser eye: moderate VI, Better eye: near normal vision",Diagnosis of blindness,readcode,Kuan and Cambridge
+F496600,Visual impairment and blindness,67872,"Lesser eye: moderate VI, Better eye: normal vision",Diagnosis of blindness,readcode,Kuan and Cambridge
+F496z00,Visual impairment and blindness,37893,"Low vision, one eye NOS",Diagnosis of blindness,readcode,Kuan and Cambridge
+F497.00,Visual impairment and blindness,104853,"Severe visual impairment, binocular",Diagnosis of blindness,readcode,Kuan and Cambridge
+F498.00,Visual impairment and blindness,105665,"Moderate visual impairment, binocular",Diagnosis of blindness,readcode,Kuan and Cambridge
+F499.00,Visual impairment and blindness,104666,"Mild or no visual impairment, binocular",Diagnosis of blindness,readcode,Kuan and Cambridge
+F49A.00,Visual impairment and blindness,104077,"Blindness, monocular",Diagnosis of blindness,readcode,Kuan and Cambridge
+F49B.00,Visual impairment and blindness,105206,"Severe visual impairment, monocular",Diagnosis of blindness,readcode,Kuan and Cambridge
+F49C.00,Visual impairment and blindness,105493,"Moderate visual impairment, monocular",Diagnosis of blindness,readcode,Kuan and Cambridge
+F49y.00,Visual impairment and blindness,25547,"Visual loss, one eye, unqualified",Diagnosis of blindness,readcode,Kuan and Cambridge
+F49z.00,Visual impairment and blindness,1444,Visual loss NOS,Diagnosis of blindness,readcode,Kuan and Cambridge
+F49z.11,Visual impairment and blindness,23742,Acquired blindness,Diagnosis of blindness,readcode,Kuan and Cambridge
+F49z000,Visual impairment and blindness,18819,Charles Bonnet syndrome,Diagnosis of blindness,readcode,Kuan and Cambridge
+F4H6100,Visual impairment and blindness,34957,Visual pathway disorder due to vascular disorder,NA,readcode,Cambridge
+F4H6z00,Visual impairment and blindness,73534,Other visual pathway disorder NOS,NA,readcode,Cambridge
+F4H7.00,Visual impairment and blindness,20585,Visual cortex disorder,NA,readcode,Cambridge
+F4H7100,Visual impairment and blindness,66372,Visual cortex disorder due to vascular disorder,NA,readcode,Cambridge
+F4H7300,Visual impairment and blindness,32467,Cortical blindness,Diagnosis of blindness,readcode,Kuan and Cambridge
+F4H7z00,Visual impairment and blindness,57631,Visual cortex disorder NOS,NA,readcode,Cambridge
+Fy1..00,Visual impairment and blindness,103907,Combined visual and hearing impairment,Diagnosis of blindness,NA,Kuan
+FyuL.00,Visual impairment and blindness,98637,[X]Visual disturbances and blindness,Diagnosis of blindness,readcode,Kuan and Cambridge
+FyuL100,Visual impairment and blindness,63732,[X]Other visual disturbances,NA,readcode,Cambridge
+SJ0..00,Visual impairment and blindness,9342,Optic nerve and pathway injury,NA,readcode,Cambridge
+SJ00.00,Visual impairment and blindness,67296,Optic nerve (2nd) injury,NA,readcode,Cambridge
+SJ01.00,Visual impairment and blindness,63298,Optic chiasm injury,NA,readcode,Cambridge
+SJ02.00,Visual impairment and blindness,56574,Optic pathway injury,NA,readcode,Cambridge
+SJ03.00,Visual impairment and blindness,60078,Visual cortex injury,NA,readcode,Cambridge
+SJ0z.00,Visual impairment and blindness,58787,Optic nerve or pathway injury NOS,NA,readcode,Cambridge
+SJ0z.11,Visual impairment and blindness,32044,Blindness - traumatic - NOS,Diagnosis of blindness,readcode,Kuan and Cambridge
+Z96..00,Visual impairment and blindness,32905,Provision for visual and hearing impairment,Diagnosis of blindness,NA,Kuan
+Z961.00,Visual impairment and blindness,38717,Provision of guide help for visual and hearing impairment,Diagnosis of blindness,NA,Kuan
+Z962.00,Visual impairment and blindness,107912,Provision of communicator for visual and hearing impairment,Diagnosis of blindness,NA,Kuan
+ZK74.00,Visual impairment and blindness,100108,Issue of local authority blind registration,Diagnosis of blindness,NA,Kuan
+ZN56800,Visual impairment and blindness,73508,Blind telephone user,Diagnosis of blindness,NA,Kuan
+ZN56A00,Visual impairment and blindness,110179,Deaf-blind telephone user,Diagnosis of blindness,NA,Kuan
+ZRhO.00,Visual impairment and blindness,52227,Reynell Zinkin language scale for the visually impaired,Diagnosis of blindness,NA,Kuan
+ZRr6.00,Visual impairment and blindness,90766,Vineland maturity scales adapted for the blind,Diagnosis of blindness,NA,Kuan
+ZV41000,Visual impairment and blindness,6661,[V]Problems with sight,Diagnosis of blindness,readcode,Kuan and Cambridge

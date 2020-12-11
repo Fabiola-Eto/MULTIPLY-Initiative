@@ -1,0 +1,7 @@
+Readcode,Disease,Medcode,ReadcodeDescr,Category,CodingSystem,Provenance
+A115.00,Bronchiectasis,15693,Tuberculous bronchiectasis,Diagnosis of Bronchiectasis,NA,Kuan
+H34..00,Bronchiectasis,2195,Bronchiectasis,Diagnosis of Bronchiectasis,readcode,Kuan and Cambridge
+H340.00,Bronchiectasis,20364,Recurrent bronchiectasis,Diagnosis of Bronchiectasis,readcode,Kuan and Cambridge
+H341.00,Bronchiectasis,41491,Post-infective bronchiectasis,Diagnosis of Bronchiectasis,readcode,Kuan and Cambridge
+H34z.00,Bronchiectasis,32679,Bronchiectasis NOS,Diagnosis of Bronchiectasis,readcode,Kuan and Cambridge
+P861.00,Bronchiectasis,56427,Congenital bronchiectasis,Diagnosis of Bronchiectasis,NA,Kuan

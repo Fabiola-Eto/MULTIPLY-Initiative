@@ -1,0 +1,60 @@
+Readcode,Disease,Medcode,ReadcodeDescr,Category,CodingSystem,Provenance
+14B3.12,COPD,103494,History of chronic obstructive pulmonary disease,History of COPD,readcode,Kuan and Cambridge
+14OX.00,COPD,96931,At risk of chronic obstructive pulmonary diseas exacerbation,NA,readcode,Cambridge
+H3...00,COPD,1001,Chronic obstructive pulmonary disease,Diagnosis of COPD,readcode,Kuan and Cambridge
+H3...11,COPD,998,Chronic obstructive airways disease,Diagnosis of COPD,readcode,Kuan and Cambridge
+H31..00,COPD,3243,Chronic bronchitis,Diagnosis of COPD,readcode,Kuan and Cambridge
+H310.00,COPD,25603,Simple chronic bronchitis,Diagnosis of COPD,readcode,Kuan and Cambridge
+H310000,COPD,15626,Chronic catarrhal bronchitis,Diagnosis of COPD,readcode,Kuan and Cambridge
+H310100,COPD,16717,Smokers' cough,NA,readcode,Cambridge
+H310z00,COPD,61118,Simple chronic bronchitis NOS,Diagnosis of COPD,readcode,Kuan and Cambridge
+H311.00,COPD,11150,Mucopurulent chronic bronchitis,Diagnosis of COPD,readcode,Kuan and Cambridge
+H311000,COPD,40159,Purulent chronic bronchitis,Diagnosis of COPD,readcode,Kuan and Cambridge
+H311100,COPD,37959,Fetid chronic bronchitis,Diagnosis of COPD,readcode,Kuan and Cambridge
+H311z00,COPD,61513,Mucopurulent chronic bronchitis NOS,Diagnosis of COPD,readcode,Kuan and Cambridge
+H312.00,COPD,27819,Obstructive chronic bronchitis,Diagnosis of COPD,readcode,Kuan and Cambridge
+H312000,COPD,5798,Chronic asthmatic bronchitis,Diagnosis of COPD,readcode,Kuan and Cambridge
+H312011,COPD,5909,Chronic wheezy bronchitis,Diagnosis of COPD,readcode,Kuan and Cambridge
+H312100,COPD,14798,Emphysematous bronchitis,Diagnosis of COPD,readcode,Kuan and Cambridge
+H312200,COPD,1446,Acute exacerbation of chronic obstructive airways disease,Diagnosis of COPD,readcode,Kuan and Cambridge
+H312300,COPD,26125,Bronchiolitis obliterans,Diagnosis of COPD,readcode,Kuan and Cambridge
+H312z00,COPD,44525,Obstructive chronic bronchitis NOS,Diagnosis of COPD,readcode,Kuan and Cambridge
+H313.00,COPD,24248,Mixed simple and mucopurulent chronic bronchitis,Diagnosis of COPD,readcode,Kuan and Cambridge
+H31y.00,COPD,66043,Other chronic bronchitis,Diagnosis of COPD,readcode,Kuan and Cambridge
+H31y000,COPD,23618,Chronic tracheitis,NA,readcode,Cambridge
+H31y100,COPD,45089,Chronic tracheobronchitis,Diagnosis of COPD,readcode,Kuan and Cambridge
+H31yz00,COPD,68066,Other chronic bronchitis NOS,Diagnosis of COPD,readcode,Kuan and Cambridge
+H31z.00,COPD,15157,Chronic bronchitis NOS,Diagnosis of COPD,readcode,Kuan and Cambridge
+H32..00,COPD,794,Emphysema,Diagnosis of COPD,readcode,Kuan and Cambridge
+H320.00,COPD,26306,Chronic bullous emphysema,Diagnosis of COPD,readcode,Kuan and Cambridge
+H320000,COPD,56860,Segmental bullous emphysema,Diagnosis of COPD,readcode,Kuan and Cambridge
+H320100,COPD,68662,Zonal bullous emphysema,Diagnosis of COPD,readcode,Kuan and Cambridge
+H320200,COPD,60188,Giant bullous emphysema,Diagnosis of COPD,readcode,Kuan and Cambridge
+H320300,COPD,99536,Bullous emphysema with collapse,Diagnosis of COPD,readcode,Kuan and Cambridge
+H320311,COPD,103733,Tension pneumatocoele,NA,readcode,Cambridge
+H320z00,COPD,23492,Chronic bullous emphysema NOS,Diagnosis of COPD,readcode,Kuan and Cambridge
+H321.00,COPD,46578,Panlobular emphysema,Diagnosis of COPD,readcode,Kuan and Cambridge
+H322.00,COPD,10980,Centrilobular emphysema,Diagnosis of COPD,readcode,Kuan and Cambridge
+H32y.00,COPD,40788,Other emphysema,Diagnosis of COPD,readcode,Kuan and Cambridge
+H32y000,COPD,92955,Acute vesicular emphysema,Diagnosis of COPD,readcode,Kuan and Cambridge
+H32y100,COPD,70787,Atrophic (senile) emphysema,Diagnosis of COPD,readcode,Kuan and Cambridge
+H32y111,COPD,59263,Acute interstitial emphysema,Diagnosis of COPD,readcode,Kuan and Cambridge
+H32y200,COPD,63479,MacLeod's unilateral emphysema,Diagnosis of COPD,readcode,Kuan and Cambridge
+H32yz00,COPD,16410,Other emphysema NOS,Diagnosis of COPD,readcode,Kuan and Cambridge
+H32z.00,COPD,33450,Emphysema NOS,Diagnosis of COPD,readcode,Kuan and Cambridge
+H36..00,COPD,10863,Mild chronic obstructive pulmonary disease,Diagnosis of COPD,readcode,Kuan and Cambridge
+H37..00,COPD,10802,Moderate chronic obstructive pulmonary disease,Diagnosis of COPD,readcode,Kuan and Cambridge
+H38..00,COPD,9876,Severe chronic obstructive pulmonary disease,Diagnosis of COPD,readcode,Kuan and Cambridge
+H39..00,COPD,93568,Very severe chronic obstructive pulmonary disease,Diagnosis of COPD,readcode,Kuan and Cambridge
+H3A..00,COPD,104608,End stage chronic obstructive airways disease,Diagnosis of COPD,readcode,Kuan and Cambridge
+H3y..00,COPD,12166,Other specified chronic obstructive airways disease,Diagnosis of COPD,readcode,Kuan and Cambridge
+H3y..11,COPD,67040,Other specified chronic obstructive pulmonary disease,Diagnosis of COPD,readcode,Kuan and Cambridge
+H3y0.00,COPD,21061,Chronic obstruct pulmonary dis with acute lower resp infectn,Diagnosis of COPD,readcode,Kuan and Cambridge
+H3y1.00,COPD,7884,"Chron obstruct pulmonary dis wth acute exacerbation, unspec",Diagnosis of COPD,readcode,Kuan and Cambridge
+H3z..00,COPD,5710,Chronic obstructive airways disease NOS,Diagnosis of COPD,readcode,Kuan and Cambridge
+H3z..11,COPD,37247,Chronic obstructive pulmonary disease NOS,Diagnosis of COPD,readcode,Kuan and Cambridge
+H464000,COPD,64721,Chronic emphysema due to chemical fumes,Diagnosis of COPD,NA,Kuan
+H464100,COPD,63216,Obliterative bronchiolitis due to chemical fumes,Diagnosis of COPD,NA,Kuan
+H583200,COPD,106650,Eosinophilic bronchitis,Diagnosis of COPD,NA,Kuan
+Hyu3000,COPD,66058,[X]Other emphysema,Diagnosis of COPD,NA,Kuan
+Hyu3100,COPD,65733,[X]Other specified chronic obstructive pulmonary disease,Diagnosis of COPD,NA,Kuan
