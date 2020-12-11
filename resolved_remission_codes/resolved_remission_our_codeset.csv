@@ -1,0 +1,69 @@
+"","Readcode","Disease","Medcode","ReadcodeDescr","Category","CodingSystem","Provenance","Condition"
+"268","2126000","Epilepsy",8385,"Epilepsy resolved",NA,"readcode","Cambridge",NA
+"269","2126000.0","Epilepsy",8385,"Epilepsy resolved","History of Epilepsy",NA,"Kuan",NA
+"270","2126100","Hypertension",3269,"Hypertension resolved","History of hypertension (1)",NA,"Kuan",NA
+"271","2126200.0","Asthma",10996,"Asthma resolved","History of Asthma",NA,"Kuan",NA
+"272","2126700.0","Chronic viral hepatitis",102372,"Hepatitis C resolved","History of Chronic viral hepatitis",NA,NA,NA
+"273","2126800.0","Congenital malformations of cardiac septa",104307,"Ostium secundum atrial septal defect resolved","History of Congenital malformations of cardiac septa",NA,NA,NA
+"274","212G.00","Asthma",11839,"Asthma resolved","History of Asthma",NA,"Kuan",NA
+"275","212J.00","Epilepsy",12848,"Epilepsy resolved","History of Epilepsy","readcode","Kuan and Cambridge",NA
+"276","212K.00","Hypertension",19342,"Hypertension resolved","History of hypertension (1)",NA,"Kuan",NA
+"277","212P.00","Hypo or hyperthyroidism",26362,"Hyperthyroidism resolved","History of Hypo or hyperthyroidism",NA,"Kuan",NA
+"278","212Q.00","Obesity",52703,"Obesity resolved","History of Obesity",NA,NA,NA
+"279","212R.00","Atrial fibrillation",28994,"Atrial fibrillation resolved","History of atrial fibrillation or flutter (1)",NA,"Kuan",NA
+"280","212S.00","Depression",19439,"Depression resolved","History of Depression","readcode","Kuan and Cambridge",NA
+"281","212V.00","Bipolar affective disorder and mania",85102,"Bipolar affective disorder resolved","History of Bipolar affective disorder and mania",NA,NA,NA
+"282","212W.00","Schizophrenia, schizotypal and delusional disorders",88275,"Schizophrenia resolved","History of Schizophrenia, schizotypal and delusional disorders",NA,NA,NA
+"283","212X.00","Schizophrenia, schizotypal and delusional disorders",85972,"Psychosis resolved","History of Schizophrenia, schizotypal and delusional disorders",NA,NA,NA
+"4714","E100500","Schizophrenia, schizotypal and delusional disorders",58687,"Schizophrenia in remission","History of Schizophrenia, schizotypal and delusional disorders",NA,NA,NA
+"4719","E101500","Schizophrenia, schizotypal and delusional disorders",67768,"Hebephrenic schizophrenia in remission","History of Schizophrenia, schizotypal and delusional disorders",NA,NA,NA
+"4725","E102500","Schizophrenia, schizotypal and delusional disorders",102427,"Catatonic schizophrenia in remission","History of Schizophrenia, schizotypal and delusional disorders",NA,NA,NA
+"4733","E103500","Schizophrenia, schizotypal and delusional disorders",36172,"Paranoid schizophrenia in remission","History of Schizophrenia, schizotypal and delusional disorders",NA,NA,NA
+"4738","E105500","Schizophrenia, schizotypal and delusional disorders",96883,"Latent schizophrenia in remission","History of Schizophrenia, schizotypal and delusional disorders",NA,NA,NA
+"4748","E107500","Schizophrenia, schizotypal and delusional disorders",56438,"Schizo-affective schizophrenia in remission","History of Schizophrenia, schizotypal and delusional disorders",NA,NA,NA
+"4766","E110500","Bipolar affective disorder and mania",109485,"Single manic episode in partial or unspecified remission","Diagnosis of Bipolar affective disorder and mania",NA,NA,NA
+"4767","E110600","Bipolar affective disorder and mania",70000,"Single manic episode in full remission","History of Bipolar affective disorder and mania",NA,NA,NA
+"4775","E111500","Bipolar affective disorder and mania",58863,"Recurrent manic episodes, partial or unspecified remission","Diagnosis of Bipolar affective disorder and mania",NA,NA,NA
+"4776","E111600","Bipolar affective disorder and mania",37178,"Recurrent manic episodes, in full remission","History of Bipolar affective disorder and mania",NA,NA,NA
+"4788","E112500","Depression",43324,"Single major depressive episode, partial or unspec remission","Diagnosis of Depression","readcode","Kuan and Cambridge",NA
+"4789","E112600","Depression",57409,"Single major depressive episode, in full remission","History of Depression","readcode","Kuan and Cambridge",NA
+"4798","E113500","Depression",56273,"Recurrent major depressive episodes,partial/unspec remission","Diagnosis of Depression","readcode","Kuan and Cambridge",NA
+"4799","E113600","Depression",55384,"Recurrent major depressive episodes, in full remission","History of Depression","readcode","Kuan and Cambridge",NA
+"4809","E114500","Bipolar affective disorder and mania",59011,"Bipolar affect disord,currently manic, part/unspec remission","Diagnosis of Bipolar affective disorder and mania",NA,NA,NA
+"4810","E114600","Bipolar affective disorder and mania",63784,"Bipolar affective disorder, currently manic, full remission","History of Bipolar affective disorder and mania",NA,NA,NA
+"4819","E115500","Bipolar affective disorder and mania",72026,"Bipolar affect disord, now depressed, part/unspec remission","Diagnosis of Bipolar affective disorder and mania",NA,NA,NA
+"4820","E115600","Bipolar affective disorder and mania",57465,"Bipolar affective disorder, now depressed, in full remission","History of Bipolar affective disorder and mania",NA,NA,NA
+"4828","E116500","Bipolar affective disorder and mania",63651,"Mixed bipolar affective disorder, partial/unspec remission","Diagnosis of Bipolar affective disorder and mania",NA,NA,NA
+"4829","E116600","Bipolar affective disorder and mania",55064,"Mixed bipolar affective disorder, in full remission","History of Bipolar affective disorder and mania",NA,NA,NA
+"4837","E117500","Bipolar affective disorder and mania",70721,"Unspecified bipolar affect disord, partial/unspec remission","Diagnosis of Bipolar affective disorder and mania",NA,NA,NA
+"4838","E117600","Bipolar affective disorder and mania",24230,"Unspecified bipolar affective disorder, in full remission","History of Bipolar affective disorder and mania",NA,NA,NA
+"4998","E230300","Alcohol Problems",59574,"Acute alcoholic intoxication in remission, in alcoholism","Diagnosis of Alcohol Problems","readcode","Kuan and Cambridge",NA
+"5005","E231300","Alcohol Problems",24485,"Chronic alcoholism in remission","Diagnosis of Alcohol Problems","readcode","Kuan and Cambridge",NA
+"5018","E240300","Other psychoactive substance misuse",27960,"Opioid dependence in remission","Diagnosis of Other psychoactive substance misuse",NA,"Kuan",NA
+"5031","E241300","Other psychoactive substance misuse",48702,"Hypnotic or anxiolytic dependence in remission","Diagnosis of Other psychoactive substance misuse",NA,"Kuan",NA
+"5037","E242300","Other psychoactive substance misuse",52765,"Cocaine dependence in remission","Diagnosis of Other psychoactive substance misuse",NA,"Kuan",NA
+"5046","E243300","Other psychoactive substance misuse",44991,"Cannabis dependence in remission","Diagnosis of Other psychoactive substance misuse","readcode","Kuan and Cambridge",NA
+"5055","E244300","Other psychoactive substance misuse",46800,"Amphetamine or psychostimulant dependence in remission","Diagnosis of Other psychoactive substance misuse",NA,"Kuan",NA
+"5064","E245300","Other psychoactive substance misuse",70578,"Hallucinogen dependence in remission","Diagnosis of Other psychoactive substance misuse",NA,"Kuan",NA
+"5070","E246300","Other psychoactive substance misuse",70761,"Glue sniffing dependence in remission","Diagnosis of Other psychoactive substance misuse",NA,"Kuan",NA
+"5077","E247300","Other psychoactive substance misuse",64269,"Other specified drug dependence in remission","Diagnosis of Other psychoactive substance misuse",NA,"Kuan",NA
+"5083","E248300","Other psychoactive substance misuse",52451,"Combined opioid with other drug dependence in remission","Diagnosis of Other psychoactive substance misuse",NA,"Kuan",NA
+"5089","E249300","Other psychoactive substance misuse",70900,"Combined drug dependence, excluding opioid, in remission","Diagnosis of Other psychoactive substance misuse",NA,"Kuan",NA
+"5099","E250300","Alcohol Problems",31569,"Nondependent alcohol abuse in remission",NA,"readcode","Cambridge",NA
+"5105","E252300","Other psychoactive substance misuse",53071,"Nondependent cannabis abuse in remission","Diagnosis of Other psychoactive substance misuse",NA,"Kuan",NA
+"5113","E253300","Other psychoactive substance misuse",67462,"Nondependent hallucinogen abuse in remission","Diagnosis of Other psychoactive substance misuse","readcode","Kuan and Cambridge",NA
+"5123","E254300","Other psychoactive substance misuse",68396,"Nondependent hypnotic or anxiolytic abuse in remission","Diagnosis of Other psychoactive substance misuse",NA,"Kuan",NA
+"5129","E255300","Other psychoactive substance misuse",95953,"Nondependent opioid abuse in remission","Diagnosis of Other psychoactive substance misuse","readcode","Kuan and Cambridge",NA
+"5135","E256300","Other psychoactive substance misuse",58934,"Nondependent cocaine abuse in remission","Diagnosis of Other psychoactive substance misuse","readcode","Kuan and Cambridge",NA
+"5143","E257300","Other psychoactive substance misuse",43176,"Nondependent amphetamine/psychostimulant abuse in remission","Diagnosis of Other psychoactive substance misuse","readcode","Kuan and Cambridge",NA
+"5151","E259300","Other psychoactive substance misuse",52842,"Nondependent mixed drug abuse in remission","Diagnosis of Other psychoactive substance misuse",NA,"Kuan",NA
+"5159","E25y300","Other psychoactive substance misuse",52846,"Nondependent other drug abuse in remission","Diagnosis of Other psychoactive substance misuse",NA,"Kuan",NA
+"5467","Eu22300","Schizophrenia, schizotypal and delusional disorders",101720,"[X]Paranoid state in remission","Diagnosis of Schizophrenia, schizotypal and delusional disorders",NA,NA,NA
+"5489","Eu26.00","Schizophrenia, schizotypal and delusional disorders",101987,"[X]Nonorganic psychosis in remission","History of Schizophrenia, schizotypal and delusional disorders",NA,NA,NA
+"5515","Eu31700","Bipolar affective disorder and mania",27584,"[X]Bipolar affective disorder, currently in remission","History of Bipolar affective disorder and mania",NA,NA,NA
+"5543","Eu32900","Depression",101054,"[X]Single major depr ep, severe with psych, psych in remiss","History of Depression",NA,"Kuan",NA
+"5544","Eu32A00","Depression",101153,"[X]Recurr major depr ep, severe with psych, psych in remiss","History of Depression",NA,"Kuan",NA
+"5575","Eu33400","Depression",22116,"[X]Recurrent depressive disorder, currently in remission","History of Depression","readcode","Kuan and Cambridge",NA
+"5877","F207.00","Multiple sclerosis",95972,"Relapsing and remitting multiple sclerosis","Diagnosis of Multiple sclerosis","readcode","Kuan and Cambridge",NA
+"8471","N04y300","Enthesopathies & synovial disorders",102873,"Remitting seronegative symmetrical synovitis pitting oedema","Diagnosis of Enthesopathies & synovial disorders",NA,NA,NA
+"8985","N373200","Scoliosis",36682,"Resolving infantile idiopathic scoliosis","Diagnosis of Scoliosis",NA,NA,NA

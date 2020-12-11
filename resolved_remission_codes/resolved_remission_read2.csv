@@ -1,0 +1,105 @@
+"","read_code","term_code","term_description","Condition"
+"7654","2126",13,"Patient's condition resolved",NA
+"7656","21260",0,"Epilepsy resolved",NA
+"7657","21261",0,"Hypertension resolved",NA
+"7658","21262",0,"Asthma resolved",NA
+"7659","21263",0,"Diabetes resolved",NA
+"7660","21264",0,"Heart failure resolved",NA
+"7661","21265",0,"Osteoporosis resolved",NA
+"7662","21266",0,"Osteopenia resolved",NA
+"7663","21267",0,"Hepatitis C resolved",NA
+"7664","21268",0,"Ostium secundum atrial septal defect resolved",NA
+"7665","21269",0,"Impaired glucose tolerance resolved",NA
+"7666","2126A",0,"Proteinuria resolved",NA
+"7667","2126B",0,"Impaired fasting glycaemia resolved",NA
+"7668","2126C",0,"Alcohol dependence resolved",NA
+"7669","2126D",0,"Cow's milk protein allergy symptoms resolved",NA
+"7670","2126E",0,"Chronic kidney disease resolved",NA
+"7671","2126F",0,"Chronic obstructive pulmonary disease resolved",NA
+"7672","2126G",0,"Immunosuppression resolved",NA
+"7673","2126H",0,"Vitamin B12 deficiency resolved",NA
+"7674","2126J",0,"Anxiety resolved",NA
+"7686","212F.",0,"Patient in remission",NA
+"7687","212G.",0,"Asthma resolved",NA
+"7688","212H.",0,"Diabetes resolved",NA
+"7689","212J.",0,"Epilepsy resolved",NA
+"7690","212K.",0,"Hypertension resolved",NA
+"7691","212L.",0,"Patient in early remission",NA
+"7692","212M.",0,"Patient in partial remission",NA
+"7693","212N.",0,"Patient in full remission",NA
+"7694","212P.",0,"Hyperthyroidism resolved",NA
+"7695","212Q.",0,"Obesity resolved",NA
+"7696","212R.",0,"Atrial fibrillation resolved",NA
+"7697","212S.",0,"Depression resolved",NA
+"7698","212T.",0,"Psychosis, schizophrenia and bipolar affective disorder resolved",NA
+"7699","212V.",0,"Bipolar affective disorder resolved",NA
+"7700","212W.",0,"Schizophrenia resolved",NA
+"7701","212X.",0,"Psychosis resolved",NA
+"10127","2E44.",0,"O/E - fever - remittent",NA
+"11424","3616",0,"Check endoscopy - condition resolved",NA
+"44939","8W1..",0,"Referral to mental health services deferred until substance misuse resolved",NA
+"44940","8W2..",0,"Referral to mental health services deferred until alcohol misuse resolved",NA
+"46789","9g2..",0,"Significant event resolved",NA
+"57189","C10P.",0,"Diabetes mellitus in remission",NA
+"57190","C10P0",0,"Type I diabetes mellitus in remission",NA
+"57191","C10P0",11,"Type 1 diabetes mellitus in remission",NA
+"57192","C10P1",0,"Type II diabetes mellitus in remission",NA
+"57193","C10P1",11,"Type 2 diabetes mellitus in remission",NA
+"59032","E1005",0,"Schizophrenia in remission",NA
+"59040","E1015",0,"Hebephrenic schizophrenia in remission",NA
+"59048","E1025",0,"Catatonic schizophrenia in remission",NA
+"59056","E1035",0,"Paranoid schizophrenia in remission",NA
+"59066","E1055",0,"Latent schizophrenia in remission",NA
+"59077","E1075",0,"Schizo-affective schizophrenia in remission",NA
+"59096","E1105",0,"Single manic episode in partial or unspecified remission",NA
+"59097","E1106",0,"Single manic episode in full remission",NA
+"59105","E1115",0,"Recurrent manic episodes, in partial or unspecified remission",NA
+"59106","E1116",0,"Recurrent manic episodes, in full remission",NA
+"59118","E1125",0,"Single major depressive episode, in partial or unspecified remission",NA
+"59119","E1126",0,"Single major depressive episode, in full remission",NA
+"59128","E1135",0,"Recurrent major depressive episodes, in partial or unspecified remission",NA
+"59129","E1136",0,"Recurrent major depressive episodes, in full remission",NA
+"59139","E1145",0,"Bipolar affective disorder, currently manic, in partial or unspecified remission",NA
+"59140","E1146",0,"Bipolar affective disorder, currently manic, in full remission",NA
+"59149","E1155",0,"Bipolar affective disorder, currently depressed, in partial or unspecified remission",NA
+"59150","E1156",0,"Bipolar affective disorder, currently depressed, in full remission",NA
+"59158","E1165",0,"Mixed bipolar affective disorder, in partial or unspecified remission",NA
+"59159","E1166",0,"Mixed bipolar affective disorder, in full remission",NA
+"59167","E1175",0,"Unspecified bipolar affective disorder, in partial or unspecified remission",NA
+"59168","E1176",0,"Unspecified bipolar affective disorder, in full remission",NA
+"59400","E2303",0,"Acute alcoholic intoxication in remission, in alcoholism",NA
+"59407","E2313",0,"Chronic alcoholism in remission",NA
+"59420","E2403",0,"Opioid dependence in remission",NA
+"59433","E2413",0,"Hypnotic or anxiolytic dependence in remission",NA
+"59439","E2423",0,"Cocaine dependence in remission",NA
+"59448","E2433",0,"Cannabis dependence in remission",NA
+"59459","E2443",0,"Amphetamine or psychostimulant dependence in remission",NA
+"59460","E2443",11,"Amfetamine or psychostimulant dependence in remission",NA
+"59470","E2453",0,"Hallucinogen dependence in remission",NA
+"59476","E2463",0,"Glue sniffing dependence in remission",NA
+"59483","E2473",0,"Other specified drug dependence in remission",NA
+"59489","E2483",0,"Combined opioid with other drug dependence in remission",NA
+"59495","E2493",0,"Combined drug dependence, excluding opioid, in remission",NA
+"59508","E2503",0,"Nondependent alcohol abuse in remission",NA
+"59514","E2513",0,"Tobacco dependence in remission",NA
+"59520","E2523",0,"Nondependent cannabis abuse in remission",NA
+"59528","E2533",0,"Nondependent hallucinogen abuse in remission",NA
+"59538","E2543",0,"Nondependent hypnotic or anxiolytic abuse in remission",NA
+"59544","E2553",0,"Nondependent opioid abuse in remission",NA
+"59550","E2563",0,"Nondependent cocaine abuse in remission",NA
+"59561","E2573",0,"Nondependent amphetamine or psychostimulant abuse in remission",NA
+"59562","E2573",11,"Nondependent amfetamine or psychostimulant abuse in remission",NA
+"59569","E2583",0,"Nondependent antidepressant type drug abuse in remission",NA
+"59575","E2593",0,"Nondependent mixed drug abuse in remission",NA
+"59585","E25y3",0,"Nondependent other drug abuse in remission",NA
+"60172","Eu223",0,"[X]Paranoid state in remission",NA
+"60213","Eu26.",0,"[X]Nonorganic psychosis in remission",NA
+"60241","Eu317",0,"[X]Bipolar affective disorder, currently in remission",NA
+"60269","Eu329",0,"[X]Single major depressive episode, severe, with psychosis, psychosis in remission",NA
+"60270","Eu32A",0,"[X]Recurrent major depressive episodes, severe, with psychosis, psychosis in remission",NA
+"60300","Eu334",0,"[X]Recurrent depressive disorder, currently in remission",NA
+"61303","F207.",0,"Relapsing and remitting multiple sclerosis",NA
+"62362","F4623",0,"Partial resolved traumatic cataract",NA
+"74058","N04y3",0,"Remitting seronegative symmetrical synovitis with pitting oedema",NA
+"76353","N3732",0,"Resolving infantile idiopathic scoliosis",NA
+"101329","ZV644",0,"[V]Operation not carried out as condition resolved",NA
