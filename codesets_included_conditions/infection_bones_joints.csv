@@ -1,0 +1,151 @@
+MedCode,ReadCode,ReadTerm
+37122,AC23000,Echinococcus granulosus infection of bone
+39830,N300.12,Acute bone infection
+7155,N302.11,Bone infection
+43058,N30z.00,Bone infection NOS
+111877,N30z000,"Bone infection NOS, of unspecified site"
+113347,N30z100,"Bone infection NOS, of the shoulder region"
+70188,N30z200,"Bone infection NOS, of the upper arm"
+114366,N30z300,"Bone infection NOS, of the forearm"
+53854,N30z400,"Bone infection NOS, of the hand"
+94576,N30z500,"Bone infection NOS, of the pelvic/thigh"
+69280,N30z600,"Bone infection NOS, of the lower leg"
+68844,N30z700,"Bone infection NOS, of ankle and foot"
+54394,N30z800,"Bone infection NOS, of other specified site"
+71357,N30z900,"Bone infection NOS, of multiple sites"
+37928,N30zz00,Bone infection NOS
+95479,SP06500,Infection of bone graft
+112497,SP06600,Infection of bone allograft
+57670,A985.00,Gonococcal joint infection
+104978,A985z00,Gonococcal joint infection NOS
+106978,AyuJ200,[X]Sequelae of tuberculosis of bones and joints
+3596,A15..00,Tuberculosis of bones and joints
+73549,AE03.00,Late effects of tuberculosis of bones and joints
+69732,AB65600,Osseous cryptococcosis
+37122,AC23000,Echinococcus granulosus infection of bone
+41340,N010000,Pyogenic arthritis of unspecified site
+73312,N010x00,Pyogenic arthritis of multiple sites
+61877,N010300,Pyogenic arthritis of the forearm
+34066,N010500,Pyogenic arthritis of the pelvic region and thigh
+7381,N010611,Knee pyogenic arthritis
+17561,N010511,Hip pyogenic arthritis
+44671,N010100,Pyogenic arthritis of the shoulder region
+51168,N010311,Wrist pyogenic arthritis
+39304,N010400,Pyogenic arthritis of the hand
+60670,N010711,Ankle pyogenic arthritis
+60410,N010700,Pyogenic arthritis of the ankle and foot
+53283,N010200,Pyogenic arthritis of the upper arm
+46033,N010600,Pyogenic arthritis of the lower leg
+17563,N010211,Elbow pyogenic arthritis
+66926,N010z00,Pyogenic arthritis NOS
+4206,N010.00,Pyogenic arthritis
+14975,N010y00,Pyogenic arthritis of other specified sites
+24002,N302a00,Osteomyelitis of vertebra
+58786,N12zG00,Infection of intervertebral disc - pyogenic
+43370,N304.00,Tuberculosis of spine (Pott's)
+6553,N304.11,Tuberculosis of spine
+61090,N11y000,Brucella spondylitis
+49740,N11y100,Enterobacterial spondylitis
+10208,N300Z00,Acute haematogenous osteomyelitis
+64163,N301400,Chronic osteomyelitis of the hand
+67357,N300E00,Acute osteomyelitis-coccyx
+70688,N303300,"Periostitis without osteomyelitis, of the forearm"
+50329,N302400,Unspecified osteomyelitis of the hand
+70640,N301A00,Chronic osteomyelitis-cervical spine
+16044,N300600,Acute osteomyelitis of the lower leg
+4577,N303000,"Periostitis without osteomyelitis, of unspecified site"
+57882,N300K00,Acute osteomyelitis-ulna
+2663,N301.00,Chronic osteomyelitis
+54301,N300Y00,Acute osteomyelitis-phalanx of toe
+100321,N300W00,Acute osteomyelitis-other tarsal bone
+71728,N300D00,Acute osteomyelitis-sacrum
+72108,N302900,Unspecified osteomyelitis of multiple sites
+48644,N300500,Acute osteomyelitis of the pelvic region and thigh
+52775,N300M00,Acute osteomyelitis-metacarpal
+62006,N300V00,Acute osteomyelitis-talus
+24304,N302700,Unspecified osteomyelitis of the ankle and foot
+44268,A022400,Salmonella osteomyelitis
+57083,N301200,Chronic osteomyelitis of the upper arm
+115024,N301B00,Chronic osteomyelitis-thoracic spine
+21800,J064.12,Osteomyelitis - jaw
+61717,F4G0400,Orbital osteomyelitis
+42905,N300X00,Acute osteomyelitis-metatarsal
+29731,N303600,"Periostitis without osteomyelitis, of the lower leg"
+38688,N301600,Chronic osteomyelitis of the lower leg
+67773,N303100,"Periostitis without osteomyelitis, of the shoulder region"
+66877,N303800,"Periostitis without osteomyelitis, of other specified site"
+62022,N301900,Chronic osteomyelitis of multiple sites
+72199,J064400,Acute osteomyelitis of jaw
+25737,N25..00,"SAPHO syndrome Synov, Acne, Pustul, Hyperost, Osteomyelitis"
+61365,N300B00,Acute osteomyelitis-thoracic spine
+45864,N300300,Acute osteomyelitis of the forearm
+48051,N302800,Unspecified osteomyelitis of other specified site
+37955,N300N00,Acute osteomyelitis-phalanx of finger/thumb
+51316,N302100,Unspecified osteomyelitis of the shoulder region
+95580,N303400,"Periostitis without osteomyelitis, of the hand"
+25558,N302600,Unspecified osteomyelitis of the lower leg
+93017,N301511,Pelvis - chronic osteomyelitis
+50258,N301512,Thigh - chronic osteomyelitis
+115293,N308300,Subacute osteomyelitis-sacrum
+54963,N301C00,Chronic osteomyelitis-lumbar spine
+54933,N303700,"Periostitis without osteomyelitis, of the ankle and foot"
+24378,N301700,Chronic osteomyelitis of the ankle and foot
+20342,N30..00,"Osteomyelitis, periostitis, other infections affecting bone"
+34421,N300S00,Acute osteomyelitis-tibia
+73823,N303900,"Periostitis without osteomyelitis, of multiple sites"
+16064,J064500,Chronic osteomyelitis of jaw
+46146,N300512,Pelvis acute osteomyelitis
+62021,N300A00,Acute osteomyelitis-cervical spine
+56046,N300200,Acute osteomyelitis of the upper arm
+60400,N300J00,Acute osteomyelitis-radius
+39560,N300711,Ankle - acute osteomyelitis
+14783,N302000,Unspecified osteomyelitis of unspecified site
+37676,N300712,Foot - acute osteomyelitis
+113297,N300L00,Acute osteomyelitis-carpal bone
+70639,N301D00,Chronic osteomyelitis-sacrum
+40491,N300U00,Acute osteomyelitis-calcaneum
+41670,N301100,Chronic osteomyelitis of the shoulder region
+66433,N301800,Chronic osteomyelitis of other specified site
+57250,N300R00,Acute osteomyelitis-patella
+99396,NyuC000,[X]Other acute osteomyelitis
+46501,N301712,Foot - chronic osteomyelitis
+57406,N301711,Ankle - chronic osteomyelitis
+96759,NyuC100,[X]Other chronic haematogenous osteomyelitis
+42942,N300100,Acute osteomyelitis of the shoulder region
+58066,N302300,Unspecified osteomyelitis of the forearm
+2132,N302.00,Unspecified osteomyelitis
+23659,N309.00,Subacute osteomyelitis
+99410,N308100,Subacute osteomyelitis-thoracic spine
+72873,NyuC300,[X]Other osteomyelitis
+40496,N301L00,Chronic multifocal osteomyelitis
+113620,N301E00,Chronic osteomyelitis-coccyx
+53379,N300T00,Acute osteomyelitis-fibula
+73056,N303500,"Periostitis without osteomyelitis, of pelvic region/thigh"
+48882,N301z00,Chronic osteomyelitis NOS
+63841,N300H00,Acute osteomyelitis-humerus
+35090,N300Q00,Acute osteomyelitis-femur
+18013,N301M00,Chronic osteomyelitis with draining sinus
+42160,N302200,Unspecified osteomyelitis of the upper arm
+23599,N300000,Acute osteomyelitis of unspecified site
+34626,N302z00,Unspecified osteomyelitis NOS
+57619,N300900,Acute osteomyelitis of multiple sites
+46532,N300z00,Acute osteomyelitis NOS
+55963,N303z00,Periostitis without osteomyelitis NOS
+68845,N301300,Chronic osteomyelitis of the forearm
+99583,N303200,"Periostitis without osteomyelitis, of the upper arm"
+15967,N300800,Acute osteomyelitis of other specified site
+71313,N300P00,Acute osteomyelitis-pelvis
+34232,N303.00,Periostitis without osteomyelitis
+4747,N302500,Unspecified osteomyelitis of the pelvic region and thigh
+71809,NyuC200,[X]Other chronic osteomyelitis
+20116,N300511,Hip acute osteomyelitis
+49646,N301000,Chronic osteomyelitis of unspecified site
+5893,N300.00,Acute osteomyelitis
+44749,N300F00,Acute osteomyelitis-clavicle
+24455,N300700,Acute osteomyelitis of the ankle and foot
+67345,N300400,Acute osteomyelitis of the hand
+48574,N301.12,Garre's sclerosing osteomyelitis
+57140,N300C00,Acute osteomyelitis-lumbar spine
+61612,N300513,Thigh acute osteomyelitis
+52460,N301500,Chronic osteomyelitis of the pelvic region and thigh
+70794,N308.00,Subacute osteomyelitis
