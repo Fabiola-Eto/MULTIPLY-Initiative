@@ -1,5 +1,8 @@
-Disease,Readcode,Medcode,ReadcodeDescr,Category
-Ankylosing spondylitis,2377.00,37400.0,O/E - ankyl.spondyl.chest def.,Diagnosis of Ankylosing spondylitis
-Ankylosing spondylitis,388p.00,93639.0,BASDAI - Bath ankylosing spondylitis disease activity index,Diagnosis of Ankylosing spondylitis
-Ankylosing spondylitis,N100.00,2184.0,Ankylosing spondylitis,Diagnosis of Ankylosing spondylitis
-Ankylosing spondylitis,N100.11,40946.0,Marie - Strumpell spondylitis,Diagnosis of Ankylosing spondylitis
+Disease,ReadCode,MedCode,ReadTerm
+Ankylosing spondylitis,2377.00,37400,O/E - ankyl.spondyl.chest def.
+Ankylosing spondylitis,388p.00,93639,BASDAI - Bath ankylosing spondylitis disease activity index
+Ankylosing spondylitis,N100.00,2184,Ankylosing spondylitis
+Ankylosing spondylitis,N100.11,40946,Marie - Strumpell spondylitis
+Ankylosing spondylitis,388p000,108252,Bath Ankylosing Spondylitis Functional Index
+Ankylosing spondylitis,38QL.00,110024,Bath Ankylosing Spondylitis Metrology Index
+Ankylosing spondylitis,N045000,42405,Juvenile ankylosing spondylitis
