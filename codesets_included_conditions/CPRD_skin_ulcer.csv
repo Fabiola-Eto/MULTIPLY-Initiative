@@ -1,55 +1,54 @@
-"MedCode","ReadCode","ReadTerm"
-22204,"Z1B2300","Dressing of skin ulcer"
-106686,"M270600","Stage III decubitus ulcer"
-72698,"Z174Q00","Skin ulcer care"
-104293,"M273.00","Non-healing leg ulcer"
-11624,"M271300","Arterial leg ulcer"
-3930,"M272.00","Ulcer of skin"
-14838,"M271.15","Trophic leg ulcer"
-32006,"M271.14","Neurogenic leg ulcer"
-5057,"M271.11","Foot ulcer"
-6308,"M271.12","Ischaemic leg ulcer"
-104552,"M270z00","Decubitus ulcer and pressure area NOS"
-103207,"M270000","Hospital acquired pressure ulcer"
-106902,"M270700","Stage IV decubitus ulcer"
-46101,"M270.12","Plaster ulcer"
-4929,"M270.13","Pressure sore"
-14995,"M270.11","Bed sore"
-104850,"M270400","Stage I decubitus ulcer and pressure area"
-18216,"G833.00","Varicose veins of the leg with rupture"
-102230,"M270100","Nursing home acquired pressure ulcer"
-108537,"M270.14","Decubitus ulcer and pressure area"
-109100,"9ks..00","Complex skin ulcer care enhanced services administration"
-2322,"M22..00","Other dermatoses"
-6862,"M270.00","Decubitus (pressure) ulcer"
-37271,"2FF1.00","O/E - no skin ulcer"
-4487,"4JG3.00","Skin ulcer swab taken"
-16079,"G832.00","Varicose veins of the leg with ulcer and eczema"
-1913,"G830.00","Varicose veins of the leg with ulcer"
-12764,"7G2EC00","Three layer compression bandage for skin ulcer"
-29007,"2FFZ.00","O/E - skin ulcer NOS"
-9180,"M27..00","Chronic skin ulcer"
-102923,"M270300","Hospice acquired pressure ulcer"
-11264,"G837.00","Venous ulcer of leg"
-8801,"M271400","Mixed venous and arterial leg ulcer"
-24232,"M27y.00","Chronic ulcer of skin, other specified sites"
-12704,"G835.00","Infected varicose ulcer"
-17788,"7G2EB00","Four layer compression bandaging for skin ulcer"
-1727,"2FF2.00","O/E - skin ulcer present"
-16558,"M07z.12","Infected skin ulcer"
-5961,"14F3.00","H/O: chronic skin ulcer"
-21853,"M2y0.00","Vascular disorders of skin"
-5790,"M271600","Traumatic leg ulcer"
-1216,"M271.13","Leg ulcer NOS"
-104565,"M274.00","Recurrent leg ulcer"
-3929,"M27z.00","Chronic skin ulcer NOS"
-17787,"7G2EA00","Two layer compression bandage for skin ulcer"
-105150,"M270500","Stage II decubitus ulcer"
-23724,"2924.00","O/E - trophic skin ulceration"
-6207,"2FF..00","O/E - skin ulcer"
-101713,"M270200","Community hospital acquired pressure ulcer"
-99855,"M271700","Neuropathic foot ulcer"
-5855,"M271500","Venous ulcer of leg"
-3928,"M271.00","Non-pressure ulcer lower limb"
-15506,"7G2E500","Dressing of skin ulcer NEC"
-16856,"A056.00","Amoebic skin ulceration"
+Disease,ReadCode,MedCode,ReadTerm
+Chronic ulcer of the skin,Z1B2300,22204,Dressing of skin ulcer
+Chronic ulcer of the skin,M270600,106686,Stage III decubitus ulcer
+Chronic ulcer of the skin,Z174Q00,72698,Skin ulcer care
+Chronic ulcer of the skin,M273.00,104293,Non-healing leg ulcer
+Chronic ulcer of the skin,M271300,11624,Arterial leg ulcer
+Chronic ulcer of the skin,M272.00,3930,Ulcer of skin
+Chronic ulcer of the skin,M271.15,14838,Trophic leg ulcer
+Chronic ulcer of the skin,M271.14,32006,Neurogenic leg ulcer
+Chronic ulcer of the skin,M271.11,5057,Foot ulcer
+Chronic ulcer of the skin,M271.12,6308,Ischaemic leg ulcer
+Chronic ulcer of the skin,M270z00,104552,Decubitus ulcer and pressure area NOS
+Chronic ulcer of the skin,M270000,103207,Hospital acquired pressure ulcer
+Chronic ulcer of the skin,M270700,106902,Stage IV decubitus ulcer
+Chronic ulcer of the skin,M270.12,46101,Plaster ulcer
+Chronic ulcer of the skin,M270.13,4929,Pressure sore
+Chronic ulcer of the skin,M270.11,14995,Bed sore
+Chronic ulcer of the skin,M270400,104850,Stage I decubitus ulcer and pressure area
+Chronic ulcer of the skin,G833.00,18216,Varicose veins of the leg with rupture
+Chronic ulcer of the skin,M270100,102230,Nursing home acquired pressure ulcer
+Chronic ulcer of the skin,M270.14,108537,Decubitus ulcer and pressure area
+Chronic ulcer of the skin,9ks..00,109100,Complex skin ulcer care enhanced services administration
+Chronic ulcer of the skin,M22..00,2322,Other dermatoses
+Chronic ulcer of the skin,M270.00,6862,Decubitus (pressure) ulcer
+Chronic ulcer of the skin,4JG3.00,4487,Skin ulcer swab taken
+Chronic ulcer of the skin,G832.00,16079,Varicose veins of the leg with ulcer and eczema
+Chronic ulcer of the skin,G830.00,1913,Varicose veins of the leg with ulcer
+Chronic ulcer of the skin,7G2EC00,12764,Three layer compression bandage for skin ulcer
+Chronic ulcer of the skin,2FFZ.00,29007,O/E - skin ulcer NOS
+Chronic ulcer of the skin,M27..00,9180,Chronic skin ulcer
+Chronic ulcer of the skin,M270300,102923,Hospice acquired pressure ulcer
+Chronic ulcer of the skin,G837.00,11264,Venous ulcer of leg
+Chronic ulcer of the skin,M271400,8801,Mixed venous and arterial leg ulcer
+Chronic ulcer of the skin,M27y.00,24232,"Chronic ulcer of skin, other specified sites"
+Chronic ulcer of the skin,G835.00,12704,Infected varicose ulcer
+Chronic ulcer of the skin,7G2EB00,17788,Four layer compression bandaging for skin ulcer
+Chronic ulcer of the skin,2FF2.00,1727,O/E - skin ulcer present
+Chronic ulcer of the skin,M07z.12,16558,Infected skin ulcer
+Chronic ulcer of the skin,14F3.00,5961,H/O: chronic skin ulcer
+Chronic ulcer of the skin,M2y0.00,21853,Vascular disorders of skin
+Chronic ulcer of the skin,M271600,5790,Traumatic leg ulcer
+Chronic ulcer of the skin,M271.13,1216,Leg ulcer NOS
+Chronic ulcer of the skin,M274.00,104565,Recurrent leg ulcer
+Chronic ulcer of the skin,M27z.00,3929,Chronic skin ulcer NOS
+Chronic ulcer of the skin,7G2EA00,17787,Two layer compression bandage for skin ulcer
+Chronic ulcer of the skin,M270500,105150,Stage II decubitus ulcer
+Chronic ulcer of the skin,2924.00,23724,O/E - trophic skin ulceration
+Chronic ulcer of the skin,2FF..00,6207,O/E - skin ulcer
+Chronic ulcer of the skin,M270200,101713,Community hospital acquired pressure ulcer
+Chronic ulcer of the skin,M271700,99855,Neuropathic foot ulcer
+Chronic ulcer of the skin,M271500,5855,Venous ulcer of leg
+Chronic ulcer of the skin,M271.00,3928,Non-pressure ulcer lower limb
+Chronic ulcer of the skin,7G2E500,15506,Dressing of skin ulcer NEC
+Chronic ulcer of the skin,A056.00,16856,Amoebic skin ulceration
