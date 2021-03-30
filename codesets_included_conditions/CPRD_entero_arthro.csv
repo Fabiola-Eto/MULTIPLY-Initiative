@@ -1,4 +1,6 @@
-Disease,Readcode,Medcode,ReadcodeDescr,Category
-Enteropathic arthropathy,N031000,17641.0,Arthropathy in ulcerative colitis,Diagnosis of Enteropathic arthropathy
-Enteropathic arthropathy,N031100,20480.0,Arthropathy in Crohn's disease,Diagnosis of Enteropathic arthropathy
-Enteropathic arthropathy,Nyu1400,97917.0,[X]Other enteropathic arthropathies,Diagnosis of Enteropathic arthropathy
+Disease,ReadCode,MedCode,ReadTerm
+Enteropathic arthropathy,N031000,17641,Arthropathy in ulcerative colitis
+Enteropathic arthropathy,N031100,20480,Arthropathy in Crohn's disease
+Enteropathic arthropathy,Nyu1400,97917,[X]Other enteropathic arthropathies
+Enteropathic arthropathy,N045400,71083,Juvenile arthritis in ulcerative colitis
+Enteropathic arthropathy,N045300,12575,Juvenile arthritis in Crohn's disease
