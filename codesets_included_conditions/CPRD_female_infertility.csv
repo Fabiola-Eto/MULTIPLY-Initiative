@@ -1,36 +1,53 @@
-Disease,Readcode,Medcode,ReadcodeDescr,Category
-Female infertility,K26y300,101598.0,Infertility due to radiation,Possible diagnosis of Female Infertility
-Female infertility,K26y400,108577.0,Infertility in systemic disease,Possible diagnosis of Female Infertility
-Female infertility,K5B0000,52132.0,Primary anovulatory infertility,Diagnosis of Female Infertility
-Female infertility,K5B0100,50116.0,Secondary anovulatory infertility,Diagnosis of Female Infertility
-Female infertility,K5B0.00,4977.0,Female infertility of anovulatory origin,Diagnosis of Female Infertility
-Female infertility,K5B0.11,16360.0,Anovular cycle,Diagnosis of Female Infertility
-Female infertility,K5B0z00,63421.0,Female infertility of anovulatory origin NOS,Diagnosis of Female Infertility
-Female infertility,K5B1000,94448.0,Primary pituitary - hypothalamic infertility,Possible diagnosis of Female Infertility
-Female infertility,K5B1100,99535.0,Secondary pituitary - hypothalamic infertility,Possible diagnosis of Female Infertility
-Female infertility,K5B1.00,69884.0,Female infertility of pituitary - hypothalamic origin,Diagnosis of Female Infertility
-Female infertility,K5B1z00,62084.0,Female infertility of pituitary - hypothalamic cause NOS,Diagnosis of Female Infertility
-Female infertility,K5B2000,60861.0,Primary tubal infertility,Diagnosis of Female Infertility
-Female infertility,K5B2100,45985.0,Secondary tubal infertility,Diagnosis of Female Infertility
-Female infertility,K5B2300,8352.0,Blocked fallopian tube,Diagnosis of Female Infertility
-Female infertility,K5B2.00,35074.0,Female infertility of tubal origin,Diagnosis of Female Infertility
-Female infertility,K5B2z00,25077.0,Female infertility of tubal origin NOS,Diagnosis of Female Infertility
-Female infertility,K5B3000,91280.0,Primary uterine infertility,Diagnosis of Female Infertility
-Female infertility,K5B3100,73151.0,Secondary uterine infertility,Diagnosis of Female Infertility
-Female infertility,K5B3.00,61299.0,Female infertility of uterine origin,Diagnosis of Female Infertility
-Female infertility,K5B3z00,68664.0,Female infertility of uterine origin NOS,Diagnosis of Female Infertility
-Female infertility,K5B4000,97461.0,Primary cervical infertility,Diagnosis of Female Infertility
-Female infertility,K5B4100,69324.0,Secondary cervical infertility,Diagnosis of Female Infertility
-Female infertility,K5B4.00,62698.0,Female infertility of cervical origin,Diagnosis of Female Infertility
-Female infertility,K5B5100,96463.0,Secondary vaginal infertility,Diagnosis of Female Infertility
-Female infertility,K5B5.00,48461.0,Female infertility of vaginal origin,Diagnosis of Female Infertility
-Female infertility,K5B6.00,54282.0,Female infertility associated with male factors,Diagnosis of Female Infertility
-Female infertility,K5B7.00,104569.0,Female infertility due to diminished ovarian reserve,Diagnosis of Female Infertility
-Female infertility,K5B..00,1808.0,Infertility - female,Diagnosis of Female Infertility
-Female infertility,K5By000,2014.0,Primary infertility unspecified,Possible diagnosis of Female Infertility
-Female infertility,K5By100,1943.0,Secondary infertility unspecified,Possible diagnosis of Female Infertility
-Female infertility,K5By.00,36458.0,Other female infertility,Diagnosis of Female Infertility
-Female infertility,K5Byz00,53018.0,Other female infertility NOS,Diagnosis of Female Infertility
-Female infertility,K5Byz11,7246.0,Subfertility,Possible diagnosis of Female Infertility
-Female infertility,K5Bz.00,30392.0,Female infertility NOS,Diagnosis of Female Infertility
-Female infertility,Kyu9G00,99069.0,[X]Female infertility of other origin,Diagnosis of Female Infertility
+Disease,ReadCode,MedCode,ReadTerm
+Female infertility,K26y300,101598,Infertility due to radiation
+Female infertility,K26y400,108577,Infertility in systemic disease
+Female infertility,K5B0000,52132,Primary anovulatory infertility
+Female infertility,K5B0100,50116,Secondary anovulatory infertility
+Female infertility,K5B0.00,4977,Female infertility of anovulatory origin
+Female infertility,K5B0.11,16360,Anovular cycle
+Female infertility,K5B0z00,63421,Female infertility of anovulatory origin NOS
+Female infertility,K5B1000,94448,Primary pituitary - hypothalamic infertility
+Female infertility,K5B1100,99535,Secondary pituitary - hypothalamic infertility
+Female infertility,K5B1.00,69884,Female infertility of pituitary - hypothalamic origin
+Female infertility,K5B1z00,62084,Female infertility of pituitary - hypothalamic cause NOS
+Female infertility,K5B2000,60861,Primary tubal infertility
+Female infertility,K5B2100,45985,Secondary tubal infertility
+Female infertility,K5B2300,8352,Blocked fallopian tube
+Female infertility,K5B2.00,35074,Female infertility of tubal origin
+Female infertility,K5B2z00,25077,Female infertility of tubal origin NOS
+Female infertility,K5B3000,91280,Primary uterine infertility
+Female infertility,K5B3100,73151,Secondary uterine infertility
+Female infertility,K5B3.00,61299,Female infertility of uterine origin
+Female infertility,K5B3z00,68664,Female infertility of uterine origin NOS
+Female infertility,K5B4000,97461,Primary cervical infertility
+Female infertility,K5B4100,69324,Secondary cervical infertility
+Female infertility,K5B4.00,62698,Female infertility of cervical origin
+Female infertility,K5B5100,96463,Secondary vaginal infertility
+Female infertility,K5B5.00,48461,Female infertility of vaginal origin
+Female infertility,K5B6.00,54282,Female infertility associated with male factors
+Female infertility,K5B7.00,104569,Female infertility due to diminished ovarian reserve
+Female infertility,K5B..00,1808,Infertility - female
+Female infertility,K5By000,2014,Primary infertility unspecified
+Female infertility,K5By100,1943,Secondary infertility unspecified
+Female infertility,K5By.00,36458,Other female infertility
+Female infertility,K5Byz00,53018,Other female infertility NOS
+Female infertility,K5Byz11,7246,Subfertility
+Female infertility,K5Bz.00,30392,Female infertility NOS
+Female infertility,Kyu9G00,99069,[X]Female infertility of other origin
+Female infertility, 8C8..00 ,1810, Treatment for infertility 
+Female infertility, 1AZ2.11 ,2957, Infertility problem 
+Female infertility,ZV26.00 ,9938, [V]Infertility management 
+Female infertility, 8C8Z.00 ,9983, Treatment for infertility NOS 
+Female infertility,1597.00,16376, H/O: infertility - female 
+Female infertility, ZV26y00 ,26150, [V]Other specified infertility management 
+Female infertility,1597.11,32199, H/O: female infertility 
+Female infertility, 8C82.00 ,33458, Female infertility therapy 
+Female infertility, K26y200 ,36264, Infertility due to efferent duct obstruction 
+Female infertility,6242.00,37047, A/N care: H/O infertility 
+Female infertility,3189100,41692, Female infertility test abnormal 
+Female infertility, ZV23000 ,52685, [V]Pregnancy with history of infertility 
+Female infertility, ZV26z00 ,69751, [V]Unspecified infertility management 
+Female infertility, 8Cf..00 ,102589, Infertility care 
+Female infertility, K5B5z00 ,111013, Female infertility of vaginal origin NOS 
+Female infertility, K5B5000 ,111102, Primary vaginal infertility 
+Female infertility, K26y000 ,113724, Infertility due to drug therapy 
