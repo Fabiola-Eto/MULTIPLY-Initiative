@@ -1,2 +1,3 @@
-Disease,Readcode,Medcode,ReadcodeDescr,Category
-Angiodysplasia of colon,J577000,6504.0,Angiodysplasia of colon,Diagnosis of Angiodysplasia of colon
+Disease,ReadCode,MedCode,ReadTerm
+Gastrointestinal angiodysplasia,J577000,6504,Angiodysplasia of colon
+Gastrointestinal angiodysplasia,J17y900,12568,Gastric angiodysplasia
