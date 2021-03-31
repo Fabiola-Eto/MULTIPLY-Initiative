@@ -36,9 +36,13 @@ Aplastic anaemias,D201z12,72104,Red cell hypoplasia
 Aplastic anaemias,D201z13,31774,Secondary red cell hypoplasia NEC
 Aplastic anaemias,D201z14,65502,Secondary red cell aplasia NEC
 Aplastic anaemias,D202.00,71965,Chronic acquired pure red cell aplasia
-Aplastic anaemias,D203000,47620,Transient erythroblastopenia of childhood
 Aplastic anaemias,D203.00,40244,Transient acquired pure red cell aplasia
 Aplastic anaemias,D204.00,41142,Idiopathic aplastic anaemia
 Aplastic anaemias,D20..00,15422,Aplastic anaemia
 Aplastic anaemias,D20X.00,69269,"Acquired pure red cell aplasia, unspecified"
 Aplastic anaemias,D20z.00,68087,Aplastic anaemia NOS
+Aplastic anaemias,D201300,112600,Aplastic anaemia due to radiation
+Aplastic anaemias,D200.12,112825,Pancytopenia with malformations
+Aplastic anaemias,Dyu2500,113235,"[X]Acquired pure red cell aplasia, unspecified"
+Aplastic anaemias,D200z00,113817,Constitutional aplastic anaemia NOS
+Aplastic anaemias,D201411,114976,Toxic aplastic anaemia
