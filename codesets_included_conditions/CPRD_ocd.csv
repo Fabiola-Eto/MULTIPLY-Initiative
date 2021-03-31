@@ -1,14 +1,32 @@
-Disease,Readcode,Medcode,ReadcodeDescr,Category
-Obsessive-compulsive disorder,E203000,5678.0,Compulsive neurosis,Diagnosis of Obsessive-compulsive disorder
-Obsessive-compulsive disorder,E203100,2030.0,Obsessional neurosis,Diagnosis of Obsessive-compulsive disorder
-Obsessive-compulsive disorder,E203.00,3208.0,Obsessive-compulsive disorders,Diagnosis of Obsessive-compulsive disorder
-Obsessive-compulsive disorder,E203.11,47365.0,Anancastic neurosis,Diagnosis of Obsessive-compulsive disorder
-Obsessive-compulsive disorder,E203z00,15566.0,Obsessive-compulsive disorder NOS,Diagnosis of Obsessive-compulsive disorder
-Obsessive-compulsive disorder,Eu42000,20634.0,[X]Predominantly obsessional thoughts or ruminations,Diagnosis of Obsessive-compulsive disorder
-Obsessive-compulsive disorder,Eu42100,22019.0,[X]Predominantly compulsive acts [obsessional rituals],Diagnosis of Obsessive-compulsive disorder
-Obsessive-compulsive disorder,Eu42200,18399.0,[X]Mixed obsessional thoughts and acts,Diagnosis of Obsessive-compulsive disorder
-Obsessive-compulsive disorder,Eu42.00,5304.0,[X]Obsessive - compulsive disorder,Diagnosis of Obsessive-compulsive disorder
-Obsessive-compulsive disorder,Eu42.11,24251.0,[X]Anankastic neurosis,Diagnosis of Obsessive-compulsive disorder
-Obsessive-compulsive disorder,Eu42.12,21836.0,[X]Obsessive-compulsive neurosis,Diagnosis of Obsessive-compulsive disorder
-Obsessive-compulsive disorder,Eu42y00,38809.0,[X]Other obsessive-compulsive disorders,Diagnosis of Obsessive-compulsive disorder
-Obsessive-compulsive disorder,Eu42z00,22721.0,"[X]Obsessive-compulsive disorder, unspecified",Diagnosis of Obsessive-compulsive disorder
+Disease,ReadCode,MedCode,ReadTerm
+Obsessive-compulsive disorder,1Ba0.00,18494,Obsessional thoughts
+Obsessive-compulsive disorder,1P3..00,22654,Compulsive behaviour
+Obsessive-compulsive disorder,E203.00,3208,Obsessive-compulsive disorders
+Obsessive-compulsive disorder,E203.11,47365,Anancastic neurosis
+Obsessive-compulsive disorder,E203000,5678,Compulsive neurosis
+Obsessive-compulsive disorder,E203100,2030,Obsessional neurosis
+Obsessive-compulsive disorder,E203z00,15566,Obsessive-compulsive disorder NOS
+Obsessive-compulsive disorder,E214.00,20881,Compulsive personality disorders
+Obsessive-compulsive disorder,E214100,1293,Obsessional personality
+Obsessive-compulsive disorder,E214z00,34456,Compulsive personality disorder NOS
+Obsessive-compulsive disorder,E275711,45362,Compulsive water drinking
+Obsessive-compulsive disorder,Eu42.00,5304,[X]Obsessive - compulsive disorder
+Obsessive-compulsive disorder,Eu42.11,24251,[X]Anankastic neurosis
+Obsessive-compulsive disorder,Eu42.12,21836,[X]Obsessive-compulsive neurosis
+Obsessive-compulsive disorder,Eu42000,20634,[X]Predominantly obsessional thoughts or ruminations
+Obsessive-compulsive disorder,Eu42100,22019,[X]Predominantly compulsive acts [obsessional rituals]
+Obsessive-compulsive disorder,Eu42200,18399,[X]Mixed obsessional thoughts and acts
+Obsessive-compulsive disorder,Eu42y00,38809,[X]Other obsessive-compulsive disorders
+Obsessive-compulsive disorder,Eu42z00,22721,"[X]Obsessive-compulsive disorder, unspecified"
+Obsessive-compulsive disorder,Eu45211,12626,[X]Body dysmorphic disorder
+Obsessive-compulsive disorder,Eu45212,30680,[X]Dysmorphophobia nondelusional
+Obsessive-compulsive disorder,Eu60512,22259,[X]Obsessional personality disorder
+Obsessive-compulsive disorder,Eu60513,17420,[X]Obsessive-compulsive personality disorder
+Obsessive-compulsive disorder,Eu63300,3165,[X]Trichotillomania
+Obsessive-compulsive disorder,Eu63y00,25152,[X]Other habit and impulse disorders
+Obsessive-compulsive disorder,Eu63z00,58897,"[X]Habit and impulse disorder, unspecified"
+Obsessive-compulsive disorder,J085900,48699,Factitious cheilitis
+Obsessive-compulsive disorder,M184.00,6933,Dermatitis artefacta
+Obsessive-compulsive disorder,M184.11,40227,Dermatitis factitia
+Obsessive-compulsive disorder,M184.12,8526,Neurotic excoriation
+Obsessive-compulsive disorder,M283.11,43163,Factitial urticaria
