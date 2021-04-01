@@ -9,7 +9,7 @@ Multimorbidity was defined as the presence of two or more long-term conditions (
 |:-----:|---------------------------------------------------------------------------------|:---------------------------:|
 |   1   | Alcohol problems                                                                |                             |
 |   2   | Alcoholic liver disease                                                         |                             |
-|   3   | Allergic and chronic rhinitis                                                   |                             |
+|   3   | Allergic and chronic rhinitis                                                   |             yes             |
 |   4   | Alopecia areata and scarring alopecia                                           |             yes             |
 |   5   | Ankylosing spondylitis                                                          |             yes             |
 |   6   | Anxiety and phobia                                                              |             yes             |
@@ -22,22 +22,22 @@ Multimorbidity was defined as the presence of two or more long-term conditions (
 |   13  | Atrioventricular block, second degree                                           |                             |
 |   14  | Autism and Asperger's syndrome                                                  |             yes             |
 |   15  | Autoimmune liver disease                                                        |             yes             |
-|   16  | Barrett's oesophagus                                                            |                             |
+|   16  | Barrett's oesophagus                                                            |             yes             |
 |   17  | Benign neoplasm of brain and other parts of central nervous system              |                             |
 |   18  | Bipolar affective disorder and mania                                            |             yes             |
 |   19  | Bronchiectasis                                                                  |             yes             |
 |   20  | Carcinoma in situ cervical                                                      |                             |
-|   21  | Cerebral Palsy                                                                  |                             |
-|   22  | Cholelithiasis                                                                  |                             |
+|   21  | Cerebral Palsy                                                                  |             yes             |
+|   22  | Cholelithiasis                                                                  |             yes             |
 |   23  | Chronic Kidney Disease                                                          |             yes             |
-|   24  | Chronic sinusitis                                                               |                             |
+|   24  | Chronic sinusitis                                                               |             yes             |
 |   25  | Chronic ulcer of the skin                                                       |             yes             |
 |   26  | Chronic viral hepatitis                                                         |                             |
 |   27  | Coeliac disease                                                                 |             yes             |
 |   28  | Collapsed vertebra                                                              |             yes             |
 |   29  | Congenital malformations of cardiac septa                                       |                             |
 |   30  | Constipation (Treated)                                                          |                             |
-|   31  | COPD                                                                            |                             |
+|   31  | COPD                                                                            |             yes             |
 |   32  | Coronary heart disease not otherwise specified                                  |                             |
 |   33  | Crohn's disease                                                                 |             yes             |
 |   34  | Cystic Fibrosis                                                                 |             yes             |
@@ -57,13 +57,13 @@ Multimorbidity was defined as the presence of two or more long-term conditions (
 |   48  | Endometriosis                                                                   |             yes             |
 |   49  | Enteropathic arthropathy                                                        |             yes             |
 |   50  | Enthesopathies & synovial disorders                                             |             yes             |
-|   51  | Epilepsy                                                                        |                             |
+|   51  | Epilepsy                                                                        |             yes             |
 |   52  | Erectile dysfunction                                                            |             yes             |
-|   53  | Female genital prolapse                                                         |                             |
+|   53  | Female genital prolapse                                                         |             yes             |
 |   54  | Female infertility                                                              |             yes             |
 |   55  | Folate deficiency anaemia                                                       |             yes             |
 |   56  | Fracture of hip                                                                 |                             |
-|   57  | Gastritis and duodenitis                                                        |                             |
+|   57  | Gastritis and duodenitis                                                        |             yes             |
 |   58  | Gastrointestinal angiodysplasia                                                 |             yes             |
 |   59  | Gastro-oesophageal reflux disease                                               |                             |
 |   60  | Giant Cell Arteritis                                                            |             yes             |
@@ -83,7 +83,7 @@ Multimorbidity was defined as the presence of two or more long-term conditions (
 |   74  | Hypertrophic Cardiomyopathy                                                     |                             |
 |   75  | Hypertrophy of nasal turbinates                                                 |                             |
 |   76  | Hypo or hyperthyroidism                                                         |                             |
-|   77  | Hyposplenism                                                                    |                             |
+|   77  | Hyposplenism                                                                    |             yes             |
 |   78  | Immunodeficiencies                                                              |                             |
 |   79  | Infection of bones and joints                                                   |             yes             |
 |   80  | Intellectual disability                                                         |                             |
@@ -96,32 +96,32 @@ Multimorbidity was defined as the presence of two or more long-term conditions (
 |   87  | Juvenile arthritis                                                              |             yes             |
 |   88  | Left bundle branch block                                                        |                             |
 |   89  | Leukaemia                                                                       |                             |
-|   90  | Lichen planus                                                                   |                             |
+|   90  | Lichen planus                                                                   |             yes             |
 |   91  | Liver fibrosis, sclerosis and cirrhosis                                         |                             |
-|   92  | Lupus erythematosus (local and systemic)                                        |                             |
+|   92  | Lupus erythematosus (local and systemic)                                        |             yes             |
 |   93  | Macular degeneration                                                            |             yes             |
 |   94  | Male infertility                                                                |             yes             |
-|   95  | Meniere disease                                                                 |                             |
+|   95  | Meniere disease                                                                 |             yes             |
 |   96  | Menorrhagia and polymenorrhoea                                                  |             yes             |
-|   97  | Migraine                                                                        |                             |
+|   97  | Migraine                                                                        |             yes             |
 |   98  | Motor neuron disease                                                            |             yes             |
 |   99  | Multiple sclerosis                                                              |             yes             |
 |  100  | Multiple valve dz                                                               |                             |
-|  101  | Myasthenia gravis                                                               |                             |
+|  101  | Myasthenia gravis                                                               |             yes             |
 |  102  | Myelodysplastic syndromes                                                       |             yes             |
 |  103  | Myeloma                                                                         |             yes             |
 |  104  | Myocardial infarction                                                           |                             |
-|  105  | Nasal polyp                                                                     |                             |
+|  105  | Nasal polyp                                                                     |             yes             |
 |  106  | Neuromuscular dysfunction of bladder                                            |             yes             |
-|  107  | Non-acute cystitis                                                              |                             |
+|  107  | Non-acute cystitis                                                              |             yes             |
 |  108  | Non-Hodgkin Lymphoma                                                            |                             |
 |  109  | Nonrheumatic aortic valve disorders                                             |                             |
 |  110  | Nonrheumatic mitral valve disorders                                             |                             |
 |  111  | Obesity                                                                         |                             |
 |  112  | Obsessive-compulsive disorder                                                   |             yes             |
-|  113  | Obstructive and reflux uropathy                                                 |                             |
-|  114  | Oesophageal varices                                                             |                             |
-|  115  | Oesophagitis and oesophageal ulcer                                              |                             |
+|  113  | Obstructive and reflux uropathy                                                 |             yes             |
+|  114  | Oesophageal varices                                                             |             yes             |
+|  115  | Oesophagitis and oesophageal ulcer                                              |             yes             |
 |  116  | Osteoarthritis (excl spine)                                                     |                             |
 |  117  | Osteoporosis                                                                    |             yes             |
 |  118  | Other anaemias                                                                  |             yes             |
@@ -131,13 +131,13 @@ Multimorbidity was defined as the presence of two or more long-term conditions (
 |  122  | Other psychoactive substance misuse                                             |                             |
 |  123  | Painful condition                                                               |                             |
 |  124  | Pancreatitis                                                                    |             yes             |
-|  125  | Parkinson's disease                                                             |                             |
-|  126  | Peptic ulcer disease                                                            |                             |
+|  125  | Parkinson's disease                                                             |             yes             |
+|  126  | Peptic ulcer disease                                                            |             yes             |
 |  127  | Peripheral arterial disease                                                     |                             |
 |  128  | Peripheral neuropathies (excluding cranial nerve and carpal tunnel   syndromes) |                             |
 |  129  | Personality disorders                                                           |             yes             |
 |  130  | Polycystic ovarian syndrome                                                     |                             |
-|  131  | Polycythaemia vera                                                              |                             |
+|  131  | Polycythaemia vera                                                              |             yes             |
 |  132  | Polymyalgia Rheumatica                                                          |             yes             |
 |  133  | Portal hypertension                                                             |                             |
 |  134  | Post-traumatic stress and stress-related disorders                              |             yes             |
@@ -170,14 +170,14 @@ Multimorbidity was defined as the presence of two or more long-term conditions (
 |  161  | Primary pulmonary hypertension                                                  |                             |
 |  162  | Psoriasis                                                                       |             yes             |
 |  163  | Psoriatic arthropathy                                                           |             yes             |
-|  164  | Ptosis of eyelid                                                                |                             |
+|  164  | Ptosis of eyelid                                                                |             yes             |
 |  165  | Respiratory failure                                                             |             yes             |
 |  166  | Retinal detachments and breaks                                                  |                             |
 |  167  | Retinal vascular occlusions                                                     |                             |
 |  168  | Rheumatic valve dz                                                              |                             |
 |  169  | Rheumatoid Arthritis                                                            |             yes             |
-|  170  | Rosacea                                                                         |                             |
-|  171  | Sarcoidosis                                                                     |                             |
+|  170  | Rosacea                                                                         |             yes             |
+|  171  | Sarcoidosis                                                                     |             yes             |
 |  172  | SARS-CoV-2                                                                      |                             |
 |  173  | Schizophrenia, schizotypal and delusional disorders                             |             yes             |
 |  174  | Scoliosis                                                                       |             yes             |
@@ -196,9 +196,9 @@ Multimorbidity was defined as the presence of two or more long-term conditions (
 |  187  | Secondary polycythaemia                                                         |             yes             |
 |  188  | Secondary pulmonary hypertension                                                |                             |
 |  189  | Sick sinus syndrome                                                             |                             |
-|  190  | Sickle-cell anaemia                                                             |                             |
-|  191  | Sjogren's disease                                                               |                             |
-|  192  | Sleep apnoea                                                                    |                             |
+|  190  | Sickle-cell anaemia                                                             |             yes             |
+|  191  | Sjogren's disease                                                               |             yes             |
+|  192  | Sleep apnoea                                                                    |             yes             |
 |  193  | Somatoform and dissociative disorders                                           |             yes             |
 |  194  | Spina bifida                                                                    |             yes             |
 |  195  | Spinal stenosis                                                                 |             yes             |
@@ -212,19 +212,19 @@ Multimorbidity was defined as the presence of two or more long-term conditions (
 |  203  | Systemic sclerosis                                                              |                             |
 |  204  | Thalassaemia                                                                    |                             |
 |  205  | Thalassaemia trait                                                              |                             |
-|  206  | Thrombophilia                                                                   |                             |
-|  207  | Tinnitus                                                                        |                             |
+|  206  | Thrombophilia                                                                   |             yes             |
+|  207  | Tinnitus                                                                        |             yes             |
 |  208  | Transient ischaemic attack                                                      |                             |
 |  209  | Trifascicular block                                                             |                             |
-|  210  | Trigeminal neuralgia                                                            |                             |
+|  210  | Trigeminal neuralgia                                                            |             yes             |
 |  211  | Tuberculosis                                                                    |             yes             |
 |  212  | Ulcerative colitis                                                              |             yes             |
 |  213  | Unstable Angina                                                                 |                             |
-|  214  | Urinary Incontinence                                                            |                             |
-|  215  | Urolithiasis                                                                    |                             |
-|  216  | Urticaria                                                                       |                             |
+|  214  | Urinary Incontinence                                                            |             yes             |
+|  215  | Urolithiasis                                                                    |             yes             |
+|  216  | Urticaria                                                                       |             yes             |
 |  217  | Venous and lymphatic diseases                                                   |             yes             |
 |  218  | Venous thromboembolic disease (Excl PE)                                         |                             |
 |  219  | Visual impairment and blindness                                                 |                             |
 |  220  | Vitamin B12 deficiency anaemia                                                  |             yes             |
-|  221  | Vitiligo                                                                        |                             |
+|  221  | Vitiligo                                                                        |             yes             |
