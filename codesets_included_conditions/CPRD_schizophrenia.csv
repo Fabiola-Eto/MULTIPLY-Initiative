@@ -1,133 +1,166 @@
-Disease,Readcode,Medcode,ReadcodeDescr,Category
-"Schizophrenia, schizotypal and delusional disorders",1464.00,6325.0,H/O: schizophrenia,"History of Schizophrenia, schizotypal and delusional disorders"
-"Schizophrenia, schizotypal and delusional disorders",146H.00,12777.0,H/O: psychosis,"History of Schizophrenia, schizotypal and delusional disorders"
-"Schizophrenia, schizotypal and delusional disorders",212W.00,88275.0,Schizophrenia resolved,"History of Schizophrenia, schizotypal and delusional disorders"
-"Schizophrenia, schizotypal and delusional disorders",212X.00,85972.0,Psychosis resolved,"History of Schizophrenia, schizotypal and delusional disorders"
-"Schizophrenia, schizotypal and delusional disorders",285..11,4390.0,"Psychotic condition, insight present","Diagnosis of Schizophrenia, schizotypal and delusional disorders"
-"Schizophrenia, schizotypal and delusional disorders",286..11,22644.0,Poor insight into psychotic condition,"Diagnosis of Schizophrenia, schizotypal and delusional disorders"
-"Schizophrenia, schizotypal and delusional disorders",E100000,15733.0,Unspecified schizophrenia,"Diagnosis of Schizophrenia, schizotypal and delusional disorders"
-"Schizophrenia, schizotypal and delusional disorders",E100100,23616.0,Subchronic schizophrenia,"Diagnosis of Schizophrenia, schizotypal and delusional disorders"
-"Schizophrenia, schizotypal and delusional disorders",E100200,3984.0,Chronic schizophrenic,"Diagnosis of Schizophrenia, schizotypal and delusional disorders"
-"Schizophrenia, schizotypal and delusional disorders",E100300,57666.0,Acute exacerbation of subchronic schizophrenia,"Diagnosis of Schizophrenia, schizotypal and delusional disorders"
-"Schizophrenia, schizotypal and delusional disorders",E100400,44498.0,Acute exacerbation of chronic schizophrenia,"Diagnosis of Schizophrenia, schizotypal and delusional disorders"
-"Schizophrenia, schizotypal and delusional disorders",E100500,58687.0,Schizophrenia in remission,"History of Schizophrenia, schizotypal and delusional disorders"
-"Schizophrenia, schizotypal and delusional disorders",E100.00,32222.0,Simple schizophrenia,"Diagnosis of Schizophrenia, schizotypal and delusional disorders"
-"Schizophrenia, schizotypal and delusional disorders",E100.11,73295.0,Schizophrenia simplex,"Diagnosis of Schizophrenia, schizotypal and delusional disorders"
-"Schizophrenia, schizotypal and delusional disorders",E100z00,53625.0,Simple schizophrenia NOS,"Diagnosis of Schizophrenia, schizotypal and delusional disorders"
-"Schizophrenia, schizotypal and delusional disorders",E101000,66506.0,Unspecified hebephrenic schizophrenia,"Diagnosis of Schizophrenia, schizotypal and delusional disorders"
-"Schizophrenia, schizotypal and delusional disorders",E101400,97919.0,Acute exacerbation of chronic hebephrenic schizophrenia,"Diagnosis of Schizophrenia, schizotypal and delusional disorders"
-"Schizophrenia, schizotypal and delusional disorders",E101500,67768.0,Hebephrenic schizophrenia in remission,"History of Schizophrenia, schizotypal and delusional disorders"
-"Schizophrenia, schizotypal and delusional disorders",E101.00,30619.0,Hebephrenic schizophrenia,"Diagnosis of Schizophrenia, schizotypal and delusional disorders"
-"Schizophrenia, schizotypal and delusional disorders",E101z00,48054.0,Hebephrenic schizophrenia NOS,"Diagnosis of Schizophrenia, schizotypal and delusional disorders"
-"Schizophrenia, schizotypal and delusional disorders",E102000,58716.0,Unspecified catatonic schizophrenia,"Diagnosis of Schizophrenia, schizotypal and delusional disorders"
-"Schizophrenia, schizotypal and delusional disorders",E102100,99199.0,Subchronic catatonic schizophrenia,"Diagnosis of Schizophrenia, schizotypal and delusional disorders"
-"Schizophrenia, schizotypal and delusional disorders",E102400,107222.0,Acute exacerbation of chronic catatonic schizophrenia,"Diagnosis of Schizophrenia, schizotypal and delusional disorders"
-"Schizophrenia, schizotypal and delusional disorders",E102500,102427.0,Catatonic schizophrenia in remission,"History of Schizophrenia, schizotypal and delusional disorders"
-"Schizophrenia, schizotypal and delusional disorders",E102.00,25546.0,Catatonic schizophrenia,"Diagnosis of Schizophrenia, schizotypal and delusional disorders"
-"Schizophrenia, schizotypal and delusional disorders",E102z00,63867.0,Catatonic schizophrenia NOS,"Diagnosis of Schizophrenia, schizotypal and delusional disorders"
-"Schizophrenia, schizotypal and delusional disorders",E103000,33383.0,Unspecified paranoid schizophrenia,"Diagnosis of Schizophrenia, schizotypal and delusional disorders"
-"Schizophrenia, schizotypal and delusional disorders",E103100,104760.0,Subchronic paranoid schizophrenia,"Diagnosis of Schizophrenia, schizotypal and delusional disorders"
-"Schizophrenia, schizotypal and delusional disorders",E103200,31362.0,Chronic paranoid schizophrenia,"Diagnosis of Schizophrenia, schizotypal and delusional disorders"
-"Schizophrenia, schizotypal and delusional disorders",E103300,51322.0,Acute exacerbation of subchronic paranoid schizophrenia,"Diagnosis of Schizophrenia, schizotypal and delusional disorders"
-"Schizophrenia, schizotypal and delusional disorders",E103400,53032.0,Acute exacerbation of chronic paranoid schizophrenia,"Diagnosis of Schizophrenia, schizotypal and delusional disorders"
-"Schizophrenia, schizotypal and delusional disorders",E103500,36172.0,Paranoid schizophrenia in remission,"History of Schizophrenia, schizotypal and delusional disorders"
-"Schizophrenia, schizotypal and delusional disorders",E103.00,1494.0,Paranoid schizophrenia,"Diagnosis of Schizophrenia, schizotypal and delusional disorders"
-"Schizophrenia, schizotypal and delusional disorders",E103z00,9281.0,Paranoid schizophrenia NOS,"Diagnosis of Schizophrenia, schizotypal and delusional disorders"
-"Schizophrenia, schizotypal and delusional disorders",E105000,102311.0,Unspecified latent schizophrenia,"Diagnosis of Schizophrenia, schizotypal and delusional disorders"
-"Schizophrenia, schizotypal and delusional disorders",E105200,94299.0,Chronic latent schizophrenia,"Diagnosis of Schizophrenia, schizotypal and delusional disorders"
-"Schizophrenia, schizotypal and delusional disorders",E105500,96883.0,Latent schizophrenia in remission,"History of Schizophrenia, schizotypal and delusional disorders"
-"Schizophrenia, schizotypal and delusional disorders",E105.00,66410.0,Latent schizophrenia,"Diagnosis of Schizophrenia, schizotypal and delusional disorders"
-"Schizophrenia, schizotypal and delusional disorders",E105z00,102446.0,Latent schizophrenia NOS,"Diagnosis of Schizophrenia, schizotypal and delusional disorders"
-"Schizophrenia, schizotypal and delusional disorders",E106.00,38063.0,Residual schizophrenia,"Diagnosis of Schizophrenia, schizotypal and delusional disorders"
-"Schizophrenia, schizotypal and delusional disorders",E107000,58862.0,Unspecified schizo-affective schizophrenia,"Diagnosis of Schizophrenia, schizotypal and delusional disorders"
-"Schizophrenia, schizotypal and delusional disorders",E107100,61098.0,Subchronic schizo-affective schizophrenia,"Diagnosis of Schizophrenia, schizotypal and delusional disorders"
-"Schizophrenia, schizotypal and delusional disorders",E107200,43800.0,Chronic schizo-affective schizophrenia,"Diagnosis of Schizophrenia, schizotypal and delusional disorders"
-"Schizophrenia, schizotypal and delusional disorders",E107300,58866.0,Acute exacerbation subchronic schizo-affective schizophrenia,"Diagnosis of Schizophrenia, schizotypal and delusional disorders"
-"Schizophrenia, schizotypal and delusional disorders",E107400,63478.0,Acute exacerbation of chronic schizo-affective schizophrenia,"Diagnosis of Schizophrenia, schizotypal and delusional disorders"
-"Schizophrenia, schizotypal and delusional disorders",E107500,56438.0,Schizo-affective schizophrenia in remission,"History of Schizophrenia, schizotypal and delusional disorders"
-"Schizophrenia, schizotypal and delusional disorders",E107.00,2117.0,Schizo-affective schizophrenia,"Diagnosis of Schizophrenia, schizotypal and delusional disorders"
-"Schizophrenia, schizotypal and delusional disorders",E107.11,99000.0,Cyclic schizophrenia,"Diagnosis of Schizophrenia, schizotypal and delusional disorders"
-"Schizophrenia, schizotypal and delusional disorders",E107z00,10575.0,Schizo-affective schizophrenia NOS,"Diagnosis of Schizophrenia, schizotypal and delusional disorders"
-"Schizophrenia, schizotypal and delusional disorders",E10..00,854.0,Schizophrenic disorders,"Diagnosis of Schizophrenia, schizotypal and delusional disorders"
-"Schizophrenia, schizotypal and delusional disorders",E10y000,33338.0,Atypical schizophrenia,"Diagnosis of Schizophrenia, schizotypal and delusional disorders"
-"Schizophrenia, schizotypal and delusional disorders",E10y100,99070.0,Coenesthopathic schizophrenia,"Diagnosis of Schizophrenia, schizotypal and delusional disorders"
-"Schizophrenia, schizotypal and delusional disorders",E10y.00,39062.0,Other schizophrenia,"Diagnosis of Schizophrenia, schizotypal and delusional disorders"
-"Schizophrenia, schizotypal and delusional disorders",E10y.11,92994.0,Cenesthopathic schizophrenia,"Diagnosis of Schizophrenia, schizotypal and delusional disorders"
-"Schizophrenia, schizotypal and delusional disorders",E10yz00,49761.0,Other schizophrenia NOS,"Diagnosis of Schizophrenia, schizotypal and delusional disorders"
-"Schizophrenia, schizotypal and delusional disorders",E10z.00,8407.0,Schizophrenia NOS,"Diagnosis of Schizophrenia, schizotypal and delusional disorders"
-"Schizophrenia, schizotypal and delusional disorders",E120.00,14743.0,Simple paranoid state,"Diagnosis of Schizophrenia, schizotypal and delusional disorders"
-"Schizophrenia, schizotypal and delusional disorders",E121.00,3890.0,Chronic paranoid psychosis,"Diagnosis of Schizophrenia, schizotypal and delusional disorders"
-"Schizophrenia, schizotypal and delusional disorders",E121.11,109634.0,Sander's disease,"Diagnosis of Schizophrenia, schizotypal and delusional disorders"
-"Schizophrenia, schizotypal and delusional disorders",E122.00,14971.0,Paraphrenia,"Diagnosis of Schizophrenia, schizotypal and delusional disorders"
-"Schizophrenia, schizotypal and delusional disorders",E12..00,4261.0,Paranoid states,"Diagnosis of Schizophrenia, schizotypal and delusional disorders"
-"Schizophrenia, schizotypal and delusional disorders",E12y000,66766.0,Paranoia querulans,"Diagnosis of Schizophrenia, schizotypal and delusional disorders"
-"Schizophrenia, schizotypal and delusional disorders",E12y.00,31589.0,Other paranoid states,"Diagnosis of Schizophrenia, schizotypal and delusional disorders"
-"Schizophrenia, schizotypal and delusional disorders",E12yz00,31455.0,Other paranoid states NOS,"Diagnosis of Schizophrenia, schizotypal and delusional disorders"
-"Schizophrenia, schizotypal and delusional disorders",E12z.00,12771.0,Paranoid psychosis NOS,"Diagnosis of Schizophrenia, schizotypal and delusional disorders"
-"Schizophrenia, schizotypal and delusional disorders",E1...00,15958.0,Non-organic psychoses,"Diagnosis of Schizophrenia, schizotypal and delusional disorders"
-"Schizophrenia, schizotypal and delusional disorders",E1y..00,16537.0,Other specified non-organic psychoses,"Diagnosis of Schizophrenia, schizotypal and delusional disorders"
-"Schizophrenia, schizotypal and delusional disorders",E1z..00,22188.0,Non-organic psychosis NOS,"Diagnosis of Schizophrenia, schizotypal and delusional disorders"
-"Schizophrenia, schizotypal and delusional disorders",Eu20000,16764.0,[X]Paranoid schizophrenia,"Diagnosis of Schizophrenia, schizotypal and delusional disorders"
-"Schizophrenia, schizotypal and delusional disorders",Eu20011,50060.0,[X]Paraphrenic schizophrenia,"Diagnosis of Schizophrenia, schizotypal and delusional disorders"
-"Schizophrenia, schizotypal and delusional disorders",Eu20100,43405.0,[X]Hebephrenic schizophrenia,"Diagnosis of Schizophrenia, schizotypal and delusional disorders"
-"Schizophrenia, schizotypal and delusional disorders",Eu20111,53985.0,[X]Disorganised schizophrenia,"Diagnosis of Schizophrenia, schizotypal and delusional disorders"
-"Schizophrenia, schizotypal and delusional disorders",Eu20200,61501.0,[X]Catatonic schizophrenia,"Diagnosis of Schizophrenia, schizotypal and delusional disorders"
-"Schizophrenia, schizotypal and delusional disorders",Eu20211,20572.0,[X]Catatonic stupor,"Diagnosis of Schizophrenia, schizotypal and delusional disorders"
-"Schizophrenia, schizotypal and delusional disorders",Eu20212,64533.0,[X]Schizophrenic catalepsy,"Diagnosis of Schizophrenia, schizotypal and delusional disorders"
-"Schizophrenia, schizotypal and delusional disorders",Eu20213,35877.0,[X]Schizophrenic catatonia,"Diagnosis of Schizophrenia, schizotypal and delusional disorders"
-"Schizophrenia, schizotypal and delusional disorders",Eu20214,31493.0,[X]Schizophrenic flexibilatis cerea,"Diagnosis of Schizophrenia, schizotypal and delusional disorders"
-"Schizophrenia, schizotypal and delusional disorders",Eu20300,60013.0,[X]Undifferentiated schizophrenia,"Diagnosis of Schizophrenia, schizotypal and delusional disorders"
-"Schizophrenia, schizotypal and delusional disorders",Eu20311,91547.0,[X]Atypical schizophrenia,"Diagnosis of Schizophrenia, schizotypal and delusional disorders"
-"Schizophrenia, schizotypal and delusional disorders",Eu20400,20785.0,[X]Post-schizophrenic depression,"Diagnosis of Schizophrenia, schizotypal and delusional disorders"
-"Schizophrenia, schizotypal and delusional disorders",Eu20500,64264.0,[X]Residual schizophrenia,"Diagnosis of Schizophrenia, schizotypal and delusional disorders"
-"Schizophrenia, schizotypal and delusional disorders",Eu20511,24107.0,[X]Chronic undifferentiated schizophrenia,"Diagnosis of Schizophrenia, schizotypal and delusional disorders"
-"Schizophrenia, schizotypal and delusional disorders",Eu20600,35848.0,[X]Simple schizophrenia,"Diagnosis of Schizophrenia, schizotypal and delusional disorders"
-"Schizophrenia, schizotypal and delusional disorders",Eu20.00,34236.0,[X]Schizophrenia,"Diagnosis of Schizophrenia, schizotypal and delusional disorders"
-"Schizophrenia, schizotypal and delusional disorders",Eu20y00,49420.0,[X]Other schizophrenia,"Diagnosis of Schizophrenia, schizotypal and delusional disorders"
-"Schizophrenia, schizotypal and delusional disorders",Eu20y12,94001.0,[X]Schizophreniform disord NOS,"Diagnosis of Schizophrenia, schizotypal and delusional disorders"
-"Schizophrenia, schizotypal and delusional disorders",Eu20y13,18053.0,[X]Schizophrenifrm psychos NOS,"Diagnosis of Schizophrenia, schizotypal and delusional disorders"
-"Schizophrenia, schizotypal and delusional disorders",Eu20z00,34966.0,"[X]Schizophrenia, unspecified","Diagnosis of Schizophrenia, schizotypal and delusional disorders"
-"Schizophrenia, schizotypal and delusional disorders",Eu21.00,39316.0,[X]Schizotypal disorder,"Diagnosis of Schizophrenia, schizotypal and delusional disorders"
-"Schizophrenia, schizotypal and delusional disorders",Eu21.11,91511.0,[X]Latent schizophrenic reaction,"Diagnosis of Schizophrenia, schizotypal and delusional disorders"
-"Schizophrenia, schizotypal and delusional disorders",Eu21.12,54387.0,[X]Borderline schizophrenia,"Diagnosis of Schizophrenia, schizotypal and delusional disorders"
-"Schizophrenia, schizotypal and delusional disorders",Eu21.13,64993.0,[X]Latent schizophrenia,"Diagnosis of Schizophrenia, schizotypal and delusional disorders"
-"Schizophrenia, schizotypal and delusional disorders",Eu21.14,62449.0,[X]Prepsychotic schizophrenia,"Diagnosis of Schizophrenia, schizotypal and delusional disorders"
-"Schizophrenia, schizotypal and delusional disorders",Eu21.15,40386.0,[X]Prodromal schizophrenia,"Diagnosis of Schizophrenia, schizotypal and delusional disorders"
-"Schizophrenia, schizotypal and delusional disorders",Eu21.16,49852.0,[X]Pseudoneurotic schizophrenia,"Diagnosis of Schizophrenia, schizotypal and delusional disorders"
-"Schizophrenia, schizotypal and delusional disorders",Eu21.17,71250.0,[X]Pseudopsychopathic schizophrenia,"Diagnosis of Schizophrenia, schizotypal and delusional disorders"
-"Schizophrenia, schizotypal and delusional disorders",Eu22000,34389.0,[X]Delusional disorder,"Diagnosis of Schizophrenia, schizotypal and delusional disorders"
-"Schizophrenia, schizotypal and delusional disorders",Eu22011,2113.0,[X]Paranoid psychosis,"Diagnosis of Schizophrenia, schizotypal and delusional disorders"
-"Schizophrenia, schizotypal and delusional disorders",Eu22012,11172.0,[X]Paranoid state,"Diagnosis of Schizophrenia, schizotypal and delusional disorders"
-"Schizophrenia, schizotypal and delusional disorders",Eu22013,47947.0,[X]Paraphrenia - late,"Diagnosis of Schizophrenia, schizotypal and delusional disorders"
-"Schizophrenia, schizotypal and delusional disorders",Eu22014,65127.0,[X]Sensitiver Beziehungswahn,"Diagnosis of Schizophrenia, schizotypal and delusional disorders"
-"Schizophrenia, schizotypal and delusional disorders",Eu22015,4843.0,[X]Paranoia,"Diagnosis of Schizophrenia, schizotypal and delusional disorders"
-"Schizophrenia, schizotypal and delusional disorders",Eu22100,62405.0,[X]Delusional misidentification syndrome,"Diagnosis of Schizophrenia, schizotypal and delusional disorders"
-"Schizophrenia, schizotypal and delusional disorders",Eu22111,55221.0,[X]Capgras syndrome,"Diagnosis of Schizophrenia, schizotypal and delusional disorders"
-"Schizophrenia, schizotypal and delusional disorders",Eu22200,98821.0,[X]Cotard syndrome,"Diagnosis of Schizophrenia, schizotypal and delusional disorders"
-"Schizophrenia, schizotypal and delusional disorders",Eu22300,101720.0,[X]Paranoid state in remission,"Diagnosis of Schizophrenia, schizotypal and delusional disorders"
-"Schizophrenia, schizotypal and delusional disorders",Eu22.00,28562.0,[X]Persistent delusional disorders,"Diagnosis of Schizophrenia, schizotypal and delusional disorders"
-"Schizophrenia, schizotypal and delusional disorders",Eu22y00,66077.0,[X]Other persistent delusional disorders,"Diagnosis of Schizophrenia, schizotypal and delusional disorders"
-"Schizophrenia, schizotypal and delusional disorders",Eu22y11,40981.0,[X]Delusional dysmorphophobia,"Diagnosis of Schizophrenia, schizotypal and delusional disorders"
-"Schizophrenia, schizotypal and delusional disorders",Eu22y12,50248.0,[X]Involutional paranoid state,"Diagnosis of Schizophrenia, schizotypal and delusional disorders"
-"Schizophrenia, schizotypal and delusional disorders",Eu22y13,55236.0,[X]Paranoia querulans,"Diagnosis of Schizophrenia, schizotypal and delusional disorders"
-"Schizophrenia, schizotypal and delusional disorders",Eu22z00,49223.0,"[X]Persistent delusional disorder, unspecified","Diagnosis of Schizophrenia, schizotypal and delusional disorders"
-"Schizophrenia, schizotypal and delusional disorders",Eu25000,33847.0,"[X]Schizoaffective disorder, manic type","Diagnosis of Schizophrenia, schizotypal and delusional disorders"
-"Schizophrenia, schizotypal and delusional disorders",Eu25011,16905.0,"[X]Schizoaffective psychosis, manic type","Diagnosis of Schizophrenia, schizotypal and delusional disorders"
-"Schizophrenia, schizotypal and delusional disorders",Eu25012,51903.0,"[X]Schizophreniform psychosis, manic type","Diagnosis of Schizophrenia, schizotypal and delusional disorders"
-"Schizophrenia, schizotypal and delusional disorders",Eu25100,11055.0,"[X]Schizoaffective disorder, depressive type","Diagnosis of Schizophrenia, schizotypal and delusional disorders"
-"Schizophrenia, schizotypal and delusional disorders",Eu25111,35274.0,"[X]Schizoaffective psychosis, depressive type","Diagnosis of Schizophrenia, schizotypal and delusional disorders"
-"Schizophrenia, schizotypal and delusional disorders",Eu25112,41022.0,"[X]Schizophreniform psychosis, depressive type","Diagnosis of Schizophrenia, schizotypal and delusional disorders"
-"Schizophrenia, schizotypal and delusional disorders",Eu25200,33693.0,"[X]Schizoaffective disorder, mixed type","Diagnosis of Schizophrenia, schizotypal and delusional disorders"
-"Schizophrenia, schizotypal and delusional disorders",Eu25211,104763.0,[X]Cyclic schizophrenia,"Diagnosis of Schizophrenia, schizotypal and delusional disorders"
-"Schizophrenia, schizotypal and delusional disorders",Eu25212,37580.0,[X]Mixed schizophrenic and affective psychosis,"Diagnosis of Schizophrenia, schizotypal and delusional disorders"
-"Schizophrenia, schizotypal and delusional disorders",Eu25.00,9422.0,[X]Schizoaffective disorders,"Diagnosis of Schizophrenia, schizotypal and delusional disorders"
-"Schizophrenia, schizotypal and delusional disorders",Eu25y00,58532.0,[X]Other schizoaffective disorders,"Diagnosis of Schizophrenia, schizotypal and delusional disorders"
-"Schizophrenia, schizotypal and delusional disorders",Eu25z00,37681.0,"[X]Schizoaffective disorder, unspecified","Diagnosis of Schizophrenia, schizotypal and delusional disorders"
-"Schizophrenia, schizotypal and delusional disorders",Eu25z11,33410.0,[X]Schizoaffective psychosis NOS,"Diagnosis of Schizophrenia, schizotypal and delusional disorders"
-"Schizophrenia, schizotypal and delusional disorders",Eu26.00,101987.0,[X]Nonorganic psychosis in remission,"History of Schizophrenia, schizotypal and delusional disorders"
-"Schizophrenia, schizotypal and delusional disorders",Eu2..00,17281.0,"[X]Schizophrenia, schizotypal and delusional disorders","Diagnosis of Schizophrenia, schizotypal and delusional disorders"
-"Schizophrenia, schizotypal and delusional disorders",Eu2y.00,30985.0,[X]Other nonorganic psychotic disorders,"Diagnosis of Schizophrenia, schizotypal and delusional disorders"
-"Schizophrenia, schizotypal and delusional disorders",Eu2y.11,31738.0,[X]Chronic hallucinatory psychosis,"Diagnosis of Schizophrenia, schizotypal and delusional disorders"
-"Schizophrenia, schizotypal and delusional disorders",Eu2z.00,11244.0,[X]Unspecified nonorganic psychosis,"Diagnosis of Schizophrenia, schizotypal and delusional disorders"
-"Schizophrenia, schizotypal and delusional disorders",Eu2z.11,694.0,[X]Psychosis NOS,"Diagnosis of Schizophrenia, schizotypal and delusional disorders"
-"Schizophrenia, schizotypal and delusional disorders",ZV11000,22104.0,[V]Personal history of schizophrenia,"History of Schizophrenia, schizotypal and delusional disorders"
+Disease,Readcode,Medcode,ReadcodeDescr
+Schizophrenia and non-organic psychosis,1464.00,6325,H/O: schizophrenia
+Schizophrenia and non-organic psychosis,146H.00,12777,H/O: psychosis
+Schizophrenia and non-organic psychosis,285..11,4390,"Psychotic condition, insight present"
+Schizophrenia and non-organic psychosis,286..11,22644,Poor insight into psychotic condition
+Schizophrenia and non-organic psychosis,E100000,15733,Unspecified schizophrenia
+Schizophrenia and non-organic psychosis,E100100,23616,Subchronic schizophrenia
+Schizophrenia and non-organic psychosis,E100200,3984,Chronic schizophrenic
+Schizophrenia and non-organic psychosis,E100300,57666,Acute exacerbation of subchronic schizophrenia
+Schizophrenia and non-organic psychosis,E100400,44498,Acute exacerbation of chronic schizophrenia
+Schizophrenia and non-organic psychosis,E100500,58687,Schizophrenia in remission
+Schizophrenia and non-organic psychosis,E100.00,32222,Simple schizophrenia
+Schizophrenia and non-organic psychosis,E100.11,73295,Schizophrenia simplex
+Schizophrenia and non-organic psychosis,E100z00,53625,Simple schizophrenia NOS
+Schizophrenia and non-organic psychosis,E101000,66506,Unspecified hebephrenic schizophrenia
+Schizophrenia and non-organic psychosis,E101400,97919,Acute exacerbation of chronic hebephrenic schizophrenia
+Schizophrenia and non-organic psychosis,E101.00,30619,Hebephrenic schizophrenia
+Schizophrenia and non-organic psychosis,E101z00,48054,Hebephrenic schizophrenia NOS
+Schizophrenia and non-organic psychosis,E102000,58716,Unspecified catatonic schizophrenia
+Schizophrenia and non-organic psychosis,E102100,99199,Subchronic catatonic schizophrenia
+Schizophrenia and non-organic psychosis,E102400,107222,Acute exacerbation of chronic catatonic schizophrenia
+Schizophrenia and non-organic psychosis,E102.00,25546,Catatonic schizophrenia
+Schizophrenia and non-organic psychosis,E102z00,63867,Catatonic schizophrenia NOS
+Schizophrenia and non-organic psychosis,E103000,33383,Unspecified paranoid schizophrenia
+Schizophrenia and non-organic psychosis,E103100,104760,Subchronic paranoid schizophrenia
+Schizophrenia and non-organic psychosis,E103200,31362,Chronic paranoid schizophrenia
+Schizophrenia and non-organic psychosis,E103300,51322,Acute exacerbation of subchronic paranoid schizophrenia
+Schizophrenia and non-organic psychosis,E103400,53032,Acute exacerbation of chronic paranoid schizophrenia
+Schizophrenia and non-organic psychosis,E103.00,1494,Paranoid schizophrenia
+Schizophrenia and non-organic psychosis,E103z00,9281,Paranoid schizophrenia NOS
+Schizophrenia and non-organic psychosis,E105000,102311,Unspecified latent schizophrenia
+Schizophrenia and non-organic psychosis,E105200,94299,Chronic latent schizophrenia
+Schizophrenia and non-organic psychosis,E105.00,66410,Latent schizophrenia
+Schizophrenia and non-organic psychosis,E105z00,102446,Latent schizophrenia NOS
+Schizophrenia and non-organic psychosis,E106.00,38063,Residual schizophrenia
+Schizophrenia and non-organic psychosis,E107000,58862,Unspecified schizo-affective schizophrenia
+Schizophrenia and non-organic psychosis,E107100,61098,Subchronic schizo-affective schizophrenia
+Schizophrenia and non-organic psychosis,E107200,43800,Chronic schizo-affective schizophrenia
+Schizophrenia and non-organic psychosis,E107300,58866,Acute exacerbation subchronic schizo-affective schizophrenia
+Schizophrenia and non-organic psychosis,E107400,63478,Acute exacerbation of chronic schizo-affective schizophrenia
+Schizophrenia and non-organic psychosis,E107500,56438,Schizo-affective schizophrenia in remission
+Schizophrenia and non-organic psychosis,E107.00,2117,Schizo-affective schizophrenia
+Schizophrenia and non-organic psychosis,E107.11,99000,Cyclic schizophrenia
+Schizophrenia and non-organic psychosis,E107z00,10575,Schizo-affective schizophrenia NOS
+Schizophrenia and non-organic psychosis,E10..00,854,Schizophrenic disorders
+Schizophrenia and non-organic psychosis,E10y000,33338,Atypical schizophrenia
+Schizophrenia and non-organic psychosis,E10y100,99070,Coenesthopathic schizophrenia
+Schizophrenia and non-organic psychosis,E10y.00,39062,Other schizophrenia
+Schizophrenia and non-organic psychosis,E10y.11,92994,Cenesthopathic schizophrenia
+Schizophrenia and non-organic psychosis,E10yz00,49761,Other schizophrenia NOS
+Schizophrenia and non-organic psychosis,E10z.00,8407,Schizophrenia NOS
+Schizophrenia and non-organic psychosis,E120.00,14743,Simple paranoid state
+Schizophrenia and non-organic psychosis,E121.00,3890,Chronic paranoid psychosis
+Schizophrenia and non-organic psychosis,E121.11,109634,Sander's disease
+Schizophrenia and non-organic psychosis,E122.00,14971,Paraphrenia
+Schizophrenia and non-organic psychosis,E12..00,4261,Paranoid states
+Schizophrenia and non-organic psychosis,E12y000,66766,Paranoia querulans
+Schizophrenia and non-organic psychosis,E12y.00,31589,Other paranoid states
+Schizophrenia and non-organic psychosis,E12yz00,31455,Other paranoid states NOS
+Schizophrenia and non-organic psychosis,E12z.00,12771,Paranoid psychosis NOS
+Schizophrenia and non-organic psychosis,E1...00,15958,Non-organic psychoses
+Schizophrenia and non-organic psychosis,E1y..00,16537,Other specified non-organic psychoses
+Schizophrenia and non-organic psychosis,E1z..00,22188,Non-organic psychosis NOS
+Schizophrenia and non-organic psychosis,Eu20000,16764,[X]Paranoid schizophrenia
+Schizophrenia and non-organic psychosis,Eu20011,50060,[X]Paraphrenic schizophrenia
+Schizophrenia and non-organic psychosis,Eu20100,43405,[X]Hebephrenic schizophrenia
+Schizophrenia and non-organic psychosis,Eu20111,53985,[X]Disorganised schizophrenia
+Schizophrenia and non-organic psychosis,Eu20200,61501,[X]Catatonic schizophrenia
+Schizophrenia and non-organic psychosis,Eu20211,20572,[X]Catatonic stupor
+Schizophrenia and non-organic psychosis,Eu20212,64533,[X]Schizophrenic catalepsy
+Schizophrenia and non-organic psychosis,Eu20213,35877,[X]Schizophrenic catatonia
+Schizophrenia and non-organic psychosis,Eu20214,31493,[X]Schizophrenic flexibilatis cerea
+Schizophrenia and non-organic psychosis,Eu20300,60013,[X]Undifferentiated schizophrenia
+Schizophrenia and non-organic psychosis,Eu20311,91547,[X]Atypical schizophrenia
+Schizophrenia and non-organic psychosis,Eu20400,20785,[X]Post-schizophrenic depression
+Schizophrenia and non-organic psychosis,Eu20500,64264,[X]Residual schizophrenia
+Schizophrenia and non-organic psychosis,Eu20511,24107,[X]Chronic undifferentiated schizophrenia
+Schizophrenia and non-organic psychosis,Eu20600,35848,[X]Simple schizophrenia
+Schizophrenia and non-organic psychosis,Eu20.00,34236,[X]Schizophrenia
+Schizophrenia and non-organic psychosis,Eu20y00,49420,[X]Other schizophrenia
+Schizophrenia and non-organic psychosis,Eu20y12,94001,[X]Schizophreniform disord NOS
+Schizophrenia and non-organic psychosis,Eu20y13,18053,[X]Schizophrenifrm psychos NOS
+Schizophrenia and non-organic psychosis,Eu20z00,34966,"[X]Schizophrenia, unspecified"
+Schizophrenia and non-organic psychosis,Eu21.00,39316,[X]Schizotypal disorder
+Schizophrenia and non-organic psychosis,Eu21.11,91511,[X]Latent schizophrenic reaction
+Schizophrenia and non-organic psychosis,Eu21.12,54387,[X]Borderline schizophrenia
+Schizophrenia and non-organic psychosis,Eu21.13,64993,[X]Latent schizophrenia
+Schizophrenia and non-organic psychosis,Eu21.14,62449,[X]Prepsychotic schizophrenia
+Schizophrenia and non-organic psychosis,Eu21.15,40386,[X]Prodromal schizophrenia
+Schizophrenia and non-organic psychosis,Eu21.16,49852,[X]Pseudoneurotic schizophrenia
+Schizophrenia and non-organic psychosis,Eu21.17,71250,[X]Pseudopsychopathic schizophrenia
+Schizophrenia and non-organic psychosis,Eu22000,34389,[X]Delusional disorder
+Schizophrenia and non-organic psychosis,Eu22011,2113,[X]Paranoid psychosis
+Schizophrenia and non-organic psychosis,Eu22012,11172,[X]Paranoid state
+Schizophrenia and non-organic psychosis,Eu22013,47947,[X]Paraphrenia - late
+Schizophrenia and non-organic psychosis,Eu22014,65127,[X]Sensitiver Beziehungswahn
+Schizophrenia and non-organic psychosis,Eu22015,4843,[X]Paranoia
+Schizophrenia and non-organic psychosis,Eu22100,62405,[X]Delusional misidentification syndrome
+Schizophrenia and non-organic psychosis,Eu22111,55221,[X]Capgras syndrome
+Schizophrenia and non-organic psychosis,Eu22200,98821,[X]Cotard syndrome
+Schizophrenia and non-organic psychosis,Eu22.00,28562,[X]Persistent delusional disorders
+Schizophrenia and non-organic psychosis,Eu22y00,66077,[X]Other persistent delusional disorders
+Schizophrenia and non-organic psychosis,Eu22y11,40981,[X]Delusional dysmorphophobia
+Schizophrenia and non-organic psychosis,Eu22y12,50248,[X]Involutional paranoid state
+Schizophrenia and non-organic psychosis,Eu22y13,55236,[X]Paranoia querulans
+Schizophrenia and non-organic psychosis,Eu22z00,49223,"[X]Persistent delusional disorder, unspecified"
+Schizophrenia and non-organic psychosis,Eu25000,33847,"[X]Schizoaffective disorder, manic type"
+Schizophrenia and non-organic psychosis,Eu25011,16905,"[X]Schizoaffective psychosis, manic type"
+Schizophrenia and non-organic psychosis,Eu25012,51903,"[X]Schizophreniform psychosis, manic type"
+Schizophrenia and non-organic psychosis,Eu25100,11055,"[X]Schizoaffective disorder, depressive type"
+Schizophrenia and non-organic psychosis,Eu25111,35274,"[X]Schizoaffective psychosis, depressive type"
+Schizophrenia and non-organic psychosis,Eu25112,41022,"[X]Schizophreniform psychosis, depressive type"
+Schizophrenia and non-organic psychosis,Eu25200,33693,"[X]Schizoaffective disorder, mixed type"
+Schizophrenia and non-organic psychosis,Eu25211,104763,[X]Cyclic schizophrenia
+Schizophrenia and non-organic psychosis,Eu25212,37580,[X]Mixed schizophrenic and affective psychosis
+Schizophrenia and non-organic psychosis,Eu25.00,9422,[X]Schizoaffective disorders
+Schizophrenia and non-organic psychosis,Eu25y00,58532,[X]Other schizoaffective disorders
+Schizophrenia and non-organic psychosis,Eu25z00,37681,"[X]Schizoaffective disorder, unspecified"
+Schizophrenia and non-organic psychosis,Eu25z11,33410,[X]Schizoaffective psychosis NOS
+Schizophrenia and non-organic psychosis,Eu2..00,17281,"[X]Schizophrenia, schizotypal and delusional disorders"
+Schizophrenia and non-organic psychosis,Eu2y.00,30985,[X]Other nonorganic psychotic disorders
+Schizophrenia and non-organic psychosis,Eu2y.11,31738,[X]Chronic hallucinatory psychosis
+Schizophrenia and non-organic psychosis,Eu2z.00,11244,[X]Unspecified nonorganic psychosis
+Schizophrenia and non-organic psychosis,Eu2z.11,694,[X]Psychosis NOS
+Schizophrenia and non-organic psychosis,ZV11000,22104,[V]Personal history of schizophrenia
+Schizophrenia and non-organic psychosis,1BG..00,21634,Flight of ideas
+Schizophrenia and non-organic psychosis,1BH..00,1915,Delusions
+Schizophrenia and non-organic psychosis,1BH..11,17982,Delusion
+Schizophrenia and non-organic psychosis,1BH0.00,43462,Delusion of persecution
+Schizophrenia and non-organic psychosis,1BH1.00,32875,Grandiose delusions
+Schizophrenia and non-organic psychosis,1BH2.00,55479,Ideas of reference
+Schizophrenia and non-organic psychosis,1BH3.00,22643,Paranoid ideation
+Schizophrenia and non-organic psychosis,225E.00,12472,O/E - paranoid delusions
+Schizophrenia and non-organic psychosis,225F.00,52523,O/E - delusion of persecution
+Schizophrenia and non-organic psychosis,8G13100,113612,CBTp - cognitive behavioural therapy for psychosis
+Schizophrenia and non-organic psychosis,8HHs.00,26178,Referral to psychosis early intervention service
+Schizophrenia and non-organic psychosis,E03y300,2114,Unspecified puerperal psychosis
+Schizophrenia and non-organic psychosis,E105400,114206,Acute exacerbation of chronic latent schizophrenia
+Schizophrenia and non-organic psychosis,E123.00,62680,Shared paranoid disorder
+Schizophrenia and non-organic psychosis,E123.11,50868,Folie a deux
+Schizophrenia and non-organic psychosis,E134.00,24345,Psychogenic paranoid psychosis
+Schizophrenia and non-organic psychosis,E13y.00,16333,Other reactive psychoses
+Schizophrenia and non-organic psychosis,E13yz00,26119,Other reactive psychoses NOS
+Schizophrenia and non-organic psychosis,E13z.00,14965,Nonorganic psychosis NOS
+Schizophrenia and non-organic psychosis,E13z.11,3636,Psychotic episode NOS
+Schizophrenia and non-organic psychosis,E212.00,3369,Schizoid personality disorder
+Schizophrenia and non-organic psychosis,E212000,67130,Unspecified schizoid personality disorder
+Schizophrenia and non-organic psychosis,E212200,61969,Schizotypal personality
+Schizophrenia and non-organic psychosis,E212z00,14747,Schizoid personality disorder NOS
+Schizophrenia and non-organic psychosis,Eu02z12,47619,[X] Presenile psychosis NOS
+Schizophrenia and non-organic psychosis,Eu02z15,27935,[X] Senile psychosis NOS
+Schizophrenia and non-organic psychosis,Eu0z.12,8766,[X]Symptomatic psychosis NOS
+Schizophrenia and non-organic psychosis,Eu21.18,26859,[X]Schizotypal personality disorder
+Schizophrenia and non-organic psychosis,Eu23000,36720,[X]Acute polymorphic psychotic disorder without symptoms of schizophrenia
+Schizophrenia and non-organic psychosis,Eu23011,50023,[X]Bouffee delirante
+Schizophrenia and non-organic psychosis,Eu23012,21455,[X]Cycloid psychosis
+Schizophrenia and non-organic psychosis,Eu23100,21595,[X]Acute polymorphic psychotic disorder with symptoms of schizophrenia
+Schizophrenia and non-organic psychosis,Eu23111,115050,[X]Bouffee delirante with symptoms of schizophrenia
+Schizophrenia and non-organic psychosis,Eu23112,26143,[X]Cycloid psychosis with symptoms of schizophrenia
+Schizophrenia and non-organic psychosis,Eu23200,11778,[X]Acute schizophrenia-like psychotic disorder
+Schizophrenia and non-organic psychosis,Eu23214,94604,[X]Schizophrenic reaction
+Schizophrenia and non-organic psychosis,Eu23300,44307,[X]Other acute predominantly delusional psychotic disorders
+Schizophrenia and non-organic psychosis,Eu23312,27770,[X]Psychogenic paranoid psychosis
+Schizophrenia and non-organic psychosis,Eu23z12,29651,[X]Reactive psychosis
+Schizophrenia and non-organic psychosis,Eu60100,38371,[X]Schizoid personality disorder
+Schizophrenia and non-organic psychosis,Eu60100,38371,[X]Schizoid personality disorder
