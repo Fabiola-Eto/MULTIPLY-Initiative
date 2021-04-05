@@ -1,44 +1,44 @@
-Disease,Readcode,Medcode,ReadcodeDescr,Category
-Cerebral Palsy,38Gw.00,107844.0,Gross Motor Function Classification System Cerebral Palsy,Diagnosis of Cerebral Palsy
-Cerebral Palsy,F137000,16977.0,Athetoid cerebral palsy,Diagnosis of Cerebral Palsy
-Cerebral Palsy,F137011,64561.0,Vogt's disease,Diagnosis of Cerebral Palsy
-Cerebral Palsy,F137100,92598.0,Double athetosis,Diagnosis of Cerebral Palsy
-Cerebral Palsy,F137111,66314.0,Congenital athetosis,Diagnosis of Cerebral Palsy
-Cerebral Palsy,F137.11,73943.0,Athetoid cerebral palsy,Diagnosis of Cerebral Palsy
-Cerebral Palsy,F137.12,42406.0,Athetosis - congenital,Diagnosis of Cerebral Palsy
-Cerebral Palsy,F230000,37160.0,Congenital paraplegia,Diagnosis of Cerebral Palsy
-Cerebral Palsy,F230100,5512.0,Cerebral palsy with spastic diplegia,Diagnosis of Cerebral Palsy
-Cerebral Palsy,F230111,104775.0,Spastic diplegic cerebral palsy,Diagnosis of Cerebral Palsy
-Cerebral Palsy,F230.00,25324.0,Congenital diplegia,Diagnosis of Cerebral Palsy
-Cerebral Palsy,F230.11,99040.0,Paraplegia - congenital,Diagnosis of Cerebral Palsy
-Cerebral Palsy,F230z00,45551.0,Congenital diplegia NOS,Diagnosis of Cerebral Palsy
-Cerebral Palsy,F231.00,27966.0,Congenital hemiplegia,Diagnosis of Cerebral Palsy
-Cerebral Palsy,F232.00,21249.0,Congenital quadriplegia,Diagnosis of Cerebral Palsy
-Cerebral Palsy,F232.11,48126.0,Tetraplegia - congenital,Diagnosis of Cerebral Palsy
-Cerebral Palsy,F233.00,33925.0,Congenital monoplegia,Diagnosis of Cerebral Palsy
-Cerebral Palsy,F233.11,55593.0,Congenital spastic foot,Diagnosis of Cerebral Palsy
-Cerebral Palsy,F234.00,2019.0,Infantile hemiplegia NOS,Diagnosis of Cerebral Palsy
-Cerebral Palsy,F23..00,2069.0,Congenital cerebral palsy,Diagnosis of Cerebral Palsy
-Cerebral Palsy,F23..11,15530.0,Congenital spastic cerebral palsy,Diagnosis of Cerebral Palsy
-Cerebral Palsy,F23..12,5560.0,Infantile cerebral palsy,Diagnosis of Cerebral Palsy
-Cerebral Palsy,F23..13,39971.0,Littles disease,Diagnosis of Cerebral Palsy
-Cerebral Palsy,F23..14,61219.0,Cerebral atonia,Diagnosis of Cerebral Palsy
-Cerebral Palsy,F23y000,21548.0,Ataxic infantile cerebral palsy,Diagnosis of Cerebral Palsy
-Cerebral Palsy,F23y100,104828.0,Flaccid infantile cerebral palsy,Diagnosis of Cerebral Palsy
-Cerebral Palsy,F23y200,25570.0,Spastic cerebral palsy,Diagnosis of Cerebral Palsy
-Cerebral Palsy,F23y300,49967.0,Dyskinetic cerebral palsy,Diagnosis of Cerebral Palsy
-Cerebral Palsy,F23y400,52659.0,Ataxic diplegic cerebral palsy,Diagnosis of Cerebral Palsy
-Cerebral Palsy,F23y500,95132.0,Worster-Drought syndrome,Diagnosis of Cerebral Palsy
-Cerebral Palsy,F23y511,100627.0,Congenital suprabulbar paresis,Diagnosis of Cerebral Palsy
-Cerebral Palsy,F23y600,107551.0,Choreoathetoid cerebral palsy,Diagnosis of Cerebral Palsy
-Cerebral Palsy,F23y.00,53178.0,Other congenital cerebral palsy,Diagnosis of Cerebral Palsy
-Cerebral Palsy,F23yz00,12666.0,Other infantile cerebral palsy NOS,Diagnosis of Cerebral Palsy
-Cerebral Palsy,F23z.00,28306.0,Congenital cerebral palsy NOS,Diagnosis of Cerebral Palsy
-Cerebral Palsy,F2B0.00,104580.0,Spastic quadriplegic cerebral palsy,Diagnosis of Cerebral Palsy
-Cerebral Palsy,F2B1.00,105133.0,Spastic hemiplegic cerebral palsy,Diagnosis of Cerebral Palsy
-Cerebral Palsy,F2B..00,104498.0,Cerebral palsy,Diagnosis of Cerebral Palsy
-Cerebral Palsy,F2By.00,104782.0,Other cerebral palsy,Diagnosis of Cerebral Palsy
-Cerebral Palsy,F2Bz.00,104654.0,Cerebral palsy NOS,Diagnosis of Cerebral Palsy
-Cerebral Palsy,Fyu9000,90520.0,[X]Other infantile cerebral palsy,Diagnosis of Cerebral Palsy
-Cerebral Palsy,Fyu9.00,53755.0,[X]Cerebral palsy and other paralytic syndromes,Diagnosis of Cerebral Palsy
-Cerebral Palsy,G669.00,16956.0,"Cerebral palsy, not congenital or infantile, acute",Diagnosis of Cerebral Palsy
+Disease,ReadCode,MedCode,ReadTerm
+Cerebral Palsy,38Gw.00,107844,Gross Motor Function Classification System Cerebral Palsy
+Cerebral Palsy,F137000,16977,Athetoid cerebral palsy
+Cerebral Palsy,F137011,64561,Vogt's disease
+Cerebral Palsy,F137100,92598,Double athetosis
+Cerebral Palsy,F137111,66314,Congenital athetosis
+Cerebral Palsy,F137.11,73943,Athetoid cerebral palsy
+Cerebral Palsy,F137.12,42406,Athetosis - congenital
+Cerebral Palsy,F230000,37160,Congenital paraplegia
+Cerebral Palsy,F230100,5512,Cerebral palsy with spastic diplegia
+Cerebral Palsy,F230111,104775,Spastic diplegic cerebral palsy
+Cerebral Palsy,F230.00,25324,Congenital diplegia
+Cerebral Palsy,F230.11,99040,Paraplegia - congenital
+Cerebral Palsy,F230z00,45551,Congenital diplegia NOS
+Cerebral Palsy,F231.00,27966,Congenital hemiplegia
+Cerebral Palsy,F232.00,21249,Congenital quadriplegia
+Cerebral Palsy,F232.11,48126,Tetraplegia - congenital
+Cerebral Palsy,F233.00,33925,Congenital monoplegia
+Cerebral Palsy,F233.11,55593,Congenital spastic foot
+Cerebral Palsy,F234.00,2019,Infantile hemiplegia NOS
+Cerebral Palsy,F23..00,2069,Congenital cerebral palsy
+Cerebral Palsy,F23..11,15530,Congenital spastic cerebral palsy
+Cerebral Palsy,F23..12,5560,Infantile cerebral palsy
+Cerebral Palsy,F23..13,39971,Littles disease
+Cerebral Palsy,F23..14,61219,Cerebral atonia
+Cerebral Palsy,F23y000,21548,Ataxic infantile cerebral palsy
+Cerebral Palsy,F23y100,104828,Flaccid infantile cerebral palsy
+Cerebral Palsy,F23y200,25570,Spastic cerebral palsy
+Cerebral Palsy,F23y300,49967,Dyskinetic cerebral palsy
+Cerebral Palsy,F23y400,52659,Ataxic diplegic cerebral palsy
+Cerebral Palsy,F23y500,95132,Worster-Drought syndrome
+Cerebral Palsy,F23y511,100627,Congenital suprabulbar paresis
+Cerebral Palsy,F23y600,107551,Choreoathetoid cerebral palsy
+Cerebral Palsy,F23y.00,53178,Other congenital cerebral palsy
+Cerebral Palsy,F23yz00,12666,Other infantile cerebral palsy NOS
+Cerebral Palsy,F23z.00,28306,Congenital cerebral palsy NOS
+Cerebral Palsy,F2B0.00,104580,Spastic quadriplegic cerebral palsy
+Cerebral Palsy,F2B1.00,105133,Spastic hemiplegic cerebral palsy
+Cerebral Palsy,F2B..00,104498,Cerebral palsy
+Cerebral Palsy,F2By.00,104782,Other cerebral palsy
+Cerebral Palsy,F2Bz.00,104654,Cerebral palsy NOS
+Cerebral Palsy,Fyu9000,90520,[X]Other infantile cerebral palsy
+Cerebral Palsy,Fyu9.00,53755,[X]Cerebral palsy and other paralytic syndromes
+Cerebral Palsy,G669.00,16956,"Cerebral palsy, not congenital or infantile, acute"
