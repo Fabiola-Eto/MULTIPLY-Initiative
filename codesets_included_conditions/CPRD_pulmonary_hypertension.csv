@@ -1,0 +1,4 @@
+Disease,ReadCode,MedCode,ReadTerm
+Pulmonary hypertension,G410.00,245,Primary pulmonary hypertension
+Pulmonary hypertension,G41y000,34065,Secondary pulmonary hypertension
+Pulmonary hypertension,G41y100,102444,Thromboembolic pulmonary hypertension
