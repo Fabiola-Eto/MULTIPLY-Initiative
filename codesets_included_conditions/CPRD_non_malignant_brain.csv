@@ -1,44 +1,71 @@
-Disease,Readcode,Medcode,ReadcodeDescr,Category
-Benign neoplasm of brain and other parts of central nervous system,B7F0000,55419.0,"Benign neoplasm of brain, supratentorial",Diagnosis of Benign neoplasm of brain and other parts of central nervous system
-Benign neoplasm of brain and other parts of central nervous system,B7F0.00,11678.0,Benign neoplasm of brain,Diagnosis of Benign neoplasm of brain and other parts of central nervous system
-Benign neoplasm of brain and other parts of central nervous system,B7F0.11,31189.0,Cerebral tumour - benign,Diagnosis of Benign neoplasm of brain and other parts of central nervous system
-Benign neoplasm of brain and other parts of central nervous system,B7F1000,6174.0,Acoustic neuroma,Diagnosis of Benign neoplasm of brain and other parts of central nervous system
-Benign neoplasm of brain and other parts of central nervous system,B7F1.00,44776.0,Benign neoplasm of cranial nerves,Diagnosis of Benign neoplasm of brain and other parts of central nervous system
-Benign neoplasm of brain and other parts of central nervous system,B7F2000,8672.0,Cerebral meningioma,Diagnosis of Benign neoplasm of brain and other parts of central nervous system
-Benign neoplasm of brain and other parts of central nervous system,B7F2.00,18200.0,Benign neoplasm of cerebral meninges,Diagnosis of Benign neoplasm of brain and other parts of central nervous system
-Benign neoplasm of brain and other parts of central nervous system,B7F2z00,65069.0,Benign neoplasm of cerebral meninges NOS,Diagnosis of Benign neoplasm of brain and other parts of central nervous system
-Benign neoplasm of brain and other parts of central nervous system,B7F3.00,31391.0,Benign neoplasm of spinal cord,Diagnosis of Benign neoplasm of brain and other parts of central nervous system
-Benign neoplasm of brain and other parts of central nervous system,B7F4000,9544.0,Spinal meningioma,Diagnosis of Benign neoplasm of brain and other parts of central nervous system
-Benign neoplasm of brain and other parts of central nervous system,B7F4.00,35095.0,Benign neoplasm of spinal meninges,Diagnosis of Benign neoplasm of brain and other parts of central nervous system
-Benign neoplasm of brain and other parts of central nervous system,B7F4z00,94426.0,Benign neoplasm of spinal meninges NOS,Diagnosis of Benign neoplasm of brain and other parts of central nervous system
-Benign neoplasm of brain and other parts of central nervous system,B7F..00,27289.0,Benign neoplasm of brain and other parts of nervous system,Diagnosis of Benign neoplasm of brain and other parts of central nervous system
-Benign neoplasm of brain and other parts of central nervous system,B7FX.00,37637.0,"Benign neoplasm of meninges, unspecified",Diagnosis of Benign neoplasm of brain and other parts of central nervous system
-Benign neoplasm of brain and other parts of central nervous system,B7Fz.00,60341.0,Benign neoplasm of brain or other nervous system NOS,Diagnosis of Benign neoplasm of brain and other parts of central nervous system
-Benign neoplasm of brain and other parts of central nervous system,B7H2000,20267.0,Benign neoplasm of pituitary gland,Diagnosis of Benign neoplasm of brain and other parts of central nervous system
-Benign neoplasm of brain and other parts of central nervous system,B7H2100,46829.0,Benign neoplasm of Rathke's pouch,Diagnosis of Benign neoplasm of brain and other parts of central nervous system
-Benign neoplasm of brain and other parts of central nervous system,B7H2200,15635.0,Benign neoplasm of sella turcica,Diagnosis of Benign neoplasm of brain and other parts of central nervous system
-Benign neoplasm of brain and other parts of central nervous system,B7H2300,55379.0,Benign neoplasm of craniopharyngeal duct,Diagnosis of Benign neoplasm of brain and other parts of central nervous system
-Benign neoplasm of brain and other parts of central nervous system,B7H2.00,5706.0,Benign neoplasm of pituitary gland and craniopharyngeal duct,Diagnosis of Benign neoplasm of brain and other parts of central nervous system
-Benign neoplasm of brain and other parts of central nervous system,B7H2.11,2321.0,Pituitary adenoma,Diagnosis of Benign neoplasm of brain and other parts of central nervous system
-Benign neoplasm of brain and other parts of central nervous system,B7H2z00,71886.0,Benign neoplasm of pituitary and craniopharyngeal duct NOS,Diagnosis of Benign neoplasm of brain and other parts of central nervous system
-Benign neoplasm of brain and other parts of central nervous system,B7H3.00,50466.0,Benign neoplasm of pineal gland,Diagnosis of Benign neoplasm of brain and other parts of central nervous system
-Benign neoplasm of brain and other parts of central nervous system,B7H4.00,39432.0,Benign neoplasm of carotid body,Diagnosis of Benign neoplasm of brain and other parts of central nervous system
-Benign neoplasm of brain and other parts of central nervous system,B7H5000,58575.0,Benign neoplasm of glomus jugulare,Diagnosis of Benign neoplasm of brain and other parts of central nervous system
-Benign neoplasm of brain and other parts of central nervous system,B7H5100,37162.0,Benign neoplasm of aortic body,Diagnosis of Benign neoplasm of brain and other parts of central nervous system
-Benign neoplasm of brain and other parts of central nervous system,B7H5200,53562.0,Benign neoplasm of coccygeal body,Diagnosis of Benign neoplasm of brain and other parts of central nervous system
-Benign neoplasm of brain and other parts of central nervous system,B7H5.00,64587.0,Benign neoplasm of aortic body and other paraganglia,Diagnosis of Benign neoplasm of brain and other parts of central nervous system
-Benign neoplasm of brain and other parts of central nervous system,B7H5z00,73669.0,Benign neoplasm of aortic body and other paraganglia NOS,Diagnosis of Benign neoplasm of brain and other parts of central nervous system
-Benign neoplasm of brain and other parts of central nervous system,BBb5.00,26157.0,[M]Choroid plexus papilloma NOS,Diagnosis of Benign neoplasm of brain and other parts of central nervous system
-Benign neoplasm of brain and other parts of central nervous system,BBd0.00,12096.0,[M]Meningioma NOS,Diagnosis of Benign neoplasm of brain and other parts of central nervous system
-Benign neoplasm of brain and other parts of central nervous system,BBd3.00,65426.0,[M]Meningotheliomatous meningioma,Diagnosis of Benign neoplasm of brain and other parts of central nervous system
-Benign neoplasm of brain and other parts of central nervous system,BBd3.11,96487.0,[M]Endotheliomatous meningioma,Diagnosis of Benign neoplasm of brain and other parts of central nervous system
-Benign neoplasm of brain and other parts of central nervous system,BBd4.00,38295.0,[M]Fibrous meningioma,Diagnosis of Benign neoplasm of brain and other parts of central nervous system
-Benign neoplasm of brain and other parts of central nervous system,BBd5.00,38870.0,[M]Psammomatous meningioma,Diagnosis of Benign neoplasm of brain and other parts of central nervous system
-Benign neoplasm of brain and other parts of central nervous system,BBd6.00,46251.0,[M]Angiomatous meningioma,Diagnosis of Benign neoplasm of brain and other parts of central nervous system
-Benign neoplasm of brain and other parts of central nervous system,BBd7.00,21598.0,[M]Haemangioblastic meningioma,Diagnosis of Benign neoplasm of brain and other parts of central nervous system
-Benign neoplasm of brain and other parts of central nervous system,BBd7.11,46490.0,[M]Angioblastic meningioma,Diagnosis of Benign neoplasm of brain and other parts of central nervous system
-Benign neoplasm of brain and other parts of central nervous system,BBd8.00,50822.0,[M]Haemangiopericytic meningioma,Diagnosis of Benign neoplasm of brain and other parts of central nervous system
-Benign neoplasm of brain and other parts of central nervous system,BBd9.00,67929.0,[M]Transitional meningioma,Diagnosis of Benign neoplasm of brain and other parts of central nervous system
-Benign neoplasm of brain and other parts of central nervous system,BBd..00,2843.0,[M]Meningiomas,Diagnosis of Benign neoplasm of brain and other parts of central nervous system
-Benign neoplasm of brain and other parts of central nervous system,BBdz.00,47848.0,[M]Meningioma NOS,Diagnosis of Benign neoplasm of brain and other parts of central nervous system
-Benign neoplasm of brain and other parts of central nervous system,BBe5.11,21247.0,[M]Acoustic neuroma,Diagnosis of Benign neoplasm of brain and other parts of central nervous system
+Disease,ReadCode,MedCode,ReadTerm
+"Non-malignant tumour of brain, central nervous system and pituitary",B7F0000,55419,"Benign neoplasm of brain, supratentorial"
+"Non-malignant tumour of brain, central nervous system and pituitary",B7F0.00,11678,Benign neoplasm of brain
+"Non-malignant tumour of brain, central nervous system and pituitary",B7F0.11,31189,Cerebral tumour - benign
+"Non-malignant tumour of brain, central nervous system and pituitary",B7F1000,6174,Acoustic neuroma
+"Non-malignant tumour of brain, central nervous system and pituitary",B7F1.00,44776,Benign neoplasm of cranial nerves
+"Non-malignant tumour of brain, central nervous system and pituitary",B7F2000,8672,Cerebral meningioma
+"Non-malignant tumour of brain, central nervous system and pituitary",B7F2.00,18200,Benign neoplasm of cerebral meninges
+"Non-malignant tumour of brain, central nervous system and pituitary",B7F2z00,65069,Benign neoplasm of cerebral meninges NOS
+"Non-malignant tumour of brain, central nervous system and pituitary",B7F3.00,31391,Benign neoplasm of spinal cord
+"Non-malignant tumour of brain, central nervous system and pituitary",B7F4000,9544,Spinal meningioma
+"Non-malignant tumour of brain, central nervous system and pituitary",B7F4.00,35095,Benign neoplasm of spinal meninges
+"Non-malignant tumour of brain, central nervous system and pituitary",B7F4z00,94426,Benign neoplasm of spinal meninges NOS
+"Non-malignant tumour of brain, central nervous system and pituitary",B7F..00,27289,Benign neoplasm of brain and other parts of nervous system
+"Non-malignant tumour of brain, central nervous system and pituitary",B7FX.00,37637,"Benign neoplasm of meninges, unspecified"
+"Non-malignant tumour of brain, central nervous system and pituitary",B7Fz.00,60341,Benign neoplasm of brain or other nervous system NOS
+"Non-malignant tumour of brain, central nervous system and pituitary",B7H2000,20267,Benign neoplasm of pituitary gland
+"Non-malignant tumour of brain, central nervous system and pituitary",B7H2100,46829,Benign neoplasm of Rathke's pouch
+"Non-malignant tumour of brain, central nervous system and pituitary",B7H2200,15635,Benign neoplasm of sella turcica
+"Non-malignant tumour of brain, central nervous system and pituitary",B7H2300,55379,Benign neoplasm of craniopharyngeal duct
+"Non-malignant tumour of brain, central nervous system and pituitary",B7H2.00,5706,Benign neoplasm of pituitary gland and craniopharyngeal duct
+"Non-malignant tumour of brain, central nervous system and pituitary",B7H2.11,2321,Pituitary adenoma
+"Non-malignant tumour of brain, central nervous system and pituitary",B7H2z00,71886,Benign neoplasm of pituitary and craniopharyngeal duct NOS
+"Non-malignant tumour of brain, central nervous system and pituitary",B7H3.00,50466,Benign neoplasm of pineal gland
+"Non-malignant tumour of brain, central nervous system and pituitary",B7H4.00,39432,Benign neoplasm of carotid body
+"Non-malignant tumour of brain, central nervous system and pituitary",B7H5000,58575,Benign neoplasm of glomus jugulare
+"Non-malignant tumour of brain, central nervous system and pituitary",B7H5100,37162,Benign neoplasm of aortic body
+"Non-malignant tumour of brain, central nervous system and pituitary",B7H5200,53562,Benign neoplasm of coccygeal body
+"Non-malignant tumour of brain, central nervous system and pituitary",B7H5.00,64587,Benign neoplasm of aortic body and other paraganglia
+"Non-malignant tumour of brain, central nervous system and pituitary",B7H5z00,73669,Benign neoplasm of aortic body and other paraganglia NOS
+"Non-malignant tumour of brain, central nervous system and pituitary",BBb5.00,26157,[M]Choroid plexus papilloma NOS
+"Non-malignant tumour of brain, central nervous system and pituitary",BBd0.00,12096,[M]Meningioma NOS
+"Non-malignant tumour of brain, central nervous system and pituitary",BBd3.00,65426,[M]Meningotheliomatous meningioma
+"Non-malignant tumour of brain, central nervous system and pituitary",BBd3.11,96487,[M]Endotheliomatous meningioma
+"Non-malignant tumour of brain, central nervous system and pituitary",BBd4.00,38295,[M]Fibrous meningioma
+"Non-malignant tumour of brain, central nervous system and pituitary",BBd5.00,38870,[M]Psammomatous meningioma
+"Non-malignant tumour of brain, central nervous system and pituitary",BBd6.00,46251,[M]Angiomatous meningioma
+"Non-malignant tumour of brain, central nervous system and pituitary",BBd7.00,21598,[M]Haemangioblastic meningioma
+"Non-malignant tumour of brain, central nervous system and pituitary",BBd7.11,46490,[M]Angioblastic meningioma
+"Non-malignant tumour of brain, central nervous system and pituitary",BBd8.00,50822,[M]Haemangiopericytic meningioma
+"Non-malignant tumour of brain, central nervous system and pituitary",BBd9.00,67929,[M]Transitional meningioma
+"Non-malignant tumour of brain, central nervous system and pituitary",BBd..00,2843,[M]Meningiomas
+"Non-malignant tumour of brain, central nervous system and pituitary",BBdz.00,47848,[M]Meningioma NOS
+"Non-malignant tumour of brain, central nervous system and pituitary",BBe5.11,21247,[M]Acoustic neuroma
+"Non-malignant tumour of brain, central nervous system and pituitary", 710..12 ,8551, Pituitary gland operations 
+"Non-malignant tumour of brain, central nervous system and pituitary", 710z.00 ,93629, Pituitary gland and pineal gland operations NOS 
+"Non-malignant tumour of brain, central nervous system and pituitary", 7100y00 ,53569, Other specified excision of pituitary gland 
+"Non-malignant tumour of brain, central nervous system and pituitary",7101100,40070, Implantation of radioactive substance into pituitary gland 
+"Non-malignant tumour of brain, central nervous system and pituitary", C150200 ,53682, Pituitary dependent Cushing's syndrome 
+"Non-malignant tumour of brain, central nervous system and pituitary", 710y.00 ,93883, Pituitary gland or pineal gland operations OS 
+"Non-malignant tumour of brain, central nervous system and pituitary", 7100z00 ,49056, Excision of pituitary gland NOS 
+"Non-malignant tumour of brain, central nervous system and pituitary",7102200,50514, Decompression of pituitary gland 
+"Non-malignant tumour of brain, central nervous system and pituitary", 7102z00 ,4365, Other operation on pituitary gland NOS 
+"Non-malignant tumour of brain, central nervous system and pituitary",7101000,72267, Cryotherapy to pituitary gland 
+"Non-malignant tumour of brain, central nervous system and pituitary", PK24200 ,112638, Accessory pituitary gland 
+"Non-malignant tumour of brain, central nervous system and pituitary",7102300,68461, Exploration of pituitary gland 
+"Non-malignant tumour of brain, central nervous system and pituitary", C13A.00 ,105321, Pituitary apoplexy 
+"Non-malignant tumour of brain, central nervous system and pituitary", C13z.00 ,12449, Pituitary disorders NOS 
+"Non-malignant tumour of brain, central nervous system and pituitary", BB5V.00 ,26120, [M]Pituitary adenomas and carcinomas 
+"Non-malignant tumour of brain, central nervous system and pituitary", C137z00 ,34459, Iatrogenic pituitary disorder NOS 
+"Non-malignant tumour of brain, central nervous system and pituitary", C133y00 ,69903, Other specified pituitary dwarfism 
+"Non-malignant tumour of brain, central nervous system and pituitary",7102000,34261, Excision of lesion of pituitary gland 
+"Non-malignant tumour of brain, central nervous system and pituitary", 7102y00 ,58596, Other specified other operation on pituitary gland 
+"Non-malignant tumour of brain, central nervous system and pituitary", B7H2000 ,20267, Benign neoplasm of pituitary gland 
+"Non-malignant tumour of brain, central nervous system and pituitary", BB5Vz00 ,57422, [M]Pituitary adenoma or carcinoma NOS 
+"Non-malignant tumour of brain, central nervous system and pituitary", B7H2z00 ,71886, Benign neoplasm of pituitary and craniopharyngeal duct NOS 
+"Non-malignant tumour of brain, central nervous system and pituitary", 710..00 ,39009, Pituitary gland and pineal gland operations 
+"Non-malignant tumour of brain, central nervous system and pituitary",7102.00,52399, Other operations on pituitary gland 
+"Non-malignant tumour of brain, central nervous system and pituitary", B920z00 ,94371, Neop uncertain behaviour pituitary and craniopharyngeal NOS 
+"Non-malignant tumour of brain, central nervous system and pituitary", B7H2.00 ,5706, Benign neoplasm of pituitary gland and craniopharyngeal duct 
+"Non-malignant tumour of brain, central nervous system and pituitary", B7H2.11 ,2321, Pituitary adenoma 
