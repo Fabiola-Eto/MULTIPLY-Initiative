@@ -1,13 +1,20 @@
-Disease,Readcode,Medcode,ReadcodeDescr,Category
-Hyperparathyroidism,C120000,18740.0,Primary hyperparathyroidism,Diagnosis of Hyperparathyroidism
-Hyperparathyroidism,C120100,73934.0,Hyperparathyroid bone disease,Diagnosis of Hyperparathyroidism
-Hyperparathyroidism,C120111,19457.0,Osteitis fibrosa cystica,Diagnosis of Hyperparathyroidism
-Hyperparathyroidism,C120112,73923.0,Von Recklinghausen's bone disease,Diagnosis of Hyperparathyroidism
-Hyperparathyroidism,C120200,105537.0,Tertiary hyperparathyroidism,Diagnosis of Hyperparathyroidism
-Hyperparathyroidism,C120.00,3559.0,Hyperparathyroidism,Diagnosis of Hyperparathyroidism
-Hyperparathyroidism,C120.11,49456.0,Osteitis fibrosa cystica,Diagnosis of Hyperparathyroidism
-Hyperparathyroidism,C120.12,4116.0,Von Recklinghausen's bone disease,Diagnosis of Hyperparathyroidism
-Hyperparathyroidism,C1z3100,65478.0,Ectopic hyperparathyroidism,Diagnosis of Hyperparathyroidism
-Hyperparathyroidism,Cyu4100,53819.0,[X]Other hyperparathyroidism,Diagnosis of Hyperparathyroidism
-Hyperparathyroidism,K08y100,17339.0,Secondary hyperparathyroidism,Diagnosis of Hyperparathyroidism
-Hyperparathyroidism,N332500,56524.0,Brown tumour of hyperparathyroidism,Diagnosis of Hyperparathyroidism
+Disease,ReadCode,MedCode,ReadTerm
+Hyperparathyroidism,C120000,18740,Primary hyperparathyroidism
+Hyperparathyroidism,C120100,73934,Hyperparathyroid bone disease
+Hyperparathyroidism,C120111,19457,Osteitis fibrosa cystica
+Hyperparathyroidism,C120112,73923,Von Recklinghausen's bone disease
+Hyperparathyroidism,C120200,105537,Tertiary hyperparathyroidism
+Hyperparathyroidism,C120.00,3559,Hyperparathyroidism
+Hyperparathyroidism,C120.11,49456,Osteitis fibrosa cystica
+Hyperparathyroidism,C120.12,4116,Von Recklinghausen's bone disease
+Hyperparathyroidism,C1z3100,65478,Ectopic hyperparathyroidism
+Hyperparathyroidism,Cyu4100,53819,[X]Other hyperparathyroidism
+Hyperparathyroidism,K08y100,17339,Secondary hyperparathyroidism
+Hyperparathyroidism,N332500,56524,Brown tumour of hyperparathyroidism
+Hyperparathyroidism,7114200,68651, Partial parathyroidectomy + parathyroid tissue transposition 
+Hyperparathyroidism, 7115z00 ,66321, Other operation on parathyroid gland NOS 
+Hyperparathyroidism,7114.11,12313, Parathyroidectomy 
+Hyperparathyroidism,7114400,38420, Parathyroidectomy NEC 
+Hyperparathyroidism, 711..11 ,8191, Parathyroid gland operations 
+Hyperparathyroidism, 7114y00 ,94056, Other specified excision of parathyroid gland 
+Hyperparathyroidism,7114300,43202, Partial parathyroidectomy NEC 
