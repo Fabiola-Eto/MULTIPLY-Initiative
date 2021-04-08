@@ -1,0 +1,1211 @@
+Disease,ICD10code,ICD10codeDescr,Category,OPCS4code,OPCS4codeDescr
+Abdominal aortic aneurysm,I714,"Abdominal aortic aneurysm, without mention of rupture",AAA without leak or rupture,NA,NA
+Abdominal aortic aneurysm,I716,"Thoracoabdominal aortic aneurysm, without mention of rupture",AAA without leak or rupture,NA,NA
+Abdominal aortic aneurysm,I719,"Aortic aneurysm of unspecified site, without mention of rupture",AAA without leak or rupture,NA,NA
+Alcohol Problems,F10.1,Mental and behavioural disorders due to use of alcohol - Harmful use,Diagnosis of Alcohol Problems,NA,NA
+Alcohol Problems,F10.2,Mental and behavioural disorders due to use of alcohol - Dependence syndrome,Diagnosis of Alcohol Problems,NA,NA
+Alcohol Problems,F10.3,Mental and behavioural disorders due to use of alcohol - Withdrawal state,Diagnosis of Alcohol Problems,NA,NA
+Alcohol Problems,F10.4,Mental and behavioural disorders due to use of alcohol - Withdrawal state with delirium,Diagnosis of Alcohol Problems,NA,NA
+Alcohol Problems,F10.5,Mental and behavioural disorders due to use of alcohol - Psychotic disorder,Diagnosis of Alcohol Problems,NA,NA
+Alcohol Problems,F10.6,Mental and behavioural disorders due to use of alcohol - Amnesic syndrome,Diagnosis of Alcohol Problems,NA,NA
+Alcohol Problems,F10.7,Mental and behavioural disorders due to use of alcohol - Residual and late-onset psychotic disorder,Diagnosis of Alcohol Problems,NA,NA
+Alcohol Problems,F10.8,Mental and behavioural disorders due to use of alcohol - Other mental and behavioural disorders,Diagnosis of Alcohol Problems,NA,NA
+Alcohol Problems,F10.9,Mental and behavioural disorders due to use of alcohol - Unspecified mental and behavioural disorder,Diagnosis of Alcohol Problems,NA,NA
+Alcohol Problems,E24.4,Alcohol-induced pseudo-Cushing's syndrome,Diagnosis of Alcohol Problems,NA,NA
+Alcohol Problems,G31.2,Degeneration of nervous system due to alcohol,Diagnosis of Alcohol Problems,NA,NA
+Alcohol Problems,G62.1,Alcoholic polyneuropathy,Diagnosis of Alcohol Problems,NA,NA
+Alcohol Problems,G72.1,Alcoholic myopathy,Diagnosis of Alcohol Problems,NA,NA
+Alcohol Problems,I42.6,Alcoholic cardiomyopathy,Diagnosis of Alcohol Problems,NA,NA
+Alcohol Problems,K29.2,Alcoholic gastritis,Diagnosis of Alcohol Problems,NA,NA
+Alcohol Problems,K70,Alcoholic liver disease,Diagnosis of Alcohol Problems,NA,NA
+Alcohol Problems,K85.2,Alcohol-induced acute pancreatitis,Diagnosis of Alcohol Problems,NA,NA
+Alcohol Problems,K86.0,Alcohol-induced chronic pancreatitis,Diagnosis of Alcohol Problems,NA,NA
+Alcohol Problems,Z50.2,Alcohol rehabilitation,Diagnosis of Alcohol Problems,NA,NA
+Alcohol Problems,Z71.4,Alcohol abuse counselling and surveillance,Diagnosis of Alcohol Problems,NA,NA
+Alcoholic liver disease,K70,Alcoholic liver disease,Diagnosis of Alcoholic liver disease,NA,NA
+Allergic and chronic rhinitis,J30.1,Allergic rhinitis due to pollen,Diagnosis of Allergic and chronic rhinitis,NA,NA
+Allergic and chronic rhinitis,J30.2,Other seasonal allergic rhinitis,Diagnosis of Allergic and chronic rhinitis,NA,NA
+Allergic and chronic rhinitis,J30.3,Other allergic rhinitis,Diagnosis of Allergic and chronic rhinitis,NA,NA
+Allergic and chronic rhinitis,J30.4,"Allergic rhinitis, unspecified",Diagnosis of Allergic and chronic rhinitis,NA,NA
+Allergic and chronic rhinitis,J31.0,Chronic rhinitis,Diagnosis of Allergic and chronic rhinitis,NA,NA
+Alopecia areata,L63,Alopecia areata,Diagnosis of Alopecia areata,NA,NA
+Angiodysplasia of colon,K55.2,Angiodysplasia of colon,Diagnosis of Angiodysplasia of colon,NA,NA
+Ankylosing spondylitis,M45,Ankylosing spondylitis,Diagnosis of Ankylosing spondylitis,NA,NA
+Anorexia and bulimia nervosa,F50.0,Anorexia nervosa,Diagnosis of Anorexia and bulimia nervosa,NA,NA
+Anorexia and bulimia nervosa,F50.1,Atypical anorexia nervosa,Diagnosis of Anorexia and bulimia nervosa,NA,NA
+Anorexia and bulimia nervosa,F50.2,Bulimia nervosa,Diagnosis of Anorexia and bulimia nervosa,NA,NA
+Anorexia and bulimia nervosa,F50.3,Atypical bulimia nervosa,Diagnosis of Anorexia and bulimia nervosa,NA,NA
+Anxiety disorders,F40,Phobic anxiety disorders,Diagnosis of Anxiety disorders,NA,NA
+Anxiety disorders,F41,Other anxiety disorders,Diagnosis of Anxiety disorders,NA,NA
+Aplastic anaemias,D60,Acquired pure red cell aplasia [erythroblastopenia],Diagnosis of Aplastic anaemias,NA,NA
+Aplastic anaemias,D61,Other aplastic anaemias,Diagnosis of Aplastic anaemias,NA,NA
+Asbestosis,J61,Pneumoconiosis due to asbestos and other mineral fibres,Diagnosis of Asbestosis,NA,NA
+Asthma,J45,Asthma,Diagnosis of Asthma,NA,NA
+Asthma,J46,Status asthmaticus,Diagnosis of Asthma,NA,NA
+Atrial fibrillation,I48,Atrial fibrillation and flutter,Fibrillation and flutter,NA,NA
+"Atrioventricular block, complete",I44.2,"Atrioventricular block, complete","Diagnosis of Atrioventricular block, complete",NA,NA
+"Atrioventricular block, second degree",I44.1,"Atrioventricular block, second degree","Diagnosis of Atrioventricular block, second degree",NA,NA
+Autism and Asperger's syndrome,F84.0,Childhood autism,Diagnosis of Autism and Asperger's syndrome,NA,NA
+Autism and Asperger's syndrome,F84.1,Atypical autism,Diagnosis of Autism and Asperger's syndrome,NA,NA
+Autism and Asperger's syndrome,F84.5,Asperger's syndrome,Diagnosis of Autism and Asperger's syndrome,NA,NA
+Autoimmune liver disease,K74.3,Primary biliary cirrhosis,Diagnosis of Autoimmune liver disease,NA,NA
+Autoimmune liver disease,K75.4,Autoimmune hepatitis,Diagnosis of Autoimmune liver disease,NA,NA
+Barrett's oesophagus,K22.7,Barrett's oesophagus,Diagnosis of Barrett's oesophagus,NA,NA
+Benign neoplasm of brain and other parts of central nervous system,D32,Benign neoplasm of meninges,Diagnosis of Benign neoplasm of brain and other parts of central nervous system,NA,NA
+Benign neoplasm of brain and other parts of central nervous system,D33,Benign neoplasm of brain and other parts of central nervous system,Diagnosis of Benign neoplasm of brain and other parts of central nervous system,NA,NA
+Benign neoplasm of brain and other parts of central nervous system,D35.2,Benign neoplasm: Pituitary gland,Diagnosis of Benign neoplasm of brain and other parts of central nervous system,NA,NA
+Benign neoplasm of brain and other parts of central nervous system,D35.3,Benign neoplasm: Craniopharyngeal duct,Diagnosis of Benign neoplasm of brain and other parts of central nervous system,NA,NA
+Benign neoplasm of brain and other parts of central nervous system,D35.4,Benign neoplasm: Pineal gland,Diagnosis of Benign neoplasm of brain and other parts of central nervous system,NA,NA
+Benign neoplasm of brain and other parts of central nervous system,D35.5,Benign neoplasm: Carotid body,Diagnosis of Benign neoplasm of brain and other parts of central nervous system,NA,NA
+Benign neoplasm of brain and other parts of central nervous system,D35.6,Benign neoplasm: Aortic body and other paraganglia,Diagnosis of Benign neoplasm of brain and other parts of central nervous system,NA,NA
+Bipolar affective disorder and mania,F30,Manic episode,Diagnosis of Bipolar affective disorder and mania,NA,NA
+Bipolar affective disorder and mania,F31,Bipolar affective disorder,Diagnosis of Bipolar affective disorder and mania,NA,NA
+Bronchiectasis,J47,Bronchiectasis,Diagnosis of Bronchiectasis,NA,NA
+Bronchiectasis,Q33.4,Congenital bronchiectasis,Diagnosis of Bronchiectasis,NA,NA
+Carcinoma in situ_cervical,D06,Carcinoma in situ of cervix uteri,Diagnosis of Carcinoma in situ_cervical,NA,NA
+Carcinoma in situ_cervical,N87,Dysplasia of cervix uteri,Diagnosis of Carcinoma in situ_cervical,NA,NA
+Cerebral Palsy,G80,Cerebral palsy,Diagnosis of Cerebral palsy,NA,NA
+Cholelithiasis,K80,Cholelithiasis,Diagnosis of Cholelithiasis,NA,NA
+Chronic sinusitis,J32,Chronic sinusitis,Diagnosis of Chronic sinusitis,NA,NA
+Chronic ulcer of the skin,I830,Varicose veins of lower extremities with ulcer,NA,NA,NA
+Chronic ulcer of the skin,I832,Varicose veins of lower extremities with both ulcer and inflammation,NA,NA,NA
+Chronic ulcer of the skin,L89,Decubitus ulcer and pressure area,NA,NA,NA
+Chronic ulcer of the skin,L97,"Ulcer of lower limb, not elsewhere classified",NA,NA,NA
+Chronic ulcer of the skin,L984,"Chronic ulcer of skin, not elsewhere classified",NA,NA,NA
+Chronic viral hepatitis,B18,Chronic viral hepatitis,Diagnosis of Chronic viral hepatitis,NA,NA
+Coeliac disease,K90.0,Coeliac disease,Diagnosis of Coeliac disease,NA,NA
+Collapsed vertebra,M48.5,"Collapsed vertebra, not elsewhere classified",Diagnosis of Collapsed vertebra,NA,NA
+Collapsed vertebra,M49.5,Collapsed vertebra in diseases classified elsewhere,Diagnosis of Collapsed vertebra,NA,NA
+Collapsed vertebra,NA,NA,Procedure for Collapsed vertebra,V44,Decompression of fracture of spine
+Collapsed vertebra,NA,NA,Procedure for Collapsed vertebra,V44.1,Complex decompression of fracture of spine
+Collapsed vertebra,NA,NA,Procedure for Collapsed vertebra,V44.2,Anterior decompression of fracture of spine
+Collapsed vertebra,NA,NA,Procedure for Collapsed vertebra,V44.3,Posterior decompression of fracture of spine NEC
+Collapsed vertebra,NA,NA,Procedure for Collapsed vertebra,V44.4,Vertebroplasty of fracture of spine
+Collapsed vertebra,NA,NA,Procedure for Collapsed vertebra,V44.5,Balloon kyphoplasty of fracture of spine
+Collapsed vertebra,NA,NA,Procedure for Collapsed vertebra,V44.8,Other specified decompression of fracture of spine
+Collapsed vertebra,NA,NA,Procedure for Collapsed vertebra,V44.9,Unspecified decompression of fracture of spine
+Congenital malformations of cardiac septa,Q21,Congenital malformations of cardiac septa,Diagnosis of Congenital malformations of cardiac septa,NA,NA
+Congenital malformations of cardiac septa,NA,NA,Procedure for Congenital malformations of cardiac septa,K04,Repair of tetralogy of Fallot
+Congenital malformations of cardiac septa,NA,NA,Procedure for Congenital malformations of cardiac septa,K04.1,Repair of tetralogy of Fallot using valved right ventricular outflow conduit
+Congenital malformations of cardiac septa,NA,NA,Procedure for Congenital malformations of cardiac septa,K04.2,Repair of tetralogy of Fallot using right ventricular outflow conduit NEC
+Congenital malformations of cardiac septa,NA,NA,Procedure for Congenital malformations of cardiac septa,K04.3,Repair of tetralogy of Fallot using transannular patch
+Congenital malformations of cardiac septa,NA,NA,Procedure for Congenital malformations of cardiac septa,K04.4,Revision of repair of tetralogy of Fallot
+Congenital malformations of cardiac septa,NA,NA,Procedure for Congenital malformations of cardiac septa,K04.5,Repair of tetralogy of Fallot with absent pulmonary valve
+Congenital malformations of cardiac septa,NA,NA,Procedure for Congenital malformations of cardiac septa,K04.6,Repair of Fallot-type pulmonary atresia with aortopulmonary collaterals
+Congenital malformations of cardiac septa,NA,NA,Procedure for Congenital malformations of cardiac septa,K04.8,Other specified repair of tetralogy of Fallot
+Congenital malformations of cardiac septa,NA,NA,Procedure for Congenital malformations of cardiac septa,K04.9,Unspecified repair of tetralogy of Fallot
+Congenital malformations of cardiac septa,NA,NA,Procedure for Congenital malformations of cardiac septa,K09,Repair of defect of atrioventricular septum
+Congenital malformations of cardiac septa,NA,NA,Procedure for Congenital malformations of cardiac septa,K09.1,Repair of defect of atrioventricular septum using dual prosthetic patches
+Congenital malformations of cardiac septa,NA,NA,Procedure for Congenital malformations of cardiac septa,K09.2,Repair of defect of atrioventricular septum using prosthetic patch NEC
+Congenital malformations of cardiac septa,NA,NA,Procedure for Congenital malformations of cardiac septa,K09.3,Repair of defect of atrioventricular septum using tissue graft
+Congenital malformations of cardiac septa,NA,NA,Procedure for Congenital malformations of cardiac septa,K09.4,Repair of persistent ostium primum
+Congenital malformations of cardiac septa,NA,NA,Procedure for Congenital malformations of cardiac septa,K09.5,Primary repair of defect of atrioventricular septum NEC
+Congenital malformations of cardiac septa,NA,NA,Procedure for Congenital malformations of cardiac septa,K09.6,Revision of repair of defect of atrioventricular septum
+Congenital malformations of cardiac septa,NA,NA,Procedure for Congenital malformations of cardiac septa,K09.8,Other specified repair of defect of atrioventricular septum
+Congenital malformations of cardiac septa,NA,NA,Procedure for Congenital malformations of cardiac septa,K09.9,Unspecified repair of defect of atrioventricular septum
+Congenital malformations of cardiac septa,NA,NA,Procedure for Congenital malformations of cardiac septa,K10,Repair of defect of interatrial septum
+Congenital malformations of cardiac septa,NA,NA,Procedure for Congenital malformations of cardiac septa,K10.1,Repair of defect of interatrial septum using prosthetic patch
+Congenital malformations of cardiac septa,NA,NA,Procedure for Congenital malformations of cardiac septa,K10.2,Repair of defect of interatrial septum using pericardial patch
+Congenital malformations of cardiac septa,NA,NA,Procedure for Congenital malformations of cardiac septa,K10.3,Repair of defect of interatrial septum using tissue graft NEC
+Congenital malformations of cardiac septa,NA,NA,Procedure for Congenital malformations of cardiac septa,K10.4,Primary repair of defect of interatrial septum NEC
+Congenital malformations of cardiac septa,NA,NA,Procedure for Congenital malformations of cardiac septa,K10.5,Revision of repair of defect of interatrial septum
+Congenital malformations of cardiac septa,NA,NA,Procedure for Congenital malformations of cardiac septa,K10.8,Other specified repair of defect of interatrial septum
+Congenital malformations of cardiac septa,NA,NA,Procedure for Congenital malformations of cardiac septa,K10.9,Unspecified repair of defect of interatrial septum
+Congenital malformations of cardiac septa,NA,NA,Procedure for Congenital malformations of cardiac septa,K11,Repair of defect of interventricular septum
+Congenital malformations of cardiac septa,NA,NA,Procedure for Congenital malformations of cardiac septa,K11.1,Repair of defect of interventricular septum using prosthetic patch
+Congenital malformations of cardiac septa,NA,NA,Procedure for Congenital malformations of cardiac septa,K11.2,Repair of defect of interventricular septum using pericardial patch
+Congenital malformations of cardiac septa,NA,NA,Procedure for Congenital malformations of cardiac septa,K11.3,Repair of defect of interventricular septum using tissue graft NEC
+Congenital malformations of cardiac septa,NA,NA,Procedure for Congenital malformations of cardiac septa,K11.4,Primary repair of defect of interventricular septum NEC
+Congenital malformations of cardiac septa,NA,NA,Procedure for Congenital malformations of cardiac septa,K11.5,Revision of repair of defect of interventricular septum
+Congenital malformations of cardiac septa,NA,NA,Procedure for Congenital malformations of cardiac septa,K11.6,Repair of multiple interventricular septal defects
+Congenital malformations of cardiac septa,NA,NA,Procedure for Congenital malformations of cardiac septa,K11.7,Repair of interventricular septal defect using intraoperative transluminal prosthesis
+Congenital malformations of cardiac septa,NA,NA,Procedure for Congenital malformations of cardiac septa,K11.8,Other specified repair of defect of interventricular septum
+Congenital malformations of cardiac septa,NA,NA,Procedure for Congenital malformations of cardiac septa,K11.9,Unspecified repair of defect of interventricular septum
+Congenital malformations of cardiac septa,NA,NA,Procedure for Congenital malformations of cardiac septa,K12,Repair of defect of unspecified septum of heart
+Congenital malformations of cardiac septa,NA,NA,Procedure for Congenital malformations of cardiac septa,K12.1,Repair of defect of septum of heart using prosthetic patch NEC
+Congenital malformations of cardiac septa,NA,NA,Procedure for Congenital malformations of cardiac septa,K12.2,Repair of defect of septum of heart using pericardial patch NEC
+Congenital malformations of cardiac septa,NA,NA,Procedure for Congenital malformations of cardiac septa,K12.3,Repair of defect of septum of heart using tissue graft NEC
+Congenital malformations of cardiac septa,NA,NA,Procedure for Congenital malformations of cardiac septa,K12.4,Primary repair of defect of septum of heart NEC
+Congenital malformations of cardiac septa,NA,NA,Procedure for Congenital malformations of cardiac septa,K12.5,Revision of repair of septum of heart NEC
+Congenital malformations of cardiac septa,NA,NA,Procedure for Congenital malformations of cardiac septa,K12.8,Other specified repair of defect of unspecified septum of heart
+Congenital malformations of cardiac septa,NA,NA,Procedure for Congenital malformations of cardiac septa,K12.9,Unspecified repair of defect of unspecified septum of heart
+Congenital malformations of cardiac septa,NA,NA,Procedure for Congenital malformations of cardiac septa,K13,Transluminal repair of defect of septum
+Congenital malformations of cardiac septa,NA,NA,Procedure for Congenital malformations of cardiac septa,K13.1,Percutaneous transluminal repair of defect of interventricular septum using prosthesis
+Congenital malformations of cardiac septa,NA,NA,Procedure for Congenital malformations of cardiac septa,K13.2,Percutaneous transluminal repair of defect of interventricular septum NEC
+Congenital malformations of cardiac septa,NA,NA,Procedure for Congenital malformations of cardiac septa,K13.3,Percutaneous transluminal repair of defect of interatrial septum using prosthesis
+Congenital malformations of cardiac septa,NA,NA,Procedure for Congenital malformations of cardiac septa,K13.4,Percutaneous transluminal repair of defect of interatrial septum NEC
+Congenital malformations of cardiac septa,NA,NA,Procedure for Congenital malformations of cardiac septa,K13.5,Percutaneous transluminal repair of defect of unspecified septum using prosthesis
+Congenital malformations of cardiac septa,NA,NA,Procedure for Congenital malformations of cardiac septa,K13.8,Other specified transluminal repair of defect of septum
+Congenital malformations of cardiac septa,NA,NA,Procedure for Congenital malformations of cardiac septa,K13.9,Unspecified transluminal repair of defect of septum
+Congenital malformations of cardiac septa,NA,NA,Procedure for Congenital malformations of cardiac septa,K14,Other open operations on septum of heart
+Congenital malformations of cardiac septa,NA,NA,Procedure for Congenital malformations of cardiac septa,K14.1,Open enlargement of defect of atrial septum
+Congenital malformations of cardiac septa,NA,NA,Procedure for Congenital malformations of cardiac septa,K14.2,Open atrial septostomy
+Congenital malformations of cardiac septa,NA,NA,Procedure for Congenital malformations of cardiac septa,K14.3,Atrial septectomy
+Congenital malformations of cardiac septa,NA,NA,Procedure for Congenital malformations of cardiac septa,K14.4,Surgical atrial septation
+Congenital malformations of cardiac septa,NA,NA,Procedure for Congenital malformations of cardiac septa,K14.5,Open enlargement of defect of interventricular septum
+Congenital malformations of cardiac septa,NA,NA,Procedure for Congenital malformations of cardiac septa,K14.8,Other specified other open operations on septum of heart
+Congenital malformations of cardiac septa,NA,NA,Procedure for Congenital malformations of cardiac septa,K14.9,Unspecified other open operations on septum of heart
+Congenital malformations of cardiac septa,NA,NA,Procedure for Congenital malformations of cardiac septa,K15,Closed operations on septum of heart
+Congenital malformations of cardiac septa,NA,NA,Procedure for Congenital malformations of cardiac septa,K15.1,Closed enlargement of defect of atrial septum
+Congenital malformations of cardiac septa,NA,NA,Procedure for Congenital malformations of cardiac septa,K15.2,Closed atrial septostomy
+Congenital malformations of cardiac septa,NA,NA,Procedure for Congenital malformations of cardiac septa,K15.8,Other specified closed operations on septum of heart
+Congenital malformations of cardiac septa,NA,NA,Procedure for Congenital malformations of cardiac septa,K15.9,Unspecified closed operations on septum of heart
+Congenital malformations of cardiac septa,NA,NA,Procedure for Congenital malformations of cardiac septa,K16,Other therapeutic transluminal operations on septum of heart
+Congenital malformations of cardiac septa,NA,NA,Procedure for Congenital malformations of cardiac septa,K16.1,Percutaneous transluminal balloon atrial septostomy
+Congenital malformations of cardiac septa,NA,NA,Procedure for Congenital malformations of cardiac septa,K16.2,Percutaneous transluminal atrial septostomy NEC
+Congenital malformations of cardiac septa,NA,NA,Procedure for Congenital malformations of cardiac septa,K16.3,Percutaneous transluminal atrial septum fenestration closure with prosthesis
+Congenital malformations of cardiac septa,NA,NA,Procedure for Congenital malformations of cardiac septa,K16.4,Percutaneous transluminal atrial septum fenestration
+Congenital malformations of cardiac septa,NA,NA,Procedure for Congenital malformations of cardiac septa,K16.5,Percutaneous transluminal closure of patent oval foramen with prosthesis
+Congenital malformations of cardiac septa,NA,NA,Procedure for Congenital malformations of cardiac septa,K16.6,Percutaneous transluminal chemical mediated septal ablation
+Congenital malformations of cardiac septa,NA,NA,Procedure for Congenital malformations of cardiac septa,K16.8,Other specified other therapeutic transluminal operations on septum of heart
+Congenital malformations of cardiac septa,NA,NA,Procedure for Congenital malformations of cardiac septa,K16.9,Unspecified other therapeutic transluminal operations on septum of heart
+COPD,J40,"Bronchitis, not specified as acute or chronic",Diagnosis of COPD,NA,NA
+COPD,J41,Simple and mucopurulent chronic bronchitis,Diagnosis of COPD,NA,NA
+COPD,J42,Unspecified chronic bronchitis,Diagnosis of COPD,NA,NA
+COPD,J43,Emphysema,Diagnosis of COPD,NA,NA
+COPD,J44,Other chronic obstructive pulmonary disease,Diagnosis of COPD,NA,NA
+Coronary heart disease not otherwise specified,I250,"Atherosclerotic cardiovascular disease, so described",Diagnosed,NA,NA
+Coronary heart disease not otherwise specified,I251,Atherosclerotic heart disease,Diagnosed,NA,NA
+Coronary heart disease not otherwise specified,I253,Aneurysm of heart,Diagnosed,NA,NA
+Coronary heart disease not otherwise specified,I254,Coronary artery aneurysm,Diagnosed,NA,NA
+Coronary heart disease not otherwise specified,I255,Ischaemic cardiomyopathy,Diagnosed,NA,NA
+Coronary heart disease not otherwise specified,I256,Silent myocardial ischaemia,Diagnosed,NA,NA
+Coronary heart disease not otherwise specified,I258,Other forms of chronic ischaemic heart disease,Diagnosed,NA,NA
+Coronary heart disease not otherwise specified,I259,"Chronic ischaemic heart disease, unspecified",Diagnosed,NA,NA
+Crohn's disease,K50,Crohn's disease [regional enteritis],Diagnosis of Crohn's disease,NA,NA
+Cystic Fibrosis,E84,Cystic fibrosis,Diagnosis of Cystic fibrosis,NA,NA
+Dementia,F00,Dementia in Alzheimer's disease,Diagnosis of Dementia,NA,NA
+Dementia,F01,Vascular dementia,Diagnosis of Dementia,NA,NA
+Dementia,F03,Unspecified dementia,Diagnosis of Dementia,NA,NA
+Dementia,F05.1,Delirium superimposed on dementia,Diagnosis of Dementia,NA,NA
+Dementia,G30,Alzheimer's disease,Diagnosis of Dementia,NA,NA
+Depression,F32,Depressive episode,Diagnosis of Depression,NA,NA
+Depression,F33,Recurrent depressive disorder,Diagnosis of Depression,NA,NA
+Dermatitis (atopc/contact/other/unspecified),L20,Atopic dermatitis,Diagnosis of Dermatitis (atopc/contact/other/unspecified),NA,NA
+Dermatitis (atopc/contact/other/unspecified),L23,Allergic contact dermatitis,Diagnosis of Dermatitis (atopc/contact/other/unspecified),NA,NA
+Dermatitis (atopc/contact/other/unspecified),L24,Irritant contact dermatitis,Diagnosis of Dermatitis (atopc/contact/other/unspecified),NA,NA
+Dermatitis (atopc/contact/other/unspecified),L25,Unspecified contact dermatitis,Diagnosis of Dermatitis (atopc/contact/other/unspecified),NA,NA
+Dermatitis (atopc/contact/other/unspecified),L27,Dermatitis due to substances taken internally,Diagnosis of Dermatitis (atopc/contact/other/unspecified),NA,NA
+Dermatitis (atopc/contact/other/unspecified),L26,Exfoliative dermatitis,Diagnosis of Dermatitis (atopc/contact/other/unspecified),NA,NA
+Dermatitis (atopc/contact/other/unspecified),L28,Lichen simplex chronicus and prurigo,Diagnosis of Dermatitis (atopc/contact/other/unspecified),NA,NA
+Dermatitis (atopc/contact/other/unspecified),L30.0,Nummular dermatitis,Diagnosis of Dermatitis (atopc/contact/other/unspecified),NA,NA
+Dermatitis (atopc/contact/other/unspecified),L30.1,Dyshidrosis [pompholyx],Diagnosis of Dermatitis (atopc/contact/other/unspecified),NA,NA
+Dermatitis (atopc/contact/other/unspecified),L30.2,Cutaneous autosensitization,Diagnosis of Dermatitis (atopc/contact/other/unspecified),NA,NA
+Dermatitis (atopc/contact/other/unspecified),L30.5,Pityriasis alba,Diagnosis of Dermatitis (atopc/contact/other/unspecified),NA,NA
+Dermatitis (atopc/contact/other/unspecified),L30.8,Other specified dermatitis,Diagnosis of Dermatitis (atopc/contact/other/unspecified),NA,NA
+Dermatitis (atopc/contact/other/unspecified),L30.9,"Dermatitis, unspecified",Diagnosis of Dermatitis (atopc/contact/other/unspecified),NA,NA
+Diabetes,E10,Insulin-dependent diabetes mellitus,Insulin dependent diabetes (3),NA,NA
+Diabetes,E11,Non-insulin-dependent diabetes mellitus,Non insulin dependent diabetes (4),NA,NA
+Diabetes,E12,Malnutrition-related diabetes mellitus,Secondary diabetes (5),NA,NA
+Diabetes,O242,Diabetes mellitus in pregnancy: Pre-existing malnutrition-related diabetes mellitus,Secondary diabetes (5),NA,NA
+Diabetes,E13,Other specified diabetes mellitus,Diabetes not otherwise specified (6),NA,NA
+Diabetes,E14,Unspecified diabetes mellitus,Diabetes not otherwise specified (6),NA,NA
+Diabetes,G590,Diabetic mononeuropathy,Diabetes not otherwise specified (6),NA,NA
+Diabetes,G632,Diabetic polyneuropathy,Diabetes not otherwise specified (6),NA,NA
+Diabetes,H280,Diabetic cataract,Diabetes not otherwise specified (6),NA,NA
+Diabetes,H360,Diabetic retinopathy,Diabetes not otherwise specified (6),NA,NA
+Diabetes,M142,Diabetic arthropathy,Diabetes not otherwise specified (6),NA,NA
+Diabetes,N083,Glomerular disorders in diabetes mellitus,Diabetes not otherwise specified (6),NA,NA
+Diabetes,O240,"Diabetes mellitus in pregnancy: Pre-existing diabetes mellitus, insulin-dependent",Diabetes not otherwise specified (6),NA,NA
+Diabetes,O241,"Diabetes mellitus in pregnancy: Pre-existing diabetes mellitus, non-insulin-dependent",Diabetes not otherwise specified (6),NA,NA
+Diabetes,O243,"Diabetes mellitus in pregnancy: Pre-existing diabetes mellitus, unspecified",Diabetes not otherwise specified (6),NA,NA
+Diabetic neurological complications,E10.4,Insulin-dependent diabetes mellitus - With neurological complications,Diagnosis of diabetic neurological complications,NA,NA
+Diabetic neurological complications,E11.4,Non-insulin-dependent diabetes mellitus - With neurological complications,Diagnosis of diabetic neurological complications,NA,NA
+Diabetic neurological complications,E12.4,Malnutrition-related diabetes mellitus - With neurological complications,Diagnosis of diabetic neurological complications,NA,NA
+Diabetic neurological complications,E13.4,Other specified diabetes mellitus - With neurological complications,Diagnosis of diabetic neurological complications,NA,NA
+Diabetic neurological complications,E14.4,Unspecified diabetes mellitus - With neurological complications,Diagnosis of diabetic neurological complications,NA,NA
+Diabetic neurological complications,G59.0,Diabetic mononeuropathy,Diagnosis of diabetic neurological complications,NA,NA
+Diabetic neurological complications,G63.2,Diabetic polyneuropathy,Diagnosis of diabetic neurological complications,NA,NA
+Diabetic ophthalmic complications,H35.0,Background retinopathy and retinal vascular changes,Diagnosis of diabetic ophthalmic complications,NA,NA
+Diabetic ophthalmic complications,H35.2,Other proliferative retinopathy,Diagnosis of diabetic ophthalmic complications,NA,NA
+Diabetic ophthalmic complications,E10.3,Insulin-dependent diabetes mellitus - With ophthalmic complications,Diagnosis of diabetic ophthalmic complications,NA,NA
+Diabetic ophthalmic complications,E11.3,Non-insulin-dependent diabetes mellitus - With ophthalmic complications,Diagnosis of diabetic ophthalmic complications,NA,NA
+Diabetic ophthalmic complications,E12.3,Malnutrition-related diabetes mellitus - With ophthalmic complications,Diagnosis of diabetic ophthalmic complications,NA,NA
+Diabetic ophthalmic complications,E13.3,Other specified diabetes mellitus - With ophthalmic complications,Diagnosis of diabetic ophthalmic complications,NA,NA
+Diabetic ophthalmic complications,E14.3,Unspecified diabetes mellitus - With ophthalmic complications,Diagnosis of diabetic ophthalmic complications,NA,NA
+Diabetic ophthalmic complications,H28.0,Diabetic cataract,Diagnosis of diabetic ophthalmic complications,NA,NA
+Diabetic ophthalmic complications,H36.0,Diabetic retinopathy,Diagnosis of diabetic ophthalmic complications,NA,NA
+Dilated cardiomyopathy,I42.0,Dilated cardiomyopathy,Diagnosis of Dilated cardiomyopathy,NA,NA
+Dilated cardiomyopathy,I42.6,Alcoholic cardiomyopathy,Diagnosis of Dilated cardiomyopathy,NA,NA
+Disorders of autonomic nervous system,G90,Disorders of autonomic nervous system,Diagnosis of autonomic neuropathy,NA,NA
+Disorders of autonomic nervous system,G99.0,Autonomic neuropathy in endocrine and metabolic diseases,Diagnosis of autonomic neuropathy,NA,NA
+Disorders of autonomic nervous system,G99.1,Other disorders of autonomic nervous system in other diseases classified elsewhere,Diagnosis of autonomic neuropathy,NA,NA
+Disorders of autonomic nervous system,M89.0,Algoneurodystrophy,Diagnosis of autonomic neuropathy,NA,NA
+Diverticular disease of intestine (acute and chronic),K38.2,Diverticulum of appendix,Diagnosis of Diverticular disease of intestine (acute and chronic),NA,NA
+Diverticular disease of intestine (acute and chronic),K57,Diverticular disease of intestine,Diagnosis of Diverticular disease of intestine (acute and chronic),NA,NA
+Diverticular disease of intestine (acute and chronic),NA,NA,Procedure for Diverticular disease of intestine (acute and chronic),H12.1,Excision of diverticulum of colon
+Down's syndrome,Q90,Down's syndrome,Diagnosis of Down's syndrome,NA,NA
+Dysmenorrhoea,N94.4,Primary dysmenorrhoea,Diagnosis of Dysmenorrhoea,NA,NA
+Dysmenorrhoea,N94.5,Secondary dysmenorrhoea,Diagnosis of Dysmenorrhoea,NA,NA
+Dysmenorrhoea,N94.6,"Dysmenorrhoea, unspecified",Diagnosis of Dysmenorrhoea,NA,NA
+End stage renal disease,N18.5,"Chronic kidney disease, stage 5",Diagnosis of End stage renal disease,NA,NA
+End stage renal disease,T82.4,Mechanical complication of vascular dialysis catheter,Procedure for End stage renal disease,NA,NA
+End stage renal disease,Y60.2,During kidney dialysis or other perfusion,Procedure for End stage renal disease,NA,NA
+End stage renal disease,Y61.2,During kidney dialysis or other perfusion,Procedure for End stage renal disease,NA,NA
+End stage renal disease,Y84.1,Kidney dialysis,Procedure for End stage renal disease,NA,NA
+End stage renal disease,Z49.1,Extracorporeal dialysis,Procedure for End stage renal disease,NA,NA
+End stage renal disease,Z49.2,Other dialysis,Procedure for End stage renal disease,NA,NA
+End stage renal disease,Z99.2,Dependence on renal dialysis,Procedure for End stage renal disease,NA,NA
+End stage renal disease,N16.5,Renal tubulo-interstitial disorders in transplant rejection,Procedure for End stage renal disease,NA,NA
+End stage renal disease,T86.1,Kidney transplant failure and rejection,Procedure for End stage renal disease,NA,NA
+End stage renal disease,Z94.0,Kidney transplant status,Procedure for End stage renal disease,NA,NA
+End stage renal disease,NA,NA,Procedure for End stage renal disease,L74.6,Creation of graft fistula for dialysis
+End stage renal disease,NA,NA,Procedure for End stage renal disease,M01.1,Autotransplantation of kidney
+End stage renal disease,NA,NA,Procedure for End stage renal disease,M01.2,Allotransplantation of kidney from live donor
+End stage renal disease,NA,NA,Procedure for End stage renal disease,M01.3,Allotransplantation of kidney from cadaver NEC
+End stage renal disease,NA,NA,Procedure for End stage renal disease,M01.4,Allotransplantation of kidney from cadaver heart beating
+End stage renal disease,NA,NA,Procedure for End stage renal disease,M01.5,Allotransplantation of kidney from cadaver heart non-beating
+End stage renal disease,NA,NA,Procedure for End stage renal disease,M01.8,Other specified transplantation of kidney
+End stage renal disease,NA,NA,Procedure for End stage renal disease,M01.9,Unspecified transplantation of kidney
+End stage renal disease,NA,NA,Procedure for End stage renal disease,M02.6,Excision of rejected transplanted kidney
+End stage renal disease,NA,NA,Procedure for End stage renal disease,M02.7,Excision of transplanted kidney NEC
+End stage renal disease,NA,NA,Procedure for End stage renal disease,M08.4,Exploration of transplanted kidney
+End stage renal disease,NA,NA,Procedure for End stage renal disease,M17.2,Pre-transplantation of kidney work-up - recipient
+End stage renal disease,NA,NA,Procedure for End stage renal disease,M17.4,Post-transplantation of kidney examination - recipient
+End stage renal disease,NA,NA,Procedure for End stage renal disease,M17.8,Other specified interventions associated with transplantation of kidney
+End stage renal disease,NA,NA,Procedure for End stage renal disease,M17.9,Unspecified interventions associated with transplantation of kidney
+End stage renal disease,NA,NA,Procedure for End stage renal disease,X40.1,Renal dialysis
+End stage renal disease,NA,NA,Procedure for End stage renal disease,X40.2,Peritoneal dialysis NEC
+End stage renal disease,NA,NA,Procedure for End stage renal disease,X40.3,Haemodialysis NEC
+End stage renal disease,NA,NA,Procedure for End stage renal disease,X40.5,Automated peritoneal dialysis
+End stage renal disease,NA,NA,Procedure for End stage renal disease,X40.6,Continuous ambulatory peritoneal dialysis
+End stage renal disease,NA,NA,Procedure for End stage renal disease,X41.1,Insertion of ambulatory peritoneal dialysis catheter
+End stage renal disease,NA,NA,Procedure for End stage renal disease,X41.2,Removal of ambulatory peritoneal dialysis catheter
+End stage renal disease,NA,NA,Procedure for End stage renal disease,X42.1,Insertion of temporary peritoneal dialysis catheter
+Endometriosis,N80,Endometriosis,Diagnosis of Endometriosis,NA,NA
+Enteropathic arthropathy,M07.4,Arthropathy in Crohn's disease [regional enteritis],Diagnosis of Enteropathic arthropathy,NA,NA
+Enteropathic arthropathy,M07.5,Arthropathy in ulcerative colitis,Diagnosis of Enteropathic arthropathy,NA,NA
+Enteropathic arthropathy,M07.6,Other enteropathic arthropathies,Diagnosis of Enteropathic arthropathy,NA,NA
+Enthesopathies & synovial disorders,M46.0,Spinal enthesopathy,Diagnosis of Enthesopathies & synovial disorders,NA,NA
+Enthesopathies & synovial disorders,M65.2,Calcific tendinitis,Diagnosis of Enthesopathies & synovial disorders,NA,NA
+Enthesopathies & synovial disorders,M65.3,Trigger finger,Diagnosis of Enthesopathies & synovial disorders,NA,NA
+Enthesopathies & synovial disorders,M65.4,Radial styloid tenosynovitis [de Quervain],Diagnosis of Enthesopathies & synovial disorders,NA,NA
+Enthesopathies & synovial disorders,M65.8,Other synovitis and tenosynovitis,Diagnosis of Enthesopathies & synovial disorders,NA,NA
+Enthesopathies & synovial disorders,M65.9,"Synovitis and tenosynovitis, unspecified",Diagnosis of Enthesopathies & synovial disorders,NA,NA
+Enthesopathies & synovial disorders,M66,Spontaneous rupture of synovium and tendon,Diagnosis of Enthesopathies & synovial disorders,NA,NA
+Enthesopathies & synovial disorders,M70,"Soft tissue disorders related to use, overuse and pressure",Diagnosis of Enthesopathies & synovial disorders,NA,NA
+Enthesopathies & synovial disorders,M71.2,Synovial cyst of popliteal space [Baker],Diagnosis of Enthesopathies & synovial disorders,NA,NA
+Enthesopathies & synovial disorders,M71.3,Other bursal cyst,Diagnosis of Enthesopathies & synovial disorders,NA,NA
+Enthesopathies & synovial disorders,M71.4,Calcium deposit in bursa,Diagnosis of Enthesopathies & synovial disorders,NA,NA
+Enthesopathies & synovial disorders,M71.5,"Other bursitis, not elsewhere classified",Diagnosis of Enthesopathies & synovial disorders,NA,NA
+Enthesopathies & synovial disorders,M71.8,Other specified bursopathies,Diagnosis of Enthesopathies & synovial disorders,NA,NA
+Enthesopathies & synovial disorders,M71.9,"Bursopathy, unspecified",Diagnosis of Enthesopathies & synovial disorders,NA,NA
+Enthesopathies & synovial disorders,M75,Shoulder lesions,Diagnosis of Enthesopathies & synovial disorders,NA,NA
+Enthesopathies & synovial disorders,M76,"Enthesopathies of lower limb, excluding foot",Diagnosis of Enthesopathies & synovial disorders,NA,NA
+Enthesopathies & synovial disorders,M77.0,Medial epicondylitis,Diagnosis of Enthesopathies & synovial disorders,NA,NA
+Enthesopathies & synovial disorders,M77.1,Lateral epicondylitis,Diagnosis of Enthesopathies & synovial disorders,NA,NA
+Enthesopathies & synovial disorders,M77.2,Periarthritis of wrist,Diagnosis of Enthesopathies & synovial disorders,NA,NA
+Enthesopathies & synovial disorders,M77.3,Calcaneal spur,Diagnosis of Enthesopathies & synovial disorders,NA,NA
+Enthesopathies & synovial disorders,M77.5,Other enthesopathy of foot,Diagnosis of Enthesopathies & synovial disorders,NA,NA
+Enthesopathies & synovial disorders,M77.8,"Other enthesopathies, not elsewhere classified",Diagnosis of Enthesopathies & synovial disorders,NA,NA
+Enthesopathies & synovial disorders,M77.9,"Enthesopathy, unspecified",Diagnosis of Enthesopathies & synovial disorders,NA,NA
+Epilepsy,G40,Epilepsy,History of Epilepsy,NA,NA
+Epilepsy,G41,Status epilepticus,History of Epilepsy,NA,NA
+Erectile dysfunction,F52.2,Failure of genital response,Possible diagnosis of erectile dysfunction,NA,NA
+Erectile dysfunction,N48.4,Impotence of organic origin,Diagnosis of erectile dysfunction,NA,NA
+Female genital prolapse,N81,Female genital prolapse,Diagnosis of Female genital prolapse,NA,NA
+Female infertility,N97,Female infertility,Diagnosis of Female Infertility,NA,NA
+Folate deficiency anaemia,D52,Folate deficiency anaemia,Diagnosis of Folate deficiency anaemia,NA,NA
+Fracture of hip,S72.0,Fracture of neck of femur,Diagnosis of Fracture of hip,NA,NA
+Fracture of hip,S72.1,Pertrochanteric fracture,Diagnosis of Fracture of hip,NA,NA
+Fracture of hip,S72.2,Subtrochanteric fracture,Diagnosis of Fracture of hip,NA,NA
+Fracture of hip,NA,NA,Procedure for Fracture of the hip,W19.1,Primary open reduction of fracture of neck of femur and open fixation using pin and plate
+Fracture of hip,NA,NA,Procedure for Fracture of the hip,W24.1,Closed reduction of intracapsular fracture of neck of femur and fixation using nail or screw
+Fracture of hip,NA,NA,Procedure for Fracture of the hip,O17.1,Remanipulation of intracapsular fracture of neck of femur and fixation using nail or screw
+Gastritis and duodenitis,K29,Gastritis and duodenitis,Diagnosis of Gastritis and duodenitis,NA,NA
+Gastro-oesophageal reflux disease,K21,Gastro-oesophageal reflux disease,Diagnosis of Gastro-oesophageal reflux disease,NA,NA
+Gastro-oesophageal reflux disease,NA,NA,Procedure for Gastro-oesophageal reflux disease,G24,Antireflux operations
+Gastro-oesophageal reflux disease,NA,NA,Procedure for Gastro-oesophageal reflux disease,G24.1,Antireflux fundoplication using thoracic approach
+Gastro-oesophageal reflux disease,NA,NA,Procedure for Gastro-oesophageal reflux disease,G24.2,Antireflux operation using thoracic approach NEC
+Gastro-oesophageal reflux disease,NA,NA,Procedure for Gastro-oesophageal reflux disease,G24.3,Antireflux fundoplication using abdominal approach
+Gastro-oesophageal reflux disease,NA,NA,Procedure for Gastro-oesophageal reflux disease,G24.4,Antireflux gastropexy
+Gastro-oesophageal reflux disease,NA,NA,Procedure for Gastro-oesophageal reflux disease,G24.5,Gastroplasty and antireflux procedure HFQ
+Gastro-oesophageal reflux disease,NA,NA,Procedure for Gastro-oesophageal reflux disease,G24.6,Insertion of Angelchick prosthesis
+Gastro-oesophageal reflux disease,NA,NA,Procedure for Gastro-oesophageal reflux disease,G24.8,Other specified antireflux operations
+Gastro-oesophageal reflux disease,NA,NA,Procedure for Gastro-oesophageal reflux disease,G24.9,Unspecified antireflux operations
+Gastro-oesophageal reflux disease,NA,NA,Procedure for Gastro-oesophageal reflux disease,G25,Revision of antireflux operations
+Gastro-oesophageal reflux disease,NA,NA,Procedure for Gastro-oesophageal reflux disease,G25.1,Revision of fundoplication of stomach
+Gastro-oesophageal reflux disease,NA,NA,Procedure for Gastro-oesophageal reflux disease,G25.2,Adjustment to Angelchick prosthesis
+Gastro-oesophageal reflux disease,NA,NA,Procedure for Gastro-oesophageal reflux disease,G25.3,Removal of Angelchick prosthesis
+Gastro-oesophageal reflux disease,NA,NA,Procedure for Gastro-oesophageal reflux disease,G25.8,Other specified revision of antireflux operations
+Gastro-oesophageal reflux disease,NA,NA,Procedure for Gastro-oesophageal reflux disease,G25.9,Unspecified revision of antireflux operations
+Giant Cell arteritis,M31.5,Giant cell arteritis with polymyalgia rheumatica,Diagnosis of Giant Cell arteritis,NA,NA
+Giant Cell arteritis,M31.6,Other giant cell arteritis,Diagnosis of Giant Cell arteritis,NA,NA
+Glaucoma,H40.1,Primary open-angle glaucoma,Diagnosis of Glaucoma,NA,NA
+Glaucoma,H40.2,Primary angle-closure glaucoma,Diagnosis of Glaucoma,NA,NA
+Glaucoma,H40.9,"Glaucoma, unspecified",Diagnosis of Glaucoma,NA,NA
+Glaucoma,NA,NA,Procedure for glaucoma,C60.1,Trabeculectomy
+Glaucoma,NA,NA,Procedure for glaucoma,C60.2,Inclusion of iris
+Glaucoma,NA,NA,Procedure for glaucoma,C60.3,Fixation of iris
+Glaucoma,NA,NA,Procedure for glaucoma,C60.4,Iridoplasty NEC
+Glaucoma,NA,NA,Procedure for glaucoma,C60.5,Insertion of tube into anterior chamber of eye to assist drainage of aqueous humour
+Glaucoma,NA,NA,Procedure for glaucoma,C60.6,Viscocanulostomy
+Glaucoma,NA,NA,Procedure for glaucoma,C60.8,Other specified filtering operations on iris
+Glaucoma,NA,NA,Procedure for glaucoma,C60.9,Unspecified filtering operations on iris
+Glaucoma,NA,NA,Procedure for glaucoma,C61.1,Laser trabeculoplasty
+Glaucoma,NA,NA,Procedure for glaucoma,C61.2,Trabeculotomy
+Glaucoma,NA,NA,Procedure for glaucoma,C61.3,Goniotomy
+Glaucoma,NA,NA,Procedure for glaucoma,C61.4,Goniopuncture
+Glaucoma,NA,NA,Procedure for glaucoma,C61.5,Viscogonioplasty
+Glaucoma,NA,NA,Procedure for glaucoma,C61.8,Other specified other operations on trabecular meshwork of eye
+Glaucoma,NA,NA,Procedure for glaucoma,C61.9,Unspecified other operations on trabecular meshwork of eye
+Glaucoma,NA,NA,Procedure for glaucoma,C62.1,Iridosclerotomy
+Glaucoma,NA,NA,Procedure for glaucoma,C62.2,Surgical iridotomy
+Glaucoma,NA,NA,Procedure for glaucoma,C62.3,Laser iridotomy
+Glaucoma,NA,NA,Procedure for glaucoma,C62.4,Correction iridodialysis NEC
+Glaucoma,NA,NA,Procedure for glaucoma,C62.8,Other specified incision of iris
+Glaucoma,NA,NA,Procedure for glaucoma,C62.9,Unspecified incision of iris
+Glomerulonephritis,N00.0,Acute nephritic syndrome - Minor glomerular abnormality,Diagnosis of Glomerulonephritis,NA,NA
+Glomerulonephritis,N00.1,Acute nephritic syndrome - Focal and segmental glomerular lesions,Diagnosis of Glomerulonephritis,NA,NA
+Glomerulonephritis,N00.2,Acute nephritic syndrome - Diffuse membranous glomerulonephritis,Diagnosis of Glomerulonephritis,NA,NA
+Glomerulonephritis,N00.3,Acute nephritic syndrome - Diffuse mesangial proliferative glomerulonephritis,Diagnosis of Glomerulonephritis,NA,NA
+Glomerulonephritis,N00.4,Acute nephritic syndrome - Diffuse endocapillary proliferative glomerulonephritis,Diagnosis of Glomerulonephritis,NA,NA
+Glomerulonephritis,N00.5,Acute nephritic syndrome - Diffuse mesangiocapillary glomerulonephritis,Diagnosis of Glomerulonephritis,NA,NA
+Glomerulonephritis,N00.6,Acute nephritic syndrome - Dense deposit disease,Diagnosis of Glomerulonephritis,NA,NA
+Glomerulonephritis,N00.7,Acute nephritic syndrome - Diffuse crescentic glomerulonephritis,Diagnosis of Glomerulonephritis,NA,NA
+Glomerulonephritis,N00.8,Acute nephritic syndrome - Other,Diagnosis of Glomerulonephritis,NA,NA
+Glomerulonephritis,N00.9,Acute nephritic syndrome - Unspecified,Diagnosis of Glomerulonephritis,NA,NA
+Glomerulonephritis,N01.0,Rapidly progressive nephritic syndrome - Minor glomerular abnormality,Diagnosis of Glomerulonephritis,NA,NA
+Glomerulonephritis,N01.1,Rapidly progressive nephritic syndrome - Focal and segmental glomerular lesions,Diagnosis of Glomerulonephritis,NA,NA
+Glomerulonephritis,N01.2,Rapidly progressive nephritic syndrome - Diffuse membranous glomerulonephritis,Diagnosis of Glomerulonephritis,NA,NA
+Glomerulonephritis,N01.3,Rapidly progressive nephritic syndrome - Diffuse mesangial proliferative glomerulonephritis,Diagnosis of Glomerulonephritis,NA,NA
+Glomerulonephritis,N01.4,Rapidly progressive nephritic syndrome - Diffuse endocapillary proliferative glomerulonephritis,Diagnosis of Glomerulonephritis,NA,NA
+Glomerulonephritis,N01.5,Rapidly progressive nephritic syndrome - Diffuse mesangiocapillary glomerulonephritis,Diagnosis of Glomerulonephritis,NA,NA
+Glomerulonephritis,N01.7,Rapidly progressive nephritic syndrome - Diffuse crescentic glomerulonephritis,Diagnosis of Glomerulonephritis,NA,NA
+Glomerulonephritis,N01.8,Rapidly progressive nephritic syndrome - Other,Diagnosis of Glomerulonephritis,NA,NA
+Glomerulonephritis,N01.9,Rapidly progressive nephritic syndrome - Unspecified,Diagnosis of Glomerulonephritis,NA,NA
+Glomerulonephritis,N02.0,Recurrent and persistent haematuria - Minor glomerular abnormality,Diagnosis of Glomerulonephritis,NA,NA
+Glomerulonephritis,N02.1,Recurrent and persistent haematuria - Focal and segmental glomerular lesions,Diagnosis of Glomerulonephritis,NA,NA
+Glomerulonephritis,N02.2,Recurrent and persistent haematuria - Diffuse membranous glomerulonephritis,Diagnosis of Glomerulonephritis,NA,NA
+Glomerulonephritis,N02.3,Recurrent and persistent haematuria - Diffuse mesangial proliferative glomerulonephritis,Diagnosis of Glomerulonephritis,NA,NA
+Glomerulonephritis,N02.4,Recurrent and persistent haematuria - Diffuse endocapillary proliferative glomerulonephritis,Diagnosis of Glomerulonephritis,NA,NA
+Glomerulonephritis,N02.5,Recurrent and persistent haematuria - Diffuse mesangiocapillary glomerulonephritis,Diagnosis of Glomerulonephritis,NA,NA
+Glomerulonephritis,N02.6,Recurrent and persistent haematuria - Dense deposit disease,Diagnosis of Glomerulonephritis,NA,NA
+Glomerulonephritis,N02.7,Recurrent and persistent haematuria - Diffuse crescentic glomerulonephritis,Diagnosis of Glomerulonephritis,NA,NA
+Glomerulonephritis,N02.8,Recurrent and persistent haematuria - Other,Diagnosis of Glomerulonephritis,NA,NA
+Glomerulonephritis,N02.9,Recurrent and persistent haematuria - Unspecified,Diagnosis of Glomerulonephritis,NA,NA
+Glomerulonephritis,N03.0,Chronic nephritic syndrome - Minor glomerular abnormality,Diagnosis of Glomerulonephritis,NA,NA
+Glomerulonephritis,N03.1,Chronic nephritic syndrome - Focal and segmental glomerular lesions,Diagnosis of Glomerulonephritis,NA,NA
+Glomerulonephritis,N03.2,Chronic nephritic syndrome - Diffuse membranous glomerulonephritis,Diagnosis of Glomerulonephritis,NA,NA
+Glomerulonephritis,N03.3,Chronic nephritic syndrome - Diffuse mesangial proliferative glomerulonephritis,Diagnosis of Glomerulonephritis,NA,NA
+Glomerulonephritis,N03.4,Chronic nephritic syndrome - Diffuse endocapillary proliferative glomerulonephritis,Diagnosis of Glomerulonephritis,NA,NA
+Glomerulonephritis,N03.5,Chronic nephritic syndrome - Diffuse mesangiocapillary glomerulonephritis,Diagnosis of Glomerulonephritis,NA,NA
+Glomerulonephritis,N03.6,Chronic nephritic syndrome - Dense deposit disease,Diagnosis of Glomerulonephritis,NA,NA
+Glomerulonephritis,N03.7,Chronic nephritic syndrome - Diffuse crescentic glomerulonephritis,Diagnosis of Glomerulonephritis,NA,NA
+Glomerulonephritis,N03.8,Chronic nephritic syndrome - Other,Diagnosis of Glomerulonephritis,NA,NA
+Glomerulonephritis,N03.9,Chronic nephritic syndrome - Unspecified,Diagnosis of Glomerulonephritis,NA,NA
+Glomerulonephritis,N04.0,Nephrotic syndrome - Minor glomerular abnormality,Diagnosis of Glomerulonephritis,NA,NA
+Glomerulonephritis,N04.1,Nephrotic syndrome - Focal and segmental glomerular lesions,Diagnosis of Glomerulonephritis,NA,NA
+Glomerulonephritis,N04.2,Nephrotic syndrome - Diffuse membranous glomerulonephritis,Diagnosis of Glomerulonephritis,NA,NA
+Glomerulonephritis,N04.3,Nephrotic syndrome - Diffuse mesangial proliferative glomerulonephritis,Diagnosis of Glomerulonephritis,NA,NA
+Glomerulonephritis,N04.4,Nephrotic syndrome - Diffuse endocapillary proliferative glomerulonephritis,Diagnosis of Glomerulonephritis,NA,NA
+Glomerulonephritis,N04.5,Nephrotic syndrome - Diffuse mesangiocapillary glomerulonephritis,Diagnosis of Glomerulonephritis,NA,NA
+Glomerulonephritis,N04.6,Nephrotic syndrome - Dense deposit disease,Diagnosis of Glomerulonephritis,NA,NA
+Glomerulonephritis,N04.7,Nephrotic syndrome - Diffuse crescentic glomerulonephritis,Diagnosis of Glomerulonephritis,NA,NA
+Glomerulonephritis,N04.8,Nephrotic syndrome - Other,Diagnosis of Glomerulonephritis,NA,NA
+Glomerulonephritis,N04.9,Nephrotic syndrome - Unspecified,Diagnosis of Glomerulonephritis,NA,NA
+Glomerulonephritis,N05.0,Unspecified nephritic syndrome - Minor glomerular abnormality,Diagnosis of Glomerulonephritis,NA,NA
+Glomerulonephritis,N05.1,Unspecified nephritic syndrome - Focal and segmental glomerular lesions,Diagnosis of Glomerulonephritis,NA,NA
+Glomerulonephritis,N05.2,Unspecified nephritic syndrome - Diffuse membranous glomerulonephritis,Diagnosis of Glomerulonephritis,NA,NA
+Glomerulonephritis,N05.3,Unspecified nephritic syndrome - Diffuse mesangial proliferative glomerulonephritis,Diagnosis of Glomerulonephritis,NA,NA
+Glomerulonephritis,N05.4,Unspecified nephritic syndrome - Diffuse endocapillary proliferative glomerulonephritis,Diagnosis of Glomerulonephritis,NA,NA
+Glomerulonephritis,N05.5,Unspecified nephritic syndrome - Diffuse mesangiocapillary glomerulonephritis,Diagnosis of Glomerulonephritis,NA,NA
+Glomerulonephritis,N05.6,Unspecified nephritic syndrome - Dense deposit disease,Diagnosis of Glomerulonephritis,NA,NA
+Glomerulonephritis,N05.7,Unspecified nephritic syndrome - Diffuse crescentic glomerulonephritis,Diagnosis of Glomerulonephritis,NA,NA
+Glomerulonephritis,N05.8,Unspecified nephritic syndrome - Other,Diagnosis of Glomerulonephritis,NA,NA
+Glomerulonephritis,N05.9,Unspecified nephritic syndrome - Unspecified,Diagnosis of Glomerulonephritis,NA,NA
+Glomerulonephritis,N06.0,Isolated proteinuria with specified morphological lesion - Minor glomerular abnormality,Diagnosis of Glomerulonephritis,NA,NA
+Glomerulonephritis,N06.1,Isolated proteinuria with specified morphological lesion - Focal and segmental glomerular lesions,Diagnosis of Glomerulonephritis,NA,NA
+Glomerulonephritis,N06.2,Isolated proteinuria with specified morphological lesion - Diffuse membranous glomerulonephritis,Diagnosis of Glomerulonephritis,NA,NA
+Glomerulonephritis,N06.3,Isolated proteinuria with specified morphological lesion - Diffuse mesangial proliferative glomerulonephritis,Diagnosis of Glomerulonephritis,NA,NA
+Glomerulonephritis,N06.5,Isolated proteinuria with specified morphological lesion - Diffuse mesangiocapillary glomerulonephritis,Diagnosis of Glomerulonephritis,NA,NA
+Glomerulonephritis,N06.6,Isolated proteinuria with specified morphological lesion - Dense deposit disease,Diagnosis of Glomerulonephritis,NA,NA
+Glomerulonephritis,N06.8,Isolated proteinuria with specified morphological lesion - Other,Diagnosis of Glomerulonephritis,NA,NA
+Glomerulonephritis,N06.9,Isolated proteinuria with specified morphological lesion - Unspecified,Diagnosis of Glomerulonephritis,NA,NA
+Gout,M10,Gout,Diagnosis of Gout,NA,NA
+Gout,M14.0,Gouty arthropathy due to enzyme defects and other inherited disorders,Diagnosis of Gout,NA,NA
+Hearing loss,H90,Conductive and sensorineural hearing loss,Diagnosis of Hearing loss,NA,NA
+Hearing loss,H91,Other hearing loss,Diagnosis of Hearing loss,NA,NA
+Hearing loss,Z45.3,Adjustment and management of implanted hearing device,Diagnosis of Hearing loss,NA,NA
+Hearing loss,Z46.1,Fitting and adjustment of hearing aid,Diagnosis of Hearing loss,NA,NA
+Hearing loss,Z97.4,Presence of external hearing-aid,Diagnosis of Hearing loss,NA,NA
+Heart failure,I11.0,Hypertensive heart disease with (congestive) heart failure,Diagnosis of Heart failure,NA,NA
+Heart failure,I13.0,Hypertensive heart and renal disease with (congestive) heart failure,Diagnosis of Heart failure,NA,NA
+Heart failure,I13.2,Hypertensive heart and renal disease with both (congestive) heart failure and renal failure,Diagnosis of Heart failure,NA,NA
+Heart failure,I50,Heart failure,Diagnosis of Heart failure,NA,NA
+Hepatic failure,B15.0,Hepatitis A with hepatic coma,Diagnosis of Hepatic failure,NA,NA
+Hepatic failure,B16.0,Acute hepatitis B with delta-agent (coinfection) with hepatic coma,Diagnosis of Hepatic failure,NA,NA
+Hepatic failure,B19.0,Unspecified viral hepatitis with hepatic coma,Diagnosis of Hepatic failure,NA,NA
+Hepatic failure,K70.4,Alcoholic hepatic failure,Diagnosis of Hepatic failure,NA,NA
+Hepatic failure,K71.1,Toxic liver disease with hepatic necrosis,Diagnosis of Hepatic failure,NA,NA
+Hepatic failure,K72,"Hepatic failure, not elsewhere classified",Diagnosis of Hepatic failure,NA,NA
+Hepatic failure,K76.2,Central haemorrhagic necrosis of liver,Diagnosis of Hepatic failure,NA,NA
+Hepatic failure,K76.3,Infarction of liver,Diagnosis of Hepatic failure,NA,NA
+Hidradenitis suppurativa,L73.2,Hidradenitis suppurativa,Diagnosis of Hidradenitis suppurativa,NA,NA
+HIV,B20,Human immunodeficiency virus [HIV] disease resulting in infectious and parasitic diseases,Diagnosis of HIV,NA,NA
+HIV,B21,Human immunodeficiency virus [HIV] disease resulting in malignant neoplasms,Diagnosis of HIV,NA,NA
+HIV,B22,Human immunodeficiency virus [HIV] disease resulting in other specified diseases,Diagnosis of HIV,NA,NA
+HIV,B23,Human immunodeficiency virus [HIV] disease resulting in other conditions,Diagnosis of HIV,NA,NA
+HIV,B24,Unspecified human immunodeficiency virus [HIV] disease,Diagnosis of HIV,NA,NA
+HIV,F02.4,Dementia in human immunodeficiency virus [HIV] disease,Diagnosis of HIV,NA,NA
+HIV,R75,Laboratory evidence of human immunodeficiency virus [HIV],Diagnosis of HIV,NA,NA
+HIV,Z21,Asymptomatic human immunodeficiency virus [HIV] infection status,Diagnosis of HIV,NA,NA
+Hodgkin Lymphoma,C81,Hodgkin lymphoma,Diagnosis of Hodgkin Lymphoma,NA,NA
+Hyperkinetic disorders,F90,Hyperkinetic disorders,Diagnosis of Hyperkinetic disorders,NA,NA
+Hyperparathyroidism,E21.0,Primary hyperparathyroidism,Diagnosis of Hyperparathyroidism,NA,NA
+Hyperparathyroidism,E21.1,"Secondary hyperparathyroidism, not elsewhere classified",Diagnosis of Hyperparathyroidism,NA,NA
+Hyperparathyroidism,E21.2,Other hyperparathyroidism,Diagnosis of Hyperparathyroidism,NA,NA
+Hyperparathyroidism,E21.3,"Hyperparathyroidism, unspecified",Diagnosis of Hyperparathyroidism,NA,NA
+Hyperplasia of prostate,N40,Hyperplasia of prostate,Diagnosis of Hyperplasia of prostate,NA,NA
+Hypertension,I10,Essential (primary) hypertension,Hypertension (3),NA,NA
+Hypertension,I11,Hypertensive heart disease,Hypertension (3),NA,NA
+Hypertension,I12,Hypertensive renal disease,Hypertension (3),NA,NA
+Hypertension,I13,Hypertensive heart and renal disease,Hypertension (3),NA,NA
+Hypertension,I15,Secondary hypertension,Secondary hypertension (4),NA,NA
+Hypertrophic Cardiomyopathy,I42.1,Obstructive hypertrophic cardiomyopathy,Diagnosis of Hypertrophic Cardiomyopathy,NA,NA
+Hypertrophic Cardiomyopathy,I42.2,Other hypertrophic cardiomyopathy,Diagnosis of Hypertrophic Cardiomyopathy,NA,NA
+Hypertrophy of nasal turbinates,J34.3,Hypertrophy of nasal turbinates,Diagnosis of Hypertrophy of nasal turbinates,NA,NA
+Hypo or hyperthyroidism,E03.5,Myxoedema coma,Diagnosis of Hypo or hyperthyroidism,NA,NA
+Hypo or hyperthyroidism,E03.8,Other specified hypothyroidism,Diagnosis of Hypo or hyperthyroidism,NA,NA
+Hypo or hyperthyroidism,E03.9,"Hypothyroidism, unspecified",Diagnosis of Hypo or hyperthyroidism,NA,NA
+Hypo or hyperthyroidism,E05.0,Thyrotoxicosis with diffuse goitre,Diagnosis of Hypo or hyperthyroidism,NA,NA
+Hypo or hyperthyroidism,E05.1,Thyrotoxicosis with toxic single thyroid nodule,Diagnosis of Hypo or hyperthyroidism,NA,NA
+Hypo or hyperthyroidism,E05.2,Thyrotoxicosis with toxic multinodular goitre,Diagnosis of Hypo or hyperthyroidism,NA,NA
+Hypo or hyperthyroidism,E05.5,Thyroid crisis or storm,Diagnosis of Hypo or hyperthyroidism,NA,NA
+Hypo or hyperthyroidism,E05.8,Other thyrotoxicosis,Diagnosis of Hypo or hyperthyroidism,NA,NA
+Hypo or hyperthyroidism,E05.9,"Thyrotoxicosis, unspecified",Diagnosis of Hypo or hyperthyroidism,NA,NA
+Hypo or hyperthyroidism,E06.2,Chronic thyroiditis with transient thyrotoxicosis,Diagnosis of Hypo or hyperthyroidism,NA,NA
+Hypo or hyperthyroidism,E06.3,Autoimmune thyroiditis,Diagnosis of Hypo or hyperthyroidism,NA,NA
+Hypo or hyperthyroidism,E06.5,Other chronic thyroiditis,Diagnosis of Hypo or hyperthyroidism,NA,NA
+Hypo or hyperthyroidism,E06.9,"Thyroiditis, unspecified",Diagnosis of Hypo or hyperthyroidism,NA,NA
+Hypo or hyperthyroidism,H06.2,Dysthyroid exophthalmos,Diagnosis of Hypo or hyperthyroidism,NA,NA
+Hyposplenism,D73.0,Hyposplenism,Diagnosis of Hyposplenism,NA,NA
+Hyposplenism,D73.5,Infarction of spleen,Diagnosis of Hyposplenism,NA,NA
+Immunodeficiencies,D80,Immunodeficiency with predominantly antibody defects,Diagnosis of Immunodeficiencies,NA,NA
+Immunodeficiencies,D81,Combined immunodeficiencies,Diagnosis of Immunodeficiencies,NA,NA
+Immunodeficiencies,D82,Immunodeficiency associated with other major defects,Diagnosis of Immunodeficiencies,NA,NA
+Immunodeficiencies,D83,Common variable immunodeficiency,Diagnosis of Immunodeficiencies,NA,NA
+Immunodeficiencies,D84.0,Lymphocyte function antigen-1 [LFA-1] defect,Diagnosis of Immunodeficiencies,NA,NA
+Immunodeficiencies,D84.8,Other specified immunodeficiencies,Diagnosis of Immunodeficiencies,NA,NA
+Immunodeficiencies,D84.9,"Immunodeficiency, unspecified",Diagnosis of Immunodeficiencies,NA,NA
+Infection of bones and joints,A18.0,Tuberculosis of bones and joints,Diagnosis of Infection of bones and joints,NA,NA
+Infection of bones and joints,A54.4,Gonococcal infection of musculoskeletal system,Diagnosis of Infection of bones and joints,NA,NA
+Infection of bones and joints,B45.3,Osseous cryptococcosis,Diagnosis of Infection of bones and joints,NA,NA
+Infection of bones and joints,B67.2,Echinococcus granulosus infection of bone,Diagnosis of Infection of bones and joints,NA,NA
+Infection of bones and joints,B90.2,Sequelae of tuberculosis of bones and joints,Diagnosis of Infection of bones and joints,NA,NA
+Infection of bones and joints,M00,Pyogenic arthritis,Diagnosis of Infection of bones and joints,NA,NA
+Infection of bones and joints,M01,Direct infections of joint in infectious and parasitic diseases classified elsewhere,Diagnosis of Infection of bones and joints,NA,NA
+Infection of bones and joints,M46.2,Osteomyelitis of vertebra,Diagnosis of Infection of bones and joints,NA,NA
+Infection of bones and joints,M46.3,Infection of intervertebral disc (pyogenic),Diagnosis of Infection of bones and joints,NA,NA
+Infection of bones and joints,M46.4,"Discitis, unspecified",Diagnosis of Infection of bones and joints,NA,NA
+Infection of bones and joints,M46.5,Other infective spondylopathies,Diagnosis of Infection of bones and joints,NA,NA
+Infection of bones and joints,M49.0,Tuberculosis of spine,Diagnosis of Infection of bones and joints,NA,NA
+Infection of bones and joints,M49.1,Brucella spondylitis,Diagnosis of Infection of bones and joints,NA,NA
+Infection of bones and joints,M49.2,Enterobacterial spondylitis,Diagnosis of Infection of bones and joints,NA,NA
+Infection of bones and joints,M49.3,Spondylopathy in other infectious and parasitic diseases classified elsewhere,Diagnosis of Infection of bones and joints,NA,NA
+Infection of bones and joints,M86,Osteomyelitis,Diagnosis of Infection of bones and joints,NA,NA
+Infection of bones and joints,M90.0,Tuberculosis of bone,Diagnosis of Infection of bones and joints,NA,NA
+Infection of bones and joints,M90.1,Periostitis in other infectious diseases classified elsewhere,Diagnosis of Infection of bones and joints,NA,NA
+Infection of bones and joints,M90.2,Osteopathy in other infectious diseases classified elsewhere,Diagnosis of Infection of bones and joints,NA,NA
+Intellectual disability,F70,Mild mental retardation,Diagnosis of Intellectual disability,NA,NA
+Intellectual disability,F71,Moderate mental retardation,Diagnosis of Intellectual disability,NA,NA
+Intellectual disability,F72,Severe mental retardation,Diagnosis of Intellectual disability,NA,NA
+Intellectual disability,F73,Profound mental retardation,Diagnosis of Intellectual disability,NA,NA
+Intellectual disability,F78,Other mental retardation,Diagnosis of Intellectual disability,NA,NA
+Intellectual disability,F79,Unspecified mental retardation,Diagnosis of Intellectual disability,NA,NA
+Intellectual disability,F81.9,"Developmental disorder of scholastic skills, unspecified",Diagnosis of Intellectual disability,NA,NA
+Intervertebral disc disorders,M50,Cervical disc disorders,Diagnosis of Intervertebral disc disorders,NA,NA
+Intervertebral disc disorders,M51,Other intervertebral disc disorders,Diagnosis of Intervertebral disc disorders,NA,NA
+Intervertebral disc disorders,NA,NA,Procedure for Intervertebral disc disorders,V29,Primary excision of cervical intervertebral disc
+Intervertebral disc disorders,NA,NA,Procedure for Intervertebral disc disorders,V29.1,Primary laminectomy excision of cervical intervertebral disc
+Intervertebral disc disorders,NA,NA,Procedure for Intervertebral disc disorders,V29.2,Primary hemilaminectomy excision of cervical intervertebral disc
+Intervertebral disc disorders,NA,NA,Procedure for Intervertebral disc disorders,V29.3,Primary fenestration excision of cervical intervertebral disc
+Intervertebral disc disorders,NA,NA,Procedure for Intervertebral disc disorders,V29.4,Primary anterior excision of cervical intervertebral disc and interbody fusion of joint of cervical spine
+Intervertebral disc disorders,NA,NA,Procedure for Intervertebral disc disorders,V29.5,Primary anterior excision of cervical intervertebral disc NEC
+Intervertebral disc disorders,NA,NA,Procedure for Intervertebral disc disorders,V29.6,Primary microdiscectomy of cervical intervertebral disc
+Intervertebral disc disorders,NA,NA,Procedure for Intervertebral disc disorders,V29.8,Other specified primary excision of cervical intervertebral disc
+Intervertebral disc disorders,NA,NA,Procedure for Intervertebral disc disorders,V29.9,Unspecified primary excision of cervical intervertebral disc
+Intervertebral disc disorders,NA,NA,Procedure for Intervertebral disc disorders,V30,Revisional excision of cervical intervertebral disc
+Intervertebral disc disorders,NA,NA,Procedure for Intervertebral disc disorders,V30.1,Revisional laminectomy excision of cervical intervertebral disc
+Intervertebral disc disorders,NA,NA,Procedure for Intervertebral disc disorders,V30.2,Revisional hemilaminectomy excision of cervical intervertebral disc
+Intervertebral disc disorders,NA,NA,Procedure for Intervertebral disc disorders,V30.3,Revisional fenestration excision of cervical intervertebral disc
+Intervertebral disc disorders,NA,NA,Procedure for Intervertebral disc disorders,V30.4,Revisional anterior excision of cervical intervertebral disc and interbody fusion of joint of cervical spine
+Intervertebral disc disorders,NA,NA,Procedure for Intervertebral disc disorders,V30.5,Revisional anterior excision of cervical intervertebral disc NEC
+Intervertebral disc disorders,NA,NA,Procedure for Intervertebral disc disorders,V30.6,Revisional microdiscectomy of cervical intervertebral disc
+Intervertebral disc disorders,NA,NA,Procedure for Intervertebral disc disorders,V30.8,Other specified revisional excision of cervical intervertebral disc
+Intervertebral disc disorders,NA,NA,Procedure for Intervertebral disc disorders,V30.9,Unspecified revisional excision of cervical intervertebral disc
+Intervertebral disc disorders,NA,NA,Procedure for Intervertebral disc disorders,V31,Primary excision of thoracic intervertebral disc
+Intervertebral disc disorders,NA,NA,Procedure for Intervertebral disc disorders,V31.1,Primary anterolateral excision of thoracic intervertebral disc and graft HFQ
+Intervertebral disc disorders,NA,NA,Procedure for Intervertebral disc disorders,V31.2,Primary anterolateral excision of thoracic intervertebral disc NEC
+Intervertebral disc disorders,NA,NA,Procedure for Intervertebral disc disorders,V31.3,Primary costotransversectomy of thoracic intervertebral disc
+Intervertebral disc disorders,NA,NA,Procedure for Intervertebral disc disorders,V31.4,Primary percutaneous endoscopic excision of thoracic intervertebral disc
+Intervertebral disc disorders,NA,NA,Procedure for Intervertebral disc disorders,V31.8,Other specified primary excision of thoracic intervertebral disc
+Intervertebral disc disorders,NA,NA,Procedure for Intervertebral disc disorders,V31.9,Unspecified primary excision of thoracic intervertebral disc
+Intervertebral disc disorders,NA,NA,Procedure for Intervertebral disc disorders,V32,Revisional excision of thoracic intervertebral disc
+Intervertebral disc disorders,NA,NA,Procedure for Intervertebral disc disorders,V32.1,Revisional anterolateral excision of thoracic intervertebral disc and graft HFQ
+Intervertebral disc disorders,NA,NA,Procedure for Intervertebral disc disorders,V32.2,Revisional anterolateral excision of thoracic intervertebral disc NEC
+Intervertebral disc disorders,NA,NA,Procedure for Intervertebral disc disorders,V32.3,Revisional costotransversectomy of thoracic intervertebral disc
+Intervertebral disc disorders,NA,NA,Procedure for Intervertebral disc disorders,V32.4,Revisional percutaneous endoscopic excision of thoracic intervertebral disc
+Intervertebral disc disorders,NA,NA,Procedure for Intervertebral disc disorders,V32.8,Other specified revisional excision of thoracic intervertebral disc
+Intervertebral disc disorders,NA,NA,Procedure for Intervertebral disc disorders,V32.9,Unspecified revisional excision of thoracic intervertebral disc
+Intervertebral disc disorders,NA,NA,Procedure for Intervertebral disc disorders,V33,Primary excision of lumbar intervertebral disc
+Intervertebral disc disorders,NA,NA,Procedure for Intervertebral disc disorders,V33.1,Primary laminectomy excision of lumbar intervertebral disc
+Intervertebral disc disorders,NA,NA,Procedure for Intervertebral disc disorders,V33.2,Primary fenestration excision of lumbar intervertebral disc
+Intervertebral disc disorders,NA,NA,Procedure for Intervertebral disc disorders,V33.3,Primary anterior excision of lumbar intervertebral disc and interbody fusion of joint of lumbar spine
+Intervertebral disc disorders,NA,NA,Procedure for Intervertebral disc disorders,V33.4,Primary anterior excision of lumbar intervertebral disc NEC
+Intervertebral disc disorders,NA,NA,Procedure for Intervertebral disc disorders,V33.5,Primary anterior excision of lumbar intervertebral disc and posterior graft fusion of joint of lumbar spine
+Intervertebral disc disorders,NA,NA,Procedure for Intervertebral disc disorders,V33.6,Primary anterior excision of lumbar intervertebral disc and posterior instrumentation of lumbar spine
+Intervertebral disc disorders,NA,NA,Procedure for Intervertebral disc disorders,V33.7,Primary microdiscectomy of lumbar intervertebral disc
+Intervertebral disc disorders,NA,NA,Procedure for Intervertebral disc disorders,V33.8,Other specified primary excision of lumbar intervertebral disc
+Intervertebral disc disorders,NA,NA,Procedure for Intervertebral disc disorders,V33.9,Unspecified primary excision of lumbar intervertebral disc
+Intervertebral disc disorders,NA,NA,Procedure for Intervertebral disc disorders,V34,Revisional excision of lumbar intervertebral disc
+Intervertebral disc disorders,NA,NA,Procedure for Intervertebral disc disorders,V34.1,Revisional laminectomy excision of lumbar intervertebral disc
+Intervertebral disc disorders,NA,NA,Procedure for Intervertebral disc disorders,V34.2,Revisional fenestration excision of lumbar intervertebral disc
+Intervertebral disc disorders,NA,NA,Procedure for Intervertebral disc disorders,V34.3,Revisional anterior excision of lumbar intervertebral disc and interbody fusion of joint of lumbar spine
+Intervertebral disc disorders,NA,NA,Procedure for Intervertebral disc disorders,V34.4,Revisional anterior excision of lumbar intervertebral disc NEC
+Intervertebral disc disorders,NA,NA,Procedure for Intervertebral disc disorders,V34.5,Revisional anterior excision of lumbar intervertebral disc and posterior graft fusion of joint of lumbar spine
+Intervertebral disc disorders,NA,NA,Procedure for Intervertebral disc disorders,V34.6,Revisional anterior excision of lumbar intervertebral disc and posterior instrumentation of lumbar spine
+Intervertebral disc disorders,NA,NA,Procedure for Intervertebral disc disorders,V34.7,Revisional microdiscectomy of lumbar intervertebral disc
+Intervertebral disc disorders,NA,NA,Procedure for Intervertebral disc disorders,V34.8,Other specified revisional excision of lumbar intervertebral disc
+Intervertebral disc disorders,NA,NA,Procedure for Intervertebral disc disorders,V34.9,Unspecified revisional excision of lumbar intervertebral disc
+Intervertebral disc disorders,NA,NA,Procedure for Intervertebral disc disorders,V35,Excision of unspecified intervertebral disc
+Intervertebral disc disorders,NA,NA,Procedure for Intervertebral disc disorders,V35.1,Primary excision of intervertebral disc NEC
+Intervertebral disc disorders,NA,NA,Procedure for Intervertebral disc disorders,V35.2,Revisional excision of intervertebral disc NEC
+Intervertebral disc disorders,NA,NA,Procedure for Intervertebral disc disorders,V35.8,Other specified excision of unspecified intervertebral disc
+Intervertebral disc disorders,NA,NA,Procedure for Intervertebral disc disorders,V35.9,Unspecified excision of unspecified intervertebral disc
+Intervertebral disc disorders,NA,NA,Procedure for Intervertebral disc disorders,V36,Prosthetic replacement of intervertebral disc
+Intervertebral disc disorders,NA,NA,Procedure for Intervertebral disc disorders,V36.1,Prosthetic replacement of cervical intervertebral disc
+Intervertebral disc disorders,NA,NA,Procedure for Intervertebral disc disorders,V36.2,Prosthetic replacement of thoracic intervertebral disc
+Intervertebral disc disorders,NA,NA,Procedure for Intervertebral disc disorders,V36.3,Prosthetic replacement of lumbar intervertebral disc
+Intervertebral disc disorders,NA,NA,Procedure for Intervertebral disc disorders,V36.8,Other specified prosthetic replacement of intervertebral disc
+Intervertebral disc disorders,NA,NA,Procedure for Intervertebral disc disorders,V36.9,Unspecified prosthetic replacement of intervertebral disc
+Intervertebral disc disorders,NA,NA,Procedure for Intervertebral disc disorders,V51,Other primary excision of lumbar intervertebral disc
+Intervertebral disc disorders,NA,NA,Procedure for Intervertebral disc disorders,V51.1,Primary direct lateral excision of lumbar intervertebral disc and interbody fusion of joint of lumbar spine
+Intervertebral disc disorders,NA,NA,Procedure for Intervertebral disc disorders,V51.8,Other specified other primary excision of lumbar intervertebral disc
+Intervertebral disc disorders,NA,NA,Procedure for Intervertebral disc disorders,V51.9,Unspecified other primary excision of lumbar intervertebral disc
+Intervertebral disc disorders,NA,NA,Procedure for Intervertebral disc disorders,V52,Other operations on intervertebral disc
+Intervertebral disc disorders,NA,NA,Procedure for Intervertebral disc disorders,V52.1,Enzyme destruction of intervertebral disc
+Intervertebral disc disorders,NA,NA,Procedure for Intervertebral disc disorders,V52.2,Destruction of intervertebral disc NEC
+Intervertebral disc disorders,NA,NA,Procedure for Intervertebral disc disorders,V52.3,Discography of intervertebral disc
+Intervertebral disc disorders,NA,NA,Procedure for Intervertebral disc disorders,V52.4,Biopsy of lesion of intervertebral disc NEC
+Intervertebral disc disorders,NA,NA,Procedure for Intervertebral disc disorders,V52.5,Aspiration of intervertebral disc NEC
+Intervertebral disc disorders,NA,NA,Procedure for Intervertebral disc disorders,V52.8,Other specified other operations on intervertebral disc
+Intervertebral disc disorders,NA,NA,Procedure for Intervertebral disc disorders,V52.9,Unspecified other operations on intervertebral disc
+Intervertebral disc disorders,NA,NA,Procedure for Intervertebral disc disorders,V58,Primary automated percutaneous mechanical excision of intervertebral disc
+Intervertebral disc disorders,NA,NA,Procedure for Intervertebral disc disorders,V58.1,Primary automated percutaneous mechanical excision of cervical intervertebral disc
+Intervertebral disc disorders,NA,NA,Procedure for Intervertebral disc disorders,V58.2,Primary automated percutaneous mechanical excision of thoracic intervertebral disc
+Intervertebral disc disorders,NA,NA,Procedure for Intervertebral disc disorders,V58.3,Primary automated percutaneous mechanical excision of lumbar intervertebral disc
+Intervertebral disc disorders,NA,NA,Procedure for Intervertebral disc disorders,V58.8,Other specified primary automated percutaneous mechanical excision of intervertebral disc
+Intervertebral disc disorders,NA,NA,Procedure for Intervertebral disc disorders,V58.9,Unspecified primary automated percutaneous mechanical excision of intervertebral disc
+Intervertebral disc disorders,NA,NA,Procedure for Intervertebral disc disorders,V59,Revisional automated percutaneous mechanical excision of intervertebral disc
+Intervertebral disc disorders,NA,NA,Procedure for Intervertebral disc disorders,V59.1,Revisional automated percutaneous mechanical excision of cervical intervertebral disc
+Intervertebral disc disorders,NA,NA,Procedure for Intervertebral disc disorders,V59.2,Revisional automated percutaneous mechanical excision of thoracic intervertebral disc
+Intervertebral disc disorders,NA,NA,Procedure for Intervertebral disc disorders,V59.3,Revisional automated percutaneous mechanical excision of lumbar intervertebral disc
+Intervertebral disc disorders,NA,NA,Procedure for Intervertebral disc disorders,V59.8,Other specified revisional automated percutaneous mechanical excision of intervertebral disc
+Intervertebral disc disorders,NA,NA,Procedure for Intervertebral disc disorders,V59.9,Unspecified revisional automated percutaneous mechanical excision of intervertebral disc
+Intervertebral disc disorders,NA,NA,Procedure for Intervertebral disc disorders,V60,Primary percutaneous decompression using coblation to intervertebral disc
+Intervertebral disc disorders,NA,NA,Procedure for Intervertebral disc disorders,V60.1,Primary percutaneous decompression using coblation to cervical intervertebral disc
+Intervertebral disc disorders,NA,NA,Procedure for Intervertebral disc disorders,V60.2,Primary percutaneous decompression using coblation to thoracic intervertebral disc
+Intervertebral disc disorders,NA,NA,Procedure for Intervertebral disc disorders,V60.3,Primary percutaneous decompression using coblation to lumbar intervertebral disc
+Intervertebral disc disorders,NA,NA,Procedure for Intervertebral disc disorders,V60.8,Other specified primary percutaneous decompression using coblation to intervertebral disc
+Intervertebral disc disorders,NA,NA,Procedure for Intervertebral disc disorders,V60.9,Unspecified primary percutaneous decompression using coblation to intervertebral disc
+Intervertebral disc disorders,NA,NA,Procedure for Intervertebral disc disorders,V61,Revisional percutaneous decompression using coblation to intervertebral disc
+Intervertebral disc disorders,NA,NA,Procedure for Intervertebral disc disorders,V61.1,Revisional percutaneous decompression using coblation to cervical intervertebral disc
+Intervertebral disc disorders,NA,NA,Procedure for Intervertebral disc disorders,V61.2,Revisional percutaneous decompression using coblation to thoracic intervertebral disc
+Intervertebral disc disorders,NA,NA,Procedure for Intervertebral disc disorders,V61.3,Revisional percutaneous decompression using coblation to lumbar intervertebral disc
+Intervertebral disc disorders,NA,NA,Procedure for Intervertebral disc disorders,V61.8,Other specified revisional percutaneous decompression using coblation to intervertebral disc
+Intervertebral disc disorders,NA,NA,Procedure for Intervertebral disc disorders,V61.9,Unspecified revisional percutaneous decompression using coblation to intervertebral disc
+Intervertebral disc disorders,NA,NA,Procedure for Intervertebral disc disorders,V62,Primary percutaneous intradiscal radiofrequency thermocoagulation to intervertebral disc
+Intervertebral disc disorders,NA,NA,Procedure for Intervertebral disc disorders,V62.1,Primary percutaneous intradiscal radiofrequency thermocoagulation to cervical intervertebral disc
+Intervertebral disc disorders,NA,NA,Procedure for Intervertebral disc disorders,V62.2,Primary percutaneous intradiscal radiofrequency thermocoagulation to thoracic intervertebral disc
+Intervertebral disc disorders,NA,NA,Procedure for Intervertebral disc disorders,V62.3,Primary percutaneous intradiscal radiofrequency thermocoagulation to lumbar intervertebral disc
+Intervertebral disc disorders,NA,NA,Procedure for Intervertebral disc disorders,V62.8,Other specified primary percutaneous intradiscal radiofrequency thermocoagulation to intervertebral disc
+Intervertebral disc disorders,NA,NA,Procedure for Intervertebral disc disorders,V62.9,Unspecified primary percutaneous intradiscal radiofrequency thermocoagulation to intervertebral disc
+Intervertebral disc disorders,NA,NA,Procedure for Intervertebral disc disorders,V63,Revisional percutaneous intradiscal radiofrequency thermocoagulation to intervertebral disc
+Intervertebral disc disorders,NA,NA,Procedure for Intervertebral disc disorders,V63.1,Revisional percutaneous intradiscal radiofrequency thermocoagulation to cervical intervertebral disc
+Intervertebral disc disorders,NA,NA,Procedure for Intervertebral disc disorders,V63.2,Revisional percutaneous intradiscal radiofrequency thermocoagulation to thoracic intervertebral disc
+Intervertebral disc disorders,NA,NA,Procedure for Intervertebral disc disorders,V63.3,Revisional percutaneous intradiscal radiofrequency thermocoagulation to lumbar intervertebral disc
+Intervertebral disc disorders,NA,NA,Procedure for Intervertebral disc disorders,V63.8,Other specified revisional percutaneous intradiscal radiofrequency thermocoagulation to intervertebral disc
+Intervertebral disc disorders,NA,NA,Procedure for Intervertebral disc disorders,V63.9,Unspecified revisional percutaneous intradiscal radiofrequency thermocoagulation to intervertebral disc
+Intracerebral haemorrhage,I61,Intracerebral haemorrhage,Diagnosis of Intracerebral haemorrhage,NA,NA
+Intracerebral haemorrhage,I69.1,Sequelae of intracerebral haemorrhage,History of intracerebral haemorrhage,NA,NA
+Intracranial hypertension,G93.2,Benign intracranial hypertension,Diagnosis of Idiopathic intracranial hypertension,NA,NA
+Iron deficiency anaemia,D50,Iron deficiency anaemia,Diagnosis of Iron deficiency anaemia,NA,NA
+Irritable bowel syndrome,K58,Irritable bowel syndrome,Diagnosis of Irritable bowel syndrome,NA,NA
+Ischaemic stroke,I63.0,Cerebral infarction due to thrombosis of precerebral arteries,Diagnosis of Ischaemic stroke,NA,NA
+Ischaemic stroke,I63.1,Cerebral infarction due to embolism of precerebral arteries,Diagnosis of Ischaemic stroke,NA,NA
+Ischaemic stroke,I63.2,Cerebral infarction due to unspecified occlusion or stenosis of precerebral arteries,Diagnosis of Ischaemic stroke,NA,NA
+Ischaemic stroke,I63.3,Cerebral infarction due to thrombosis of cerebral arteries,Diagnosis of Ischaemic stroke,NA,NA
+Ischaemic stroke,I63.4,Cerebral infarction due to embolism of cerebral arteries,Diagnosis of Ischaemic stroke,NA,NA
+Ischaemic stroke,I63.5,Cerebral infarction due to unspecified occlusion or stenosis of cerebral arteries,Diagnosis of Ischaemic stroke,NA,NA
+Ischaemic stroke,I63.8,Other cerebral infarction,Diagnosis of Ischaemic stroke,NA,NA
+Ischaemic stroke,I63.9,"Cerebral infarction, unspecified",Diagnosis of Ischaemic stroke,NA,NA
+Ischaemic stroke,I69.3,Sequelae of cerebral infarction,History of cerebral infarction,NA,NA
+Juvenile arthritis,M08,Juvenile arthritis,Diagnosis of Juvenile arthritis,NA,NA
+Juvenile arthritis,M09,Juvenile arthritis in diseases classified elsewhere,Diagnosis of Juvenile arthritis,NA,NA
+Left bundle branch block,I44.7,"Left bundle-branch block, unspecified",Diagnosis of Left bundle branch block,NA,NA
+Leukaemia,C91,Lymphoid leukaemia,Diagnosis of Leukaemia,NA,NA
+Leukaemia,C92,Myeloid leukaemia,Diagnosis of Leukaemia,NA,NA
+Leukaemia,C93,Monocytic leukaemia,Diagnosis of Leukaemia,NA,NA
+Leukaemia,C94,Other leukaemias of specified cell type,Diagnosis of Leukaemia,NA,NA
+Leukaemia,C95,Leukaemia of unspecified cell type,Diagnosis of Leukaemia,NA,NA
+Lichen planus,L43,Lichen planus,Diagnosis of Lichen planus,NA,NA
+Lichen planus,L66.1,Lichen planopilaris,Diagnosis of Lichen planus,NA,NA
+"Liver fibrosis, sclerosis and cirrhosis",K70.1,Alcoholic hepatitis,"Diagnosis of Liver fibrosis, sclerosis and cirrhosis",NA,NA
+"Liver fibrosis, sclerosis and cirrhosis",K70.2,Alcoholic fibrosis and sclerosis of liver,"Diagnosis of Liver fibrosis, sclerosis and cirrhosis",NA,NA
+"Liver fibrosis, sclerosis and cirrhosis",K70.3,Alcoholic cirrhosis of liver,"Diagnosis of Liver fibrosis, sclerosis and cirrhosis",NA,NA
+"Liver fibrosis, sclerosis and cirrhosis",K71.7,Toxic liver disease with fibrosis and cirrhosis of liver,"Diagnosis of Liver fibrosis, sclerosis and cirrhosis",NA,NA
+"Liver fibrosis, sclerosis and cirrhosis",K74.0,Hepatic fibrosis,"Diagnosis of Liver fibrosis, sclerosis and cirrhosis",NA,NA
+"Liver fibrosis, sclerosis and cirrhosis",K74.1,Hepatic sclerosis,"Diagnosis of Liver fibrosis, sclerosis and cirrhosis",NA,NA
+"Liver fibrosis, sclerosis and cirrhosis",K74.2,Hepatic fibrosis with hepatic sclerosis,"Diagnosis of Liver fibrosis, sclerosis and cirrhosis",NA,NA
+"Liver fibrosis, sclerosis and cirrhosis",K74.4,Secondary biliary cirrhosis,"Diagnosis of Liver fibrosis, sclerosis and cirrhosis",NA,NA
+"Liver fibrosis, sclerosis and cirrhosis",K74.5,"Biliary cirrhosis, unspecified","Diagnosis of Liver fibrosis, sclerosis and cirrhosis",NA,NA
+"Liver fibrosis, sclerosis and cirrhosis",K74.6,Other and unspecified cirrhosis of liver,"Diagnosis of Liver fibrosis, sclerosis and cirrhosis",NA,NA
+Lupus erythematosus (local and systemic),L93,Lupus erythematosus,Diagnosis of Lupus erythematosus (local and systemic),NA,NA
+Lupus erythematosus (local and systemic),M32,Systemic lupus erythematosus,Diagnosis of Lupus erythematosus (local and systemic),NA,NA
+Macular degeneration,H35.3,Degeneration of macula and posterior pole,Diagnosis of Macular degeneration,NA,NA
+Male infertility,N46,Male infertility,Diagnosis of Male Infertility,NA,NA
+Meniere disease,H81.0,Meniere's disease,Diagnosis of Meniere disease,NA,NA
+Menorrhagia and polymenorrhoea,N92.0,Excessive and frequent menstruation with regular cycle,Diagnosis of Menorrhagia and polymenorrhoea,NA,NA
+Menorrhagia and polymenorrhoea,N92.1,Excessive and frequent menstruation with irregular cycle,Diagnosis of Menorrhagia and polymenorrhoea,NA,NA
+Menorrhagia and polymenorrhoea,N92.2,Excessive menstruation at puberty,Diagnosis of Menorrhagia and polymenorrhoea,NA,NA
+Menorrhagia and polymenorrhoea,N92.4,Excessive bleeding in the premenopausal period,Diagnosis of Menorrhagia and polymenorrhoea,NA,NA
+Migraine,G43,Migraine,Diagnosis of Migraine,NA,NA
+Motor neuron disease,G12.2,Motor neuron disease,Diagnosis of Motor neuron disease,NA,NA
+Multiple myeloma and malignant plasma cell neoplasms,C88.0,Waldenström macroglobulinaemia,Diagnosis of Multiple myeloma and malignant plasma cell neoplasms,NA,NA
+Multiple myeloma and malignant plasma cell neoplasms,C88.2,Other heavy chain disease,Diagnosis of Multiple myeloma and malignant plasma cell neoplasms,NA,NA
+Multiple myeloma and malignant plasma cell neoplasms,C90,Multiple myeloma and malignant plasma cell neoplasms,Diagnosis of Multiple myeloma and malignant plasma cell neoplasms,NA,NA
+Multiple sclerosis,G35,Multiple sclerosis,Diagnosis of Multiple sclerosis,NA,NA
+Multiple valve dz,I08,Multiple valve diseases,Diagnosis of Multiple valve dz,NA,NA
+Myasthenia gravis,G70.0,Myasthenia gravis,Diagnosis of Myasthenia gravis,NA,NA
+Myelodysplastic syndromes,D46,Myelodysplastic syndromes,Diagnosis of Myelodysplastic syndromes,NA,NA
+Myocardial infarction,I252,Old myocardial infarction,History of MI (1),NA,NA
+Myocardial infarction,I21,Acute myocardial infarction,Acute MI not further specified (5),NA,NA
+Myocardial infarction,I22,Subsequent myocardial infarction,Subsequent MI (6),NA,NA
+Myocardial infarction,I23,Certain current complications following acute myocardial infarction,Complications of MI (7),NA,NA
+Myocardial infarction,I241,Dressler's syndrome,Complications of MI (7),NA,NA
+Nasal polyp,J33,Nasal polyp,Diagnosis of Nasal polyp,NA,NA
+Neuromuscular dysfunction of bladder,N31,"Neuromuscular dysfunction of bladder, not elsewhere classified",Diagnosis of Neuromuscular dysfunction of bladder,NA,NA
+Non-acute cystitis,N30.1,Interstitial cystitis (chronic),Diagnosis of Non-acute cystitis,NA,NA
+Non-acute cystitis,N30.2,Other chronic cystitis,Diagnosis of Non-acute cystitis,NA,NA
+Non-Hodgkin Lymphoma,C82,Follicular lymphoma,Diagnosis of Non-Hodgkin Lymphoma,NA,NA
+Non-Hodgkin Lymphoma,C83,Non-follicular lymphoma,Diagnosis of Non-Hodgkin Lymphoma,NA,NA
+Non-Hodgkin Lymphoma,C84,Mature T/NK-cell lymphomas,Diagnosis of Non-Hodgkin Lymphoma,NA,NA
+Non-Hodgkin Lymphoma,C85,Other and unspecified types of non-Hodgkin lymphoma,Diagnosis of Non-Hodgkin Lymphoma,NA,NA
+Non-Hodgkin Lymphoma,C86,Other specified types of T/NK-cell lymphoma,Diagnosis of Non-Hodgkin Lymphoma,NA,NA
+Nonrheumatic aortic valve disorders,I35,Nonrheumatic aortic valve disorders,Diagnosis of Nonrheumatic aortic valve disorders,NA,NA
+Nonrheumatic mitral valve disorders,I34,Nonrheumatic mitral valve disorders,Diagnosis of Nonrheumatic mitral valve disorders,NA,NA
+Obesity,E66,Obesity,Diagnosis of Obesity,NA,NA
+Obsessive-compulsive disorder,F42,Obsessive-compulsive disorder,Diagnosis of Obsessive-compulsive disorder,NA,NA
+Obstructive and reflux uropathy,N13.0,Hydronephrosis with ureteropelvic junction obstruction,Diagnosis of Obstructive and reflux uropathy,NA,NA
+Obstructive and reflux uropathy,N13.1,"Hydronephrosis with ureteral stricture, not elsewhere classified",Diagnosis of Obstructive and reflux uropathy,NA,NA
+Obstructive and reflux uropathy,N13.2,Hydronephrosis with renal and ureteral calculous obstruction,Diagnosis of Obstructive and reflux uropathy,NA,NA
+Obstructive and reflux uropathy,N13.3,Other and unspecified hydronephrosis,Diagnosis of Obstructive and reflux uropathy,NA,NA
+Obstructive and reflux uropathy,N13.4,Hydroureter,Diagnosis of Obstructive and reflux uropathy,NA,NA
+Obstructive and reflux uropathy,N13.5,Kinking and stricture of ureter without hydronephrosis,Diagnosis of Obstructive and reflux uropathy,NA,NA
+Obstructive and reflux uropathy,N13.6,Pyonephrosis,Diagnosis of Obstructive and reflux uropathy,NA,NA
+Obstructive and reflux uropathy,N13.7,Vesicoureteral-reflux-associated uropathy,Diagnosis of Obstructive and reflux uropathy,NA,NA
+Obstructive and reflux uropathy,N13.8,Other obstructive and reflux uropathy,Diagnosis of Obstructive and reflux uropathy,NA,NA
+Obstructive and reflux uropathy,N13.9,"Obstructive and reflux uropathy, unspecified",Diagnosis of Obstructive and reflux uropathy,NA,NA
+Oesophageal varices,I85,Oesophageal varices,Diagnosis of Oesophageal varices,NA,NA
+Oesophageal varices,I98.2,Oesophageal varices without bleeding in diseases classified elsewhere,Diagnosis of Oesophageal varices,NA,NA
+Oesophageal varices,I98.3,Oesophageal varices with bleeding in diseases classified elsewhere,Diagnosis of Oesophageal varices,NA,NA
+Oesophageal varices,NA,NA,Procedure for Oesophageal varices,G10,Open operations on varices of oesophagus
+Oesophageal varices,NA,NA,Procedure for Oesophageal varices,G10.1,Disconnection of azygos vein
+Oesophageal varices,NA,NA,Procedure for Oesophageal varices,G10.2,Transection of oesophagus using staple gun
+Oesophageal varices,NA,NA,Procedure for Oesophageal varices,G10.3,Transection of oesophagus NEC
+Oesophageal varices,NA,NA,Procedure for Oesophageal varices,G10.4,Local ligation of varices of oesophagus
+Oesophageal varices,NA,NA,Procedure for Oesophageal varices,G10.5,Open injection sclerotherapy to varices of oesophagus
+Oesophageal varices,NA,NA,Procedure for Oesophageal varices,G10.8,Other specified open operations on varices of oesophagus
+Oesophageal varices,NA,NA,Procedure for Oesophageal varices,G10.9,Unspecified open operations on varices of oesophagus
+Oesophageal varices,NA,NA,Procedure for Oesophageal varices,G17.4,Endoscopic injection sclerotherapy to varices of oesophagus using rigid oesophagoscope
+Oesophageal varices,NA,NA,Procedure for Oesophageal varices,G43.7,Fibreoptic endoscopic rubber band ligation of upper gastrointestinal tract varices
+Oesophagitis and oesophageal ulcer,K20,Oesophagitis,Diagnosis of Oesophagitis and oesophageal ulcer,NA,NA
+Oesophagitis and oesophageal ulcer,K21.0,Gastro-oesophageal reflux disease with oesophagitis,Diagnosis of Oesophagitis and oesophageal ulcer,NA,NA
+Oesophagitis and oesophageal ulcer,K22.1,Ulcer of oesophagus,Diagnosis of Oesophagitis and oesophageal ulcer,NA,NA
+Osteoarthritis (excl spine),M15,Polyarthrosis,Diagnosis of Osteoarthritis (excl spine),NA,NA
+Osteoarthritis (excl spine),M16,Coxarthrosis [arthrosis of hip],Diagnosis of Osteoarthritis (excl spine),NA,NA
+Osteoarthritis (excl spine),M17,Gonarthrosis [arthrosis of knee],Diagnosis of Osteoarthritis (excl spine),NA,NA
+Osteoarthritis (excl spine),M18,Arthrosis of first carpometacarpal joint,Diagnosis of Osteoarthritis (excl spine),NA,NA
+Osteoarthritis (excl spine),M19,Other arthrosis,Diagnosis of Osteoarthritis (excl spine),NA,NA
+Osteoporosis,M80,Osteoporosis with pathological fracture,Diagnosis of Osteoporosis,NA,NA
+Osteoporosis,M81,Osteoporosis without pathological fracture,Diagnosis of Osteoporosis,NA,NA
+Osteoporosis,M82,Osteoporosis in diseases classified elsewhere,Diagnosis of Osteoporosis,NA,NA
+Other anaemias,D53,Other nutritional anaemias,Diagnosis of Other anaemias,NA,NA
+Other anaemias,D62,Acute posthaemorrhagic anaemia,Diagnosis of Other anaemias,NA,NA
+Other anaemias,D63,Anaemia in chronic diseases classified elsewhere,Diagnosis of Other anaemias,NA,NA
+Other anaemias,D64,Other anaemias,Diagnosis of Other anaemias,NA,NA
+Other Cardiomyopathy,I25.5,Ischaemic cardiomyopathy,Diagnosis of Other Cardiomyopathy,NA,NA
+Other Cardiomyopathy,I42.3,Endomyocardial (eosinophilic) disease,Diagnosis of Other Cardiomyopathy,NA,NA
+Other Cardiomyopathy,I42.5,Other restrictive cardiomyopathy,Diagnosis of Other Cardiomyopathy,NA,NA
+Other Cardiomyopathy,I42.7,Cardiomyopathy due to drugs and other external agents,Diagnosis of Other Cardiomyopathy,NA,NA
+Other Cardiomyopathy,I42.8,Other cardiomyopathies,Diagnosis of Other Cardiomyopathy,NA,NA
+Other Cardiomyopathy,I42.9,"Cardiomyopathy, unspecified",Diagnosis of Other Cardiomyopathy,NA,NA
+Other Cardiomyopathy,I43,Cardiomyopathy in diseases classified elsewhere,Diagnosis of Other Cardiomyopathy,NA,NA
+Other haemolytic anaemias,D55,Anaemia due to enzyme disorders,Diagnosis of Other haemolytic anaemias,NA,NA
+Other haemolytic anaemias,D58,Other hereditary haemolytic anaemias,Diagnosis of Other haemolytic anaemias,NA,NA
+Other haemolytic anaemias,D59,Acquired haemolytic anaemia,Diagnosis of Other haemolytic anaemias,NA,NA
+Other interstitial pulmonary diseases with fibrosis,J84.1,Other interstitial pulmonary diseases with fibrosis,Diagnosis of Other interstitial pulmonary diseases with fibrosis,NA,NA
+Other psychoactive substance misuse,F11,Mental and behavioural disorders due to use of opioids,Diagnosis of Other psychoactive substance misuse,NA,NA
+Other psychoactive substance misuse,F12,Mental and behavioural disorders due to use of cannabinoids,Diagnosis of Other psychoactive substance misuse,NA,NA
+Other psychoactive substance misuse,F13,Mental and behavioural disorders due to use of sedatives or hypnotics,Diagnosis of Other psychoactive substance misuse,NA,NA
+Other psychoactive substance misuse,F14,Mental and behavioural disorders due to use of cocaine,Diagnosis of Other psychoactive substance misuse,NA,NA
+Other psychoactive substance misuse,F15,"Mental and behavioural disorders due to use of other stimulants, including caffeine",Diagnosis of Other psychoactive substance misuse,NA,NA
+Other psychoactive substance misuse,F16,Mental and behavioural disorders due to use of hallucinogens,Diagnosis of Other psychoactive substance misuse,NA,NA
+Other psychoactive substance misuse,F18,Mental and behavioural disorders due to use of volatile solvents,Diagnosis of Other psychoactive substance misuse,NA,NA
+Other psychoactive substance misuse,F19,Mental and behavioural disorders due to multiple drug use and use of other psychoactive substances,Diagnosis of Other psychoactive substance misuse,NA,NA
+Pancreatitis,K85,Acute pancreatitis,Diagnosis of Pancreatitis,NA,NA
+Pancreatitis,K86.0,Alcohol-induced chronic pancreatitis,Diagnosis of Pancreatitis,NA,NA
+Pancreatitis,K86.1,Other chronic pancreatitis,Diagnosis of Pancreatitis,NA,NA
+Pancreatitis,K86.3,Pseudocyst of pancreas,Diagnosis of Pancreatitis,NA,NA
+Parkinson's disease,F02.3,Dementia in Parkinson's disease,History of Parkinson's disease,NA,NA
+Parkinson's disease,G20,Parkinson's disease,Diagnosis of Parkinson's disease,NA,NA
+Peptic ulcer disease,K25,Gastric ulcer,Diagnosis of Peptic ulcer disease,NA,NA
+Peptic ulcer disease,K26,Duodenal ulcer,Diagnosis of Peptic ulcer disease,NA,NA
+Peptic ulcer disease,K27,"Peptic ulcer, site unspecified",Diagnosis of Peptic ulcer disease,NA,NA
+Peptic ulcer disease,K28,Gastrojejunal ulcer,Diagnosis of Peptic ulcer disease,NA,NA
+Peptic ulcer disease,NA,NA,Procedure for Peptic ulcer disease,G35,Operations on ulcer of stomach
+Peptic ulcer disease,NA,NA,Procedure for Peptic ulcer disease,G35.1,Closure of perforated ulcer of stomach
+Peptic ulcer disease,NA,NA,Procedure for Peptic ulcer disease,G35.2,Closure of ulcer of stomach NEC
+Peptic ulcer disease,NA,NA,Procedure for Peptic ulcer disease,G35.8,Other specified operations on ulcer of stomach
+Peptic ulcer disease,NA,NA,Procedure for Peptic ulcer disease,G35.9,Unspecified operations on ulcer of stomach
+Peptic ulcer disease,NA,NA,Procedure for Peptic ulcer disease,G52,Operations on ulcer of duodenum
+Peptic ulcer disease,NA,NA,Procedure for Peptic ulcer disease,G52.1,Closure of perforated ulcer of duodenum
+Peptic ulcer disease,NA,NA,Procedure for Peptic ulcer disease,G52.2,Suture of ulcer of duodenum NEC
+Peptic ulcer disease,NA,NA,Procedure for Peptic ulcer disease,G52.3,Oversew of blood vessel of duodenal ulcer
+Peptic ulcer disease,NA,NA,Procedure for Peptic ulcer disease,G52.8,Other specified operations on ulcer of duodenum
+Peptic ulcer disease,NA,NA,Procedure for Peptic ulcer disease,G52.9,Unspecified operations on ulcer of duodenum
+Peripheral arterial disease,I731,Thromboangiitis obliterans [Buerger],Peripheral vascular disease (7),NA,NA
+Peripheral arterial disease,I738,Other specified peripheral vascular diseases,Peripheral vascular disease (7),NA,NA
+Peripheral arterial disease,I739,"Peripheral vascular disease, unspecified",Peripheral vascular disease (7),NA,NA
+Peripheral arterial disease,I743,Embolism and thrombosis of arteries of lower extremities,Leg or aortic embolism or thrombosis (8),NA,NA
+Peripheral arterial disease,I744,"Embolism and thrombosis of arteries of extremities, unspecified",Leg or aortic embolism or thrombosis (8),NA,NA
+Peripheral arterial disease,I745,Embolism and thrombosis of iliac artery,Leg or aortic embolism or thrombosis (8),NA,NA
+Peripheral arterial disease,NA,NA,PAD procedure performed (3),L50,Other emergency bypass of iliac artery
+Peripheral arterial disease,NA,NA,PAD procedure performed (3),L50.1,Emergency bypass of common iliac artery by anastomosis of aorta to common iliac artery NEC
+Peripheral arterial disease,NA,NA,PAD procedure performed (3),L50.2,Emergency bypass of iliac artery by anastomosis of aorta to external iliac artery NEC
+Peripheral arterial disease,NA,NA,PAD procedure performed (3),L50.3,Emergency bypass of artery of leg by anastomosis of aorta to common femoral artery NEC
+Peripheral arterial disease,NA,NA,PAD procedure performed (3),L50.4,Emergency bypass of artery of leg by anastomosis of aorta to deep femoral artery NEC
+Peripheral arterial disease,NA,NA,PAD procedure performed (3),L50.5,Emergency bypass of iliac artery by anastomosis of iliac artery to iliac artery NEC
+Peripheral arterial disease,NA,NA,PAD procedure performed (3),L50.6,Emergency bypass of artery of leg by anastomosis of iliac artery to femoral artery NEC
+Peripheral arterial disease,NA,NA,PAD procedure performed (3),L50.8,Other specified other emergency bypass of iliac artery
+Peripheral arterial disease,NA,NA,PAD procedure performed (3),L50.9,Unspecified other emergency bypass of iliac artery
+Peripheral arterial disease,NA,NA,PAD procedure performed (3),L51,Other bypass of iliac artery
+Peripheral arterial disease,NA,NA,PAD procedure performed (3),L51.1,Bypass of common iliac artery by anastomosis of aorta to common iliac artery NEC
+Peripheral arterial disease,NA,NA,PAD procedure performed (3),L51.2,Bypass of iliac artery by anastomosis of aorta to external iliac artery NEC
+Peripheral arterial disease,NA,NA,PAD procedure performed (3),L51.3,Bypass of artery of leg by anastomosis of aorta to common femoral artery NEC
+Peripheral arterial disease,NA,NA,PAD procedure performed (3),L51.4,Bypass of artery of leg by anastomosis of aorta to deep femoral artery NEC
+Peripheral arterial disease,NA,NA,PAD procedure performed (3),L51.5,Bypass of iliac artery by anastomosis of iliac artery to iliac artery NEC
+Peripheral arterial disease,NA,NA,PAD procedure performed (3),L51.6,Bypass of artery of leg by anastomosis of iliac artery to femoral artery NEC
+Peripheral arterial disease,NA,NA,PAD procedure performed (3),L51.8,Other specified other bypass of iliac artery
+Peripheral arterial disease,NA,NA,PAD procedure performed (3),L51.9,Unspecified other bypass of iliac artery
+Peripheral arterial disease,NA,NA,PAD procedure performed (3),L52,Reconstruction of iliac artery
+Peripheral arterial disease,NA,NA,PAD procedure performed (3),L52.1,Endarterectomy of iliac artery and patch repair of iliac artery
+Peripheral arterial disease,NA,NA,PAD procedure performed (3),L52.2,Endarterectomy of iliac artery NEC
+Peripheral arterial disease,NA,NA,PAD procedure performed (3),L52.8,Other specified reconstruction of iliac artery
+Peripheral arterial disease,NA,NA,PAD procedure performed (3),L52.9,Unspecified reconstruction of iliac artery
+Peripheral arterial disease,NA,NA,PAD procedure performed (3),L53,Other open operations on iliac artery
+Peripheral arterial disease,NA,NA,PAD procedure performed (3),L53.1,Repair of iliac artery NEC
+Peripheral arterial disease,NA,NA,PAD procedure performed (3),L53.2,Open embolectomy of iliac artery
+Peripheral arterial disease,NA,NA,PAD procedure performed (3),L54.1,Percutaneous transluminal angioplasty of iliac artery
+Peripheral arterial disease,NA,NA,PAD procedure performed (3),L54.2,Percutaneous transluminal embolectomy of iliac artery
+Peripheral arterial disease,NA,NA,PAD procedure performed (3),L54.4,Percutaneous transluminal insertion of stent into iliac artery
+Peripheral arterial disease,NA,NA,PAD procedure performed (3),L54.8,Other specified transluminal operations on iliac artery
+Peripheral arterial disease,NA,NA,PAD procedure performed (3),L54.9,Unspecified transluminal operations on iliac artery
+Peripheral arterial disease,NA,NA,PAD procedure performed (3),L58,Other emergency bypass of femoral artery
+Peripheral arterial disease,NA,NA,PAD procedure performed (3),L58.1,Emergency bypass of femoral artery by anastomosis of femoral artery to femoral artery NEC
+Peripheral arterial disease,NA,NA,PAD procedure performed (3),L58.2,Emergency bypass of femoral artery by anastomosis of femoral artery to popliteal artery using prosthesis NEC
+Peripheral arterial disease,NA,NA,PAD procedure performed (3),L58.3,Emergency bypass of femoral artery by anastomosis of femoral artery to popliteal artery using vein graft NEC
+Peripheral arterial disease,NA,NA,PAD procedure performed (3),L58.4,Emergency bypass of femoral artery by anastomosis of femoral artery to tibial artery using prosthesis NEC
+Peripheral arterial disease,NA,NA,PAD procedure performed (3),L58.5,Emergency bypass of femoral artery by anastomosis of femoral artery to tibial artery using vein graft NEC
+Peripheral arterial disease,NA,NA,PAD procedure performed (3),L58.6,Emergency bypass of femoral artery by anastomosis of femoral artery to peroneal artery using prosthesis NEC
+Peripheral arterial disease,NA,NA,PAD procedure performed (3),L58.7,Emergency bypass of femoral artery by anastomosis of femoral artery to peroneal artery using vein graft NEC
+Peripheral arterial disease,NA,NA,PAD procedure performed (3),L58.8,Other specified other emergency bypass of femoral artery
+Peripheral arterial disease,NA,NA,PAD procedure performed (3),L58.9,Unspecified other emergency bypass of femoral artery
+Peripheral arterial disease,NA,NA,PAD procedure performed (3),L59,Other bypass of femoral artery
+Peripheral arterial disease,NA,NA,PAD procedure performed (3),L59.1,Bypass of femoral artery by anastomosis of femoral artery to femoral artery NEC
+Peripheral arterial disease,NA,NA,PAD procedure performed (3),L59.2,Bypass of femoral artery by anastomosis of femoral artery to popliteal artery using prosthesis NEC
+Peripheral arterial disease,NA,NA,PAD procedure performed (3),L59.3,Bypass of femoral artery by anastomosis of femoral artery to popliteal artery using vein graft NEC
+Peripheral arterial disease,NA,NA,PAD procedure performed (3),L59.4,Bypass of femoral artery by anastomosis of femoral artery to tibial artery using prosthesis NEC
+Peripheral arterial disease,NA,NA,PAD procedure performed (3),L59.5,Bypass of femoral artery by anastomosis of femoral artery to tibial artery using vein graft NEC
+Peripheral arterial disease,NA,NA,PAD procedure performed (3),L59.6,Bypass of femoral artery by anastomosis of femoral artery to peroneal artery using prosthesis NEC
+Peripheral arterial disease,NA,NA,PAD procedure performed (3),L59.7,Bypass of femoral artery by anastomosis of femoral artery to peroneal artery using vein graft NEC
+Peripheral arterial disease,NA,NA,PAD procedure performed (3),L59.8,Other specified other bypass of femoral artery
+Peripheral arterial disease,NA,NA,PAD procedure performed (3),L59.9,Unspecified other bypass of femoral artery
+Peripheral arterial disease,NA,NA,PAD procedure performed (3),L60,Reconstruction of femoral artery
+Peripheral arterial disease,NA,NA,PAD procedure performed (3),L60.1,Endarterectomy of femoral artery and patch repair of femoral artery
+Peripheral arterial disease,NA,NA,PAD procedure performed (3),L60.2,Endarterectomy of femoral artery NEC
+Peripheral arterial disease,NA,NA,PAD procedure performed (3),L60.3,Profundoplasty of femoral artery and patch repair of deep femoral artery
+Peripheral arterial disease,NA,NA,PAD procedure performed (3),L60.4,Profundoplasty of femoral artery NEC
+Peripheral arterial disease,NA,NA,PAD procedure performed (3),L60.8,Other specified reconstruction of femoral artery
+Peripheral arterial disease,NA,NA,PAD procedure performed (3),L60.9,Unspecified reconstruction of femoral artery
+Peripheral arterial disease,NA,NA,PAD procedure performed (3),L62,Other open operations on femoral artery
+Peripheral arterial disease,NA,NA,PAD procedure performed (3),L62.1,Repair of femoral artery NEC
+Peripheral arterial disease,NA,NA,PAD procedure performed (3),L62.2,Open embolectomy of femoral artery
+Peripheral arterial disease,NA,NA,PAD procedure performed (3),L62.8,Other specified other open operations on femoral artery
+Peripheral arterial disease,NA,NA,PAD procedure performed (3),L62.9,Unspecified other open operations on femoral artery
+Peripheral arterial disease,NA,NA,PAD procedure performed (3),L63.1,Percutaneous transluminal angioplasty of femoral artery
+Peripheral arterial disease,NA,NA,PAD procedure performed (3),L63.2,Percutaneous transluminal embolectomy of femoral artery
+Peripheral arterial disease,NA,NA,PAD procedure performed (3),L63.3,Percutaneous transluminal embolisation of femoral artery
+Peripheral arterial disease,NA,NA,PAD procedure performed (3),L63.5,Percutaneous transluminal insertion of stent into femoral artery
+Peripheral arterial disease,NA,NA,PAD procedure performed (3),L65,Revision of reconstruction of artery
+Peripheral arterial disease,NA,NA,PAD procedure performed (3),L65.1,Revision of reconstruction involving aorta
+Peripheral arterial disease,NA,NA,PAD procedure performed (3),L65.2,Revision of reconstruction involving iliac artery
+Peripheral arterial disease,NA,NA,PAD procedure performed (3),L65.3,Revision of reconstruction involving femoral artery
+Peripheral neuropathies (excluding cranial nerve and carpal tunnel syndromes),G56.1,Other lesions of median nerve,Diagnosis of peripheral neuropathy,NA,NA
+Peripheral neuropathies (excluding cranial nerve and carpal tunnel syndromes),G56.2,Lesion of ulnar nerve,Diagnosis of peripheral neuropathy,NA,NA
+Peripheral neuropathies (excluding cranial nerve and carpal tunnel syndromes),G56.3,Lesion of radial nerve,Diagnosis of peripheral neuropathy,NA,NA
+Peripheral neuropathies (excluding cranial nerve and carpal tunnel syndromes),G56.4,Causalgia,Diagnosis of peripheral neuropathy,NA,NA
+Peripheral neuropathies (excluding cranial nerve and carpal tunnel syndromes),G56.8,Other mononeuropathies of upper limb,Diagnosis of peripheral neuropathy,NA,NA
+Peripheral neuropathies (excluding cranial nerve and carpal tunnel syndromes),G56.9,"Mononeuropathy of upper limb, unspecified",Diagnosis of peripheral neuropathy,NA,NA
+Peripheral neuropathies (excluding cranial nerve and carpal tunnel syndromes),G57,Mononeuropathies of lower limb,Diagnosis of peripheral neuropathy,NA,NA
+Peripheral neuropathies (excluding cranial nerve and carpal tunnel syndromes),G58,Other mononeuropathies,Diagnosis of peripheral neuropathy,NA,NA
+Peripheral neuropathies (excluding cranial nerve and carpal tunnel syndromes),G59,Mononeuropathy in diseases classified elsewhere,Diagnosis of peripheral neuropathy,NA,NA
+Peripheral neuropathies (excluding cranial nerve and carpal tunnel syndromes),G60,Hereditary and idiopathic neuropathy,Diagnosis of peripheral neuropathy,NA,NA
+Peripheral neuropathies (excluding cranial nerve and carpal tunnel syndromes),G61,Inflammatory polyneuropathy,Diagnosis of peripheral neuropathy,NA,NA
+Peripheral neuropathies (excluding cranial nerve and carpal tunnel syndromes),G62,Other polyneuropathies,Diagnosis of peripheral neuropathy,NA,NA
+Peripheral neuropathies (excluding cranial nerve and carpal tunnel syndromes),G63,Polyneuropathy in diseases classified elsewhere,Diagnosis of peripheral neuropathy,NA,NA
+Peripheral neuropathies (excluding cranial nerve and carpal tunnel syndromes),G64,Other disorders of peripheral nervous system,Diagnosis of peripheral neuropathy,NA,NA
+Peripheral neuropathies (excluding cranial nerve and carpal tunnel syndromes),M14.6,Neuropathic arthropathy,History of peripheral neuropathy,NA,NA
+Peripheral neuropathies (excluding cranial nerve and carpal tunnel syndromes),M49.4,Neuropathic spondylopathy,History of peripheral neuropathy,NA,NA
+Peripheral neuropathies (excluding cranial nerve and carpal tunnel syndromes),E85.1,Neuropathic heredofamilial amyloidosis,History of peripheral neuropathy,NA,NA
+Personality disorders,F60,Specific personality disorders,Diagnosis of Personality disorders,NA,NA
+Personality disorders,F61,Mixed and other personality disorders,Diagnosis of Personality disorders,NA,NA
+Polycystic ovarian syndrome,E28.2,Polycystic ovarian syndrome,Diagnosis of Polycystic ovarian syndrome,NA,NA
+Polycythaemia vera,D45,Polycythaemia vera,Diagnosis of Polycythaemia vera,NA,NA
+Polymyalgia Rheumatica,M31.5,Giant cell arteritis with polymyalgia rheumatica,Diagnosis of Polymyalgia Rheumatica,NA,NA
+Polymyalgia Rheumatica,M35.3,Polymyalgia rheumatica,Diagnosis of Polymyalgia Rheumatica,NA,NA
+Portal hypertension,K76.6,Portal hypertension,Diagnosis of Portal hypertension,NA,NA
+"Postviral fatigue syndrome, neurasthenia and fibromyalgia",G93.3,Postviral fatigue syndrome,"Diagnosis of Postviral fatigue syndrome, neurasthenia and fibromyalgia",NA,NA
+"Postviral fatigue syndrome, neurasthenia and fibromyalgia",F48.0,Neurasthenia,"Diagnosis of Postviral fatigue syndrome, neurasthenia and fibromyalgia",NA,NA
+"Postviral fatigue syndrome, neurasthenia and fibromyalgia",M79.7,Fibromyalgia,"Diagnosis of Postviral fatigue syndrome, neurasthenia and fibromyalgia",NA,NA
+Primary Malignancy_biliary tract,C22.1,Malignant neoplasm: Intrahepatic bile duct carcinoma,Diagnosis of Primary Malignancy_biliary tract,NA,NA
+Primary Malignancy_biliary tract,C24,Malignant neoplasm of other and unspecified parts of biliary tract,Diagnosis of Primary Malignancy_biliary tract,NA,NA
+Primary Malignancy_Bladder,C67,Malignant neoplasm of bladder,Diagnosis of Primary Malignancy_Bladder,NA,NA
+Primary Malignancy_Bone and articular cartilage,C40,Malignant neoplasm of bone and articular cartilage of limbs,Diagnosis of Primary Malignancy_Bone and articular cartilage,NA,NA
+Primary Malignancy_Bone and articular cartilage,C41,Malignant neoplasm of bone and articular cartilage of other and unspecified sites,Diagnosis of Primary Malignancy_Bone and articular cartilage,NA,NA
+"Primary Malignancy_Brain, Other CNS and Intracranial",C70,Malignant neoplasm of meninges,"Diagnosis of Primary Malignancy_Brain, Other CNS and Intracranial",NA,NA
+"Primary Malignancy_Brain, Other CNS and Intracranial",C71,Malignant neoplasm of brain,"Diagnosis of Primary Malignancy_Brain, Other CNS and Intracranial",NA,NA
+"Primary Malignancy_Brain, Other CNS and Intracranial",C72,"Malignant neoplasm of spinal cord, cranial nerves and other parts of central nervous system","Diagnosis of Primary Malignancy_Brain, Other CNS and Intracranial",NA,NA
+"Primary Malignancy_Brain, Other CNS and Intracranial",C75.1,Malignant neoplasm: Pituitary gland,"Diagnosis of Primary Malignancy_Brain, Other CNS and Intracranial",NA,NA
+"Primary Malignancy_Brain, Other CNS and Intracranial",C75.2,Malignant neoplasm: Craniopharyngeal duct,"Diagnosis of Primary Malignancy_Brain, Other CNS and Intracranial",NA,NA
+"Primary Malignancy_Brain, Other CNS and Intracranial",C75.3,Malignant neoplasm: Pineal gland,"Diagnosis of Primary Malignancy_Brain, Other CNS and Intracranial",NA,NA
+"Primary Malignancy_Brain, Other CNS and Intracranial",C75.4,Malignant neoplasm: Carotid body,"Diagnosis of Primary Malignancy_Brain, Other CNS and Intracranial",NA,NA
+"Primary Malignancy_Brain, Other CNS and Intracranial",C75.5,Malignant neoplasm: Aortic body and other paraganglia,"Diagnosis of Primary Malignancy_Brain, Other CNS and Intracranial",NA,NA
+Primary Malignancy_Breast,C50,Malignant neoplasm of breast,Diagnosis of Primary Malignancy_Breast,NA,NA
+Primary Malignancy_Breast,D05,Carcinoma in situ of breast,Diagnosis of Primary Malignancy_Breast,NA,NA
+Primary Malignancy_Cervical,C53,Malignant neoplasm of cervix uteri,Diagnosis of Primary Malignancy_Cervical,NA,NA
+Primary Malignancy_colorectal and anus,C18,Malignant neoplasm of colon,Diagnosis of Primary Malignancy_colorectal and anus,NA,NA
+Primary Malignancy_colorectal and anus,C19,Malignant neoplasm of rectosigmoid junction,Diagnosis of Primary Malignancy_colorectal and anus,NA,NA
+Primary Malignancy_colorectal and anus,C20,Malignant neoplasm of rectum,Diagnosis of Primary Malignancy_colorectal and anus,NA,NA
+Primary Malignancy_colorectal and anus,C21,Malignant neoplasm of anus and anal canal,Diagnosis of Primary Malignancy_colorectal and anus,NA,NA
+Primary Malignancy_Kidney and Ureter,C64,"Malignant neoplasm of kidney, except renal pelvis",Diagnosis of Primary Malignancy_Kidney and Ureter,NA,NA
+Primary Malignancy_Kidney and Ureter,C65,Malignant neoplasm of renal pelvis,Diagnosis of Primary Malignancy_Kidney and Ureter,NA,NA
+Primary Malignancy_Kidney and Ureter,C66,Malignant neoplasm of ureter,Diagnosis of Primary Malignancy_Kidney and Ureter,NA,NA
+Primary Malignancy_Liver,C22.0,Malignant neoplasm: Liver cell carcinoma,Diagnosis of Primary Malignancy_Liver,NA,NA
+Primary Malignancy_Liver,C22.2,Malignant neoplasm: Hepatoblastoma,Diagnosis of Primary Malignancy_Liver,NA,NA
+Primary Malignancy_Liver,C22.3,Malignant neoplasm: Angiosarcoma of liver,Diagnosis of Primary Malignancy_Liver,NA,NA
+Primary Malignancy_Liver,C22.4,Malignant neoplasm: Other sarcomas of liver,Diagnosis of Primary Malignancy_Liver,NA,NA
+Primary Malignancy_Liver,C22.7,Malignant neoplasm: Other specified carcinomas of liver,Diagnosis of Primary Malignancy_Liver,NA,NA
+Primary Malignancy_Liver,C22.9,"Malignant neoplasm: Liver, unspecified",Diagnosis of Primary Malignancy_Liver,NA,NA
+Primary Malignancy_Lung and trachea,C33,Malignant neoplasm of trachea,Diagnosis of Primary Malignancy_Lung and trachea,NA,NA
+Primary Malignancy_Lung and trachea,C34,Malignant neoplasm of bronchus and lung,Diagnosis of Primary Malignancy_Lung and trachea,NA,NA
+Primary Malignancy_Malignant Melanoma,C43,Malignant melanoma of skin,Diagnosis of Primary Malignancy_Malignant Melanoma,NA,NA
+Primary Malignancy_Mesothelioma,C45,Mesothelioma,Diagnosis of Primary Malignancy_Mesothelioma,NA,NA
+Primary Malignancy_Multiple independent sites,C97,Malignant neoplasms of independent (primary) multiple sites,Diagnosis of Primary Malignancy_Multiple independent sites,NA,NA
+Primary Malignancy_Oesophageal,C15,Malignant neoplasm of oesophagus,Diagnosis of Primary Malignancy_Oesophageal,NA,NA
+Primary Malignancy_Oro-pharyngeal,C00,Malignant neoplasm of lip,Diagnosis of Primary Malignancy_Oro-pharyngeal,NA,NA
+Primary Malignancy_Oro-pharyngeal,C01,Malignant neoplasm of base of tongue,Diagnosis of Primary Malignancy_Oro-pharyngeal,NA,NA
+Primary Malignancy_Oro-pharyngeal,C02,Malignant neoplasm of other and unspecified parts of tongue,Diagnosis of Primary Malignancy_Oro-pharyngeal,NA,NA
+Primary Malignancy_Oro-pharyngeal,C03,Malignant neoplasm of gum,Diagnosis of Primary Malignancy_Oro-pharyngeal,NA,NA
+Primary Malignancy_Oro-pharyngeal,C04,Malignant neoplasm of floor of mouth,Diagnosis of Primary Malignancy_Oro-pharyngeal,NA,NA
+Primary Malignancy_Oro-pharyngeal,C05,Malignant neoplasm of palate,Diagnosis of Primary Malignancy_Oro-pharyngeal,NA,NA
+Primary Malignancy_Oro-pharyngeal,C06,Malignant neoplasm of other and unspecified parts of mouth,Diagnosis of Primary Malignancy_Oro-pharyngeal,NA,NA
+Primary Malignancy_Oro-pharyngeal,C07,Malignant neoplasm of parotid gland,Diagnosis of Primary Malignancy_Oro-pharyngeal,NA,NA
+Primary Malignancy_Oro-pharyngeal,C08,Malignant neoplasm of other and unspecified major salivary glands,Diagnosis of Primary Malignancy_Oro-pharyngeal,NA,NA
+Primary Malignancy_Oro-pharyngeal,C09,Malignant neoplasm of tonsil,Diagnosis of Primary Malignancy_Oro-pharyngeal,NA,NA
+Primary Malignancy_Oro-pharyngeal,C10,Malignant neoplasm of oropharynx,Diagnosis of Primary Malignancy_Oro-pharyngeal,NA,NA
+Primary Malignancy_Oro-pharyngeal,C11,Malignant neoplasm of nasopharynx,Diagnosis of Primary Malignancy_Oro-pharyngeal,NA,NA
+Primary Malignancy_Oro-pharyngeal,C12,Malignant neoplasm of piriform sinus,Diagnosis of Primary Malignancy_Oro-pharyngeal,NA,NA
+Primary Malignancy_Oro-pharyngeal,C13,Malignant neoplasm of hypopharynx,Diagnosis of Primary Malignancy_Oro-pharyngeal,NA,NA
+Primary Malignancy_Oro-pharyngeal,C14,"Malignant neoplasm of other and ill-defined sites in the lip, oral cavity and pharynx",Diagnosis of Primary Malignancy_Oro-pharyngeal,NA,NA
+Primary Malignancy_Other Organs,C17,Malignant neoplasm of small intestine,Diagnosis of Primary Malignancy_Other Organs,NA,NA
+Primary Malignancy_Other Organs,C23,Malignant neoplasm of gallbladder,Diagnosis of Primary Malignancy_Other Organs,NA,NA
+Primary Malignancy_Other Organs,C26.0,"Malignant neoplasm: Intestinal tract, part unspecified",Possible Diagnosis of Primary Malignancy_Other Organs,NA,NA
+Primary Malignancy_Other Organs,C26.1,Malignant neoplasm: Spleen,Diagnosis of Primary Malignancy_Other Organs,NA,NA
+Primary Malignancy_Other Organs,C26.8,Malignant neoplasm: Overlapping lesion of digestive system,Possible Diagnosis of Primary Malignancy_Other Organs,NA,NA
+Primary Malignancy_Other Organs,C26.9,Malignant neoplasm: Ill-defined sites within the digestive system,Possible Diagnosis of Primary Malignancy_Other Organs,NA,NA
+Primary Malignancy_Other Organs,C30.0,Malignant neoplasm: Nasal cavity,Diagnosis of Primary Malignancy_Other Organs,NA,NA
+Primary Malignancy_Other Organs,C30.1,Malignant neoplasm: Middle ear,Diagnosis of Primary Malignancy_Other Organs,NA,NA
+Primary Malignancy_Other Organs,C31,Malignant neoplasm of accessory sinuses,Diagnosis of Primary Malignancy_Other Organs,NA,NA
+Primary Malignancy_Other Organs,C32,Malignant neoplasm of larynx,Diagnosis of Primary Malignancy_Other Organs,NA,NA
+Primary Malignancy_Other Organs,C37,Malignant neoplasm of thymus,Diagnosis of Primary Malignancy_Other Organs,NA,NA
+Primary Malignancy_Other Organs,C38.0,Malignant neoplasm: Heart,Diagnosis of Primary Malignancy_Other Organs,NA,NA
+Primary Malignancy_Other Organs,C38.1,Malignant neoplasm: Anterior mediastinum,Diagnosis of Primary Malignancy_Other Organs,NA,NA
+Primary Malignancy_Other Organs,C38.2,Malignant neoplasm: Posterior mediastinum,Diagnosis of Primary Malignancy_Other Organs,NA,NA
+Primary Malignancy_Other Organs,C38.3,"Malignant neoplasm: Mediastinum, part unspecified",Diagnosis of Primary Malignancy_Other Organs,NA,NA
+Primary Malignancy_Other Organs,C38.4,Malignant neoplasm: Pleura,Diagnosis of Primary Malignancy_Other Organs,NA,NA
+Primary Malignancy_Other Organs,C38.8,"Overlapping lesion of heart, mediastinum and pleura",Possible Diagnosis of Primary Malignancy_Other Organs,NA,NA
+Primary Malignancy_Other Organs,C39.0,"Malignant neoplasm: Upper respiratory tract, part unspecified",Possible Diagnosis of Primary Malignancy_Other Organs,NA,NA
+Primary Malignancy_Other Organs,C39.8,Malignant neoplasm: Overlapping lesion of respiratory and intrathoracic organs,Possible Diagnosis of Primary Malignancy_Other Organs,NA,NA
+Primary Malignancy_Other Organs,C39.9,Malignant neoplasm: Ill-defined sites within the respiratory system,Possible Diagnosis of Primary Malignancy_Other Organs,NA,NA
+Primary Malignancy_Other Organs,C46,Kaposi sarcoma,Diagnosis of Primary Malignancy_Other Organs,NA,NA
+Primary Malignancy_Other Organs,C47,Malignant neoplasm of peripheral nerves and autonomic nervous system,Diagnosis of Primary Malignancy_Other Organs,NA,NA
+Primary Malignancy_Other Organs,C48,Malignant neoplasm of retroperitoneum and peritoneum,Diagnosis of Primary Malignancy_Other Organs,NA,NA
+Primary Malignancy_Other Organs,C49,Malignant neoplasm of other connective and soft tissue,Possible Diagnosis of Primary Malignancy_Other Organs,NA,NA
+Primary Malignancy_Other Organs,C51,Malignant neoplasm of vulva,Diagnosis of Primary Malignancy_Other Organs,NA,NA
+Primary Malignancy_Other Organs,C52,Malignant neoplasm of vagina,Diagnosis of Primary Malignancy_Other Organs,NA,NA
+Primary Malignancy_Other Organs,C57,Malignant neoplasm of other and unspecified female genital organs,Possible Diagnosis of Primary Malignancy_Other Organs,NA,NA
+Primary Malignancy_Other Organs,C58,Malignant neoplasm of placenta,Diagnosis of Primary Malignancy_Other Organs,NA,NA
+Primary Malignancy_Other Organs,C60,Malignant neoplasm of penis,Diagnosis of Primary Malignancy_Other Organs,NA,NA
+Primary Malignancy_Other Organs,C63,Malignant neoplasm of other and unspecified male genital organs,Possible Diagnosis of Primary Malignancy_Other Organs,NA,NA
+Primary Malignancy_Other Organs,C68,Malignant neoplasm of other and unspecified urinary organs,Possible Diagnosis of Primary Malignancy_Other Organs,NA,NA
+Primary Malignancy_Other Organs,C69,Malignant neoplasm of eye and adnexa,Diagnosis of Primary Malignancy_Other Organs,NA,NA
+Primary Malignancy_Other Organs,C74,Malignant neoplasm of adrenal gland,Diagnosis of Primary Malignancy_Other Organs,NA,NA
+Primary Malignancy_Other Organs,C75.0,Malignant neoplasm: Parathyroid gland,Diagnosis of Primary Malignancy_Other Organs,NA,NA
+Primary Malignancy_Other Organs,C75.8,"Malignant neoplasm: Pluriglandular involvement, unspecified",Possible Diagnosis of Primary Malignancy_Other Organs,NA,NA
+Primary Malignancy_Other Organs,C75.9,"Malignant neoplasm: Endocrine gland, unspecified",Possible Diagnosis of Primary Malignancy_Other Organs,NA,NA
+Primary Malignancy_Other Organs,C76,Malignant neoplasm of other and ill-defined sites,Possible Diagnosis of Primary Malignancy_Other Organs,NA,NA
+Primary Malignancy_Other Organs,C80,Malignant neoplasm without specification of site,Possible Diagnosis of Primary Malignancy_Other Organs,NA,NA
+Primary Malignancy_Other Organs,C88.3,Immunoproliferative small intestinal disease,Diagnosis of Primary Malignancy_Other Organs,NA,NA
+Primary Malignancy_Other Organs,C88.4,Extranodal marginal zone B-cell lymphoma of mucosa-associated lymphoid tissue [MALT-lymphoma],Diagnosis of Primary Malignancy_Other Organs,NA,NA
+Primary Malignancy_Other Organs,C88.7,Other malignant immunoproliferative diseases,Possible Diagnosis of Primary Malignancy_Other Organs,NA,NA
+Primary Malignancy_Other Organs,C88.9,"Malignant immunoproliferative disease, unspecified",Possible Diagnosis of Primary Malignancy_Other Organs,NA,NA
+Primary Malignancy_Other Organs,C96,"Other and unspecified malignant neoplasms of lymphoid, haematopoietic and related tissue",Possible Diagnosis of Primary Malignancy_Other Organs,NA,NA
+Primary Malignancy_Other Skin and subcutaneous tissue,C44,Other malignant neoplasms of skin,Diagnosis of Primary Malignancy_Other Skin and subcutaneous tissue,NA,NA
+Primary Malignancy_Ovarian,C56,Malignant neoplasm of ovary,Diagnosis of Primary Malignancy_Ovarian,NA,NA
+Primary Malignancy_Pancreatic,C25,Malignant neoplasm of pancreas,Diagnosis of Primary Malignancy_Pancreatic,NA,NA
+Primary Malignancy_Prostate,C61,Malignant neoplasm of prostate,Diagnosis of Primary Malignancy_Prostate,NA,NA
+Primary Malignancy_Stomach,C16,Malignant neoplasm of stomach,Diagnosis of Primary Malignancy_Stomach,NA,NA
+Primary Malignancy_Testicular,C62,Malignant neoplasm of testis,Diagnosis of Primary Malignancy_Testicular,NA,NA
+Primary Malignancy_Thyroid,C73,Malignant neoplasm of thyroid gland,Diagnosis of Primary Malignancy_Thyroid,NA,NA
+Primary Malignancy_Uterine,C54,Malignant neoplasm of corpus uteri,Diagnosis of Primary Malignancy_Uterine,NA,NA
+Primary Malignancy_Uterine,C55,"Malignant neoplasm of uterus, part unspecified",Diagnosis of Primary Malignancy_Uterine,NA,NA
+Primary or Idiopathic Thrombocytopaenia,D69.3,Idiopathic thrombocytopenic purpura,Diagnosis of Primary or Idiopathic Thrombocytopaenia,NA,NA
+Primary or Idiopathic Thrombocytopaenia,D69.4,Other primary thrombocytopenia,Diagnosis of Primary or Idiopathic Thrombocytopaenia,NA,NA
+Primary pulmonary hypertension,I27.0,Primary pulmonary hypertension,Diagnosis of Primary pulmonary hypertension,NA,NA
+Psoriasis,L40,Psoriasis,Diagnosis of Psoriasis,NA,NA
+Psoriasis,M07.0,Distal interphalangeal psoriatic arthropathy,Diagnosis of Psoriasis,NA,NA
+Psoriasis,M07.1,Arthritis mutilans,Diagnosis of Psoriasis,NA,NA
+Psoriasis,M07.2,Psoriatic spondylitis,Diagnosis of Psoriasis,NA,NA
+Psoriasis,M07.3,Other psoriatic arthropathies,Diagnosis of Psoriasis,NA,NA
+Psoriasis,M09.0,Juvenile arthritis in psoriasis,Diagnosis of Psoriasis,NA,NA
+Psoriatic arthropathy,M07.0,Distal interphalangeal psoriatic arthropathy,Diagnosis of Psoriatic arthropathy,NA,NA
+Psoriatic arthropathy,M07.1,Arthritis mutilans,Diagnosis of Psoriatic arthropathy,NA,NA
+Psoriatic arthropathy,M07.2,Psoriatic spondylitis,Diagnosis of Psoriatic arthropathy,NA,NA
+Psoriatic arthropathy,M07.3,Other psoriatic arthropathies,Diagnosis of Psoriatic arthropathy,NA,NA
+Psoriatic arthropathy,L40.5,Arthropathic psoriasis,Diagnosis of Psoriatic arthropathy,NA,NA
+Ptosis of eyelid,H02.4,Ptosis of eyelid,Diagnosis of ptosis of eyelid,NA,NA
+Ptosis of eyelid,NA,NA,Procedure for Ptosis of eyelid,C18.1,Correction of ptosis of eyelid using levator muscle technique
+Ptosis of eyelid,NA,NA,Procedure for Ptosis of eyelid,C18.2,Correction of ptosis of eyelid using frontalis muscle technique
+Ptosis of eyelid,NA,NA,Procedure for Ptosis of eyelid,C18.3,Correction of ptosis of eyelid using sling of fascia
+Ptosis of eyelid,NA,NA,Procedure for Ptosis of eyelid,C18.4,Correction of ptosis of eyelid using superior rectus muscle technique
+Ptosis of eyelid,NA,NA,Procedure for Ptosis of eyelid,C18.5,Tarsomullerectomy
+Ptosis of eyelid,NA,NA,Procedure for Ptosis of eyelid,C18.6,Correction of ptosis of eyelid using aponeurosis technique
+Ptosis of eyelid,NA,NA,Procedure for Ptosis of eyelid,C18.8,Other specified correction of ptosis of eyelid
+Ptosis of eyelid,NA,NA,Procedure for Ptosis of eyelid,C18.9,Unspecified correction of ptosis of eyelid
+Respiratory failure,J96,"Respiratory failure, not elsewhere classified",Diagnosis of Respiratory failure,NA,NA
+Retinal detachments and breaks,H33.0,Retinal detachment with retinal break,Diagnosis of Retinal detachments and breaks,NA,NA
+Retinal detachments and breaks,H33.3,Retinal breaks without detachment,Diagnosis of Retinal detachments and breaks,NA,NA
+Retinal detachments and breaks,H33.4,Traction detachment of retina,Diagnosis of Retinal detachments and breaks,NA,NA
+Retinal detachments and breaks,H33.5,Other retinal detachments,Diagnosis of Retinal detachments and breaks,NA,NA
+Retinal detachments and breaks,NA,NA,Procedure for Retinal detachment,C81,Photocoagulation of retina for detachment
+Retinal detachments and breaks,NA,NA,Procedure for Retinal detachment,C81.1,Xenon photocoagulation of retina for detachment
+Retinal detachments and breaks,NA,NA,Procedure for Retinal detachment,C81.2,Laser photocoagulation of retina for detachment
+Retinal detachments and breaks,NA,NA,Procedure for Retinal detachment,C81.8,Other specified photocoagulation of retina for detachment
+Retinal detachments and breaks,NA,NA,Procedure for Retinal detachment,C81.9,Unspecified photocoagulation of retina for detachment
+Retinal vascular occlusions,H34,Retinal vascular occlusions,Diagnosis of Retinal vascular occlusions,NA,NA
+Rheumatic valve dz,I05,Rheumatic mitral valve diseases,Diagnosis of Rheumatic valve dz,NA,NA
+Rheumatic valve dz,I06,Rheumatic aortic valve diseases,Diagnosis of Rheumatic valve dz,NA,NA
+Rheumatic valve dz,I07,Rheumatic tricuspid valve diseases,Diagnosis of Rheumatic valve dz,NA,NA
+Rheumatoid Arthritis,J99.0,Rheumatoid lung disease,Diagnosis of Rheumatoid Arthritis,NA,NA
+Rheumatoid Arthritis,M05,Seropositive rheumatoid arthritis,Diagnosis of Rheumatoid Arthritis,NA,NA
+Rheumatoid Arthritis,M06,Other rheumatoid arthritis,Diagnosis of Rheumatoid Arthritis,NA,NA
+Rosacea,L71.1,Rhinophyma,Diagnosis of Rosacea,NA,NA
+Rosacea,L71.8,Other rosacea,Diagnosis of Rosacea,NA,NA
+Rosacea,L71.9,"Rosacea, unspecified",Diagnosis of Rosacea,NA,NA
+Sarcoidosis,D86,Sarcoidosis,Diagnosis of Sarcoidosis,NA,NA
+Sarcoidosis,G53.2,Multiple cranial nerve palsies in sarcoidosis,Diagnosis of Sarcoidosis,NA,NA
+Sarcoidosis,M63.3,Myositis in sarcoidosis,Diagnosis of Sarcoidosis,NA,NA
+"Schizophrenia, schizotypal and delusional disorders",F20,Schizophrenia,"Diagnosis of Schizophrenia, schizotypal and delusional disorders",NA,NA
+"Schizophrenia, schizotypal and delusional disorders",F21,Schizotypal disorder,"Diagnosis of Schizophrenia, schizotypal and delusional disorders",NA,NA
+"Schizophrenia, schizotypal and delusional disorders",F22,Persistent delusional disorders,"Diagnosis of Schizophrenia, schizotypal and delusional disorders",NA,NA
+"Schizophrenia, schizotypal and delusional disorders",F25,Schizoaffective disorders,"Diagnosis of Schizophrenia, schizotypal and delusional disorders",NA,NA
+"Schizophrenia, schizotypal and delusional disorders",F28,Other nonorganic psychotic disorders,"Diagnosis of Schizophrenia, schizotypal and delusional disorders",NA,NA
+"Schizophrenia, schizotypal and delusional disorders",F29,Unspecified nonorganic psychosis,"Diagnosis of Schizophrenia, schizotypal and delusional disorders",NA,NA
+Scoliosis,M41,Scoliosis,Diagnosis of Scoliosis,NA,NA
+Seborrheic dermatitis,L21,Seborrhoeic dermatitis,Diagnosis of Seborrheic dermatitis,NA,NA
+Secondary Malignancy_Adrenal gland,C79.7,Secondary malignant neoplasm of adrenal gland,Diagnosis of Secondary Malignancy_Adrenal gland,NA,NA
+Secondary Malignancy_Bone,C79.5,Secondary malignant neoplasm of bone and bone marrow,Diagnosis of Secondary Malignancy_Bone,NA,NA
+Secondary Malignancy_Bowel,C78.4,Secondary malignant neoplasm of small intestine,Diagnosis of Secondary Malignancy_Bowel,NA,NA
+Secondary Malignancy_Bowel,C78.5,Secondary malignant neoplasm of large intestine and rectum,Diagnosis of Secondary Malignancy_Bowel,NA,NA
+"Secondary Malignancy_Brain, Other CNS and Intracranial",C79.3,Secondary malignant neoplasm of brain and cerebral meninges,"Diagnosis of Secondary Malignancy_Brain, Other CNS and Intracranial",NA,NA
+"Secondary Malignancy_Brain, Other CNS and Intracranial",C79.4,Secondary malignant neoplasm of other and unspecified parts of nervous system,"Diagnosis of Secondary Malignancy_Brain, Other CNS and Intracranial",NA,NA
+Secondary malignancy_Liver and intrahepatic bile duct,C78.7,Secondary malignant neoplasm of liver and intrahepatic bile duct,Diagnosis of Secondary malignancy_Liver and intrahepatic bile duct,NA,NA
+Secondary Malignancy_Lung,C78.0,Secondary malignant neoplasm of lung,Diagnosis of Secondary Malignancy_Lung,NA,NA
+Secondary Malignancy_Lymph Nodes,C77,Secondary and unspecified malignant neoplasm of lymph nodes,Diagnosis of Secondary Malignancy_Lymph Nodes,NA,NA
+Secondary Malignancy_Other organs,C78.1,Secondary malignant neoplasm of mediastinum,Diagnosis of Secondary Malignancy_Other organs,NA,NA
+Secondary Malignancy_Other organs,C78.3,Secondary malignant neoplasm of other and unspecified respiratory organs,Possible diagnosis of Secondary Malignancy_Other organs,NA,NA
+Secondary Malignancy_Other organs,C78.8,Secondary malignant neoplasm of other and unspecified digestive organs,Possible diagnosis of Secondary Malignancy_Other organs,NA,NA
+Secondary Malignancy_Other organs,C79.0,Secondary malignant neoplasm of kidney and renal pelvis,Diagnosis of Secondary Malignancy_Other organs,NA,NA
+Secondary Malignancy_Other organs,C79.1,Secondary malignant neoplasm of bladder and other and unspecified urinary organs,Diagnosis of Secondary Malignancy_Other organs,NA,NA
+Secondary Malignancy_Other organs,C79.2,Secondary malignant neoplasm of skin,Diagnosis of Secondary Malignancy_Other organs,NA,NA
+Secondary Malignancy_Other organs,C79.6,Secondary malignant neoplasm of ovary,Diagnosis of Secondary Malignancy_Other organs,NA,NA
+Secondary Malignancy_Other organs,C79.8,Secondary malignant neoplasm of other specified sites,Possible diagnosis of Secondary Malignancy_Other organs,NA,NA
+Secondary Malignancy_Other organs,C79.9,"Secondary malignant neoplasm, unspecified site",Possible diagnosis of Secondary Malignancy_Other organs,NA,NA
+Secondary Malignancy_Pleura,C78.2,Secondary malignant neoplasm of pleura,Diagnosis of Secondary Malignancy_Pleura,NA,NA
+Secondary Malignancy_retroperitoneum and peritoneum,C78.6,Secondary malignant neoplasm of retroperitoneum and peritoneum,Diagnosis of Secondary Malignancy_retroperitoneum and peritoneum,NA,NA
+Secondary or other Thrombocytopaenia,D69.5,Secondary thrombocytopenia,Diagnosis of Secondary or other Thrombocytopaenia,NA,NA
+Secondary or other Thrombocytopaenia,D69.6,"Thrombocytopenia, unspecified",Diagnosis of Secondary or other Thrombocytopaenia,NA,NA
+Secondary or other Thrombocytopaenia,D82.0,Wiskott-Aldrich syndrome,Diagnosis of Secondary or other Thrombocytopaenia,NA,NA
+Secondary or other Thrombocytopaenia,M31.1,Thrombotic microangiopathy,Diagnosis of Secondary or other Thrombocytopaenia,NA,NA
+Secondary polycythaemia,D75.1,Secondary polycythaemia,Diagnosis of Secondary polycythaemia,NA,NA
+Secondary pulmonary hypertension,I27.2,Other secondary pulmonary hypertension,Diagnosis of secondary pulmonary hypertension,NA,NA
+Sick sinus syndrome,I49.5,Sick sinus syndrome,Diagnosis of Sick sinus syndrome,NA,NA
+Sickle-cell anaemia,D57.0,Sickle-cell anaemia with crisis,Diagnosis of Sickle-cell anaemia,NA,NA
+Sickle-cell anaemia,D57.1,Sickle-cell anaemia without crisis,Diagnosis of Sickle-cell anaemia,NA,NA
+Sickle-cell anaemia,D57.2,Double heterozygous sickling disorders,Diagnosis of Sickle-cell anaemia,NA,NA
+Sickle-cell anaemia,D57.8,Other sickle-cell disorders,Diagnosis of Sickle-cell anaemia,NA,NA
+Sjogren's disease,M35.0,Sicca syndrome [Sjögren],Diagnosis of Sjogren's disease,NA,NA
+Sleep apnoea,G47.3,Sleep apnoea,Diagnosis of sleep apnoea,NA,NA
+Spina bifida,Q05,Spina bifida,Diagnosis of Spina bifida,NA,NA
+Spina bifida,Q76.0,Spina bifida occulta,Diagnosis of Spina bifida,NA,NA
+Spina bifida,NA,NA,Diagnosis of Spina bifida,A49,Repair of spina bifida
+Spina bifida,NA,NA,Diagnosis of Spina bifida,A49.1,Freeing of spinal tether NEC
+Spina bifida,NA,NA,Diagnosis of Spina bifida,A49.2,Closure of spinal myelomeningocele
+Spina bifida,NA,NA,Diagnosis of Spina bifida,A49.3,Closure of spinal meningocele
+Spina bifida,NA,NA,Diagnosis of Spina bifida,A49.4,Complex freeing of spinal tether
+Spina bifida,NA,NA,Diagnosis of Spina bifida,A49.8,Other specified repair of spina bifida
+Spina bifida,NA,NA,Diagnosis of Spina bifida,A49.9,Unspecified repair of spina bifida
+Spinal stenosis,M48.0,Spinal stenosis,Diagnosis of Spinal stenosis,NA,NA
+Spondylolisthesis,M43.1,Spondylolisthesis,Diagnosis of Spondylolisthesis,NA,NA
+Spondylosis,M47.1,Other spondylosis with myelopathy,Diagnosis of Spondylosis,NA,NA
+Spondylosis,M47.2,Other spondylosis with radiculopathy,Diagnosis of Spondylosis,NA,NA
+Spondylosis,M47.8,Other spondylosis,Diagnosis of Spondylosis,NA,NA
+Spondylosis,M47.9,"Spondylosis, unspecified",Diagnosis of Spondylosis,NA,NA
+Stable angina,I201,Angina pectoris with documented spasm,Stable angina admission (4),NA,NA
+Stable angina,I208,Other forms of angina pectoris,Stable angina admission (4),NA,NA
+Stable angina,I209,"Angina pectoris, unspecified",Stable angina admission (4),NA,NA
+Stroke NOS,G46.3,Brain stem stroke syndrome,Diagnosis of Stroke NOS,NA,NA
+Stroke NOS,G46.4,Cerebellar stroke syndrome,Diagnosis of Stroke NOS,NA,NA
+Stroke NOS,G46.5,Pure motor lacunar syndrome,Diagnosis of Stroke NOS,NA,NA
+Stroke NOS,G46.6,Pure sensory lacunar syndrome,Diagnosis of Stroke NOS,NA,NA
+Stroke NOS,G46.7,Other lacunar syndromes,Diagnosis of Stroke NOS,NA,NA
+Stroke NOS,G46.8,Other vascular syndromes of brain in cerebrovascular diseases,Diagnosis of Stroke NOS,NA,NA
+Stroke NOS,I64,"Stroke, not specified as haemorrhage or infarction",Diagnosis of Stroke NOS,NA,NA
+Stroke NOS,I69.4,"Sequelae of stroke, not specified as haemorrhage or infarction","History of stroke, not specified as haemorrhage or infarction",NA,NA
+Subarachnoid haemorrhage,I60,Subarachnoid haemorrhage,Diagnosis of subarachnoid ahemorrhage,NA,NA
+Subarachnoid haemorrhage,I69.0,Sequelae of subarachnoid haemorrhage,History of subarachnoid haemorrhage,NA,NA
+Subdural haematoma - nontraumatic,I62.0,Subdural haemorrhage (acute)(nontraumatic),Diagnosis of Subdural haemorrhage (acute)(nontraumatic),NA,NA
+Supraventricular tachycardia,I47.1,Supraventricular tachycardia,Diagnosis of Supraventricular tachycardia,NA,NA
+Systemic sclerosis,M34,Systemic sclerosis,Diagnosis of Systemic sclerosis,NA,NA
+Thalassaemia,D56.0,Alpha thalassaemia,Diagnosis of Thalassaemia,NA,NA
+Thalassaemia,D56.1,Beta thalassaemia,Diagnosis of Thalassaemia,NA,NA
+Thalassaemia,D56.2,Delta-beta thalassaemia,Diagnosis of Thalassaemia,NA,NA
+Thalassaemia,D56.8,Other thalassaemias,Diagnosis of Thalassaemia,NA,NA
+Thalassaemia,D56.9,"Thalassaemia, unspecified",Diagnosis of Thalassaemia,NA,NA
+Thalassaemia trait,D56.3,Thalassaemia trait,Diagnosis of Thalassaemia trait,NA,NA
+Thrombophilia,D68.5,Primary Thrombophilia,Diagnosis of Thrombophilia,NA,NA
+Thrombophilia,D68.6,Other Thrombophilia,Diagnosis of Thrombophilia,NA,NA
+Tinnitus,H93.1,Tinnitus,Diagnosis of Tinnitus,NA,NA
+Transient ischaemic attack,G45.0,Vertebro-basilar artery syndrome,Diagnosis of TIA,NA,NA
+Transient ischaemic attack,G45.1,Carotid artery syndrome (hemispheric),Diagnosis of TIA,NA,NA
+Transient ischaemic attack,G45.2,Multiple and bilateral precerebral artery syndromes,Diagnosis of TIA,NA,NA
+Transient ischaemic attack,G45.3,Amaurosis fugax,Diagnosis of TIA,NA,NA
+Transient ischaemic attack,G45.4,Transient global amnesia,Diagnosis of TIA,NA,NA
+Transient ischaemic attack,G45.8,Other transient cerebral ischaemic attacks and related syndromes,Diagnosis of TIA,NA,NA
+Transient ischaemic attack,G45.9,"Transient cerebral ischaemic attack, unspecified",Diagnosis of TIA,NA,NA
+Transient ischaemic attack,G46.0,Middle cerebral artery syndrome,Diagnosis of TIA,NA,NA
+Transient ischaemic attack,G46.1,Anterior cerebral artery syndrome,Diagnosis of TIA,NA,NA
+Transient ischaemic attack,G46.2,Posterior cerebral artery syndrome,Diagnosis of TIA,NA,NA
+Transient ischaemic attack,I65,"Occlusion and stenosis of precerebral arteries, not resulting in cerebral infarction",Diagnosis of TIA,NA,NA
+Transient ischaemic attack,I66,"Occlusion and stenosis of cerebral arteries, not resulting in cerebral infarction",Diagnosis of TIA,NA,NA
+Trifascicular block,I45.3,Trifascicular block,Diagnosis of Trifascicular block,NA,NA
+Trigeminal neuralgia,G50.0,Trigeminal neuralgia,Diagnosis of trigeminal neuralgia,NA,NA
+Tuberculosis,A15,"Respiratory tuberculosis, bacteriologically and histologically confirmed",Diagnosis of Tuberculosis,NA,NA
+Tuberculosis,A16,"Respiratory tuberculosis, not confirmed bacteriologically or histologically",Diagnosis of Tuberculosis,NA,NA
+Tuberculosis,A17,Tuberculosis of nervous system,Diagnosis of Tuberculosis,NA,NA
+Tuberculosis,A18,Tuberculosis of other organs,Diagnosis of Tuberculosis,NA,NA
+Tuberculosis,A19,Miliary tuberculosis,Diagnosis of Tuberculosis,NA,NA
+Tuberculosis,B20.0,HIV disease resulting in mycobacterial infection,Diagnosis of Tuberculosis,NA,NA
+Tuberculosis,B90,Sequelae of tuberculosis,Diagnosis of Tuberculosis,NA,NA
+Tuberculosis,J65,Pneumoconiosis associated with tuberculosis,Diagnosis of Tuberculosis,NA,NA
+Tuberculosis,K23.0,Tuberculous oesophagitis,Diagnosis of Tuberculosis,NA,NA
+Tuberculosis,K67.3,Tuberculous peritonitis,Diagnosis of Tuberculosis,NA,NA
+Tuberculosis,K93.0,"Tuberculous disorders of intestines, peritoneum and mesenteric glands",Diagnosis of Tuberculosis,NA,NA
+Tuberculosis,M01.1,Tuberculous arthritis,Diagnosis of Tuberculosis,NA,NA
+Tuberculosis,M49.0,Tuberculosis of spine,Diagnosis of Tuberculosis,NA,NA
+Tuberculosis,M90.0,Tuberculosis of bone,Diagnosis of Tuberculosis,NA,NA
+Tuberculosis,N33.0,Tuberculous cystitis,Diagnosis of Tuberculosis,NA,NA
+Tuberculosis,N74.0,Tuberculous infection of cervix uteri,Diagnosis of Tuberculosis,NA,NA
+Tuberculosis,N74.1,Female tuberculous pelvic inflammatory disease,Diagnosis of Tuberculosis,NA,NA
+Tuberculosis,P37.0,Congenital tuberculosis,Diagnosis of Tuberculosis,NA,NA
+Ulcerative colitis,K51,Ulcerative colitis,Diagnosis of Ulcerative colitis,NA,NA
+Unstable Angina,I200,Unstable angina,yes (1),NA,NA
+Urinary Incontinence,N39.3,Stress incontinence,Diagnosis of Urinary Incontinence,NA,NA
+Urinary Incontinence,N39.4,Other specified urinary incontinence,Diagnosis of Urinary Incontinence,NA,NA
+Urolithiasis,N13.2,Hydronephrosis with renal and ureteral calculous obstruction,Diagnosis of Urolithiasis,NA,NA
+Urolithiasis,N20.0,Calculus of kidney,Diagnosis of Urolithiasis,NA,NA
+Urolithiasis,N20.1,Calculus of ureter,Diagnosis of Urolithiasis,NA,NA
+Urolithiasis,N20.2,Calculus of kidney with calculus of ureter,Diagnosis of Urolithiasis,NA,NA
+Urolithiasis,N20.9,"Urinary calculus, unspecified",Diagnosis of Urolithiasis,NA,NA
+Urolithiasis,N21.0,Calculus in bladder,Diagnosis of Urolithiasis,NA,NA
+Urolithiasis,N21.1,Calculus in urethra,Diagnosis of Urolithiasis,NA,NA
+Urolithiasis,N21.8,Other lower urinary tract calculus,Diagnosis of Urolithiasis,NA,NA
+Urolithiasis,N21.9,"Calculus of lower urinary tract, unspecified",Diagnosis of Urolithiasis,NA,NA
+Urolithiasis,N22.8,Calculus of urinary tract in other diseases classified elsewhere,Diagnosis of Urolithiasis,NA,NA
+Urolithiasis,N23.X,Unspecified renal colic,Diagnosis of Urolithiasis,NA,NA
+Urolithiasis,NA,NA,Procedure for Urolithiasis,M06.1,Open removal of calculus from kidney
+Urolithiasis,NA,NA,Procedure for Urolithiasis,M09,Therapeutic endoscopic operations on calculus of kidney
+Urolithiasis,NA,NA,Procedure for Urolithiasis,M09.1,Endoscopic ultrasound fragmentation of calculus of kidney
+Urolithiasis,NA,NA,Procedure for Urolithiasis,M09.2,Endoscopic electrohydraulic shockwave fragmentation of calculus of kidney
+Urolithiasis,NA,NA,Procedure for Urolithiasis,M09.3,Endoscopic laser fragmentation of calculus of kidney
+Urolithiasis,NA,NA,Procedure for Urolithiasis,M09.4,Endoscopic extraction of calculus of kidney NEC
+Urolithiasis,NA,NA,Procedure for Urolithiasis,M09.8,Other specified therapeutic endoscopic operations on calculus of kidney
+Urolithiasis,NA,NA,Procedure for Urolithiasis,M09.9,Unspecified therapeutic endoscopic operations on calculus of kidney
+Urolithiasis,NA,NA,Procedure for Urolithiasis,M14,Extracorporeal fragmentation of calculus of kidney
+Urolithiasis,NA,NA,Procedure for Urolithiasis,M14.1,Extracorporeal shock wave lithotripsy of calculus of kidney
+Urolithiasis,NA,NA,Procedure for Urolithiasis,M14.8,Other specified extracorporeal fragmentation of calculus of kidney
+Urolithiasis,NA,NA,Procedure for Urolithiasis,M14.9,Unspecified extracorporeal fragmentation of calculus of kidney
+Urolithiasis,NA,NA,Procedure for Urolithiasis,M16.4,Percutaneous nephrolithotomy NEC
+Urolithiasis,NA,NA,Procedure for Urolithiasis,M23.1,Open ureterolithotomy
+Urolithiasis,NA,NA,Procedure for Urolithiasis,M26.1,Nephroscopic laser fragmentation of calculus of ureter
+Urolithiasis,NA,NA,Procedure for Urolithiasis,M26.2,Nephroscopic fragmentation of calculus of ureter NEC
+Urolithiasis,NA,NA,Procedure for Urolithiasis,M26.3,Nephroscopic extraction of calculus of ureter
+Urolithiasis,NA,NA,Procedure for Urolithiasis,M27.1,Ureteroscopic laser fragmentation of calculus of ureter
+Urolithiasis,NA,NA,Procedure for Urolithiasis,M27.2,Ureteroscopic fragmentation of calculus of ureter NEC
+Urolithiasis,NA,NA,Procedure for Urolithiasis,M27.3,Ureteroscopic extraction of calculus of ureter
+Urolithiasis,NA,NA,Procedure for Urolithiasis,M28,Other endoscopic removal of calculus from ureter
+Urolithiasis,NA,NA,Procedure for Urolithiasis,M28.1,Endoscopic laser fragmentation of calculus of ureter NEC
+Urolithiasis,NA,NA,Procedure for Urolithiasis,M28.2,Endoscopic fragmentation of calculus of ureter NEC
+Urolithiasis,NA,NA,Procedure for Urolithiasis,M28.3,Endoscopic extraction of calculus of ureter NEC
+Urolithiasis,NA,NA,Procedure for Urolithiasis,M28.4,Endoscopic catheter drainage of calculus of ureter
+Urolithiasis,NA,NA,Procedure for Urolithiasis,M28.5,Endoscopic drainage of calculus of ureter by dilation of ureter
+Urolithiasis,NA,NA,Procedure for Urolithiasis,M28.8,Other specified other endoscopic removal of calculus from ureter
+Urolithiasis,NA,NA,Procedure for Urolithiasis,M28.9,Unspecified other endoscopic removal of calculus from ureter
+Urolithiasis,NA,NA,Procedure for Urolithiasis,M31,Extracorporeal fragmentation of calculus of ureter
+Urolithiasis,NA,NA,Procedure for Urolithiasis,M31.1,Extracorporeal shockwave lithotripsy of calculus of ureter
+Urolithiasis,NA,NA,Procedure for Urolithiasis,M31.8,Other specified extracorporeal fragmentation of calculus of ureter
+Urolithiasis,NA,NA,Procedure for Urolithiasis,M31.9,Unspecified extracorporeal fragmentation of calculus of ureter
+Urolithiasis,NA,NA,Procedure for Urolithiasis,M39.1,Open removal of calculus from bladder
+Urolithiasis,NA,NA,Procedure for Urolithiasis,M44.2,Endoscopic extraction of calculus of bladder NEC
+Urolithiasis,NA,NA,Procedure for Urolithiasis,M75.4,Open extraction of calculus from urethra
+Urolithiasis,NA,NA,Procedure for Urolithiasis,M86.1,Endoscopic extraction of calculus of urinary diversion
+Urticaria,L50,Urticaria,Diagnosis of Urticaria,NA,NA
+Venous and lymphatic diseases,I780,Hereditary haemorrhagic telangiectasia,NA,NA,NA
+Venous and lymphatic diseases,I83,Varicose veins of lower extremities,NA,NA,NA
+Venous and lymphatic diseases,I87,Other disorders of veins,NA,NA,NA
+Venous and lymphatic diseases,I89,Other noninfective disorders of lymphatic vessels and lymph nodes,NA,NA,NA
+Venous and lymphatic diseases,I972,Postmastectomy lymphoedema syndrome,NA,NA,NA
+Venous and lymphatic diseases,Q820,Hereditary lymphoedema,NA,NA,NA
+Venous thromboembolic disease (Excl PE),I80.1,Phlebitis and thrombophlebitis of femoral vein,Diagnosis of Venous thromboembolic disease (Excl PE),NA,NA
+Venous thromboembolic disease (Excl PE),I80.2,Phlebitis and thrombophlebitis of other deep vessels of lower extremities,Diagnosis of Venous thromboembolic disease (Excl PE),NA,NA
+Venous thromboembolic disease (Excl PE),I63.6,"Cerebral infarction due to cerebral venous thrombosis, nonpyogenic",Diagnosis of Venous thromboembolic disease (Excl PE),NA,NA
+Venous thromboembolic disease (Excl PE),I67.6,Nonpyogenic thrombosis of intracranial venous system,Diagnosis of Venous thromboembolic disease (Excl PE),NA,NA
+Venous thromboembolic disease (Excl PE),I81,Portal vein thrombosis,Diagnosis of Venous thromboembolic disease (Excl PE),NA,NA
+Venous thromboembolic disease (Excl PE),I82.0,Budd-Chiari syndrome,Diagnosis of Venous thromboembolic disease (Excl PE),NA,NA
+Venous thromboembolic disease (Excl PE),I82.2,Embolism and thrombosis of vena cava,Diagnosis of Venous thromboembolic disease (Excl PE),NA,NA
+Venous thromboembolic disease (Excl PE),I82.3,Embolism and thrombosis of renal vein,Diagnosis of Venous thromboembolic disease (Excl PE),NA,NA
+Visual impairment and blindness,H54,Visual impairment including blindness (binocular or monocular),Diagnosis of Visual impairment and blindness,NA,NA
+Vitamin B12 deficiency anaemia,D51,Vitamin B12 deficiency anaemia,Diagnosis of Vitamin B12 deficiency anaemia,NA,NA
+Vitiligo,L80,Vitiligo,Diagnosis of Vitiligo,NA,NA
