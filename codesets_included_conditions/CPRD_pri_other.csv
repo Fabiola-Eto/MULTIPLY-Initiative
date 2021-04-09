@@ -1,350 +1,346 @@
 Disease,ReadCode,MedCode,ReadTerm
-Primary Malignancy_Other Organs,4M20.00,60918,Lymphoma stage I
-Primary Malignancy_Other Organs,4M21.00,94935,Lymphoma stage II
-Primary Malignancy_Other Organs,4M22.00,32240,Lymphoma stage III
-Primary Malignancy_Other Organs,4M23.00,71672,Lymphoma stage IV
-Primary Malignancy_Other Organs,7G03K00,18270,Excision malignant skin tumour
-Primary Malignancy_Other Organs,A789500,27853,HIV disease resulting in Kaposi's sarcoma
-Primary Malignancy_Other Organs,A789511,108054,HIV disease resulting in Kaposi sarcoma
-Primary Malignancy_Other Organs,B120.00,18613,Malignant neoplasm of duodenum
-Primary Malignancy_Other Organs,B121.00,43479,Malignant neoplasm of jejunum
-Primary Malignancy_Other Organs,B122.00,33871,Malignant neoplasm of ileum
-Primary Malignancy_Other Organs,B123.00,63995,Malignant neoplasm of Meckel's diverticulum
-Primary Malignancy_Other Organs,B124.00,66166,"Malignant neoplasm, overlapping lesion of small intestine"
-Primary Malignancy_Other Organs,B12..00,6806,Malignant neoplasm of small intestine and duodenum
-Primary Malignancy_Other Organs,B12y.00,99896,Malignant neoplasm of other specified site small intestine
-Primary Malignancy_Other Organs,B12z.00,43390,Malignant neoplasm of small intestine NOS
-Primary Malignancy_Other Organs,B15..00,8918,Malignant neoplasm of liver and intrahepatic bile ducts
-Primary Malignancy_Other Organs,B15z.00,38978,Malignant neoplasm of liver and intrahepatic bile ducts NOS
-Primary Malignancy_Other Organs,B160.00,16105,Malignant neoplasm of gallbladder
-Primary Malignancy_Other Organs,B160.11,31393,Carcinoma gallbladder
-Primary Malignancy_Other Organs,B16..00,54103,Malignant neoplasm gallbladder and extrahepatic bile ducts
-Primary Malignancy_Other Organs,B16y.00,60312,Malignant neoplasm other gallbladder/extrahepatic bile duct
-Primary Malignancy_Other Organs,B16z.00,15907,Malignant neoplasm gallbladder/extrahepatic bile ducts NOS
-Primary Malignancy_Other Organs,B180100,65159,Malignant neoplasm of perinephric tissue
-Primary Malignancy_Other Organs,B180200,24048,Malignant neoplasm of retrocaecal tissue
-Primary Malignancy_Other Organs,B180.00,21330,Malignant neoplasm of retroperitoneum
-Primary Malignancy_Other Organs,B180z00,61555,Malignant neoplasm of retroperitoneum NOS
-Primary Malignancy_Other Organs,B182.00,101907,Overlapping malign lesion of retroperitoneum and peritoneum
-Primary Malignancy_Other Organs,B18..00,44108,Malignant neoplasm of retroperitoneum and peritoneum
-Primary Malignancy_Other Organs,B18y100,59388,Malignant neoplasm of mesocaecum
-Primary Malignancy_Other Organs,B18y200,30165,Malignant neoplasm of mesorectum
-Primary Malignancy_Other Organs,B18y300,50898,Malignant neoplasm of omentum
-Primary Malignancy_Other Organs,B18y400,64516,Malignant neoplasm of parietal peritoneum
-Primary Malignancy_Other Organs,B18y500,39413,Malignant neoplasm of pelvic peritoneum
-Primary Malignancy_Other Organs,B18y600,69821,Malignant neoplasm of the pouch of Douglas
-Primary Malignancy_Other Organs,B18y700,90290,Malignant neoplasm of mesentery
-Primary Malignancy_Other Organs,B18y.00,46613,Malignant neoplasm of specified parts of peritoneum
-Primary Malignancy_Other Organs,B18yz00,64106,Malignant neoplasm of specified parts of peritoneum NOS
-Primary Malignancy_Other Organs,B18z.00,16298,Malignant neoplasm of retroperitoneum and peritoneum NOS
-Primary Malignancy_Other Organs,B1z0.00,17559,"Malignant neoplasm of intestinal tract, part unspecified"
-Primary Malignancy_Other Organs,B1z1000,108667,Angiosarcoma of spleen
-Primary Malignancy_Other Organs,B1z1100,72224,Fibrosarcoma of spleen
-Primary Malignancy_Other Organs,B1z1.00,65460,Malignant neoplasm of spleen NEC
-Primary Malignancy_Other Organs,B1z1z00,93778,Malignant neoplasm of spleen NOS
-Primary Malignancy_Other Organs,B1z2.00,94776,"Malignant neoplasm, overlapping lesion of digestive system"
-Primary Malignancy_Other Organs,B1z..00,11009,Malig neop oth/ill-defined sites digestive tract/peritoneum
-Primary Malignancy_Other Organs,B1zy.00,56918,Malignant neoplasm other spec digestive tract and peritoneum
-Primary Malignancy_Other Organs,B1zz.00,51255,Malignant neoplasm of digestive tract and peritoneum NOS
-Primary Malignancy_Other Organs,B200000,71204,Malignant neoplasm of cartilage of nose
-Primary Malignancy_Other Organs,B200100,98911,Malignant neoplasm of nasal conchae
-Primary Malignancy_Other Organs,B200200,62761,Malignant neoplasm of septum of nose
-Primary Malignancy_Other Organs,B200300,62182,Malignant neoplasm of vestibule of nose
-Primary Malignancy_Other Organs,B200.00,23389,Malignant neoplasm of nasal cavities
-Primary Malignancy_Other Organs,B200z00,42856,Malignant neoplasm of nasal cavities NOS
-Primary Malignancy_Other Organs,B201000,107916,Malignant neoplasm of auditory (Eustachian) tube
-Primary Malignancy_Other Organs,B201100,98537,Malignant neoplasm of tympanic cavity
-Primary Malignancy_Other Organs,B201200,54613,Malignant neoplasm of tympanic antrum
-Primary Malignancy_Other Organs,B201300,71946,Malignant neoplasm of mastoid air cells
-Primary Malignancy_Other Organs,B201.00,24456,"Malig neop auditory tube, middle ear and mastoid air cells"
-Primary Malignancy_Other Organs,B201z00,73537,"Malig neop auditory tube, middle ear, mastoid air cells NOS"
-Primary Malignancy_Other Organs,B202.00,32174,Malignant neoplasm of maxillary sinus
-Primary Malignancy_Other Organs,B203.00,54636,Malignant neoplasm of ethmoid sinus
-Primary Malignancy_Other Organs,B204.00,15684,Malignant neoplasm of frontal sinus
-Primary Malignancy_Other Organs,B205.00,65215,Malignant neoplasm of sphenoidal sinus
-Primary Malignancy_Other Organs,B206.00,39590,"Malignant neoplasm, overlapping lesion of accessory sinuses"
-Primary Malignancy_Other Organs,B20..00,26652,"Malig neop nasal cavities, middle ear and accessory sinuses"
-Primary Malignancy_Other Organs,B20y.00,96971,"Malig neop other site nasal cavity, middle ear and sinuses"
-Primary Malignancy_Other Organs,B20z.00,55246,Malignant neoplasm of accessory sinus NOS
-Primary Malignancy_Other Organs,B210.00,318,Malignant neoplasm of glottis
-Primary Malignancy_Other Organs,B211.00,26165,Malignant neoplasm of supraglottis
-Primary Malignancy_Other Organs,B212.00,22441,Malignant neoplasm of subglottis
-Primary Malignancy_Other Organs,B213000,63460,Malignant neoplasm of arytenoid cartilage
-Primary Malignancy_Other Organs,B213100,37805,Malignant neoplasm of cricoid cartilage
-Primary Malignancy_Other Organs,B213200,107878,Malignant neoplasm of cuneiform cartilage
-Primary Malignancy_Other Organs,B213300,47862,Malignant neoplasm of thyroid cartilage
-Primary Malignancy_Other Organs,B213.00,43111,Malignant neoplasm of laryngeal cartilage
-Primary Malignancy_Other Organs,B213z00,97332,Malignant neoplasm of laryngeal cartilage NOS
-Primary Malignancy_Other Organs,B214.00,50579,"Malignant neoplasm, overlapping lesion of larynx"
-Primary Malignancy_Other Organs,B215.00,55374,Malignant neoplasm of epiglottis NOS
-Primary Malignancy_Other Organs,B21..00,319,Malignant neoplasm of larynx
-Primary Malignancy_Other Organs,B21y.00,26813,"Malignant neoplasm of larynx, other specified site"
-Primary Malignancy_Other Organs,B21z.00,9237,Malignant neoplasm of larynx NOS
-Primary Malignancy_Other Organs,B230.00,67107,Malignant neoplasm of parietal pleura
-Primary Malignancy_Other Organs,B231.00,106194,Malignant neoplasm of visceral pleura
-Primary Malignancy_Other Organs,B23..00,31573,Malignant neoplasm of pleura
-Primary Malignancy_Other Organs,B23y.00,98104,Malignant neoplasm of other specified pleura
-Primary Malignancy_Other Organs,B23z.00,34742,Malignant neoplasm of pleura NOS
-Primary Malignancy_Other Organs,B240.00,27483,Malignant neoplasm of thymus
-Primary Malignancy_Other Organs,B241000,63430,Malignant neoplasm of endocardium
-Primary Malignancy_Other Organs,B241200,65605,Malignant neoplasm of myocardium
-Primary Malignancy_Other Organs,B241300,94975,Malignant neoplasm of pericardium
-Primary Malignancy_Other Organs,B241.00,95644,Malignant neoplasm of heart
-Primary Malignancy_Other Organs,B241z00,50289,Malignant neoplasm of heart NOS
-Primary Malignancy_Other Organs,B242.00,27715,Malignant neoplasm of anterior mediastinum
-Primary Malignancy_Other Organs,B243.00,92720,Malignant neoplasm of posterior mediastinum
-Primary Malignancy_Other Organs,B24..00,62556,"Malignant neoplasm of thymus, heart and mediastinum"
-Primary Malignancy_Other Organs,B24X.00,61064,"Malignant neoplasm of mediastinum, part unspecified"
-Primary Malignancy_Other Organs,B24y.00,100232,"Malig neop of other site of heart, thymus and mediastinum"
-Primary Malignancy_Other Organs,B24z.00,66750,"Malignant neoplasm of heart, thymus and mediastinum NOS"
-Primary Malignancy_Other Organs,B25..00,39531,"Malig neo, overlapping lesion of heart, mediastinum & pleura"
-Primary Malignancy_Other Organs,B26..00,66646,"Malignant neoplasm, overlap lesion of resp & intrathor orgs"
-Primary Malignancy_Other Organs,B2z0.00,65793,"Malig neop of upper respiratory tract, part unspecified"
-Primary Malignancy_Other Organs,B2z..00,44356,Malig neop other/ill-defined sites resp/intrathoracic organs
-Primary Malignancy_Other Organs,B2zy.00,29283,Malignant neoplasm of other site of respiratory tract
-Primary Malignancy_Other Organs,B2zz.00,42569,Malignant neoplasm of respiratory tract NOS
-Primary Malignancy_Other Organs,B310000,59382,Malignant neoplasm of soft tissue of head
-Primary Malignancy_Other Organs,B310100,40014,Malignant neoplasm of soft tissue of face
-Primary Malignancy_Other Organs,B310200,48517,Malignant neoplasm of soft tissue of neck
-Primary Malignancy_Other Organs,B310300,60035,Malignant neoplasm of cartilage of ear
-Primary Malignancy_Other Organs,B310400,49463,Malignant neoplasm of tarsus of eyelid
-Primary Malignancy_Other Organs,B310500,108389,Malignant neoplasm soft tissues of cervical spine
-Primary Malignancy_Other Organs,B310.00,43475,"Malig neop of connective and soft tissue head, face and neck"
-Primary Malignancy_Other Organs,B310z00,73718,"Malig neop connective and soft tissue head, face, neck NOS"
-Primary Malignancy_Other Organs,B311000,50222,Malignant neoplasm of connective and soft tissue of shoulder
-Primary Malignancy_Other Organs,B311100,64345,"Malignant neoplasm of connective and soft tissue, upper arm"
-Primary Malignancy_Other Organs,B311200,57482,Malignant neoplasm of connective and soft tissue of fore-arm
-Primary Malignancy_Other Organs,B311300,19321,Malignant neoplasm of connective and soft tissue of hand
-Primary Malignancy_Other Organs,B311400,91586,Malignant neoplasm of connective and soft tissue of finger
-Primary Malignancy_Other Organs,B311500,63988,Malignant neoplasm of connective and soft tissue of thumb
-Primary Malignancy_Other Organs,B311.00,53989,Malig neop connective and soft tissue upper limb/shoulder
-Primary Malignancy_Other Organs,B311z00,104913,Malig neop connective soft tissue upper limb/shoulder NOS
-Primary Malignancy_Other Organs,B312000,102949,Malignant neoplasm of connective and soft tissue of hip
-Primary Malignancy_Other Organs,B312100,44805,Malig neop of connective and soft tissue thigh and upper leg
-Primary Malignancy_Other Organs,B312200,54965,Malig neop connective and soft tissue of popliteal space
-Primary Malignancy_Other Organs,B312300,30542,Malig neop of connective and soft tissue of lower leg
-Primary Malignancy_Other Organs,B312400,54222,Malignant neoplasm of connective and soft tissue of foot
-Primary Malignancy_Other Organs,B312500,99572,Malignant neoplasm of connective and soft tissue of toe
-Primary Malignancy_Other Organs,B312.00,66088,Malig neop of connective and soft tissue of hip and leg
-Primary Malignancy_Other Organs,B312z00,90546,Malig neop connective and soft tissue hip and leg NOS
-Primary Malignancy_Other Organs,B313000,29160,Malignant neoplasm of connective and soft tissue of axilla
-Primary Malignancy_Other Organs,B313100,54186,Malignant neoplasm of diaphragm
-Primary Malignancy_Other Organs,B313200,72522,Malignant neoplasm of great vessels
-Primary Malignancy_Other Organs,B313300,104139,Malig neoplasm of connective and soft tissues of thor spine
-Primary Malignancy_Other Organs,B313.00,22290,Malignant neoplasm of connective and soft tissue of thorax
-Primary Malignancy_Other Organs,B313z00,98408,Malig neop of connective and soft tissue of thorax NOS
-Primary Malignancy_Other Organs,B314000,66488,Malig neop of connective and soft tissue of abdominal wall
-Primary Malignancy_Other Organs,B314100,94272,Malig neoplasm of connective and soft tissues of lumb spine
-Primary Malignancy_Other Organs,B314.00,45071,Malignant neoplasm of connective and soft tissue of abdomen
-Primary Malignancy_Other Organs,B314z00,60247,Malig neop of connective and soft tissue of abdomen NOS
-Primary Malignancy_Other Organs,B315000,70463,Malignant neoplasm of connective and soft tissue of buttock
-Primary Malignancy_Other Organs,B315100,67324,Malig neop of connective and soft tissue of inguinal region
-Primary Malignancy_Other Organs,B315200,59152,Malignant neoplasm of connective and soft tissue of perineum
-Primary Malignancy_Other Organs,B315300,110192,Malig neopl of connective and soft tissue - sacrum or coccyx
-Primary Malignancy_Other Organs,B315.00,51965,Malignant neoplasm of connective and soft tissue of pelvis
-Primary Malignancy_Other Organs,B315z00,58836,Malig neop of connective and soft tissue of pelvis NOS
-Primary Malignancy_Other Organs,B316.00,57471,Malig neop of connective and soft tissue trunk unspecified
-Primary Malignancy_Other Organs,B31y.00,65233,Malig neop connective and soft tissue other specified site
-Primary Malignancy_Other Organs,B31z000,104128,Kaposi's sarcoma of soft tissue
-Primary Malignancy_Other Organs,B31z.00,15182,"Malignant neoplasm of connective and soft tissue, site NOS"
-Primary Malignancy_Other Organs,B420.00,28003,Choriocarcinoma
-Primary Malignancy_Other Organs,B42..00,93762,Malignant neoplasm of placenta
-Primary Malignancy_Other Organs,B441.00,49828,Malignant neoplasm of fallopian tube
-Primary Malignancy_Other Organs,B442.00,101778,Malignant neoplasm of broad ligament
-Primary Malignancy_Other Organs,B443.00,46153,Malignant neoplasm of parametrium
-Primary Malignancy_Other Organs,B44..00,19141,Malignant neoplasm of ovary and other uterine adnexa
-Primary Malignancy_Other Organs,B44y.00,97996,Malignant neoplasm of other site of uterine adnexa
-Primary Malignancy_Other Organs,B44z.00,65106,Malignant neoplasm of uterine adnexa NOS
-Primary Malignancy_Other Organs,B450100,10698,Malignant neoplasm of vaginal vault
-Primary Malignancy_Other Organs,B450.00,37328,Malignant neoplasm of vagina
-Primary Malignancy_Other Organs,B450z00,60772,Malignant neoplasm of vagina NOS
-Primary Malignancy_Other Organs,B451000,47899,Malignant neoplasm of greater vestibular (Bartholin's) gland
-Primary Malignancy_Other Organs,B451.00,43761,Malignant neoplasm of labia majora
-Primary Malignancy_Other Organs,B451z00,59362,Malignant neoplasm of labia majora NOS
-Primary Malignancy_Other Organs,B452.00,58061,Malignant neoplasm of labia minora
-Primary Malignancy_Other Organs,B453.00,53910,Malignant neoplasm of clitoris
-Primary Malignancy_Other Organs,B454.00,4554,Malignant neoplasm of vulva unspecified
-Primary Malignancy_Other Organs,B454.11,11991,Primary vulval cancer
-Primary Malignancy_Other Organs,B45..00,4555,Malig neop of other and unspecified female genital organs
-Primary Malignancy_Other Organs,B45X.00,26454,Malignant neoplasm/overlapping lesion/feml genital organs
-Primary Malignancy_Other Organs,B45y000,27617,Malignant neoplasm of overlapping lesion of vulva
-Primary Malignancy_Other Organs,B45y.00,95421,Malignant neoplasm of other specified female genital organ
-Primary Malignancy_Other Organs,B45z.00,20166,Malignant neoplasm of female genital organ NOS
-Primary Malignancy_Other Organs,B480.00,50681,Malignant neoplasm of prepuce (foreskin)
-Primary Malignancy_Other Organs,B481.00,17841,Malignant neoplasm of glans penis
-Primary Malignancy_Other Organs,B482.00,48743,Malignant neoplasm of body of penis
-Primary Malignancy_Other Organs,B483.00,43392,"Malignant neoplasm of penis, part unspecified"
-Primary Malignancy_Other Organs,B484.00,72127,Malignant neoplasm of epididymis
-Primary Malignancy_Other Organs,B485.00,63331,Malignant neoplasm of spermatic cord
-Primary Malignancy_Other Organs,B486.00,47767,Malignant neoplasm of scrotum
-Primary Malignancy_Other Organs,B487.00,52570,"Malignant neoplasm, overlapping lesion of penis"
-Primary Malignancy_Other Organs,B48y000,68161,Malignant neoplasm of seminal vesicle
-Primary Malignancy_Other Organs,B48y100,47668,Malignant neoplasm of tunica vaginalis
-Primary Malignancy_Other Organs,B48y200,68824,"Malignant neoplasm, overlapping lesion male genital orgs"
-Primary Malignancy_Other Organs,B48y.00,67949,Malignant neoplasm of other male genital organ
-Primary Malignancy_Other Organs,B48yz00,92329,Malignant neoplasm of other male genital organ NOS
-Primary Malignancy_Other Organs,B48z.00,63224,Malignant neoplasm of penis and other male genital organ NOS
-Primary Malignancy_Other Organs,B4A3.00,15644,Malignant neoplasm of urethra
-Primary Malignancy_Other Organs,B4A4.00,72174,Malignant neoplasm of paraurethral glands
-Primary Malignancy_Other Organs,B4A..00,13559,Malig neop of kidney and other unspecified urinary organs
-Primary Malignancy_Other Organs,B4Ay000,59286,Malignant neoplasm of overlapping lesion of urinary organs
-Primary Malignancy_Other Organs,B4Ay.00,44884,Malignant neoplasm of other urinary organs
-Primary Malignancy_Other Organs,B4Az.00,29462,Malignant neoplasm of kidney or urinary organs NOS
-Primary Malignancy_Other Organs,B500000,59041,Malignant neoplasm of ciliary body
-Primary Malignancy_Other Organs,B500100,59381,Malignant neoplasm of iris
-Primary Malignancy_Other Organs,B500200,106569,Malignant neoplasm of crystalline lens
-Primary Malignancy_Other Organs,B500.00,98813,"Malig neop eyeball excl conjunctiva, cornea, retina, choroid"
-Primary Malignancy_Other Organs,B500z00,56718,Malignant neoplasm of eyeball NOS
-Primary Malignancy_Other Organs,B501000,86996,Malignant neoplasm of connective tissue of orbit
-Primary Malignancy_Other Organs,B501.00,45667,Malignant neoplasm of orbit
-Primary Malignancy_Other Organs,B501z00,63104,Malignant neoplasm of orbit NOS
-Primary Malignancy_Other Organs,B502.00,64817,Malignant neoplasm of lacrimal gland
-Primary Malignancy_Other Organs,B503.00,63657,Malignant neoplasm of conjunctiva
-Primary Malignancy_Other Organs,B504.00,73992,Malignant neoplasm of cornea
-Primary Malignancy_Other Organs,B505.00,28069,Malignant neoplasm of retina
-Primary Malignancy_Other Organs,B506.00,15991,Malignant neoplasm of choroid
-Primary Malignancy_Other Organs,B507000,101805,Malignant neoplasm of lacrimal sac
-Primary Malignancy_Other Organs,B507100,65357,Malignant neoplasm of nasolacrimal duct
-Primary Malignancy_Other Organs,B507.00,71584,Malignant neoplasm of lacrimal duct
-Primary Malignancy_Other Organs,B508.00,45922,"Malignant neoplasm, overlapping lesion of eye and adnexa"
-Primary Malignancy_Other Organs,B50..00,20160,Malignant neoplasm of eye
-Primary Malignancy_Other Organs,B50y.00,40437,Malignant neoplasm of other specified site of eye
-Primary Malignancy_Other Organs,B50z.00,54956,Malignant neoplasm of eye NOS
-Primary Malignancy_Other Organs,B524000,63568,"Malignant neoplasm of peripheral nerves of head, face & neck"
-Primary Malignancy_Other Organs,B524100,61716,"Malignant neoplasm of peripheral nerve,upp limb,incl should"
-Primary Malignancy_Other Organs,B524200,89258,"Malignant neoplasm of peripheral nerve of low limb, incl hip"
-Primary Malignancy_Other Organs,B524300,63695,Malignant neoplasm of peripheral nerve of thorax
-Primary Malignancy_Other Organs,B524400,86046,Malignant neoplasm of peripheral nerve of abdomen
-Primary Malignancy_Other Organs,B524500,73988,Malignant neoplasm of peripheral nerve of pelvis
-Primary Malignancy_Other Organs,B524600,50777,"Malignant neoplasm,overlap lesion periph nerve & auton ns"
-Primary Malignancy_Other Organs,B524.00,24235,Malig neopl peripheral nerves and autonomic nervous system
-Primary Malignancy_Other Organs,B524W00,106654,"Mal neoplasm/periph nerves+autonomic nervous system,unspc"
-Primary Malignancy_Other Organs,B52y.00,88144,Malignant neoplasm of other specified part of nervous system
-Primary Malignancy_Other Organs,B52z.00,56490,Malignant neoplasm of nervous system NOS
-Primary Malignancy_Other Organs,B52..00,65458,Malig neop of other and unspecified parts of nervous system
-Primary Malignancy_Other Organs,B540000,61390,Malignant neoplasm of adrenal cortex
-Primary Malignancy_Other Organs,B540100,94220,Malignant neoplasm of adrenal medulla
-Primary Malignancy_Other Organs,B540.00,28148,Malignant neoplasm of adrenal gland
-Primary Malignancy_Other Organs,B540.11,18231,Phaeochromocytoma
-Primary Malignancy_Other Organs,B540z00,70824,Malignant neoplasm of adrenal gland NOS
-Primary Malignancy_Other Organs,B541.00,4218,Malignant neoplasm of parathyroid gland
-Primary Malignancy_Other Organs,B54X.00,87113,"Malignant neoplasm-pluriglandular involvement,unspecified"
-Primary Malignancy_Other Organs,B54y.00,90659,Malignant neoplasm of other specified endocrine gland
-Primary Malignancy_Other Organs,B54z.00,64195,Malig neop of endocrine gland or related structure NOS
-Primary Malignancy_Other Organs,B550000,55098,Malignant neoplasm of head NOS
-Primary Malignancy_Other Organs,B550100,41931,Malignant neoplasm of cheek NOS
-Primary Malignancy_Other Organs,B550200,12490,Malignant neoplasm of nose NOS
-Primary Malignancy_Other Organs,B550300,51818,Malignant neoplasm of jaw NOS
-Primary Malignancy_Other Organs,B550400,16280,Malignant neoplasm of neck NOS
-Primary Malignancy_Other Organs,B550500,73510,Malignant neoplasm of supraclavicular fossa NOS
-Primary Malignancy_Other Organs,B550.00,68236,"Malignant neoplasm of head, neck and face"
-Primary Malignancy_Other Organs,B550z00,58903,"Malignant neoplasm of head, neck and face NOS"
-Primary Malignancy_Other Organs,B551000,37618,Malignant neoplasm of axilla NOS
-Primary Malignancy_Other Organs,B551100,23861,Malignant neoplasm of chest wall NOS
-Primary Malignancy_Other Organs,B551200,97547,Malignant neoplasm of intrathoracic site NOS
-Primary Malignancy_Other Organs,B551.00,47286,Malignant neoplasm of thorax
-Primary Malignancy_Other Organs,B551z00,64810,Malignant neoplasm of thorax NOS
-Primary Malignancy_Other Organs,B552.00,15976,Malignant neoplasm of abdomen
-Primary Malignancy_Other Organs,B553000,57854,Malignant neoplasm of inguinal region NOS
-Primary Malignancy_Other Organs,B553100,89916,Malignant neoplasm of presacral region
-Primary Malignancy_Other Organs,B553200,107126,Malignant neoplasm of sacrococcygeal region
-Primary Malignancy_Other Organs,B553.00,52316,Malignant neoplasm of pelvis
-Primary Malignancy_Other Organs,B553z00,55101,Malignant neoplasm of pelvis NOS
-Primary Malignancy_Other Organs,B554.00,27449,Malignant neoplasm of upper limb NOS
-Primary Malignancy_Other Organs,B555.00,31399,Malignant neoplasm of lower limb NOS
-Primary Malignancy_Other Organs,B55y000,68787,Malignant neoplasm of back NOS
-Primary Malignancy_Other Organs,B55y100,67217,Malignant neoplasm of trunk NOS
-Primary Malignancy_Other Organs,B55y200,94355,Malignant neoplasm of flank NOS
-Primary Malignancy_Other Organs,B55y.00,42218,Malignant neoplasm of other specified sites
-Primary Malignancy_Other Organs,B55yz00,60052,Malignant neoplasm of specified site NOS
-Primary Malignancy_Other Organs,B55z.00,45267,Malignant neoplasm of other and ill defined site NOS
-Primary Malignancy_Other Organs,B591.00,26034,Other malignant neoplasm NOS
-Primary Malignancy_Other Organs,B592X00,65466,Kaposi's sarcoma of multiple organs
-Primary Malignancy_Other Organs,B593.00,11035,Primary malignant neoplasm of unknown site
-Primary Malignancy_Other Organs,B595.00,104324,Malignant tumour of unknown origin
-Primary Malignancy_Other Organs,B59..00,47810,Malignant neoplasm of unspecified site
-Primary Malignancy_Other Organs,B59z.00,54267,Malignant neoplasm of unspecified site NOS
-Primary Malignancy_Other Organs,B59zX00,49525,"Kaposi's sarcoma, unspecified"
-Primary Malignancy_Other Organs,B5...00,10995,Malignant neoplasm of other and unspecified sites
-Primary Malignancy_Other Organs,B5...11,8693,Carcinoma of other and unspecified sites
-Primary Malignancy_Other Organs,B5y..00,38736,Malignant neoplasm of other and unspecified site OS
-Primary Malignancy_Other Organs,B5z..00,1056,Malignant neoplasm of other and unspecified site NOS
-Primary Malignancy_Other Organs,B623000,69497,Malignant histiocytosis of unspecified site
-Primary Malignancy_Other Organs,B623100,94415,"Malignant histiocytosis of lymph nodes head, face and neck"
-Primary Malignancy_Other Organs,B623300,65642,Malignant histiocytosis of intra-abdominal lymph nodes
-Primary Malignancy_Other Organs,B623.00,44267,Malignant histiocytosis
-Primary Malignancy_Other Organs,B623z00,58871,Malignant histiocytosis NOS
-Primary Malignancy_Other Organs,B625000,102715,Letterer-Siwe disease of unspecified sites
-Primary Malignancy_Other Organs,B625200,102158,Letterer-Siwe disease of intrathoracic lymph nodes
-Primary Malignancy_Other Organs,B625800,54083,Letterer-Siwe disease of lymph nodes of multiple sites
-Primary Malignancy_Other Organs,B625.00,34926,Letterer-Siwe disease
-Primary Malignancy_Other Organs,B625.11,4870,"Histiocytosis X (acute, progressive)"
-Primary Malignancy_Other Organs,B625z00,47204,Letterer-Siwe disease NOS
-Primary Malignancy_Other Organs,B626000,103900,Mast cell malignancy of unspecified site
-Primary Malignancy_Other Organs,B626500,100615,Mast cell malignancy of lymph nodes inguinal region and leg
-Primary Malignancy_Other Organs,B626800,31324,Mast cell malignancy of lymph nodes of multiple sites
-Primary Malignancy_Other Organs,B626.00,15036,Malignant mast cell tumours
-Primary Malignancy_Other Organs,B626z00,89657,Malignant mast cell tumour NOS
-Primary Malignancy_Other Organs,B62x500,58962,Malignant immunoproliferative small intestinal disease
-Primary Malignancy_Other Organs,B62x600,95630,True histiocytic lymphoma
-Primary Malignancy_Other Organs,B62z000,108037,Unspec malig neop lymphoid/histiocytic of unspecified site
-Primary Malignancy_Other Organs,B62z100,64427,Unspec malig neop lymphoid/histiocytic lymph node head/neck
-Primary Malignancy_Other Organs,B62z200,93384,Unspec malig neop lymphoid/histiocytic of intrathoracic node
-Primary Malignancy_Other Organs,B62z300,103353,Unspec malig neop lymphoid/histiocytic intra-abdominal nodes
-Primary Malignancy_Other Organs,B62z400,107638,Unspec malig neop lymphoid/histiocytic lymph node axilla/arm
-Primary Malignancy_Other Organs,B62z500,71609,Unspec malig neop lymphoid/histiocytic nodes inguinal/leg
-Primary Malignancy_Other Organs,B62z600,109342,Unspec malig neop lymphoid/histiocytic of intrapelvic nodes
-Primary Malignancy_Other Organs,B62z800,101465,Unspec malig neop lymphoid/histiocytic of multiple sites
-Primary Malignancy_Other Organs,B62z.00,65434,Malignant neoplasms of lymphoid and histiocytic tissue NOS
-Primary Malignancy_Other Organs,B62zz00,95792,Lymphoid and histiocytic malignancy NOS
-Primary Malignancy_Other Organs,B62zz11,70716,Immunoproliferative neoplasm
-Primary Malignancy_Other Organs,B63y.00,64567,Other immunoproliferative neoplasms
-Primary Malignancy_Other Organs,B63z.00,43450,Immunoproliferative neoplasm or myeloma NOS
-Primary Malignancy_Other Organs,B6y..00,30646,Malignant neoplasm lymphatic or haematopoietic tissue OS
-Primary Malignancy_Other Organs,B6z0.00,50290,Kaposi's sarcoma of lymph nodes
-Primary Malignancy_Other Organs,B6z..00,49301,Malignant neoplasm lymphatic or haematopoietic tissue NOS
-Primary Malignancy_Other Organs,BB5h100,60775,[M]Adrenal cortical carcinoma
-Primary Malignancy_Other Organs,BB57.00,28272,"[M]Adenocarcinoma, intestinal type"
-Primary Malignancy_Other Organs,BBcC.00,51878,[M]Aesthesioneuroblastoma
-Primary Malignancy_Other Organs,BBcC.11,39388,[M]Olfactory neuroblastoma
-Primary Malignancy_Other Organs,BBcD.11,106131,[M]Olfactory neuroepithelioma
-Primary Malignancy_Other Organs,BBm4.00,57544,[M]True histiocytic lymphoma
-Primary Malignancy_Other Organs,BBT1.00,62348,[M]Haemangiosarcoma
-Primary Malignancy_Other Organs,BBT7100,98322,"[M]Haemangioendothelioma, malignant"
-Primary Malignancy_Other Organs,Byu1200,45766,"[X]Malignant neoplasm of intestinal tract, part unspecified"
-Primary Malignancy_Other Organs,Byu1300,49292,[X]Malignant neoplsm/ill-defin sites within digestive system
-Primary Malignancy_Other Organs,Byu2400,86997,[X]Malignant neoplasm/ill-defined sites within resp system
-Primary Malignancy_Other Organs,Byu2500,50292,"[X]Malignant neoplasm of mediastinum, part unspecified"
-Primary Malignancy_Other Organs,Byu4.00,19144,[X]Melanoma and other malignant neoplasms of skin
-Primary Malignancy_Other Organs,Byu5300,93665,"[X]Kaposi's sarcoma, unspecified"
-Primary Malignancy_Other Organs,Byu5400,101668,"[X]Malignant neoplasm/peripheral nerves of trunk,unspecified"
-Primary Malignancy_Other Organs,Byu5500,105072,[X]Mal neoplasm/overlap les/periph nerv+autonomic nerv systm
-Primary Malignancy_Other Organs,Byu5700,95671,"[X]Malignant neoplasm of peritoneum, unspecified"
-Primary Malignancy_Other Organs,Byu5800,91896,"[X]Mal neoplasm/connective+soft tissue of trunk,unspecified"
-Primary Malignancy_Other Organs,Byu5900,91457,"[X]Malignant neoplasm/connective + soft tissue,unspecified"
-Primary Malignancy_Other Organs,Byu5B00,98361,[X]Kaposi's sarcoma of other sites
-Primary Malignancy_Other Organs,Byu7000,64497,"[X]Malignant neoplasm of uterine adnexa, unspecified"
-Primary Malignancy_Other Organs,Byu7100,57756,[X]Malignant neoplasm/other specified female genital organs
-Primary Malignancy_Other Organs,Byu7300,55588,"[X]Malignant neoplasm of female genital organ, unspecified"
-Primary Malignancy_Other Organs,Byu8000,57191,[X]Malignant neoplasm/other specified male genital organs
-Primary Malignancy_Other Organs,Byu8200,45262,"[X]Malignant neoplasm of male genital organ, unspecified"
-Primary Malignancy_Other Organs,Byu9000,45260,"[X]Malignant neoplasm of urinary organ, unspecified"
-Primary Malignancy_Other Organs,ByuB100,64309,"[X]Malignant neoplasm of endocrine gland, unspecified"
-Primary Malignancy_Other Organs,ByuB.00,40608,[X]Malignant neoplasm of thyroid and other endocrine glands
-Primary Malignancy_Other Organs,ByuC000,39027,[X]Malignant neoplasm of other specified sites
-Primary Malignancy_Other Organs,ByuC100,96226,[X]Malignant neoplasm/overlap lesion/other+ill-defined sites
-Primary Malignancy_Other Organs,ByuC600,68332,[X]2ndry malignant neoplasm/oth+unspec parts/nervous system
-Primary Malignancy_Other Organs,ByuC800,52029,[X]Malignant neoplasm without specification of site
-Primary Malignancy_Other Organs,ByuC.00,35186,"[X]Malignant neoplasm of ill-defined, secondary and unspeci"
-Primary Malignancy_Other Organs,ByuD400,102688,[X]Other malignant immunoproliferative diseases
-Primary Malignancy_Other Organs,ByuDA00,105025,"[X]Oth spcf mal neoplsm/lymphoid,haematopoietic+rltd tissue"
-Primary Malignancy_Other Organs,ByuDB00,72500,"[X]Mal neoplasm/lymphoid,haematopoietic+related tissu,unspcf"
-Primary Malignancy_Other Organs,C37y000,54411,Hand - Schuller - Christian disease
-Primary Malignancy_Other Organs,C37y100,3845,Eosinophilic granuloma
-Primary Malignancy_Other Organs,C37y500,51718,"Histiocytosis X , chronic"
-Primary Malignancy_Other Organs,C37y600,36736,"Histiocytosis X , unspecified"
-Primary Malignancy_Other Organs,ZV10000,62814,[V]Personal history of malig neop of gastrointestinal tract
-Primary Malignancy_Other Organs,ZV10012,64568,[V]Personal history of malig neop of gastrointestinal tract
-Primary Malignancy_Other Organs,B592.00,51352,Malignant neoplasms of independent (primary) multiple sites
-Primary Malignancy_Other Organs,ByuE000,64897,[X]Malignant neoplasms/independent(primary)multiple sites
-Primary Malignancy_Other Organs,ByuE.00,63598,[X]Malignant neoplasms/independent (primary) multiple sites
+Primary Malignancy_Other,4M20.00,60918,Lymphoma stage I
+Primary Malignancy_Other,4M21.00,94935,Lymphoma stage II
+Primary Malignancy_Other,4M22.00,32240,Lymphoma stage III
+Primary Malignancy_Other,4M23.00,71672,Lymphoma stage IV
+Primary Malignancy_Other,A789500,27853,HIV disease resulting in Kaposi's sarcoma
+Primary Malignancy_Other,A789511,108054,HIV disease resulting in Kaposi sarcoma
+Primary Malignancy_Other,B120.00,18613,Malignant neoplasm of duodenum
+Primary Malignancy_Other,B121.00,43479,Malignant neoplasm of jejunum
+Primary Malignancy_Other,B122.00,33871,Malignant neoplasm of ileum
+Primary Malignancy_Other,B123.00,63995,Malignant neoplasm of Meckel's diverticulum
+Primary Malignancy_Other,B124.00,66166,"Malignant neoplasm, overlapping lesion of small intestine"
+Primary Malignancy_Other,B12..00,6806,Malignant neoplasm of small intestine and duodenum
+Primary Malignancy_Other,B12y.00,99896,Malignant neoplasm of other specified site small intestine
+Primary Malignancy_Other,B12z.00,43390,Malignant neoplasm of small intestine NOS
+Primary Malignancy_Other,B15..00,8918,Malignant neoplasm of liver and intrahepatic bile ducts
+Primary Malignancy_Other,B15z.00,38978,Malignant neoplasm of liver and intrahepatic bile ducts NOS
+Primary Malignancy_Other,B160.00,16105,Malignant neoplasm of gallbladder
+Primary Malignancy_Other,B160.11,31393,Carcinoma gallbladder
+Primary Malignancy_Other,B16..00,54103,Malignant neoplasm gallbladder and extrahepatic bile ducts
+Primary Malignancy_Other,B16y.00,60312,Malignant neoplasm other gallbladder/extrahepatic bile duct
+Primary Malignancy_Other,B16z.00,15907,Malignant neoplasm gallbladder/extrahepatic bile ducts NOS
+Primary Malignancy_Other,B180100,65159,Malignant neoplasm of perinephric tissue
+Primary Malignancy_Other,B180200,24048,Malignant neoplasm of retrocaecal tissue
+Primary Malignancy_Other,B180.00,21330,Malignant neoplasm of retroperitoneum
+Primary Malignancy_Other,B180z00,61555,Malignant neoplasm of retroperitoneum NOS
+Primary Malignancy_Other,B182.00,101907,Overlapping malign lesion of retroperitoneum and peritoneum
+Primary Malignancy_Other,B18..00,44108,Malignant neoplasm of retroperitoneum and peritoneum
+Primary Malignancy_Other,B18y100,59388,Malignant neoplasm of mesocaecum
+Primary Malignancy_Other,B18y200,30165,Malignant neoplasm of mesorectum
+Primary Malignancy_Other,B18y300,50898,Malignant neoplasm of omentum
+Primary Malignancy_Other,B18y400,64516,Malignant neoplasm of parietal peritoneum
+Primary Malignancy_Other,B18y500,39413,Malignant neoplasm of pelvic peritoneum
+Primary Malignancy_Other,B18y600,69821,Malignant neoplasm of the pouch of Douglas
+Primary Malignancy_Other,B18y700,90290,Malignant neoplasm of mesentery
+Primary Malignancy_Other,B18y.00,46613,Malignant neoplasm of specified parts of peritoneum
+Primary Malignancy_Other,B18yz00,64106,Malignant neoplasm of specified parts of peritoneum NOS
+Primary Malignancy_Other,B18z.00,16298,Malignant neoplasm of retroperitoneum and peritoneum NOS
+Primary Malignancy_Other,B1z0.00,17559,"Malignant neoplasm of intestinal tract, part unspecified"
+Primary Malignancy_Other,B1z1000,108667,Angiosarcoma of spleen
+Primary Malignancy_Other,B1z1100,72224,Fibrosarcoma of spleen
+Primary Malignancy_Other,B1z1.00,65460,Malignant neoplasm of spleen NEC
+Primary Malignancy_Other,B1z1z00,93778,Malignant neoplasm of spleen NOS
+Primary Malignancy_Other,B1z2.00,94776,"Malignant neoplasm, overlapping lesion of digestive system"
+Primary Malignancy_Other,B1z..00,11009,Malig neop oth/ill-defined sites digestive tract/peritoneum
+Primary Malignancy_Other,B1zy.00,56918,Malignant neoplasm other spec digestive tract and peritoneum
+Primary Malignancy_Other,B1zz.00,51255,Malignant neoplasm of digestive tract and peritoneum NOS
+Primary Malignancy_Other,B200000,71204,Malignant neoplasm of cartilage of nose
+Primary Malignancy_Other,B200100,98911,Malignant neoplasm of nasal conchae
+Primary Malignancy_Other,B200200,62761,Malignant neoplasm of septum of nose
+Primary Malignancy_Other,B200300,62182,Malignant neoplasm of vestibule of nose
+Primary Malignancy_Other,B200.00,23389,Malignant neoplasm of nasal cavities
+Primary Malignancy_Other,B200z00,42856,Malignant neoplasm of nasal cavities NOS
+Primary Malignancy_Other,B201000,107916,Malignant neoplasm of auditory (Eustachian) tube
+Primary Malignancy_Other,B201100,98537,Malignant neoplasm of tympanic cavity
+Primary Malignancy_Other,B201200,54613,Malignant neoplasm of tympanic antrum
+Primary Malignancy_Other,B201300,71946,Malignant neoplasm of mastoid air cells
+Primary Malignancy_Other,B201.00,24456,"Malig neop auditory tube, middle ear and mastoid air cells"
+Primary Malignancy_Other,B201z00,73537,"Malig neop auditory tube, middle ear, mastoid air cells NOS"
+Primary Malignancy_Other,B202.00,32174,Malignant neoplasm of maxillary sinus
+Primary Malignancy_Other,B203.00,54636,Malignant neoplasm of ethmoid sinus
+Primary Malignancy_Other,B204.00,15684,Malignant neoplasm of frontal sinus
+Primary Malignancy_Other,B205.00,65215,Malignant neoplasm of sphenoidal sinus
+Primary Malignancy_Other,B206.00,39590,"Malignant neoplasm, overlapping lesion of accessory sinuses"
+Primary Malignancy_Other,B20..00,26652,"Malig neop nasal cavities, middle ear and accessory sinuses"
+Primary Malignancy_Other,B20y.00,96971,"Malig neop other site nasal cavity, middle ear and sinuses"
+Primary Malignancy_Other,B20z.00,55246,Malignant neoplasm of accessory sinus NOS
+Primary Malignancy_Other,B210.00,318,Malignant neoplasm of glottis
+Primary Malignancy_Other,B211.00,26165,Malignant neoplasm of supraglottis
+Primary Malignancy_Other,B212.00,22441,Malignant neoplasm of subglottis
+Primary Malignancy_Other,B213000,63460,Malignant neoplasm of arytenoid cartilage
+Primary Malignancy_Other,B213100,37805,Malignant neoplasm of cricoid cartilage
+Primary Malignancy_Other,B213200,107878,Malignant neoplasm of cuneiform cartilage
+Primary Malignancy_Other,B213300,47862,Malignant neoplasm of thyroid cartilage
+Primary Malignancy_Other,B213.00,43111,Malignant neoplasm of laryngeal cartilage
+Primary Malignancy_Other,B213z00,97332,Malignant neoplasm of laryngeal cartilage NOS
+Primary Malignancy_Other,B214.00,50579,"Malignant neoplasm, overlapping lesion of larynx"
+Primary Malignancy_Other,B215.00,55374,Malignant neoplasm of epiglottis NOS
+Primary Malignancy_Other,B21..00,319,Malignant neoplasm of larynx
+Primary Malignancy_Other,B21y.00,26813,"Malignant neoplasm of larynx, other specified site"
+Primary Malignancy_Other,B21z.00,9237,Malignant neoplasm of larynx NOS
+Primary Malignancy_Other,B230.00,67107,Malignant neoplasm of parietal pleura
+Primary Malignancy_Other,B231.00,106194,Malignant neoplasm of visceral pleura
+Primary Malignancy_Other,B23..00,31573,Malignant neoplasm of pleura
+Primary Malignancy_Other,B23y.00,98104,Malignant neoplasm of other specified pleura
+Primary Malignancy_Other,B23z.00,34742,Malignant neoplasm of pleura NOS
+Primary Malignancy_Other,B240.00,27483,Malignant neoplasm of thymus
+Primary Malignancy_Other,B241000,63430,Malignant neoplasm of endocardium
+Primary Malignancy_Other,B241200,65605,Malignant neoplasm of myocardium
+Primary Malignancy_Other,B241300,94975,Malignant neoplasm of pericardium
+Primary Malignancy_Other,B241.00,95644,Malignant neoplasm of heart
+Primary Malignancy_Other,B241z00,50289,Malignant neoplasm of heart NOS
+Primary Malignancy_Other,B242.00,27715,Malignant neoplasm of anterior mediastinum
+Primary Malignancy_Other,B243.00,92720,Malignant neoplasm of posterior mediastinum
+Primary Malignancy_Other,B24..00,62556,"Malignant neoplasm of thymus, heart and mediastinum"
+Primary Malignancy_Other,B24X.00,61064,"Malignant neoplasm of mediastinum, part unspecified"
+Primary Malignancy_Other,B24y.00,100232,"Malig neop of other site of heart, thymus and mediastinum"
+Primary Malignancy_Other,B24z.00,66750,"Malignant neoplasm of heart, thymus and mediastinum NOS"
+Primary Malignancy_Other,B25..00,39531,"Malig neo, overlapping lesion of heart, mediastinum & pleura"
+Primary Malignancy_Other,B26..00,66646,"Malignant neoplasm, overlap lesion of resp & intrathor orgs"
+Primary Malignancy_Other,B2z0.00,65793,"Malig neop of upper respiratory tract, part unspecified"
+Primary Malignancy_Other,B2z..00,44356,Malig neop other/ill-defined sites resp/intrathoracic organs
+Primary Malignancy_Other,B2zy.00,29283,Malignant neoplasm of other site of respiratory tract
+Primary Malignancy_Other,B2zz.00,42569,Malignant neoplasm of respiratory tract NOS
+Primary Malignancy_Other,B310000,59382,Malignant neoplasm of soft tissue of head
+Primary Malignancy_Other,B310100,40014,Malignant neoplasm of soft tissue of face
+Primary Malignancy_Other,B310200,48517,Malignant neoplasm of soft tissue of neck
+Primary Malignancy_Other,B310300,60035,Malignant neoplasm of cartilage of ear
+Primary Malignancy_Other,B310400,49463,Malignant neoplasm of tarsus of eyelid
+Primary Malignancy_Other,B310500,108389,Malignant neoplasm soft tissues of cervical spine
+Primary Malignancy_Other,B310.00,43475,"Malig neop of connective and soft tissue head, face and neck"
+Primary Malignancy_Other,B310z00,73718,"Malig neop connective and soft tissue head, face, neck NOS"
+Primary Malignancy_Other,B311000,50222,Malignant neoplasm of connective and soft tissue of shoulder
+Primary Malignancy_Other,B311100,64345,"Malignant neoplasm of connective and soft tissue, upper arm"
+Primary Malignancy_Other,B311200,57482,Malignant neoplasm of connective and soft tissue of fore-arm
+Primary Malignancy_Other,B311300,19321,Malignant neoplasm of connective and soft tissue of hand
+Primary Malignancy_Other,B311400,91586,Malignant neoplasm of connective and soft tissue of finger
+Primary Malignancy_Other,B311500,63988,Malignant neoplasm of connective and soft tissue of thumb
+Primary Malignancy_Other,B311.00,53989,Malig neop connective and soft tissue upper limb/shoulder
+Primary Malignancy_Other,B311z00,104913,Malig neop connective soft tissue upper limb/shoulder NOS
+Primary Malignancy_Other,B312000,102949,Malignant neoplasm of connective and soft tissue of hip
+Primary Malignancy_Other,B312100,44805,Malig neop of connective and soft tissue thigh and upper leg
+Primary Malignancy_Other,B312200,54965,Malig neop connective and soft tissue of popliteal space
+Primary Malignancy_Other,B312300,30542,Malig neop of connective and soft tissue of lower leg
+Primary Malignancy_Other,B312400,54222,Malignant neoplasm of connective and soft tissue of foot
+Primary Malignancy_Other,B312500,99572,Malignant neoplasm of connective and soft tissue of toe
+Primary Malignancy_Other,B312.00,66088,Malig neop of connective and soft tissue of hip and leg
+Primary Malignancy_Other,B312z00,90546,Malig neop connective and soft tissue hip and leg NOS
+Primary Malignancy_Other,B313000,29160,Malignant neoplasm of connective and soft tissue of axilla
+Primary Malignancy_Other,B313100,54186,Malignant neoplasm of diaphragm
+Primary Malignancy_Other,B313200,72522,Malignant neoplasm of great vessels
+Primary Malignancy_Other,B313300,104139,Malig neoplasm of connective and soft tissues of thor spine
+Primary Malignancy_Other,B313.00,22290,Malignant neoplasm of connective and soft tissue of thorax
+Primary Malignancy_Other,B313z00,98408,Malig neop of connective and soft tissue of thorax NOS
+Primary Malignancy_Other,B314000,66488,Malig neop of connective and soft tissue of abdominal wall
+Primary Malignancy_Other,B314100,94272,Malig neoplasm of connective and soft tissues of lumb spine
+Primary Malignancy_Other,B314.00,45071,Malignant neoplasm of connective and soft tissue of abdomen
+Primary Malignancy_Other,B314z00,60247,Malig neop of connective and soft tissue of abdomen NOS
+Primary Malignancy_Other,B315000,70463,Malignant neoplasm of connective and soft tissue of buttock
+Primary Malignancy_Other,B315100,67324,Malig neop of connective and soft tissue of inguinal region
+Primary Malignancy_Other,B315200,59152,Malignant neoplasm of connective and soft tissue of perineum
+Primary Malignancy_Other,B315300,110192,Malig neopl of connective and soft tissue - sacrum or coccyx
+Primary Malignancy_Other,B315.00,51965,Malignant neoplasm of connective and soft tissue of pelvis
+Primary Malignancy_Other,B315z00,58836,Malig neop of connective and soft tissue of pelvis NOS
+Primary Malignancy_Other,B316.00,57471,Malig neop of connective and soft tissue trunk unspecified
+Primary Malignancy_Other,B31y.00,65233,Malig neop connective and soft tissue other specified site
+Primary Malignancy_Other,B31z000,104128,Kaposi's sarcoma of soft tissue
+Primary Malignancy_Other,B31z.00,15182,"Malignant neoplasm of connective and soft tissue, site NOS"
+Primary Malignancy_Other,B420.00,28003,Choriocarcinoma
+Primary Malignancy_Other,B42..00,93762,Malignant neoplasm of placenta
+Primary Malignancy_Other,B441.00,49828,Malignant neoplasm of fallopian tube
+Primary Malignancy_Other,B442.00,101778,Malignant neoplasm of broad ligament
+Primary Malignancy_Other,B443.00,46153,Malignant neoplasm of parametrium
+Primary Malignancy_Other,B44..00,19141,Malignant neoplasm of ovary and other uterine adnexa
+Primary Malignancy_Other,B44y.00,97996,Malignant neoplasm of other site of uterine adnexa
+Primary Malignancy_Other,B44z.00,65106,Malignant neoplasm of uterine adnexa NOS
+Primary Malignancy_Other,B450100,10698,Malignant neoplasm of vaginal vault
+Primary Malignancy_Other,B450.00,37328,Malignant neoplasm of vagina
+Primary Malignancy_Other,B450z00,60772,Malignant neoplasm of vagina NOS
+Primary Malignancy_Other,B451000,47899,Malignant neoplasm of greater vestibular (Bartholin's) gland
+Primary Malignancy_Other,B451.00,43761,Malignant neoplasm of labia majora
+Primary Malignancy_Other,B451z00,59362,Malignant neoplasm of labia majora NOS
+Primary Malignancy_Other,B452.00,58061,Malignant neoplasm of labia minora
+Primary Malignancy_Other,B453.00,53910,Malignant neoplasm of clitoris
+Primary Malignancy_Other,B454.00,4554,Malignant neoplasm of vulva unspecified
+Primary Malignancy_Other,B454.11,11991,Primary vulval cancer
+Primary Malignancy_Other,B45..00,4555,Malig neop of other and unspecified female genital organs
+Primary Malignancy_Other,B45X.00,26454,Malignant neoplasm/overlapping lesion/feml genital organs
+Primary Malignancy_Other,B45y000,27617,Malignant neoplasm of overlapping lesion of vulva
+Primary Malignancy_Other,B45y.00,95421,Malignant neoplasm of other specified female genital organ
+Primary Malignancy_Other,B45z.00,20166,Malignant neoplasm of female genital organ NOS
+Primary Malignancy_Other,B480.00,50681,Malignant neoplasm of prepuce (foreskin)
+Primary Malignancy_Other,B481.00,17841,Malignant neoplasm of glans penis
+Primary Malignancy_Other,B482.00,48743,Malignant neoplasm of body of penis
+Primary Malignancy_Other,B483.00,43392,"Malignant neoplasm of penis, part unspecified"
+Primary Malignancy_Other,B484.00,72127,Malignant neoplasm of epididymis
+Primary Malignancy_Other,B485.00,63331,Malignant neoplasm of spermatic cord
+Primary Malignancy_Other,B486.00,47767,Malignant neoplasm of scrotum
+Primary Malignancy_Other,B487.00,52570,"Malignant neoplasm, overlapping lesion of penis"
+Primary Malignancy_Other,B48y000,68161,Malignant neoplasm of seminal vesicle
+Primary Malignancy_Other,B48y100,47668,Malignant neoplasm of tunica vaginalis
+Primary Malignancy_Other,B48y200,68824,"Malignant neoplasm, overlapping lesion male genital orgs"
+Primary Malignancy_Other,B48y.00,67949,Malignant neoplasm of other male genital organ
+Primary Malignancy_Other,B48yz00,92329,Malignant neoplasm of other male genital organ NOS
+Primary Malignancy_Other,B48z.00,63224,Malignant neoplasm of penis and other male genital organ NOS
+Primary Malignancy_Other,B4A3.00,15644,Malignant neoplasm of urethra
+Primary Malignancy_Other,B4A4.00,72174,Malignant neoplasm of paraurethral glands
+Primary Malignancy_Other,B4A..00,13559,Malig neop of kidney and other unspecified urinary organs
+Primary Malignancy_Other,B4Ay000,59286,Malignant neoplasm of overlapping lesion of urinary organs
+Primary Malignancy_Other,B4Ay.00,44884,Malignant neoplasm of other urinary organs
+Primary Malignancy_Other,B4Az.00,29462,Malignant neoplasm of kidney or urinary organs NOS
+Primary Malignancy_Other,B500000,59041,Malignant neoplasm of ciliary body
+Primary Malignancy_Other,B500100,59381,Malignant neoplasm of iris
+Primary Malignancy_Other,B500200,106569,Malignant neoplasm of crystalline lens
+Primary Malignancy_Other,B500.00,98813,"Malig neop eyeball excl conjunctiva, cornea, retina, choroid"
+Primary Malignancy_Other,B500z00,56718,Malignant neoplasm of eyeball NOS
+Primary Malignancy_Other,B501000,86996,Malignant neoplasm of connective tissue of orbit
+Primary Malignancy_Other,B501.00,45667,Malignant neoplasm of orbit
+Primary Malignancy_Other,B501z00,63104,Malignant neoplasm of orbit NOS
+Primary Malignancy_Other,B502.00,64817,Malignant neoplasm of lacrimal gland
+Primary Malignancy_Other,B503.00,63657,Malignant neoplasm of conjunctiva
+Primary Malignancy_Other,B504.00,73992,Malignant neoplasm of cornea
+Primary Malignancy_Other,B505.00,28069,Malignant neoplasm of retina
+Primary Malignancy_Other,B506.00,15991,Malignant neoplasm of choroid
+Primary Malignancy_Other,B507000,101805,Malignant neoplasm of lacrimal sac
+Primary Malignancy_Other,B507100,65357,Malignant neoplasm of nasolacrimal duct
+Primary Malignancy_Other,B507.00,71584,Malignant neoplasm of lacrimal duct
+Primary Malignancy_Other,B508.00,45922,"Malignant neoplasm, overlapping lesion of eye and adnexa"
+Primary Malignancy_Other,B50..00,20160,Malignant neoplasm of eye
+Primary Malignancy_Other,B50y.00,40437,Malignant neoplasm of other specified site of eye
+Primary Malignancy_Other,B50z.00,54956,Malignant neoplasm of eye NOS
+Primary Malignancy_Other,B524000,63568,"Malignant neoplasm of peripheral nerves of head, face & neck"
+Primary Malignancy_Other,B524100,61716,"Malignant neoplasm of peripheral nerve,upp limb,incl should"
+Primary Malignancy_Other,B524200,89258,"Malignant neoplasm of peripheral nerve of low limb, incl hip"
+Primary Malignancy_Other,B524300,63695,Malignant neoplasm of peripheral nerve of thorax
+Primary Malignancy_Other,B524400,86046,Malignant neoplasm of peripheral nerve of abdomen
+Primary Malignancy_Other,B524500,73988,Malignant neoplasm of peripheral nerve of pelvis
+Primary Malignancy_Other,B524600,50777,"Malignant neoplasm,overlap lesion periph nerve & auton ns"
+Primary Malignancy_Other,B524.00,24235,Malig neopl peripheral nerves and autonomic nervous system
+Primary Malignancy_Other,B524W00,106654,"Mal neoplasm/periph nerves+autonomic nervous system,unspc"
+Primary Malignancy_Other,B52y.00,88144,Malignant neoplasm of other specified part of nervous system
+Primary Malignancy_Other,B52z.00,56490,Malignant neoplasm of nervous system NOS
+Primary Malignancy_Other,B52..00,65458,Malig neop of other and unspecified parts of nervous system
+Primary Malignancy_Other,B540000,61390,Malignant neoplasm of adrenal cortex
+Primary Malignancy_Other,B540100,94220,Malignant neoplasm of adrenal medulla
+Primary Malignancy_Other,B540.00,28148,Malignant neoplasm of adrenal gland
+Primary Malignancy_Other,B540z00,70824,Malignant neoplasm of adrenal gland NOS
+Primary Malignancy_Other,B541.00,4218,Malignant neoplasm of parathyroid gland
+Primary Malignancy_Other,B54X.00,87113,"Malignant neoplasm-pluriglandular involvement,unspecified"
+Primary Malignancy_Other,B54y.00,90659,Malignant neoplasm of other specified endocrine gland
+Primary Malignancy_Other,B54z.00,64195,Malig neop of endocrine gland or related structure NOS
+Primary Malignancy_Other,B550000,55098,Malignant neoplasm of head NOS
+Primary Malignancy_Other,B550100,41931,Malignant neoplasm of cheek NOS
+Primary Malignancy_Other,B550200,12490,Malignant neoplasm of nose NOS
+Primary Malignancy_Other,B550300,51818,Malignant neoplasm of jaw NOS
+Primary Malignancy_Other,B550400,16280,Malignant neoplasm of neck NOS
+Primary Malignancy_Other,B550500,73510,Malignant neoplasm of supraclavicular fossa NOS
+Primary Malignancy_Other,B550.00,68236,"Malignant neoplasm of head, neck and face"
+Primary Malignancy_Other,B550z00,58903,"Malignant neoplasm of head, neck and face NOS"
+Primary Malignancy_Other,B551000,37618,Malignant neoplasm of axilla NOS
+Primary Malignancy_Other,B551100,23861,Malignant neoplasm of chest wall NOS
+Primary Malignancy_Other,B551200,97547,Malignant neoplasm of intrathoracic site NOS
+Primary Malignancy_Other,B551.00,47286,Malignant neoplasm of thorax
+Primary Malignancy_Other,B551z00,64810,Malignant neoplasm of thorax NOS
+Primary Malignancy_Other,B552.00,15976,Malignant neoplasm of abdomen
+Primary Malignancy_Other,B553000,57854,Malignant neoplasm of inguinal region NOS
+Primary Malignancy_Other,B553100,89916,Malignant neoplasm of presacral region
+Primary Malignancy_Other,B553200,107126,Malignant neoplasm of sacrococcygeal region
+Primary Malignancy_Other,B553.00,52316,Malignant neoplasm of pelvis
+Primary Malignancy_Other,B553z00,55101,Malignant neoplasm of pelvis NOS
+Primary Malignancy_Other,B554.00,27449,Malignant neoplasm of upper limb NOS
+Primary Malignancy_Other,B555.00,31399,Malignant neoplasm of lower limb NOS
+Primary Malignancy_Other,B55y000,68787,Malignant neoplasm of back NOS
+Primary Malignancy_Other,B55y100,67217,Malignant neoplasm of trunk NOS
+Primary Malignancy_Other,B55y200,94355,Malignant neoplasm of flank NOS
+Primary Malignancy_Other,B55y.00,42218,Malignant neoplasm of other specified sites
+Primary Malignancy_Other,B55yz00,60052,Malignant neoplasm of specified site NOS
+Primary Malignancy_Other,B55z.00,45267,Malignant neoplasm of other and ill defined site NOS
+Primary Malignancy_Other,B591.00,26034,Other malignant neoplasm NOS
+Primary Malignancy_Other,B592X00,65466,Kaposi's sarcoma of multiple organs
+Primary Malignancy_Other,B593.00,11035,Primary malignant neoplasm of unknown site
+Primary Malignancy_Other,B595.00,104324,Malignant tumour of unknown origin
+Primary Malignancy_Other,B59..00,47810,Malignant neoplasm of unspecified site
+Primary Malignancy_Other,B59z.00,54267,Malignant neoplasm of unspecified site NOS
+Primary Malignancy_Other,B59zX00,49525,"Kaposi's sarcoma, unspecified"
+Primary Malignancy_Other,B5...00,10995,Malignant neoplasm of other and unspecified sites
+Primary Malignancy_Other,B5...11,8693,Carcinoma of other and unspecified sites
+Primary Malignancy_Other,B5y..00,38736,Malignant neoplasm of other and unspecified site OS
+Primary Malignancy_Other,B5z..00,1056,Malignant neoplasm of other and unspecified site NOS
+Primary Malignancy_Other,B623000,69497,Malignant histiocytosis of unspecified site
+Primary Malignancy_Other,B623100,94415,"Malignant histiocytosis of lymph nodes head, face and neck"
+Primary Malignancy_Other,B623300,65642,Malignant histiocytosis of intra-abdominal lymph nodes
+Primary Malignancy_Other,B623.00,44267,Malignant histiocytosis
+Primary Malignancy_Other,B623z00,58871,Malignant histiocytosis NOS
+Primary Malignancy_Other,B625000,102715,Letterer-Siwe disease of unspecified sites
+Primary Malignancy_Other,B625200,102158,Letterer-Siwe disease of intrathoracic lymph nodes
+Primary Malignancy_Other,B625800,54083,Letterer-Siwe disease of lymph nodes of multiple sites
+Primary Malignancy_Other,B625.00,34926,Letterer-Siwe disease
+Primary Malignancy_Other,B625.11,4870,"Histiocytosis X (acute, progressive)"
+Primary Malignancy_Other,B625z00,47204,Letterer-Siwe disease NOS
+Primary Malignancy_Other,B626000,103900,Mast cell malignancy of unspecified site
+Primary Malignancy_Other,B626500,100615,Mast cell malignancy of lymph nodes inguinal region and leg
+Primary Malignancy_Other,B626800,31324,Mast cell malignancy of lymph nodes of multiple sites
+Primary Malignancy_Other,B626.00,15036,Malignant mast cell tumours
+Primary Malignancy_Other,B626z00,89657,Malignant mast cell tumour NOS
+Primary Malignancy_Other,B62x500,58962,Malignant immunoproliferative small intestinal disease
+Primary Malignancy_Other,B62x600,95630,True histiocytic lymphoma
+Primary Malignancy_Other,B62z000,108037,Unspec malig neop lymphoid/histiocytic of unspecified site
+Primary Malignancy_Other,B62z100,64427,Unspec malig neop lymphoid/histiocytic lymph node head/neck
+Primary Malignancy_Other,B62z200,93384,Unspec malig neop lymphoid/histiocytic of intrathoracic node
+Primary Malignancy_Other,B62z300,103353,Unspec malig neop lymphoid/histiocytic intra-abdominal nodes
+Primary Malignancy_Other,B62z400,107638,Unspec malig neop lymphoid/histiocytic lymph node axilla/arm
+Primary Malignancy_Other,B62z500,71609,Unspec malig neop lymphoid/histiocytic nodes inguinal/leg
+Primary Malignancy_Other,B62z600,109342,Unspec malig neop lymphoid/histiocytic of intrapelvic nodes
+Primary Malignancy_Other,B62z800,101465,Unspec malig neop lymphoid/histiocytic of multiple sites
+Primary Malignancy_Other,B62z.00,65434,Malignant neoplasms of lymphoid and histiocytic tissue NOS
+Primary Malignancy_Other,B62zz00,95792,Lymphoid and histiocytic malignancy NOS
+Primary Malignancy_Other,B62zz11,70716,Immunoproliferative neoplasm
+Primary Malignancy_Other,B63y.00,64567,Other immunoproliferative neoplasms
+Primary Malignancy_Other,B63z.00,43450,Immunoproliferative neoplasm or myeloma NOS
+Primary Malignancy_Other,B6y..00,30646,Malignant neoplasm lymphatic or haematopoietic tissue OS
+Primary Malignancy_Other,B6z0.00,50290,Kaposi's sarcoma of lymph nodes
+Primary Malignancy_Other,B6z..00,49301,Malignant neoplasm lymphatic or haematopoietic tissue NOS
+Primary Malignancy_Other,BB5h100,60775,[M]Adrenal cortical carcinoma
+Primary Malignancy_Other,BB57.00,28272,"[M]Adenocarcinoma, intestinal type"
+Primary Malignancy_Other,BBcC.00,51878,[M]Aesthesioneuroblastoma
+Primary Malignancy_Other,BBcC.11,39388,[M]Olfactory neuroblastoma
+Primary Malignancy_Other,BBcD.11,106131,[M]Olfactory neuroepithelioma
+Primary Malignancy_Other,BBm4.00,57544,[M]True histiocytic lymphoma
+Primary Malignancy_Other,BBT1.00,62348,[M]Haemangiosarcoma
+Primary Malignancy_Other,BBT7100,98322,"[M]Haemangioendothelioma, malignant"
+Primary Malignancy_Other,Byu1200,45766,"[X]Malignant neoplasm of intestinal tract, part unspecified"
+Primary Malignancy_Other,Byu1300,49292,[X]Malignant neoplsm/ill-defin sites within digestive system
+Primary Malignancy_Other,Byu2400,86997,[X]Malignant neoplasm/ill-defined sites within resp system
+Primary Malignancy_Other,Byu2500,50292,"[X]Malignant neoplasm of mediastinum, part unspecified"
+Primary Malignancy_Other,Byu5300,93665,"[X]Kaposi's sarcoma, unspecified"
+Primary Malignancy_Other,Byu5400,101668,"[X]Malignant neoplasm/peripheral nerves of trunk,unspecified"
+Primary Malignancy_Other,Byu5500,105072,[X]Mal neoplasm/overlap les/periph nerv+autonomic nerv systm
+Primary Malignancy_Other,Byu5700,95671,"[X]Malignant neoplasm of peritoneum, unspecified"
+Primary Malignancy_Other,Byu5800,91896,"[X]Mal neoplasm/connective+soft tissue of trunk,unspecified"
+Primary Malignancy_Other,Byu5900,91457,"[X]Malignant neoplasm/connective + soft tissue,unspecified"
+Primary Malignancy_Other,Byu5B00,98361,[X]Kaposi's sarcoma of other sites
+Primary Malignancy_Other,Byu7000,64497,"[X]Malignant neoplasm of uterine adnexa, unspecified"
+Primary Malignancy_Other,Byu7100,57756,[X]Malignant neoplasm/other specified female genital organs
+Primary Malignancy_Other,Byu7300,55588,"[X]Malignant neoplasm of female genital organ, unspecified"
+Primary Malignancy_Other,Byu8000,57191,[X]Malignant neoplasm/other specified male genital organs
+Primary Malignancy_Other,Byu8200,45262,"[X]Malignant neoplasm of male genital organ, unspecified"
+Primary Malignancy_Other,Byu9000,45260,"[X]Malignant neoplasm of urinary organ, unspecified"
+Primary Malignancy_Other,ByuB100,64309,"[X]Malignant neoplasm of endocrine gland, unspecified"
+Primary Malignancy_Other,ByuB.00,40608,[X]Malignant neoplasm of thyroid and other endocrine glands
+Primary Malignancy_Other,ByuC000,39027,[X]Malignant neoplasm of other specified sites
+Primary Malignancy_Other,ByuC100,96226,[X]Malignant neoplasm/overlap lesion/other+ill-defined sites
+Primary Malignancy_Other,ByuC600,68332,[X]2ndry malignant neoplasm/oth+unspec parts/nervous system
+Primary Malignancy_Other,ByuC800,52029,[X]Malignant neoplasm without specification of site
+Primary Malignancy_Other,ByuC.00,35186,"[X]Malignant neoplasm of ill-defined, secondary and unspeci"
+Primary Malignancy_Other,ByuD400,102688,[X]Other malignant immunoproliferative diseases
+Primary Malignancy_Other,ByuDA00,105025,"[X]Oth spcf mal neoplsm/lymphoid,haematopoietic+rltd tissue"
+Primary Malignancy_Other,ByuDB00,72500,"[X]Mal neoplasm/lymphoid,haematopoietic+related tissu,unspcf"
+Primary Malignancy_Other,C37y000,54411,Hand - Schuller - Christian disease
+Primary Malignancy_Other,C37y500,51718,"Histiocytosis X , chronic"
+Primary Malignancy_Other,C37y600,36736,"Histiocytosis X , unspecified"
+Primary Malignancy_Other,ZV10000,62814,[V]Personal history of malig neop of gastrointestinal tract
+Primary Malignancy_Other,ZV10012,64568,[V]Personal history of malig neop of gastrointestinal tract
+Primary Malignancy_Other,B592.00,51352,Malignant neoplasms of independent (primary) multiple sites
+Primary Malignancy_Other,ByuE000,64897,[X]Malignant neoplasms/independent(primary)multiple sites
+Primary Malignancy_Other,ByuE.00,63598,[X]Malignant neoplasms/independent (primary) multiple sites
