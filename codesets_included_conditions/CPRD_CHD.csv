@@ -89,7 +89,7 @@ Coronary heart disease,7920200,7442,Saphenous vein graft replacement of three co
 Coronary heart disease,7920300,11610,Saphenous vein graft replacement of four+ coronary arteries
 Coronary heart disease,7920y00,7137,Saphenous vein graft replacement of coronary artery OS
 Coronary heart disease,7920z00,51515,Saphenous vein graft replacement coronary artery NOS
-Coronary heart disease,7921.00,9414,Other autograft replacement of coronary artery
+Coronary heart disease,7921y00,9414,Other autograft replacement of coronary artery
 Coronary heart disease,7921.11,7134,Other autograft bypass of coronary artery
 Coronary heart disease,7921000,44561,Autograft replacement of one coronary artery NEC
 Coronary heart disease,7921100,19413,Autograft replacement of two coronary arteries NEC
@@ -171,7 +171,6 @@ Coronary heart disease,G310.00,23579,Postmyocardial infarction syndrome
 Coronary heart disease,G32..00,4017,Old myocardial infarction
 Coronary heart disease,G32..11,16408,Healed myocardial infarction
 Coronary heart disease,G32..12,17464,Personal history of myocardial infarction
-Coronary heart disease,G33z500,9555,Post infarct angina
 Coronary heart disease,G30..11,13566,Attack - heart
 Coronary heart disease,G30..14,1204,Heart attack
 Coronary heart disease,G30..17,17689,Silent myocardial infarction
