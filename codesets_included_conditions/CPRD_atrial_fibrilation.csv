@@ -1,24 +1,34 @@
-Readcode,Disease,Medcode,ReadcodeDescr,Category,CodingSystem,Provenance
-14AN.00,Atrial fibrillation,6345,H/O: atrial fibrillation,History of atrial fibrillation or flutter (1),NA,Kuan
-14AR.00,Atrial fibrillation,93460,History of atrial flutter,History of atrial fibrillation or flutter (1),NA,Kuan
-212R.00,Atrial fibrillation,28994,Atrial fibrillation resolved,History of atrial fibrillation or flutter (1),NA,Kuan
-3272.00,Atrial fibrillation,3757,ECG: atrial fibrillation,"Atrial fibrillation, not otherwise specified (5)",NA,Kuan
-3273.00,Atrial fibrillation,6771,ECG: atrial flutter,Atrial flutter (7),NA,Kuan
-662S.00,Atrial fibrillation,18746,Atrial fibrillation monitoring,Atrial fibrillation monitoring (2),NA,Kuan
-6A9..00,Atrial fibrillation,45773,Atrial fibrillation annual review,Atrial fibrillation monitoring (2),NA,Kuan
-9hF..00,Atrial fibrillation,63350,Exception reporting: atrial fibrillation quality indicators,Atrial fibrillation monitoring (2),NA,Kuan
-9hF1.00,Atrial fibrillation,39114,Excepted from atrial fibrillation qual indic: Inform dissent,Atrial fibrillation monitoring (2),NA,Kuan
-9Os..00,Atrial fibrillation,57832,Atrial fibrillation monitoring administration,Atrial fibrillation monitoring (2),NA,Kuan
-9Os0.00,Atrial fibrillation,90187,Atrial fibrillation monitoring first letter,Atrial fibrillation monitoring (2),NA,Kuan
-9Os1.00,Atrial fibrillation,90188,Atrial fibrillation monitoring second letter,Atrial fibrillation monitoring (2),NA,Kuan
-9Os2.00,Atrial fibrillation,90189,Atrial fibrillation monitoring third letter,Atrial fibrillation monitoring (2),NA,Kuan
-9Os3.00,Atrial fibrillation,90190,Atrial fibrillation monitoring verbal invite,Atrial fibrillation monitoring (2),NA,Kuan
-9Os4.00,Atrial fibrillation,90191,Atrial fibrillation monitoring telephone invite,Atrial fibrillation monitoring (2),NA,Kuan
-G573.00,Atrial fibrillation,2212,Atrial fibrillation and flutter,Atrial fibrillation or flutter (6),readcode,Kuan and Cambridge
-G573000,Atrial fibrillation,1664,Atrial fibrillation,"Atrial fibrillation, not otherwise specified (5)",readcode,Kuan and Cambridge
-G573100,Atrial fibrillation,1757,Atrial flutter,Atrial flutter (7),readcode,Kuan and Cambridge
-G573200,Atrial fibrillation,1268,Paroxysmal atrial fibrillation,Paroxysmal atrial fibrillation (3),readcode,Kuan and Cambridge
-G573300,Atrial fibrillation,35127,Non-rheumatic atrial fibrillation,"Atrial fibrillation, not otherwise specified (5)",readcode,Kuan and Cambridge
-G573400,Atrial fibrillation,96277,Permanent atrial fibrillation,Persistent or permanent atrial fibrillation (4),readcode,Kuan and Cambridge
-G573500,Atrial fibrillation,96076,Persistent atrial fibrillation,Persistent or permanent atrial fibrillation (4),readcode,Kuan and Cambridge
-G573z00,Atrial fibrillation,23437,Atrial fibrillation and flutter NOS,Atrial fibrillation or flutter (6),readcode,Kuan and Cambridge
+Disease,ReadCode,MedCode,ReadTerm
+Atrial fibrillation and flutter,14AN.00,6345,H/O: atrial fibrillation
+Atrial fibrillation and flutter,14AR.00,93460,History of atrial flutter
+Atrial fibrillation and flutter,212R.00,28994,Atrial fibrillation resolved
+Atrial fibrillation and flutter,3272.00,3757,ECG: atrial fibrillation
+Atrial fibrillation and flutter,3273.00,6771,ECG: atrial flutter
+Atrial fibrillation and flutter,662S.00,18746,Atrial fibrillation monitoring
+Atrial fibrillation and flutter,6A9..00,45773,Atrial fibrillation annual review
+Atrial fibrillation and flutter,9hF..00,63350,Exception reporting: atrial fibrillation quality indicators
+Atrial fibrillation and flutter,9hF1.00,39114,Excepted from atrial fibrillation qual indic: Inform dissent
+Atrial fibrillation and flutter,9Os..00,57832,Atrial fibrillation monitoring administration
+Atrial fibrillation and flutter,9Os0.00,90187,Atrial fibrillation monitoring first letter
+Atrial fibrillation and flutter,9Os1.00,90188,Atrial fibrillation monitoring second letter
+Atrial fibrillation and flutter,9Os2.00,90189,Atrial fibrillation monitoring third letter
+Atrial fibrillation and flutter,9Os3.00,90190,Atrial fibrillation monitoring verbal invite
+Atrial fibrillation and flutter,9Os4.00,90191,Atrial fibrillation monitoring telephone invite
+Atrial fibrillation and flutter,G573.00,2212,Atrial fibrillation and flutter
+Atrial fibrillation and flutter,G573000,1664,Atrial fibrillation
+Atrial fibrillation and flutter,G573100,1757,Atrial flutter
+Atrial fibrillation and flutter,G573200,1268,Paroxysmal atrial fibrillation
+Atrial fibrillation and flutter,G573300,35127,Non-rheumatic atrial fibrillation
+Atrial fibrillation and flutter,G573400,96277,Permanent atrial fibrillation
+Atrial fibrillation and flutter,G573500,96076,Persistent atrial fibrillation
+Atrial fibrillation and flutter,G573z00,23437,Atrial fibrillation and flutter NOS
+Atrial fibrillation and flutter,793M100,84152, Perc transluminal ablation of atrial wall for atrial flutter 
+Atrial fibrillation and flutter,G573600,107472, Paroxysmal atrial flutter 
+Atrial fibrillation and flutter,793M300,86416, Perc translum ablat conduct sys heart for atrial flutter NEC 
+Atrial fibrillation and flutter,9Os4.00,90191, Atrial fibrillation monitoring telephone invite 
+Atrial fibrillation and flutter,9Os..00,57832, Atrial fibrillation monitoring administration 
+Atrial fibrillation and flutter,6A9..00,45773, Atrial fibrillation annual review 
+Atrial fibrillation and flutter,7936A00,9479, Implant intravenous pacemaker for atrial fibrillation 
+Atrial fibrillation and flutter,9Os3.00,90190, Atrial fibrillation monitoring verbal invite 
+Atrial fibrillation and flutter,8CMW200,105554, Atrial fibrillation care pathway 
+Atrial fibrillation and flutter,662S.00,18746, Atrial fibrillation monitoring 
