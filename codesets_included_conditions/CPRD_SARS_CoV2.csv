@@ -1,19 +1,19 @@
-Disease,MedCode,ReadCode,ReadTerm
-SARS-CoV-2,114771,4J3R100,2019-nCoV (novel coronavirus) detected
-SARS-CoV-2,114769,4J3R200,2019-nCoV (novel coronavirus) not detected
-SARS-CoV-2,114770,4J3R.00,2019-nCoV (novel coronavirus) serology
-SARS-CoV-2,114760,8CAO100,Advice given about 2019-nCoV (novel coronavirus) by telephone
-SARS-CoV-2,114754,8CAO.00,Advice given about 2019-nCoV (novel coronavirus) infection
-SARS-CoV-2,114891,A7y0000,Coronavirus as cause of dis classified to other chapters
-SARS-CoV-2,114731,65PW.00,Coronavirus contact
-SARS-CoV-2,50068,A795.00,Coronavirus infection
-SARS-CoV-2,91124,43jS.00,Coronavirus nucleic acid detection
-SARS-CoV-2,109154,43jS000,Coronavirus nucleic acid detection assay
-SARS-CoV-2,110951,43jS100,Coronavirus ribonucleic acid detection assay
-SARS-CoV-2,114765,A795100,Disease caused by 2019-nCoV (novel coronavirus)
-SARS-CoV-2,114764,65PW100,Exposure to 2019-nCoV (novel coronavirus) infection
-SARS-CoV-2,113745,1JX..00,Suspected coronavirus infection
-SARS-CoV-2,114766,1JX1.00,Suspected disease caused by 2019-nCoV (novel coronavirus)
-SARS-CoV-2,114753,9N31200,Telephone consultation for suspected 2019-nCoV (novel coronavirus)
-SARS-CoV-2,114762,AyuDC00,"[X]Coronavirus infection, unspecified"
-SARS-CoV-2,115315,AyuKL00,[X]Coronavirus/cause/diseases classified to other chapters
+Disease,ReadCode,MedCode,ReadTerm
+SARS-CoV-2,4J3R100,114771,2019-nCoV (novel coronavirus) detected
+SARS-CoV-2,4J3R200,114769,2019-nCoV (novel coronavirus) not detected
+SARS-CoV-2,4J3R.00,114770,2019-nCoV (novel coronavirus) serology
+SARS-CoV-2,8CAO100,114760,Advice given about 2019-nCoV (novel coronavirus) by telephone
+SARS-CoV-2,8CAO.00,114754,Advice given about 2019-nCoV (novel coronavirus) infection
+SARS-CoV-2,A7y0000,114891,Coronavirus as cause of dis classified to other chapters
+SARS-CoV-2,65PW.00,114731,Coronavirus contact
+SARS-CoV-2,A795.00,50068,Coronavirus infection
+SARS-CoV-2,43jS.00,91124,Coronavirus nucleic acid detection
+SARS-CoV-2,43jS000,109154,Coronavirus nucleic acid detection assay
+SARS-CoV-2,43jS100,110951,Coronavirus ribonucleic acid detection assay
+SARS-CoV-2,A795100,114765,Disease caused by 2019-nCoV (novel coronavirus)
+SARS-CoV-2,65PW100,114764,Exposure to 2019-nCoV (novel coronavirus) infection
+SARS-CoV-2,1JX..00,113745,Suspected coronavirus infection
+SARS-CoV-2,1JX1.00,114766,Suspected disease caused by 2019-nCoV (novel coronavirus)
+SARS-CoV-2,9N31200,114753,Telephone consultation for suspected 2019-nCoV (novel coronavirus)
+SARS-CoV-2,AyuDC00,114762,"[X]Coronavirus infection, unspecified"
+SARS-CoV-2,AyuKL00,115315,[X]Coronavirus/cause/diseases classified to other chapters
