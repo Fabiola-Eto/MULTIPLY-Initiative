@@ -21,3 +21,5 @@ Cardiac conduction defects,G565000 ,3032, Bundle branch block unspecified
 Cardiac conduction defects,G564.00 ,9906, Right bundle branch block 
 Cardiac conduction defects,G565z00 ,39003, Other bundle branch block NOS 
 Cardiac conduction defects,3299.00,534, ECG: right bundle branch block 
+Cardiac conduction defects,329B.00,100234,ECG: trifascicular block
+Cardiac conduction defects,G565400,10712,Trifascicular block
