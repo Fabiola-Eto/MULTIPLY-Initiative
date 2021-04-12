@@ -1,6 +1,6 @@
 # List of long-term conditions
 
-Multimorbidity was defined as the presence of two or more long-term conditions (out of the 200 conditions listed above) within the same individual. The list of possible long-term conditions for inclusion was collated following literature review. The list was then reviewed by two rounds of consensus panel composed by clinicians with different specialities (general practitioners, psychiatrists, geriatrician, gynaecologist and obstetrician, gastroenterologist, and diabetologist), following predefined criteria to select long-term conditions:
+Multimorbidity was defined as the presence of two or more long-term conditions (out of the 199 conditions listed above) within the same individual. The list of possible long-term conditions for inclusion was collated following literature review. The list was then reviewed by two rounds of consensus panel composed by clinicians with different specialities (general practitioners, psychiatrists, geriatrician, gynaecologist and obstetrician, gastroenterologist, and diabetologist), following predefined criteria to select long-term conditions:
 
 - i.	It is clinically relevant to people age 16+ years old,
 - ii.	It would fit in the standard definition of multimorbidity set out by the Academy of Medical Sciences (1), as follows: The co-existence of two or more chronic conditions, each one of which is either (a) a physical non-communicable disease of long duration, such as cardiovascular disease or cancer, (b) a mental health condition of long duration, such as a mood disorder or dementia, (c) an infectious disease of long duration, such as HIV or hepatitis C.
@@ -198,15 +198,14 @@ The code set files are hosted in the folder [codesets_included_conditions](https
 |  186  | Thrombophilia                                                                                | CPRD_thrombophilia.csv                   |             yes             |
 |  187  | Thyroid disease                                                                              | CPRD_thyroid.csv                         |             yes             |
 |  188  | Tinnitus                                                                                     | CPRD_tinnitus.csv                        |             yes             |
-|  189  | Trifascicular block                                                                          | CPRD_trifasc_block.csv                   |                             |
-|  190  | Trigeminal neuralgia                                                                         | CPRD_trigem_neur.csv                     |             yes             |
-|  191  | Tuberculosis                                                                                 | CPRD_TB.csv                              |             yes             |
-|  192  | Ulcerative colitis                                                                           | CPRD_ulc_colitis.csv                     |             yes             |
-|  193  | Urinary Incontinence                                                                         | CPRD_urine_incont.csv                    |             yes             |
-|  194  | Urolithiasis                                                                                 | CPRD_urolithiasis.csv                    |             yes             |
-|  195  | Urticaria                                                                                    | CPRD_urticaria.csv                       |             yes             |
-|  196  | Venous and lymphatic diseases                                                                | CPRD_venous_lymphatic.csv                |             yes             |
-|  197  | Venous thromboembolism                                                                       | CPRD_vte_ex_pe.csv                       |             yes             |
-|  198  | Visual impairment and blindness                                                              | CPRD_blindness.csv                       |                             |
-|  199  | Vitamin B12 deficiency anaemia                                                               | CPRD_vitb12_deficiency.csv               |             yes             |
-|  200  | Vitiligo                                                                                     | CPRD_vitiligo.csv                        |             yes             |
+|  189  | Trigeminal neuralgia                                                                         | CPRD_trigem_neur.csv                     |             yes             |
+|  190  | Tuberculosis                                                                                 | CPRD_TB.csv                              |             yes             |
+|  191  | Ulcerative colitis                                                                           | CPRD_ulc_colitis.csv                     |             yes             |
+|  192  | Urinary Incontinence                                                                         | CPRD_urine_incont.csv                    |             yes             |
+|  193  | Urolithiasis                                                                                 | CPRD_urolithiasis.csv                    |             yes             |
+|  194  | Urticaria                                                                                    | CPRD_urticaria.csv                       |             yes             |
+|  195  | Venous and lymphatic diseases                                                                | CPRD_venous_lymphatic.csv                |             yes             |
+|  196  | Venous thromboembolism                                                                       | CPRD_vte_ex_pe.csv                       |             yes             |
+|  197  | Visual impairment and blindness                                                              | CPRD_blindness.csv                       |                             |
+|  198  | Vitamin B12 deficiency anaemia                                                               | CPRD_vitb12_deficiency.csv               |             yes             |
+|  199  | Vitiligo                                                                                     | CPRD_vitiligo.csv                        |             yes             |
