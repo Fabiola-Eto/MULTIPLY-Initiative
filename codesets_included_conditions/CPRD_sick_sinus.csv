@@ -1,3 +1,4 @@
-Disease,Readcode,Medcode,ReadcodeDescr,Category
-Sick sinus syndrome,G57y300,5576.0,Sick sinus syndrome,Diagnosis of Sick sinus syndrome
-Sick sinus syndrome,G57y400,7410.0,Sinoatrial node dysfunction NOS,Diagnosis of Sick sinus syndrome
+Disease,ReadCode,MedCode,ReadTerm
+Sick sinus syndrome,G57y300,5576,Sick sinus syndrome
+Sick sinus syndrome,G57y400,7410,Sinoatrial node dysfunction NOS
+Sick sinus syndrome,G566000,18437,Sinoatrial block
