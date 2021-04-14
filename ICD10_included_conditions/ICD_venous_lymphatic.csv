@@ -1,7 +1,44 @@
 Disease,ICD10code,ICD10codeDescr
-Venous and lymphatic diseases,I780,Hereditary haemorrhagic telangiectasia
+Venous and lymphatic diseases,I80.1,Phlebitis and thrombophlebitis of femoral vein
+Venous and lymphatic diseases,I81,Portal vein thrombosis
+Venous and lymphatic diseases,I82.3,Embolism and thrombosis of renal vein
+Venous and lymphatic diseases,I82.8,Embolism and thrombosis of other specified veins
+Venous and lymphatic diseases,I82.9,Embolism and thrombosis of unspecified vein
 Venous and lymphatic diseases,I83,Varicose veins of lower extremities
+Venous and lymphatic diseases,I83.0,Varicose veins of lower extremities with ulcer
+Venous and lymphatic diseases,I83.1,Varicose veins of lower extremities with inflammation
+Venous and lymphatic diseases,I83.2,Varicose veins of lower extremities with both ulcer and inflammation
+Venous and lymphatic diseases,I83.9,Varicose veins of lower extremities without ulcer or inflammation
+Venous and lymphatic diseases,I86,Varicose veins of other sites
+Venous and lymphatic diseases,I86.8,Varicose veins of other specified sites
 Venous and lymphatic diseases,I87,Other disorders of veins
+Venous and lymphatic diseases,I87.1,Compression of vein
+Venous and lymphatic diseases,I87.8,Other specified disorders of veins
+Venous and lymphatic diseases,I87.9,"Disorder of vein, unspecified"
 Venous and lymphatic diseases,I89,Other noninfective disorders of lymphatic vessels and lymph nodes
-Venous and lymphatic diseases,I972,Postmastectomy lymphoedema syndrome
-Venous and lymphatic diseases,Q820,Hereditary lymphoedema
+Venous and lymphatic diseases,I89.8,Other specified noninfective disorders of lymphatic vessels and lymph nodes
+Venous and lymphatic diseases,I89.9,"Noninfective disorder of lymphatic vessels and lymph nodes, unspecified"
+Venous and lymphatic diseases,K75.1,Phlebitis of portal vein
+Venous and lymphatic diseases,O22.0,Varicose veins of lower extremity in pregnancy
+Venous and lymphatic diseases,Q26,Congenital malformations of great veins
+Venous and lymphatic diseases,Q26.6,Portal vein-hepatic artery fistula
+Venous and lymphatic diseases,Q26.8,Other congenital malformations of great veins
+Venous and lymphatic diseases,Q26.9,"Congenital malformation of great vein, unspecified"
+Venous and lymphatic diseases,S15.2,Injury of external jugular vein
+Venous and lymphatic diseases,S15.3,Injury of internal jugular vein
+Venous and lymphatic diseases,S25.3,Injury of innominate or subclavian vein
+Venous and lymphatic diseases,S35.3,Injury of portal or splenic vein
+Venous and lymphatic diseases,S45.2,Injury of axillary or brachial vein
+Venous and lymphatic diseases,S45.3,Injury of superficial vein at shoulder and upper arm level
+Venous and lymphatic diseases,S55.2,Injury of vein at forearm level
+Venous and lymphatic diseases,S75.1,Injury of femoral vein at hip and thigh level
+Venous and lymphatic diseases,S75.2,Injury of greater saphenous vein at hip and thigh level
+Venous and lymphatic diseases,S85.3,Injury of greater saphenous vein at lower leg level
+Venous and lymphatic diseases,S85.4,Injury of lesser saphenous vein at lower leg level
+Venous and lymphatic diseases,S85.5,Injury of popliteal vein
+Venous and lymphatic diseases,S95.2,Injury of dorsal vein of foot
+Venous and lymphatic diseases,T46.8,"Poisoning: Antivaricose drugs, including sclerosing agents"
+Venous and lymphatic diseases,Y52.8,"Antivaricose drugs, including sclerosing agents"
+Venous and lymphatic diseases,I78.0,Hereditary haemorrhagic telangiectasia
+Venous and lymphatic diseases,I97.2,Postmastectomy lymphoedema syndrome
+Venous and lymphatic diseases,Q82.0,Hereditary lymphoedema
