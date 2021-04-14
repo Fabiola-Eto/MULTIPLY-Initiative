@@ -1,19 +1,19 @@
-Disease,ICD10code,ICD10codeDescr,Category
-Tuberculosis,A15,"Respiratory tuberculosis, bacteriologically and histologically confirmed",Diagnosis of Tuberculosis
-Tuberculosis,A16,"Respiratory tuberculosis, not confirmed bacteriologically or histologically",Diagnosis of Tuberculosis
-Tuberculosis,A17,Tuberculosis of nervous system,Diagnosis of Tuberculosis
-Tuberculosis,A18,Tuberculosis of other organs,Diagnosis of Tuberculosis
-Tuberculosis,A19,Miliary tuberculosis,Diagnosis of Tuberculosis
-Tuberculosis,B20.0,HIV disease resulting in mycobacterial infection,Diagnosis of Tuberculosis
-Tuberculosis,B90,Sequelae of tuberculosis,Diagnosis of Tuberculosis
-Tuberculosis,J65,Pneumoconiosis associated with tuberculosis,Diagnosis of Tuberculosis
-Tuberculosis,K23.0,Tuberculous oesophagitis,Diagnosis of Tuberculosis
-Tuberculosis,K67.3,Tuberculous peritonitis,Diagnosis of Tuberculosis
-Tuberculosis,K93.0,"Tuberculous disorders of intestines, peritoneum and mesenteric glands",Diagnosis of Tuberculosis
-Tuberculosis,M01.1,Tuberculous arthritis,Diagnosis of Tuberculosis
-Tuberculosis,M49.0,Tuberculosis of spine,Diagnosis of Tuberculosis
-Tuberculosis,M90.0,Tuberculosis of bone,Diagnosis of Tuberculosis
-Tuberculosis,N33.0,Tuberculous cystitis,Diagnosis of Tuberculosis
-Tuberculosis,N74.0,Tuberculous infection of cervix uteri,Diagnosis of Tuberculosis
-Tuberculosis,N74.1,Female tuberculous pelvic inflammatory disease,Diagnosis of Tuberculosis
-Tuberculosis,P37.0,Congenital tuberculosis,Diagnosis of Tuberculosis
+Disease,ICD10code,ICD10codeDescr
+Tuberculosis,A15,Respiratory tuberculosis, bacteriologically and histologically confirmed
+Tuberculosis,A16,Respiratory tuberculosis, not confirmed bacteriologically or histologically
+Tuberculosis,A17,Tuberculosis of nervous system
+Tuberculosis,A18,Tuberculosis of other organs
+Tuberculosis,A19,Miliary tuberculosis
+Tuberculosis,B20.0,HIV disease resulting in mycobacterial infection
+Tuberculosis,B90,Sequelae of tuberculosis
+Tuberculosis,J65,Pneumoconiosis associated with tuberculosis
+Tuberculosis,K23.0,Tuberculous oesophagitis
+Tuberculosis,K67.3,Tuberculous peritonitis
+Tuberculosis,K93.0,Tuberculous disorders of intestines, peritoneum and mesenteric glands
+Tuberculosis,M01.1,Tuberculous arthritis
+Tuberculosis,M49.0,Tuberculosis of spine
+Tuberculosis,M90.0,Tuberculosis of bone
+Tuberculosis,N33.0,Tuberculous cystitis
+Tuberculosis,N74.0,Tuberculous infection of cervix uteri
+Tuberculosis,N74.1,Female tuberculous pelvic inflammatory disease
+Tuberculosis,P37.0,Congenital tuberculosis
