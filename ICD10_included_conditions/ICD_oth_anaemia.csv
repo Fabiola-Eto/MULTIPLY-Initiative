@@ -1,5 +1,6 @@
-Disease,ICD10code,ICD10codeDescr
-Other anaemias,D53,Other nutritional anaemias
-Other anaemias,D62,Acute posthaemorrhagic anaemia
-Other anaemias,D63,Anaemia in chronic diseases classified elsewhere
-Other anaemias,D64,Other anaemias
+"Disease","ICD10code","ICD10codeDescr"
+"Other anaemias","D53","Other nutritional anaemias"
+"Other anaemias","D62","Acute posthaemorrhagic anaemia"
+"Other anaemias","D63","Anaemia in chronic diseases classified elsewhere"
+"Other anaemias","D64","Other anaemias"
+"Thalassaemia trait","D56.3","Thalassaemia trait"
