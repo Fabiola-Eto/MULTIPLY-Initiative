@@ -1,21 +1,21 @@
-Disease,ReadCode,MedCode,ReadTerm,
-Ulcerative colitis,14C4.11,5749,H/O: ulcerative colitis,
-Ulcerative colitis,J410000,48732,Ulcerative ileocolitis,
-Ulcerative colitis,J410100,704,Ulcerative colitis,
-Ulcerative colitis,J410200,24858,Ulcerative rectosigmoiditis,
-Ulcerative colitis,J410300,8347,Ulcerative proctitis,
-Ulcerative colitis,J410400,22516,Exacerbation of ulcerative colitis,
-Ulcerative colitis,J410.00,6650,Ulcerative proctocolitis,
-Ulcerative colitis,J410z00,33456,Ulcerative proctocolitis NOS,
-Ulcerative colitis,J411.00,30433,Ulcerative (chronic) enterocolitis,
-Ulcerative colitis,J412.00,42822,Ulcerative (chronic) ileocolitis,
-Ulcerative colitis,J413.00,104259,Ulcerative pancolitis,
-Ulcerative colitis,J41..00,5133,Idiopathic proctocolitis,
-Ulcerative colitis,J41..11,23950,Mucous colitis and/or proctitis,
-Ulcerative colitis,J41..12,1784,Ulcerative colitis and/or proctitis,
-Ulcerative colitis,J41y.00,24550,Other idiopathic proctocolitis,
-Ulcerative colitis,J41yz00,43090,Other idiopathic proctocolitis NOS,
-Ulcerative colitis,J41z.00,15207,Idiopathic proctocolitis NOS,
-Ulcerative colitis,Jyu4100,53743,[X]Other ulcerative colitis,
-Ulcerative colitis,N031000,17641,Arthropathy in ulcerative colitis,
-Ulcerative colitis,N045400,71083,Juvenile arthritis in ulcerative colitis,
+Disease,ReadCode,MedCode,ReadTerm
+Ulcerative colitis,14C4.11,5749,H/O: ulcerative colitis
+Ulcerative colitis,J410000,48732,Ulcerative ileocolitis
+Ulcerative colitis,J410100,704,Ulcerative colitis
+Ulcerative colitis,J410200,24858,Ulcerative rectosigmoiditis
+Ulcerative colitis,J410300,8347,Ulcerative proctitis
+Ulcerative colitis,J410400,22516,Exacerbation of ulcerative colitis
+Ulcerative colitis,J410.00,6650,Ulcerative proctocolitis
+Ulcerative colitis,J410z00,33456,Ulcerative proctocolitis NOS
+Ulcerative colitis,J411.00,30433,Ulcerative (chronic) enterocolitis
+Ulcerative colitis,J412.00,42822,Ulcerative (chronic) ileocolitis
+Ulcerative colitis,J413.00,104259,Ulcerative pancolitis
+Ulcerative colitis,J41..00,5133,Idiopathic proctocolitis
+Ulcerative colitis,J41..11,23950,Mucous colitis and/or proctitis
+Ulcerative colitis,J41..12,1784,Ulcerative colitis and/or proctitis
+Ulcerative colitis,J41y.00,24550,Other idiopathic proctocolitis
+Ulcerative colitis,J41yz00,43090,Other idiopathic proctocolitis NOS
+Ulcerative colitis,J41z.00,15207,Idiopathic proctocolitis NOS
+Ulcerative colitis,Jyu4100,53743,[X]Other ulcerative colitis
+Ulcerative colitis,N031000,17641,Arthropathy in ulcerative colitis
+Ulcerative colitis,N045400,71083,Juvenile arthritis in ulcerative colitis
