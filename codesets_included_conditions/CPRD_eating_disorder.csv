@@ -1,28 +1,28 @@
-Disease,ReadCode,MedCode,ReadTerm,,,,
-Eating disorders,1467.00,8027,H/O: anorexia nervosa,,,,
-Eating disorders,1FF..00,26518,Binge eating,,,,
-Eating disorders,8HTN.00,11612,Referral to eating disorders clinic,,,,
-Eating disorders,9Nk9.00,95883,Seen in eating disorder clinic,,,,
-Eating disorders,E271.00,2135,Anorexia nervosa,,,,
-Eating disorders,E275.00,7743,Other and unspecified non-organic eating disorders,,,,
-Eating disorders,E275000,44544,Unspecified non-organic eating disorder,,,,
-Eating disorders,E275111,11608,Compulsive eating disorder,,,,
-Eating disorders,E275100,4377,Bulimia (non-organic overeating),,,,
-Eating disorders,E275200,4835,Pica,,,,
-Eating disorders,E275y00,61236,Other specified non-organic eating disorder,,,,
-Eating disorders,E275z00,32892,Non-organic eating disorder NOS,,,,
-Eating disorders,Eu50.00,6159,[X]Eating disorders,,,,
-Eating disorders,Eu50000,30570,[X]Anorexia nervosa,,,,
-Eating disorders,Eu50100,34929,[X]Atypical anorexia nervosa,,,,
-Eating disorders,Eu50200,9581,[X]Bulimia nervosa,,,,
-Eating disorders,Eu50211,6583,[X]Bulimia NOS,,,,
-Eating disorders,Eu50300,33863,[X]Atypical bulimia nervosa,,,,
-Eating disorders,Eu50400,39383,[X]Overeating associated with other psychological disturbances,,,,
-Eating disorders,Eu50411,17439,[X]Psychogenic overeating,,,,
-Eating disorders,Eu50y00,34995,[X]Other eating disorders,,,,
-Eating disorders,Eu50y11,62150,[X]Pica in adults,,,,
-Eating disorders,Eu50y12,17203,[X]Psychogenic loss of appetite,,,,
-Eating disorders,Eu50z00,36946,"[X]Eating disorder, unspecified",,,,
-Eating disorders,R030.00,912,[D]Anorexia,,,,
-Eating disorders,R030z00,53746,[D]Anorexia NOS,,,,
-Eating disorders,R036011,605,[D]Bulimia NOS,,,,
+Disease,ReadCode,MedCode,ReadTerm
+Eating disorders,1467.00,8027,H/O: anorexia nervosa
+Eating disorders,1FF..00,26518,Binge eating
+Eating disorders,8HTN.00,11612,Referral to eating disorders clinic
+Eating disorders,9Nk9.00,95883,Seen in eating disorder clinic
+Eating disorders,E271.00,2135,Anorexia nervosa
+Eating disorders,E275.00,7743,Other and unspecified non-organic eating disorders
+Eating disorders,E275000,44544,Unspecified non-organic eating disorder
+Eating disorders,E275111,11608,Compulsive eating disorder
+Eating disorders,E275100,4377,Bulimia (non-organic overeating)
+Eating disorders,E275200,4835,Pica
+Eating disorders,E275y00,61236,Other specified non-organic eating disorder
+Eating disorders,E275z00,32892,Non-organic eating disorder NOS
+Eating disorders,Eu50.00,6159,[X]Eating disorders
+Eating disorders,Eu50000,30570,[X]Anorexia nervosa
+Eating disorders,Eu50100,34929,[X]Atypical anorexia nervosa
+Eating disorders,Eu50200,9581,[X]Bulimia nervosa
+Eating disorders,Eu50211,6583,[X]Bulimia NOS
+Eating disorders,Eu50300,33863,[X]Atypical bulimia nervosa
+Eating disorders,Eu50400,39383,[X]Overeating associated with other psychological disturbances
+Eating disorders,Eu50411,17439,[X]Psychogenic overeating
+Eating disorders,Eu50y00,34995,[X]Other eating disorders
+Eating disorders,Eu50y11,62150,[X]Pica in adults
+Eating disorders,Eu50y12,17203,[X]Psychogenic loss of appetite
+Eating disorders,Eu50z00,36946,"[X]Eating disorder, unspecified"
+Eating disorders,R030.00,912,[D]Anorexia
+Eating disorders,R030z00,53746,[D]Anorexia NOS
+Eating disorders,R036011,605,[D]Bulimia NOS
