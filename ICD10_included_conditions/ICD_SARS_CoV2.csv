@@ -1,12 +1,12 @@
 Disease,ICD10code,ICD10codeDescr
 SARS-CoV-2,U07.1,"COVID-19, virus identified"
 SARS-CoV-2,U08,Personal history of COVID-19
-SARS-CoV-3,U08.9,"Personal history of COVID-19, unspecified"
-SARS-CoV-4,U09,Post COVID-19 condition
-SARS-CoV-5,U09.9,"Post COVID-19 condition, unspecified"
-SARS-CoV-6,U10,Multisystem inflammatory syndrome associated with COVID-19
-SARS-CoV-7,U10.9,"Multisystem inflammatory syndrome associated with COVID-19, unspecified"
-SARS-CoV-8,U11,Need for immunization against COVID-19
-SARS-CoV-9,U11.9,"Need for immunization against COVD-19, unspecified"
-SARS-CoV-10,U12,COVID-19 vaccines causing adverse effects in therapeutic use
-SARS-CoV-11,U12.9,"COVID-19 vaccines causing adverse effects in therapeutic use, unspecified"
+SARS-CoV-2,U08.9,"Personal history of COVID-19, unspecified"
+SARS-CoV-2,U09,Post COVID-19 condition
+SARS-CoV-2,U09.9,"Post COVID-19 condition, unspecified"
+SARS-CoV-2,U10,Multisystem inflammatory syndrome associated with COVID-19
+SARS-CoV-2,U10.9,"Multisystem inflammatory syndrome associated with COVID-19, unspecified"
+SARS-CoV-2,U11,Need for immunization against COVID-19
+SARS-CoV-2,U11.9,"Need for immunization against COVD-19, unspecified"
+SARS-CoV-2,U12,COVID-19 vaccines causing adverse effects in therapeutic use
+SARS-CoV-2,U12.9,"COVID-19 vaccines causing adverse effects in therapeutic use, unspecified"
