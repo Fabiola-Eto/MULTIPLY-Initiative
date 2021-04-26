@@ -52,7 +52,7 @@ Urolithiasis
 >
 ### all_codes
 >
-**all_CPRD_codes.csv **
+**all_CPRD_codes.csv**
 >
 Contains all CPRD/Read2 codes (n= 11,085) selected to identify the 200 conditions from the [multimorbidity list](https://github.com/f-eto/qmul-multimorbidity/blob/codesets-included-conditions/multimorbidity_list.md).
 >
