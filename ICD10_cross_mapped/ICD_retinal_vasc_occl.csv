@@ -1,0 +1,6 @@
+"Disease","ICD10code","ICD10codeDescr"
+"Retinal vascular occlusions","H34.9","Retinal vascular occlusion, unspecified"
+"Retinal vascular occlusions","H34.1","Central retinal artery occlusion"
+"Retinal vascular occlusions","H34.2","Other retinal artery occlusions"
+"Retinal vascular occlusions","H34.0","Transient retinal artery occlusion"
+"Retinal vascular occlusions","H34.8","Other retinal vascular occlusions"

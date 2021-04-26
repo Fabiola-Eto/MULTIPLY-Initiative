@@ -1,0 +1,7 @@
+"Disease","ICD10code","ICD10codeDescr"
+"Primary malignancy testicular","C62.0","Malignant neoplasm: Undescended testis"
+"Primary malignancy testicular","C62.1","Malignant neoplasm: Descended testis"
+"Primary malignancy testicular","C62.9","Malignant neoplasm: Testis, unspecified"
+"Primary malignancy testicular","D07.6","Carcinoma in situ: Other and unspecified male genital organs"
+"Primary malignancy testicular","D40.1","Neoplasm of uncertain or unknown behaviour: Testis"
+"Primary malignancy testicular","Z85.4","Personal history of malignant neoplasm of genital organs"
