@@ -1,5 +1,5 @@
-"Disease","ICD10code","ICD10codeDescr"
-"Oesophageal varices","I85","Oesophageal varices"
-"Oesophageal varices","I98.2","Oesophageal varices without bleeding in diseases classified elsewhere"
-"Oesophageal varices","I98.3","Oesophageal varices with bleeding in diseases classified elsewhere"
-"Portal hypertension","K76.6","Portal hypertension"
+Disease,ICD10code,ICD10codeDescr
+Portal hypertension and oesophageal varices,I85,Oesophageal varices
+Portal hypertension and oesophageal varices,I98.2,Oesophageal varices without bleeding in diseases classified elsewhere
+Portal hypertension and oesophageal varices,I98.3,Oesophageal varices with bleeding in diseases classified elsewhere
+Portal hypertension and oesophageal varices,K76.6,Portal hypertension

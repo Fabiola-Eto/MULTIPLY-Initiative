@@ -1,9 +1,9 @@
 Disease,ICD10code,ICD10codeDescr
-Primary Malignancy_Brain, Other CNS and Intracranial,C70,Malignant neoplasm of meninges
-Primary Malignancy_Brain, Other CNS and Intracranial,C71,Malignant neoplasm of brain
-Primary Malignancy_Brain, Other CNS and Intracranial,C72,Malignant neoplasm of spinal cord, cranial nerves and other parts of central nervous system
-Primary Malignancy_Brain, Other CNS and Intracranial,C75.1,Malignant neoplasm: Pituitary gland
-Primary Malignancy_Brain, Other CNS and Intracranial,C75.2,Malignant neoplasm: Craniopharyngeal duct
-Primary Malignancy_Brain, Other CNS and Intracranial,C75.3,Malignant neoplasm: Pineal gland
-Primary Malignancy_Brain, Other CNS and Intracranial,C75.4,Malignant neoplasm: Carotid body
-Primary Malignancy_Brain, Other CNS and Intracranial,C75.5,Malignant neoplasm: Aortic body and other paraganglia
+"Primary malignancy brain, other CNS and intracranial",C70,Malignant neoplasm of meninges
+"Primary malignancy brain, other CNS and intracranial",C71,Malignant neoplasm of brain
+"Primary malignancy brain, other CNS and intracranial",C72,Malignant neoplasm of spinal cord cranial nerves and other parts of central nervous system
+"Primary malignancy brain, other CNS and intracranial",C75.1,Malignant neoplasm: Pituitary gland
+"Primary malignancy brain, other CNS and intracranial",C75.2,Malignant neoplasm: Craniopharyngeal duct
+"Primary malignancy brain, other CNS and intracranial",C75.3,Malignant neoplasm: Pineal gland
+"Primary malignancy brain, other CNS and intracranial",C75.4,Malignant neoplasm: Carotid body
+"Primary malignancy brain, other CNS and intracranial",C75.5,Malignant neoplasm: Aortic body and other paraganglia

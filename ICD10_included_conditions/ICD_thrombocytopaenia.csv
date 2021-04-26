@@ -1,7 +1,7 @@
-"Disease","ICD10code","ICD10codeDescr"
-"Primary or Idiopathic Thrombocytopaenia","D69.3","Idiopathic thrombocytopenic purpura"
-"Primary or Idiopathic Thrombocytopaenia","D69.4","Other primary thrombocytopenia"
-"Secondary or other Thrombocytopaenia","D69.5","Secondary thrombocytopenia"
-"Secondary or other Thrombocytopaenia","D69.6","Thrombocytopenia"
-"Secondary or other Thrombocytopaenia","D82.0","Wiskott-Aldrich syndrome"
-"Secondary or other Thrombocytopaenia","M31.1","Thrombotic microangiopathy"
+Disease,ICD10code,ICD10codeDescr
+"Thrombocytopenia - primary, secondary and other",D69.3,Idiopathic thrombocytopenic purpura
+"Thrombocytopenia - primary, secondary and other",D69.4,Other primary thrombocytopenia
+"Thrombocytopenia - primary, secondary and other",D69.5,Secondary thrombocytopenia
+"Thrombocytopenia - primary, secondary and other",D69.6,Thrombocytopenia
+"Thrombocytopenia - primary, secondary and other",D82.0,Wiskott-Aldrich syndrome
+"Thrombocytopenia - primary, secondary and other",M31.1,Thrombotic microangiopathy

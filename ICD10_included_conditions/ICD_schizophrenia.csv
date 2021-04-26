@@ -1,7 +1,7 @@
-Disease,ICD10code,ICD10codeDescr,
-Schizophrenia and non-organic psychosis, schizotypal and delusional disorders,F20,Schizophrenia
-Schizophrenia and non-organic psychosis, schizotypal and delusional disorders,F21,Schizotypal disorder
-Schizophrenia and non-organic psychosis, schizotypal and delusional disorders,F22,Persistent delusional disorders
-Schizophrenia and non-organic psychosis, schizotypal and delusional disorders,F25,Schizoaffective disorders
-Schizophrenia and non-organic psychosis, schizotypal and delusional disorders,F28,Other nonorganic psychotic disorders
-Schizophrenia and non-organic psychosis, schizotypal and delusional disorders,F29,Unspecified nonorganic psychosis
+Disease,ICD10code,ICD10codeDescr
+Schizophrenia and non-organic psychosis,F20,Schizophrenia
+Schizophrenia and non-organic psychosis,F21,Schizotypal disorder
+Schizophrenia and non-organic psychosis,F22,Persistent delusional disorders
+Schizophrenia and non-organic psychosis,F25,Schizoaffective disorders
+Schizophrenia and non-organic psychosis,F28,Other nonorganic psychotic disorders
+Schizophrenia and non-organic psychosis,F29,Unspecified nonorganic psychosis

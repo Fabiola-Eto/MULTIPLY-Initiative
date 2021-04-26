@@ -1,15 +1,15 @@
-Disease,ICD10code,ICD10codeDescr,
-Thyroid disease,E03.5,Myxoedema coma,
-Thyroid disease,E03.8,Other specified hypothyroidism,
-Thyroid disease,E03.9,Hypothyroidism, unspecified
-Thyroid disease,E05.0,Thyrotoxicosis with diffuse goitre,
-Thyroid disease,E05.1,Thyrotoxicosis with toxic single thyroid nodule,
-Thyroid disease,E05.2,Thyrotoxicosis with toxic multinodular goitre,
-Thyroid disease,E05.5,Thyroid crisis or storm,
-Thyroid disease,E05.8,Other thyrotoxicosis,
-Thyroid disease,E05.9,Thyrotoxicosis, unspecified
-Thyroid disease,E06.2,Chronic thyroiditis with transient thyrotoxicosis,
-Thyroid disease,E06.3,Autoimmune thyroiditis,
-Thyroid disease,E06.5,Other chronic thyroiditis,
-Thyroid disease,E06.9,Thyroiditis, unspecified
-Thyroid disease,H06.2,Dysthyroid exophthalmos,
+Disease,ICD10code,ICD10codeDescr
+Thyroid disease,E03.5,Myxoedema coma
+Thyroid disease,E03.8,Other specified hypothyroidism
+Thyroid disease,E03.9,Hypothyroidism unspecified
+Thyroid disease,E05.0,Thyrotoxicosis with diffuse goitre
+Thyroid disease,E05.1,Thyrotoxicosis with toxic single thyroid nodule
+Thyroid disease,E05.2,Thyrotoxicosis with toxic multinodular goitre
+Thyroid disease,E05.5,Thyroid crisis or storm
+Thyroid disease,E05.8,Other thyrotoxicosis
+Thyroid disease,E05.9,Thyrotoxicosis unspecified
+Thyroid disease,E06.2,Chronic thyroiditis with transient thyrotoxicosis
+Thyroid disease,E06.3,Autoimmune thyroiditis
+Thyroid disease,E06.5,Other chronic thyroiditis
+Thyroid disease,E06.9,Thyroiditis unspecified
+Thyroid disease,H06.2,Dysthyroid exophthalmos

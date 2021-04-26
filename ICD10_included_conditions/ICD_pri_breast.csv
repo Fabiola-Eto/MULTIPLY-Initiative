@@ -1,3 +1,3 @@
 Disease,ICD10code,ICD10codeDescr
-Primary Malignancy_Breast,C50,Malignant neoplasm of breast
-Primary Malignancy_Breast,D05,Carcinoma in situ of breast
+Primary malignancy breast,C50,Malignant neoplasm of breast
+Primary malignancy breast,D05,Carcinoma in situ of breast
