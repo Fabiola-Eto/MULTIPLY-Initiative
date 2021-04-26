@@ -1,4 +1,4 @@
-Disease,ICD10code,ICD10codeDescr,
-Chronic fatigue, neurasthenia and fibromyalgia,G93.3,Postviral fatigue syndrome
-Chronic fatigue, neurasthenia and fibromyalgia,F48.0,Neurasthenia
-Chronic fatigue, neurasthenia and fibromyalgia,M79.7,Fibromyalgia
+Disease,ICD10code,ICD10codeDescr
+Chronic fatigue,G93.3,Postviral fatigue syndrome
+Chronic fatigue,F48.0,Neurasthenia
+Chronic fatigue,M79.7,Fibromyalgia

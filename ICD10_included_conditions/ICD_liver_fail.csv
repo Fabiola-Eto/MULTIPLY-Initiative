@@ -1,9 +1,9 @@
-Disease,ICD10code,ICD10codeDescr,
-Liver failure and transplant,B15.0,Hepatitis A with hepatic coma,
-Liver failure and transplant,B16.0,Acute hepatitis B with delta-agent (coinfection) with hepatic coma,
-Liver failure and transplant,B19.0,Unspecified viral hepatitis with hepatic coma,
-Liver failure and transplant,K70.4,Alcoholic hepatic failure,
-Liver failure and transplant,K71.1,Toxic liver disease with hepatic necrosis,
-Liver failure and transplant,K72,Hepatic failure, not elsewhere classified
-Liver failure and transplant,K76.2,Central haemorrhagic necrosis of liver,
-Liver failure and transplant,K76.3,Infarction of liver,
+Disease,ICD10code,ICD10codeDescr
+Liver failure and transplant,B15.0,Hepatitis A with hepatic coma
+Liver failure and transplant,B16.0,Acute hepatitis B with delta-agent (coinfection) with hepatic coma
+Liver failure and transplant,B19.0,Unspecified viral hepatitis with hepatic coma
+Liver failure and transplant,K70.4,Alcoholic hepatic failure
+Liver failure and transplant,K71.1,Toxic liver disease with hepatic necrosis
+Liver failure and transplant,K72,Hepatic failure not elsewhere classified
+Liver failure and transplant,K76.2,Central haemorrhagic necrosis of liver
+Liver failure and transplant,K76.3,Infarction of liver

@@ -1,10 +1,10 @@
-"Disease","ICD10code","ICD10codeDescr"
-"Dilated cardiomyopathy","I42.0","Dilated cardiomyopathy"
-"Dilated cardiomyopathy","I42.6","Alcoholic cardiomyopathy"
-"Other Cardiomyopathy","I25.5","Ischaemic cardiomyopathy"
-"Other Cardiomyopathy","I42.3","Endomyocardial (eosinophilic) disease"
-"Other Cardiomyopathy","I42.5","Other restrictive cardiomyopathy"
-"Other Cardiomyopathy","I42.7","Cardiomyopathy due to drugs and other external agents"
-"Other Cardiomyopathy","I42.8","Other cardiomyopathies"
-"Other Cardiomyopathy","I42.9","Cardiomyopathy"
-"Other Cardiomyopathy","I43","Cardiomyopathy in diseases classified elsewhere"
+Disease,ICD10code,ICD10codeDescr
+Cardiomyopathy other,I42.0,Dilated cardiomyopathy
+Cardiomyopathy other,I42.6,Alcoholic cardiomyopathy
+Cardiomyopathy other,I25.5,Ischaemic cardiomyopathy
+Cardiomyopathy other,I42.3,Endomyocardial (eosinophilic) disease
+Cardiomyopathy other,I42.5,Other restrictive cardiomyopathy
+Cardiomyopathy other,I42.7,Cardiomyopathy due to drugs and other external agents
+Cardiomyopathy other,I42.8,Other cardiomyopathies
+Cardiomyopathy other,I42.9,Cardiomyopathy
+Cardiomyopathy other,I43,Cardiomyopathy in diseases classified elsewhere

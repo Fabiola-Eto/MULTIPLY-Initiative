@@ -1,4 +1,4 @@
-"Disease","ICD10code","ICD10codeDescr"
-"Multiple valve dz","I08","Multiple valve diseases"
-"Nonrheumatic aortic valve disorders","I35","Nonrheumatic aortic valve disorders"
-"Nonrheumatic mitral valve disorders","I34","Nonrheumatic mitral valve disorders"
+Disease,ICD10code,ICD10codeDescr
+Heart valve disease non-rheumatic,I08,Multiple valve diseases
+Heart valve disease non-rheumatic,I35,Nonrheumatic aortic valve disorders
+Heart valve disease non-rheumatic,I34,Nonrheumatic mitral valve disorders
