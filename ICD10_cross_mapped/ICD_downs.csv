@@ -1,0 +1,5 @@
+"Disease","ICD10code","ICD10codeDescr"
+"Down's syndrome","Q90.9","Down syndrome, unspecified"
+"Down's syndrome","Q90.0","Trisomy 21, meiotic nondisjunction"
+"Down's syndrome","Q90.1","Trisomy 21, mosaicism (mitotic nondisjunction)"
+"Down's syndrome","Q90.2","Trisomy 21, translocation"

@@ -1,0 +1,8 @@
+"Disease","ICD10code","ICD10codeDescr"
+"Gout","M10","Gout"
+"Gout","M10.0","Idiopathic gout"
+"Gout","M10.1","Lead-induced gout"
+"Gout","M10.2","Drug-induced gout"
+"Gout","M10.3","Gout due to impairment of renal function"
+"Gout","M10.9","Gout, unspecified"
+"Gout","M10.4","Other secondary gout"
