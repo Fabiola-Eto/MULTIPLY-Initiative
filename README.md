@@ -31,6 +31,12 @@ SARS-CoV-2
 Somatoform and dissociative disorders
 >
 >
+### OPCS_cross_mapped
+Contains all the OPCS4 code lists that were obtained from the cross-mapping process using the Read2 code lists (available in the folder codesets_included_conditions) to match OPCS4 codes. The [UK Biobank lookup file](https://biobank.ctsu.ox.ac.uk/crystal/refer.cgi?id=592) was used to match the codes. The OPCS4.9 from NHS TRUD was used as a dictionary of OPCS4 codes and description. 
+We matched a total of 530 codes for 60 conditions out of our [multimorbidity list](https://github.com/f-eto/qmul-multimorbidity/blob/codesets-included-conditions/multimorbidity_list.md) of 200 conditions.
+>
+>
+
 ### OPCS_included_conditions
 Contains the OPCS code lists [published by the CALIBER research group](https://www.caliberresearch.org/portal/phenotypes/chronological-map). There are only 15 OPCS code lists available for the respective conditions: 
 Collapsed vertebra
