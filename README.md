@@ -68,6 +68,11 @@ Contains all CPRD/Read2 codes (n= 11,085) selected to identify the 200 condition
 Contains all ICD-10 codes (n= 2,270) that matched the Read2 codes for 196 conditions out of our multimorbidity list of 200 conditions. 
 >
 >
+**all_OPCS_codes_cross_mapped.csv**
+>
+Contains all OPCS4 codes (n= 530) that matched the Read2 codes for 60 conditions out of our multimorbidity list of 200 conditions. 
+>
+>
 **all_ICD_codes_kuan.csv**
 >
 Contains all ICD-10 codes (n= 993) that identify the 200 conditions of our multimorbidity list. Codes [published by Kuan in the CALIBER portal](https://www.caliberresearch.org/portal/phenotypes/chronological-map) and adapted according to clinical revision carried out by our research group.
