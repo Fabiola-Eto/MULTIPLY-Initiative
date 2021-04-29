@@ -78,9 +78,9 @@ Contains all OPCS4 codes (n= 530) that matched the Read2 codes for 60 conditions
 Contains all ICD-10 codes (n= 993) that identify the 200 conditions of our multimorbidity list. Codes [published by Kuan in the CALIBER portal](https://www.caliberresearch.org/portal/phenotypes/chronological-map) and adapted according to clinical revision carried out by our research group.
 >
 >
-**all_ICD_codes_kuan_cross_mapped.csv**
+**all_ICD_codes_provenance.csv**
 >
-Combine all ICD-10 codes (n= 2,833) obtained in both cross-mapping process and published by Kuan/CALIBER. All duplicate codes were removed. 
+Combine all ICD-10 codes (n= 2,696) obtained in both cross-mapping process and published by Kuan/CALIBER. All duplicate codes were removed. There's a column indicating the code's provenance. 
 >
 >
 ### duplicated_codes
