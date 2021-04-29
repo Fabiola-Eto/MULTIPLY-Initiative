@@ -46,8 +46,8 @@ Please, note that only for 'Constipation (Treated)' we have two code lists - one
 |   30  | Coeliac disease                                                                              | CPRD_coeliac.csv                         |
 |   31  | Collapsed vertebra                                                                           | CPRD_collapsed_vert.csv                  |
 |   32  | Congenital cardiac disease                                                                   | CPRD_congenital_cardiac.csv              |
-|   33  | Constipation (Treated)                                                                       | CPRD_constipation_prod.csv               |
-|   33  | Constipation (Treated)                                                                       | CPRD_constipation_read.csv               |
+|   33  | Constipation                                                                                 | CPRD_constipation_prod.csv               |
+|   33  | Constipation                                                                                 | CPRD_constipation_read.csv               |
 |   34  | COPD                                                                                         | CPRD_COPD.csv                            |
 |   35  | Coronary heart disease                                                                       | CPRD_CHD.csv                             |
 |   36  | Crohn's disease                                                                              | CPRD_crohns.csv                          |
@@ -83,7 +83,7 @@ Please, note that only for 'Constipation (Treated)' we have two code lists - one
 |   66  | Gout                                                                                         | CPRD_gout.csv                            |
 |   67  | Hearing loss                                                                                 | CPRD_hearing_loss.csv                    |
 |   68  | Heart failure                                                                                | CPRD_heart_failure.csv                   |
-|   69  | Heart valve disease (non-rheumatic)                                                          | CPRD_heart_valve_dz.csv                  |
+|   69  | Heart valve disease non-rheumatic                                                            | CPRD_heart_valve_dz.csv                  |
 |   70  | Hidradenitis suppurativa                                                                     | CPRD_hidradenitis.csv                    |
 |   71  | HIV                                                                                          | CPRD_hiv.csv                             |
 |   72  | Hodgkin Lymphoma                                                                             | CPRD_hodgkins.csv                        |
@@ -128,24 +128,24 @@ Please, note that only for 'Constipation (Treated)' we have two code lists - one
 |  111  | Obesity                                                                                      | CPRD_obesity.csv                         |
 |  112  | Obsessive-compulsive disorder                                                                | CPRD_ocd.csv                             |
 |  113  | Obstructive and reflux uropathy                                                              | CPRD_obstr_reflux.csv                    |
-|  114  | Oesophageal varices and portal hypertension                                                  | CPRD_varices_portal_hypert.csv           |
-|  115  | Oesophagitis and oesophageal ulcer                                                           | CPRD_oesoph_ulc.csv                      |
-|  116  | Osteoarthritis (excl spine)                                                                  | CPRD_OA.csv                              |
-|  117  | Osteoporosis                                                                                 | CPRD_osteoporosis.csv                    |
-|  118  | Other anaemias                                                                               | CPRD_oth_anaemia.csv                     |
-|  119  | Other haemolytic anaemias                                                                    | CPRD_oth_haem_anaemia.csv                |
-|  120  | Other interstitial pulmonary diseases with fibrosis                                          | CPRD_pulm_fibrosis.csv                   |
-|  121  | Other psychoactive substance misuse                                                          | CPRD_substance_misuse.csv                |
-|  122  | Painful condition                                                                            | CPRD_painful_conditions.csv              |
-|  123  | Pancreatitis                                                                                 | CPRD_pancreatitis.csv                    |
-|  124  | Parkinson's disease                                                                          | CPRD_parkinsons.csv                      |
-|  125  | Peptic ulcer disease                                                                         | CPRD_ulcer_peptic.csv                    |
-|  126  | Peripheral arterial disease                                                                  | CPRD_perip_arterial_disease.csv          |
-|  127  | Peripheral venous and lymphatic disease                                                      | CPRD_venous_lymphatic.csv                |
-|  128  | Personality disorders                                                                        | CPRD_PD.csv                              |
-|  129  | Polycystic ovarian syndrome                                                                  | CPRD_PCOS.csv                            |
-|  130  | Polycythaemia vera                                                                           | CPRD_PCV.csv                             |
-|  131  | Polymyalgia Rheumatica                                                                       | CPRD_PMR.csv                             |
+|  114  | Oesophagitis and oesophageal ulcer                                                           | CPRD_oesoph_ulc.csv                      |
+|  115  | Osteoarthritis (excl spine)                                                                  | CPRD_OA.csv                              |
+|  116  | Osteoporosis                                                                                 | CPRD_osteoporosis.csv                    |
+|  117  | Other anaemias                                                                               | CPRD_oth_anaemia.csv                     |
+|  118  | Other haemolytic anaemias                                                                    | CPRD_oth_haem_anaemia.csv                |
+|  119  | Other interstitial pulmonary diseases with fibrosis                                          | CPRD_pulm_fibrosis.csv                   |
+|  120  | Other psychoactive substance misuse                                                          | CPRD_substance_misuse.csv                |
+|  121  | Painful conditions                                                                           | CPRD_painful_conditions.csv              |
+|  122  | Pancreatitis                                                                                 | CPRD_pancreatitis.csv                    |
+|  123  | Parkinson's disease                                                                          | CPRD_parkinsons.csv                      |
+|  124  | Peptic ulcer disease                                                                         | CPRD_ulcer_peptic.csv                    |
+|  125  | Peripheral arterial disease                                                                  | CPRD_perip_arterial_disease.csv          |
+|  126  | Peripheral venous and lymphatic disease                                                      | CPRD_venous_lymphatic.csv                |
+|  127  | Personality disorders                                                                        | CPRD_PD.csv                              |
+|  128  | Polycystic ovarian syndrome                                                                  | CPRD_PCOS.csv                            |
+|  129  | Polycythaemia vera                                                                           | CPRD_PCV.csv                             |
+|  130  | Polymyalgia Rheumatica                                                                       | CPRD_PMR.csv                             |
+|  131  | Portal hypertension and oesophageal varices                                                  | CPRD_varices_portal_hypert.csv           |
 |  132  | Post-traumatic stress and stress-related disorders                                           | CPRD_PTSD.csv                            |
 |  133  | Primary Malignancy - Other                                                                   | CPRD_pri_other.csv                       |
 |  134  | Primary Malignancy Biliary tract                                                             | CPRD_pri_biliary.csv                     |
