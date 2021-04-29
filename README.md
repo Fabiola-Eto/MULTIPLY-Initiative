@@ -83,6 +83,11 @@ Contains all ICD-10 codes (n= 993) that identify the 200 conditions of our multi
 Combine all ICD-10 codes (n= 2,696) obtained in both cross-mapping process and published by Kuan/CALIBER. All duplicate codes were removed. There's a column indicating the code's provenance. 
 >
 >
+**all_OPCS_codes_provenance.csv**
+>
+Combine all OPCS-4 codes (n= 758) obtained in both cross-mapping process (n= 54) and published by Kuan/CALIBER (n= 15). All duplicate codes were removed. There's a column indicating the code's provenance. 
+>
+>
 ### duplicated_codes
 Contains all duplicate codes, i.e. identical codes that were used to identify different conditions.
 >
