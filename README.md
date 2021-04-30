@@ -60,7 +60,7 @@ Urolithiasis
 >
 **all_CPRD_codes.csv**
 >
-Contains all CPRD/Read2 codes (n= 11,085) selected to identify the 200 conditions from the [multimorbidity list](https://github.com/f-eto/qmul-multimorbidity/blob/codesets-included-conditions/multimorbidity_list.md).
+Contains all CPRD/Read2 codes (n= 11,038) selected to identify 199 out of 200 conditions from the [multimorbidity list](https://github.com/f-eto/qmul-multimorbidity/blob/codesets-included-conditions/multimorbidity_list.md). Please, note that i. 'Painful conditions' and 'Constipation' (prodcodes) are not included in the overall file, as their codes are not Read v2, but prodcodes since these two conditions will be selected using prescribing data; ii. Constipation will *also* be selected using Read v2 codes (there are two code lists available for this condition). 
 >
 >
 **all_ICD_codes_cross_mapped.csv**
@@ -89,7 +89,7 @@ Combine all OPCS-4 codes (n= 758) obtained in both cross-mapping process (n= 54)
 >
 >
 ### duplicated_codes
-Contains all duplicate codes, i.e. identical codes that were used to identify different conditions.
+Contains all duplicate codes (n= 778), i.e. identical codes that were used to identify different conditions.
 >
 >
 ### codesets_included_conditions
