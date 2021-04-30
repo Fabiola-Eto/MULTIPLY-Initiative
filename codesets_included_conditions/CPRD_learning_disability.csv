@@ -80,7 +80,6 @@ Learning disability,Eu81z00,6516,"[X]Developmental disorder of scholastic skills
 Learning disability,Eu81z11,4477,[X]Learning disability NOS
 Learning disability,Eu81z12,16855,[X]Learning disorder NOS
 Learning disability,Eu81z13,36045,[X]Learn acquisition disab NOS
-Learning disability,Eu84.00,7226,[X]Pervasive developmental disorders
 Learning disability,Eu84112,34174,[X]Mental retardation with autistic features
 Learning disability,Eu84400,52602,[X]Overactive disorder assoc mental retard/stereotype movts
 Learning disability,Eu84y00,47948,[X]Other pervasive developmental disorders
@@ -90,7 +89,6 @@ Learning disability,PJ0..11,23489,Mongolism
 Learning disability,PJ0..12,18415,Trisomy 21
 Learning disability,PJ0z.00,10759,Down's syndrome NOS
 Learning disability,PJ0z.11,61627,Trisomy 21 NOS
-Learning disability,PJyy200,10628,Fragile X chromosome
 Learning disability,PJyy400,32603,Fragile X syndrome
 Learning disability,ZS34.11,19436,Learning disability
 Learning disability,9Nlh.00 ,110002,Seen by learning disability team 
@@ -103,20 +101,17 @@ Learning disability,Eu8z.11,107682,[X]Psychological developmental disorder NOS
 Learning disability,14g0000,110740,Early childhood developmental disability unknown aetiology
 Learning disability,14g..00,100334,History of developmental disorder
 Learning disability,E2Fz.00,33752,Developmental disorder NOS
-Learning disability,Eu84z00,44327,"[X]Pervasive developmental disorder, unspecified"
 Learning disability,Eu81.00,21214,[X]Specific developmental disorders of scholastic skills
 Learning disability,Eu83.00,6513,[X]Mixed specific developmental disorders
 Learning disability,E2F3z00,1277,Speech or language developmental disorder NOS
-Learning disability,Eu81z00,6516,"[X]Developmental disorder of scholastic skills, unspecified"
 Learning disability,Eu84.00,7226,[X]Pervasive developmental disorders
 Learning disability,Eu80.00,6122,[X]Specific developmental disorders of speech and language
 Learning disability,Eu82.00,7299,[X]Specific developmental disorder of motor function
 Learning disability,14g0.00,109203,Early childhood developmental disability
 Learning disability,Eu80z00,6514,[X]Developmental disorder of speech and language unspecified
-Learning disability,Eu84y00,47948,[X]Other pervasive developmental disorders
 Learning disability,E2F3.00,3567,Speech or language developmental disorder
 Learning disability,ZS34.00,39128,Developmental disorder of scholastic skill
-Learning disability,Eu81y00,44342,[X]Other developmental disorders of scholastic skills
+Learning disability,Eu81y00,44342,[X]Other developmental disorders of sch olastic skills
 Learning disability,PJyy200,10628,Fragile X chromosome
 Learning disability,PJ2z.00,39017,Edward's syndrome NOS
 Learning disability,PJ22.11,107162,Partial trisomy 18 in Edward's syndrome
@@ -124,6 +119,4 @@ Learning disability,PJ2..00,33642,Edward's syndrome - trisomy 18
 Learning disability,PJ1..00,35665,Patau's syndrome - trisomy 13
 Learning disability,PJ12.11,102102,Partial trisomy 13 in Patau's syndrome
 Learning disability,PJ1z.00,72265,Patau's syndrome NOS
-Learning disability,PJyy400,32603,Fragile X syndrome
 Learning disability,F1y0.00,105180,Fragile X associated tremor ataxia syndrome
-Learning disability,PJyy200,10628,Fragile X chromosome
