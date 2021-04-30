@@ -46,13 +46,13 @@ Adrenal insufficiency and Addison's disease,C154.00,3113,Corticoadrenal insuffic
 Adrenal insufficiency and Addison's disease,C154012,42873,Adrenal crisis
 Adrenal insufficiency and Addison's disease,7122000,67820,Bilateral adrenalectomy and transposition of adrenal tissue
 Adrenal insufficiency and Addison's disease,7122100,40238,Bilateral adrenalectomy NEC
-Adrenal insufficiency and Addison's disease,7122,29176,Excision of adrenal gland operations
+Adrenal insufficiency and Addison's disease,7122.00,29176,Excision of adrenal gland operations
 Adrenal insufficiency and Addison's disease,C155z00,54838,Other adrenal hypofunction NOS
 Alcohol dependence and related disease,136S.00,19494,Hazardous alcohol use
 Alcohol dependence and related disease,136T.00,30695,Harmful alcohol use
 Alcohol dependence and related disease,136W.00,94670,Alcohol misuse
 Alcohol dependence and related disease,13Y8.00,18156,Alcoholics anonymous
-Alcohol dependence and related disease,1462,8430,H/O: alcoholism
+Alcohol dependence and related disease,1462.00,8430,H/O: alcoholism
 Alcohol dependence and related disease,1B1c.00,38061,Alcohol induced hallucinations
 Alcohol dependence and related disease,66e..00,12442,Alcohol disorder monitoring
 Alcohol dependence and related disease,66e0.00,32964,Alcohol abuse monitoring
@@ -220,14 +220,14 @@ Alopecia areata and scarring alopecia,M240U00,99217,Ophiasis
 Alopecia areata and scarring alopecia,Myu6200,53782,[X]Other alopecia areata
 Alopecia areata and scarring alopecia,M24X.00,9290,"Cicatricial alopecia, unspecified"
 Alopecia areata and scarring alopecia,Myu6E00,111205,"[X]Cicatricial alopecia, unspecified"
-Ankylosing spondylitis,2377,37400,O/E - ankyl.spondyl.chest def.
+Ankylosing spondylitis,2377.00,37400,O/E - ankyl.spondyl.chest def.
 Ankylosing spondylitis,388p.00,93639,BASDAI - Bath ankylosing spondylitis disease activity index
 Ankylosing spondylitis,N100.00,2184,Ankylosing spondylitis
 Ankylosing spondylitis,N100.11,40946,Marie - Strumpell spondylitis
 Ankylosing spondylitis,388p000,108252,Bath Ankylosing Spondylitis Functional Index
 Ankylosing spondylitis,38QL.00,110024,Bath Ankylosing Spondylitis Metrology Index
 Ankylosing spondylitis,N045000,42405,Juvenile ankylosing spondylitis
-Anxiety and phobia,1466,3407,H/O: anxiety state
+Anxiety and phobia,1466.00,3407,H/O: anxiety state
 Anxiety and phobia,146G.00,11764,H/O: agoraphobia
 Anxiety and phobia,1B1H.11,5347,Fear
 Anxiety and phobia,1B1V.00,11890,C/O - panic attack
@@ -337,11 +337,9 @@ Anxiety and phobia,Eu94011,31865,[X]Selective mutism
 Anxiety and phobia,Eu45215,66806,[X]Nosophobia
 Aortic aneurysm,7A11000,96654,Emerg repl aneurysm bifurc aorta by anast aorta to fem art
 Aortic aneurysm,7A11200,69922,Emerg repl aneurysm bifurc aorta by anast aorta to iliac a
-Aortic aneurysm,7A11211,92925,Y graft of abdominal Aortic aneurysm (emergency)
 Aortic aneurysm,7A13.00,31613,Emergency replacement of aneurysmal segment of aorta
 Aortic aneurysm,7A13.11,17220,Emergency repair of aortic aneurysm
 Aortic aneurysm,7A13300,66232,Emerg replace aneurysm infrarenal aorta by anast aorta/aorta
-Aortic aneurysm,7A13400,54192,Emerg replace aneurysm abdom aorta by anast aorta/aorta NEC
 Aortic aneurysm,7A13411,63408,Tube graft abdominal Aortic aneurysm (emergency)
 Aortic aneurysm,7A13y00,45477,Emergency replacement of aneurysmal segment of aorta OS
 Aortic aneurysm,7A13z00,45474,Emergency replacement of aneurysmal segment of aorta NOS
@@ -362,6 +360,7 @@ Aortic aneurysm,7A1BC00,99859,Endovas insert stent for aortic aneurysm of bifurc
 Aortic aneurysm,7A14411,26232,Tube graft of Abdominal aortic aneurysm
 Aortic aneurysm,7A1BA00,98542,Endovascular insertion of stent for thoracic aortic aneurysm
 Aortic aneurysm,66f3.00,103613,Aortic aneurysm monitoring
+Aortic aneurysm,7A11211,92925,Y graft of abdominal Aortic aneurysm (emergency)
 Aortic aneurysm,7A1B600,100195,Endovascular stenting for aortic aneurysm of bifurcation NEC
 Aortic aneurysm,G71z.00,6872,Aortic aneurysm NOS
 Aortic aneurysm,G715000,11430,"Thoracoabdominal aortic aneurysm, ruptured"
@@ -389,6 +388,7 @@ Aortic aneurysm,7A34K00,66633,Operation on aneurysm visceral branch of abdominal
 Aortic aneurysm,7A14400,19996,Replace aneurysm abdominal aorta by anast aorta to aorta NEC
 Aortic aneurysm,7A14000,64961,Replace aneurysm ascend aorta by anast of aorta/aorta NEC
 Aortic aneurysm,7A14300,44553,Replace aneurys infrarenal aorta by anast aorta to aorta NEC
+Aortic aneurysm,7A13400,54192,Emerg replace aneurysm abdom aorta by anast aorta/aorta NEC
 Aortic aneurysm,G714300,101195,Aneurysm of suprarenal aorta
 Aortic aneurysm,7A15400,102031,Emerg bypass abdominal aorta by anastom aorta to aorta NEC
 Aortic aneurysm,7A14100,42444,Replace aneurysm thoracic aorta by anast of aorta/aorta NEC
@@ -465,7 +465,7 @@ Asthma,14B4.00,719,H/O: asthma
 Asthma,173A.00,5867,Exercise induced asthma
 Asthma,173c.00,22752,Occupational asthma
 Asthma,173d.00,73522,Work aggravated asthma
-Asthma,1780,41017,Aspirin induced asthma
+Asthma,1780.00,41017,Aspirin induced asthma
 Asthma,1O2..00,11370,Asthma confirmed
 Asthma,2126200,10996,Asthma resolved
 Asthma,212G.00,11839,Asthma resolved
@@ -539,18 +539,13 @@ Asthma,H3B..00,109958,Asthma-chronic obstructive pulmonary disease overlap syndr
 Atrial fibrillation and flutter,14AN.00,6345,H/O: atrial fibrillation
 Atrial fibrillation and flutter,14AR.00,93460,History of atrial flutter
 Atrial fibrillation and flutter,212R.00,28994,Atrial fibrillation resolved
-Atrial fibrillation and flutter,3272,3757,ECG: atrial fibrillation
-Atrial fibrillation and flutter,3273,6771,ECG: atrial flutter
-Atrial fibrillation and flutter,662S.00,18746,Atrial fibrillation monitoring
-Atrial fibrillation and flutter,6A9..00,45773,Atrial fibrillation annual review
+Atrial fibrillation and flutter,3272.00,3757,ECG: atrial fibrillation
+Atrial fibrillation and flutter,3273.00,6771,ECG: atrial flutter
 Atrial fibrillation and flutter,9hF..00,63350,Exception reporting: atrial fibrillation quality indicators
 Atrial fibrillation and flutter,9hF1.00,39114,Excepted from atrial fibrillation qual indic: Inform dissent
-Atrial fibrillation and flutter,9Os..00,57832,Atrial fibrillation monitoring administration
 Atrial fibrillation and flutter,9Os0.00,90187,Atrial fibrillation monitoring first letter
 Atrial fibrillation and flutter,9Os1.00,90188,Atrial fibrillation monitoring second letter
 Atrial fibrillation and flutter,9Os2.00,90189,Atrial fibrillation monitoring third letter
-Atrial fibrillation and flutter,9Os3.00,90190,Atrial fibrillation monitoring verbal invite
-Atrial fibrillation and flutter,9Os4.00,90191,Atrial fibrillation monitoring telephone invite
 Atrial fibrillation and flutter,G573.00,2212,Atrial fibrillation and flutter
 Atrial fibrillation and flutter,G573000,1664,Atrial fibrillation
 Atrial fibrillation and flutter,G573100,1757,Atrial flutter
@@ -562,8 +557,13 @@ Atrial fibrillation and flutter,G573z00,23437,Atrial fibrillation and flutter NO
 Atrial fibrillation and flutter,793M100,84152,Perc transluminal ablation of atrial wall for atrial flutter
 Atrial fibrillation and flutter,G573600,107472,Paroxysmal atrial flutter
 Atrial fibrillation and flutter,793M300,86416,Perc translum ablat conduct sys heart for atrial flutter NEC
+Atrial fibrillation and flutter,9Os4.00,90191,Atrial fibrillation monitoring telephone invite
+Atrial fibrillation and flutter,9Os..00,57832,Atrial fibrillation monitoring administration
+Atrial fibrillation and flutter,6A9..00,45773,Atrial fibrillation annual review
 Atrial fibrillation and flutter,7936A00,9479,Implant intravenous pacemaker for atrial fibrillation
+Atrial fibrillation and flutter,9Os3.00,90190,Atrial fibrillation monitoring verbal invite
 Atrial fibrillation and flutter,8CMW200,105554,Atrial fibrillation care pathway
+Atrial fibrillation and flutter,662S.00,18746,Atrial fibrillation monitoring
 Autism and Asperger's syndrome,E140000,63251,Active infantile autism
 Autism and Asperger's syndrome,E140100,69016,Residual infantile autism
 Autism and Asperger's syndrome,E140.00,22098,Infantile autism
@@ -726,13 +726,13 @@ Bronchiectasis,14BA.00,109816,H/O: bronchiectasis
 Cardiac conduction defects,329A.00,4690,ECG: left bundle branch block
 Cardiac conduction defects,G562.11,17840,Left bundle branch block
 Cardiac conduction defects,G563.00,26318,Left main stem bundle branch block
-Cardiac conduction defects,3293,35773,ECG:complete sinu-atrial block
-Cardiac conduction defects,3298,40175,ECG: complete A-V block
+Cardiac conduction defects,3293.00,35773,ECG:complete sinu-atrial block
+Cardiac conduction defects,3298.00,40175,ECG: complete A-V block
 Cardiac conduction defects,G560.00,3810,Complete atrioventricular block
 Cardiac conduction defects,G560.11,24377,Third degree atrioventricular block
-Cardiac conduction defects,3295,40118,ECG: partial A-V block - 2:1
-Cardiac conduction defects,3296,93216,ECG: partial A-V block - 3:1
-Cardiac conduction defects,3297,19060,ECG: Wenckebach phenomenon
+Cardiac conduction defects,3295.00,40118,ECG: partial A-V block - 2:1
+Cardiac conduction defects,3296.00,93216,ECG: partial A-V block - 3:1
+Cardiac conduction defects,3297.00,19060,ECG: Wenckebach phenomenon
 Cardiac conduction defects,3297.11,102330,Electrocardiogram: Mobitz type 1 second degree AV block
 Cardiac conduction defects,329H.00,102553,Electrocardiogram: Mobitz type 2 second degree AV block
 Cardiac conduction defects,G561200,10922,Mobitz type II atrioventricular block
@@ -744,7 +744,7 @@ Cardiac conduction defects,G565.00,18117,Other bundle branch block
 Cardiac conduction defects,G565000,3032,Bundle branch block unspecified
 Cardiac conduction defects,G564.00,9906,Right bundle branch block
 Cardiac conduction defects,G565z00,39003,Other bundle branch block NOS
-Cardiac conduction defects,3299,534,ECG: right bundle branch block
+Cardiac conduction defects,3299.00,534,ECG: right bundle branch block
 Cardiac conduction defects,329B.00,100234,ECG: trifascicular block
 Cardiac conduction defects,G565400,10712,Trifascicular block
 Cardiomyopathy other,G554000,5141,Congestive cardiomyopathy
@@ -942,9 +942,9 @@ Cervical carcinoma in situ,ZV13C11,30366,[V]PH of cervical intraepithelial neopl
 Cervical carcinoma in situ,ZV13D00,42853,[V]Personal history of severe cervical dysplasia
 Cervical carcinoma in situ,ZV13E00,28613,"[V]PH of cervical intraepithelial neoplasia, grade III"
 Cholelithiasis,14CE.00,12140,H/O: gall stones
-Cholelithiasis,1965,930,Biliary colic
+Cholelithiasis,1965.00,930,Biliary colic
 Cholelithiasis,1965.11,7306,Biliary colic symptom
-Cholelithiasis,4775,94302,Faeces: gall stones present
+Cholelithiasis,4775.00,94302,Faeces: gall stones present
 Cholelithiasis,4G21.00,61996,O/E: cholesterol gall stone
 Cholelithiasis,4G22.00,45836,O/E: pigment gall stone
 Cholelithiasis,4G2..00,4429,O/E: gall stone
@@ -1021,15 +1021,46 @@ Chronic fatigue,E20y300,72171,Psychasthenic neurosis
 Chronic fatigue,R007200,5049,[D]Asthenia NOS
 Chronic fatigue,Eu46y15,90597,[X]Psychasthenia neurosis
 Chronic fatigue,Eu46y14,61753,[X]Psychasthenia
+Chronic Kidney Disease,1Z10.00,29013,Chronic kidney disease stage 1
+Chronic Kidney Disease,1Z17.00,94789,Chronic kidney disease stage 1 with proteinuria
+Chronic Kidney Disease,1Z17.11,97980,CKD stage 1 with proteinuria
+Chronic Kidney Disease,1Z18.00,95572,Chronic kidney disease stage 1 without proteinuria
+Chronic Kidney Disease,1Z11.00,12586,Chronic kidney disease stage 2
+Chronic Kidney Disease,1Z19.00,95146,Chronic kidney disease stage 2 with proteinuria
+Chronic Kidney Disease,1Z19.11,97979,CKD stage 2 with proteinuria
+Chronic Kidney Disease,1Z1A.00,95121,Chronic kidney disease stage 2 without proteinuria
+Chronic Kidney Disease,1Z1A.11,97978,CKD stage 2 without proteinuria
+Chronic Kidney Disease,1Z12.00,12566,Chronic kidney disease stage 3
+Chronic Kidney Disease,1Z15.00,94965,Chronic kidney disease stage 3A
+Chronic Kidney Disease,1Z16.00,95179,Chronic kidney disease stage 3B
+Chronic Kidney Disease,1Z1B.00,94793,Chronic kidney disease stage 3 with proteinuria
+Chronic Kidney Disease,1Z1B.11,95145,CKD stage 3 with proteinuria
+Chronic Kidney Disease,1Z1C.00,95123,Chronic kidney disease stage 3 without proteinuria
+Chronic Kidney Disease,1Z1C.11,95188,CKD stage 3 without proteinuria
+Chronic Kidney Disease,1Z1D.00,95408,Chronic kidney disease stage 3A with proteinuria
+Chronic Kidney Disease,1Z1D.11,95571,CKD stage 3A with proteinuria
+Chronic Kidney Disease,1Z1E.00,95175,Chronic kidney disease stage 3A without proteinuria
+Chronic Kidney Disease,1Z1E.11,95176,CKD stage 3A without proteinuria
+Chronic Kidney Disease,1Z1F.00,95178,Chronic kidney disease stage 3B with proteinuria
+Chronic Kidney Disease,1Z1F.11,95180,CKD stage 3B with proteinuria
+Chronic Kidney Disease,1Z1G.00,95177,Chronic kidney disease stage 3B without proteinuria
+Chronic Kidney Disease,1Z13.00,12479,Chronic kidney disease stage 4
+Chronic Kidney Disease,1Z1H.00,95122,Chronic kidney disease stage 4 with proteinuria
+Chronic Kidney Disease,1Z1J.00,95406,Chronic kidney disease stage 4 without proteinuria
+Chronic Kidney Disease,1Z1J.11,97587,CKD stage 4 without proteinuria
+Chronic Kidney Disease,1Z14.00,12585,Chronic kidney disease stage 5
+Chronic Kidney Disease,1Z1K.00,95508,Chronic kidney disease stage 5 with proteinuria
+Chronic Kidney Disease,1Z1L.00,95405,Chronic kidney disease stage 5 without proteinuria
+Chronic Kidney Disease,1Z1L.11,97683,CKD stage 5 without proteinuria
 Chronic sinusitis,741..00,4640,Nasal sinus operations
-Chronic sinusitis,7410,23740,Operations on maxillary antrum using sublabial approach
+Chronic sinusitis,7410.00,23740,Operations on maxillary antrum using sublabial approach
 Chronic sinusitis,7410000,32764,Ligation of maxillary artery using sublabial approach
 Chronic sinusitis,7410100,3938,Caldwell Luc drainage of maxillary antrum
 Chronic sinusitis,7410200,57098,Irrigation of maxillary antrum using sublabial approach
 Chronic sinusitis,7410300,61629,Transantral vidian nerve neurectomy using sublabial approach
 Chronic sinusitis,7410y00,96692,Operation on maxillary antrum using sublabial approach OS
 Chronic sinusitis,7410z00,105781,Operation on maxillary antrum using sublabial approach NOS
-Chronic sinusitis,7411,7981,Other operations on maxillary antrum
+Chronic sinusitis,7411.00,7981,Other operations on maxillary antrum
 Chronic sinusitis,7411.11,28764,Reconstruction of maxillary antrum
 Chronic sinusitis,7411000,41457,Drainage of maxillary antrum NEC
 Chronic sinusitis,7411100,54292,Excision of lesion of maxillary antrum
@@ -1046,12 +1077,12 @@ Chronic sinusitis,7411800,95857,Direct closure of defect of maxilla
 Chronic sinusitis,7411900,70776,Reconstruction of defect of maxilla with skin graft
 Chronic sinusitis,7411A00,97338,Reconstruction of maxilla with local flap
 Chronic sinusitis,7411D00,34107,Reconstruction of maxilla with bone graft
-Chronic sinusitis,7.41E+03,33956,Intranasal antrostomy and biopsy of maxillary antrum
+Chronic sinusitis,7411E00,33956,Intranasal antrostomy and biopsy of maxillary antrum
 Chronic sinusitis,7411F00,33603,Intranasal antrostomy and excision lesion maxillary antrum
 Chronic sinusitis,7411G00,25174,Bilateral antral washout
 Chronic sinusitis,7411y00,53961,Other specified other operation on maxillary antrum
 Chronic sinusitis,7411z00,19995,Other operation on maxillary antrum NOS
-Chronic sinusitis,7412,39381,Operations on frontal sinus
+Chronic sinusitis,7412.00,39381,Operations on frontal sinus
 Chronic sinusitis,7412000,12747,External frontoethmoidectomy
 Chronic sinusitis,7412011,63552,Killian external frontoethmoidectomy
 Chronic sinusitis,7412013,66885,Ogston external frontoethmoidectomy
@@ -1067,13 +1098,13 @@ Chronic sinusitis,7412800,27869,Frontal sinusotomy NEC
 Chronic sinusitis,7412900,90287,Median drainage of frontal sinus
 Chronic sinusitis,7412y00,64359,Other specified operation on frontal sinus
 Chronic sinusitis,7412z00,42196,Operation on frontal sinus NOS
-Chronic sinusitis,7413,11711,Operations on sphenoid sinus
+Chronic sinusitis,7413.00,11711,Operations on sphenoid sinus
 Chronic sinusitis,7413000,18302,Drainage of sphenoid sinus
 Chronic sinusitis,7413100,22555,Puncture of sphenoid sinus
 Chronic sinusitis,7413200,88274,Repair of sphenoidal sinus
 Chronic sinusitis,7413y00,33336,Other specified operation on sphenoid sinus
 Chronic sinusitis,7413z00,68405,Operation on sphenoid sinus NOS
-Chronic sinusitis,7414,36047,Operations on unspecified nasal sinus
+Chronic sinusitis,7414.00,36047,Operations on unspecified nasal sinus
 Chronic sinusitis,7414.11,62763,Reconstruction of defect of nasal sinus
 Chronic sinusitis,7414000,64766,Excision of nasal sinus NEC
 Chronic sinusitis,7414100,67200,Excision of lesion of nasal sinus
@@ -1089,14 +1120,14 @@ Chronic sinusitis,7414A00,67275,Reconstruct defect nasal sinus c microvascular t
 Chronic sinusitis,7414B00,69374,Reconstruction of defect of nasal sinus with bone graft
 Chronic sinusitis,7414y00,4128,Other specified operation on unspecified nasal sinus
 Chronic sinusitis,7414z00,1140,Operation on unspecified nasal sinus NOS
-Chronic sinusitis,7415,7738,FESS - diagnostic endoscopy of nose and sinus
+Chronic sinusitis,7415.00,7738,FESS - diagnostic endoscopy of nose and sinus
 Chronic sinusitis,7415.11,20806,FESS - diagnostic nasal antroscopy
 Chronic sinusitis,7415000,103022,FESS - diagnostic antroscopy via canine fossa
 Chronic sinusitis,7415100,105121,FESS - diagnostic antroscopy via inferior meatus
 Chronic sinusitis,7415200,59339,FESS - diagnostic antroscopy via middle meatus
 Chronic sinusitis,7415y00,41887,FESS/Diagnostic endoscopy of nose or sinus OS
 Chronic sinusitis,7415z00,33709,FESS/Diagnostic endoscopy of nose or sinus NOS
-Chronic sinusitis,7416,6491,FESS/Therapeutic endoscopy of nose and sinus
+Chronic sinusitis,7416.00,6491,FESS/Therapeutic endoscopy of nose and sinus
 Chronic sinusitis,7416.11,21923,FESS/Therapeutic nasal antroscopy
 Chronic sinusitis,7416100,99561,FESS/Therapeutic antroscopy via inferior meatus
 Chronic sinusitis,7416200,62936,FESS/Therapeutic antroscopy via middle meatus
@@ -1111,7 +1142,7 @@ Chronic sinusitis,7416A00,46336,FESS/Antrostomy via inferior meatus
 Chronic sinusitis,7416B00,35389,FESS/Excisional surgery to middle turbinate
 Chronic sinusitis,7416C00,18083,FESS - post operative suction clearance (local anaesthetic)
 Chronic sinusitis,7416D00,16626,FESS - post operative removal of polyps (local anaesthetic)
-Chronic sinusitis,7.42E+03,7243,FESS/Post operative division of adhesions
+Chronic sinusitis,7416E00,7243,FESS/Post operative division of adhesions
 Chronic sinusitis,7416F00,42166,Functional endoscopic sinus surg - polypectomy nasal sinus
 Chronic sinusitis,7416y00,45995,FESS - therapeutic endoscopy of nose or sinus OS
 Chronic sinusitis,7416z00,34973,FESS - therapeutic endoscopy of nose or sinus NOS
@@ -1119,7 +1150,7 @@ Chronic sinusitis,7417z00,94014,Other operations on frontal sinus
 Chronic sinusitis,7417000,92311,Frontal sinus osteoplasty
 Chronic sinusitis,7417y00,92967,Other specified other operations on frontal sinus
 Chronic sinusitis,7417z00,39139,Other operations on frontal sinus NOS
-Chronic sinusitis,7418,100959,Diagnostic nasendoscopy
+Chronic sinusitis,7418.00,100959,Diagnostic nasendoscopy
 Chronic sinusitis,741y.00,19480,Other specified operations on nasal sinus
 Chronic sinusitis,741z.00,33756,Nasal sinus operations NOS
 Chronic sinusitis,7M1B000,68003,Functional endoscopic sinus surgery
@@ -1192,7 +1223,7 @@ Chronic ulcer of the skin,M274.00,104565,Recurrent leg ulcer
 Chronic ulcer of the skin,M27z.00,3929,Chronic skin ulcer NOS
 Chronic ulcer of the skin,7G2EA00,17787,Two layer compression bandage for skin ulcer
 Chronic ulcer of the skin,M270500,105150,Stage II decubitus ulcer
-Chronic ulcer of the skin,2924,23724,O/E - trophic skin ulceration
+Chronic ulcer of the skin,2924.00,23724,O/E - trophic skin ulceration
 Chronic ulcer of the skin,2FF..00,6207,O/E - skin ulcer
 Chronic ulcer of the skin,M270200,101713,Community hospital acquired pressure ulcer
 Chronic ulcer of the skin,M271700,99855,Neuropathic foot ulcer
@@ -1239,37 +1270,6 @@ Chronic viral hepatitis,A70D.00,104892,Hepatitis C genotype 4
 Chronic viral hepatitis,A70z000,2413,Hepatitis C
 Chronic viral hepatitis,AyuB100,108343,[X]Other chronic viral hepatitis
 Chronic viral hepatitis,AyuB200,107896,"[X]Chronic viral hepatitis, unspecified"
-Chronic kidney disease,1Z10.00,29013,Chronic kidney disease stage 1
-Chronic kidney disease,1Z17.00,94789,Chronic kidney disease stage 1 with proteinuria
-Chronic kidney disease,1Z17.11,97980,CKD stage 1 with proteinuria
-Chronic kidney disease,1Z18.00,95572,Chronic kidney disease stage 1 without proteinuria
-Chronic kidney disease,1Z11.00,12586,Chronic kidney disease stage 2
-Chronic kidney disease,1Z19.00,95146,Chronic kidney disease stage 2 with proteinuria
-Chronic kidney disease,1Z19.11,97979,CKD stage 2 with proteinuria
-Chronic kidney disease,1Z1A.00,95121,Chronic kidney disease stage 2 without proteinuria
-Chronic kidney disease,1Z1A.11,97978,CKD stage 2 without proteinuria
-Chronic kidney disease,1Z12.00,12566,Chronic kidney disease stage 3
-Chronic kidney disease,1Z15.00,94965,Chronic kidney disease stage 3A
-Chronic kidney disease,1Z16.00,95179,Chronic kidney disease stage 3B
-Chronic kidney disease,1Z1B.00,94793,Chronic kidney disease stage 3 with proteinuria
-Chronic kidney disease,1Z1B.11,95145,CKD stage 3 with proteinuria
-Chronic kidney disease,1Z1C.00,95123,Chronic kidney disease stage 3 without proteinuria
-Chronic kidney disease,1Z1C.11,95188,CKD stage 3 without proteinuria
-Chronic kidney disease,1Z1D.00,95408,Chronic kidney disease stage 3A with proteinuria
-Chronic kidney disease,1Z1D.11,95571,CKD stage 3A with proteinuria
-Chronic kidney disease,1Z1E.00,95175,Chronic kidney disease stage 3A without proteinuria
-Chronic kidney disease,1Z1E.11,95176,CKD stage 3A without proteinuria
-Chronic kidney disease,1Z1F.00,95178,Chronic kidney disease stage 3B with proteinuria
-Chronic kidney disease,1Z1F.11,95180,CKD stage 3B with proteinuria
-Chronic kidney disease,1Z1G.00,95177,Chronic kidney disease stage 3B without proteinuria
-Chronic kidney disease,1Z13.00,12479,Chronic kidney disease stage 4
-Chronic kidney disease,1Z1H.00,95122,Chronic kidney disease stage 4 with proteinuria
-Chronic kidney disease,1Z1J.00,95406,Chronic kidney disease stage 4 without proteinuria
-Chronic kidney disease,1Z1J.11,97587,CKD stage 4 without proteinuria
-Chronic kidney disease,1Z14.00,12585,Chronic kidney disease stage 5
-Chronic kidney disease,1Z1K.00,95508,Chronic kidney disease stage 5 with proteinuria
-Chronic kidney disease,1Z1L.00,95405,Chronic kidney disease stage 5 without proteinuria
-Chronic kidney disease,1Z1L.11,97683,CKD stage 5 without proteinuria
 Coeliac disease,6648000,102617,Coeliac disease annual review
 Coeliac disease,6648,102315,Coeliac disease monitoring
 Coeliac disease,8IAp.00,103379,Coeliac disease annual review declined
@@ -1324,7 +1324,7 @@ Congenital cardiac disease,7902300,70857,Revision of correction of tetralogy of 
 Congenital cardiac disease,7902400,88842,Repair of tetralogy of Fallot using transannular patch
 Congenital cardiac disease,7902500,88479,Repair of tetralogy of Fallot with absent pulmonary valve
 Congenital cardiac disease,7902600,93719,Repair Fallot-type pulmonary atresia aortopulmonary collater
-Congenital cardiac disease,7902,5477,Correction of tetralogy of Fallot
+Congenital cardiac disease,7902.00,5477,Correction of tetralogy of Fallot
 Congenital cardiac disease,7902.11,12844,Repair of tetralogy of Fallot
 Congenital cardiac disease,7902y00,65401,Other specified correction of tetralogy of Fallot
 Congenital cardiac disease,7902z00,19956,Correction of tetralogy of Fallot NOS
@@ -1600,7 +1600,7 @@ Coronary heart disease,7A6G100,20903,Peroperative angioplasty
 Coronary heart disease,7A6H300,64923,Prosthetic graft patch angioplasty
 Coronary heart disease,7A6H400,66921,Percutaneous transluminal angioplasty of vascular graft
 Coronary heart disease,792..11,737,Coronary artery bypass graft operations
-Coronary heart disease,7920,18249,Saphenous vein graft replacement of coronary artery
+Coronary heart disease,7920.00,18249,Saphenous vein graft replacement of coronary artery
 Coronary heart disease,7920.11,8312,Saphenous vein graft bypass of coronary artery
 Coronary heart disease,7920000,8679,Saphenous vein graft replacement of one coronary artery
 Coronary heart disease,7920100,7634,Saphenous vein graft replacement of two coronary arteries
@@ -1616,7 +1616,7 @@ Coronary heart disease,7921200,10209,Autograft replacement of three coronary art
 Coronary heart disease,7921300,42708,Autograft replacement of four of more coronary arteries NEC
 Coronary heart disease,7921y00,61310,Other autograft replacement of coronary artery OS
 Coronary heart disease,7921z00,7609,Other autograft replacement of coronary artery NOS
-Coronary heart disease,7922,31556,Allograft replacement of coronary artery
+Coronary heart disease,7922.00,31556,Allograft replacement of coronary artery
 Coronary heart disease,7922.11,32651,Allograft bypass of coronary artery
 Coronary heart disease,7922000,70111,Allograft replacement of one coronary artery
 Coronary heart disease,7922100,57241,Allograft replacement of two coronary arteries
@@ -1624,14 +1624,14 @@ Coronary heart disease,7922200,45886,Allograft replacement of three coronary art
 Coronary heart disease,7922300,45370,Allograft replacement of four or more coronary arteries
 Coronary heart disease,7922y00,59423,Other specified allograft replacement of coronary artery
 Coronary heart disease,7922z00,48767,Allograft replacement of coronary artery NOS
-Coronary heart disease,7923,19402,Prosthetic replacement of coronary artery
+Coronary heart disease,7923.00,19402,Prosthetic replacement of coronary artery
 Coronary heart disease,7923.11,36011,Prosthetic bypass of coronary artery
 Coronary heart disease,7923000,92419,Prosthetic replacement of one coronary artery
 Coronary heart disease,7923100,66664,Prosthetic replacement of two coronary arteries
 Coronary heart disease,7923200,66236,Prosthetic replacement of three coronary arteries
 Coronary heart disease,7923300,67761,Prosthetic replacement of four or more coronary arteries
 Coronary heart disease,7923z00,19193,Prosthetic replacement of coronary artery NOS
-Coronary heart disease,7925,37682,Connection of mammary artery to coronary artery
+Coronary heart disease,7925.00,37682,Connection of mammary artery to coronary artery
 Coronary heart disease,7925.11,28837,Creation of bypass from mammary artery to coronary artery
 Coronary heart disease,7925000,33718,Double anastomosis of mammary arteries to coronary arteries
 Coronary heart disease,7925100,31519,Double implant of mammary arteries into coronary arteries
@@ -1641,7 +1641,7 @@ Coronary heart disease,7925312,68123,RIMA single anastomosis
 Coronary heart disease,7925400,68139,Single implantation of mammary artery into coronary artery
 Coronary heart disease,7925y00,37719,Connection of mammary artery to coronary artery OS
 Coronary heart disease,7925z00,56990,Connection of mammary artery to coronary artery NOS
-Coronary heart disease,7926,96804,Connection of other thoracic artery to coronary artery
+Coronary heart disease,7926.00,96804,Connection of other thoracic artery to coronary artery
 Coronary heart disease,7926000,62608,Double anastom thoracic arteries to coronary arteries NEC
 Coronary heart disease,7926200,67591,Single anastomosis of thoracic artery to coronary artery NEC
 Coronary heart disease,7926300,60753,Single implantation thoracic artery into coronary artery NEC
@@ -1656,12 +1656,12 @@ Coronary heart disease,792Dy00,3159,Other specified other bypass of coronary art
 Coronary heart disease,792Dz00,33471,Other bypass of coronary artery NOS
 Coronary heart disease,SP00300,69776,Mechanical complication of coronary bypass
 Coronary heart disease,SP07600,12734,Coronary artery bypass graft occlusion
-Coronary heart disease,5543,1021,Coronary arteriograph.abnormal
+Coronary heart disease,5543.00,1021,Coronary arteriograph.abnormal
 Coronary heart disease,3213100,1628,Exercise ECG abnormal
 Coronary heart disease,3213111,19827,Positive exercise ECG test
 Coronary heart disease,33B9500,5233,Exercise tolerance test abnormal
 Coronary heart disease,322..00,8246,ECG: myocardial ischaemia
-Coronary heart disease,3222,26973,ECG:shows myocardial ischaemia
+Coronary heart disease,3222.00,26973,ECG:shows myocardial ischaemia
 Coronary heart disease,322Z.00,35287,ECG: myocardial ischaemia NOS
 Coronary heart disease,32E4.00,42104,ECG: S-T depression
 Coronary heart disease,32F2.00,26965,ECG: T wave abnormal
@@ -1697,10 +1697,10 @@ Coronary heart disease,G30A.00,17133,Mural thrombosis
 Coronary heart disease,G30X000,12229,Acute ST segment elevation myocardial infarction
 Coronary heart disease,G307100,10562,Acute non-ST segment elevation myocardial infarction
 Coronary heart disease,323..00,7783,ECG: myocardial infarction
-Coronary heart disease,3233,26975,ECG: antero-septal infarct.
-Coronary heart disease,3234,26972,ECG:posterior/inferior infarct
-Coronary heart disease,3235,55401,ECG: subendocardial infarct
-Coronary heart disease,3236,52705,ECG: lateral infarction
+Coronary heart disease,3233.00,26975,ECG: antero-septal infarct.
+Coronary heart disease,3234.00,26972,ECG:posterior/inferior infarct
+Coronary heart disease,3235.00,55401,ECG: subendocardial infarct
+Coronary heart disease,3236.00,52705,ECG: lateral infarction
 Coronary heart disease,323Z.00,59032,ECG: myocardial infarct NOS
 Coronary heart disease,889A.00,61670,Diab mellit insulin-glucose infus acute myocardial infarct
 Coronary heart disease,G30..00,241,Acute myocardial infarction
@@ -1797,7 +1797,7 @@ Cystic Fibrosis,C370.12,24137,Mucoviscidosis
 Cystic Fibrosis,C370y00,73065,Cystic fibrosis with other manifestations
 Cystic Fibrosis,C370z00,49770,Cystic fibrosis NOS
 Cystic Fibrosis,9No7.00,101408,Seen in cystic fibrosis clinic
-Dementia,1461,5931,H/O: dementia
+Dementia,1461.00,5931,H/O: dementia
 Dementia,66h..00,55023,Dementia monitoring
 Dementia,6AB..00,12710,Dementia annual review
 Dementia,8CMZ.00,106311,Dementia care plan
@@ -1885,8 +1885,8 @@ Dementia,Fyu3000,59122,[X]Other Alzheimer's disease
 Dementia,ZS7C500,55222,Language disorder of dementia
 Dementia,8BM0200,109737,Dementia medication review
 Dementia,8CMZ000,109731,Dementia care plan agreed
-Depression,1465,2716,H/O: depression
-Depression,2257,1908,O/E - depressed
+Depression,1465.00,2716,H/O: depression
+Depression,2257.00,1908,O/E - depressed
 Depression,3004,74624,NA
 Depression,1B17.00,1996,Depressed
 Depression,1B17.11,4824,C/O - feeling depressed
@@ -2242,7 +2242,7 @@ Dermatitis (atopc/contact/other/unspecified),M122500,112622,Contact dermatitis d
 Dermatitis (atopc/contact/other/unspecified),M122400,113338,Contact dermatitis due to hydrocarbon
 Dermatitis (atopc/contact/other/unspecified),Myu2800,114633,[X]Dermatitis due to other substances taken internally
 Diabetes,13L4.11,16946,Diabetic child
-Diabetes,1434,6813,H/O: diabetes mellitus
+Diabetes,1434.00,6813,H/O: diabetes mellitus
 Diabetes,66A3.00,7563,Diabetic on diet only
 Diabetes,66A4.00,1684,Diabetic on oral treatment
 Diabetes,66A5.00,8842,Diabetic on insulin
@@ -2646,7 +2646,7 @@ Diabetic eye disease,2BBT.00,13097,O/E - right eye proliferative diabetic retino
 Diabetic eye disease,2BBV.00,13101,O/E - left eye proliferative diabetic retinopathy
 Diabetic eye disease,2BBW.00,13102,O/E - right eye diabetic maculopathy
 Diabetic eye disease,2BBX.00,13108,O/E - left eye diabetic maculopathy
-Diabetic eye disease,7276,11599,Pan retinal photocoagulation for diabetes
+Diabetic eye disease,7276.00,11599,Pan retinal photocoagulation for diabetes
 Diabetic eye disease,C105000,69748,"Diabetes mellitus, juvenile type, + ophthalmic manifestation"
 Diabetic eye disease,C105100,41389,"Diabetes mellitus, adult onset, + ophthalmic manifestation"
 Diabetic eye disease,C105.00,33254,Diabetes mellitus with ophthalmic manifestation
@@ -2880,7 +2880,7 @@ Down's syndrome,PJ0z.00,10759,Down's syndrome NOS
 Down's syndrome,PJ0z.11,61627,Trisomy 21 NOS
 Down's syndrome,64j..00,114993,Down's syndrome height centile
 Down's syndrome,64k..00,114994,Down's syndrome weight centile
-Dysmenorrhoea,1574,6383,H/O: dysmenorrhoea
+Dysmenorrhoea,1574.00,6383,H/O: dysmenorrhoea
 Dysmenorrhoea,1574.11,7759,H/O: painful periods
 Dysmenorrhoea,Eu45y11,46925,[X]Psychogenic dysmenorrhoea
 Dysmenorrhoea,K583000,9869,Primary dysmenorrhoea
@@ -2890,7 +2890,7 @@ Dysmenorrhoea,K583.11,3266,Painful menorrhoea
 Dysmenorrhoea,K583.12,7938,Painful menstruation
 Dysmenorrhoea,K583.13,1666,Period pains
 Dysmenorrhoea,K583.14,24183,Spasmodic dysmenorrhoea
-Eating disorders,1467,8027,H/O: anorexia nervosa
+Eating disorders,1467.00,8027,H/O: anorexia nervosa
 Eating disorders,1FF..00,26518,Binge eating
 Eating disorders,8HTN.00,11612,Referral to eating disorders clinic
 Eating disorders,9Nk9.00,95883,Seen in eating disorder clinic
@@ -2957,7 +2957,7 @@ End stage renal disease,7L1B100,23773,Removal of ambulatory peritoneal dialysis 
 End stage renal disease,7L1B200,104586,Flushing of peritoneal dialysis catheter
 End stage renal disease,7L1B.11,36442,Placement ambulatory dialysis apparatus - compens renal fail
 End stage renal disease,7L1C000,30709,Insertion of temporary peritoneal dialysis catheter
-End stage renal disease,8882,52123,Intestinal dialysis
+End stage renal disease,8882.00,52123,Intestinal dialysis
 End stage renal disease,G72C.00,105760,Ruptured aneurysm of dialysis vascular access
 End stage renal disease,G72D000,110095,Aneurysm of superficialised artery of dialysis AV fistula
 End stage renal disease,G72D100,107220,Aneurysm of needle site of dialysis arteriovenous fistula
@@ -3152,7 +3152,6 @@ Enthesopathies & synovial disorders,N217800,17972,Peroneal tendinitis
 Enthesopathies & synovial disorders,N217B00,18477,Anterior ankle impingement
 Enthesopathies & synovial disorders,N217C00,49630,Fibular impingement
 Enthesopathies & synovial disorders,N217z00,66299,Ankle or tarsus enthesopathy NOS
-Enthesopathies & synovial disorders,N21y.00,48718,Other peripheral enthesopathies
 Enthesopathies & synovial disorders,N21z.00,15150,Enthesopathy NOS
 Enthesopathies & synovial disorders,N21z000,4622,Capsulitis NOS
 Enthesopathies & synovial disorders,N21z100,14900,Periarthritis NOS
@@ -3268,11 +3267,12 @@ Enthesopathies & synovial disorders,7K12900,10935,Rotator cuff decompression - o
 Enthesopathies & synovial disorders,7K12913,32154,Open acromioplasty for decompression of rotator cuff
 Enthesopathies & synovial disorders,7K12911,61440,Kessel rotator cuff decompression
 Enthesopathies & synovial disorders,7K12912,68569,Watson rotator cuff decompression
+Enthesopathies & synovial disorders,N21y.00,48718,Other peripheral enthesopathies
 Enthesopathies & synovial disorders,7H40B12,52267,Lippman operation for tenosynovitis of biceps brachii muscle
 Enthesopathies & synovial disorders,ZRBd.00,55905,Enthesitis index
 Enthesopathies & synovial disorders,7H48700,97055,Steroid injection for tenosynovitis
 Enthesopathies & synovial disorders,7H40B11,101622,Hitchcock operation for tenosynovitis of biceps brachii
-Epilepsy,1473,3783,H/O: epilepsy
+Epilepsy,1473.00,3783,H/O: epilepsy
 Epilepsy,1B1W.00,38919,Transient epileptic amnesia
 Epilepsy,1O30.00,22341,Epilepsy confirmed
 Epilepsy,2126000,8385,Epilepsy resolved
@@ -3295,15 +3295,15 @@ Epilepsy,3459F,74519,NA
 Epilepsy,3459M,85904,NA
 Epilepsy,3459N,74525,NA
 Epilepsy,3459R,78769,NA
-Epilepsy,6110,100652,Contraceptive advice for patients with epilepsy
+Epilepsy,6110.00,100652,Contraceptive advice for patients with epilepsy
 Epilepsy,667..00,6983,Epilepsy monitoring
-Epilepsy,6672,26511,Follow-up epilepsy assessment
-Epilepsy,6674,50012,Epilepsy associated problems
-Epilepsy,6675,8262,Fit frequency
-Epilepsy,6676,7807,Last fit
-Epilepsy,6677,13073,Epilepsy drug side effects
-Epilepsy,6678,26512,Epilepsy treatment changed
-Epilepsy,6679,34473,Epilepsy treatment started
+Epilepsy,6672.00,26511,Follow-up epilepsy assessment
+Epilepsy,6674.00,50012,Epilepsy associated problems
+Epilepsy,6675.00,8262,Fit frequency
+Epilepsy,6676.00,7807,Last fit
+Epilepsy,6677.00,13073,Epilepsy drug side effects
+Epilepsy,6678.00,26512,Epilepsy treatment changed
+Epilepsy,6679.00,34473,Epilepsy treatment started
 Epilepsy,667A.00,20566,Epilepsy treatment stopped
 Epilepsy,667B.00,4602,Nocturnal epilepsy
 Epilepsy,667C.00,19550,Epilepsy control good
@@ -3445,7 +3445,7 @@ Erectile dysfunction,K27y100,17894,Impotence of organic origin
 Erectile dysfunction,K27y700,106360,Erectile dysfunction due to diabetes mellitus
 Erectile dysfunction,Z9E9.00,92310,Provision of device for impotence
 Erectile dysfunction,ZG43600,40725,Advice on technique for impotence
-Female genital prolapse,1594,9803,H/O: genital prolapse
+Female genital prolapse,1594.00,9803,H/O: genital prolapse
 Female genital prolapse,7D17000,7919,Ant and post colporrhaphy and amputation of cervix uteri
 Female genital prolapse,7D17100,33955,Anterior colporrhaphy and amputation of cervix uteri NEC
 Female genital prolapse,7D17111,4233,Fothergill anterior colporrhaphy and amputation of cervix
@@ -3573,12 +3573,12 @@ Female infertility,8C8..00,1810,Treatment for infertility
 Female infertility,1AZ2.11,2957,Infertility problem
 Female infertility,ZV26.00,9938,[V]Infertility management
 Female infertility,8C8Z.00,9983,Treatment for infertility NOS
-Female infertility,1597,16376,H/O: infertility - female
+Female infertility,1597.00,16376,H/O: infertility - female
 Female infertility,ZV26y00,26150,[V]Other specified infertility management
 Female infertility,1597.11,32199,H/O: female infertility
 Female infertility,8C82.00,33458,Female infertility therapy
 Female infertility,K26y200,36264,Infertility due to efferent duct obstruction
-Female infertility,6242,37047,A/N care: H/O infertility
+Female infertility,6242.00,37047,A/N care: H/O infertility
 Female infertility,3189100,41692,Female infertility test abnormal
 Female infertility,ZV23000,52685,[V]Pregnancy with history of infertility
 Female infertility,ZV26z00,69751,[V]Unspecified infertility management
@@ -3738,7 +3738,7 @@ Gastritis and duodenitis,Jyu1200,73154,[X]Other acute gastritis
 Gastritis and duodenitis,Jyu1300,45769,[X]Other gastritis
 Gastritis and duodenitis,ZV65316,18596,[V]Dietary counselling in gastritis
 Gastro-oesophageal reflux disease,171J.00,19470,Reflux cough
-Gastro-oesophageal reflux disease,1957,7577,Gastric reflux
+Gastro-oesophageal reflux disease,1957.00,7577,Gastric reflux
 Gastro-oesophageal reflux disease,760L000,14713,Antireflux fundoplication using thoracic approach
 Gastro-oesophageal reflux disease,760L100,53657,Antireflux operation using thoracic approach NEC
 Gastro-oesophageal reflux disease,760L111,68276,Antireflux procedure using thoracic approach NEC
@@ -3777,10 +3777,10 @@ Glaucoma,7259200,88595,Revision of bleb NEC following glaucoma surgery
 Glaucoma,7259300,91442,Removal of releasable suture following glaucoma surgery
 Glaucoma,7259400,93967,Laser suture lysis following glaucoma surgery
 Glaucoma,66T1.00,2399,Glaucoma monitoring
-Glaucoma,7259,46069,Operations following glaucoma surgery
+Glaucoma,7259.00,46069,Operations following glaucoma surgery
 Glaucoma,7259y00,88142,Other specified operations following glaucoma surgery
 Glaucoma,7259z00,95852,Operations following glaucoma surgery NOS
-Glaucoma,7275,11059,Pan retinal photocoagulation for glaucoma
+Glaucoma,7275.00,11059,Pan retinal photocoagulation for glaucoma
 Glaucoma,8HTW.00,22904,Referral to glaucoma clinic
 Glaucoma,F404211,44338,Glaucoma - absolute
 Glaucoma,F442100,29764,Glaucomatocyclitic crises
@@ -3957,15 +3957,15 @@ Glomerulonephritis,K0A7.00,55548,Glom disordr in blood diseas+disordr invlvg imu
 Glomerulonephritis,K0A8.00,105859,Rapidly progressive glomerulonephritis
 Glomerulonephritis,K0A..00,8668,Glomerular disease
 Glomerulonephritis,Kyu0900,71709,"[X]Unsp nephrit synd, diff mesang prolif glomerulonephritis"
-Gout,1443,3759,H/O: gout
+Gout,1443.00,3759,H/O: gout
 Gout,2D52.00,17284,O/E - auricle of ear - tophi
-Gout,6691,14996,Initial gout assessment
-Gout,6692,35660,Follow-up gout assessment
-Gout,6693,29658,Joints gout affected
-Gout,6695,34006,Date gout treatment started
-Gout,6696,68209,Date of last gout attack
+Gout,6691.00,14996,Initial gout assessment
+Gout,6692.00,35660,Follow-up gout assessment
+Gout,6693.00,29658,Joints gout affected
+Gout,6695.00,34006,Date gout treatment started
+Gout,6696.00,68209,Date of last gout attack
 Gout,669..00,16475,Gout monitoring
-Gout,6697,58746,Gout associated problems
+Gout,6697.00,58746,Gout associated problems
 Gout,669Z.00,52117,Gout monitoring NOS
 Gout,C340.00,10080,Gouty arthropathy
 Gout,C341.00,52969,Gouty nephropathy
@@ -3996,8 +3996,8 @@ Gout,N023x00,58064,Gouty arthritis of multiple sites
 Gout,N023y00,60541,Gouty arthritis of other specified site
 Gout,N023z00,12594,Gouty arthritis NOS
 Gout,Nyu1700,94539,[X]Other secondary gout
-Gout,6699,34105,Gout treatment changed
-Gout,6698,52103,Gout drug side effects
+Gout,6699.00,34105,Gout treatment changed
+Gout,6698.00,52103,Gout drug side effects
 Gout,C346.00,108901,Acute exacerbation of gout
 Gout,C343.00,111834,Lead-induced gout
 Gout,N023000,113314,Gouty arthritis of unspecified site
@@ -4013,7 +4013,7 @@ Hearing loss,7319400,93278,One stage insert fixtures bone anchored hearing prost
 Hearing loss,7319500,101755,Fitting external hearing prosthesis bone anchored fixtures
 Hearing loss,7319600,108029,First stge ins fixtures for bone anchored hearing prosthesis
 Hearing loss,7319700,108030,Second stage ins fixtures for bone anchored hearing prosth
-Hearing loss,1493,4957,H/O: hearing problem
+Hearing loss,1493.00,4957,H/O: hearing problem
 Hearing loss,1C12.00,5967,Hearing difficulty
 Hearing loss,1C13.00,14805,Deafness
 Hearing loss,1C13.11,6641,Deafness symptom
@@ -4040,8 +4040,8 @@ Hearing loss,2DH1.00,110790,Does use hearing aid
 Hearing loss,7311A00,19694,Insertn bone anchors subcutaneous bone anchored hearing aid
 Hearing loss,7317C00,68636,Placement of hearing implant in middle ear
 Hearing loss,7317D00,93446,Attention to hearing implant in middle ear
-Hearing loss,7.32E+03,100449,Removal of hearing implant from middle ear
-Hearing loss,7319,59392,Attachment of bone anchored hearing prosthesis
+Hearing loss,7317E00,100449,Removal of hearing implant from middle ear
+Hearing loss,7319.00,59392,Attachment of bone anchored hearing prosthesis
 Hearing loss,7319y00,98553,Other specified attachment bone anchored hearing prosthesis
 Hearing loss,7319z00,98241,Attachment of bone anchored hearing prosthesis NOS
 Hearing loss,8D2..12,3912,Hearing aid provision
@@ -4329,7 +4329,7 @@ Heart valve disease non-rheumatic,Gyu5600,49272,[X]Other aortic valve disorders
 Heart valve disease non-rheumatic,Gyu5A00,71004,[X]Aortic valve disorders in diseases classified elsewhere
 Heart valve disease non-rheumatic,7919100,39828,Percutaneous transluminal aortic valvotomy
 Heart valve disease non-rheumatic,7911y00,40086,Other specified plastic repair of aortic valve
-Heart valve disease non-rheumatic,7911,9498,Plastic repair of aortic valve
+Heart valve disease non-rheumatic,7911.00,9498,Plastic repair of aortic valve
 Heart valve disease non-rheumatic,7911z00,53804,Plastic repair of aortic valve NOS
 Heart valve disease non-rheumatic,7916100,17141,Open aortic valvotomy
 Heart valve disease non-rheumatic,7917100,42748,Closed aortic valvotomy
@@ -4345,7 +4345,7 @@ Heart valve disease non-rheumatic,7910400,22582,Mitral valvuloplasty NEC
 Heart valve disease non-rheumatic,7910300,3731,Replacement of mitral valve NEC
 Heart valve disease non-rheumatic,7910z00,41168,Plastic repair of mitral valve NOS
 Heart valve disease non-rheumatic,7910100,51658,Xenograft replacement of mitral valve
-Heart valve disease non-rheumatic,7910,7894,Plastic repair of mitral valve
+Heart valve disease non-rheumatic,7910.00,7894,Plastic repair of mitral valve
 Heart valve disease non-rheumatic,7910200,19390,Prosthetic replacement of mitral valve
 Heart valve disease non-rheumatic,7919000,53696,Percutaneous transluminal mitral valvotomy
 Heart valve disease non-rheumatic,7916000,17812,Open mitral valvotomy
@@ -4365,7 +4365,7 @@ Heart valve disease non-rheumatic,791D000,92226,Tricuspid valvectomy
 Heart valve disease non-rheumatic,G542z00,43855,Tricuspid valve disorders NOS
 Heart valve disease non-rheumatic,G542X00,98538,"Nonrheumatic tricuspid valve disorder, unspecified"
 Heart valve disease non-rheumatic,7917200,99614,Closed tricuspid valvotomy
-Heart valve disease non-rheumatic,7912,26168,Plastic repair of tricuspid valve
+Heart valve disease non-rheumatic,7912.00,26168,Plastic repair of tricuspid valve
 Heart valve disease non-rheumatic,7918111,53413,De Vega tricuspid annuloplasty
 Heart valve disease non-rheumatic,7915200,61427,Revision of plastic repair of tricuspid valve
 Heart valve disease non-rheumatic,G140112,42239,Tricuspid incompetence - rheumatic
@@ -4583,9 +4583,9 @@ Hypertension,14A2.00,2666,H/O: hypertension
 Hypertension,2126100,3269,Hypertension resolved
 Hypertension,212K.00,19342,Hypertension resolved
 Hypertension,6146200,32976,Hypertension induced by oral contraceptive pill
-Hypertension,6624,8296,Borderline hyperten:yearly obs
-Hypertension,6627,16565,Good hypertension control
-Hypertension,6628,27511,Poor hypertension control
+Hypertension,6624.00,8296,Borderline hyperten:yearly obs
+Hypertension,6627.00,16565,Good hypertension control
+Hypertension,6628.00,27511,Poor hypertension control
 Hypertension,662b.00,18590,Moderate hypertension control
 Hypertension,662c.00,18482,Hypertension six month review
 Hypertension,662d.00,19070,Hypertension annual review
@@ -4680,11 +4680,11 @@ Hyposplenism,14N7.00,16827,H/O: splenectomy
 Hyposplenism,7840100,27514,Total splenectomy
 Hyposplenism,7840300,1393,Splenectomy NEC
 Hyposplenism,7840400,31041,Laparoscopic total splenectomy
-Hyposplenism,7840,34310,Total excision of spleen
+Hyposplenism,7840.00,34310,Total excision of spleen
 Hyposplenism,7840.11,2759,Total splenectomy
 Hyposplenism,7840y00,102966,Other specified total excision of spleen
 Hyposplenism,7840z00,59784,Total excision of spleen NOS
-Hyposplenism,7841,48198,Other excision of spleen
+Hyposplenism,7841.00,48198,Other excision of spleen
 Hyposplenism,7841y00,102207,Other specified other excision of spleen
 Hyposplenism,7841z00,64291,Other excision of spleen NOS
 Hyposplenism,D415400,66973,Splenic atrophy
@@ -4746,7 +4746,6 @@ Immunodeficiencies,Cyu0400,73131,[X]Other common variable immunodeficiencies
 Immunodeficiencies,Cyu0500,66386,[X]Other specified immunodeficiency disorders
 Immunodeficiencies,Cyu0100,112962,[X]Other combined immunodeficiency disorders
 Immunodeficiencies,C392200,114473,Thymic aplasia or dysplasia with immunodeficiency
-Infection of bones and joints,AC23000,37122,Echinococcus granulosus infection of bone
 Infection of bones and joints,N300.12,39830,Acute bone infection
 Infection of bones and joints,N302.11,7155,Bone infection
 Infection of bones and joints,N30z.00,43058,Bone infection NOS
@@ -4769,6 +4768,7 @@ Infection of bones and joints,AyuJ200,106978,[X]Sequelae of tuberculosis of bone
 Infection of bones and joints,A15..00,3596,Tuberculosis of bones and joints
 Infection of bones and joints,AE03.00,73549,Late effects of tuberculosis of bones and joints
 Infection of bones and joints,AB65600,69732,Osseous cryptococcosis
+Infection of bones and joints,AC23000,37122,Echinococcus granulosus infection of bone
 Infection of bones and joints,N010000,41340,Pyogenic arthritis of unspecified site
 Infection of bones and joints,N010x00,73312,Pyogenic arthritis of multiple sites
 Infection of bones and joints,N010300,61877,Pyogenic arthritis of the forearm
@@ -5093,26 +5093,26 @@ Intracerebral haemorrhage,Gyu6200,53810,[X]Other intracerebral haemorrhage
 Intracerebral haemorrhage,Gyu6F00,96630,"[X]Intracerebral haemorrhage in hemisphere, unspecified"
 Intracranial hypertension,F282.00,5433,Benign intracranial hypertension
 Intracranial hypertension,F282.11,46041,Pseudotumour cerebri
-Iron deficiency anaemia,D000.00,27726,Iron deficiency anaemia due to chronic blood loss
-Iron deficiency anaemia,D000.11,6816,Normocytic anaemia due to chronic blood loss
-Iron deficiency anaemia,D000.12,48338,Iron deficiency anaemia due to blood loss
-Iron deficiency anaemia,D001.00,21127,Iron deficiency anaemia due to dietary causes
-Iron deficiency anaemia,D00..00,795,Iron deficiency anaemias
-Iron deficiency anaemia,D00y000,55478,Sideropenic dysphagia
-Iron deficiency anaemia,D00y011,36965,Kelly-Paterson syndrome
-Iron deficiency anaemia,D00y012,35199,Plummer-Vinson syndrome
-Iron deficiency anaemia,D00y.00,33420,Other specified iron deficiency anaemia
-Iron deficiency anaemia,D00y.11,31347,Kelly - Paterson syndrome
-Iron deficiency anaemia,D00y.12,20123,Plummer - Vinson syndrome
-Iron deficiency anaemia,D00yz00,9537,Other specified iron deficiency anaemia NOS
-Iron deficiency anaemia,D00z000,19951,Achlorhydric anaemia
-Iron deficiency anaemia,D00z100,57954,Chlorotic anaemia
-Iron deficiency anaemia,D00z.00,18137,Unspecified iron deficiency anaemia
-Iron deficiency anaemia,D00zz00,15439,Iron deficiency anaemia NOS
-Iron deficiency anaemia,D0...11,94528,Asiderotic anaemia
-Iron deficiency anaemia,D0...12,19383,Sideropenic anaemia
-Iron deficiency anaemia,Dyu0000,4858,[X]Other iron deficiency anaemias
-Iron deficiency anaemia,1451,31214,H/O: anaemia - iron deficient
+Iron deficiency with and without anaemia,D000.00,27726,Iron deficiency anaemia due to chronic blood loss
+Iron deficiency with and without anaemia,D000.11,6816,Normocytic anaemia due to chronic blood loss
+Iron deficiency with and without anaemia,D000.12,48338,Iron deficiency anaemia due to blood loss
+Iron deficiency with and without anaemia,D001.00,21127,Iron deficiency anaemia due to dietary causes
+Iron deficiency with and without anaemia,D00..00,795,Iron deficiency anaemias
+Iron deficiency with and without anaemia,D00y000,55478,Sideropenic dysphagia
+Iron deficiency with and without anaemia,D00y011,36965,Kelly-Paterson syndrome
+Iron deficiency with and without anaemia,D00y012,35199,Plummer-Vinson syndrome
+Iron deficiency with and without anaemia,D00y.00,33420,Other specified iron deficiency anaemia
+Iron deficiency with and without anaemia,D00y.11,31347,Kelly - Paterson syndrome
+Iron deficiency with and without anaemia,D00y.12,20123,Plummer - Vinson syndrome
+Iron deficiency with and without anaemia,D00yz00,9537,Other specified iron deficiency anaemia NOS
+Iron deficiency with and without anaemia,D00z000,19951,Achlorhydric anaemia
+Iron deficiency with and without anaemia,D00z100,57954,Chlorotic anaemia
+Iron deficiency with and without anaemia,D00z.00,18137,Unspecified iron deficiency anaemia
+Iron deficiency with and without anaemia,D00zz00,15439,Iron deficiency anaemia NOS
+Iron deficiency with and without anaemia,D0...11,94528,Asiderotic anaemia
+Iron deficiency with and without anaemia,D0...12,19383,Sideropenic anaemia
+Iron deficiency with and without anaemia,Dyu0000,4858,[X]Other iron deficiency anaemias
+Iron deficiency with and without anaemia,1451.00,31214,H/O: anaemia - iron deficient
 Irritable bowel syndrome,14CF.00,30630,History of irritable bowel syndrome
 Irritable bowel syndrome,8Cm..00,104591,Management of irritable bowel syndrome
 Irritable bowel syndrome,Eu45324,16560,[X]Psychogenic IBS
@@ -5219,7 +5219,6 @@ Learning disability,Eu81z00,6516,"[X]Developmental disorder of scholastic skills
 Learning disability,Eu81z11,4477,[X]Learning disability NOS
 Learning disability,Eu81z12,16855,[X]Learning disorder NOS
 Learning disability,Eu81z13,36045,[X]Learn acquisition disab NOS
-Learning disability,Eu84.00,7226,[X]Pervasive developmental disorders
 Learning disability,Eu84112,34174,[X]Mental retardation with autistic features
 Learning disability,Eu84400,52602,[X]Overactive disorder assoc mental retard/stereotype movts
 Learning disability,Eu84y00,47948,[X]Other pervasive developmental disorders
@@ -5229,7 +5228,6 @@ Learning disability,PJ0..11,23489,Mongolism
 Learning disability,PJ0..12,18415,Trisomy 21
 Learning disability,PJ0z.00,10759,Down's syndrome NOS
 Learning disability,PJ0z.11,61627,Trisomy 21 NOS
-Learning disability,PJyy200,10628,Fragile X chromosome
 Learning disability,PJyy400,32603,Fragile X syndrome
 Learning disability,ZS34.11,19436,Learning disability
 Learning disability,9Nlh.00,110002,Seen by learning disability team
@@ -5245,13 +5243,15 @@ Learning disability,E2Fz.00,33752,Developmental disorder NOS
 Learning disability,Eu81.00,21214,[X]Specific developmental disorders of scholastic skills
 Learning disability,Eu83.00,6513,[X]Mixed specific developmental disorders
 Learning disability,E2F3z00,1277,Speech or language developmental disorder NOS
+Learning disability,Eu84.00,7226,[X]Pervasive developmental disorders
 Learning disability,Eu80.00,6122,[X]Specific developmental disorders of speech and language
 Learning disability,Eu82.00,7299,[X]Specific developmental disorder of motor function
 Learning disability,14g0.00,109203,Early childhood developmental disability
 Learning disability,Eu80z00,6514,[X]Developmental disorder of speech and language unspecified
 Learning disability,E2F3.00,3567,Speech or language developmental disorder
 Learning disability,ZS34.00,39128,Developmental disorder of scholastic skill
-Learning disability,Eu81y00,44342,[X]Other developmental disorders of scholastic skills
+Learning disability,Eu81y00,44342,[X]Other developmental disorders of sch olastic skills
+Learning disability,PJyy200,10628,Fragile X chromosome
 Learning disability,PJ2z.00,39017,Edward's syndrome NOS
 Learning disability,PJ22.11,107162,Partial trisomy 18 in Edward's syndrome
 Learning disability,PJ2..00,33642,Edward's syndrome - trisomy 18
@@ -5259,7 +5259,7 @@ Learning disability,PJ1..00,35665,Patau's syndrome - trisomy 13
 Learning disability,PJ12.11,102102,Partial trisomy 13 in Patau's syndrome
 Learning disability,PJ1z.00,72265,Patau's syndrome NOS
 Learning disability,F1y0.00,105180,Fragile X associated tremor ataxia syndrome
-Leukaemia,1429,17177,H/O: * leukaemia
+Leukaemia,1429.00,17177,H/O: * leukaemia
 Leukaemia,B624000,65122,Leukaemic reticuloendotheliosis of unspecified sites
 Leukaemia,B624300,65123,Leukaemic reticuloend of intra-abdominal lymph nodes
 Leukaemia,B624.00,27330,Leukaemic reticuloendotheliosis
@@ -5431,15 +5431,15 @@ Liver failure and transplant,J634.00,49042,Hepatic infarction
 Liver failure and transplant,J635100,36107,Toxic liver disease with hepatic necrosis
 Liver failure and transplant,J635700,41386,Acute hepatic failure due to drugs
 Liver failure and transplant,J636.00,64451,Central haemorrhagic necrosis of liver
-Liver failure and transplant,SP08600,6692,Liver transplant failure and rejection
 Liver failure and transplant,SP14200,36194,Hepatic failure as a complication of care
 Liver failure and transplant,SP14211,17222,Liver failure as a complication of care
 Liver failure and transplant,7800111,89445,Auxillary liver transplant
 Liver failure and transplant,7800y00,99250,Other specified transplantation of liver
 Liver failure and transplant,7800112,100073,Piggy back liver transplant
 Liver failure and transplant,TB00200,31997,"Liver transplant with complication, without blame"
-Liver failure and transplant,7800,4405,Transplantation of liver
+Liver failure and transplant,7800.00,4405,Transplantation of liver
 Liver failure and transplant,8LH..00,105758,Liver transplant planned
+Liver failure and transplant,SP08600,6692,Liver transplant failure and rejection
 Liver failure and transplant,ZV42700,9026,[V]Liver transplanted
 Liver failure and transplant,7805211,47861,Exploration of liver transplant
 Liver failure and transplant,7800200,69194,Replacement of previous liver transplant
@@ -5529,10 +5529,10 @@ Macular degeneration,F425211,71225,Kuhnt - Junius degeneration
 Macular degeneration,F425.00,118,Degeneration of macula and posterior pole
 Macular degeneration,F425.11,6350,Senile macular degeneration
 Macular degeneration,F425z00,1753,Degeneration of macula or posterior pole NOS
-Male infertility,4914,38990,Semen exam.: low fertility
-Male infertility,4915,61954,Semen exam.:very low fertility
-Male infertility,4916,7273,Semen exam.: infertile
-Male infertility,4917,4520,Semen exam: abnormal
+Male infertility,4914.00,38990,Semen exam.: low fertility
+Male infertility,4915.00,61954,Semen exam.:very low fertility
+Male infertility,4916.00,7273,Semen exam.: infertile
+Male infertility,4917.00,4520,Semen exam: abnormal
 Male infertility,K260.00,3331,Azoospermia
 Male infertility,K260.11,32485,Young's syndrome
 Male infertility,K261000,102597,Oligoasthenozoospermia
@@ -5562,7 +5562,7 @@ Male infertility,K26y000,113724,Infertility due to drug therapy
 Male infertility,14E2.00,18196,H/O: infertility - male
 Male infertility,14E2.11,39817,H/O: male infertility
 Male infertility,8C83.00,43797,Male infertility therapy
-Male infertility,4935,23149,Sperm absent - azoospermia
+Male infertility,4935.00,23149,Sperm absent - azoospermia
 Meniere disease,1491.11,16593,H/O: Meniere's disease
 Meniere disease,F560000,47541,Unspecified Meniere's disease
 Meniere disease,F560100,66733,Active cochleovestibular Meniere's disease
@@ -5574,8 +5574,8 @@ Meniere disease,F560.11,18047,Endolymphatic hydrops
 Meniere disease,F560.12,44564,Lermoyez's syndrome
 Meniere disease,F560z00,16334,Meniere's disease NOS
 Menorrhagia and polymenorrhoea,151G.00,29459,Length of cycle decreasing
-Menorrhagia and polymenorrhoea,1572,7089,H/O: polymenorrhoea
-Menorrhagia and polymenorrhoea,1573,10531,H/O: menorrhagia
+Menorrhagia and polymenorrhoea,1572.00,7089,H/O: polymenorrhoea
+Menorrhagia and polymenorrhoea,1573.00,10531,H/O: menorrhagia
 Menorrhagia and polymenorrhoea,1573.11,6238,H/O: heavy periods
 Menorrhagia and polymenorrhoea,K592000,128,Menorrhagia
 Menorrhagia and polymenorrhoea,K592011,812,Heavy periods
@@ -5591,7 +5591,7 @@ Menorrhagia and polymenorrhoea,K5A0.00,15022,Premenopausal menorrhagia
 Menorrhagia and polymenorrhoea,K5A0.11,20795,Climacteric menorrhagia
 Menorrhagia and polymenorrhoea,K5A6.00,93526,Perimenopausal menorrhagia
 Migraine,1474000,103451,H/O migraine with aura
-Migraine,1474,5029,H/O: migraine
+Migraine,1474.00,5029,H/O: migraine
 Migraine,8B6N.00,11389,Migraine prophylaxis
 Migraine,F260.00,3220,Classical migraine
 Migraine,F260.11,103502,Migraine with aura
@@ -6164,9 +6164,9 @@ Non-Hodgkin Lymphoma,M162800,26111,Lymphomatoid papulosis
 "Non-malignant tumour of brain, central nervous system and pituitary",7102y00,58596,Other specified other operation on pituitary gland
 "Non-malignant tumour of brain, central nervous system and pituitary",BB5Vz00,57422,[M]Pituitary adenoma or carcinoma NOS
 "Non-malignant tumour of brain, central nervous system and pituitary",710..00,39009,Pituitary gland and pineal gland operations
-"Non-malignant tumour of brain, central nervous system and pituitary",7102,52399,Other operations on pituitary gland
+"Non-malignant tumour of brain, central nervous system and pituitary",7102.00,52399,Other operations on pituitary gland
 "Non-malignant tumour of brain, central nervous system and pituitary",B920z00,94371,Neop uncertain behaviour pituitary and craniopharyngeal NOS
-Obesity,1444,16196,H/O: obesity
+Obesity,1444.00,16196,H/O: obesity
 Obesity,212Q.00,52703,Obesity resolved
 Obesity,222A.00,59780,O/E - obese
 Obesity,22A5.11,7984,O/E - obese
@@ -6180,7 +6180,7 @@ Obesity,66C6.00,38632,Treatment of obesity started
 Obesity,66C..00,11461,Obesity monitoring
 Obesity,66CE.00,17444,Reason for obesity therapy - occupational
 Obesity,66CZ.00,40153,Obesity monitoring NOS
-Obesity,7633,39123,Bypass of jejunum
+Obesity,7633.00,39123,Bypass of jejunum
 Obesity,7611400,93378,Sleeve gastrectomy and duodenal switch
 Obesity,7611500,89259,Sleeve gastrectomy NEC
 Obesity,7611600,89148,Laparoscopic sleeve gastrectomy
@@ -6509,9 +6509,9 @@ Osteoporosis,66a4.00,34129,Osteoporosis treatment changed
 Osteoporosis,14G6.00,18731,H/O: fragility fracture
 Osteoporosis,58E4.00,13987,Forearm DXA scan result osteoporotic
 Other anaemias,145..11,5833,H/O: anaemia
-Other anaemias,1454,24953,H/O: anaemia NOS
-Other anaemias,4234,35749,Haemoglobin very low
-Other anaemias,4235,3942,Haemoglobin low
+Other anaemias,1454.00,24953,H/O: anaemia NOS
+Other anaemias,4234.00,35749,Haemoglobin very low
+Other anaemias,4235.00,3942,Haemoglobin low
 Other anaemias,D00..11,882,Hypochromic - microcytic anaemia
 Other anaemias,D00..12,539,Microcytic - hypochromic anaemia
 Other anaemias,D00y100,4839,Microcytic hypochromic anaemia
@@ -6579,7 +6579,7 @@ Other anaemias,D104100,1174,Thalassaemia minor NEC
 Other anaemias,D104400,12235,Alpha trait thalassaemia
 Other anaemias,D104500,9864,Beta trait thalassaemia
 Other anaemias,D104800,27761,Beta minor thalassaemia
-Other haemolytic anaemias,1453,21335,H/O: haemolytic anaemia
+Other haemolytic anaemias,1453.00,21335,H/O: haemolytic anaemia
 Other haemolytic anaemias,D100.00,7237,Hereditary spherocytosis
 Other haemolytic anaemias,D100.11,39682,Acholuric familial jaundice
 Other haemolytic anaemias,D100.12,64619,Minkowski - Chauffard syndrome
@@ -7186,7 +7186,7 @@ Peptic ulcer disease,761J100,64014,Closure of gastric ulcer NEC
 Peptic ulcer disease,761J111,70005,Suture of ulcer of stomach NEC
 Peptic ulcer disease,761Jy00,94104,Other specified operation on gastric ulcer
 Peptic ulcer disease,761Jz00,33914,Operation on gastric ulcer NOS
-Peptic ulcer disease,7627,5928,Operations on duodenal ulcer
+Peptic ulcer disease,7627.00,5928,Operations on duodenal ulcer
 Peptic ulcer disease,7627000,4741,Closure of perforated duodenal ulcer
 Peptic ulcer disease,7627100,37268,Suture of duodenal ulcer not elsewhere classified
 Peptic ulcer disease,7627200,55350,Oversew of blood vessel of duodenal ulcer
@@ -7309,7 +7309,7 @@ Peptic ulcer disease,K458 PT,90899,NA
 Peptic ulcer disease,ZV12711,26261,[V]Personal history of peptic ulcer
 Peptic ulcer disease,ZV12712,40489,[V]Personal history of duodenal ulcer
 Peptic ulcer disease,ZV12C00,41271,[V] Personal history of gastric ulcer
-Peptic ulcer disease,1956,4643,Peptic ulcer symptoms
+Peptic ulcer disease,1956.00,4643,Peptic ulcer symptoms
 Peptic ulcer disease,J130400,113325,Acute peptic ulcer with obstruction
 Peptic ulcer disease,J13yy00,113771,Unspec peptic ulcer; unspec haemorrhage and/or perforation
 Peptic ulcer disease,J14y400,113815,Unspecified gastrojejunal ulcer with obstruction
@@ -7572,7 +7572,7 @@ Peripheral venous and lymphatic disease,G83..00,742,Varicose veins of the legs
 Peripheral venous and lymphatic disease,G83z.00,3214,Varicose veins of the leg NOS
 Peripheral venous and lymphatic disease,7A68.00,4308,Injection into varicose vein of leg
 Peripheral venous and lymphatic disease,7A69z00,1773,Other operation on varicose vein of leg NOS
-Peripheral venous and lymphatic disease,2482,12576,O/E - varicose veins
+Peripheral venous and lymphatic disease,2482.00,12576,O/E - varicose veins
 Peripheral venous and lymphatic disease,L41..11,29620,Varicose veins - obstetric
 Peripheral venous and lymphatic disease,G85z.00,32019,Other varicose veins NOS
 Peripheral venous and lymphatic disease,7A6Lz00,89018,Combined operations on varicose vein of leg NOS
@@ -7780,7 +7780,7 @@ Polycythaemia vera,BBs0.11,58888,[M]Polycythaemia rubra vera
 Polymyalgia Rheumatica,N200.00,29472,Giant cell arteritis with polymyalgia rheumatica
 Polymyalgia Rheumatica,N20..00,1408,Polymyalgia rheumatica
 Polymyalgia Rheumatica,N20..11,3042,Polymyalgia
-Portal hypertension and oesophageal varices,7609,24220,Open operations on oesophageal varices
+Portal hypertension and oesophageal varices,7609.00,24220,Open operations on oesophageal varices
 Portal hypertension and oesophageal varices,7609300,43404,Local ligation of oesophageal varices
 Portal hypertension and oesophageal varices,7609400,20912,Open injection sclerotherapy to oesophageal varices
 Portal hypertension and oesophageal varices,7609y00,107975,Other specified open operation on oesophageal varices
@@ -8145,7 +8145,6 @@ Primary malignancy breast,B35zz00,48809,Malignant neoplasm of male breast NOS
 Primary malignancy breast,B36..00,105488,Local recurrence of malignant tumour of breast
 Primary malignancy breast,B830000,10387,Lobular carcinoma in situ of breast
 Primary malignancy breast,B830100,18694,Intraductal carcinoma in situ of breast
-Primary malignancy breast,B830.00,7833,Carcinoma in situ of breast
 Primary malignancy breast,BB91.00,8351,[M]Infiltrating duct carcinoma
 Primary malignancy breast,BB91.11,21833,[M]Duct carcinoma NOS
 Primary malignancy breast,BB91000,30189,[M]Intraductal papillary adenocarcinoma with invasion
@@ -8163,6 +8162,7 @@ Primary malignancy breast,BB9M.00,3969,[M]Intracystic carcinoma NOS
 Primary malignancy breast,Byu6.00,12499,[X]Malignant neoplasm of breast
 Primary malignancy breast,ByuFG00,53803,[X]Other carcinoma in situ of breast
 Primary malignancy breast,ZV10300,16639,[V]Personal history of malignant neoplasm of breast
+Primary malignancy breast,B830.00,7833,Carcinoma in situ of breast
 Primary malignancy breast,B933.00,41232,Neoplasm of uncertain behaviour of breast
 Primary malignancy breast,BA03.00,45906,Neoplasm of unspecified nature of breast
 Primary malignancy cervical,B410000,57235,Malignant neoplasm of endocervical canal
@@ -9187,7 +9187,7 @@ Ptosis of eyelid,7218100,43924,Correction of eyelid ptosis using frontalis muscl
 Ptosis of eyelid,7218200,27441,Correction of ptosis of eyelid using sling of fascia
 Ptosis of eyelid,7218300,36100,Correction of eyelid ptosis using superior rectus technique
 Ptosis of eyelid,7218500,17932,Correction of eyelid ptosis using aponeurosis technique
-Ptosis of eyelid,7218,1633,Correction of ptosis of eyelid
+Ptosis of eyelid,7218.00,1633,Correction of ptosis of eyelid
 Ptosis of eyelid,7218y00,49096,Other specified correction of ptosis of eyelid
 Ptosis of eyelid,7218z00,4141,Correction of ptosis of eyelid NOS
 Ptosis of eyelid,F4E3000,38413,Unspecified ptosis of eyelid
@@ -9208,10 +9208,10 @@ Respiratory failure,H593.00,94486,Chronic type 2 respiratory failure
 Respiratory failure,H59..00,25249,Respiratory failure
 Respiratory failure,R2y1.00,3959,[D]Respiratory failure
 Respiratory failure,R2y1z00,15779,[D]Respiratory failure NOS
-Retinal detachments and breaks,1481,8691,H/O: retinal detachment
+Retinal detachments and breaks,1481.00,8691,H/O: retinal detachment
 Retinal detachments and breaks,7271000,50694,Xenon photocoagulation of retina for detachment
 Retinal detachments and breaks,7271100,6836,Laser photocoagulation of retina for detachment
-Retinal detachments and breaks,7271,2484,Photocoagulation of retina for detachment
+Retinal detachments and breaks,7271.00,2484,Photocoagulation of retina for detachment
 Retinal detachments and breaks,7271y00,1551,Other specified photocoagulation of retina for detachment
 Retinal detachments and breaks,7271z00,1552,Photocoagulation of retina for detachment NOS
 Retinal detachments and breaks,F410000,29800,Unspecified retinal detachment with retinal defect
@@ -9396,7 +9396,7 @@ SARS-CoV-2,1JX1.00,114766,Suspected disease caused by 2019-nCoV (novel coronavir
 SARS-CoV-2,9N31200,114753,Telephone consultation for suspected 2019-nCoV (novel coronavirus)
 SARS-CoV-2,AyuDC00,114762,"[X]Coronavirus infection, unspecified"
 SARS-CoV-2,AyuKL00,115315,[X]Coronavirus/cause/diseases classified to other chapters
-Schizophrenia and non-organic psychosis,1464,6325,H/O: schizophrenia
+Schizophrenia and non-organic psychosis,1464.00,6325,H/O: schizophrenia
 Schizophrenia and non-organic psychosis,146H.00,12777,H/O: psychosis
 Schizophrenia and non-organic psychosis,285..11,4390,"Psychotic condition, insight present"
 Schizophrenia and non-organic psychosis,286..11,22644,Poor insight into psychotic condition
@@ -9568,7 +9568,7 @@ Schizophrenia and non-organic psychosis,E102500,102427,Catatonic schizophrenia i
 Schizophrenia and non-organic psychosis,E101500,67768,Hebephrenic schizophrenia in remission
 Schizophrenia and non-organic psychosis,212W.00,88275,Schizophrenia resolved
 Schizophrenia and non-organic psychosis,212X.00,85972,Psychosis resolved
-Scoliosis,2376,7136,O/E - kyphoscoliotic chest def
+Scoliosis,2376.00,7136,O/E - kyphoscoliotic chest def
 Scoliosis,7J44111,22657,Dwyer anterior wiring of spine for scoliosis
 Scoliosis,G411.00,42901,Kyphoscoliotic heart disease
 Scoliosis,N373000,755,Idiopathic scoliosis
@@ -9712,7 +9712,7 @@ Secondary malignancy and metastasis,B582000,43930,Secondary malignant neoplasm o
 Secondary malignancy and metastasis,B586.00,44615,Secondary malignant neoplasm of ovary
 Secondary malignancy and metastasis,B58y900,45824,Secondary malignant neoplasm of tongue
 Secondary malignancy and metastasis,B582500,48828,Secondary malignant neoplasm of skin of hip and leg
-Secondary malignancy and metastasis,5136,48991,X-ray metastasis control
+Secondary malignancy and metastasis,5136.00,48991,X-ray metastasis control
 Secondary malignancy and metastasis,B58y700,49145,Secondary malignant neoplasm of penis
 Secondary malignancy and metastasis,B571.00,51551,Secondary malignant neoplasm of mediastinum
 Secondary malignancy and metastasis,B581200,53528,Secondary malignant neoplasm of urethra
@@ -9757,7 +9757,7 @@ Secondary polycythaemia,D410z00,15301,Secondary polycythaemia NOS
 Sick sinus syndrome,G57y300,5576,Sick sinus syndrome
 Sick sinus syndrome,G57y400,7410,Sinoatrial node dysfunction NOS
 Sick sinus syndrome,G566000,18437,Sinoatrial block
-Sickle-cell anaemia,1458,100001,History of sickle cell anaemia
+Sickle-cell anaemia,1458.00,100001,History of sickle cell anaemia
 Sickle-cell anaemia,D104211,31075,Sickle-cell thalassaemia
 Sickle-cell anaemia,D106000,69964,Sickle-cell anaemia of unspecified type
 Sickle-cell anaemia,D106100,32937,Sickle-cell anaemia with no crisis
@@ -9933,7 +9933,7 @@ Somatoform and dissociative disorders,Eu6y300,107644,[X]Factitious disorder
 Spina bifida,7010111,98265,Insertion of Halber valve for spina bifida
 Spina bifida,7043100,5307,Closure of spinal myelomeningocele
 Spina bifida,7043200,29633,Closure of spinal meningocele
-Spina bifida,7043,9298,Repair of spina bifida
+Spina bifida,7043.00,9298,Repair of spina bifida
 Spina bifida,7043y00,50672,Other specified repair of spina bifida
 Spina bifida,7043z00,62742,Repair of spina bifida NOS
 Spina bifida,P100000,5306,"Spina bifida with hydrocephalus, unspecified"
@@ -10154,12 +10154,12 @@ Subdural haematoma,S622200,113577,Subdural h'ge inj no open intracranial wound+<
 Subdural haematoma,7034z00,21410,Drainage of subdural space NOS
 Subdural haematoma,S622400,112566,Subdural h'ge inj no open intracranial wnd+>24 LOC +recovery
 Subdural haematoma,S623300,112452,Subdural h'ge inj + open intracranial wnd+1-24hr loss consc
-Subdural haematoma,7034,18794,Drainage of subdural space
+Subdural haematoma,7034.00,18794,Drainage of subdural space
 Subdural haematoma,S622600,91633,Subdural h'ge inj no open intracran wnd+LOC unspec duration
 Subdural haematoma,S629000,53980,Traumatic subdural haematoma without open intracranial wound
 Subdural haematoma,S622100,114652,Subdural h'ge inj no open intracranial wound+no loss consc
 Supraventricular tachycardia,14AQ.00,12375,History of supraventricular tachycardia
-Supraventricular tachycardia,3274,18357,ECG: paroxysmal atrial tachy.
+Supraventricular tachycardia,3274.00,18357,ECG: paroxysmal atrial tachy.
 Supraventricular tachycardia,G570000,1297,Paroxysmal atrial tachycardia
 Supraventricular tachycardia,G570100,23647,Paroxysmal atrioventricular tachycardia
 Supraventricular tachycardia,G570200,51845,Paroxysmal junctional tachycardia
@@ -10237,10 +10237,10 @@ Thrombophilia,D30A.00,7516,Thrombophilia
 Thrombophilia,D30B.00,26102,Protein C deficiency
 Thrombophilia,N006.00,12177,Antiphospholipid syndrome
 Thyroid disease,143..11,4937,H/O: thyroid disorder
-Thyroid disease,1431,6245,H/O: hyperthyroidism
+Thyroid disease,1431.00,6245,H/O: hyperthyroidism
 Thyroid disease,1431.11,8038,H/O: thyrotoxicosis
-Thyroid disease,1432,3611,H/O: hypothyroidism
-Thyroid disease,1433,35608,H/O: thyroid disorder NOS
+Thyroid disease,1432.00,3611,H/O: hypothyroidism
+Thyroid disease,1433.00,35608,H/O: thyroid disorder NOS
 Thyroid disease,212P.00,26362,Hyperthyroidism resolved
 Thyroid disease,66B..00,8268,Thyroid disease monitoring
 Thyroid disease,66B4.00,28530,Thyroid eye disease
@@ -10351,7 +10351,7 @@ Thyroid disease,C0A5.00,718,Subclinical iodine-deficiency hypothyroidism
 Thyroid disease,PK25011,10704,Retrosternal thyroid gland
 Thyroid disease,C053.11,53667,Riedel's thyroiditis
 Thyroid disease,7110600,34289,Thyroidectomy NEC
-Thyroid disease,7110,7712,Thyroidectomy operations
+Thyroid disease,7110.00,7712,Thyroidectomy operations
 Thyroid disease,7110.11,25323,Excision of thyroid gland operations
 Thyroid disease,C06y.00,43245,Other specified thyroid disorders
 Thyroid disease,L181500,11947,Postpartum thyroiditis
@@ -10371,13 +10371,13 @@ Tinnitus,F583.00,338,Tinnitus
 Tinnitus,F583z00,33737,Tinnitus NOS
 Tinnitus,Z911200,46011,Fit tinnitus masker
 Tinnitus,ZEB..00,45977,Observation of tinnitus
-Trigeminal neuralgia,1475,16481,H/O: trigeminal neuralgia
+Trigeminal neuralgia,1475.00,16481,H/O: trigeminal neuralgia
 Trigeminal neuralgia,A531200,11498,Postherpetic trigeminal neuralgia
 Trigeminal neuralgia,F300.00,7584,Post-herpetic trigeminal neuralgia
 Trigeminal neuralgia,F301000,4912,Tic douloureux
 Trigeminal neuralgia,F301.00,1541,Other specified trigeminal neuralgia
 Trigeminal neuralgia,F301z00,6581,Trigeminal neuralgia NOS
-Tuberculosis,1411,5319,H/O: tuberculosis
+Tuberculosis,1411.00,5319,H/O: tuberculosis
 Tuberculosis,14P9.00,100469,History of tuberculosis drug therapy
 Tuberculosis,65V9.00,32180,Notification of tuberculosis
 Tuberculosis,65V9.11,16582,TB - tuberculosis notification
@@ -10642,13 +10642,13 @@ Ulcerative colitis,J41z.00,15207,Idiopathic proctocolitis NOS
 Ulcerative colitis,Jyu4100,53743,[X]Other ulcerative colitis
 Ulcerative colitis,N031000,17641,Arthropathy in ulcerative colitis
 Ulcerative colitis,N045400,71083,Juvenile arthritis in ulcerative colitis
-Urinary Incontinence,1593,15918,H/O: stress incontinence
+Urinary Incontinence,1593.00,15918,H/O: stress incontinence
 Urinary Incontinence,16F..00,5196,Double incontinence
 Urinary Incontinence,1A23.00,6161,Incontinence of urine
 Urinary Incontinence,1A24.00,1929,Stress incontinence
 Urinary Incontinence,1A24.11,5844,Stress incontinence - symptom
 Urinary Incontinence,1A26.00,3887,Urge incontinence of urine
-Urinary Incontinence,3940,13421,Bladder: incontinent
+Urinary Incontinence,3940.00,13421,Bladder: incontinent
 Urinary Incontinence,7B33800,98767,Insertion retropubic device stress urinary incontinence NEC
 Urinary Incontinence,7B33C00,94021,Insertion retropubic dev fem stress urinary incontinence NEC
 Urinary Incontinence,7B42111,58675,Insertion of Kaufman prosthesis for male incontinence
@@ -10900,9 +10900,9 @@ Visual impairment and blindness,2B7W.00,38168,O/E - L-eye visual acuity (correct
 Visual impairment and blindness,2B7X.00,65569,O/E - L-eye visual acuity (corrected) 5/60
 Visual impairment and blindness,2BBo.00,52630,O/E - sight threatening diabetic retinopathy
 Visual impairment and blindness,2BBr.00,101881,Impaired vision due to diabetic retinopathy
-Visual impairment and blindness,6688,2746,Registered partially sighted
+Visual impairment and blindness,6688.00,2746,Registered partially sighted
 Visual impairment and blindness,6688.11,6768,Registered partially blind
-Visual impairment and blindness,6689,510,Registered blind
+Visual impairment and blindness,6689.00,510,Registered blind
 Visual impairment and blindness,6689.11,101051,Registered severely sight impaired
 Visual impairment and blindness,668B.00,555,Poor visual acuity
 Visual impairment and blindness,668C.00,13152,Certificate of vision impairment
@@ -11001,7 +11001,7 @@ Visual impairment and blindness,ZN56A00,110179,Deaf-blind telephone user
 Visual impairment and blindness,ZRhO.00,52227,Reynell Zinkin language scale for the visually impaired
 Visual impairment and blindness,ZRr6.00,90766,Vineland maturity scales adapted for the blind
 Visual impairment and blindness,ZV41000,6661,[V]Problems with sight
-Vitamin B12 deficiency anaemia,1452,54738,H/O: Anaemia vit.B12 deficient
+Vitamin B12 deficiency anaemia,1452.00,54738,H/O: Anaemia vit.B12 deficient
 Vitamin B12 deficiency anaemia,66E1.00,11126,B12 defic. initial assessment
 Vitamin B12 deficiency anaemia,66E2.00,8013,B12 defic.follow-up assessment
 Vitamin B12 deficiency anaemia,66E3.00,31126,B12 injections started
