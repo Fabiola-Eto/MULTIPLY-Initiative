@@ -1,11 +1,9 @@
 Disease,ReadCode,MedCode,ReadTerm
 Aortic aneurysm,7A11000,96654,Emerg repl aneurysm bifurc aorta by anast aorta to fem art
 Aortic aneurysm,7A11200,69922,Emerg repl aneurysm bifurc aorta by anast aorta to iliac a
-Aortic aneurysm,7A11211,92925,Y graft of abdominal Aortic aneurysm (emergency)
 Aortic aneurysm,7A13.00,31613,Emergency replacement of aneurysmal segment of aorta
 Aortic aneurysm,7A13.11,17220,Emergency repair of aortic aneurysm
 Aortic aneurysm,7A13300,66232,Emerg replace aneurysm infrarenal aorta by anast aorta/aorta
-Aortic aneurysm,7A13400,54192,Emerg replace aneurysm abdom aorta by anast aorta/aorta NEC
 Aortic aneurysm,7A13411,63408,Tube graft abdominal Aortic aneurysm (emergency)
 Aortic aneurysm,7A13y00,45477,Emergency replacement of aneurysmal segment of aorta OS
 Aortic aneurysm,7A13z00,45474,Emergency replacement of aneurysmal segment of aorta NOS
