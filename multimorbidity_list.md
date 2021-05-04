@@ -9,7 +9,7 @@ The code set files are hosted in the folder [codesets_included_conditions](https
 
 All code sets have been thoroughly clinically revised by Dr Sarah Finer and Dr Miriam Samuel. 
 
-Please, note that only for 'Constipation (Treated)' we have two code lists - one composed by Prod codes (prescription codes), and another composed by Read codes. 
+Please, note that only for 'Constipation' we have two code lists - one composed by Prod codes (prescription codes), and another composed by Read v2 codes. Additionally, 'Painful conditions' were defined using only Prod codes. 
 >
 >
 | Count | Conditions included                                                                          | File name                                |
