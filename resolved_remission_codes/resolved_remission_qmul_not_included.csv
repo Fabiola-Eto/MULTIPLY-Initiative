@@ -1,0 +1,24 @@
+MedCode,ReadCode,ReadTerm
+8390,2126.13,Patient's condition resolved
+100784,2126400,Heart failure resolved
+101386,2126500,Osteoporosis resolved
+101249,2126600,Osteopenia resolved
+104113,2126900,Impaired glucose tolerance resolved
+104677,2126A00,Proteinuria resolved
+105262,2126B00,Impaired fasting glycaemia resolved
+109068,2126D00,Cow's milk protein allergy symptoms resolved
+109750,2126E00,Chronic kidney disease resolved
+109683,2126F00,Chronic obstructive pulmonary disease resolved
+110702,2126G00,Immunosuppression resolved
+18237,212F.00,Patient in remission
+60972,212L.00,Patient in early remission
+59846,212M.00,Patient in partial remission
+12294,212N.00,Patient in full remission
+19345,212T.00,"Psychosis, schizophrenia + bipolar affective disord resolved"
+17722,2E44.00,O/E - fever - remittent
+31798,3616.00,Check endoscopy - condition resolved
+51033,9g2..00,Significant event resolved
+31569,E250300,Nondependent alcohol abuse in remission
+72706,E251300,Tobacco dependence in remission
+114666,F462300,Partial resolved traumatic cataract
+36849,ZV64400,[V]Operation not carried out as condition resolved
