@@ -20,8 +20,10 @@ Bipolar affective disorder and mania,E116600,55064,"Mixed bipolar affective diso
 Bipolar affective disorder and mania,E117500,70721,"Unspecified bipolar affect disord, partial/unspec remission"
 Bipolar affective disorder and mania,E117600,24230,"Unspecified bipolar affective disorder, in full remission"
 Bipolar affective disorder and mania,Eu31700,27584,"[X]Bipolar affective disorder, currently in remission"
+Chronic Kidney Disease,2126E00,109750,Chronic kidney disease resolved
 Chronic viral hepatitis,2126700,102372,Hepatitis C resolved
 Congenital cardiac disease,2126800,104307,Ostium secundum atrial septal defect resolved
+COPD,2126F00,109683,Chronic obstructive pulmonary disease resolved
 Depression,212S.00,19439,Depression resolved
 Depression,E112500,43324,"Single major depressive episode, partial or unspec remission"
 Depression,E112600,57409,"Single major depressive episode, in full remission"
@@ -40,10 +42,13 @@ Diabetes,C10P111,110611,Type 2 diabetes mellitus in remission
 Enthesopathies & synovial disorders,N04y300,102873,Remitting seronegative symmetrical synovitis pitting oedema
 Epilepsy,2126000,8385,Epilepsy resolved
 Epilepsy,212J.00,12848,Epilepsy resolved
+Heart failure,2126400,100784,Heart failure resolved
 Hypertension,2126100,3269,Hypertension resolved
 Hypertension,212K.00,19342,Hypertension resolved
 Multiple sclerosis,F207.00,95972,Relapsing and remitting multiple sclerosis
 Obesity,212Q.00,52703,Obesity resolved
+Osteoporosis,2126500,101386,Osteoporosis resolved
+Osteoporosis,2126600,101249,Osteopenia resolved
 Other psychoactive substance misuse,E240300,27960,Opioid dependence in remission
 Other psychoactive substance misuse,E241300,48702,Hypnotic or anxiolytic dependence in remission
 Other psychoactive substance misuse,E242300,52765,Cocaine dependence in remission
@@ -72,11 +77,6 @@ Schizophrenia and non-organic psychosis,E105500,96883,Latent schizophrenia in re
 Schizophrenia and non-organic psychosis,E103500,36172,Paranoid schizophrenia in remission
 Schizophrenia and non-organic psychosis,E102500,102427,Catatonic schizophrenia in remission
 Schizophrenia and non-organic psychosis,E101500,67768,Hebephrenic schizophrenia in remission
+Schizophrenia and non-organic psychosis,212T.00,19345,"Psychosis, schizophrenia + bipolar affective disord resolved"
 Scoliosis,N373200,36682,Resolving infantile idiopathic scoliosis
 Thyroid disease,212P.00,26362,Hyperthyroidism resolved
-Heart failure,2126400,100784,Heart failure resolved
-Osteoporosis,2126500,101386,Osteoporosis resolved
-Osteoporosis,2126600,101249,Osteopenia resolved
-Chronic Kidney Disease,2126E00,109750,Chronic kidney disease resolved
-COPD,2126F00,109683,Chronic obstructive pulmonary disease resolved
-Schizophrenia and non-organic psychosis,212T.00,19345,"Psychosis, schizophrenia + bipolar affective disord resolved"
