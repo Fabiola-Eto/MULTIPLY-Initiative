@@ -1,76 +1,82 @@
-"","Disease","ReadCode","MedCode","ReadTerm"
-"1","Alcohol dependence and related disease","8W2..00",109105,"Referral to mental health services deferred until alcohol misuse resolved"
-"2","Alcohol dependence and related disease","2126C00",109108,"Alcohol dependence resolved"
-"3","Alcohol dependence and related disease","E230300",59574,"Acute alcoholic intoxication in remission, in alcoholism"
-"4","Alcohol dependence and related disease","E231300",24485,"Chronic alcoholism in remission"
-"5","Asthma","2126200",10996,"Asthma resolved"
-"6","Asthma","212G.00",11839,"Asthma resolved"
-"7","Atrial fibrillation and flutter","212R.00",28994,"Atrial fibrillation resolved"
-"8","Bipolar affective disorder and mania","212V.00",85102,"Bipolar affective disorder resolved"
-"9","Bipolar affective disorder and mania","E110500",109485,"Single manic episode in partial or unspecified remission"
-"10","Bipolar affective disorder and mania","E110600",70000,"Single manic episode in full remission"
-"11","Bipolar affective disorder and mania","E111500",58863,"Recurrent manic episodes, partial or unspecified remission"
-"12","Bipolar affective disorder and mania","E111600",37178,"Recurrent manic episodes, in full remission"
-"13","Bipolar affective disorder and mania","E114500",59011,"Bipolar affect disord,currently manic, part/unspec remission"
-"14","Bipolar affective disorder and mania","E114600",63784,"Bipolar affective disorder, currently manic, full remission"
-"15","Bipolar affective disorder and mania","E115500",72026,"Bipolar affect disord, now depressed, part/unspec remission"
-"16","Bipolar affective disorder and mania","E115600",57465,"Bipolar affective disorder, now depressed, in full remission"
-"17","Bipolar affective disorder and mania","E116500",63651,"Mixed bipolar affective disorder, partial/unspec remission"
-"18","Bipolar affective disorder and mania","E116600",55064,"Mixed bipolar affective disorder, in full remission"
-"19","Bipolar affective disorder and mania","E117500",70721,"Unspecified bipolar affect disord, partial/unspec remission"
-"20","Bipolar affective disorder and mania","E117600",24230,"Unspecified bipolar affective disorder, in full remission"
-"21","Bipolar affective disorder and mania","Eu31700",27584,"[X]Bipolar affective disorder, currently in remission"
-"22","Chronic viral hepatitis","2126700",102372,"Hepatitis C resolved"
-"23","Congenital cardiac disease","2126800",104307,"Ostium secundum atrial septal defect resolved"
-"24","Depression","212S.00",19439,"Depression resolved"
-"25","Depression","E112500",43324,"Single major depressive episode, partial or unspec remission"
-"26","Depression","E112600",57409,"Single major depressive episode, in full remission"
-"27","Depression","E113500",56273,"Recurrent major depressive episodes,partial/unspec remission"
-"28","Depression","E113600",55384,"Recurrent major depressive episodes, in full remission"
-"29","Depression","Eu32900",101054,"[X]Single major depr ep, severe with psych, psych in remiss"
-"30","Depression","Eu32A00",101153,"[X]Recurr major depr ep, severe with psych, psych in remiss"
-"31","Depression","Eu33400",22116,"[X]Recurrent depressive disorder, currently in remission"
-"32","Diabetes","2126300",28622,"Diabetes resolved"
-"33","Diabetes","212H.00",18766,"Diabetes resolved"
-"34","Diabetes","C10P.00",107603,"Diabetes mellitus in remission"
-"35","Diabetes","C10P000",108360,"Type I diabetes mellitus in remission"
-"36","Diabetes","C10P011",109628,"Type 1 diabetes mellitus in remission"
-"37","Diabetes","C10P100",107824,"Type II diabetes mellitus in remission"
-"38","Diabetes","C10P111",110611,"Type 2 diabetes mellitus in remission"
-"39","Enthesopathies & synovial disorders","N04y300",102873,"Remitting seronegative symmetrical synovitis pitting oedema"
-"40","Epilepsy","2126000",8385,"Epilepsy resolved"
-"41","Epilepsy","212J.00",12848,"Epilepsy resolved"
-"42","Hypertension","2126100",3269,"Hypertension resolved"
-"43","Hypertension","212K.00",19342,"Hypertension resolved"
-"44","Multiple sclerosis","F207.00",95972,"Relapsing and remitting multiple sclerosis"
-"45","Obesity","212Q.00",52703,"Obesity resolved"
-"46","Other psychoactive substance misuse","E240300",27960,"Opioid dependence in remission"
-"47","Other psychoactive substance misuse","E241300",48702,"Hypnotic or anxiolytic dependence in remission"
-"48","Other psychoactive substance misuse","E242300",52765,"Cocaine dependence in remission"
-"49","Other psychoactive substance misuse","E243300",44991,"Cannabis dependence in remission"
-"50","Other psychoactive substance misuse","E244300",46800,"Amphetamine or psychostimulant dependence in remission"
-"51","Other psychoactive substance misuse","E245300",70578,"Hallucinogen dependence in remission"
-"52","Other psychoactive substance misuse","E246300",70761,"Glue sniffing dependence in remission"
-"53","Other psychoactive substance misuse","E247300",64269,"Other specified drug dependence in remission"
-"54","Other psychoactive substance misuse","E248300",52451,"Combined opioid with other drug dependence in remission"
-"55","Other psychoactive substance misuse","E249300",70900,"Combined drug dependence, excluding opioid, in remission"
-"56","Other psychoactive substance misuse","E252300",53071,"Nondependent cannabis abuse in remission"
-"57","Other psychoactive substance misuse","E253300",67462,"Nondependent hallucinogen abuse in remission"
-"58","Other psychoactive substance misuse","E254300",68396,"Nondependent hypnotic or anxiolytic abuse in remission"
-"59","Other psychoactive substance misuse","E255300",95953,"Nondependent opioid abuse in remission"
-"60","Other psychoactive substance misuse","E256300",58934,"Nondependent cocaine abuse in remission"
-"61","Other psychoactive substance misuse","E257300",43176,"Nondependent amphetamine/psychostimulant abuse in remission"
-"62","Other psychoactive substance misuse","E259300",52842,"Nondependent mixed drug abuse in remission"
-"63","Other psychoactive substance misuse","E25y300",52846,"Nondependent other drug abuse in remission"
-"64","Schizophrenia and non-organic psychosis","212W.00",88275,"Schizophrenia resolved"
-"65","Schizophrenia and non-organic psychosis","212X.00",85972,"Psychosis resolved"
-"66","Schizophrenia and non-organic psychosis","E100500",58687,"Schizophrenia in remission"
-"67","Schizophrenia and non-organic psychosis","E107500",56438,"Schizo-affective schizophrenia in remission"
-"68","Schizophrenia and non-organic psychosis","Eu26.00",101987,"[X]Nonorganic psychosis in remission"
-"69","Schizophrenia and non-organic psychosis","Eu22300",101720,"[X]Paranoid state in remission"
-"70","Schizophrenia and non-organic psychosis","E105500",96883,"Latent schizophrenia in remission"
-"71","Schizophrenia and non-organic psychosis","E103500",36172,"Paranoid schizophrenia in remission"
-"72","Schizophrenia and non-organic psychosis","E102500",102427,"Catatonic schizophrenia in remission"
-"73","Schizophrenia and non-organic psychosis","E101500",67768,"Hebephrenic schizophrenia in remission"
-"74","Scoliosis","N373200",36682,"Resolving infantile idiopathic scoliosis"
-"75","Thyroid disease","212P.00",26362,"Hyperthyroidism resolved"
+Disease,ReadCode,MedCode,ReadTerm
+Alcohol dependence and related disease,8W2..00,109105,Referral to mental health services deferred until alcohol misuse resolved
+Alcohol dependence and related disease,2126C00,109108,Alcohol dependence resolved
+Alcohol dependence and related disease,E230300,59574,"Acute alcoholic intoxication in remission, in alcoholism"
+Alcohol dependence and related disease,E231300,24485,Chronic alcoholism in remission
+Asthma,2126200,10996,Asthma resolved
+Asthma,212G.00,11839,Asthma resolved
+Atrial fibrillation and flutter,212R.00,28994,Atrial fibrillation resolved
+Bipolar affective disorder and mania,212V.00,85102,Bipolar affective disorder resolved
+Bipolar affective disorder and mania,E110500,109485,Single manic episode in partial or unspecified remission
+Bipolar affective disorder and mania,E110600,70000,Single manic episode in full remission
+Bipolar affective disorder and mania,E111500,58863,"Recurrent manic episodes, partial or unspecified remission"
+Bipolar affective disorder and mania,E111600,37178,"Recurrent manic episodes, in full remission"
+Bipolar affective disorder and mania,E114500,59011,"Bipolar affect disord,currently manic, part/unspec remission"
+Bipolar affective disorder and mania,E114600,63784,"Bipolar affective disorder, currently manic, full remission"
+Bipolar affective disorder and mania,E115500,72026,"Bipolar affect disord, now depressed, part/unspec remission"
+Bipolar affective disorder and mania,E115600,57465,"Bipolar affective disorder, now depressed, in full remission"
+Bipolar affective disorder and mania,E116500,63651,"Mixed bipolar affective disorder, partial/unspec remission"
+Bipolar affective disorder and mania,E116600,55064,"Mixed bipolar affective disorder, in full remission"
+Bipolar affective disorder and mania,E117500,70721,"Unspecified bipolar affect disord, partial/unspec remission"
+Bipolar affective disorder and mania,E117600,24230,"Unspecified bipolar affective disorder, in full remission"
+Bipolar affective disorder and mania,Eu31700,27584,"[X]Bipolar affective disorder, currently in remission"
+Chronic viral hepatitis,2126700,102372,Hepatitis C resolved
+Congenital cardiac disease,2126800,104307,Ostium secundum atrial septal defect resolved
+Depression,212S.00,19439,Depression resolved
+Depression,E112500,43324,"Single major depressive episode, partial or unspec remission"
+Depression,E112600,57409,"Single major depressive episode, in full remission"
+Depression,E113500,56273,"Recurrent major depressive episodes,partial/unspec remission"
+Depression,E113600,55384,"Recurrent major depressive episodes, in full remission"
+Depression,Eu32900,101054,"[X]Single major depr ep, severe with psych, psych in remiss"
+Depression,Eu32A00,101153,"[X]Recurr major depr ep, severe with psych, psych in remiss"
+Depression,Eu33400,22116,"[X]Recurrent depressive disorder, currently in remission"
+Diabetes,2126300,28622,Diabetes resolved
+Diabetes,212H.00,18766,Diabetes resolved
+Diabetes,C10P.00,107603,Diabetes mellitus in remission
+Diabetes,C10P000,108360,Type I diabetes mellitus in remission
+Diabetes,C10P011,109628,Type 1 diabetes mellitus in remission
+Diabetes,C10P100,107824,Type II diabetes mellitus in remission
+Diabetes,C10P111,110611,Type 2 diabetes mellitus in remission
+Enthesopathies & synovial disorders,N04y300,102873,Remitting seronegative symmetrical synovitis pitting oedema
+Epilepsy,2126000,8385,Epilepsy resolved
+Epilepsy,212J.00,12848,Epilepsy resolved
+Hypertension,2126100,3269,Hypertension resolved
+Hypertension,212K.00,19342,Hypertension resolved
+Multiple sclerosis,F207.00,95972,Relapsing and remitting multiple sclerosis
+Obesity,212Q.00,52703,Obesity resolved
+Other psychoactive substance misuse,E240300,27960,Opioid dependence in remission
+Other psychoactive substance misuse,E241300,48702,Hypnotic or anxiolytic dependence in remission
+Other psychoactive substance misuse,E242300,52765,Cocaine dependence in remission
+Other psychoactive substance misuse,E243300,44991,Cannabis dependence in remission
+Other psychoactive substance misuse,E244300,46800,Amphetamine or psychostimulant dependence in remission
+Other psychoactive substance misuse,E245300,70578,Hallucinogen dependence in remission
+Other psychoactive substance misuse,E246300,70761,Glue sniffing dependence in remission
+Other psychoactive substance misuse,E247300,64269,Other specified drug dependence in remission
+Other psychoactive substance misuse,E248300,52451,Combined opioid with other drug dependence in remission
+Other psychoactive substance misuse,E249300,70900,"Combined drug dependence, excluding opioid, in remission"
+Other psychoactive substance misuse,E252300,53071,Nondependent cannabis abuse in remission
+Other psychoactive substance misuse,E253300,67462,Nondependent hallucinogen abuse in remission
+Other psychoactive substance misuse,E254300,68396,Nondependent hypnotic or anxiolytic abuse in remission
+Other psychoactive substance misuse,E255300,95953,Nondependent opioid abuse in remission
+Other psychoactive substance misuse,E256300,58934,Nondependent cocaine abuse in remission
+Other psychoactive substance misuse,E257300,43176,Nondependent amphetamine/psychostimulant abuse in remission
+Other psychoactive substance misuse,E259300,52842,Nondependent mixed drug abuse in remission
+Other psychoactive substance misuse,E25y300,52846,Nondependent other drug abuse in remission
+Schizophrenia and non-organic psychosis,212W.00,88275,Schizophrenia resolved
+Schizophrenia and non-organic psychosis,212X.00,85972,Psychosis resolved
+Schizophrenia and non-organic psychosis,E100500,58687,Schizophrenia in remission
+Schizophrenia and non-organic psychosis,E107500,56438,Schizo-affective schizophrenia in remission
+Schizophrenia and non-organic psychosis,Eu26.00,101987,[X]Nonorganic psychosis in remission
+Schizophrenia and non-organic psychosis,Eu22300,101720,[X]Paranoid state in remission
+Schizophrenia and non-organic psychosis,E105500,96883,Latent schizophrenia in remission
+Schizophrenia and non-organic psychosis,E103500,36172,Paranoid schizophrenia in remission
+Schizophrenia and non-organic psychosis,E102500,102427,Catatonic schizophrenia in remission
+Schizophrenia and non-organic psychosis,E101500,67768,Hebephrenic schizophrenia in remission
+Scoliosis,N373200,36682,Resolving infantile idiopathic scoliosis
+Thyroid disease,212P.00,26362,Hyperthyroidism resolved
+Heart failure,2126400,100784,Heart failure resolved
+Osteoporosis,2126500,101386,Osteoporosis resolved
+Osteoporosis,2126600,101249,Osteopenia resolved
+Chronic Kidney Disease,2126E00,109750,Chronic kidney disease resolved
+COPD,2126F00,109683,Chronic obstructive pulmonary disease resolved
+Schizophrenia and non-organic psychosis,212T.00,19345,"Psychosis, schizophrenia + bipolar affective disord resolved"
