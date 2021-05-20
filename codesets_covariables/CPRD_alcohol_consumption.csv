@@ -1,0 +1,116 @@
+Condition,ReadCode,MedCode,ReadTerm
+Alcohol consumption,136..00,27,Alcohol consumption
+Alcohol consumption,1364.00,322,Moderate drinker - 3-6u/day
+Alcohol consumption,1362.11,385,Drinks rarely
+Alcohol consumption,E250000,669,"Nondependent alcohol abuse, unspecified"
+Alcohol consumption,1362.12,749,Drinks occasionally
+Alcohol consumption,1367.00,967,Stopped drinking alcohol
+Alcohol consumption,E23..12,1399,Alcohol problem drinking
+Alcohol consumption,1365.00,1618,Heavy drinker - 7-9u/day
+Alcohol consumption,1361.12,4447,Non-drinker alcohol
+Alcohol consumption,E250.00,7746,Nondependent alcohol abuse
+Alcohol consumption,136P.00,8999,Heavy drinker
+Alcohol consumption,68S..00,9264,Alcohol consumption screen
+Alcohol consumption,1361.00,12949,Teetotaller
+Alcohol consumption,1361.11,12970,Non drinker alcohol
+Alcohol consumption,1363.00,12972,Light drinker - 1-2u/day
+Alcohol consumption,E250200,12974,"Nondependent alcohol abuse, episodic"
+Alcohol consumption,1362.00,12975,Trivial drinker - <1u/day
+Alcohol consumption,1366.00,12977,Very heavy drinker - >9u/day
+Alcohol consumption,136M.00,12979,Current non drinker
+Alcohol consumption,136N.00,12980,Light drinker
+Alcohol consumption,136Z.00,12981,Alcohol consumption NOS
+Alcohol consumption,136K.00,12982,Alcohol intake above recommended sensible limits
+Alcohol consumption,136Q.00,12984,Very heavy drinker
+Alcohol consumption,136O.00,12985,Moderate drinker
+Alcohol consumption,ZV11311,16587,[V]Problems related to lifestyle alcohol use
+Alcohol consumption,136R.00,19401,Binge drinker
+Alcohol consumption,6892.00,19489,Alcohol consumption screen
+Alcohol consumption,136S.00,19494,Hazardous alcohol use
+Alcohol consumption,E250100,23610,"Nondependent alcohol abuse, continuous"
+Alcohol consumption,E250z00,28150,Nondependent alcohol abuse NOS
+Alcohol consumption,136T.00,30695,Harmful alcohol use
+Alcohol consumption,ZR1F.00,32850,Alcohol use disorders identification test
+Alcohol consumption,ZR1F.11,59873,AUDIT - Alcohol use disorders identification test
+Alcohol consumption,388u.00,93624,Fast alcohol screening test
+Alcohol consumption,136W.00,94670,Alcohol misuse
+Alcohol consumption,38D3.00,94838,Alcohol use disorders identification test
+Alcohol consumption,9k16.00,94963,Alcohol screen - fast alcohol screening test completed
+Alcohol consumption,38D4.00,95744,Alcohol use disorder identificatn test consumptn questionnre
+Alcohol consumption,136b.00,99877,Feels should cut down drinking
+Alcohol consumption,136c.00,102448,Higher risk drinking
+Alcohol consumption,136a.00,102665,Increasing risk drinking
+Alcohol consumption,136d.00,103230,Lower risk drinking
+Alcohol consumption,1362.11,385,Drinks rarely
+Alcohol consumption,1362.12,749,Drinks occasionally
+Alcohol consumption,136J.00,956,Social drinker
+Alcohol consumption,E010.12,1476,Delirium tremens
+Alcohol consumption,E23..11,2081,Alcoholism
+Alcohol consumption,E01y000,2082,Alcohol withdrawal syndrome
+Alcohol consumption,E23..00,2084,Alcohol dependence syndrome
+Alcohol consumption,136G.00,2689,Beer drinker
+Alcohol consumption,E250.14,3782,Intoxication - alcohol
+Alcohol consumption,1361.12,4447,Non-drinker alcohol
+Alcohol consumption,E230.00,5740,Acute alcoholic intoxication in alcoholism
+Alcohol consumption,Eu10212,5758,[x]chronic alcoholism
+Alcohol consumption,E23z.00,6169,Alcohol dependence syndrome nos
+Alcohol consumption,Eu10511,6467,[x]alcoholic hallucinosis
+Alcohol consumption,ZV6D600,8030,[v]alcohol abuse counselling and surveillance
+Alcohol consumption,Eu10011,9508,[x]acute alcoholic drunkenness
+Alcohol consumption,2577.11,10161,O/e - alcoholic breath
+Alcohol consumption,9k1..00,11740,Alcohol misuse - enhanced services administration
+Alcohol consumption,E250.11,12271,Drunkenness nos
+Alcohol consumption,66e..00,12442,Alcohol disorder monitoring
+Alcohol consumption,136H.00,12968,Drinks beer and spirits
+Alcohol consumption,136I.00,12969,Drinks wine
+Alcohol consumption,1361.11,12970,Non drinker alcohol
+Alcohol consumption,136F.00,12971,Spirit drinker
+Alcohol consumption,E010.00,16225,Alcohol withdrawal delirium
+Alcohol consumption,Eu10411,17259,"[x]delirium tremens, alcohol induced"
+Alcohol consumption,E250.13,17777,Inebriety nos
+Alcohol consumption,E014.11,20407,Drunkenness - pathological
+Alcohol consumption,Eu10300,20514,[x]mental and behav dis due to use alcohol: withdrawal state
+Alcohol consumption,E230200,21624,Episodic acute alcoholic intoxication in alcoholism
+Alcohol consumption,Eu10100,21879,[x]mental and behav dis due to use of alcohol: harmful use
+Alcohol consumption,E010.11,22277,Dts - delirium tremens
+Alcohol consumption,E231100,24064,Continuous chronic alcoholism
+Alcohol consumption,2577.00,24735,O/e - breath - alcohol smell
+Alcohol consumption,E013.00,25110,Alcohol withdrawal hallucinosis
+Alcohol consumption,E231200,26106,Episodic chronic alcoholism
+Alcohol consumption,136L.00,26472,Alcohol intake within recommended sensible limits
+Alcohol consumption,E250.12,27518,Hangover (alcohol)
+Alcohol consumption,Eu10211,28780,[x]alcohol addiction
+Alcohol consumption,Eu10513,30162,[x]alcoholic paranoia
+Alcohol consumption,E015.00,30404,Alcoholic paranoia
+Alcohol consumption,Z4B1.00,30460,Alcoholism counselling
+Alcohol consumption,E231.00,31443,Chronic alcoholism
+Alcohol consumption,Eu10800,32927,[x]alcohol withdrawal-induced seizure
+Alcohol consumption,E231z00,33635,Chronic alcoholism nos
+Alcohol consumption,9k11.00,35330,Alcohol consumption counselling
+Alcohol consumption,E230z00,36296,Acute alcoholic intoxication in alcoholism nos
+Alcohol consumption,E231.11,37605,Dipsomania
+Alcohol consumption,1B1c.00,38061,Alcohol induced hallucinations
+Alcohol consumption,Eu10200,39327,[x]mental and behav dis due to use alcohol: dependence syndr
+Alcohol consumption,E230000,40530,"Acute alcoholic intoxication, unspecified, in alcoholism"
+Alcohol consumption,E231000,43193,Unspecified chronic alcoholism
+Alcohol consumption,Eu10000,44299,[x]mental & behav dis due to use alcohol: acute intoxication
+Alcohol consumption,ZC2H.00,54209,Advice to change alcohol intake
+Alcohol consumption,E230100,56947,Continuous acute alcoholic intoxication in alcoholism
+Alcohol consumption,E230.11,57714,Alcohol dependence with acute alcoholic intoxication
+Alcohol consumption,E014.00,57939,Pathological alcohol intoxication
+Alcohol consumption,Z191200,61383,Planned reduction of alcohol consumption
+Alcohol consumption,Eu10400,64101,[x]men & behav dis due alcohl: withdrawl state with delirium
+Alcohol consumption,Eu10512,65932,[x]alcoholic jealousy
+Alcohol consumption,Z191211,95181,Alcohol reduction programme
+Alcohol consumption,ZC22100,95650,Advice to change drink intake
+Alcohol consumption,ZC22200,97163,Advice to change alcoholic drink intake
+Alcohol consumption,8IAF.00,97261,Brief intervention for excessive alcohol consumptn declined
+Alcohol consumption,8CAv.00,97309,Advised to contact primary care alcohol worker
+Alcohol consumption,8IAJ.00,97680,Declined referral to specialist alcohol treatment service
+Alcohol consumption,136Y.00,101718,Drinks in morning to get rid of hangover
+Alcohol consumption,8IAt.00,102247,Extended interven for excessive alcohol consumption declined
+Alcohol consumption,8IEA.00,103459,Referral to community alcohol team declined
+Alcohol consumption,9k15.00,90714,Alcohol screen - audit completed
+Alcohol consumption,9k18.00,94485,Alcohol screen - audit pc completed
+Alcohol consumption,9k17.00,95663,Alcohol screen - audit c completed
+Alcohol consumption,38D5.00,97501,Alcoh use disor id test piccinelli consumption questionnaire
