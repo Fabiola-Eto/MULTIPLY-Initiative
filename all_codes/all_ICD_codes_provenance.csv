@@ -364,8 +364,8 @@ Congenital cardiac disease,Q24.9,"Congenital malformation of heart, unspecified"
 Congenital cardiac disease,Q25.1,Coarctation of aorta,Cross-mapped,NA
 Congenital cardiac disease,Q25.4,Other congenital malformations of aorta,Cross-mapped,NA
 Congenital cardiac disease,Q25.6,Stenosis of pulmonary artery,Cross-mapped,NA
-Constipation,K58.9,Irritable bowel syndrome without diarrhoea,Cross-mapped,NA
-Constipation,K59.0,Constipation,Overlap,NA
+Constipation,K58.9,Irritable bowel syndrome without diarrhoea,New code list,NA
+Constipation,K59.0,Constipation,New code list,NA
 COPD,J40,Bronchitis,Kuan,NA
 COPD,J41,Simple and mucopurulent chronic bronchitis,Kuan,NA
 COPD,J41.0,Simple chronic bronchitis,Cross-mapped,NA
@@ -819,7 +819,7 @@ Female infertility,Z31,Procreative management,Cross-mapped,NA
 Female infertility,Z31.8,Other procreative management,Cross-mapped,NA
 Female infertility,Z31.9,"Procreative management, unspecified",Cross-mapped,NA
 Female infertility,Z35.0,Supervision of pregnancy with history of infertility,Cross-mapped,NA
-Fibromyalgia,M79.7,Fibromyalgia,Overlap,NA
+Fibromyalgia,M79.7,Fibromyalgia,New code list,NA
 Folate deficiency anaemia,D52,Folate deficiency anaemia,Kuan,NA
 Folate deficiency anaemia,D52.0,Dietary folate deficiency anaemia,Cross-mapped,NA
 Folate deficiency anaemia,D52.1,Drug-induced folate deficiency anaemia,Cross-mapped,NA
@@ -1063,7 +1063,7 @@ Hyperparathyroidism,E21.2,Other hyperparathyroidism,Overlap,NA
 Hyperparathyroidism,E21.3,Hyperparathyroidism unspecified,Overlap,NA
 Hyperparathyroidism,E34.2,"Ectopic hormone secretion, not elsewhere classified",Cross-mapped,NA
 Hyperplasia of prostate,N40,Hyperplasia of prostate,Overlap,NA
-Hyperprolactinaemia and prolactinoma,E22.1,Hyperprolactinaemia,Overlap,NA
+Hyperprolactinaemia and prolactinoma,E22.1,Hyperprolactinaemia,New code list,NA
 Hypertension,E26.0,Primary hyperaldosteronism,Cross-mapped,NA
 Hypertension,E26.9,"Hyperaldosteronism, unspecified",Cross-mapped,NA
 Hypertension,H35.0,Background retinopathy and retinal vascular changes,Cross-mapped,NA
@@ -1786,58 +1786,58 @@ Peripheral arterial disease,I745,Embolism and thrombosis of iliac artery,Kuan,NA
 Peripheral arterial disease,L97,"Ulcer of lower limb, not elsewhere classified",Cross-mapped,NA
 Peripheral arterial disease,R02,"Gangrene, not elsewhere classified",Cross-mapped,NA
 Peripheral arterial disease,R57.9,"Shock, unspecified",Cross-mapped,NA
-Peripheral venous and lymphatic disease,I78.0,Hereditary haemorrhagic telangiectasia,Kuan,NA
-Peripheral venous and lymphatic disease,I80.1,Phlebitis and thrombophlebitis of femoral vein,Kuan,NA
-Peripheral venous and lymphatic disease,I81,Portal vein thrombosis,Kuan,NA
-Peripheral venous and lymphatic disease,I82.3,Embolism and thrombosis of renal vein,Kuan,NA
-Peripheral venous and lymphatic disease,I82.8,Embolism and thrombosis of other specified veins,Kuan,NA
-Peripheral venous and lymphatic disease,I82.9,Embolism and thrombosis of unspecified vein,Kuan,NA
-Peripheral venous and lymphatic disease,I83,Varicose veins of lower extremities,Overlap,NA
-Peripheral venous and lymphatic disease,I83.0,Varicose veins of lower extremities with ulcer,Overlap,NA
-Peripheral venous and lymphatic disease,I83.1,Varicose veins of lower extremities with inflammation,Overlap,NA
-Peripheral venous and lymphatic disease,I83.2,Varicose veins of lower extremities with both ulcer and inflammation,Overlap,NA
-Peripheral venous and lymphatic disease,I83.9,Varicose veins of lower extremities without ulcer or inflammation,Overlap,NA
-Peripheral venous and lymphatic disease,I86,Varicose veins of other sites,Overlap,NA
-Peripheral venous and lymphatic disease,I86.8,Varicose veins of other specified sites,Overlap,NA
-Peripheral venous and lymphatic disease,I87,Other disorders of veins,Kuan,NA
-Peripheral venous and lymphatic disease,I87.0,Postthrombotic syndrome,Cross-mapped,NA
-Peripheral venous and lymphatic disease,I87.1,Compression of vein,Overlap,NA
-Peripheral venous and lymphatic disease,I87.2,Venous insufficiency (chronic)(peripheral),Cross-mapped,NA
-Peripheral venous and lymphatic disease,I87.8,Other specified disorders of veins,Overlap,NA
-Peripheral venous and lymphatic disease,I87.9,"Disorder of vein, unspecified",Overlap,NA
-Peripheral venous and lymphatic disease,I89,Other noninfective disorders of lymphatic vessels and lymph nodes,Kuan,NA
-Peripheral venous and lymphatic disease,I89.0,"Lymphoedema, not elsewhere classified",Cross-mapped,NA
-Peripheral venous and lymphatic disease,I89.1,Lymphangitis,Cross-mapped,NA
-Peripheral venous and lymphatic disease,I89.8,Other specified noninfective disorders of lymphatic vessels and lymph nodes,Overlap,NA
-Peripheral venous and lymphatic disease,I89.9,"Noninfective disorder of lymphatic vessels and lymph nodes, unspecified",Overlap,NA
-Peripheral venous and lymphatic disease,I97.2,Postmastectomy lymphoedema syndrome,Overlap,NA
-Peripheral venous and lymphatic disease,K75.1,Phlebitis of portal vein,Kuan,NA
-Peripheral venous and lymphatic disease,L85.8,Other specified epidermal thickening,Cross-mapped,NA
-Peripheral venous and lymphatic disease,L97,"Ulcer of lower limb, not elsewhere classified",Cross-mapped,NA
-Peripheral venous and lymphatic disease,O22.0,Varicose veins of lower extremity in pregnancy,Kuan,NA
-Peripheral venous and lymphatic disease,O22.9,"Venous complication in pregnancy, unspecified",Cross-mapped,NA
-Peripheral venous and lymphatic disease,O87.8,Other venous complications in the puerperium,Cross-mapped,NA
-Peripheral venous and lymphatic disease,Q26,Congenital malformations of great veins,Kuan,NA
-Peripheral venous and lymphatic disease,Q26.6,Portal vein-hepatic artery fistula,Kuan,NA
-Peripheral venous and lymphatic disease,Q26.8,Other congenital malformations of great veins,Kuan,NA
-Peripheral venous and lymphatic disease,Q26.9,"Congenital malformation of great vein, unspecified",Kuan,NA
-Peripheral venous and lymphatic disease,Q79.8,Other congenital malformations of musculoskeletal system,Cross-mapped,NA
-Peripheral venous and lymphatic disease,Q82.0,Hereditary lymphoedema,Overlap,NA
-Peripheral venous and lymphatic disease,S15.2,Injury of external jugular vein,Kuan,NA
-Peripheral venous and lymphatic disease,S15.3,Injury of internal jugular vein,Kuan,NA
-Peripheral venous and lymphatic disease,S25.3,Injury of innominate or subclavian vein,Kuan,NA
-Peripheral venous and lymphatic disease,S35.3,Injury of portal or splenic vein,Kuan,NA
-Peripheral venous and lymphatic disease,S45.2,Injury of axillary or brachial vein,Kuan,NA
-Peripheral venous and lymphatic disease,S45.3,Injury of superficial vein at shoulder and upper arm level,Kuan,NA
-Peripheral venous and lymphatic disease,S55.2,Injury of vein at forearm level,Kuan,NA
-Peripheral venous and lymphatic disease,S75.1,Injury of femoral vein at hip and thigh level,Kuan,NA
-Peripheral venous and lymphatic disease,S75.2,Injury of greater saphenous vein at hip and thigh level,Kuan,NA
-Peripheral venous and lymphatic disease,S85.3,Injury of greater saphenous vein at lower leg level,Kuan,NA
-Peripheral venous and lymphatic disease,S85.4,Injury of lesser saphenous vein at lower leg level,Kuan,NA
-Peripheral venous and lymphatic disease,S85.5,Injury of popliteal vein,Kuan,NA
-Peripheral venous and lymphatic disease,S95.2,Injury of dorsal vein of foot,Kuan,NA
-Peripheral venous and lymphatic disease,T46.8,"Poisoning: Antivaricose drugs, including sclerosing agents",Kuan,NA
-Peripheral venous and lymphatic disease,Y52.8,"Antivaricose drugs, including sclerosing agents",Kuan,NA
+Peripheral venous and lymphatic disease,I78.0,Hereditary haemorrhagic telangiectasia,New code list,NA
+Peripheral venous and lymphatic disease,I80.1,Phlebitis and thrombophlebitis of femoral vein,New code list,NA
+Peripheral venous and lymphatic disease,I81,Portal vein thrombosis,New code list,NA
+Peripheral venous and lymphatic disease,I82.3,Embolism and thrombosis of renal vein,New code list,NA
+Peripheral venous and lymphatic disease,I82.8,Embolism and thrombosis of other specified veins,New code list,NA
+Peripheral venous and lymphatic disease,I82.9,Embolism and thrombosis of unspecified vein,New code list,NA
+Peripheral venous and lymphatic disease,I83,Varicose veins of lower extremities,New code list,NA
+Peripheral venous and lymphatic disease,I83.0,Varicose veins of lower extremities with ulcer,New code list,NA
+Peripheral venous and lymphatic disease,I83.1,Varicose veins of lower extremities with inflammation,New code list,NA
+Peripheral venous and lymphatic disease,I83.2,Varicose veins of lower extremities with both ulcer and inflammation,New code list,NA
+Peripheral venous and lymphatic disease,I83.9,Varicose veins of lower extremities without ulcer or inflammation,New code list,NA
+Peripheral venous and lymphatic disease,I86,Varicose veins of other sites,New code list,NA
+Peripheral venous and lymphatic disease,I86.8,Varicose veins of other specified sites,New code list,NA
+Peripheral venous and lymphatic disease,I87,Other disorders of veins,New code list,NA
+Peripheral venous and lymphatic disease,I87.0,Postthrombotic syndrome,New code list,NA
+Peripheral venous and lymphatic disease,I87.1,Compression of vein,New code list,NA
+Peripheral venous and lymphatic disease,I87.2,Venous insufficiency (chronic)(peripheral),New code list,NA
+Peripheral venous and lymphatic disease,I87.8,Other specified disorders of veins,New code list,NA
+Peripheral venous and lymphatic disease,I87.9,"Disorder of vein, unspecified",New code list,NA
+Peripheral venous and lymphatic disease,I89,Other noninfective disorders of lymphatic vessels and lymph nodes,New code list,NA
+Peripheral venous and lymphatic disease,I89.0,"Lymphoedema, not elsewhere classified",New code list,NA
+Peripheral venous and lymphatic disease,I89.1,Lymphangitis,New code list,NA
+Peripheral venous and lymphatic disease,I89.8,Other specified noninfective disorders of lymphatic vessels and lymph nodes,New code list,NA
+Peripheral venous and lymphatic disease,I89.9,"Noninfective disorder of lymphatic vessels and lymph nodes, unspecified",New code list,NA
+Peripheral venous and lymphatic disease,I97.2,Postmastectomy lymphoedema syndrome,New code list,NA
+Peripheral venous and lymphatic disease,K75.1,Phlebitis of portal vein,New code list,NA
+Peripheral venous and lymphatic disease,L85.8,Other specified epidermal thickening,New code list,NA
+Peripheral venous and lymphatic disease,L97,"Ulcer of lower limb, not elsewhere classified",New code list,NA
+Peripheral venous and lymphatic disease,O22.0,Varicose veins of lower extremity in pregnancy,New code list,NA
+Peripheral venous and lymphatic disease,O22.9,"Venous complication in pregnancy, unspecified",New code list,NA
+Peripheral venous and lymphatic disease,O87.8,Other venous complications in the puerperium,New code list,NA
+Peripheral venous and lymphatic disease,Q26,Congenital malformations of great veins,New code list,NA
+Peripheral venous and lymphatic disease,Q26.6,Portal vein-hepatic artery fistula,New code list,NA
+Peripheral venous and lymphatic disease,Q26.8,Other congenital malformations of great veins,New code list,NA
+Peripheral venous and lymphatic disease,Q26.9,"Congenital malformation of great vein, unspecified",New code list,NA
+Peripheral venous and lymphatic disease,Q79.8,Other congenital malformations of musculoskeletal system,New code list,NA
+Peripheral venous and lymphatic disease,Q82.0,Hereditary lymphoedema,New code list,NA
+Peripheral venous and lymphatic disease,S15.2,Injury of external jugular vein,New code list,NA
+Peripheral venous and lymphatic disease,S15.3,Injury of internal jugular vein,New code list,NA
+Peripheral venous and lymphatic disease,S25.3,Injury of innominate or subclavian vein,New code list,NA
+Peripheral venous and lymphatic disease,S35.3,Injury of portal or splenic vein,New code list,NA
+Peripheral venous and lymphatic disease,S45.2,Injury of axillary or brachial vein,New code list,NA
+Peripheral venous and lymphatic disease,S45.3,Injury of superficial vein at shoulder and upper arm level,New code list,NA
+Peripheral venous and lymphatic disease,S55.2,Injury of vein at forearm level,New code list,NA
+Peripheral venous and lymphatic disease,S75.1,Injury of femoral vein at hip and thigh level,New code list,NA
+Peripheral venous and lymphatic disease,S75.2,Injury of greater saphenous vein at hip and thigh level,New code list,NA
+Peripheral venous and lymphatic disease,S85.3,Injury of greater saphenous vein at lower leg level,New code list,NA
+Peripheral venous and lymphatic disease,S85.4,Injury of lesser saphenous vein at lower leg level,New code list,NA
+Peripheral venous and lymphatic disease,S85.5,Injury of popliteal vein,New code list,NA
+Peripheral venous and lymphatic disease,S95.2,Injury of dorsal vein of foot,New code list,NA
+Peripheral venous and lymphatic disease,T46.8,"Poisoning: Antivaricose drugs, including sclerosing agents",New code list,NA
+Peripheral venous and lymphatic disease,Y52.8,"Antivaricose drugs, including sclerosing agents",New code list,NA
 Personality disorder,F21,Schizotypal disorder,Cross-mapped,NA
 Personality disorder,F34.0,Cyclothymia,Cross-mapped,NA
 Personality disorder,F34.1,Dysthymia,Cross-mapped,NA
