@@ -1,3 +1,5 @@
 Disease,ICD10code,ICD10codeDescr
 Non-acute cystitis,N30.1,Interstitial cystitis (chronic)
 Non-acute cystitis,N30.2,Other chronic cystitis
+Non-acute cystitis,N30.3,Trigonitis
+Non-acute cystitis,N30.8,Other cystitis

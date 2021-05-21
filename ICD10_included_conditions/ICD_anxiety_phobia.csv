@@ -1,3 +1,23 @@
-Disease,ICD10code,ICD10codeDescr
-Anxiety and phobia,F40,Phobic anxiety disorders
-Anxiety and phobia,F41,Other anxiety disorders
+Disease,ICD10code,ICD10codeDescr,,
+Anxiety and phobia,F40,Phobic anxiety disorders,Kuan,
+Anxiety and phobia,F41,Other anxiety disorders,Kuan,
+Anxiety and phobia,F06.4,Organic anxiety disorder,Cross-mapped,
+Anxiety and phobia,F34.1,Dysthymia,Cross-mapped,Move to depression codelist
+Anxiety and phobia,F40,Phobic anxiety disorders,Cross-mapped,
+Anxiety and phobia,F40.0,Agoraphobia,Cross-mapped,
+Anxiety and phobia,F40.1,Social phobias,Cross-mapped,
+Anxiety and phobia,F40.2,Specific (isolated) phobias,Cross-mapped,
+Anxiety and phobia,F40.8,Other phobic anxiety disorders,Cross-mapped,
+Anxiety and phobia,F40.9,"Phobic anxiety disorder, unspecified",Cross-mapped,
+Anxiety and phobia,F41,Other anxiety disorders,Cross-mapped,
+Anxiety and phobia,F41.0,Panic disorder [episodic paroxysmal anxiety],Cross-mapped,
+Anxiety and phobia,F41.1,Generalized anxiety disorder,Cross-mapped,
+Anxiety and phobia,F41.2,Mixed anxiety and depressive disorder,Cross-mapped,Include in both depression and anxiety codelists
+Anxiety and phobia,F41.3,Other mixed anxiety disorders,Cross-mapped,
+Anxiety and phobia,F41.8,Other specified anxiety disorders,Cross-mapped,
+Anxiety and phobia,F41.9,"Anxiety disorder, unspecified",Cross-mapped,
+Anxiety and phobia,F45.2,Hypochondriacal disorder,Cross-mapped,
+Anxiety and phobia,F48.1,Depersonalization-derealization syndrome,Cross-mapped,
+Anxiety and phobia,F48.8,Other specified neurotic disorders,Cross-mapped,
+Anxiety and phobia,F48.9,"Neurotic disorder, unspecified",Cross-mapped,
+Anxiety and phobia,F94.0,Elective mutism,Cross-mapped,

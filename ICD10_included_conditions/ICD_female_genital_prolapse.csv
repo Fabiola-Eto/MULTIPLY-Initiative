@@ -1,2 +1,13 @@
 Disease,ICD10code,ICD10codeDescr
 Female genital prolapse,N81,Female genital prolapse
+Female genital prolapse,N81.9,"Female genital prolapse, unspecified"
+Female genital prolapse,N81.1,Cystocele
+Female genital prolapse,N81.6,Rectocele
+Female genital prolapse,N81.0,Female urethrocele
+Female genital prolapse,N81.8,Other female genital prolapse
+Female genital prolapse,N81.4,"Uterovaginal prolapse, unspecified"
+Female genital prolapse,N81.2,Incomplete uterovaginal prolapse
+Female genital prolapse,N81.3,Complete uterovaginal prolapse
+Female genital prolapse,N99.3,Prolapse of vaginal vault after hysterectomy
+Female genital prolapse,N81.5,Vaginal enterocele
+Female genital prolapse,T83.9,"Unspecified complication of genitourinary prosthetic device, implant and graft"

@@ -4,3 +4,37 @@ Leukaemia,C92,Myeloid leukaemia
 Leukaemia,C93,Monocytic leukaemia
 Leukaemia,C94,Other leukaemias of specified cell type
 Leukaemia,C95,Leukaemia of unspecified cell type
+Leukaemia,C91.4,Hairy-cell leukaemia
+Leukaemia,C91.9,"Lymphoid leukaemia, unspecified"
+Leukaemia,C91.0,Acute lymphoblastic leukaemia [ALL]
+Leukaemia,C91.8,Mature B-cell leukaemia Burkitt-type
+Leukaemia,C91.1,Chronic lymphocytic leukaemia of B-cell type
+Leukaemia,C91.7,Other lymphoid leukaemia
+Leukaemia,C91.3,Prolymphocytic leukaemia of B-cell type
+Leukaemia,C91.5,Adult T-cell lymphoma/leukaemia [HTLV-1-associated]
+Leukaemia,C91.6,Prolymphocytic leukaemia of T-cell type
+Leukaemia,C92.9,"Myeloid leukaemia, unspecified"
+Leukaemia,C92.0,Acute myeloblastic leukaemia [AML]
+Leukaemia,C92.1,"Chronic myeloid leukaemia [CML], BCR/ABL-positive"
+Leukaemia,D47.1,Chronic myeloproliferative disease
+Leukaemia,C92.2,"Atypical chronic myeloid leukaemia, BCR/ABL-negative"
+Leukaemia,C92.3,Myeloid sarcoma
+Leukaemia,C92.4,Acute promyelocytic leukaemia [PML]
+Leukaemia,C92.7,Other myeloid leukaemia
+Leukaemia,C93.9,"Monocytic leukaemia, unspecified"
+Leukaemia,C93.0,Acute monoblastic/monocytic leukaemia
+Leukaemia,C93.1,Chronic myelomonocytic leukaemia
+Leukaemia,C93.7,Other monocytic leukaemia
+Leukaemia,C94.7,Other specified leukaemias
+Leukaemia,C94.0,Acute erythroid leukaemia
+Leukaemia,C94.2,Acute megakaryoblastic leukaemia
+Leukaemia,C94.3,Mast cell leukaemia
+Leukaemia,C94.4,Acute panmyelosis with myelofibrosis
+Leukaemia,C94.6,"Myelodysplastic and myeloproliferative disease, not elsewhere classified"
+Leukaemia,C95.9,"Leukaemia, unspecified"
+Leukaemia,C95.7,Other leukaemia of unspecified cell type
+Leukaemia,C95.0,Acute leukaemia of unspecified cell type
+Leukaemia,C95.1,Chronic leukaemia of unspecified cell type
+Leukaemia,C92.5,Acute myelomonocytic leukaemia
+Leukaemia,C93.3,Juvenile myelomonocytic leukaemia
+Leukaemia,Z85.6,Personal history of leukaemia

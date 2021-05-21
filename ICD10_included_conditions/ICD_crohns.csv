@@ -1,2 +1,7 @@
 Disease,ICD10code,ICD10codeDescr
 Crohn's disease,K50,Crohn's disease [regional enteritis]
+Crohn's disease,K50.8,Other Crohn disease
+Crohn's disease,K50,Crohn disease [regional enteritis]
+Crohn's disease,K50.0,Crohn disease of small intestine
+Crohn's disease,K50.1,Crohn disease of large intestine
+Crohn's disease,K50.9,"Crohn disease, unspecified"

@@ -2,3 +2,12 @@ Disease,ICD10code,ICD10codeDescr
 Aortic aneurysm,I714,Abdominal aortic aneurysm without mention of rupture
 Aortic aneurysm,I716,Thoracoabdominal aortic aneurysm without mention of rupture
 Aortic aneurysm,I719,Aortic aneurysm of unspecified site without mention of rupture
+Aortic aneurysm,I71.9,"Aortic aneurysm of unspecified site, without mention of rupture"
+Aortic aneurysm,I71.0,Dissection of aorta [any part]
+Aortic aneurysm,I71.1,"Thoracic aortic aneurysm, ruptured"
+Aortic aneurysm,I71.2,"Thoracic aortic aneurysm, without mention of rupture"
+Aortic aneurysm,I71.3,"Abdominal aortic aneurysm, ruptured"
+Aortic aneurysm,I71.4,"Abdominal aortic aneurysm, without mention of rupture"
+Aortic aneurysm,I71.8,"Aortic aneurysm of unspecified site, ruptured"
+Aortic aneurysm,I71.5,"Thoracoabdominal aortic aneurysm, ruptured"
+Aortic aneurysm,I71.6,"Thoracoabdominal aortic aneurysm, without mention of rupture"

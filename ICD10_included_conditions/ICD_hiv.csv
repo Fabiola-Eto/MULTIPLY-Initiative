@@ -7,3 +7,23 @@ HIV,B24,Unspecified human immunodeficiency virus [HIV] disease
 HIV,F02.4,Dementia in human immunodeficiency virus [HIV] disease
 HIV,R75,Laboratory evidence of human immunodeficiency virus [HIV]
 HIV,Z21,Asymptomatic human immunodeficiency virus [HIV] infection status
+HIV,B23.0,Acute HIV infection syndrome
+HIV,B23.8,HIV disease resulting in other specified conditions
+HIV,B22.0,HIV disease resulting in encephalopathy
+HIV,B21.8,HIV disease resulting in other malignant neoplasms
+HIV,B21.9,HIV disease resulting in unspecified malignant neoplasm
+HIV,B20.0,HIV disease resulting in mycobacterial infection
+HIV,B20.2,HIV disease resulting in cytomegaloviral disease
+HIV,B20.4,HIV disease resulting in candidiasis
+HIV,B20.6,HIV disease resulting in Pneumocystis jirovecii pneumonia
+HIV,B20.7,HIV disease resulting in multiple infections
+HIV,B21.0,HIV disease resulting in Kaposi sarcoma
+HIV,B21.1,HIV disease resulting in Burkitt lymphoma
+HIV,B21.2,HIV disease resulting in other types of non-Hodgkin lymphoma
+HIV,B21.7,HIV disease resulting in multiple malignant neoplasms
+HIV,B22.1,HIV disease resulting in lymphoid interstitial pneumonitis
+HIV,B22.2,HIV disease resulting in wasting syndrome
+HIV,B20.1,HIV disease resulting in other bacterial infections
+HIV,B20.3,HIV disease resulting in other viral infections
+HIV,B20.5,HIV disease resulting in other mycoses
+HIV,Z71.7,Human immunodeficiency virus [HIV] counselling

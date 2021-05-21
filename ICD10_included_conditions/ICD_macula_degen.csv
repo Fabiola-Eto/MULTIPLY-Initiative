@@ -1,2 +1,3 @@
-Disease,ICD10code,ICD10codeDescr
-Macular degeneration,H35.3,Degeneration of macula and posterior pole
+Disease,ICD10code,ICD10codeDescr,
+Macular degeneration,H35.3,Degeneration of macula and posterior pole,
+Macular degeneration,H35.7,Separation of retinal layers,Exclude as incorrectly included

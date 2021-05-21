@@ -1,2 +1,15 @@
 Disease,ICD10code,ICD10codeDescr
 Visual impairment and blindness,H54,Visual impairment including blindness (binocular or monocular)
+Visual impairment and blindness,H44.8,Other disorders of globe
+Visual impairment and blindness,H54.0,"Blindness, binocular"
+Visual impairment and blindness,H54.4,"Blindness, monocular"
+Visual impairment and blindness,H54.2,"Moderate visual impairment, binocular"
+Visual impairment and blindness,H54.1,"Severe visual impairment, binocular"
+Visual impairment and blindness,H54.9,Unspecified visual impairment (binocular)
+Visual impairment and blindness,H54.6,"Moderate visual impairment, monocular"
+Visual impairment and blindness,H54.3,"Mild or no visual impairment, binocular"
+Visual impairment and blindness,H54.5,"Severe visual impairment, monocular"
+Visual impairment and blindness,H47.7,"Disorder of visual pathways, unspecified"
+Visual impairment and blindness,H47.6,Disorders of visual cortex
+Visual impairment and blindness,H53.8,Other visual disturbances
+Visual impairment and blindness,S04.0,Injury of optic nerve and pathways

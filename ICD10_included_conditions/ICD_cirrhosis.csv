@@ -1,5 +1,4 @@
 Disease,ICD10code,ICD10codeDescr
-"Liver fibrosis, sclerosis and cirrhosis",K70.1,Alcoholic hepatitis
 "Liver fibrosis, sclerosis and cirrhosis",K70.2,Alcoholic fibrosis and sclerosis of liver
 "Liver fibrosis, sclerosis and cirrhosis",K70.3,Alcoholic cirrhosis of liver
 "Liver fibrosis, sclerosis and cirrhosis",K71.7,Toxic liver disease with fibrosis and cirrhosis of liver
@@ -9,3 +8,7 @@ Disease,ICD10code,ICD10codeDescr
 "Liver fibrosis, sclerosis and cirrhosis",K74.4,Secondary biliary cirrhosis
 "Liver fibrosis, sclerosis and cirrhosis",K74.5,Biliary cirrhosis unspecified
 "Liver fibrosis, sclerosis and cirrhosis",K74.6,Other and unspecified cirrhosis of liver
+"Liver fibrosis, sclerosis and cirrhosis",K74.6,Other and unspecified cirrhosis of liver
+"Liver fibrosis, sclerosis and cirrhosis",K76.1,Chronic passive congestion of liver
+"Liver fibrosis, sclerosis and cirrhosis",K74.5,"Biliary cirrhosis, unspecified"
+"Liver fibrosis, sclerosis and cirrhosis",K74.3,Primary biliary cirrhosis
