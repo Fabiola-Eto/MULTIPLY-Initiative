@@ -1,0 +1,10 @@
+Disease,ICD10code,ICD10codeDescr
+Menopause,E28.3,Primary ovarian failure
+Menopause,N95,Menopausal and other perimenopausal disorders
+Menopause,N92.4,Excessive bleeding in the premenopausal period
+Menopause,N95.0,Postmenopausal bleeding
+Menopause,N95.1,Menopausal and female climacteric states
+Menopause,N95.2,Postmenopausal atrophic vaginitis
+Menopause,N95.3,States associated with artificial menopause
+Menopause,N95.8,Other specified menopausal and perimenopausal disorders
+Menopause,N95.9,"Menopausal and perimenopausal disorder, unspecified"
