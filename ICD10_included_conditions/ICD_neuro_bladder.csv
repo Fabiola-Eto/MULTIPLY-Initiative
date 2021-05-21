@@ -1,2 +1,8 @@
-Disease,ICD10code,ICD10codeDescr
-Neuromuscular dysfunction of bladder,N31,Neuromuscular dysfunction of bladder, not elsewhere classified
+Disease,ICD10code,ICD10codeDescr,
+Neuromuscular dysfunction of bladder,N31,Neuromuscular dysfunction of bladder,
+Neuromuscular dysfunction of bladder,G83.4,Cauda equina syndrome,Exclude as not specific
+Neuromuscular dysfunction of bladder,N31.2,"Flaccid neuropathic bladder, not elsewhere classified",
+Neuromuscular dysfunction of bladder,N31.9,"Neuromuscular dysfunction of bladder, unspecified",
+Neuromuscular dysfunction of bladder,N31.8,Other neuromuscular dysfunction of bladder,
+Neuromuscular dysfunction of bladder,N32.8,Other specified disorders of bladder,
+Neuromuscular dysfunction of bladder,N31.1,"Reflex neuropathic bladder, not elsewhere classified",

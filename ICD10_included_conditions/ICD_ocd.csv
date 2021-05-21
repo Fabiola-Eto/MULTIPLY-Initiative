@@ -1,2 +1,13 @@
 Disease,ICD10code,ICD10codeDescr
 Obsessive-compulsive disorder,F42,Obsessive-compulsive disorder
+Obsessive-compulsive disorder,F42.0,Predominantly obsessional thoughts or ruminations
+Obsessive-compulsive disorder,F42.1,Predominantly compulsive acts [obsessional rituals]
+Obsessive-compulsive disorder,F42.2,Mixed obsessional thoughts and acts
+Obsessive-compulsive disorder,F42.8,Other obsessive-compulsive disorders
+Obsessive-compulsive disorder,F42.9,"Obsessive-compulsive disorder, unspecified"
+Obsessive-compulsive disorder,F45.2,Hypochondriacal disorder
+Obsessive-compulsive disorder,F60.5,Anankastic personality disorder
+Obsessive-compulsive disorder,F63.3,Trichotillomania
+Obsessive-compulsive disorder,F63.8,Other habit and impulse disorders
+Obsessive-compulsive disorder,F63.9,"Habit and impulse disorder, unspecified"
+Obsessive-compulsive disorder,L98.1,Factitial dermatitis

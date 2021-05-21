@@ -2,3 +2,7 @@ Disease,ICD10code,ICD10codeDescr
 Primary malignancy kidney and ureter,C64,Malignant neoplasm of kidney except renal pelvis
 Primary malignancy kidney and ureter,C65,Malignant neoplasm of renal pelvis
 Primary malignancy kidney and ureter,C66,Malignant neoplasm of ureter
+Primary malignancy kidney and ureter,C64,"Malignant neoplasm of kidney, except renal pelvis"
+Primary malignancy kidney and ureter,C68.9,"Malignant neoplasm: Urinary organ, unspecified"
+Primary malignancy kidney and ureter,D41.0,Neoplasm of uncertain or unknown behaviour: Kidney
+Primary malignancy kidney and ureter,Z85.5,Personal history of malignant neoplasm of urinary tract

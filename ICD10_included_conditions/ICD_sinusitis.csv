@@ -1,2 +1,11 @@
 Disease,ICD10code,ICD10codeDescr
 Chronic sinusitis,J32,Chronic sinusitis
+Chronic sinusitis,J33.8,Other polyp of sinus
+Chronic sinusitis,J32,Chronic sinusitis
+Chronic sinusitis,J32.0,Chronic maxillary sinusitis
+Chronic sinusitis,J32.1,Chronic frontal sinusitis
+Chronic sinusitis,J32.2,Chronic ethmoidal sinusitis
+Chronic sinusitis,J32.3,Chronic sphenoidal sinusitis
+Chronic sinusitis,J32.9,"Chronic sinusitis, unspecified"
+Chronic sinusitis,J32.8,Other chronic sinusitis
+Chronic sinusitis,J32.4,Chronic pansinusitis

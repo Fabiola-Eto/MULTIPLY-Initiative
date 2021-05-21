@@ -1,4 +1,12 @@
 Disease,ICD10code,ICD10codeDescr
-Multiple myeloma and malignant plasma cell neoplasms,C88.0,Waldenstr√∂m macroglobulinaemia
-Multiple myeloma and malignant plasma cell neoplasms,C88.2,Other heavy chain disease
-Multiple myeloma and malignant plasma cell neoplasms,C90,Multiple myeloma and malignant plasma cell neoplasms
+Myeloma,C88.0,Waldenstr??m macroglobulinaemia
+Myeloma,C88.2,Other heavy chain disease
+Myeloma,C90,Multiple myeloma and malignant plasma cell neoplasms
+Myeloma,C90.0,Multiple myeloma
+Myeloma,C90.2,Extramedullary plasmacytoma
+Myeloma,C90.3,Solitary plasmacytoma
+Myeloma,D47.7,"Other specified neoplasms of uncertain or unknown behaviour of lymphoid, haematopoietic and related tissue"
+Myeloma,C90.1,Plasma cell leukaemia
+Myeloma,C88.9,"Malignant immunoproliferative disease, unspecified"
+Myeloma,C88.0,Waldenstràm macroglobulinaemia
+Myeloma,C88.3,Immunoproliferative small intestinal disease

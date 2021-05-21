@@ -1,3 +1,4 @@
 Disease,ICD10code,ICD10codeDescr
 Urinary Incontinence,N39.3,Stress incontinence
 Urinary Incontinence,N39.4,Other specified urinary incontinence
+Urinary Incontinence,R32,Unspecified urinary incontinence

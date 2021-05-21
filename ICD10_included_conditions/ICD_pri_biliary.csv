@@ -1,3 +1,8 @@
 Disease,ICD10code,ICD10codeDescr
 Primary malignancy biliary tract,C22.1,Malignant neoplasm: Intrahepatic bile duct carcinoma
 Primary malignancy biliary tract,C24,Malignant neoplasm of other and unspecified parts of biliary tract
+Primary malignancy biliary tract,C24.0,Malignant neoplasm: Extrahepatic bile duct
+Primary malignancy biliary tract,C24.1,Malignant neoplasm: Ampulla of Vater
+Primary malignancy biliary tract,C24.8,Malignant neoplasm: Overlapping lesion of biliary tract
+Primary malignancy biliary tract,D01.5,"Carcinoma in situ: Liver, gallbladder and bile ducts"
+Primary malignancy biliary tract,D37.6,"Neoplasm of uncertain or unknown behaviour: Liver, gallbladder and bile ducts"

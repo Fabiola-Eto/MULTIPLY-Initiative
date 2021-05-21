@@ -1,6 +1,5 @@
-"Disease","ICD10code","ICD10codeDescr"
-"Non-alcoholic fatty liver disease and steatohepatitis","E63.0","Essential fatty acid [EFA] deficiency"
-"Non-alcoholic fatty liver disease and steatohepatitis","E71","Disorders of branched-chain amino-acid metabolism and fatty-acid metabolism"
-"Non-alcoholic fatty liver disease and steatohepatitis","E71.3","Disorders of fatty-acid metabolism"
-"Non-alcoholic fatty liver disease and steatohepatitis","K70.0","Alcoholic fatty liver"
-"Non-alcoholic fatty liver disease and steatohepatitis","K76.0","Fatty (change of) liver, not elsewhere classified"
+Disease,ICD10code,ICD10codeDescr
+Non-alcoholic fatty liver disease and steatohepatitis (NASH and NAFLD),K70.0,Alcoholic fatty liver
+Non-alcoholic fatty liver disease and steatohepatitis (NASH and NAFLD),K76.0,"Fatty (change of) liver, not elsewhere classified"
+Non-alcoholic fatty liver disease and steatohepatitis (NASH and NAFLD),K70.0,Alcoholic fatty liver
+Non-alcoholic fatty liver disease and steatohepatitis (NASH and NAFLD),K76.0,"Fatty (change of) liver, not elsewhere classified"

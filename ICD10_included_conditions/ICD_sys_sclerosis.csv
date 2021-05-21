@@ -1,2 +1,7 @@
 Disease,ICD10code,ICD10codeDescr
 Systemic sclerosis,M34,Systemic sclerosis
+Systemic sclerosis,M34.9,"Systemic sclerosis, unspecified"
+Systemic sclerosis,M34.0,Progressive systemic sclerosis
+Systemic sclerosis,M34.1,CR(E)ST syndrome
+Systemic sclerosis,M34.2,Systemic sclerosis induced by drugs and chemicals
+Systemic sclerosis,M34.8,Other forms of systemic sclerosis

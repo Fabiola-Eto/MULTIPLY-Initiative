@@ -1,9 +1,5 @@
 Disease,ICD10code,ICD10codeDescr
 Peripheral venous and lymphatic disease,I80.1,Phlebitis and thrombophlebitis of femoral vein
-Peripheral venous and lymphatic disease,I81,Portal vein thrombosis
-Peripheral venous and lymphatic disease,I82.3,Embolism and thrombosis of renal vein
-Peripheral venous and lymphatic disease,I82.8,Embolism and thrombosis of other specified veins
-Peripheral venous and lymphatic disease,I82.9,Embolism and thrombosis of unspecified vein
 Peripheral venous and lymphatic disease,I83,Varicose veins of lower extremities
 Peripheral venous and lymphatic disease,I83.0,Varicose veins of lower extremities with ulcer
 Peripheral venous and lymphatic disease,I83.1,Varicose veins of lower extremities with inflammation
@@ -24,21 +20,15 @@ Peripheral venous and lymphatic disease,Q26,Congenital malformations of great ve
 Peripheral venous and lymphatic disease,Q26.6,Portal vein-hepatic artery fistula
 Peripheral venous and lymphatic disease,Q26.8,Other congenital malformations of great veins
 Peripheral venous and lymphatic disease,Q26.9,"Congenital malformation of great vein, unspecified"
-Peripheral venous and lymphatic disease,S15.2,Injury of external jugular vein
-Peripheral venous and lymphatic disease,S15.3,Injury of internal jugular vein
-Peripheral venous and lymphatic disease,S25.3,Injury of innominate or subclavian vein
-Peripheral venous and lymphatic disease,S35.3,Injury of portal or splenic vein
-Peripheral venous and lymphatic disease,S45.2,Injury of axillary or brachial vein
-Peripheral venous and lymphatic disease,S45.3,Injury of superficial vein at shoulder and upper arm level
-Peripheral venous and lymphatic disease,S55.2,Injury of vein at forearm level
-Peripheral venous and lymphatic disease,S75.1,Injury of femoral vein at hip and thigh level
-Peripheral venous and lymphatic disease,S75.2,Injury of greater saphenous vein at hip and thigh level
-Peripheral venous and lymphatic disease,S85.3,Injury of greater saphenous vein at lower leg level
-Peripheral venous and lymphatic disease,S85.4,Injury of lesser saphenous vein at lower leg level
-Peripheral venous and lymphatic disease,S85.5,Injury of popliteal vein
-Peripheral venous and lymphatic disease,S95.2,Injury of dorsal vein of foot
-Peripheral venous and lymphatic disease,T46.8,"Poisoning: Antivaricose drugs, including sclerosing agents"
-Peripheral venous and lymphatic disease,Y52.8,"Antivaricose drugs, including sclerosing agents"
 Peripheral venous and lymphatic disease,I78.0,Hereditary haemorrhagic telangiectasia
 Peripheral venous and lymphatic disease,I97.2,Postmastectomy lymphoedema syndrome
 Peripheral venous and lymphatic disease,Q82.0,Hereditary lymphoedema
+Peripheral venous and lymphatic disease,I89.0,"Lymphoedema, not elsewhere classified"
+Peripheral venous and lymphatic disease,I89.1,Lymphangitis
+Peripheral venous and lymphatic disease,I87.0,Postthrombotic syndrome
+Peripheral venous and lymphatic disease,I87.2,Venous insufficiency (chronic)(peripheral)
+Peripheral venous and lymphatic disease,O22.9,"Venous complication in pregnancy, unspecified"
+Peripheral venous and lymphatic disease,O87.8,Other venous complications in the puerperium
+Peripheral venous and lymphatic disease,E14.5,Unspecified diabetes mellitus with peripheral circulatory complications
+Peripheral venous and lymphatic disease,E11.5,Type 2 diabetes mellitus with peripheral circulatory complications
+Peripheral venous and lymphatic disease,E10.5,Type 1 diabetes mellitus with peripheral circulatory complications

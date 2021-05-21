@@ -1,2 +1,14 @@
 Disease,ICD10code,ICD10codeDescr
 Primary malignancy bladder,C67,Malignant neoplasm of bladder
+Primary malignancy bladder,C67.0,Malignant neoplasm: Trigone of bladder
+Primary malignancy bladder,C67.1,Malignant neoplasm: Dome of bladder
+Primary malignancy bladder,C67.2,Malignant neoplasm: Lateral wall of bladder
+Primary malignancy bladder,C67.3,Malignant neoplasm: Anterior wall of bladder
+Primary malignancy bladder,C67.4,Malignant neoplasm: Posterior wall of bladder
+Primary malignancy bladder,C67.5,Malignant neoplasm: Bladder neck
+Primary malignancy bladder,C67.6,Malignant neoplasm: Ureteric orifice
+Primary malignancy bladder,C67.7,Malignant neoplasm: Urachus
+Primary malignancy bladder,C67.9,"Malignant neoplasm: Bladder, unspecified"
+Primary malignancy bladder,C67.8,Malignant neoplasm: Overlapping lesion of bladder
+Primary malignancy bladder,D41.4,Neoplasm of uncertain or unknown behaviour: Bladder
+Primary malignancy bladder,Z85.5,Personal history of malignant neoplasm of urinary tract
