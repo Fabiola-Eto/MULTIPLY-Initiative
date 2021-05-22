@@ -86,6 +86,7 @@ Glomerulonephritis and other nephritides,N03.5,Chronic nephritic syndrome diffus
 Glomerulonephritis and other nephritides,N01.9,Rapidly progressive nephritic syndrome unspecified
 Glomerulonephritis and other nephritides,N03.8,Chronic nephritic syndrome other
 Glomerulonephritis and other nephritides,N03.1,Chronic nephritic syndrome focal and segmental glomerular lesions
+Glomerulonephritis and other nephritides,N05,Unspecified nephritic syndrome
 Glomerulonephritis and other nephritides,N05.8,Unspecified nephritic syndrome other
 Glomerulonephritis and other nephritides,N05.2,Unspecified nephritic syndrome diffuse membranous glomerulonephritis
 Glomerulonephritis and other nephritides,N05.5,Unspecified nephritic syndrome diffuse mesangiocapillary glomerulonephritis
@@ -105,3 +106,6 @@ Glomerulonephritis and other nephritides,N03.0,Chronic nephritic syndrome minor 
 Glomerulonephritis and other nephritides,N03.6,Chronic nephritic syndrome dense deposit disease
 Glomerulonephritis and other nephritides,N06,Isolated proteinuria with specified morphological lesion
 Glomerulonephritis and other nephritides,N083,Glomerular disorders in diabetes mellitus
+Glomerulonephritis and other nephritides,N08,Glomerular disorders in diseases classified elsewhere
+Glomerulonephritis and other nephritides,Q60,Renal agenesis and other reduction defects of kidney
+Glomerulonephritis and other nephritides,N11,Chronic tubulo-interstitial nephritis
