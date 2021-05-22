@@ -1,11 +1,11 @@
-Condition,ReadCode,MedCode,ReadTerm,,
-Pregnancy disorders: gestational diabetes, ZV13F00 ,94777, [V]Personal history of gestational diabetes mellitus ,,
-Pregnancy disorders: gestational diabetes, L180800 ,10278, Diabetes mellitus arising in pregnancy ,,
-Pregnancy disorders: gestational diabetes, L180100 ,34639, Diabetes mellitus during pregnancy - baby delivered ,,
-Pregnancy disorders: gestational diabetes, L180300 ,49559, Diabetes mellitus during pregnancy - baby not yet delivered ,,
-Pregnancy disorders: gestational diabetes, L180.00 ,11359, Diabetes mellitus during pregnancy/childbirth/puerperium ,,
-Pregnancy disorders: gestational diabetes, L180z00 ,64384, Diabetes mellitus in pregnancy/childbirth/puerperium NOS ,,
-Pregnancy disorders: gestational diabetes, L180400 ,96823, Diabetes mellitus in pueperium - baby previously delivered ,,
-Pregnancy disorders: gestational diabetes, L180900 ,2664, Gestational diabetes mellitus ,  ,
-Pregnancy disorders: gestational diabetes, L180811 ,8446, Gestational diabetes mellitus ,  ,
-Pregnancy disorders: gestational diabetes, ZC2CB00 ,108013, Dietary advice for gestational diabetes ,   ,  
+Condition,ReadCode,MedCode,ReadTerm
+Pregnancy disorders: gestational diabetes, ZV13F00 ,94777, [V]Personal history of gestational diabetes mellitus 
+Pregnancy disorders: gestational diabetes, L180800 ,10278, Diabetes mellitus arising in pregnancy 
+Pregnancy disorders: gestational diabetes, L180100 ,34639, Diabetes mellitus during pregnancy - baby delivered
+Pregnancy disorders: gestational diabetes, L180300 ,49559, Diabetes mellitus during pregnancy - baby not yet delivered
+Pregnancy disorders: gestational diabetes, L180.00 ,11359, Diabetes mellitus during pregnancy/childbirth/puerperium
+Pregnancy disorders: gestational diabetes, L180z00 ,64384, Diabetes mellitus in pregnancy/childbirth/puerperium NOS
+Pregnancy disorders: gestational diabetes, L180400 ,96823, Diabetes mellitus in pueperium - baby previously delivered
+Pregnancy disorders: gestational diabetes, L180900 ,2664, Gestational diabetes mellitus
+Pregnancy disorders: gestational diabetes, L180811 ,8446, Gestational diabetes mellitus
+Pregnancy disorders: gestational diabetes, ZC2CB00 ,108013, Dietary advice for gestational diabetes
