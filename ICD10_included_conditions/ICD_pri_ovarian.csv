@@ -1,3 +1,2 @@
-Disease,ICD10code,ICD10codeDescr,
-Primary malignancy ovarian,C56,Malignant neoplasm of ovary,
-Primary malignancy ovarian,Z85.4,Personal history of malignant neoplasm of genital organs,Move to primary malignancy: other
+Disease,ICD10code,ICD10codeDescr
+Primary malignancy ovarian,C56,Malignant neoplasm of ovary
