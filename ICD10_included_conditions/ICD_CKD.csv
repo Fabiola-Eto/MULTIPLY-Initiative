@@ -1,33 +1,9 @@
-Disease,ICD10code,ICD10codeDescr,
-Chronic Kidney Disease,I12,Hypertensive renal disease,Move to hypertension codelist
-Chronic Kidney Disease,I12.0,Hypertensive renal disease with renal failure,Move to hypertension codelist
-Chronic Kidney Disease,I12.9,Hypertensive renal disease without renal failure,Move to hypertension codelist
-Chronic Kidney Disease,I13,Hypertensive heart and renal disease,Move to hypertension codelist
-Chronic Kidney Disease,I13.0,Hypertensive heart and renal disease with (congestive) heart failure,Move to hypertension and heart failure codelists
-Chronic Kidney Disease,I13.1,Hypertensive heart and renal disease with renal failure,Move to hypertension codelist
-Chronic Kidney Disease,I13.2,Hypertensive heart and renal disease with both (congestive) heart failure and renal failure,Move to hypertension and heart failure codelists
-Chronic Kidney Disease,I13.9,"Hypertensive heart and renal disease, unspecified",Move to hypertension and heart failure codelists
-Chronic Kidney Disease,N18,Chronic kidney disease,
-Chronic Kidney Disease,N18.1,"Chronic kidney disease, stage 1",
-Chronic Kidney Disease,N18.2,"Chronic kidney disease, stage 2",
-Chronic Kidney Disease,N18.3,"Chronic kidney disease, stage 3",
-Chronic Kidney Disease,N18.4,"Chronic kidney disease, stage 4",
-Chronic Kidney Disease,N18.5,"Chronic kidney disease, stage 5",
-Chronic Kidney Disease,N18.9,"Chronic kidney disease, unspecified",
-Chronic Kidney Disease,O10.2,"Pre-existing hypertensive renal disease complicating pregnancy, childbirth and the puerperium",Move to hypertension codelist
-Chronic Kidney Disease,O10.3,"Pre-existing hypertensive heart and renal disease complicating pregnancy, childbirth and the puerperium",Move to hypertension codelist
-Chronic Kidney Disease,Q61,Cystic kidney disease,Move to cystic renal disease codelist
-Chronic Kidney Disease,Q61.8,Other cystic kidney diseases,Move to cystic renal disease codelist
-Chronic Kidney Disease,Q61.9,"Cystic kidney disease, unspecified",Move to cystic renal disease codelist
-Chronic Kidney Disease,N01,Rapidly progressive nephritic syndrome,Move to glomerulonephritis codelist
-Chronic Kidney Disease,N03,Chronic nephritic syndrome,Move to glomerulonephritis codelist
-Chronic Kidney Disease,N04,Nephrotic syndrome,Move to glomerulonephritis codelist
-Chronic Kidney Disease,N05,Unspecified nephritic syndrome,Move to glomerulonephritis codelist
-Chronic Kidney Disease,N08,Glomerular disorders in diseases classified elsewhere,Move to glomerulonephritis codelist
-Chronic Kidney Disease,N11,Chronic tubulo-interstitial nephritis,Move to glomerulonephritis codelist
-Chronic Kidney Disease,Q60,Renal agenesis and other reduction defects of kidney,Move to glomerulonephritis codelist
-Chronic Kidney Disease,Q61.1,"Polycystic kidney, autosomal recessive",Move to cystic renal disease codelist
-Chronic Kidney Disease,Q61.2,"Polycystic kidney, autosomal dominant",Move to cystic renal disease codelist
-Chronic Kidney Disease,Q61.3,"Polycystic kidney, unspecified",Move to cystic renal disease codelist
-Chronic Kidney Disease,Q61.5,Medullary cystic kidney,Move to cystic renal disease codelist
-Chronic Kidney Disease,N18.5,"Chronic kidney disease, stage 5",
+Disease,ICD10code,ICD10codeDescr
+Chronic Kidney Disease,N18,Chronic kidney disease
+Chronic Kidney Disease,N18.1,"Chronic kidney disease, stage 1"
+Chronic Kidney Disease,N18.2,"Chronic kidney disease, stage 2"
+Chronic Kidney Disease,N18.3,"Chronic kidney disease, stage 3"
+Chronic Kidney Disease,N18.4,"Chronic kidney disease, stage 4"
+Chronic Kidney Disease,N18.5,"Chronic kidney disease, stage 5"
+Chronic Kidney Disease,N18.9,"Chronic kidney disease, unspecified"
+Chronic Kidney Disease,N04,Nephrotic syndrome
