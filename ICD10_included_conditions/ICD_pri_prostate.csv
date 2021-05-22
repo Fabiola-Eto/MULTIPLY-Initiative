@@ -1,3 +1,2 @@
-Disease,ICD10code,ICD10codeDescr,
-Primary malignancy prostate,C61,Malignant neoplasm of prostate,
-Primary malignancy prostate,Z85.4,Personal history of malignant neoplasm of genital organs,Move to primary malignancy: other
+Disease,ICD10code,ICD10codeDescr
+Primary malignancy prostate,C61,Malignant neoplasm of prostate
