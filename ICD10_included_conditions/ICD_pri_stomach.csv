@@ -1,15 +1,14 @@
-Disease,ICD10code,ICD10codeDescr,
-Primary malignancy stomach,C16,Malignant neoplasm of stomach,
-Primary malignancy stomach,C15.5,Malignant neoplasm: Lower third of oesophagus,
-Primary malignancy stomach,C16.0,Malignant neoplasm: Cardia,
-Primary malignancy stomach,C16.4,Malignant neoplasm: Pylorus,
-Primary malignancy stomach,C16.3,Malignant neoplasm: Pyloric antrum,
-Primary malignancy stomach,C16.1,Malignant neoplasm: Fundus of stomach,
-Primary malignancy stomach,C16.2,Malignant neoplasm: Body of stomach,
-Primary malignancy stomach,C16.5,"Malignant neoplasm: Lesser curvature of stomach, unspecified",
-Primary malignancy stomach,C16.6,"Malignant neoplasm: Greater curvature of stomach, unspecified",
-Primary malignancy stomach,C16.8,Malignant neoplasm: Overlapping lesion of stomach,
-Primary malignancy stomach,C16.9,"Malignant neoplasm: Stomach, unspecified",
-Primary malignancy stomach,D00.2,Carcinoma in situ: Stomach,
-Primary malignancy stomach,D37.1,Neoplasm of uncertain or unknown behaviour: Stomach,
-Primary malignancy stomach,Z85.0,Personal history of malignant neoplasm of digestive organs,Move to primary malignancy: other
+Disease,ICD10code,ICD10codeDescr
+Primary malignancy stomach,C16,Malignant neoplasm of stomach
+Primary malignancy stomach,C15.5,Malignant neoplasm: Lower third of oesophagus
+Primary malignancy stomach,C16.0,Malignant neoplasm: Cardia
+Primary malignancy stomach,C16.4,Malignant neoplasm: Pylorus
+Primary malignancy stomach,C16.3,Malignant neoplasm: Pyloric antrum
+Primary malignancy stomach,C16.1,Malignant neoplasm: Fundus of stomach
+Primary malignancy stomach,C16.2,Malignant neoplasm: Body of stomach
+Primary malignancy stomach,C16.5,"Malignant neoplasm: Lesser curvature of stomach, unspecified"
+Primary malignancy stomach,C16.6,"Malignant neoplasm: Greater curvature of stomach, unspecified"
+Primary malignancy stomach,C16.8,Malignant neoplasm: Overlapping lesion of stomach
+Primary malignancy stomach,C16.9,"Malignant neoplasm: Stomach, unspecified"
+Primary malignancy stomach,D00.2,Carcinoma in situ: Stomach
+Primary malignancy stomach,D37.1,Neoplasm of uncertain or unknown behaviour: Stomach
