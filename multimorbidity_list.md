@@ -1,217 +1,226 @@
 # List of long-term conditions
 
-Multimorbidity was defined as the presence of two or more long-term conditions (out of the 200 conditions listed above) within the same individual. The list of possible long-term conditions for inclusion was collated following literature review. The list was then reviewed by two rounds of consensus panel composed by clinicians with different specialities (general practitioners, psychiatrists, geriatrician, gynaecologist and obstetrician, gastroenterologist, and diabetologist), following predefined criteria to select long-term conditions:
-
+Multimorbidity was defined as the presence of two or more long-term conditions (out of the 202 conditions listed above) within the same individual. The list of possible long-term conditions for inclusion was collated following literature review. The list was then reviewed by two rounds of consensus panel composed by clinicians with different specialities (general practitioners, psychiatrists, geriatrician, gynaecologist and obstetrician, gastroenterologist, and diabetologist), following predefined criteria to select long-term conditions:
+>
 - i.	It is clinically relevant to people age 16+ years old,
 - ii.	It would fit in the standard definition of multimorbidity set out by the Academy of Medical Sciences (1), as follows: The co-existence of two or more chronic conditions, each one of which is either (a) a physical non-communicable disease of long duration, such as cardiovascular disease or cancer, (b) a mental health condition of long duration, such as a mood disorder or dementia, (c) an infectious disease of long duration, such as HIV or hepatitis C.
-
-The code set files are hosted in the folder [codesets_included_conditions](https://github.com/f-eto/qmul-multimorbidity/tree/codesets-included-conditions/codesets_included_conditions) within the [branch](https://github.com/f-eto/qmul-multimorbidity/tree/codesets-included-conditions) of the same name. 
+>
+The codelists files are hosted in the following folders:
+- Read v2 codes: [codesets_included_conditions](https://github.com/f-eto/qmul-multimorbidity/tree/codesets-included-conditions/codesets_included_conditions). 
+- ICD-10 codes: [ICD10_included_conditions](https://github.com/f-eto/qmul-multimorbidity/tree/codesets-included-conditions/ICD10_included_conditions). 
+- OPCS-4 codes [OPCS_included_conditions](https://github.com/f-eto/qmul-multimorbidity/tree/codesets-included-conditions/OPCS_included_conditions):
 
 All code sets have been thoroughly clinically revised by Dr Sarah Finer and Dr Miriam Samuel. 
-
+>
 Please, note that only for 'Constipation' we have two code lists - one composed by Prod codes (prescription codes), and another composed by Read v2 codes. Additionally, 'Painful conditions' were defined using only Prod codes. 
 >
 >
-| Count | Conditions included                                                                          | File name                                |
-|:-----:|----------------------------------------------------------------------------------------------|------------------------------------------|
-|   1   | ADHD and hyperkinetic disorders                                                              | CPRD_ADHD.csv                            |
-|   2   | Adrenal insufficiency and Addison's disease                                                  | CPRD_adrenal_insufficiency.csv           |
-|   3   | Alcohol dependence and related disease                                                       | CPRD_alcohol_depend.csv                  |
-|   4   | Allergic and chronic rhinitis                                                                | CPRD_allergic_rhinitis.csv               |
-|   5   | Alopecia areata and scarring alopecia                                                        | CPRD_alopecia_areata.csv                 |
-|   6   | Ankylosing spondylitis                                                                       | CPRD_ank_spond.csv                       |
-|   7   | Anxiety and phobia                                                                           | CPRD_anxiety_phobia.csv                  |
-|   8   | Aortic aneurysm                                                                              | CPRD_aortic_aneurysm.csv                 |
-|   9   | Aplastic anaemias                                                                            | CPRD_aplastic.csv                        |
-|   10  | Asbestosis                                                                                   | CPRD_asbestosis.csv                      |
-|   11  | Asthma                                                                                       | CPRD_asthma.csv                          |
-|   12  | Atrial fibrillation and flutter                                                              | CPRD_atrial_fibrilation.csv              |
-|   13  | Autism and Asperger's syndrome                                                               | CPRD_autism.csv                          |
-|   14  | Autoimmune liver disease                                                                     | CPRD_autoimm_liver.csv                   |
-|   15  | Barrett's oesophagus                                                                         | CPRD_barretts.csv                        |
-|   16  | Bipolar affective disorder and mania                                                         | CPRD_BAD.csv                             |
-|   17  | Blistering autoimmune skin conditions                                                        | CPRD_autoimm_skin.csv                    |
-|   18  | Bronchiectasis                                                                               | CPRD_bronchiectasis.csv                  |
-|   19  | Cardiac conduction defects                                                                   | CPRD_CCD.csv                             |
-|   20  | Cardiomyopathy other                                                                         | CPRD_cardiomyopathy.csv                  |
-|   21  | Cerebral Palsy                                                                               | CPRD_cerebral_palsy.csv                  |
-|   22  | Cerebrovascular disease                                                                      | CPRD_cerebrovascular_dz.csv              |
-|   23  | Cervical carcinoma in situ                                                                   | CPRD_cin_cervical.csv                    |
-|   24  | Cholelithiasis                                                                               | CPRD_cholelithiasis.csv                  |
-|   25  | Chronic fatigue                                                                              | CPRD_chronic_fatigue.csv                 |
-|   26  | Chronic Kidney Disease                                                                       | CPRD_CKD.csv                             |
-|   27  | Chronic sinusitis                                                                            | CPRD_sinusitis.csv                       |
-|   28  | Chronic ulcer of the skin                                                                    | CPRD_skin_ulcer.csv                      |
-|   29  | Chronic viral hepatitis                                                                      | CPRD_chr_hep.csv                         |
-|   30  | Coeliac disease                                                                              | CPRD_coeliac.csv                         |
-|   31  | Collapsed vertebra                                                                           | CPRD_collapsed_vert.csv                  |
-|   32  | Congenital cardiac disease                                                                   | CPRD_congenital_cardiac.csv              |
-|   33  | Constipation                                                                                 | CPRD_constipation_prod.csv               |
-|   33  | Constipation                                                                                 | CPRD_constipation_read.csv               |
-|   34  | COPD                                                                                         | CPRD_COPD.csv                            |
-|   35  | Coronary heart disease                                                                       | CPRD_CHD.csv                             |
-|   36  | Crohn's disease                                                                              | CPRD_crohns.csv                          |
-|   37  | Cystic Fibrosis                                                                              | CPRD_cystic_fibrosis.csv                 |
-|   38  | Dementia                                                                                     | CPRD_dementia.csv                        |
-|   39  | Depression                                                                                   | CPRD_depression.csv                      |
-|   40  | Dermatitis (atopc/contact/other/unspecified)                                                 | CPRD_dermatitis.csv                      |
-|   41  | Diabetes                                                                                     | CPRD_diabetes.csv                        |
-|   42  | Diabetic eye disease                                                                         | CPRD_diab_eye.csv                        |
-|   43  | Diabetic neurological complications                                                          | CPRD_diab_neuro.csv                      |
-|   44  | Disorders of autonomic nervous system                                                        | CPRD_autonomic_neuro.csv                 |
-|   45  | Diverticular disease of intestine                                                            | CPRD_diverticular.csv                    |
-|   46  | Down's syndrome                                                                              | CPRD_downs.csv                           |
-|   47  | Dysmenorrhoea                                                                                | CPRD_dysmenorrhoea.csv                   |
-|   48  | Eating disorders                                                                             | CPRD_eating_disorder.csv                 |
-|   49  | End stage renal disease                                                                      | CPRD_ESRD.csv                            |
-|   50  | Endometriosis                                                                                | CPRD_endometriosis.csv                   |
-|   51  | Enteropathic arthropathy                                                                     | CPRD_entero_arthro.csv                   |
-|   52  | Enthesopathies & synovial disorders                                                          | CPRD_enthesopathy.csv                    |
-|   53  | Epilepsy                                                                                     | CPRD_epilepsy.csv                        |
-|   54  | Erectile dysfunction                                                                         | CPRD_erectile_dysfunction.csv            |
-|   55  | Female genital prolapse                                                                      | CPRD_female_genital_prolapse.csv         |
-|   56  | Female infertility                                                                           | CPRD_female_infertility.csv              |
-|   57  | Fibromyalgia                                                                                 | CPRD_fibromyalgia.csv                    |
-|   58  | Folate deficiency anaemia                                                                    | CPRD_folate_deficiency.csv               |
-|   59  | Fracture of hip                                                                              | CPRD_fracture_hip.csv                    |
-|   60  | Gastritis and duodenitis                                                                     | CPRD_gastritis_duodenitis.csv            |
-|   61  | Gastrointestinal angiodysplasia                                                              | CPRD_gastrointestinal_angiodysplasia.csv |
-|   62  | Gastro-oesophageal reflux disease                                                            | CPRD_GORD.csv                            |
-|   63  | Giant Cell Arteritis                                                                         | CPRD_GCA.csv                             |
-|   64  | Glaucoma                                                                                     | CPRD_glaucoma.csv                        |
-|   65  | Glomerulonephritis                                                                           | CPRD_GN.csv                              |
-|   66  | Gout                                                                                         | CPRD_gout.csv                            |
-|   67  | Hearing loss                                                                                 | CPRD_hearing_loss.csv                    |
-|   68  | Heart failure                                                                                | CPRD_heart_failure.csv                   |
-|   69  | Heart valve disease non-rheumatic                                                            | CPRD_heart_valve_dz.csv                  |
-|   70  | Hidradenitis suppurativa                                                                     | CPRD_hidradenitis.csv                    |
-|   71  | HIV                                                                                          | CPRD_hiv.csv                             |
-|   72  | Hodgkin Lymphoma                                                                             | CPRD_hodgkins.csv                        |
-|   73  | Hyperparathyroidism                                                                          | CPRD_hyperPTH.csv                        |
-|   74  | Hyperplasia of prostate                                                                      | CPRD_BPH.csv                             |
-|   75  | Hyperprolactinaemia and prolactinoma                                                         | CPRD_hyperprolactinaemia.csv             |
-|   76  | Hypertension                                                                                 | CPRD_hypertension.csv                    |
-|   77  | Hypertrophic Cardiomyopathy                                                                  | CPRD_hocm.csv                            |
-|   78  | Hypertrophy of nasal turbinates                                                              | CPRD_hyper_nasal_turbs.csv               |
-|   79  | Hyposplenism                                                                                 | CPRD_hyposplenism.csv                    |
-|   80  | Immunodeficiencies                                                                           | CPRD_immunodef.csv                       |
-|   81  | Infection of bones and joints                                                                | CPRD_infection_bones_joints.csv          |
-|   82  | Intervertebral disc disorders                                                                | CPRD_intervert_disc.csv                  |
-|   83  | Intracerebral haemorrhage                                                                    | CPRD_Intracereb_haem.csv                 |
-|   84  | Intracranial hypertension                                                                    | CPRD_intracranial_htn.csv                |
-|   85  | Iron deficiency with and without anaemia                                                     | CPRD_iron_deficiency_anaemia.csv         |
-|   86  | Irritable bowel syndrome                                                                     | CPRD_irritable_bowel_syndrome.csv        |
-|   87  | Juvenile arthritis                                                                           | CPRD_juv_arth.csv                        |
-|   88  | Learning disability                                                                          | CPRD_learning_disability.csv             |
-|   89  | Leukaemia                                                                                    | CPRD_leukaemia.csv                       |
-|   90  | Lichen planus                                                                                | CPRD_lichen_planus.csv                   |
-|   91  | Liver failure and transplant                                                                 | CPRD_liver_fail.csv                      |
-|   92  | Liver fibrosis, sclerosis and cirrhosis                                                      | CPRD_cirrhosis.csv                       |
-|   93  | Lupus erythematosus (local and systemic)                                                     | CPRD_SLE.csv                             |
-|   94  | Macular degeneration                                                                         | CPRD_macula_degen.csv                    |
-|   95  | Male infertility                                                                             | CPRD_male_infertility.csv                |
-|   96  | Meniere disease                                                                              | CPRD_meniere.csv                         |
-|   97  | Menorrhagia and polymenorrhoea                                                               | CPRD_menorrhagia.csv                     |
-|   98  | Migraine                                                                                     | CPRD_migraine.csv                        |
-|   99  | Motor neuron disease                                                                         | CPRD_MND.csv                             |
-|  100  | Multiple sclerosis                                                                           | CPRD_multiple_sclerosis.csv              |
-|  101  | Myasthenia gravis                                                                            | CPRD_myasthenia.csv                      |
-|  102  | Myelodysplastic syndromes                                                                    | CPRD_MDS.csv                             |
-|  103  | Myeloma                                                                                      | CPRD_myeloma.csv                         |
-|  104  | Nasal polyp                                                                                  | CPRD_nasal_polyp.csv                     |
-|  105  | Neuromuscular dysfunction of bladder                                                         | CPRD_neuro_bladder.csv                   |
-|  106  | Non-acute cystitis                                                                           | CPRD_chr_cystitis.csv                    |
-|  107  | Non-alcoholic fatty liver disease and steatohepatitis (NASH and NAFLD)                       | CPRD_NAFLD_NASH.csv                      |
-|  108  | Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal   tunnel syndrome) | CPRD_periph_neuro.csv                    |
-|  109  | Non-Hodgkin Lymphoma                                                                         | CPRD_NHL.csv                             |
-|  110  | Non-malignant tumour of brain, central nervous system and pituitary                          | CPRD_non_malignant_brain.csv             |
-|  111  | Obesity                                                                                      | CPRD_obesity.csv                         |
-|  112  | Obsessive-compulsive disorder                                                                | CPRD_ocd.csv                             |
-|  113  | Obstructive and reflux uropathy                                                              | CPRD_obstr_reflux.csv                    |
-|  114  | Oesophagitis and oesophageal ulcer                                                           | CPRD_oesoph_ulc.csv                      |
-|  115  | Osteoarthritis (excl spine)                                                                  | CPRD_OA.csv                              |
-|  116  | Osteoporosis                                                                                 | CPRD_osteoporosis.csv                    |
-|  117  | Other anaemias                                                                               | CPRD_oth_anaemia.csv                     |
-|  118  | Other haemolytic anaemias                                                                    | CPRD_oth_haem_anaemia.csv                |
-|  119  | Other interstitial pulmonary diseases with fibrosis                                          | CPRD_pulm_fibrosis.csv                   |
-|  120  | Other psychoactive substance misuse                                                          | CPRD_substance_misuse.csv                |
-|  121  | Painful conditions                                                                           | CPRD_painful_conditions.csv              |
-|  122  | Pancreatitis                                                                                 | CPRD_pancreatitis.csv                    |
-|  123  | Parkinson's disease                                                                          | CPRD_parkinsons.csv                      |
-|  124  | Peptic ulcer disease                                                                         | CPRD_ulcer_peptic.csv                    |
-|  125  | Peripheral arterial disease                                                                  | CPRD_perip_arterial_disease.csv          |
-|  126  | Peripheral venous and lymphatic disease                                                      | CPRD_venous_lymphatic.csv                |
-|  127  | Personality disorders                                                                        | CPRD_PD.csv                              |
-|  128  | Polycystic ovarian syndrome                                                                  | CPRD_PCOS.csv                            |
-|  129  | Polycythaemia vera                                                                           | CPRD_PCV.csv                             |
-|  130  | Polymyalgia Rheumatica                                                                       | CPRD_PMR.csv                             |
-|  131  | Portal hypertension and oesophageal varices                                                  | CPRD_varices_portal_hypert.csv           |
-|  132  | Post-traumatic stress and stress-related disorders                                           | CPRD_PTSD.csv                            |
-|  133  | Primary Malignancy - Other                                                                   | CPRD_pri_other.csv                       |
-|  134  | Primary Malignancy Biliary tract                                                             | CPRD_pri_biliary.csv                     |
-|  135  | Primary Malignancy Bladder                                                                   | CPRD_pri_bladder.csv                     |
-|  136  | Primary Malignancy Bone and articular cartilage                                              | CPRD_pri_bone.csv                        |
-|  137  | Primary Malignancy Brain, Other CNS and Intracranial                                         | CPRD_pri_brain.csv                       |
-|  138  | Primary Malignancy Breast                                                                    | CPRD_pri_breast.csv                      |
-|  139  | Primary Malignancy Cervical                                                                  | CPRD_pri_cervical.csv                    |
-|  140  | Primary Malignancy Colorectal and anus                                                       | CPRD_pri_coloretal_anus.csv              |
-|  141  | Primary Malignancy Kidney and Ureter                                                         | CPRD_pri_kidney.csv                      |
-|  142  | Primary Malignancy Liver                                                                     | CPRD_pri_liver.csv                       |
-|  143  | Primary Malignancy Lung and trachea                                                          | CPRD_pri_lung.csv                        |
-|  144  | Primary Malignancy Malignant Melanoma                                                        | CPRD_pri_melanoma.csv                    |
-|  145  | Primary Malignancy Mesothelioma                                                              | CPRD_pri_mesothelioma.csv                |
-|  146  | Primary Malignancy Oesophageal                                                               | CPRD_pri_oesoph.csv                      |
-|  147  | Primary Malignancy Oro-pharyngeal                                                            | CPRD_pri_oroph.csv                       |
-|  148  | Primary Malignancy Other Skin and subcutaneous tissue                                        | CPRD_pri_skin.csv                        |
-|  149  | Primary Malignancy Ovarian                                                                   | CPRD_pri_ovarian.csv                     |
-|  150  | Primary Malignancy Pancreatic                                                                | CPRD_pri_pancreatic.csv                  |
-|  151  | Primary Malignancy Prostate                                                                  | CPRD_pri_prostate.csv                    |
-|  152  | Primary Malignancy Stomach                                                                   | CPRD_pri_stomach.csv                     |
-|  153  | Primary Malignancy Testicular                                                                | CPRD_pri_testicular.csv                  |
-|  154  | Primary Malignancy Thyroid                                                                   | CPRD_pri_thyroid.csv                     |
-|  155  | Primary Malignancy Uterine                                                                   | CPRD_pri_uterine.csv                     |
-|  156  | Psoriasis                                                                                    | CPRD_psoriasis.csv                       |
-|  157  | Psoriatic arthropathy                                                                        | CPRD_PSA.csv                             |
-|  158  | Ptosis of eyelid                                                                             | CPRD_ptosis.csv                          |
-|  159  | Pulmonary hypertension                                                                       | CPRD_pulmonary_hypertension.csv          |
-|  160  | Respiratory failure                                                                          | CPRD_resp_failure.csv                    |
-|  161  | Retinal detachments and breaks                                                               | CPRD_retinal_detach.csv                  |
-|  162  | Retinal vascular occlusions                                                                  | CPRD_retinal_vasc_occl.csv               |
-|  163  | Rheumatic valve dz                                                                           | CPRD_Rh_valve.csv                        |
-|  164  | Rheumatoid Arthritis                                                                         | CPRD_RhA.csv                             |
-|  165  | Rosacea                                                                                      | CPRD_rosacea.csv                         |
-|  166  | Sarcoidosis                                                                                  | CPRD_sarcoid.csv                         |
-|  167  | SARS-CoV-2                                                                                   | CPRD_SARS_CoV2.csv                       |
-|  168  | Schizophrenia and non-organic psychosis                                                      | CPRD_schizophrenia.csv                   |
-|  169  | Scoliosis                                                                                    | CPRD_scoliosis.csv                       |
-|  170  | Seborrheic dermatitis                                                                        | CPRD_seb_derm.csv                        |
-|  171  | Secondary malignancy and metastasis                                                          | CPRD_sec_metastasis.csv                  |
-|  172  | Secondary polycythaemia                                                                      | CPRD_2ry_polycythaemia.csv               |
-|  173  | Sick sinus syndrome                                                                          | CPRD_sick_sinus.csv                      |
-|  174  | Sickle-cell anaemia                                                                          | CPRD_sickle_cell.csv                     |
-|  175  | Sjogren's disease                                                                            | CPRD_sjogren.csv                         |
-|  176  | Sleep apnoea                                                                                 | CPRD_sleep_apnoea.csv                    |
-|  177  | Somatoform and dissociative disorders                                                        | CPRD_somatoform.csv                      |
-|  178  | Spina bifida                                                                                 | CPRD_spina_bifida.csv                    |
-|  179  | Spinal stenosis                                                                              | CPRD_spinal_stenosis.csv                 |
-|  180  | Spondylolisthesis                                                                            | CPRD_spondylolisthesis.csv               |
-|  181  | Spondylosis                                                                                  | CPRD_spondylosis.csv                     |
-|  182  | Subarachnoid haemorrhage                                                                     | CPRD_Subarach.csv                        |
-|  183  | Subdural haematoma                                                                           | CPRD_subdural_haem.csv                   |
-|  184  | Supraventricular tachycardia                                                                 | CPRD_SVT.csv                             |
-|  185  | Systemic sclerosis                                                                           | CPRD_sys_sclerosis.csv                   |
-|  186  | Thalassaemia                                                                                 | CPRD_thala.csv                           |
-|  187  | Thrombocytopaenia - primary, secondary and other                                             | CPRD_thrombocytopaenia.csv               |
-|  188  | Thrombophilia                                                                                | CPRD_thrombophilia.csv                   |
-|  189  | Thyroid disease                                                                              | CPRD_thyroid.csv                         |
-|  190  | Tinnitus                                                                                     | CPRD_tinnitus.csv                        |
-|  191  | Trigeminal neuralgia                                                                         | CPRD_trigem_neur.csv                     |
-|  192  | Tuberculosis                                                                                 | CPRD_TB.csv                              |
-|  193  | Ulcerative colitis                                                                           | CPRD_ulc_colitis.csv                     |
-|  194  | Urinary Incontinence                                                                         | CPRD_urine_incont.csv                    |
-|  195  | Urolithiasis                                                                                 | CPRD_urolithiasis.csv                    |
-|  196  | Urticaria                                                                                    | CPRD_urticaria.csv                       |
-|  197  | Venous thromboembolism                                                                       | CPRD_venous_thromb.csv                   |
-|  198  | Visual impairment and blindness                                                              | CPRD_blindness.csv                       |
-|  199  | Vitamin B12 deficiency anaemia                                                               | CPRD_vitb12_deficiency.csv               |
-|  200  | Vitiligo                                                                                     | CPRD_vitiligo.csv                        |
+| **Count** | **Conditions included**                                                                      | **Read v2 codelist**                     | **ICD-10 codelist**                     | **OPCS-4 codelist**              |
+|:---------:|----------------------------------------------------------------------------------------------|------------------------------------------|-----------------------------------------|----------------------------------|
+|     1     | ADHD and hyperkinetic disorders                                                              | CPRD_ADHD.csv                            | ICD_ADHD.csv                            |                                  |
+|     2     | Adrenal insufficiency and Addison's disease                                                  | CPRD_adrenal_insufficiency.csv           | ICD_adrenal_insufficiency.csv           | OPCS_adrenal_insufficiency.csv   |
+|     3     | Alcohol dependence and related disease                                                       | CPRD_alcohol_depend.csv                  | ICD_alcohol_depend.csv                  | OPCS_alcohol_depend.csv          |
+|     4     | Allergic and chronic rhinitis                                                                | CPRD_allergic_rhinitis.csv               | ICD_allergic_rhinitis.csv               |                                  |
+|     5     | Alopecia areata and scarring alopecia                                                        | CPRD_alopecia_areata.csv                 | ICD_alopecia_areata.csv                 |                                  |
+|     6     | Ankylosing spondylitis                                                                       | CPRD_ank_spond.csv                       | ICD_ank_spond.csv                       |                                  |
+|     7     | Anxiety and phobia                                                                           | CPRD_anxiety_phobia.csv                  | ICD_anxiety_phobia.csv                  |                                  |
+|     8     | Aortic aneurysm                                                                              | CPRD_aortic_aneurysm.csv                 | ICD_aortic_aneurysm.csv                 | OPCS_aortic_aneurysm.csv         |
+|     9     | Aplastic anaemias                                                                            | CPRD_aplastic.csv                        | ICD_aplastic.csv                        |                                  |
+|     10    | Asbestosis                                                                                   | CPRD_asbestosis.csv                      | ICD_asbestosis.csv                      |                                  |
+|     11    | Asthma                                                                                       | CPRD_asthma.csv                          | ICD_asthma.csv                          |                                  |
+|     12    | Atrial fibrillation and flutter                                                              | CPRD_atrial_fibrilation.csv              | ICD_atrial_fibrilation.csv              |                                  |
+|     13    | Autism and Asperger's syndrome                                                               | CPRD_autism.csv                          | ICD_autism.csv                          |                                  |
+|     14    | Autoimmune liver disease                                                                     | CPRD_autoimm_liver.csv                   | ICD_autoimm_liver.csv                   |                                  |
+|     15    | Barrett's oesophagus                                                                         | CPRD_barretts.csv                        | ICD_barretts.csv                        |                                  |
+|     16    | Bipolar affective disorder and mania                                                         | CPRD_BAD.csv                             | ICD_BAD.csv                             |                                  |
+|     17    | Blistering autoimmune skin conditions                                                        | CPRD_autoimm_skin.csv                    | ICD_autoimm_skin.csv                    |                                  |
+|     18    | Bronchiectasis                                                                               | CPRD_bronchiectasis.csv                  | ICD_bronchiectasis.csv                  |                                  |
+|     19    | Cardiac conduction defects                                                                   | CPRD_CCD.csv                             | ICD_CCD.csv                             |                                  |
+|     20    | Cardiomyopathy other                                                                         | CPRD_cardiomyopathy.csv                  | ICD_cardiomyopathy.csv                  |                                  |
+|     21    | Cerebral Palsy                                                                               | CPRD_cerebral_palsy.csv                  | ICD_cerebral_palsy.csv                  |                                  |
+|     22    | Cerebrovascular disease                                                                      | CPRD_cerebrovascular_dz.csv              | ICD_cerebrovascular_dz.csv              | OPCS_cerebrovascular_dz.csv      |
+|     23    | Cervical carcinoma in situ                                                                   | CPRD_cin_cervical.csv                    | ICD_cin_cervical.csv                    |                                  |
+|     24    | Cholelithiasis                                                                               | CPRD_cholelithiasis.csv                  | ICD_cholelithiasis.csv                  |                                  |
+|     25    | Chronic fatigue                                                                              | CPRD_chronic_fatigue.csv                 | ICD_chronic_fatigue.csv                 |                                  |
+|     26    | Chronic Kidney Disease                                                                       | CPRD_CKD.csv                             | ICD_CKD.csv                             |                                  |
+|     27    | Chronic sinusitis                                                                            | CPRD_sinusitis.csv                       | ICD_sinusitis.csv                       | OPCS_sinusitis.csv               |
+|     28    | Chronic ulcer of the skin                                                                    | CPRD_skin_ulcer.csv                      | ICD_skin_ulcer.csv                      | OPCS_skin_ulcer.csv              |
+|     29    | Chronic viral hepatitis                                                                      | CPRD_chr_hep.csv                         | ICD_chr_hep.csv                         | OPCS_chr_hep.csv                 |
+|     30    | Coeliac disease                                                                              | CPRD_coeliac.csv                         | ICD_coeliac.csv                         |                                  |
+|     31    | Collapsed vertebra                                                                           | CPRD_collapsed_vert.csv                  | ICD_collapsed_vert.csv                  | OPCS_collapsed_vert.csv          |
+|     32    | Congenital cardiac disease                                                                   | CPRD_congenital_cardiac.csv              | ICD_congenital_cardiac.csv              | OPCS_congenital_cardiac.csv      |
+|     33    | Constipation                                                                                 | CPRD_constipation_prod.csv               | ICD_constipation.csv                    |                                  |
+|     33    | Constipation                                                                                 | CPRD_constipation_read.csv               | ICD_constipation.csv                    |                                  |
+|     34    | COPD                                                                                         | CPRD_COPD.csv                            | ICD_COPD.csv                            |                                  |
+|     35    | Coronary heart disease                                                                       | CPRD_CHD.csv                             | ICD_CHD.csv                             | OPCS_CHD.csv                     |
+|     36    | Crohn's disease                                                                              | CPRD_crohns.csv                          | ICD_crohns.csv                          |                                  |
+|     37    | Cystic Fibrosis                                                                              | CPRD_cystic_fibrosis.csv                 | ICD_cystic_fibrosis.csv                 |                                  |
+|     38    | Cystic renal disease                                                                         | CPRD_cystic_renal.csv                    | ICD_cystic_renal.csv                    |                                  |
+|     39    | Dementia                                                                                     | CPRD_dementia.csv                        | ICD_dementia.csv                        |                                  |
+|     40    | Depression                                                                                   | CPRD_depression.csv                      | ICD_depression.csv                      |                                  |
+|     41    | Dermatitis (atopc/contact/other/unspecified)                                                 | CPRD_dermatitis.csv                      | ICD_dermatitis.csv                      |                                  |
+|     42    | Diabetes                                                                                     | CPRD_diabetes.csv                        | ICD_diabetes.csv                        |                                  |
+|     43    | Diabetic eye disease                                                                         | CPRD_diab_eye.csv                        | ICD_diab_eye.csv                        | OPCS_diab_eye.csv                |
+|     44    | Diabetic neurological complications                                                          | CPRD_diab_neuro.csv                      | ICD_dm_neuro.csv                        |                                  |
+|     45    | Disorders of autonomic nervous system                                                        | CPRD_autonomic_neuro.csv                 | ICD_autonomic_neuro.csv                 |                                  |
+|     46    | Diverticular disease of intestine                                                            | CPRD_diverticular.csv                    | ICD_diverticular.csv                    | OPCS_diverticular.csv            |
+|     47    | Down's syndrome                                                                              | CPRD_downs.csv                           | ICD_downs.csv                           |                                  |
+|     48    | Dysmenorrhoea                                                                                | CPRD_dysmenorrhoea.csv                   | ICD_dysmenorrhoea.csv                   |                                  |
+|     49    | Eating disorders                                                                             | CPRD_eating_disorder.csv                 | ICD_eating_disorder.csv                 |                                  |
+|     50    | End stage renal disease                                                                      | CPRD_ESRD.csv                            | ICD_ESRD.csv                            | OPCS_ESRD.csv                    |
+|     51    | Endometriosis                                                                                | CPRD_endometriosis.csv                   | ICD_endometriosis.csv                   |                                  |
+|     52    | Enteropathic arthropathy                                                                     | CPRD_entero_arthro.csv                   | ICD_entero_arthro.csv                   |                                  |
+|     53    | Enthesopathies & synovial disorders                                                          | CPRD_enthesopathy.csv                    | ICD_enthesopathy.csv                    | OPCS_enthesopathy.csv            |
+|     54    | Epilepsy                                                                                     | CPRD_epilepsy.csv                        | ICD_epilepsy.csv                        |                                  |
+|     55    | Erectile dysfunction                                                                         | CPRD_erectile_dysfunction.csv            | ICD_erectile_dysfunction.csv            | OPCS_erectile_dysfunction.csv    |
+|     56    | Female genital prolapse                                                                      | CPRD_female_genital_prolapse.csv         | ICD_female_genital_prolapse.csv         | OPCS_female_genital_prolapse.csv |
+|     57    | Female infertility                                                                           | CPRD_female_infertility.csv              | ICD_female_infertility.csv              |                                  |
+|     58    | Fibromyalgia                                                                                 | CPRD_fibromyalgia.csv                    | ICD_fibromyalgia.csv                    |                                  |
+|     59    | Folate deficiency anaemia, with and without anaemia                                          | CPRD_folate_deficiency.csv               | ICD_folate_deficiency.csv               |                                  |
+|     60    | Fracture of hip                                                                              | CPRD_hip_fracture.csv                    | ICD_hip_fracture.csv                    | OPCS_hip_fracture.csv            |
+|     61    | Gastritis and duodenitis                                                                     | CPRD_gastritis_duodenitis.csv            | ICD_gastritis_duodenitis.csv            |                                  |
+|     62    | Gastrointestinal angiodysplasia                                                              | CPRD_gastrointestinal_angiodysplasia.csv | ICD_gastrointestinal_angiodysplasia.csv |                                  |
+|     63    | Gastro-oesophageal reflux disease                                                            | CPRD_GORD.csv                            | ICD_GORD.csv                            | OPCS_GORD.csv                    |
+|     64    | Giant Cell Arteritis                                                                         | CPRD_GCA.csv                             | ICD_GCA.csv                             |                                  |
+|     65    | Glaucoma                                                                                     | CPRD_glaucoma.csv                        | ICD_glaucoma.csv                        | OPCS_glaucoma.csv                |
+|     66    | Glomerulonephritis and other nephritides                                                     | CPRD_GN.csv                              | ICD_GN.csv                              |                                  |
+|     67    | Gout                                                                                         | CPRD_gout.csv                            | ICD_gout.csv                            |                                  |
+|     68    | Hearing loss                                                                                 | CPRD_hearing_loss.csv                    | ICD_hearing_loss.csv                    | OPCS_hearing_loss.csv            |
+|     69    | Heart failure                                                                                | CPRD_heart_failure.csv                   | ICD_heart_failure.csv                   |                                  |
+|     70    | Heart valve disease non-rheumatic                                                            | CPRD_heart_valve_dz.csv                  | ICD_heart_valve_dz.csv                  | OPCS_heart_valve_dz.csv          |
+|     71    | Hidradenitis suppurativa                                                                     | CPRD_hidradenitis.csv                    | ICD_hidradenitis.csv                    |                                  |
+|     72    | HIV                                                                                          | CPRD_hiv.csv                             | ICD_hiv.csv                             | OPCS_hiv.csv                     |
+|     73    | Hodgkin Lymphoma                                                                             | CPRD_hodgkins.csv                        | ICD_hodgkins.csv                        |                                  |
+|     74    | Hyperparathyroidism                                                                          | CPRD_hyperPTH.csv                        | ICD_hyperPTH.csv                        | OPCS_hyperPTH.csv                |
+|     75    | Hyperplasia of prostate                                                                      | CPRD_BPH.csv                             | ICD_BPH.csv                             |                                  |
+|     76    | Hyperprolactinaemia and prolactinoma                                                         | CPRD_hyperprolactinaemia.csv             | ICD_hyperprolactinaemia.csv             |                                  |
+|     77    | Hypertension                                                                                 | CPRD_hypertension.csv                    | ICD_hypertension.csv                    | OPCS_hypertension.csv            |
+|     78    | Hypertrophic Cardiomyopathy                                                                  | CPRD_hocm.csv                            | ICD_hocm.csv                            |                                  |
+|     79    | Hypertrophy of nasal turbinates                                                              | CPRD_hyper_nasal_turbs.csv               | ICD_hyper_nasal_turbs.csv               |                                  |
+|     80    | Hypopituitarism                                                                              | CPRD_hypopituitarism.csv                 | ICD_hypopituitarism.csv                 | OPCS_hypopituitarism.csv         |
+|     81    | Hyposplenism                                                                                 | CPRD_hyposplenism.csv                    | ICD_hyposplenism.csv                    | OPCS_hyposplenism.csv            |
+|     82    | Immunodeficiencies                                                                           | CPRD_immunodef.csv                       | ICD_immunodef.csv                       |                                  |
+|     83    | Infection of bones and joints                                                                | CPRD_infection_bones_joints.csv          | ICD_infection_bones_joints.csv          |                                  |
+|     84    | Intervertebral disc disorders                                                                | CPRD_intervert_disc.csv                  | ICD_intervert_disc.csv                  | OPCS_intervert_disc.csv          |
+|     85    | Intracerebral haemorrhage                                                                    | CPRD_Intracereb_haem.csv                 | ICD_Intracereb_haem.csv                 | OPCS_Intracereb_haem.csv         |
+|     86    | Intracranial hypertension                                                                    | CPRD_intracranial_htn.csv                | ICD_intracranial_htn.csv                |                                  |
+|     87    | Iron deficiency with and without anaemia                                                     | CPRD_iron_deficiency_anaemia.csv         | ICD_iron_deficiency_anaemia.csv         |                                  |
+|     88    | Irritable bowel syndrome                                                                     | CPRD_irritable_bowel_syndrome.csv        | ICD_irritable_bowel_syndrome.csv        |                                  |
+|     89    | Juvenile arthritis                                                                           | CPRD_juv_arth.csv                        | ICD_juv_arth.csv                        |                                  |
+|     90    | Learning disability                                                                          | CPRD_learning_disability.csv             | ICD_learning_disability.csv             |                                  |
+|     91    | Leukaemia                                                                                    | CPRD_leukaemia.csv                       | ICD_leukaemia.csv                       |                                  |
+|     92    | Lichen planus                                                                                | CPRD_lichen_planus.csv                   | ICD_lichen_planus.csv                   |                                  |
+|     93    | Liver failure and transplant                                                                 | CPRD_liver_fail.csv                      | ICD_liver_fail.csv                      | OPCS_liver_fail.csv              |
+|     94    | Liver fibrosis, sclerosis and cirrhosis                                                      | CPRD_cirrhosis.csv                       | ICD_cirrhosis.csv                       |                                  |
+|     95    | Lupus erythematosus (local and systemic)                                                     | CPRD_SLE.csv                             | ICD_SLE.csv                             |                                  |
+|     96    | Macular degeneration                                                                         | CPRD_macula_degen.csv                    | ICD_macula_degen.csv                    |                                  |
+|     97    | Male infertility                                                                             | CPRD_male_infertility.csv                | ICD_male_infertility.csv                |                                  |
+|     98    | Meniere disease                                                                              | CPRD_meniere.csv                         | ICD_meniere.csv                         |                                  |
+|     99    | Menorrhagia and polymenorrhoea                                                               | CPRD_menorrhagia.csv                     | ICD_menorrhagia.csv                     |                                  |
+|    100    | Migraine                                                                                     | CPRD_migraine.csv                        | ICD_migraine.csv                        |                                  |
+|    101    | Motor neuron disease                                                                         | CPRD_MND.csv                             | ICD_MND.csv                             | OPCS_MND.csv                     |
+|    102    | Multiple myeloma and malignant plasma cell neoplasms                                         | CPRD_myeloma.csv                         | ICD_myeloma.csv                         |                                  |
+|    103    | Multiple sclerosis                                                                           | CPRD_multiple_sclerosis.csv              | ICD_multiple_sclerosis.csv              |                                  |
+|    104    | Myasthenia gravis                                                                            | CPRD_myasthenia.csv                      | ICD_myasthenia.csv                      |                                  |
+|    105    | Myelodysplastic syndromes                                                                    | CPRD_MDS.csv                             | ICD_MDS.csv                             | OPCS_MDS.csv                     |
+|    106    | Nasal polyp                                                                                  | CPRD_nasal_polyp.csv                     | ICD_nasal_polyp.csv                     | OPCS_nasal_polyp.csv             |
+|    107    | Neuromuscular dysfunction of bladder                                                         | CPRD_neuro_bladder.csv                   | ICD_neuro_bladder.csv                   |                                  |
+|    108    | Non-acute cystitis                                                                           | CPRD_chr_cystitis.csv                    | ICD_chr_cystitis.csv                    |                                  |
+|    109    | Non-alcoholic fatty liver disease and steatohepatitis (NASH and NAFLD)                       | CPRD_NAFLD_NASH.csv                      | ICD_NAFLD_NASH.csv                      |                                  |
+|    110    | Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal   tunnel syndrome) | CPRD_periph_neuro.csv                    | ICD_periph_neuro.csv                    |                                  |
+|    111    | Non-Hodgkin Lymphoma                                                                         | CPRD_NHL.csv                             | ICD_NHL.csv                             |                                  |
+|    112    | Non-malignant tumour of brain, central nervous system and pituitary                          | CPRD_non_malignant_brain.csv             | ICD_non_malignant_brain.csv             | OPCS_non_malignant_brain.csv     |
+|    113    | Obesity                                                                                      | CPRD_obesity.csv                         | ICD_obesity.csv                         | OPCS_obesity.csv                 |
+|    114    | Obsessive-compulsive disorder                                                                | CPRD_ocd.csv                             | ICD_ocd.csv                             |                                  |
+|    115    | Obstructive and reflux uropathy                                                              | CPRD_obstr_reflux.csv                    | ICD_obstr_reflux.csv                    |                                  |
+|    116    | Oesophagitis and oesophageal ulcer                                                           | CPRD_oesoph_ulc.csv                      | ICD_oesoph_ulc.csv                      |                                  |
+|    117    | Osteoarthritis (excl spine)                                                                  | CPRD_OA.csv                              | ICD_OA.csv                              | OPCS_OA.csv                      |
+|    118    | Osteoporosis                                                                                 | CPRD_osteoporosis.csv                    | ICD_osteoporosis.csv                    |                                  |
+|    119    | Other anaemias                                                                               | CPRD_oth_anaemia.csv                     | ICD_oth_anaemia.csv                     |                                  |
+|    120    | Other haemolytic anaemias                                                                    | CPRD_oth_haem_anaemia.csv                | ICD_oth_haem_anaemia.csv                |                                  |
+|    121    | Other interstitial pulmonary diseases with fibrosis                                          | CPRD_pulm_fibrosis.csv                   | ICD_pulm_fibrosis.csv                   |                                  |
+|    122    | Other psychoactive substance misuse                                                          | CPRD_substance_misuse.csv                | ICD_substance_misuse.csv                | OPCS_substance_misuse.csv        |
+|    123    | Painful conditions                                                                           | CPRD_painful_conditions.csv              |                                         |                                  |
+|    124    | Pancreatitis                                                                                 | CPRD_pancreatitis.csv                    | ICD_pancreatitis.csv                    |                                  |
+|    125    | Parkinson's disease                                                                          | CPRD_parkinsons.csv                      | ICD_parkinsons.csv                      |                                  |
+|    126    | Peptic ulcer disease                                                                         | CPRD_ulcer_peptic.csv                    | ICD_ulcer_peptic.csv                    | OPCS_ulcer_peptic.csv            |
+|    127    | Peripheral arterial disease                                                                  | CPRD_perip_arterial_disease.csv          | ICD_perip_arterial_disease.csv          | OPCS_perip_arterial_disease.csv  |
+|    128    | Peripheral venous and lymphatic disease                                                      | CPRD_venous_lymphatic.csv                | ICD_venous_lymphatic.csv                | OPCS_venous_lymphatic.csv        |
+|    129    | Personality disorder                                                                         | CPRD_PD.csv                              | ICD_PD.csv                              |                                  |
+|    130    | Polycystic ovarian syndrome                                                                  | CPRD_PCOS.csv                            | ICD_PCOS.csv                            |                                  |
+|    131    | Polycythaemia vera                                                                           | CPRD_PCV.csv                             | ICD_PCV.csv                             |                                  |
+|    132    | Polymyalgia Rheumatica                                                                       | CPRD_PMR.csv                             | ICD_PMR.csv                             |                                  |
+|    133    | Portal hypertension and oesophageal varices                                                  | CPRD_varices_portal_hypert.csv           | ICD_varices_portal_hypert.csv           | OPCS_varices.csv                 |
+|    134    | Post-traumatic stress and stress-related disorders                                           | CPRD_PTSD.csv                            | ICD_PTSD.csv                            |                                  |
+|    135    | Primary Malignancy - Other                                                                   | CPRD_pri_other.csv                       | ICD_pri_other.csv                       |                                  |
+|    136    | Primary Malignancy Biliary tract                                                             | CPRD_pri_biliary.csv                     | ICD_pri_biliary.csv                     |                                  |
+|    137    | Primary Malignancy Bladder                                                                   | CPRD_pri_bladder.csv                     | ICD_pri_bladder.csv                     |                                  |
+|    138    | Primary Malignancy Bone and articular cartilage                                              | CPRD_pri_bone.csv                        | ICD_pri_bone.csv                        |                                  |
+|    139    | Primary Malignancy Brain, Other CNS and Intracranial                                         | CPRD_pri_brain.csv                       | ICD_pri_brain.csv                       |                                  |
+|    140    | Primary Malignancy Breast                                                                    | CPRD_pri_breast.csv                      | ICD_pri_breast.csv                      |                                  |
+|    141    | Primary Malignancy Cervical                                                                  | CPRD_pri_cervical.csv                    | ICD_pri_cervical.csv                    |                                  |
+|    142    | Primary Malignancy Colorectal and anus                                                       | CPRD_pri_coloretal_anus.csv              | ICD_pri_coloretal_anus.csv              |                                  |
+|    143    | Primary Malignancy Kidney and Ureter                                                         | CPRD_pri_kidney.csv                      | ICD_pri_kidney.csv                      |                                  |
+|    144    | Primary Malignancy Liver                                                                     | CPRD_pri_liver.csv                       | ICD_pri_liver.csv                       |                                  |
+|    145    | Primary Malignancy Lung and trachea                                                          | CPRD_pri_lung.csv                        | ICD_pri_lung.csv                        |                                  |
+|    146    | Primary Malignancy Malignant Melanoma                                                        | CPRD_pri_melanoma.csv                    | ICD_pri_melanoma.csv                    |                                  |
+|    147    | Primary Malignancy Mesothelioma                                                              | CPRD_pri_mesothelioma.csv                | ICD_pri_mesothelioma.csv                |                                  |
+|    148    | Primary Malignancy Oesophageal                                                               | CPRD_pri_oesoph.csv                      | ICD_pri_oesoph.csv                      |                                  |
+|    149    | Primary Malignancy Oro-pharyngeal                                                            | CPRD_pri_oroph.csv                       | ICD_pri_oroph.csv                       |                                  |
+|    150    | Primary Malignancy Other Skin and subcutaneous tissue                                        | CPRD_pri_skin.csv                        | ICD_pri_skin.csv                        | OPCS_pri_skin.csv                |
+|    151    | Primary Malignancy Ovarian                                                                   | CPRD_pri_ovarian.csv                     | ICD_pri_ovarian.csv                     |                                  |
+|    152    | Primary Malignancy Pancreatic                                                                | CPRD_pri_pancreatic.csv                  | ICD_pri_pancreatic.csv                  |                                  |
+|    153    | Primary Malignancy Prostate                                                                  | CPRD_pri_prostate.csv                    | ICD_pri_prostate.csv                    | OPCS_pri_prostate.csv            |
+|    154    | Primary Malignancy Stomach                                                                   | CPRD_pri_stomach.csv                     | ICD_pri_stomach.csv                     |                                  |
+|    155    | Primary Malignancy Testicular                                                                | CPRD_pri_testicular.csv                  | ICD_pri_testicular.csv                  |                                  |
+|    156    | Primary Malignancy Thyroid                                                                   | CPRD_pri_thyroid.csv                     | ICD_pri_thyroid.csv                     |                                  |
+|    157    | Primary Malignancy Uterine                                                                   | CPRD_pri_uterine.csv                     | ICD_pri_uterine.csv                     |                                  |
+|    158    | Psoriasis                                                                                    | CPRD_psoriasis.csv                       | ICD_psoriasis.csv                       |                                  |
+|    159    | Psoriatic arthropathy                                                                        | CPRD_PSA.csv                             | ICD_PSA.csv                             |                                  |
+|    160    | Ptosis of eyelid                                                                             | CPRD_ptosis.csv                          | ICD_ptosis.csv                          | OPCS_ptosis.csv                  |
+|    161    | Pulmonary hypertension                                                                       | CPRD_pulmonary_hypertension.csv          | ICD_pulmonary_hypertension.csv          |                                  |
+|    162    | Respiratory failure                                                                          | CPRD_resp_failure.csv                    | ICD_resp_failure.csv                    |                                  |
+|    163    | Retinal detachments and breaks                                                               | CPRD_retinal_detach.csv                  | ICD_retinal_detach.csv                  | OPCS_retinal_detach.csv          |
+|    164    | Retinal vascular occlusions                                                                  | CPRD_retinal_vasc_occl.csv               | ICD_retinal_vasc_occl.csv               |                                  |
+|    165    | Rheumatic valve dz                                                                           | CPRD_Rh_valve.csv                        | ICD_Rh_valve.csv                        |                                  |
+|    166    | Rheumatoid Arthritis                                                                         | CPRD_RhA.csv                             | ICD_RhA.csv                             | OPCS_RhA.csv                     |
+|    167    | Rosacea                                                                                      | CPRD_rosacea.csv                         | ICD_rosacea.csv                         |                                  |
+|    168    | Sarcoidosis                                                                                  | CPRD_sarcoid.csv                         | ICD_sarcoid.csv                         |                                  |
+|    169    | SARS-CoV-2                                                                                   | CPRD_SARS_CoV2.csv                       | ICD_SARS_CoV2.csv                       |                                  |
+|    170    | Schizophrenia and non-organic psychosis                                                      | CPRD_schizophrenia.csv                   | ICD_schizophrenia.csv                   |                                  |
+|    171    | Scoliosis                                                                                    | CPRD_scoliosis.csv                       | ICD_scoliosis.csv                       | OPCS_scoliosis.csv               |
+|    172    | Seborrheic dermatitis                                                                        | CPRD_seb_derm.csv                        | ICD_seb_derm.csv                        |                                  |
+|    173    | Secondary malignancy and metastasis                                                          | CPRD_sec_metastasis.csv                  | ICD_sec_metastasis.csv                  |                                  |
+|    174    | Secondary polycythaemia                                                                      | CPRD_2ry_polycythaemia.csv               | ICD_2ry_polycythaemia.csv               |                                  |
+|    175    | Sick sinus syndrome                                                                          | CPRD_sick_sinus.csv                      | ICD_sick_sinus.csv                      |                                  |
+|    176    | Sickle-cell anaemia                                                                          | CPRD_sickle_cell.csv                     | ICD_sickle_cell.csv                     |                                  |
+|    177    | Sjogren's disease                                                                            | CPRD_sjogren.csv                         | ICD_sjogren.csv                         |                                  |
+|    178    | Sleep apnoea                                                                                 | CPRD_sleep_apnoea.csv                    | ICD_sleep_apnoea.csv                    |                                  |
+|    179    | Somatoform and dissociative disorders                                                        | CPRD_somatoform.csv                      | ICD_somatoform.csv                      |                                  |
+|    180    | Spina bifida                                                                                 | CPRD_spina_bifida.csv                    | ICD_spina_bifida.csv                    | OPCS_spina_bifida.csv            |
+|    181    | Spinal stenosis                                                                              | CPRD_spinal_stenosis.csv                 | ICD_spinal_stenosis.csv                 |                                  |
+|    182    | Spondylolisthesis                                                                            | CPRD_spondylolisthesis.csv               | ICD_spondylolisthesis.csv               | OPCS_spondylolisthesis.csv       |
+|    183    | Spondylosis                                                                                  | CPRD_spondylosis.csv                     | ICD_spondylosis.csv                     |                                  |
+|    184    | Subarachnoid haemorrhage                                                                     | CPRD_Subarach.csv                        | ICD_Subarach.csv                        |                                  |
+|    185    | Subdural haematoma                                                                           | CPRD_subdural_haem.csv                   | ICD_subdural_haem.csv                   | OPCS_subdural_haem.csv           |
+|    186    | Supraventricular tachycardia                                                                 | CPRD_SVT.csv                             | ICD_SVT.csv                             |                                  |
+|    187    | Systemic sclerosis                                                                           | CPRD_sys_sclerosis.csv                   | ICD_sys_sclerosis.csv                   |                                  |
+|    188    | Thalassaemia                                                                                 | CPRD_thalassaemia.csv                    | ICD_thalassaemia.csv                    |                                  |
+|    189    | Thrombocytopaenia - primary, secondary and other                                             | CPRD_thrombocytopaenia.csv               | ICD_thrombocytopaenia.csv               |                                  |
+|    190    | Thrombophilia                                                                                | CPRD_thrombophilia.csv                   | ICD_thrombophilia.csv                   |                                  |
+|    191    | Thyroid disease                                                                              | CPRD_thyroid.csv                         | ICD_thyroid.csv                         | OPCS_thyroid.csv                 |
+|    192    | Tinnitus                                                                                     | CPRD_tinnitus.csv                        | ICD_tinnitus.csv                        |                                  |
+|    193    | Trigeminal neuralgia                                                                         | CPRD_trigem_neur.csv                     | ICD_trigem_neur.csv                     |                                  |
+|    194    | Tuberculosis                                                                                 | CPRD_TB.csv                              | ICD_TB.csv                              |                                  |
+|    195    | Ulcerative colitis                                                                           | CPRD_ulc_colitis.csv                     | ICD_ulc_colitis.csv                     |                                  |
+|    196    | Urinary Incontinence                                                                         | CPRD_urine_incont.csv                    | ICD_urine_incont.csv                    |                                  |
+|    197    | Urolithiasis                                                                                 | CPRD_urolithiasis.csv                    | ICD_urolithiasis.csv                    | OPCS_urolithiasis.csv            |
+|    198    | Urticaria                                                                                    | CPRD_urticaria.csv                       | ICD_urticaria.csv                       |                                  |
+|    199    | Venous thromboembolism                                                                       | CPRD_venous_thromb.csv                   | ICD_venous_thromb.csv                   |                                  |
+|    200    | Visual impairment and blindness                                                              | CPRD_blindness.csv                       | ICD_blindness.csv                       |                                  |
+|    201    | Vitamin B12 deficiency anaemia, with and without anaemia                                     | CPRD_vitb12_deficiency.csv               | ICD_vitb12_deficiency.csv               |                                  |
+|    202    | Vitiligo                                                                                     | CPRD_vitiligo.csv                        | ICD_vitiligo.csv                        |                                  |
+
+
+
+For more information about the Repository content, please see the [README.md](https://github.com/f-eto/qmul-multimorbidity/blob/codesets-included-conditions/README.md) file.
