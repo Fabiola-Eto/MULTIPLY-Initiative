@@ -6,9 +6,9 @@ Multimorbidity was defined as the presence of two or more long-term conditions (
 - ii.	It would fit in the standard definition of multimorbidity set out by the Academy of Medical Sciences (1), as follows: The co-existence of two or more chronic conditions, each one of which is either (a) a physical non-communicable disease of long duration, such as cardiovascular disease or cancer, (b) a mental health condition of long duration, such as a mood disorder or dementia, (c) an infectious disease of long duration, such as HIV or hepatitis C.
 >
 The codelists files are hosted in the following folders:
-- Read v2 codes: [codesets_included_conditions](https://github.com/f-eto/qmul-multimorbidity/tree/codesets-included-conditions/codesets_included_conditions). 
-- ICD-10 codes: [ICD10_included_conditions](https://github.com/f-eto/qmul-multimorbidity/tree/codesets-included-conditions/ICD10_included_conditions). 
-- OPCS-4 codes [OPCS_included_conditions](https://github.com/f-eto/qmul-multimorbidity/tree/codesets-included-conditions/OPCS_included_conditions):
+- Read v2 codes: [codesets_included_conditions](https://github.com/f-eto/qmul-multimorbidity/tree/codesets-included-conditions/codesets_included_conditions) 
+- ICD-10 codes: [ICD10_included_conditions](https://github.com/f-eto/qmul-multimorbidity/tree/codesets-included-conditions/ICD10_included_conditions) 
+- OPCS-4 codes: [OPCS_included_conditions](https://github.com/f-eto/qmul-multimorbidity/tree/codesets-included-conditions/OPCS_included_conditions)
 
 All code sets have been thoroughly clinically revised by Dr Sarah Finer and Dr Miriam Samuel. 
 >
