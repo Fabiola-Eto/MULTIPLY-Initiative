@@ -18,45 +18,31 @@ Contains the ICD-10 codelists adapted from [Kuan/CALIBER](https://www.caliberres
 Contains the OPCS-4 codelists generated from clinical revision and comparison between the codelists i. adapted from the [CALIBER research group work](https://www.caliberresearch.org/portal/phenotypes/chronological-map), and ii. cross-mapped from the Read v2 code lists. The [UK Biobank lookup file](https://biobank.ctsu.ox.ac.uk/crystal/refer.cgi?id=592) was used to cross-map the codes. The OPCS4.9 from NHS TRUD was used as a dictionary of OPCS4 codes and description. 
 > 
 > 
-### all_codes
+### all_QMUL_codelists
 >
-**all_CPRD_codes.csv**
+**QMUL_Read2_CPRD_codelists.csv**
 >
-Contains all CPRD/Read2 codes (n= 11,038) selected to identify 199 out of 200 conditions from the [multimorbidity list](https://github.com/f-eto/qmul-multimorbidity/blob/codesets-included-conditions/multimorbidity_list.md). Please, note that i. 'Painful conditions' and 'Constipation' (prodcodes) are not included in the overall file, as their codes are not Read v2, but prodcodes since these two conditions will be selected using prescribing data; ii. Constipation will *also* be selected using Read v2 codes (there are two code lists available for this condition). 
+Contains all CPRD/Read2 codes (n= 11,202) selected to identify 201 out of 202 conditions from the [multimorbidity list](https://github.com/f-eto/qmul-multimorbidity/blob/codesets-included-conditions/multimorbidity_list.md). Please, note that i. 'Painful conditions' was not included in the overall file of Read v2 codes, since this condition was selected using prescribing data (Gemscript codes);  ii. Note that 'Constipation' was selected using both Read v2 codes and Gemscript codes, and therefore there are two code lists available for this condition. 
 >
+> 
+**QMUL_ICD10_codelists.csv**
 >
-**all_ICD_codes_cross_mapped.csv**
+Contains all ICD-10 codes (n= 2,659) selected to identify 201 out of 202 conditions from the [multimorbidity list](https://github.com/f-eto/qmul-multimorbidity/blob/codesets-included-conditions/multimorbidity_list.md). Please, note that i. 'Painful conditions' was not included in the overall file of ICD-10 codes, since this condition was selected using prescribing data (Gemscript codes) only.
 >
-Contains all ICD-10 codes (n= 2,270) that matched the Read2 codes for 196 conditions out of our multimorbidity list of 200 conditions. 
+> 
+**QMUL_OPCS4_codelists.csv**
 >
->
-**all_OPCS_codes_cross_mapped.csv**
->
-Contains all OPCS4 codes (n= 530) that matched the Read2 codes for 60 conditions out of our multimorbidity list of 200 conditions. 
->
->
-**all_ICD_codes_kuan.csv**
->
-Contains all ICD-10 codes (n= 993) that identify the 200 conditions of our multimorbidity list. Codes [published by Kuan in the CALIBER portal](https://www.caliberresearch.org/portal/phenotypes/chronological-map) and adapted according to clinical revision carried out by our research group.
+Contains all OPCS-4 codes (n= 757) selected to identify 51 out of 202 conditions from the [multimorbidity list](https://github.com/f-eto/qmul-multimorbidity/blob/codesets-included-conditions/multimorbidity_list.md). 
 >
 >
-**all_ICD_codes_provenance.csv**
->
-Combine all ICD-10 codes (n= 2,696) obtained in both cross-mapping process and published by Kuan/CALIBER. All duplicate codes were removed. There's a column indicating the code's provenance. 
->
->
-**all_OPCS_codes_provenance.csv**
->
-Combine all OPCS-4 codes (n= 758) obtained in both cross-mapping process (n= 54) and published by Kuan/CALIBER (n= 15). All duplicate codes were removed. There's a column indicating the code's provenance. 
->
->
+
 ### duplicated_codes
-Contains all duplicate codes (n= 778), i.e. identical codes that were used to identify different conditions.
+Contains all duplicate Read v2 codes (n= 794), i.e. identical codes that were used to identify different conditions.
 >
 >
 
 ### resolved_remission_codes
-Please, see [Issue Resolved codes #10](https://github.com/f-eto/qmul-multimorbidity/issues/10)
+Please, see [Issue Resolved codes #10](https://github.com/f-eto/qmul-multimorbidity/issues/10) and [Issue Resolution/remission/cure of conditions #194](https://github.com/f-eto/qmul-multimorbidity/issues/194).
 >
 >
 ### codesets_covariables
