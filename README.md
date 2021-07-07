@@ -37,7 +37,7 @@ Contains all OPCS-4 codes (n= 757) selected to identify 51 out of 202 conditions
 >
 
 ### duplicated_codes
-Contains all duplicate Read v2 codes (n= 794), i.e. identical codes that were used to identify different conditions.
+Contains all duplicate Read v2 codes (n= 792), i.e. identical codes that were used to identify different conditions.
 >
 >
 
