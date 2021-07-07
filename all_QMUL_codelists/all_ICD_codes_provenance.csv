@@ -1338,7 +1338,7 @@ Motor neuron disease,G12.1,Other inherited spinal muscular atrophy,Cross-mapped,
 Motor neuron disease,G12.2,Motor neuron disease,Overlap,NA
 Motor neuron disease,G12.8,Other spinal muscular atrophies and related syndromes,Cross-mapped,NA
 Motor neuron disease,G12.9,"Spinal muscular atrophy, unspecified",Cross-mapped,NA
-Multiple myeloma and malignant plasma cell neoplasms,C88.0,Waldenström macroglobulinaemia,Overlap,NA
+Multiple myeloma and malignant plasma cell neoplasms,C88.0,WaldenstrÃ¶m macroglobulinaemia,Overlap,NA
 Multiple myeloma and malignant plasma cell neoplasms,C88.2,Other heavy chain disease,Overlap,NA
 Multiple myeloma and malignant plasma cell neoplasms,C88.3,Immunoproliferative small intestinal disease,Cross-mapped,NA
 Multiple myeloma and malignant plasma cell neoplasms,C88.9,"Malignant immunoproliferative disease, unspecified",Cross-mapped,NA
@@ -1415,7 +1415,7 @@ Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel
 Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),G60.8,Other hereditary and idiopathic neuropathies,Cross-mapped,NA
 Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),G60.9,"Hereditary and idiopathic neuropathy, unspecified",Cross-mapped,NA
 Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),G61,Inflammatory polyneuropathy,Kuan,NA
-Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),G61.0,Guillain-Barré syndrome,Cross-mapped,NA
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),G61.0,Guillain-BarrÃ© syndrome,Cross-mapped,NA
 Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),G61.1,Serum neuropathy,Cross-mapped,NA
 Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),G61.8,Other inflammatory polyneuropathies,Cross-mapped,NA
 Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),G61.9,"Inflammatory polyneuropathy, unspecified",Cross-mapped,NA
@@ -1454,7 +1454,7 @@ Non-Hodgkin Lymphoma,C83.8,Other non-follicular lymphoma,Cross-mapped,NA
 Non-Hodgkin Lymphoma,C83.9,"Non-follicular (diffuse) lymphoma, unspecified",Cross-mapped,NA
 Non-Hodgkin Lymphoma,C84,Mature T/NK-cell lymphomas,Kuan,NA
 Non-Hodgkin Lymphoma,C84.0,Mycosis fungoides,Cross-mapped,NA
-Non-Hodgkin Lymphoma,C84.1,Sézary disease,Cross-mapped,NA
+Non-Hodgkin Lymphoma,C84.1,SÃ©zary disease,Cross-mapped,NA
 Non-Hodgkin Lymphoma,C84.4,"Peripheral T-cell lymphoma, not elsewhere classified",Cross-mapped,NA
 Non-Hodgkin Lymphoma,C84.5,Other mature T/NK-cell lymphomas,Cross-mapped,NA
 Non-Hodgkin Lymphoma,C84.6,"Anaplastic large cell lymphoma, ALK-positive",Cross-mapped,NA
@@ -2499,7 +2499,7 @@ Sickle-cell anaemia,D57.0,Sickle-cell anaemia with crisis,Overlap,NA
 Sickle-cell anaemia,D57.1,Sickle-cell anaemia without crisis,Overlap,NA
 Sickle-cell anaemia,D57.2,Double heterozygous sickling disorders,Overlap,NA
 Sickle-cell anaemia,D57.8,Other sickle-cell disorders,Overlap,NA
-Sjogren's disease,M35.0,Sicca syndrome [Sjögren],Overlap,NA
+Sjogren's disease,M35.0,Sicca syndrome [SjÃ¶gren],Overlap,NA
 Sleep apnoea,G47.3,Sleep apnoea,Overlap,NA
 Somatoform and dissociative disorders,F06.5,Organic dissociative disorder,New code list,NA
 Somatoform and dissociative disorders,F40,Phobic anxiety disorders,New code list,NA
