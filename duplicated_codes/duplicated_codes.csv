@@ -1,4 +1,4 @@
-Disease,ReadCode,MedCode,ReadTerm
+Condition,ReadCode,MedCode,ReadTerm
 Female infertility,1AZ2.11,2957,Infertility problem
 Male infertility,1AZ2.11,2957,Infertility problem
 Diabetes,1M8..00,109760,Diabetic peripheral neuropathic pain
@@ -24,6 +24,10 @@ Diabetes,2G51000,27921,Foot abnormality - diabetes related
 Diabetic neurological complications,2G51000,27921,Foot abnormality - diabetes related
 Diabetes,2G5C.00,18056,Foot abnormality - diabetes related
 Diabetic neurological complications,2G5C.00,18056,Foot abnormality - diabetes related
+Hypopituitarism,7100y00,53569,Other specified excision of pituitary gland
+"Non-malignant tumour of brain, central nervous system and pituitary",7100y00,53569,Other specified excision of pituitary gland
+Hypopituitarism,7100z00,49056,Excision of pituitary gland NOS
+"Non-malignant tumour of brain, central nervous system and pituitary",7100z00,49056,Excision of pituitary gland NOS
 Chronic sinusitis,7416F00,42166,Functional endoscopic sinus surg - polypectomy nasal sinus
 Nasal polyp,7416F00,42166,Functional endoscopic sinus surg - polypectomy nasal sinus
 Chronic sinusitis,7417z00,94014,Other operations on frontal sinus
@@ -352,6 +356,12 @@ Diabetes,C10FR11,113609,Type II diabetes mellitus with gastroparesis
 Diabetic neurological complications,C10FR11,113609,Type II diabetes mellitus with gastroparesis
 Cystic Fibrosis,C10N100,93380,Cystic fibrosis related diabetes mellitus
 Diabetes,C10N100,93380,Cystic fibrosis related diabetes mellitus
+Hypopituitarism,C133y00,69903,Other specified pituitary dwarfism
+"Non-malignant tumour of brain, central nervous system and pituitary",C133y00,69903,Other specified pituitary dwarfism
+Hypopituitarism,C134300,11146,TSH - thyroid-stimulating hormone deficiency
+Thyroid disease,C134300,11146,TSH - thyroid-stimulating hormone deficiency
+Hypopituitarism,C13A.00,105321,Pituitary apoplexy
+"Non-malignant tumour of brain, central nervous system and pituitary",C13A.00,105321,Pituitary apoplexy
 Gout,C34y400,59344,Gouty neuritis
 Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),C34y400,59344,Gouty neuritis
 Cystic Fibrosis,C370800,102922,Cystic fibrosis related cirrhosis
@@ -361,8 +371,8 @@ Immunodeficiencies,C391200,31322,Wiskott - Aldrich syndrome
 Dermatitis (atopc/contact/other/unspecified),C391211,42439,Thrombocytopenic eczema with immunodeficiency
 Immunodeficiencies,C391211,42439,Thrombocytopenic eczema with immunodeficiency
 "Thrombocytopenia - primary, secondary and other",C391211,42439,Thrombocytopenic eczema with immunodeficiency
-Folate deficiency anaemia,D013000,22715,Combined B12 and folate deficiency anaemia
-Vitamin B12 deficiency anaemia,D013000,22715,Combined B12 and folate deficiency anaemia
+"Folate deficiency, with and without anaemia",D013000,22715,Combined B12 and folate deficiency anaemia
+"Vitamin B12 deficiency, with and without anaemia",D013000,22715,Combined B12 and folate deficiency anaemia
 Sickle-cell anaemia,D104211,31075,Sickle-cell thalassaemia
 Thalassaemia,D104211,31075,Sickle-cell thalassaemia
 Aplastic anaemias,D201612,61326,Pancytopenia with pancreatitis
@@ -645,10 +655,12 @@ Alcohol dependence and related disease,J671000,24984,Alcohol-induced chronic pan
 Pancreatitis,J671000,24984,Alcohol-induced chronic pancreatitis
 Cholelithiasis,J671100,42278,Gallstone chronic pancreatitis
 Pancreatitis,J671100,42278,Gallstone chronic pancreatitis
-Glomerulonephritis,K01x400,47672,Nephrotic syndrome in systemic lupus erythematosus
+Glomerulonephritis and other nephritides,K01x400,47672,Nephrotic syndrome in systemic lupus erythematosus
 Lupus erythematosus (local and systemic),K01x400,47672,Nephrotic syndrome in systemic lupus erythematosus
-Glomerulonephritis,K01x411,22205,Lupus nephritis
+Glomerulonephritis and other nephritides,K01x411,22205,Lupus nephritis
 Lupus erythematosus (local and systemic),K01x411,22205,Lupus nephritis
+Glomerulonephritis and other nephritides,K100600,2939,Calculous pyelonephritis
+Urolithiasis,K100600,2939,Calculous pyelonephritis
 Obstructive and reflux uropathy,K112.00,27592,Hydronephrosis with renal and ureteral calculous obstruction
 Urolithiasis,K112.00,27592,Hydronephrosis with renal and ureteral calculous obstruction
 Disorders of autonomic nervous system,K16V011,25398,Neurogenic bladder
