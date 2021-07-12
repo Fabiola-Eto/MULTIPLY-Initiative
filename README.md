@@ -20,9 +20,9 @@ Contains the OPCS-4 codelists generated from clinical revision and comparison be
 > 
 ### all_QMUL_codelists
 >
-**QMUL_Read2_CPRD_codelists.csv**
+**QMUL_CPRD_GOLD_codelists.csv**
 >
-Contains all CPRD GOLD/Read2 codes (n= 11,201) selected to identify 201 out of 202 conditions from the [multimorbidity list](https://github.com/f-eto/qmul-multimorbidity/blob/codesets-included-conditions/multimorbidity_list.md). Please, note that i. 'Painful conditions' was not included in the overall file of Read v2 codes, since this condition was selected using prescribing data (Gemscript codes);  ii. Note that 'Constipation' was selected using both Read v2 codes and Gemscript codes, and therefore there are two code lists available for this condition. 
+Contains all CPRD GOLD codes (Read v2 codes) (n= 11,100) selected to identify 201 out of 202 conditions from the [multimorbidity list](https://github.com/f-eto/qmul-multimorbidity/blob/codesets-included-conditions/multimorbidity_list.md). Please, note that i. 'Painful conditions' was not included in the overall file of Read v2 codes, since this condition was selected using prescribing data (Gemscript codes);  ii. Note that 'Constipation' was selected using both Read v2 codes and Gemscript codes, and therefore there are two code lists available for this condition. 
 >
 > 
 **QMUL_ICD10_codelists.csv**
