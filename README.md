@@ -27,7 +27,7 @@ Contains all CPRD GOLD codes (Read v2 codes) (n= 11,100) selected to identify 20
 > 
 **QMUL_CPRD_Aurum_codelists.csv**
 >
-Contains all CPRD Aurum codes (including SNOMED) (n= 11,045) that matched either the ReadCode (n= 10,925) or ReadTerm (n= 120) from the GOLD codelists. The codelists correspond to the 201 out of 202 conditions from the [multimorbidity list](https://github.com/f-eto/qmul-multimorbidity/blob/codesets-included-conditions/multimorbidity_list.md). 'Painful conditions' was selected using prescribing data (Gemscript codes). 
+Contains all CPRD Aurum codes (including SNOMED) (n= 11,521) that matched either the ReadCode (n= 10,925) or ReadTerm (n= 120) from the GOLD codelists, also the codelist for SARS-CoV-2 provided by CPRD (n= 446). The codelists correspond to the 201 out of 202 conditions from the [multimorbidity list](https://github.com/f-eto/qmul-multimorbidity/blob/codesets-included-conditions/multimorbidity_list.md). 'Painful conditions' was selected using prescribing data (Gemscript codes). 
 >
 > 
 **QMUL_ICD10_codelists.csv**
