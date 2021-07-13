@@ -25,6 +25,11 @@ Contains the OPCS-4 codelists generated from clinical revision and comparison be
 Contains all CPRD GOLD codes (Read v2 codes) (n= 11,100) selected to identify 201 out of 202 conditions from the [multimorbidity list](https://github.com/f-eto/qmul-multimorbidity/blob/codesets-included-conditions/multimorbidity_list.md). Please, note that i. 'Painful conditions' was not included in the overall file of Read v2 codes, since this condition was selected using prescribing data (Gemscript codes);  ii. Note that 'Constipation' was selected using both Read v2 codes and Gemscript codes, and therefore there are two code lists available for this condition. 
 >
 > 
+**QMUL_CPRD_Aurum_codelists.csv**
+>
+Contains all CPRD Aurum codes (including SNOMED) (n= 11,045) that matched either the ReadCode (n= 10,925) or ReadTerm (n= 120) from the GOLD codelists. The codelists correspond to the 201 out of 202 conditions from the [multimorbidity list](https://github.com/f-eto/qmul-multimorbidity/blob/codesets-included-conditions/multimorbidity_list.md). 'Painful conditions' was selected using prescribing data (Gemscript codes). 
+>
+> 
 **QMUL_ICD10_codelists.csv**
 >
 Contains all ICD-10 codes (n= 2,659) selected to identify 201 out of 202 conditions from the [multimorbidity list](https://github.com/f-eto/qmul-multimorbidity/blob/codesets-included-conditions/multimorbidity_list.md). Please, note that i. 'Painful conditions' was not included in the overall file of ICD-10 codes, since this condition was selected using prescribing data (Gemscript codes) only.
