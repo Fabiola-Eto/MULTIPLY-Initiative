@@ -18,7 +18,7 @@ Contains the ICD-10 codelists adapted from [Kuan/CALIBER](https://www.caliberres
 Contains the OPCS-4 codelists generated from clinical revision and comparison between the codelists i. adapted from the [CALIBER research group work](https://www.caliberresearch.org/portal/phenotypes/chronological-map), and ii. cross-mapped from the Read v2 code lists. The [UK Biobank lookup file](https://biobank.ctsu.ox.ac.uk/crystal/refer.cgi?id=592) was used to cross-map the codes. The OPCS4.9 from NHS TRUD was used as a dictionary of OPCS4 codes and description. 
 > 
 > 
-### all_QMUL_codelists
+### QMUL_codelists
 >
 **QMUL_CPRD_GOLD_codelists.csv**
 >
