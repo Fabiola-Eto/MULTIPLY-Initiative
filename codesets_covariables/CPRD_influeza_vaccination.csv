@@ -1,4 +1,4 @@
-Condition,ReadCode,Medcode,ReadTerm
+Condition,ReadCode,MedCode,ReadTerm
 Influenza vaccination,8I23100,110053,Haem influenz b and meningitis C vaccination contraindicated
 Influenza vaccination,8I2F000,104399,Seasonal influenza vaccination contraindicated
 Influenza vaccination,8I2d.00,98109,Pandemic influenza vaccination contraindicated
