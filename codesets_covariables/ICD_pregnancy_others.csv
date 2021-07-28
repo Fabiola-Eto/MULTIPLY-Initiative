@@ -1,4 +1,4 @@
-Disease,ICD10code,ICD10codeDescr
+Condition,ICD10code,ICD10codeDescr
 Pregnancy disorders: others,O23.9,Other and unspecified genitourinary tract infection in pregnancy
 Pregnancy disorders: others,O23.4,Unspecified infection of urinary tract in pregnancy
 Pregnancy disorders: others,O23.3,Infections of other parts of urinary tract in pregnancy
