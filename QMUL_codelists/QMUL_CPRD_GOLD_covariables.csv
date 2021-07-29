@@ -41,8 +41,6 @@ Alcohol consumption,136b.00,99877,Feels should cut down drinking
 Alcohol consumption,136c.00,102448,Higher risk drinking
 Alcohol consumption,136a.00,102665,Increasing risk drinking
 Alcohol consumption,136d.00,103230,Lower risk drinking
-Alcohol consumption,1362.11,385,Drinks rarely
-Alcohol consumption,1362.12,749,Drinks occasionally
 Alcohol consumption,136J.00,956,Social drinker
 Alcohol consumption,E010.12,1476,Delirium tremens
 Alcohol consumption,E23..11,2081,Alcoholism
@@ -50,7 +48,6 @@ Alcohol consumption,E01y000,2082,Alcohol withdrawal syndrome
 Alcohol consumption,E23..00,2084,Alcohol dependence syndrome
 Alcohol consumption,136G.00,2689,Beer drinker
 Alcohol consumption,E250.14,3782,Intoxication - alcohol
-Alcohol consumption,1361.12,4447,Non-drinker alcohol
 Alcohol consumption,E230.00,5740,Acute alcoholic intoxication in alcoholism
 Alcohol consumption,Eu10212,5758,[x]chronic alcoholism
 Alcohol consumption,E23z.00,6169,Alcohol dependence syndrome nos
@@ -63,7 +60,6 @@ Alcohol consumption,E250.11,12271,Drunkenness nos
 Alcohol consumption,66e..00,12442,Alcohol disorder monitoring
 Alcohol consumption,136H.00,12968,Drinks beer and spirits
 Alcohol consumption,136I.00,12969,Drinks wine
-Alcohol consumption,1361.11,12970,Non drinker alcohol
 Alcohol consumption,136F.00,12971,Spirit drinker
 Alcohol consumption,E010.00,16225,Alcohol withdrawal delirium
 Alcohol consumption,Eu10411,17259,[x]delirium tremens, alcohol induced
