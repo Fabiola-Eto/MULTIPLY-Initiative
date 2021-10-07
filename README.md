@@ -7,7 +7,7 @@ This repository hosts code sets of multimorbidity. Please, to find out more, see
 >
 > 
 ### codesets_included_conditions
-Includes all primary care codelistS, i.e. Read v2 and CPRD medical codes that were used to identify our [list of 202 conditions](https://github.com/f-eto/qmul-multimorbidity/blob/codesets-included-conditions/multimorbidity_list.md). Note that there are two code lists available for ‘Constipation’, one based on Read2 codes and another based on prodcodes (codes used to identify medication). The code list for 'Painful conditions' was based on prodcodes only.
+Includes all primary care codelistS, i.e. Read v2 and CPRD medical codes that were used to identify our [list of 204 conditions](https://github.com/f-eto/qmul-multimorbidity/blob/codesets-included-conditions/multimorbidity_list.md). Note that there are two code lists available for ‘Constipation’, one based on Read2 codes and another based on prodcodes (codes used to identify medication). The code list for 'Painful conditions' was based on prodcodes only.
 >
 >
 ### ICD10_included_conditions
@@ -22,22 +22,22 @@ Contains the OPCS-4 codelists generated from clinical revision and comparison be
 >
 **QMUL_CPRD_GOLD_codelists.csv**
 >
-Contains all CPRD GOLD codes (Read v2 codes) (n= 11,100) selected to identify 201 out of 202 conditions from the [multimorbidity list](https://github.com/f-eto/qmul-multimorbidity/blob/codesets-included-conditions/multimorbidity_list.md). Please, note that i. 'Painful conditions' was not included in the overall file of Read v2 codes, since this condition was selected using prescribing data (Gemscript codes);  ii. Note that 'Constipation' was selected using both Read v2 codes and Gemscript codes, and therefore there are two code lists available for this condition. 
+Contains all CPRD GOLD codes (Read v2 and medcodes) (n= 11,053) selected to identify 201 out of 204 conditions from the [multimorbidity list](https://github.com/f-eto/qmul-multimorbidity/blob/codesets-included-conditions/multimorbidity_list.md). Please, note that i. 'Painful conditions' was not included in the overall file of Read v2 codes, since this condition was selected using prescribing data (Gemscript codes);  ii. Note that 'Constipation' was selected using both Read v2 codes and Gemscript codes, and therefore there are two code lists available for this condition. 
 >
 > 
 **QMUL_CPRD_Aurum_codelists.csv**
 >
-Contains all CPRD Aurum codes (including SNOMED) (n= 11,521) that matched either the ReadCode (n= 10,925) or ReadTerm (n= 120) from the GOLD codelists, also the codelist for SARS-CoV-2 provided by CPRD (n= 446). The codelists correspond to the 201 out of 202 conditions from the [multimorbidity list](https://github.com/f-eto/qmul-multimorbidity/blob/codesets-included-conditions/multimorbidity_list.md). 'Painful conditions' was selected using prescribing data (Gemscript codes). 
+Contains all CPRD Aurum codes (including SNOMED and medcodeid) (n= 11,286) that matched either the ReadCode or ReadTerm from the GOLD codelists, also the codelist for SARS-CoV-2 provided by CPRD (n= 260). The codelists correspond to the 201 out of 204 conditions from the [multimorbidity list](https://github.com/f-eto/qmul-multimorbidity/blob/codesets-included-conditions/multimorbidity_list.md). 'Painful conditions' was selected using prescribing data (Gemscript codes). 
 >
 > 
 **QMUL_ICD10_codelists.csv**
 >
-Contains all ICD-10 codes (n= 2,659) selected to identify 201 out of 202 conditions from the [multimorbidity list](https://github.com/f-eto/qmul-multimorbidity/blob/codesets-included-conditions/multimorbidity_list.md). Please, note that i. 'Painful conditions' was not included in the overall file of ICD-10 codes, since this condition was selected using prescribing data (Gemscript codes) only.
+Contains all ICD-10 codes (n= 2,650) selected to identify 201 out of 204 conditions from the [multimorbidity list](https://github.com/f-eto/qmul-multimorbidity/blob/codesets-included-conditions/multimorbidity_list.md). Please, note that i. 'Painful conditions' was not included in the overall file of ICD-10 codes, since this condition was selected using prescribing data (Gemscript codes) only.
 >
 > 
 **QMUL_OPCS4_codelists.csv**
 >
-Contains all OPCS-4 codes (n= 757) selected to identify 51 out of 202 conditions from the [multimorbidity list](https://github.com/f-eto/qmul-multimorbidity/blob/codesets-included-conditions/multimorbidity_list.md). 
+Contains all OPCS-4 codes (n= 757) selected to identify 51 out of 204 conditions from the [multimorbidity list](https://github.com/f-eto/qmul-multimorbidity/blob/codesets-included-conditions/multimorbidity_list.md). 
 >
 >
 
