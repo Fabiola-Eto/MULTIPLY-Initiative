@@ -5198,7 +5198,7 @@
 "Male infertility","ZV26.00",460513011,"Infertility care management",408966007,2470803017
 "Male infertility","ZV26y00",460526010,"[V]Other specified infertility management",399071000000103,1011381000000116
 "Male infertility","ZV26z00",460527018,"[V]Unspecified infertility management",427641000000106,1011391000000119
-"Meniere disease","1491.11",810651000006116,"H/O: MÃ©niÃ¨re's disease",275542004,2642551011
+"Meniere disease","1491.11",810651000006116,"H/O: Ménière's disease",275542004,2642551011
 "Meniere disease","F560.00",710871000006110,"Meniere disease",13445001,475303017
 "Meniere disease","F560.11",17117015,"Endolymphatic hydrops",9794007,17117015
 "Meniere disease","F560.12",50047017,"Lermoyez's syndrome",29904009,2842581018
@@ -5207,7 +5207,7 @@
 "Meniere disease","F560200",299161011,"Active cochlear Meniere's disease",194349005,299161011
 "Meniere disease","F560300",299162016,"Active vestibular Meniere's disease",194350005,299162016
 "Meniere disease","F560400",299163014,"Inactive Meniere's disease",194351009,299163014
-"Meniere disease","F560z00",299164015,"MÃ©niÃ¨re's disease",13445001,178783019
+"Meniere disease","F560z00",299164015,"Ménière's disease",13445001,178783019
 "Menorrhagia and polymenorrhoea","151G.00",252010011,"Length of cycle decreasing",161726001,252010011
 "Menorrhagia and polymenorrhoea","1572.00",252086010,"H/O: polymenorrhoea",161781008,252086010
 "Menorrhagia and polymenorrhoea","1573.00",252089015,"H/O: menorrhagia",161782001,252089015
@@ -8994,501 +8994,266 @@
 "Sarcoidosis","H57y200",40879015,"Pulmonary sarcoidosis",24369008,40879015
 "Sarcoidosis","J63A.00",303525019,"Hepatic granulomas in sarcoidosis",197368002,303525019
 "Sarcoidosis","N233200",311616019,"Myositis in sarcoidosis",203042003,311616019
-"SARS-CoV-2","1JX..00",2266141000000110,"Suspected coronavirus infection",700217006,2989665015
-"SARS-CoV-2","1JX1.00",12991161000006112,"Suspected disease caused by 2019-nCoV (novel coronavirus)",1240761000000102,2809001000000110
 "SARS-CoV-2","43jS.00",312761000000115,"Coronavirus nucleic acid detection",1029481000000103,2595381000000117
-"SARS-CoV-2","43jS000",2331261000000114,"Coronavirus nucleic acid detection assay",1029481000000103,2595381000000117
-"SARS-CoV-2","43jS100",1923661000006111,"Coronavirus RNA (ribonucleic acid) detection assay",1008541000000105,2586231000000115
-"SARS-CoV-2","4J3R.00",12991101000006110,"2019-nCoV (novel coronavirus) serology",1240741000000103,2808551000000114
 "SARS-CoV-2","4J3R100",12990741000006116,"2019-nCoV (novel coronavirus) detected",1240581000000104,2808081000000112
-"SARS-CoV-2","4J3R200",12990771000006112,"2019-nCoV (novel coronavirus) not detected",1240591000000102,2808111000000116
-"SARS-CoV-2","65PW.00",2266211000000118,"Coronavirus contact",702547000,2390201000000113
-"SARS-CoV-2","65PW100",12990351000006116,"Exposure to 2019-nCoV (novel coronavirus) infection",1240431000000104,2807641000000111
-"SARS-CoV-2","65PW100",12802171000006116,"Exposure to 2019-nCoV (novel coronavirus) infection",12802171000006100,12802171000006116
-"SARS-CoV-2","8CAO.00",12991041000006112,"Advice given about 2019-nCoV (novel coronavirus) infection",1240721000000105,2808501000000113
-"SARS-CoV-2","8CAO100",12991071000006116,"Advice given about 2019-nCoV (novel coronavirus) by telephone",1240731000000107,2808521000000116
-"SARS-CoV-2","9N31200",12990411000006114,"Telephone consultation for suspected 2019-nCoV (novel coronavirus)",1240451000000106,2807691000000118
 "SARS-CoV-2","A795.00",287060018,"Coronavirus infection",186747009,287060018
 "SARS-CoV-2","A795100",12991131000006120,"Disease caused by 2019-nCoV (novel coronavirus)",1240751000000100,2808881000000118
 "SARS-CoV-2","A7y0000",595821000006116,"Coronavirus as cause of dis classified to other chapters",186747009,287060018
 "SARS-CoV-2","AyuDC00",288205019,"[X]Coronavirus infection, unspecified",186747009,287060018
 "SARS-CoV-2","AyuKL00",375771000006118,"[X]Coronavirus/cause/diseases classified to other chapters",186747009,287060018
-"SARS-CoV-2",NA,13484491000006116,"2019 novel coronavirus ",NA,3902339012
-"SARS-CoV-2",NA,12990221000006116,"2019 novel coronavirus ",NA,2808671000000116
-"SARS-CoV-2",NA,13485781000006112,"2019 novel coronavirus assay ",NA,3973482014
-"SARS-CoV-2",NA,12990761000006116,"2019 novel coronavirus detected ",NA,2808921000000112
-"SARS-CoV-2",NA,12990791000006112,"2019 novel coronavirus not detected ",NA,2808931000000114
-"SARS-CoV-2",NA,13485441000006112,"2019 novel coronavirus ribonucleic acid assay ",NA,3973429019
-"SARS-CoV-2",NA,12991121000006116,"2019 novel coronavirus serology ",NA,2808991000000110
-"SARS-CoV-2",NA,13484511000006114,"2019-nCoV (novel coronavirus) ",NA,2833751000000117
-"SARS-CoV-2",NA,12990201000006110,"2019-nCoV (novel coronavirus) ",NA,2807491000000115
-"SARS-CoV-2",NA,13045201000006112,"2019-nCoV (novel coronavirus) IgA arbitrary concentration in serum ",NA,2829691000000117
-"SARS-CoV-2",NA,13045121000006112,"2019-nCoV (novel coronavirus) IgA detected ",NA,2829571000000117
-"SARS-CoV-2",NA,13045141000006118,"2019-nCoV (novel coronavirus) IgA detection result equivocal ",NA,2829601000000112
-"SARS-CoV-2",NA,13053151000006118,"2019-nCoV (novel coronavirus) IgA detection result indeterminate ",NA,2832381000000115
-"SARS-CoV-2",NA,13045161000006120,"2019-nCoV (novel coronavirus) IgA detection result unknown ",NA,2829631000000118
-"SARS-CoV-2",NA,13045181000006112,"2019-nCoV (novel coronavirus) IgA not detected ",NA,2829661000000111
-"SARS-CoV-2",NA,13045221000006116,"2019-nCoV (novel coronavirus) IgA qualitative existence in specimen ",NA,2829721000000114
-"SARS-CoV-2",NA,13032551000006116,"2019-nCoV (novel coronavirus) IgG arbitrary concentration in serum ",NA,2828191000000116
-"SARS-CoV-2",NA,13032641000006118,"2019-nCoV (novel coronavirus) IgG detected ",NA,2828761000000111
-"SARS-CoV-2",NA,13032741000006112,"2019-nCoV (novel coronavirus) IgG detection result equivocal ",NA,2828971000000118
-"SARS-CoV-2",NA,13053131000006112,"2019-nCoV (novel coronavirus) IgG detection result indeterminate ",NA,2832391000000118
-"SARS-CoV-2",NA,13032801000006120,"2019-nCoV (novel coronavirus) IgG detection result unknown ",NA,2829101000000118
-"SARS-CoV-2",NA,13032701000006110,"2019-nCoV (novel coronavirus) IgG not detected ",NA,2828901000000114
-"SARS-CoV-2",NA,13032511000006118,"2019-nCoV (novel coronavirus) IgG qualitative existence in specimen ",NA,2828131000000117
-"SARS-CoV-2",NA,13032571000006110,"2019-nCoV (novel coronavirus) IgM arbitrary concentration in serum ",NA,2828221000000111
-"SARS-CoV-2",NA,13032661000006120,"2019-nCoV (novel coronavirus) IgM detected ",NA,2828801000000118
-"SARS-CoV-2",NA,13032781000006118,"2019-nCoV (novel coronavirus) IgM detection result equivocal ",NA,2829071000000110
-"SARS-CoV-2",NA,13053171000006112,"2019-nCoV (novel coronavirus) IgM detection result indeterminate ",NA,2832401000000115
-"SARS-CoV-2",NA,13032721000006116,"2019-nCoV (novel coronavirus) IgM detection result unknown ",NA,2828941000000112
-"SARS-CoV-2",NA,13032681000006112,"2019-nCoV (novel coronavirus) IgM not detected ",NA,2828871000000114
-"SARS-CoV-2",NA,13032491000006112,"2019-nCoV (novel coronavirus) IgM qualitative existence in specimen ",NA,2828121000000119
-"SARS-CoV-2",NA,13483581000006116,"2019-nCoV (novel coronavirus) RNA (ribonucleic acid) detection result indeterminate ",NA,2837961000000110
-"SARS-CoV-2",NA,13483131000006110,"2019-nCoV (novel coronavirus) RNA (ribonucleic acid) not detected ",NA,2837051000000113
-"SARS-CoV-2",NA,13053231000006120,"2019-nCoV (novel coronavirus) antibody detection result indeterminate ",NA,2832341000000111
-"SARS-CoV-2",NA,13053211000006112,"2019-nCoV (novel coronavirus) antibody detection result negative ",NA,2832311000000110
-"SARS-CoV-2",NA,13053191000006112,"2019-nCoV (novel coronavirus) antibody detection result positive ",NA,2832261000000115
-"SARS-CoV-2",NA,13053251000006114,"2019-nCoV (novel coronavirus) antibody detection result unknown ",NA,2832371000000117
-"SARS-CoV-2",NA,13053091000006112,"2019-nCoV (novel coronavirus) antigen detection result indeterminate ",NA,2832081000000117
-"SARS-CoV-2",NA,13053071000006110,"2019-nCoV (novel coronavirus) antigen detection result negative ",NA,2832051000000111
-"SARS-CoV-2",NA,13053051000006116,"2019-nCoV (novel coronavirus) antigen detection result positive ",NA,2832021000000118
-"SARS-CoV-2",NA,13053111000006120,"2019-nCoV (novel coronavirus) antigen detection result unknown ",NA,2832141000000114
-"SARS-CoV-2",NA,12990741000006116,"2019-nCoV (novel coronavirus) detected ",NA,2808081000000112
-"SARS-CoV-2",NA,13032861000006118,"2019-nCoV (novel coronavirus) detection result equivocal ",NA,2829261000000114
-"SARS-CoV-2",NA,13483601000006110,"2019-nCoV (novel coronavirus) detection result positive at the limit of detection ",NA,2837991000000116
-"SARS-CoV-2",NA,13032881000006112,"2019-nCoV (novel coronavirus) detection result unknown ",NA,2829271000000119
-"SARS-CoV-2",NA,13032591000006112,"2019-nCoV (novel coronavirus) immunity status ",NA,2828251000000118
-"SARS-CoV-2",NA,13032761000006112,"2019-nCoV (novel coronavirus) immunity status equivocal ",NA,2829041000000116
-"SARS-CoV-2",NA,13032821000006112,"2019-nCoV (novel coronavirus) immunity status unknown ",NA,2829151000000117
-"SARS-CoV-2",NA,12990771000006112,"2019-nCoV (novel coronavirus) not detected ",NA,2808111000000116
-"SARS-CoV-2",NA,13032471000006112,"2019-nCoV (novel coronavirus) qualitative existence in specimen ",NA,2828071000000119
-"SARS-CoV-2",NA,13483161000006118,"2019-nCoV (novel coronavirus) ribonucleic acid detected ",NA,2837121000000116
-"SARS-CoV-2",NA,12991101000006110,"2019-nCoV (novel coronavirus) serology ",NA,2808551000000114
-"SARS-CoV-2",NA,13032451000006118,"2019-nCoV (novel coronavirus) species detection test ",NA,2828041000000113
-"SARS-CoV-2",NA,13032531000006112,"2019-nCoV (novel coronavirus) total immunoglobulin arbitrary concentration in serum ",NA,2828161000000110
-"SARS-CoV-2",NA,13486461000006118,"Acute COVID-19 infection ",NA,2839411000000114
-"SARS-CoV-2",NA,13486531000006114,"Acute bronchitis caused by 2019 novel coronavirus ",NA,3951290018
-"SARS-CoV-2",NA,13486551000006120,"Acute bronchitis caused by 2019nCoV (novel coronavirus) ",NA,2838061000000112
-"SARS-CoV-2",NA,13486511000006116,"Acute bronchitis caused by SARSCoV-2 (severe acute respiratory syndrome coronavirus 2) ",NA,2838051000000114
-"SARS-CoV-2",NA,13486541000006116,"Acute bronchitis caused by Severe acute respiratory syndrome coronavirus 2 ",NA,3972957012
-"SARS-CoV-2",NA,13486471000006112,"Acute disease caused by severe acute respiratory syndrome coronavirus 2 infection ",NA,2839421000000115
-"SARS-CoV-2",NA,13485261000006114,"Acute hypoxemic respiratory failure due to disease caused by 2019 novel coronavirus ",NA,3970767016
-"SARS-CoV-2",NA,13485281000006116,"Acute hypoxemic respiratory failure due to disease caused by 2019nCoV (novel coronavirus) ",NA,2838141000000112
-"SARS-CoV-2",NA,13485251000006112,"Acute hypoxemic respiratory failure due to disease caused by SARSCoV-2 (severe acute respiratory syndrome coronavirus 2) ",NA,2838131000000115
-"SARS-CoV-2",NA,13485271000006120,"Acute hypoxemic respiratory failure due to disease caused by Severe acute respiratory syndrome coronavirus 2 ",NA,3972968012
-"SARS-CoV-2",NA,13485221000006116,"Acute kidney injury due to disease caused by 2019 novel coronavirus ",NA,3970764011
-"SARS-CoV-2",NA,13485241000006110,"Acute kidney injury due to disease caused by 2019-nCoV (novel coronavirus) ",NA,2838161000000113
-"SARS-CoV-2",NA,13485211000006112,"Acute kidney injury due to disease caused by SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) ",NA,2838151000000110
-"SARS-CoV-2",NA,13485231000006116,"Acute kidney injury due to disease caused by Severe acute respiratory syndrome coronavirus 2 ",NA,3972966011
-"SARS-CoV-2",NA,13486681000006114,"Acute respiratory distress syndrome due to disease caused by 2019 novel coronavirus ",NA,3970620012
-"SARS-CoV-2",NA,13486701000006112,"Acute respiratory distress syndrome due to disease caused by 2019nCoV (novel coronavirus) ",NA,2838181000000116
-"SARS-CoV-2",NA,13486661000006116,"Acute respiratory distress syndrome due to disease caused by SARSCoV-2 (severe acute respiratory syndrome coronavirus 2) ",NA,2838171000000118
-"SARS-CoV-2",NA,13486691000006112,"Acute respiratory distress syndrome due to disease caused by Severe ",NA,3972958019
-"SARS-CoV-2",NA,12991091000006116,"Advice given about 2019 novel coronavirus by telephone ",NA,2809081000000117
-"SARS-CoV-2",NA,12991061000006112,"Advice given about 2019 novel coronavirus infection ",NA,2809161000000110
-"SARS-CoV-2",NA,12991071000006116,"Advice given about 2019-nCoV (novel coronavirus) by telephone ",NA,2808521000000116
-"SARS-CoV-2",NA,12991041000006112,"Advice given about 2019-nCoV (novel coronavirus) infection ",NA,2808501000000113
-"SARS-CoV-2",NA,13012411000006112,"Advice given about SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) by telephone ",NA,2826341000000112
-"SARS-CoV-2",NA,13012401000006112,"Advice given about SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) infection ",NA,2826421000000113
-"SARS-CoV-2",NA,12991081000006120,"Advice given about Wuhan 2019nCoV (novel coronavirus) by telephone ",NA,2808541000000111
-"SARS-CoV-2",NA,12991051000006110,"Advice given about Wuhan 2019nCoV (novel coronavirus) infection ",NA,2808511000000110
-"SARS-CoV-2",NA,13485011000006116,"Anti-SARS-CoV-2 IgG ",NA,3969013011
-"SARS-CoV-2",NA,13485061000006118,"Anti-SARS-CoV-2 IgM ",NA,3969020016
-"SARS-CoV-2",NA,12990281000006118,"Antibody to 2019 novel coronavirus ",NA,2808681000000119
-"SARS-CoV-2",NA,13484531000006116,"Antibody to 2019 novel coronavirus ",NA,3902344017
-"SARS-CoV-2",NA,13484541000006112,"Antibody to 2019-nCoV ",NA,3902346015
-"SARS-CoV-2",NA,12990261000006112,"Antibody to 2019-nCoV (novel coronavirus) ",NA,2807541000000112
-"SARS-CoV-2",NA,13484521000006118,"Antibody to SARS-CoV-2 ",NA,3947179016
-"SARS-CoV-2",NA,13012141000006116,"Antibody to SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) ",NA,2826441000000118
-"SARS-CoV-2",NA,13484561000006112,"Antibody to Severe acute respiratory syndrome coronavirus 2 ",NA,3973096010
-"SARS-CoV-2",NA,12990271000006116,"Antibody to Wuhan 2019-nCoV (novel coronavirus) ",NA,2807561000000113
-"SARS-CoV-2",NA,12990251000006114,"Antigen of 2019 novel coronavirus ",NA,2808691000000117
-"SARS-CoV-2",NA,13484601000006112,"Antigen of 2019 novel coronavirus ",NA,3902351014
-"SARS-CoV-2",NA,13484591000006116,"Antigen of 2019-nCoV ",NA,3902348019
-"SARS-CoV-2",NA,12990231000006120,"Antigen of 2019-nCoV (novel coronavirus) ",NA,2807521000000117
-"SARS-CoV-2",NA,13484581000006120,"Antigen of SARS-CoV-2 ",NA,3947182014
-"SARS-CoV-2",NA,13012131000006110,"Antigen of SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) ",NA,2826451000000115
-"SARS-CoV-2",NA,13484611000006110,"Antigen of Severe acute respiratory syndrome coronavirus 2 ",NA,3973142013
-"SARS-CoV-2",NA,12990241000006112,"Antigen of Wuhan 2019-nCoV (novel coronavirus) ",NA,2807531000000115
-"SARS-CoV-2",NA,13486311000006114,"Assessment using C19-YRS (COVID-19 Yorkshire Rehabilitation Screening) tool ",NA,2839141000000118
-"SARS-CoV-2",NA,13486321000006118,"Assessment using COVID-19 Yorkshire Rehabilitation Screening tool ",NA,2839151000000115
-"SARS-CoV-2",NA,13002271000006116,"Assessment using COVID-19 severity scale ",NA,2794361000000111
-"SARS-CoV-2",NA,13486281000006112,"Assessment using Newcastle postCOVID syndrome Follow-up Screening Questionnaire ",NA,2839081000000110
-"SARS-CoV-2",NA,13486351000006110,"Assessment using PCFS (PostCOVID-19 Functional Status) Scale patient self-report ",NA,2839211000000110
-"SARS-CoV-2",NA,13486411000006116,"Assessment using PCFS (PostCOVID-19 Functional Status) Scale structured interview ",NA,2839321000000111
-"SARS-CoV-2",NA,13486361000006112,"Assessment using Post-COVID-19 Functional Status Scale patient selfreport ",NA,2839201000000113
-"SARS-CoV-2",NA,13486421000006112,"Assessment using Post-COVID-19 Functional Status Scale structured interview ",NA,2839331000000113
-"SARS-CoV-2",NA,13486581000006110,"Asymptomatic 2019 novel coronavirus ",NA,3951315014
-"SARS-CoV-2",NA,13486601000006116,"Asymptomatic 2019-nCoV (novel coronavirus) infection ",NA,2838081000000115
-"SARS-CoV-2",NA,13486571000006112,"Asymptomatic COVID-19 ",NA,3951313019
-"SARS-CoV-2",NA,13486561000006116,"Asymptomatic SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) infection ",NA,2838071000000117
-"SARS-CoV-2",NA,13486591000006112,"Asymptomatic Severe acute respiratory syndrome coronavirus 2 infection ",NA,3972938015
-"SARS-CoV-2",NA,13485661000006112,"Bronchoalveolar lavage fluid COVID-19 ribonucleic acid assay ",NA,3973455018
-"SARS-CoV-2",NA,13486291000006110,"C19-YRS (COVID-19 Yorkshire Rehabilitation Screening) tool ",NA,2839111000000119
-"SARS-CoV-2",NA,13012431000006116,"COVID-19 ",NA,2826511000000115
-"SARS-CoV-2",NA,13483031000006114,"COVID-19 ",NA,3947185011
-"SARS-CoV-2",NA,13486301000006112,"COVID-19 Yorkshire Rehabilitation Screening tool ",NA,2839121000000113
-"SARS-CoV-2",NA,13486521000006112,"COVID-19 acute bronchitis ",NA,3951097012
-"SARS-CoV-2",NA,13486671000006112,"COVID-19 acute respiratory distress syndrome ",NA,3951113013
-"SARS-CoV-2",NA,13012441000006110,"COVID-19 caused by SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) ",NA,2826541000000119
-"SARS-CoV-2",NA,13002281000006116,"COVID-19 confirmed by laboratory test ",NA,2799591000000111
-"SARS-CoV-2",NA,13002311000006116,"COVID-19 confirmed clinically ",NA,2799661000000118
-"SARS-CoV-2",NA,13002291000006120,"COVID-19 confirmed using clinical diagnostic criteria ",NA,2799621000000114
-"SARS-CoV-2",NA,13483951000006118,"COVID-19 detected ",NA,3973484010
-"SARS-CoV-2",NA,13002451000006114,"COVID-19 excluded by laboratory test ",NA,2827331000000118
-"SARS-CoV-2",NA,13486761000006112,"COVID-19 lower respiratory infection ",NA,3951300013
-"SARS-CoV-2",NA,13483971000006112,"COVID-19 not detected ",NA,3973487015
-"SARS-CoV-2",NA,13484091000006110,"COVID-19 pneumonia ",NA,3951095016
-"SARS-CoV-2",NA,13485451000006112,"COVID-19 ribonucleic acid assay ",NA,3973430012
-"SARS-CoV-2",NA,13486721000006120,"COVID-19 ruled out ",NA,3957623013
-"SARS-CoV-2",NA,13002261000006110,"COVID-19 severity scale ",NA,2794311000000114
-"SARS-CoV-2",NA,13002251000006112,"COVID-19 severity score ",NA,2712291000000117
-"SARS-CoV-2",NA,13032381000006116,"Cardiomyopathy caused by 2019nCoV (novel coronavirus) ",NA,2828261000000115
-"SARS-CoV-2",NA,13032371000006116,"Cardiomyopathy caused by SARSCoV-2 (severe acute respiratory syndrome coronavirus 2) ",NA,2827881000000110
-"SARS-CoV-2",NA,13484051000006116,"Cardiomyopathy due to COVID-19 ",NA,3970718018
-"SARS-CoV-2",NA,13484041000006118,"Cardiomyopathy due to disease caused by 2019 novel coronavirus ",NA,3970567019
-"SARS-CoV-2",NA,13484071000006114,"Cardiomyopathy due to disease caused by 2019-nCoV (novel coronavirus) ",NA,2836611000000119
-"SARS-CoV-2",NA,13484031000006112,"Cardiomyopathy due to disease caused by SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) ",NA,2836591000000110
-"SARS-CoV-2",NA,13484061000006120,"Cardiomyopathy due to disease caused by Severe acute respiratory syndrome coronavirus 2 ",NA,3973001013
-"SARS-CoV-2",NA,13033001000006116,"Central laboratory 2019-nCoV (novel coronavirus) antibody detection test ",NA,2829421000000117
-"SARS-CoV-2",NA,13032951000006112,"Central laboratory 2019-nCoV (novel coronavirus) species detection test ",NA,2829351000000115
-"SARS-CoV-2",NA,13032991000006118,"Central laboratory SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) antibody detection test ",NA,2829411000000111
-"SARS-CoV-2",NA,13032941000006110,"Central laboratory SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) species detection test ",NA,2829331000000110
-"SARS-CoV-2",NA,12990401000006112,"Close exposure to 2019 novel coronavirus infection ",NA,2808701000000117
-"SARS-CoV-2",NA,12990381000006112,"Close exposure to 2019-nCoV (novel coronavirus) infection ",NA,2807671000000117
-"SARS-CoV-2",NA,13012181000006112,"Close exposure to SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) infection ",NA,2826461000000117
-"SARS-CoV-2",NA,12990391000006114,"Close exposure to Wuhan 2019nCoV (novel coronavirus) infection ",NA,2807681000000115
-"SARS-CoV-2",NA,12802201000006116,"Confirmed 2019-nCoV (novel coronavirus) infection ",NA,12802201000006116
-"SARS-CoV-2",NA,13485931000006114,"Conjunctivitis due to COVID-19 ",NA,3970719014
-"SARS-CoV-2",NA,13485911000006116,"Conjunctivitis due to disease caused by 2019 novel coronavirus ",NA,3970569016
-"SARS-CoV-2",NA,13485941000006116,"Conjunctivitis due to disease caused by 2019-nCoV (novel coronavirus) ",NA,2838221000000114
-"SARS-CoV-2",NA,13485901000006118,"Conjunctivitis due to disease caused by SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) ",NA,2838211000000115
-"SARS-CoV-2",NA,13485921000006112,"Conjunctivitis due to disease caused by Severe acute respiratory syndrome coronavirus 2 ",NA,3970694010
-"SARS-CoV-2",NA,13485361000006116,"Detection of 2019 novel coronavirus antibody ",NA,3973414016
-"SARS-CoV-2",NA,13485401000006114,"Detection of 2019 novel coronavirus antigen ",NA,3973421016
-"SARS-CoV-2",NA,12990551000006112,"Detection of 2019 novel coronavirus using polymerase chain reaction technique ",NA,2808741000000119
-"SARS-CoV-2",NA,13485791000006112,"Detection of 2019-nCoV (novel coronavirus) ",NA,2838491000000113
-"SARS-CoV-2",NA,13485371000006112,"Detection of 2019-nCoV (novel coronavirus) antibody ",NA,2838631000000114
-"SARS-CoV-2",NA,13485411000006112,"Detection of 2019-nCoV (novel coronavirus) antigen ",NA,2838611000000118
-"SARS-CoV-2",NA,12990531000006116,"Detection of 2019-nCoV (novel coronavirus) using polymerase chain reaction technique ",NA,2807871000000116
-"SARS-CoV-2",NA,13485771000006110,"Detection of COVID-19 ",NA,3973481019
-"SARS-CoV-2",NA,13485641000006112,"Detection of RNA (ribonucleic acid) of SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) in bronchoalveolar lavage fluid ",NA,2838521000000111
-"SARS-CoV-2",NA,13485461000006110,"Detection of RNA (ribonucleic acid) of SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) in nasopharyngeal swab ",NA,2838581000000112
-"SARS-CoV-2",NA,13485521000006116,"Detection of RNA (ribonucleic acid) of SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) in oropharyngeal swab ",NA,2838561000000115
-"SARS-CoV-2",NA,13485581000006118,"Detection of RNA (ribonucleic acid) of SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) in sputum ",NA,2838541000000116
-"SARS-CoV-2",NA,13485701000006116,"Detection of RNA (ribonucleic acid) of SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) using polymerase chain reaction ",NA,2838511000000117
-"SARS-CoV-2",NA,13485751000006116,"Detection of SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) ",NA,2838481000000111
-"SARS-CoV-2",NA,13485341000006116,"Detection of SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) antibody ",NA,2838621000000112
-"SARS-CoV-2",NA,13485381000006114,"Detection of SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) antigen ",NA,2838601000000115
-"SARS-CoV-2",NA,13012231000006116,"Detection of SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) using polymerase chain reaction technique ",NA,2826591000000112
-"SARS-CoV-2",NA,13485761000006116,"Detection of Severe acute respiratory syndrome coronavirus 2 ",NA,3973478012
-"SARS-CoV-2",NA,13485351000006118,"Detection of Severe acute respiratory syndrome coronavirus 2 antibody ",NA,3973412017
-"SARS-CoV-2",NA,13485391000006112,"Detection of Severe acute respiratory syndrome coronavirus 2 antigen ",NA,3973419014
-"SARS-CoV-2",NA,12990541000006114,"Detection of Wuhan 2019-nCoV (novel coronavirus) using polymerase chain reaction technique ",NA,2807891000000117
-"SARS-CoV-2",NA,13485681000006120,"Detection of ribonucleic acid of 2019 novel coronavirus in bronchoalveolar lavage fluid ",NA,3973460019
-"SARS-CoV-2",NA,13485471000006116,"Detection of ribonucleic acid of 2019 novel coronavirus in nasopharyngeal swab ",NA,3973433014
-"SARS-CoV-2",NA,13485531000006120,"Detection of ribonucleic acid of 2019 novel coronavirus in oropharyngeal swab ",NA,3973440010
-"SARS-CoV-2",NA,13485621000006118,"Detection of ribonucleic acid of 2019 novel coronavirus in sputum ",NA,3973453013
-"SARS-CoV-2",NA,13485721000006114,"Detection of ribonucleic acid of 2019 novel coronavirus using polymerase chain reaction ",NA,3973466013
-"SARS-CoV-2",NA,13485691000006116,"Detection of ribonucleic acid of 2019-nCoV (novel coronavirus) in bronchoalveolar lavage fluid ",NA,2838531000000113
-"SARS-CoV-2",NA,13485511000006112,"Detection of ribonucleic acid of 2019-nCoV (novel coronavirus) in nasopharyngeal swab ",NA,2838591000000114
-"SARS-CoV-2",NA,13485571000006116,"Detection of ribonucleic acid of 2019-nCoV (novel coronavirus) in oropharyngeal swab ",NA,2838571000000110
-"SARS-CoV-2",NA,13485631000006116,"Detection of ribonucleic acid of 2019-nCoV (novel coronavirus) in sputum ",NA,2838551000000118
-"SARS-CoV-2",NA,13485741000006120,"Detection of ribonucleic acid of 2019-nCoV (novel coronavirus) using polymerase chain reaction ",NA,2838501000000119
-"SARS-CoV-2",NA,13485431000006118,"Detection of ribonucleic acid of COVID-19 ",NA,3973427017
-"SARS-CoV-2",NA,13485651000006110,"Detection of ribonucleic acid of COVID-19 in bronchoalveolar lavage fluid ",NA,3973454019
-"SARS-CoV-2",NA,13485501000006110,"Detection of ribonucleic acid of COVID-19 in nasopharyngeal swab ",NA,3973437010
-"SARS-CoV-2",NA,13485551000006114,"Detection of ribonucleic acid of COVID-19 in oropharyngeal swab ",NA,3973445017
-"SARS-CoV-2",NA,13485611000006114,"Detection of ribonucleic acid of COVID-19 in sputum ",NA,3973450011
-"SARS-CoV-2",NA,13485711000006118,"Detection of ribonucleic acid of COVID-19 using polymerase chain reaction ",NA,3973463017
-"SARS-CoV-2",NA,13485421000006116,"Detection of ribonucleic acid of Severe acute respiratory syndrome coronavirus 2 ",NA,3973428010
-"SARS-CoV-2",NA,13485671000006116,"Detection of ribonucleic acid of Severe acute respiratory syndrome coronavirus 2 in bronchoalveolar lavage fluid ",NA,3973456017
-"SARS-CoV-2",NA,13485491000006120,"Detection of ribonucleic acid of Severe acute respiratory syndrome coronavirus 2 in nasopharyngeal swab ",NA,3973436018
-"SARS-CoV-2",NA,13485561000006112,"Detection of ribonucleic acid of Severe acute respiratory syndrome coronavirus 2 in oropharyngeal swab ",NA,3973446016
-"SARS-CoV-2",NA,13485591000006116,"Detection of ribonucleic acid of Severe acute respiratory syndrome coronavirus 2 in sputum ",NA,3973448015
-"SARS-CoV-2",NA,13485731000006112,"Detection of ribonucleic acid of Severe acute respiratory syndrome coronavirus 2 using polymerase chain reaction ",NA,3973467016
-"SARS-CoV-2",NA,13483041000006116,"Disease caused by 2019 novel coronavirus ",NA,3902357013
-"SARS-CoV-2",NA,12991151000006114,"Disease caused by 2019 novel coronavirus ",NA,2808911000000118
-"SARS-CoV-2",NA,13483051000006120,"Disease caused by 2019-nCoV ",NA,3902358015
-"SARS-CoV-2",NA,12991131000006120,"Disease caused by 2019-nCoV (novel coronavirus) ",NA,2808881000000118
-"SARS-CoV-2",NA,13483061000006116,"Disease caused by Severe acute respiratory syndrome coronavirus 2 ",NA,3970750011
-"SARS-CoV-2",NA,12991141000006112,"Disease caused by Wuhan 2019nCoV (novel coronavirus) ",NA,2808901000000115
-"SARS-CoV-2",NA,13032901000006112,"Does not have immunity to 2019nCoV (severe acute respiratory syndrome coronavirus 2) ",NA,2829251000000111
-"SARS-CoV-2",NA,13032891000006114,"Does not have immunity to SARSCoV-2 (severe acute respiratory syndrome coronavirus 2) ",NA,2829231000000116
-"SARS-CoV-2",NA,13486001000006114,"Dyspnoea caused by 2019 novel coronavirus ",NA,3970584013
-"SARS-CoV-2",NA,13486021000006116,"Dyspnoea caused by 2019-nCoV (novel coronavirus) ",NA,2838281000000110
-"SARS-CoV-2",NA,13485991000006112,"Dyspnoea caused by SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) ",NA,2838271000000113
-"SARS-CoV-2",NA,13486011000006112,"Dyspnoea caused by Severe acute respiratory syndrome coronavirus 2 ",NA,3970699017
-"SARS-CoV-2",NA,12991031000006116,"Educated about 2019 novel coronavirus infection ",NA,2809171000000115
-"SARS-CoV-2",NA,12991011000006114,"Educated about 2019-nCoV (novel coronavirus) infection ",NA,2808471000000118
-"SARS-CoV-2",NA,13012391000006112,"Educated about SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) infection ",NA,2826681000000111
-"SARS-CoV-2",NA,12991021000006118,"Educated about Wuhan 2019-nCoV (novel coronavirus) infection ",NA,2808481000000116
-"SARS-CoV-2",NA,12990701000006118,"Encephalopathy caused by 2019 novel coronavirus ",NA,2808811000000113
-"SARS-CoV-2",NA,12990681000006116,"Encephalopathy caused by 2019nCoV (novel coronavirus) ",NA,12990681000006116
-"SARS-CoV-2",NA,13484021000006112,"Encephalopathy caused by 2019nCoV (novel coronavirus) ",NA,2808031000000113
-"SARS-CoV-2",NA,13012281000006116,"Encephalopathy caused by SARSCoV-2 (severe acute respiratory syndrome coronavirus 2) ",NA,2826711000000110
-"SARS-CoV-2",NA,12990691000006118,"Encephalopathy caused by Wuhan 2019-nCoV (novel coronavirus) ",NA,2808041000000116
-"SARS-CoV-2",NA,13483911000006120,"Encephalopathy due to COVID-19 ",NA,3970720015
-"SARS-CoV-2",NA,13483901000006116,"Encephalopathy due to disease caused by 2019 novel coronavirus ",NA,3970589015
-"SARS-CoV-2",NA,13483931000006112,"Encephalopathy due to disease caused by 2019-nCoV (novel coronavirus) ",NA,2838301000000111
-"SARS-CoV-2",NA,13483891000006116,"Encephalopathy due to disease caused by SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) ",NA,2838291000000112
-"SARS-CoV-2",NA,13483921000006110,"Encephalopathy due to disease caused by Severe acute respiratory syndrome coronavirus 2 ",NA,3972998017
-"SARS-CoV-2",NA,13484691000006116,"Exposure to 2019 novel coronavirus ",NA,3902381018
-"SARS-CoV-2",NA,12990371000006112,"Exposure to 2019 novel coronavirus infection ",NA,2808711000000115
-"SARS-CoV-2",NA,13484711000006120,"Exposure to 2019-nCoV (novel coronavirus) ",NA,2836621000000113
-"SARS-CoV-2",NA,12802171000006116,"Exposure to 2019-nCoV (novel coronavirus) infection ",NA,12802171000006116
-"SARS-CoV-2",NA,12990351000006116,"Exposure to 2019-nCoV (novel coronavirus) infection ",NA,2807641000000111
-"SARS-CoV-2",NA,13484681000006116,"Exposure to SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) ",NA,2836601000000116
-"SARS-CoV-2",NA,13012171000006112,"Exposure to SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) infection ",NA,2826731000000119
-"SARS-CoV-2",NA,13484701000006116,"Exposure to Severe acute respiratory syndrome coronavirus 2 ",NA,3972942017
-"SARS-CoV-2",NA,12990361000006118,"Exposure to Wuhan 2019-nCoV (novel coronavirus) infection ",NA,2807651000000114
-"SARS-CoV-2",NA,13045241000006110,"Exposure to confirmed case of 2019-nCoV (novel coronavirus) infection ",NA,2829751000000116
-"SARS-CoV-2",NA,13045231000006116,"Exposure to confirmed case of SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) infection ",NA,2829741000000119
-"SARS-CoV-2",NA,13045261000006114,"Exposure to suspected case of 2019-nCoV (novel coronavirus) infection ",NA,2829781000000110
-"SARS-CoV-2",NA,13045251000006112,"Exposure to suspected case of SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) infection ",NA,2829761000000118
-"SARS-CoV-2",NA,13485961000006116,"Fever caused by 2019 novel coronavirus ",NA,3970610019
-"SARS-CoV-2",NA,13485981000006110,"Fever caused by 2019-nCoV (novel coronavirus) ",NA,2838321000000119
-"SARS-CoV-2",NA,13485951000006120,"Fever caused by SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) ",NA,2838311000000113
-"SARS-CoV-2",NA,13485971000006112,"Fever caused by Severe acute respiratory syndrome coronavirus 2 ",NA,3970701017
-"SARS-CoV-2",NA,12990731000006114,"Gastroenteritis caused by 2019 novel coronavirus ",NA,2808821000000119
-"SARS-CoV-2",NA,12990711000006116,"Gastroenteritis caused by 2019nCoV (novel coronavirus) ",NA,2808051000000118
-"SARS-CoV-2",NA,13012291000006116,"Gastroenteritis caused by SARSCoV-2 (severe acute respiratory syndrome coronavirus 2) ",NA,2826771000000117
-"SARS-CoV-2",NA,12990721000006112,"Gastroenteritis caused by Wuhan 2019-nCoV (novel coronavirus) ",NA,2808071000000110
-"SARS-CoV-2",NA,13032841000006116,"Has immunity to 2019-nCoV (novel coronavirus) ",NA,2829161000000119
-"SARS-CoV-2",NA,13032831000006110,"Has immunity to SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) ",NA,2829131000000112
-"SARS-CoV-2",NA,13486621000006110,"History of 2019 novel coronavirus ",NA,3951309014
-"SARS-CoV-2",NA,13486631000006112,"History of COVID-19 ",NA,3951310016
-"SARS-CoV-2",NA,13486651000006118,"History of disease caused by 2019nCoV (novel coronavirus) ",NA,2838111000000111
-"SARS-CoV-2",NA,13486611000006120,"History of disease caused by SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) ",NA,2838101000000114
-"SARS-CoV-2",NA,13486641000006116,"History of disease caused by Severe acute respiratory syndrome coronavirus 2 ",NA,3972943010
-"SARS-CoV-2",NA,13485021000006112,"Immunoglobulin G antibody to 2019 novel coronavirus ",NA,3969031012
-"SARS-CoV-2",NA,13485031000006110,"Immunoglobulin G antibody to 2019-nCoV ",NA,3969032017
-"SARS-CoV-2",NA,13485041000006116,"Immunoglobulin G antibody to Severe acute respiratory syndrome coronavirus 2 ",NA,3973118014
-"SARS-CoV-2",NA,13485071000006112,"Immunoglobulin M antibody to 2019 novel coronavirus ",NA,3969029015
-"SARS-CoV-2",NA,13485081000006112,"Immunoglobulin M antibody to 2019-nCoV ",NA,3969030013
-"SARS-CoV-2",NA,13485091000006114,"Immunoglobulin M antibody to Severe acute respiratory syndrome coronavirus 2 ",NA,3973116013
-"SARS-CoV-2",NA,12990641000006110,"Infection of upper respiratory tract caused by 2019 novel coronavirus ",NA,2808861000000110
-"SARS-CoV-2",NA,13483871000006116,"Infection of upper respiratory tract caused by 2019 novel coronavirus ",NA,3970607014
-"SARS-CoV-2",NA,13483881000006120,"Infection of upper respiratory tract caused by Severe acute respiratory syndrome coronavirus 2 ",NA,3970708011
-"SARS-CoV-2",NA,13486751000006112,"Lower respiratory infection caused by 2019 novel coronavirus ",NA,3951299017
-"SARS-CoV-2",NA,13486781000006116,"Lower respiratory infection caused by 2019-nCoV (novel coronavirus) ",NA,2838231000000111
-"SARS-CoV-2",NA,13486741000006114,"Lower respiratory infection caused by SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) ",NA,2838241000000119
-"SARS-CoV-2",NA,13486771000006118,"Lower respiratory infection caused by Severe acute respiratory syndrome coronavirus 2 ",NA,3972962013
-"SARS-CoV-2",NA,13484811000006112,"Lymphocytopenia due to 2019 novel coronavirus ",NA,3968531014
-"SARS-CoV-2",NA,13484861000006114,"Lymphocytopenia due to 2019nCoV (novel coronavirus) ",NA,2838381000000118
-"SARS-CoV-2",NA,13484831000006116,"Lymphocytopenia due to COVID-19 ",NA,3968537013
-"SARS-CoV-2",NA,13484801000006112,"Lymphocytopenia due to SARSCoV-2 (severe acute respiratory syndrome coronavirus 2) ",NA,2838371000000115
-"SARS-CoV-2",NA,13484851000006112,"Lymphocytopenia due to Severe acute respiratory syndrome coronavirus 2 ",NA,3972951013
-"SARS-CoV-2",NA,13484821000006116,"Lymphopenia due to COVID-19 ",NA,3968534018
-"SARS-CoV-2",NA,13484841000006110,"Lymphopenia due to Severe acute respiratory syndrome coronavirus 2 ",NA,3972950014
-"SARS-CoV-2",NA,13483691000006116,"Measurement of 2019 novel coronavirus antibody ",NA,3970553011
-"SARS-CoV-2",NA,12990461000006112,"Measurement of 2019 novel coronavirus antibody ",NA,2808761000000118
-"SARS-CoV-2",NA,12990491000006116,"Measurement of 2019 novel coronavirus antigen ",NA,2808781000000110
-"SARS-CoV-2",NA,13483741000006118,"Measurement of 2019 novel coronavirus antigen ",NA,3970580016
-"SARS-CoV-2",NA,13483981000006114,"Measurement of 2019-nCoV (novel coronavirus) antibody ",NA,2807721000000110
-"SARS-CoV-2",NA,12990441000006112,"Measurement of 2019-nCoV (novel coronavirus) antibody ",NA,12990441000006112
-"SARS-CoV-2",NA,13483711000006116,"Measurement of 2019-nCoV (novel coronavirus) antibody ",NA,2837211000000119
-"SARS-CoV-2",NA,13483101000006120,"Measurement of 2019-nCoV (novel coronavirus) antibody ",NA,2836951000000114
-"SARS-CoV-2",NA,13483991000006112,"Measurement of 2019-nCoV (novel coronavirus) antigen ",NA,2807761000000119
-"SARS-CoV-2",NA,13483761000006120,"Measurement of 2019-nCoV (novel coronavirus) antigen ",NA,2837231000000110
-"SARS-CoV-2",NA,13483181000006112,"Measurement of 2019-nCoV (novel coronavirus) antigen ",NA,2837161000000112
-"SARS-CoV-2",NA,12990471000006116,"Measurement of 2019-nCoV (novel coronavirus) antigen ",NA,12990471000006116
-"SARS-CoV-2",NA,13483681000006118,"Measurement of COVID-19 antibody ",NA,3970552018
-"SARS-CoV-2",NA,13483731000006112,"Measurement of COVID-19 antigen ",NA,3970579019
-"SARS-CoV-2",NA,13483091000006112,"Measurement of SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) antibody ",NA,2836931000000119
-"SARS-CoV-2",NA,13012201000006112,"Measurement of SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) antibody ",NA,2827551000000119
-"SARS-CoV-2",NA,13483701000006116,"Measurement of SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) antibody ",NA,2837201000000116
-"SARS-CoV-2",NA,13483171000006112,"Measurement of SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) antigen ",NA,2837151000000114
-"SARS-CoV-2",NA,13012211000006110,"Measurement of SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) antigen ",NA,2827571000000111
-"SARS-CoV-2",NA,13483751000006116,"Measurement of SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) antigen ",NA,2837221000000113
-"SARS-CoV-2",NA,13483671000006116,"Measurement of Severe acute respiratory syndrome coronavirus 2 antibody ",NA,3972924010
-"SARS-CoV-2",NA,13483721000006112,"Measurement of Severe acute respiratory syndrome coronavirus 2 antigen ",NA,3972922014
-"SARS-CoV-2",NA,12990451000006110,"Measurement of Wuhan 2019-nCoV (novel coronavirus) antibody ",NA,2807741000000115
-"SARS-CoV-2",NA,12990481000006120,"Measurement of Wuhan 2019-nCoV (novel coronavirus) antigen ",NA,2807771000000114
-"SARS-CoV-2",NA,12990611000006112,"Myocarditis caused by 2019 novel coronavirus ",NA,2808831000000117
-"SARS-CoV-2",NA,12990591000006116,"Myocarditis caused by 2019-nCoV (novel coronavirus) ",NA,12990591000006116
-"SARS-CoV-2",NA,13484011000006116,"Myocarditis caused by 2019-nCoV (novel coronavirus) ",NA,2807941000000118
-"SARS-CoV-2",NA,13012251000006112,"Myocarditis caused by SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) ",NA,2827591000000110
-"SARS-CoV-2",NA,12990601000006112,"Myocarditis caused by Wuhan 2019-nCoV (novel coronavirus) ",NA,2807951000000115
-"SARS-CoV-2",NA,13483841000006112,"Myocarditis due to COVID-19 ",NA,3970721016
-"SARS-CoV-2",NA,13483831000006116,"Myocarditis due to disease caused by 2019 novel coronavirus ",NA,3970602015
-"SARS-CoV-2",NA,13483861000006112,"Myocarditis due to disease caused by 2019-nCoV (novel coronavirus) ",NA,2838451000000117
-"SARS-CoV-2",NA,13483821000006118,"Myocarditis due to disease caused by SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) ",NA,2838441000000115
-"SARS-CoV-2",NA,13483851000006110,"Myocarditis due to disease caused by Severe acute respiratory syndrome coronavirus 2 ",NA,3972997010
-"SARS-CoV-2",NA,13485481000006116,"Nasopharyngeal swab COVID-19 ribonucleic acid assay ",NA,3973434015
-"SARS-CoV-2",NA,13486271000006114,"Newcastle post-COVID syndrome Follow-up Screening Questionnaire ",NA,2839061000000118
-"SARS-CoV-2",NA,13486481000006112,"Ongoing symptomatic COVID-19 ",NA,2839441000000110
-"SARS-CoV-2",NA,13486491000006114,"Ongoing symptomatic disease caused by severe acute respiratory syndrome coronavirus 2 ",NA,2839451000000113
-"SARS-CoV-2",NA,13485541000006112,"Oropharyngeal swab COVID-19 ribonucleic acid assay ",NA,3973442019
-"SARS-CoV-2",NA,12990581000006116,"Otitis media caused by 2019 novel coronavirus ",NA,2808841000000114
-"SARS-CoV-2",NA,13484001000006116,"Otitis media caused by 2019-nCoV (novel coronavirus) ",NA,2807901000000116
-"SARS-CoV-2",NA,12990561000006112,"Otitis media caused by 2019-nCoV (novel coronavirus) ",NA,12990561000006112
-"SARS-CoV-2",NA,13012241000006114,"Otitis media caused by SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) ",NA,2827611000000119
-"SARS-CoV-2",NA,12990571000006118,"Otitis media caused by Wuhan 2019-nCoV (novel coronavirus) ",NA,2807921000000113
-"SARS-CoV-2",NA,13483791000006110,"Otitis media due to COVID-19 ",NA,3970722011
-"SARS-CoV-2",NA,13483781000006112,"Otitis media due to disease caused by 2019 novel coronavirus ",NA,3970601010
-"SARS-CoV-2",NA,13483811000006114,"Otitis media due to disease caused by 2019-nCoV (novel coronavirus) ",NA,2838431000000112
-"SARS-CoV-2",NA,13483771000006114,"Otitis media due to disease caused by SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) ",NA,2838421000000110
-"SARS-CoV-2",NA,13483801000006112,"Otitis media due to disease caused by Severe acute respiratory syndrome coronavirus 2 ",NA,3972995019
-"SARS-CoV-2",NA,13486331000006116,"PCFS (Post-COVID-19 Functional Status) Scale patient self-report ",NA,2839171000000112
-"SARS-CoV-2",NA,13486371000006116,"PCFS (Post-COVID-19 Functional Status) Scale patient self-report final scale grade ",NA,2839251000000114
-"SARS-CoV-2",NA,13486431000006110,"PCFS (Post-COVID-19 Functional Status) Scale structured interview ",NA,2839351000000118
-"SARS-CoV-2",NA,13486391000006116,"PCFS (Post-COVID-19 Functional Status) Scale structured interview final scale grade ",NA,2839291000000118
-"SARS-CoV-2",NA,13032971000006120,"POC (point of care) SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) antibody detection test ",NA,2829381000000114
-"SARS-CoV-2",NA,13032921000006116,"POC (point of care) SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) species detection test ",NA,2829311000000119
-"SARS-CoV-2",NA,12990671000006120,"Pneumonia caused by 2019 novel coronavirus ",NA,2808851000000112
-"SARS-CoV-2",NA,13484101000006116,"Pneumonia caused by 2019 novel coronavirus ",NA,3951294010
-"SARS-CoV-2",NA,12990651000006112,"Pneumonia caused by 2019-nCoV (novel coronavirus) ",NA,2807991000000111
-"SARS-CoV-2",NA,13484121000006114,"Pneumonia caused by 2019-nCoV (novel coronavirus) ",NA,2833741000000115
-"SARS-CoV-2",NA,13012271000006118,"Pneumonia caused by SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) ",NA,2827631000000110
-"SARS-CoV-2",NA,13484081000006112,"Pneumonia caused by SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) ",NA,2833571000000118
-"SARS-CoV-2",NA,13484111000006118,"Pneumonia caused by Severe acute respiratory syndrome coronavirus 2 ",NA,3972952018
-"SARS-CoV-2",NA,12990661000006114,"Pneumonia caused by Wuhan 2019-nCoV (novel coronavirus) ",NA,2808011000000117
-"SARS-CoV-2",NA,13032981000006116,"Point of care 2019-nCoV (novel coronavirus) antibody detection test ",NA,2829391000000111
-"SARS-CoV-2",NA,13032931000006116,"Point of care 2019-nCoV (novel coronavirus) species detection test ",NA,2829341000000118
-"SARS-CoV-2",NA,13032961000006114,"Point-of-care SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) antibody detection test ",NA,2829371000000112
-"SARS-CoV-2",NA,13032911000006112,"Point-of-care SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) species detection test ",NA,2829301000000116
-"SARS-CoV-2",NA,13484671000006118,"Possible COVID-19 ",NA,2833701000000118
-"SARS-CoV-2",NA,13012471000006120,"Possible COVID-19 ",NA,2827531000000114
-"SARS-CoV-2",NA,13486341000006112,"Post-COVID-19 Functional Status Scale patient self-report ",NA,2839181000000114
-"SARS-CoV-2",NA,13486381000006120,"Post-COVID-19 Functional Status Scale patient self-report final scale grade ",NA,2839271000000117
-"SARS-CoV-2",NA,13486441000006116,"Post-COVID-19 Functional Status Scale structured interview ",NA,2839361000000115
-"SARS-CoV-2",NA,13486401000006120,"Post-COVID-19 Functional Status Scale structured interview final scale grade ",NA,2839301000000119
-"SARS-CoV-2",NA,13486451000006116,"Post-COVID-19 syndrome ",NA,2839381000000112
-"SARS-CoV-2",NA,13002301000006118,"Probable COVID-19 confirmed using clinical diagnostic criteria ",NA,2799651000000116
-"SARS-CoV-2",NA,13045291000006118,"Provision of advice, assessment or treatment delayed due to COVID-19 pandemic ",NA,2829811000000113
-"SARS-CoV-2",NA,13002551000006110,"Provision of advice, assessment or treatment limited due to COVID-19 pandemic ",NA,2827521000000112
-"SARS-CoV-2",NA,13486261000006120,"Referral to Your COVID Recovery rehabilitation platform ",NA,2839041000000119
-"SARS-CoV-2",NA,13486251000006116,"Referral to post-COVID assessment clinic ",NA,2839011000000115
-"SARS-CoV-2",NA,13485301000006116,"Rhabdomyolysis due to disease caused by 2019 novel coronavirus ",NA,3970773015
-"SARS-CoV-2",NA,13485331000006112,"Rhabdomyolysis due to disease caused by 2019-nCoV (novel coronavirus) ",NA,2838261000000118
-"SARS-CoV-2",NA,13485311000006120,"Rhabdomyolysis due to disease caused by COVID-19 ",NA,3970774014
-"SARS-CoV-2",NA,13485291000006118,"Rhabdomyolysis due to disease caused by SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) ",NA,2838251000000116
-"SARS-CoV-2",NA,13485321000006110,"Rhabdomyolysis due to disease caused by Severe acute respiratory syndrome coronavirus 2 ",NA,3972964014
-"SARS-CoV-2",NA,13483661000006112,"Ribonucleic acid of 2019 novel coronavirus ",NA,3973148012
-"SARS-CoV-2",NA,12990311000006116,"Ribonucleic acid of 2019 novel coronavirus ",NA,2808721000000114
-"SARS-CoV-2",NA,13483641000006112,"Ribonucleic acid of 2019-nCoV ",NA,3973146011
-"SARS-CoV-2",NA,12990291000006116,"Ribonucleic acid of 2019-nCoV (novel coronavirus) ",NA,2807581000000116
-"SARS-CoV-2",NA,13483651000006114,"Ribonucleic acid of COVID-19 ",NA,3973147019
-"SARS-CoV-2",NA,13012151000006116,"Ribonucleic acid of SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) ",NA,2827651000000115
-"SARS-CoV-2",NA,13483631000006120,"Ribonucleic acid of Severe acute respiratory syndrome coronavirus 2 ",NA,3973145010
-"SARS-CoV-2",NA,12990301000006120,"Ribonucleic acid of Wuhan 2019nCoV (novel coronavirus) ",NA,2807591000000119
-"SARS-CoV-2",NA,13483611000006112,"SARS (severe acute respiratory syndrome) coronavirus 2 RNA ",NA,3970759012
-"SARS-CoV-2",NA,6874141000006113,"SARS-CoV ",NA,2537007017
-"SARS-CoV-2",NA,6618161000006117,"SARS-CoV PCR ",NA,2536660012
-"SARS-CoV-2",NA,6604671000006111,"SARS-CoV infection ",NA,2536663014
-"SARS-CoV-2",NA,13045191000006110,"SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) IgA arbitrary concentration in serum ",NA,2829671000000116
-"SARS-CoV-2",NA,13045131000006112,"SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) IgA detection result equivocal ",NA,2829591000000118
-"SARS-CoV-2",NA,13053141000006116,"SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) IgA detection result indeterminate ",NA,2832181000000118
-"SARS-CoV-2",NA,13045171000006114,"SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) IgA detection result negative ",NA,2829641000000110
-"SARS-CoV-2",NA,13045111000006116,"SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) IgA detection result positive ",NA,2829551000000114
-"SARS-CoV-2",NA,13045151000006116,"SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) IgA detection result unknown ",NA,2829621000000115
-"SARS-CoV-2",NA,13045211000006112,"SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) IgA qualitative existence in specimen ",NA,2829701000000117
-"SARS-CoV-2",NA,13032541000006120,"SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) IgG arbitrary concentration in serum ",NA,2828171000000115
-"SARS-CoV-2",NA,13032731000006120,"SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) IgG detection result equivocal ",NA,2828961000000113
-"SARS-CoV-2",NA,13053121000006110,"SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) IgG detection result indeterminate ",NA,2832161000000110
-"SARS-CoV-2",NA,13032691000006110,"SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) IgG detection result negative ",NA,2828891000000113
-"SARS-CoV-2",NA,13032631000006112,"SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) IgG detection result positive ",NA,2828741000000110
-"SARS-CoV-2",NA,13032791000006116,"SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) IgG detection result unknown ",NA,2829091000000114
-"SARS-CoV-2",NA,13032501000006116,"SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) IgG qualitative existence in specimen ",NA,2828101000000111
-"SARS-CoV-2",NA,13032561000006116,"SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) IgM arbitrary concentration in serum ",NA,2828201000000119
-"SARS-CoV-2",NA,13032771000006116,"SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) IgM detection result equivocal ",NA,2829451000000110
-"SARS-CoV-2",NA,13053161000006116,"SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) IgM detection result indeterminate ",NA,2832201000000119
-"SARS-CoV-2",NA,13032671000006114,"SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) IgM detection result negative ",NA,2829491000000119
-"SARS-CoV-2",NA,13032651000006116,"SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) IgM detection result positive ",NA,2829471000000118
-"SARS-CoV-2",NA,13032711000006112,"SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) IgM detection result unknown ",NA,2829461000000113
-"SARS-CoV-2",NA,13032481000006114,"SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) IgM qualitative existence in specimen ",NA,2828091000000115
-"SARS-CoV-2",NA,13052391000006118,"SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) RNA (ribonucleic acid) detection result equivocal ",NA,2831471000000115
-"SARS-CoV-2",NA,13483571000006116,"SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) RNA (ribonucleic acid) detection result indeterminate ",NA,2837951000000112
-"SARS-CoV-2",NA,13052361000006114,"SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) RNA (ribonucleic acid) detection result negative ",NA,2831561000000114
-"SARS-CoV-2",NA,13483111000006116,"SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) RNA (ribonucleic acid) detection result negative ",NA,2837011000000114
-"SARS-CoV-2",NA,13483141000006116,"SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) RNA (ribonucleic acid) detection result positive ",NA,2837101000000113
-"SARS-CoV-2",NA,13052351000006112,"SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) RNA (ribonucleic acid) detection result positive ",NA,2831581000000117
-"SARS-CoV-2",NA,13483591000006120,"SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) RNA (ribonucleic acid) detection result positive at the limit of detection ",NA,2837971000000115
-"SARS-CoV-2",NA,13052401000006116,"SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) RNA (ribonucleic acid) detection result unknown ",NA,2831601000000114
-"SARS-CoV-2",NA,13052381000006116,"SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) RNA (ribonucleic acid) qualitative existence in specimen ",NA,2831751000000118
-"SARS-CoV-2",NA,13053221000006116,"SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) antibody detection result indeterminate ",NA,2832331000000119
-"SARS-CoV-2",NA,13053201000006110,"SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) antibody detection result negative ",NA,2832301000000113
-"SARS-CoV-2",NA,13053181000006114,"SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) antibody detection result positive ",NA,2832251000000118
-"SARS-CoV-2",NA,13053241000006112,"SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) antibody detection result unknown ",NA,2832361000000112
-"SARS-CoV-2",NA,13053081000006112,"SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) antigen detection result indeterminate ",NA,2832061000000114
-"SARS-CoV-2",NA,13053061000006116,"SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) antigen detection result negative ",NA,2832031000000116
-"SARS-CoV-2",NA,13053041000006120,"SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) antigen detection result positive ",NA,2832011000000112
-"SARS-CoV-2",NA,13053101000006116,"SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) antigen detection result unknown ",NA,2832131000000117
-"SARS-CoV-2",NA,13012301000006116,"SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) detected ",NA,2827041000000112
-"SARS-CoV-2",NA,13032851000006116,"SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) detection result equivocal ",NA,2829201000000110
-"SARS-CoV-2",NA,13039291000006120,"SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) detection result negative ",NA,2829521000000116
-"SARS-CoV-2",NA,13039281000006116,"SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) detection result positive ",NA,2829511000000110
-"SARS-CoV-2",NA,13032871000006112,"SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) detection result unknown ",NA,2829211000000112
-"SARS-CoV-2",NA,13032581000006112,"SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) immunity status ",NA,2828231000000113
-"SARS-CoV-2",NA,13032751000006114,"SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) immunity status equivocal ",NA,2829021000000111
-"SARS-CoV-2",NA,13032811000006116,"SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) immunity status unknown ",NA,2829111000000116
-"SARS-CoV-2",NA,13012311000006118,"SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) not detected ",NA,2827081000000116
-"SARS-CoV-2",NA,13032461000006116,"SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) qualitative existence in specimen ",NA,2828051000000111
-"SARS-CoV-2",NA,13012421000006116,"SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) serology ",NA,2827201000000118
-"SARS-CoV-2",NA,13032441000006116,"SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) species detection test ",NA,2828021000000118
-"SARS-CoV-2",NA,13032521000006114,"SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) total immunoglobulin arbitrary concentration in serum ",NA,2828151000000112
-"SARS-CoV-2",NA,13484481000006118,"SARS-CoV-2 - severe acute respiratory syndrome coronavirus 2 ",NA,2833561000000113
-"SARS-CoV-2",NA,13012121000006112,"SARS-CoV-2 - severe acute respiratory syndrome coronavirus 2 ",NA,2827021000000117
-"SARS-CoV-2",NA,13485001000006120,"SARS-CoV-2 IgG ",NA,3969014017
-"SARS-CoV-2",NA,13485051000006116,"SARS-CoV-2 IgM ",NA,3969018019
-"SARS-CoV-2",NA,13002351000006120,"Self-taken swab for 2019-nCoV (novel coronavirus) completed ",NA,2826641000000115
-"SARS-CoV-2",NA,13002371000006112,"Self-taken swab for 2019-nCoV (novel coronavirus) offered ",NA,2826651000000117
-"SARS-CoV-2",NA,13002341000006116,"Self-taken swab for SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) completed ",NA,2826611000000116
-"SARS-CoV-2",NA,13002361000006116,"Self-taken swab for SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) offered ",NA,2826691000000113
-"SARS-CoV-2",NA,13485181000006112,"Sepsis due to disease caused by 2019 novel coronavirus ",NA,3970770017
-"SARS-CoV-2",NA,13485201000006112,"Sepsis due to disease caused by 2019-nCoV (novel coronavirus) ",NA,2838341000000114
-"SARS-CoV-2",NA,13485171000006114,"Sepsis due to disease caused by COVID-19 ",NA,3970769018
-"SARS-CoV-2",NA,13485161000006120,"Sepsis due to disease caused by SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) ",NA,2838331000000117
-"SARS-CoV-2",NA,13485191000006110,"Sepsis due to disease caused by Severe acute respiratory syndrome coronavirus 2 ",NA,3972960017
-"SARS-CoV-2",NA,12990341000006116,"Serotype 2019 novel coronavirus ",NA,2808731000000111
-"SARS-CoV-2",NA,12990321000006112,"Serotype 2019-nCoV (novel coronavirus) ",NA,2807611000000110
-"SARS-CoV-2",NA,13012161000006118,"Serotype SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) ",NA,2826981000000117
-"SARS-CoV-2",NA,12990331000006110,"Serotype Wuhan 2019-nCoV (novel coronavirus) ",NA,2807621000000116
-"SARS-CoV-2",NA,13484501000006112,"Severe acute respiratory syndrome coronavirus 2 ",NA,3947191013
-"SARS-CoV-2",NA,13484551000006110,"Severe acute respiratory syndrome coronavirus 2 Ab ",NA,3973095014
-"SARS-CoV-2",NA,13485101000006116,"Severe acute respiratory syndrome coronavirus 2 IgM ",NA,3973135013
-"SARS-CoV-2",NA,13483621000006116,"Severe acute respiratory syndrome coronavirus 2 RNA ",NA,3973143015
-"SARS-CoV-2",NA,13484571000006116,"Severe acute respiratory syndrome coronavirus 2 antibody ",NA,3973097018
-"SARS-CoV-2",NA,13483941000006116,"Severe acute respiratory syndrome coronavirus 2 detected ",NA,3970626018
-"SARS-CoV-2",NA,13483961000006116,"Severe acute respiratory syndrome coronavirus 2 not detected ",NA,3970623014
-"SARS-CoV-2",NA,13483151000006116,"Severe acute respiratory syndrome coronavirus 2 ribonucleic acid detected ",NA,2837091000000117
-"SARS-CoV-2",NA,13483121000006112,"Severe acute respiratory syndrome coronavirus 2 ribonucleic acid not detected ",NA,2837021000000115
-"SARS-CoV-2",NA,13002611000006110,"Signposting to CHMS (COVID-19 Home Management Service) ",NA,2827781000000118
-"SARS-CoV-2",NA,13486241000006118,"Signposting to Your COVID Recovery ",NA,2839001000000117
-"SARS-CoV-2",NA,13485601000006112,"Sputum COVID-19 ribonucleic acid assay ",NA,3973449011
-"SARS-CoV-2",NA,12802181000006118,"Suspected 2019-nCoV (novel coronavirus) infection ",NA,12802181000006118
-"SARS-CoV-2",NA,13484621000006120,"Suspected COVID-19 ",NA,3950926016
-"SARS-CoV-2",NA,13012451000006112,"Suspected COVID-19 ",NA,2827381000000119
-"SARS-CoV-2",NA,13012461000006114,"Suspected COVID-19 caused by SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) ",NA,2827391000000117
-"SARS-CoV-2",NA,12991171000006116,"Suspected disease caused by 2019 novel coronavirus ",NA,2809021000000118
-"SARS-CoV-2",NA,13484631000006116,"Suspected disease caused by 2019 novel coronavirus ",NA,3902372012
-"SARS-CoV-2",NA,13484651000006112,"Suspected disease caused by 2019-nCoV (novel coronavirus) ",NA,2833681000000115
-"SARS-CoV-2",NA,12991161000006112,"Suspected disease caused by 2019-nCoV (novel coronavirus) ",NA,2809001000000110
-"SARS-CoV-2",NA,13484661000006112,"Suspected disease caused by SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) ",NA,2833691000000118
-"SARS-CoV-2",NA,13484641000006114,"Suspected disease caused by Severe acute respiratory coronavirus 2 ",NA,3972946019
-"SARS-CoV-2",NA,12991181000006118,"Suspected disease caused by Wuhan 2019-nCoV (novel coronavirus) ",NA,2809031000000116
-"SARS-CoV-2",NA,13002391000006112,"Swab for 2019-nCoV (novel coronavirus) taken by healthcare professional ",NA,2826961000000114
-"SARS-CoV-2",NA,13002381000006110,"Swab for SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) taken by healthcare professional ",NA,2826951000000111
-"SARS-CoV-2",NA,13002331000006114,"Taking of swab for 2019-nCoV (novel coronavirus) ",NA,2826271000000111
-"SARS-CoV-2",NA,13002321000006112,"Taking of swab for SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) ",NA,2826251000000119
-"SARS-CoV-2",NA,12990431000006116,"Telephone consultation for suspected 2019 novel coronavirus ",NA,2808801000000111
-"SARS-CoV-2",NA,12990411000006114,"Telephone consultation for suspected 2019-nCoV (novel coronavirus) ",NA,2807691000000118
-"SARS-CoV-2",NA,13012191000006114,"Telephone consultation for suspected SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) ",NA,2827261000000119
-"SARS-CoV-2",NA,12990421000006118,"Telephone consultation for suspected Wuhan 2019-nCoV (novel coronavirus) ",NA,2807711000000116
-"SARS-CoV-2",NA,12802191000006116,"Tested for 2019-nCoV (novel coronavirus) infection ",NA,12802191000006116
-"SARS-CoV-2",NA,13484881000006116,"Thrombocytopenia due to 2019 novel coronavirus ",NA,3968539011
-"SARS-CoV-2",NA,13484911000006116,"Thrombocytopenia due to 2019nCoV (novel coronavirus) ",NA,2838361000000110
-"SARS-CoV-2",NA,13484891000006118,"Thrombocytopenia due to COVID19 ",NA,3968542017
-"SARS-CoV-2",NA,13484871000006120,"Thrombocytopenia due to SARSCoV-2 (severe acute respiratory syndrome coronavirus 2) ",NA,2838351000000112
-"SARS-CoV-2",NA,13484901000006120,"Thrombocytopenia due to Severe acute respiratory syndrome coronavirus 2 ",NA,3972955016
-"SARS-CoV-2",NA,12990621000006116,"Upper respiratory tract infection caused by 2019-nCoV (novel coronavirus) ",NA,2807971000000112
-"SARS-CoV-2",NA,13012261000006112,"Upper respiratory tract infection caused by SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) ",NA,2827671000000112
-"SARS-CoV-2",NA,12990631000006116,"Upper respiratory tract infection caused by Wuhan 2019-nCoV (novel coronavirus) ",NA,2807981000000114
-"SARS-CoV-2",NA,12990211000006112,"Wuhan 2019-nCoV (novel coronavirus) ",NA,2807501000000114
-"SARS-CoV-2",NA,12990751000006120,"Wuhan 2019-nCoV (novel coronavirus) detected ",NA,2808101000000118
-"SARS-CoV-2",NA,12990781000006110,"Wuhan 2019-nCoV (novel coronavirus) not detected ",NA,2808131000000112
-"SARS-CoV-2",NA,12991111000006112,"Wuhan 2019-nCov (novel coronavirus) serology ",NA,2808571000000117
+"SARS-CoV-2",NA,13484491000006116,"2019 novel coronavirus",NA,3902339012
+"SARS-CoV-2",NA,12990221000006116,"2019 novel coronavirus",NA,2808671000000116
+"SARS-CoV-2",NA,12990761000006116,"2019 novel coronavirus detected",NA,2808921000000112
+"SARS-CoV-2",NA,13484511000006114,"2019-nCoV (novel coronavirus)",NA,2833751000000117
+"SARS-CoV-2",NA,12990201000006110,"2019-nCoV (novel coronavirus)",NA,2807491000000115
+"SARS-CoV-2",NA,13053051000006116,"2019-nCoV (novel coronavirus) antigen detection result positive",NA,2832021000000118
+"SARS-CoV-2",NA,12990741000006116,"2019-nCoV (novel coronavirus) detected",NA,2808081000000112
+"SARS-CoV-2",NA,13483601000006110,"2019-nCoV (novel coronavirus) detection result positive at the limit of detection",NA,2837991000000116
+"SARS-CoV-2",NA,13032471000006112,"2019-nCoV (novel coronavirus) qualitative existence in specimen",NA,2828071000000119
+"SARS-CoV-2",NA,13483161000006118,"2019-nCoV (novel coronavirus) ribonucleic acid detected",NA,2837121000000116
+"SARS-CoV-2",NA,13486461000006118,"Acute COVID-19 infection",NA,2839411000000114
+"SARS-CoV-2",NA,13486531000006114,"Acute bronchitis caused by 2019 novel coronavirus",NA,3951290018
+"SARS-CoV-2",NA,13486551000006120,"Acute bronchitis caused by 2019nCoV (novel coronavirus)",NA,2838061000000112
+"SARS-CoV-2",NA,13486511000006116,"Acute bronchitis caused by SARSCoV-2 (severe acute respiratory syndrome coronavirus 2)",NA,2838051000000114
+"SARS-CoV-2",NA,13486541000006116,"Acute bronchitis caused by Severe acute respiratory syndrome coronavirus 2",NA,3972957012
+"SARS-CoV-2",NA,13486471000006112,"Acute disease caused by severe acute respiratory syndrome coronavirus 2 infection",NA,2839421000000115
+"SARS-CoV-2",NA,13485261000006114,"Acute hypoxemic respiratory failure due to disease caused by 2019 novel coronavirus",NA,3970767016
+"SARS-CoV-2",NA,13485281000006116,"Acute hypoxemic respiratory failure due to disease caused by 2019nCoV (novel coronavirus)",NA,2838141000000112
+"SARS-CoV-2",NA,13485251000006112,"Acute hypoxemic respiratory failure due to disease caused by SARSCoV-2 (severe acute respiratory syndrome coronavirus 2)",NA,2838131000000115
+"SARS-CoV-2",NA,13485271000006120,"Acute hypoxemic respiratory failure due to disease caused by Severe acute respiratory syndrome coronavirus 2",NA,3972968012
+"SARS-CoV-2",NA,13485221000006116,"Acute kidney injury due to disease caused by 2019 novel coronavirus",NA,3970764011
+"SARS-CoV-2",NA,13485241000006110,"Acute kidney injury due to disease caused by 2019-nCoV (novel coronavirus)",NA,2838161000000113
+"SARS-CoV-2",NA,13485211000006112,"Acute kidney injury due to disease caused by SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2)",NA,2838151000000110
+"SARS-CoV-2",NA,13485231000006116,"Acute kidney injury due to disease caused by Severe acute respiratory syndrome coronavirus 2",NA,3972966011
+"SARS-CoV-2",NA,13486681000006114,"Acute respiratory distress syndrome due to disease caused by 2019 novel coronavirus",NA,3970620012
+"SARS-CoV-2",NA,13486701000006112,"Acute respiratory distress syndrome due to disease caused by 2019nCoV (novel coronavirus)",NA,2838181000000116
+"SARS-CoV-2",NA,13486661000006116,"Acute respiratory distress syndrome due to disease caused by SARSCoV-2 (severe acute respiratory syndrome coronavirus 2)",NA,2838171000000118
+"SARS-CoV-2",NA,13486691000006112,"Acute respiratory distress syndrome due to disease caused by Severe",NA,3972958019
+"SARS-CoV-2",NA,12990251000006114,"Antigen of 2019 novel coronavirus",NA,2808691000000117
+"SARS-CoV-2",NA,13484601000006112,"Antigen of 2019 novel coronavirus",NA,3902351014
+"SARS-CoV-2",NA,13484591000006116,"Antigen of 2019-nCoV",NA,3902348019
+"SARS-CoV-2",NA,12990231000006120,"Antigen of 2019-nCoV (novel coronavirus)",NA,2807521000000117
+"SARS-CoV-2",NA,13484581000006120,"Antigen of SARS-CoV-2",NA,3947182014
+"SARS-CoV-2",NA,13012131000006110,"Antigen of SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2)",NA,2826451000000115
+"SARS-CoV-2",NA,13484611000006110,"Antigen of Severe acute respiratory syndrome coronavirus 2",NA,3973142013
+"SARS-CoV-2",NA,12990241000006112,"Antigen of Wuhan 2019-nCoV (novel coronavirus)",NA,2807531000000115
+"SARS-CoV-2",NA,13486311000006114,"Assessment using C19-YRS (COVID-19 Yorkshire Rehabilitation Screening) tool",NA,2839141000000118
+"SARS-CoV-2",NA,13486321000006118,"Assessment using COVID-19 Yorkshire Rehabilitation Screening tool",NA,2839151000000115
+"SARS-CoV-2",NA,13002271000006116,"Assessment using COVID-19 severity scale",NA,2794361000000111
+"SARS-CoV-2",NA,13486281000006112,"Assessment using Newcastle postCOVID syndrome Follow-up Screening Questionnaire",NA,2839081000000110
+"SARS-CoV-2",NA,13486351000006110,"Assessment using PCFS (PostCOVID-19 Functional Status) Scale patient self-report",NA,2839211000000110
+"SARS-CoV-2",NA,13486411000006116,"Assessment using PCFS (PostCOVID-19 Functional Status) Scale structured interview",NA,2839321000000111
+"SARS-CoV-2",NA,13486361000006112,"Assessment using Post-COVID-19 Functional Status Scale patient selfreport",NA,2839201000000113
+"SARS-CoV-2",NA,13486421000006112,"Assessment using Post-COVID-19 Functional Status Scale structured interview",NA,2839331000000113
+"SARS-CoV-2",NA,13486581000006110,"Asymptomatic 2019 novel coronavirus",NA,3951315014
+"SARS-CoV-2",NA,13486601000006116,"Asymptomatic 2019-nCoV (novel coronavirus) infection",NA,2838081000000115
+"SARS-CoV-2",NA,13486571000006112,"Asymptomatic COVID-19",NA,3951313019
+"SARS-CoV-2",NA,13486561000006116,"Asymptomatic SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) infection",NA,2838071000000117
+"SARS-CoV-2",NA,13486591000006112,"Asymptomatic Severe acute respiratory syndrome coronavirus 2 infection",NA,3972938015
+"SARS-CoV-2",NA,13486291000006110,"C19-YRS (COVID-19 Yorkshire Rehabilitation Screening) tool",NA,2839111000000119
+"SARS-CoV-2",NA,13012431000006116,"COVID-19",NA,2826511000000115
+"SARS-CoV-2",NA,13483031000006114,"COVID-19",NA,3947185011
+"SARS-CoV-2",NA,13486301000006112,"COVID-19 Yorkshire Rehabilitation Screening tool",NA,2839121000000113
+"SARS-CoV-2",NA,13486521000006112,"COVID-19 acute bronchitis",NA,3951097012
+"SARS-CoV-2",NA,13486671000006112,"COVID-19 acute respiratory distress syndrome",NA,3951113013
+"SARS-CoV-2",NA,13012441000006110,"COVID-19 caused by SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2)",NA,2826541000000119
+"SARS-CoV-2",NA,13002281000006116,"COVID-19 confirmed by laboratory test",NA,2799591000000111
+"SARS-CoV-2",NA,13002311000006116,"COVID-19 confirmed clinically",NA,2799661000000118
+"SARS-CoV-2",NA,13002291000006120,"COVID-19 confirmed using clinical diagnostic criteria",NA,2799621000000114
+"SARS-CoV-2",NA,13483951000006118,"COVID-19 detected",NA,3973484010
+"SARS-CoV-2",NA,13486761000006112,"COVID-19 lower respiratory infection",NA,3951300013
+"SARS-CoV-2",NA,13484091000006110,"COVID-19 pneumonia",NA,3951095016
+"SARS-CoV-2",NA,13002261000006110,"COVID-19 severity scale",NA,2794311000000114
+"SARS-CoV-2",NA,13002251000006112,"COVID-19 severity score",NA,2712291000000117
+"SARS-CoV-2",NA,13032381000006116,"Cardiomyopathy caused by 2019nCoV (novel coronavirus)",NA,2828261000000115
+"SARS-CoV-2",NA,13032371000006116,"Cardiomyopathy caused by SARSCoV-2 (severe acute respiratory syndrome coronavirus 2)",NA,2827881000000110
+"SARS-CoV-2",NA,13484051000006116,"Cardiomyopathy due to COVID-19",NA,3970718018
+"SARS-CoV-2",NA,13484041000006118,"Cardiomyopathy due to disease caused by 2019 novel coronavirus",NA,3970567019
+"SARS-CoV-2",NA,13484071000006114,"Cardiomyopathy due to disease caused by 2019-nCoV (novel coronavirus)",NA,2836611000000119
+"SARS-CoV-2",NA,13484031000006112,"Cardiomyopathy due to disease caused by SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2)",NA,2836591000000110
+"SARS-CoV-2",NA,13484061000006120,"Cardiomyopathy due to disease caused by Severe acute respiratory syndrome coronavirus 2",NA,3973001013
+"SARS-CoV-2",NA,12802201000006116,"Confirmed 2019-nCoV (novel coronavirus) infection",NA,12802201000006116
+"SARS-CoV-2",NA,13485931000006114,"Conjunctivitis due to COVID-19",NA,3970719014
+"SARS-CoV-2",NA,13485911000006116,"Conjunctivitis due to disease caused by 2019 novel coronavirus",NA,3970569016
+"SARS-CoV-2",NA,13485941000006116,"Conjunctivitis due to disease caused by 2019-nCoV (novel coronavirus)",NA,2838221000000114
+"SARS-CoV-2",NA,13485901000006118,"Conjunctivitis due to disease caused by SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2)",NA,2838211000000115
+"SARS-CoV-2",NA,13485921000006112,"Conjunctivitis due to disease caused by Severe acute respiratory syndrome coronavirus 2",NA,3970694010
+"SARS-CoV-2",NA,13485401000006114,"Detection of 2019 novel coronavirus antigen",NA,3973421016
+"SARS-CoV-2",NA,12990551000006112,"Detection of 2019 novel coronavirus using polymerase chain reaction technique",NA,2808741000000119
+"SARS-CoV-2",NA,13485791000006112,"Detection of 2019-nCoV (novel coronavirus)",NA,2838491000000113
+"SARS-CoV-2",NA,13485411000006112,"Detection of 2019-nCoV (novel coronavirus) antigen",NA,2838611000000118
+"SARS-CoV-2",NA,12990531000006116,"Detection of 2019-nCoV (novel coronavirus) using polymerase chain reaction technique",NA,2807871000000116
+"SARS-CoV-2",NA,13485771000006110,"Detection of COVID-19",NA,3973481019
+"SARS-CoV-2",NA,13485641000006112,"Detection of RNA (ribonucleic acid) of SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) in bronchoalveolar lavage fluid",NA,2838521000000111
+"SARS-CoV-2",NA,13485461000006110,"Detection of RNA (ribonucleic acid) of SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) in nasopharyngeal swab",NA,2838581000000112
+"SARS-CoV-2",NA,13485521000006116,"Detection of RNA (ribonucleic acid) of SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) in oropharyngeal swab",NA,2838561000000115
+"SARS-CoV-2",NA,13485581000006118,"Detection of RNA (ribonucleic acid) of SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) in sputum",NA,2838541000000116
+"SARS-CoV-2",NA,13485701000006116,"Detection of RNA (ribonucleic acid) of SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) using polymerase chain reaction",NA,2838511000000117
+"SARS-CoV-2",NA,13485751000006116,"Detection of SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2)",NA,2838481000000111
+"SARS-CoV-2",NA,13485381000006114,"Detection of SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) antigen",NA,2838601000000115
+"SARS-CoV-2",NA,13012231000006116,"Detection of SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) using polymerase chain reaction technique",NA,2826591000000112
+"SARS-CoV-2",NA,13485761000006116,"Detection of Severe acute respiratory syndrome coronavirus 2",NA,3973478012
+"SARS-CoV-2",NA,13485391000006112,"Detection of Severe acute respiratory syndrome coronavirus 2 antigen",NA,3973419014
+"SARS-CoV-2",NA,12990541000006114,"Detection of Wuhan 2019-nCoV (novel coronavirus) using polymerase chain reaction technique",NA,2807891000000117
+"SARS-CoV-2",NA,13485681000006120,"Detection of ribonucleic acid of 2019 novel coronavirus in bronchoalveolar lavage fluid",NA,3973460019
+"SARS-CoV-2",NA,13485471000006116,"Detection of ribonucleic acid of 2019 novel coronavirus in nasopharyngeal swab",NA,3973433014
+"SARS-CoV-2",NA,13485531000006120,"Detection of ribonucleic acid of 2019 novel coronavirus in oropharyngeal swab",NA,3973440010
+"SARS-CoV-2",NA,13485621000006118,"Detection of ribonucleic acid of 2019 novel coronavirus in sputum",NA,3973453013
+"SARS-CoV-2",NA,13485721000006114,"Detection of ribonucleic acid of 2019 novel coronavirus using polymerase chain reaction",NA,3973466013
+"SARS-CoV-2",NA,13485691000006116,"Detection of ribonucleic acid of 2019-nCoV (novel coronavirus) in bronchoalveolar lavage fluid",NA,2838531000000113
+"SARS-CoV-2",NA,13485511000006112,"Detection of ribonucleic acid of 2019-nCoV (novel coronavirus) in nasopharyngeal swab",NA,2838591000000114
+"SARS-CoV-2",NA,13485571000006116,"Detection of ribonucleic acid of 2019-nCoV (novel coronavirus) in oropharyngeal swab",NA,2838571000000110
+"SARS-CoV-2",NA,13485631000006116,"Detection of ribonucleic acid of 2019-nCoV (novel coronavirus) in sputum",NA,2838551000000118
+"SARS-CoV-2",NA,13485741000006120,"Detection of ribonucleic acid of 2019-nCoV (novel coronavirus) using polymerase chain reaction",NA,2838501000000119
+"SARS-CoV-2",NA,13485431000006118,"Detection of ribonucleic acid of COVID-19",NA,3973427017
+"SARS-CoV-2",NA,13485651000006110,"Detection of ribonucleic acid of COVID-19 in bronchoalveolar lavage fluid",NA,3973454019
+"SARS-CoV-2",NA,13485501000006110,"Detection of ribonucleic acid of COVID-19 in nasopharyngeal swab",NA,3973437010
+"SARS-CoV-2",NA,13485551000006114,"Detection of ribonucleic acid of COVID-19 in oropharyngeal swab",NA,3973445017
+"SARS-CoV-2",NA,13485611000006114,"Detection of ribonucleic acid of COVID-19 in sputum",NA,3973450011
+"SARS-CoV-2",NA,13485711000006118,"Detection of ribonucleic acid of COVID-19 using polymerase chain reaction",NA,3973463017
+"SARS-CoV-2",NA,13485421000006116,"Detection of ribonucleic acid of Severe acute respiratory syndrome coronavirus 2",NA,3973428010
+"SARS-CoV-2",NA,13485671000006116,"Detection of ribonucleic acid of Severe acute respiratory syndrome coronavirus 2 in bronchoalveolar lavage fluid",NA,3973456017
+"SARS-CoV-2",NA,13485491000006120,"Detection of ribonucleic acid of Severe acute respiratory syndrome coronavirus 2 in nasopharyngeal swab",NA,3973436018
+"SARS-CoV-2",NA,13485561000006112,"Detection of ribonucleic acid of Severe acute respiratory syndrome coronavirus 2 in oropharyngeal swab",NA,3973446016
+"SARS-CoV-2",NA,13485591000006116,"Detection of ribonucleic acid of Severe acute respiratory syndrome coronavirus 2 in sputum",NA,3973448015
+"SARS-CoV-2",NA,13485731000006112,"Detection of ribonucleic acid of Severe acute respiratory syndrome coronavirus 2 using polymerase chain reaction",NA,3973467016
+"SARS-CoV-2",NA,13483041000006116,"Disease caused by 2019 novel coronavirus",NA,3902357013
+"SARS-CoV-2",NA,12991151000006114,"Disease caused by 2019 novel coronavirus",NA,2808911000000118
+"SARS-CoV-2",NA,13483051000006120,"Disease caused by 2019-nCoV",NA,3902358015
+"SARS-CoV-2",NA,12991131000006120,"Disease caused by 2019-nCoV (novel coronavirus)",NA,2808881000000118
+"SARS-CoV-2",NA,13483061000006116,"Disease caused by Severe acute respiratory syndrome coronavirus 2",NA,3970750011
+"SARS-CoV-2",NA,12991141000006112,"Disease caused by Wuhan 2019nCoV (novel coronavirus)",NA,2808901000000115
+"SARS-CoV-2",NA,13486001000006114,"Dyspnoea caused by 2019 novel coronavirus",NA,3970584013
+"SARS-CoV-2",NA,13486021000006116,"Dyspnoea caused by 2019-nCoV (novel coronavirus)",NA,2838281000000110
+"SARS-CoV-2",NA,13485991000006112,"Dyspnoea caused by SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2)",NA,2838271000000113
+"SARS-CoV-2",NA,13486011000006112,"Dyspnoea caused by Severe acute respiratory syndrome coronavirus 2",NA,3970699017
+"SARS-CoV-2",NA,12990701000006118,"Encephalopathy caused by 2019 novel coronavirus",NA,2808811000000113
+"SARS-CoV-2",NA,12990681000006116,"Encephalopathy caused by 2019nCoV (novel coronavirus)",NA,12990681000006116
+"SARS-CoV-2",NA,13484021000006112,"Encephalopathy caused by 2019nCoV (novel coronavirus)",NA,2808031000000113
+"SARS-CoV-2",NA,13012281000006116,"Encephalopathy caused by SARSCoV-2 (severe acute respiratory syndrome coronavirus 2)",NA,2826711000000110
+"SARS-CoV-2",NA,12990691000006118,"Encephalopathy caused by Wuhan 2019-nCoV (novel coronavirus)",NA,2808041000000116
+"SARS-CoV-2",NA,13483911000006120,"Encephalopathy due to COVID-19",NA,3970720015
+"SARS-CoV-2",NA,13483901000006116,"Encephalopathy due to disease caused by 2019 novel coronavirus",NA,3970589015
+"SARS-CoV-2",NA,13483931000006112,"Encephalopathy due to disease caused by 2019-nCoV (novel coronavirus)",NA,2838301000000111
+"SARS-CoV-2",NA,13483891000006116,"Encephalopathy due to disease caused by SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2)",NA,2838291000000112
+"SARS-CoV-2",NA,13483921000006110,"Encephalopathy due to disease caused by Severe acute respiratory syndrome coronavirus 2",NA,3972998017
+"SARS-CoV-2",NA,13485961000006116,"Fever caused by 2019 novel coronavirus",NA,3970610019
+"SARS-CoV-2",NA,13485981000006110,"Fever caused by 2019-nCoV (novel coronavirus)",NA,2838321000000119
+"SARS-CoV-2",NA,13485951000006120,"Fever caused by SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2)",NA,2838311000000113
+"SARS-CoV-2",NA,13485971000006112,"Fever caused by Severe acute respiratory syndrome coronavirus 2",NA,3970701017
+"SARS-CoV-2",NA,12990731000006114,"Gastroenteritis caused by 2019 novel coronavirus",NA,2808821000000119
+"SARS-CoV-2",NA,12990711000006116,"Gastroenteritis caused by 2019nCoV (novel coronavirus)",NA,2808051000000118
+"SARS-CoV-2",NA,13012291000006116,"Gastroenteritis caused by SARSCoV-2 (severe acute respiratory syndrome coronavirus 2)",NA,2826771000000117
+"SARS-CoV-2",NA,12990721000006112,"Gastroenteritis caused by Wuhan 2019-nCoV (novel coronavirus)",NA,2808071000000110
+"SARS-CoV-2",NA,12990641000006110,"Infection of upper respiratory tract caused by 2019 novel coronavirus",NA,2808861000000110
+"SARS-CoV-2",NA,13483871000006116,"Infection of upper respiratory tract caused by 2019 novel coronavirus",NA,3970607014
+"SARS-CoV-2",NA,13483881000006120,"Infection of upper respiratory tract caused by Severe acute respiratory syndrome coronavirus 2",NA,3970708011
+"SARS-CoV-2",NA,13486751000006112,"Lower respiratory infection caused by 2019 novel coronavirus",NA,3951299017
+"SARS-CoV-2",NA,13486781000006116,"Lower respiratory infection caused by 2019-nCoV (novel coronavirus)",NA,2838231000000111
+"SARS-CoV-2",NA,13486741000006114,"Lower respiratory infection caused by SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2)",NA,2838241000000119
+"SARS-CoV-2",NA,13486771000006118,"Lower respiratory infection caused by Severe acute respiratory syndrome coronavirus 2",NA,3972962013
+"SARS-CoV-2",NA,13484811000006112,"Lymphocytopenia due to 2019 novel coronavirus",NA,3968531014
+"SARS-CoV-2",NA,13484861000006114,"Lymphocytopenia due to 2019nCoV (novel coronavirus)",NA,2838381000000118
+"SARS-CoV-2",NA,13484831000006116,"Lymphocytopenia due to COVID-19",NA,3968537013
+"SARS-CoV-2",NA,13484801000006112,"Lymphocytopenia due to SARSCoV-2 (severe acute respiratory syndrome coronavirus 2)",NA,2838371000000115
+"SARS-CoV-2",NA,13484851000006112,"Lymphocytopenia due to Severe acute respiratory syndrome coronavirus 2",NA,3972951013
+"SARS-CoV-2",NA,13484821000006116,"Lymphopenia due to COVID-19",NA,3968534018
+"SARS-CoV-2",NA,13484841000006110,"Lymphopenia due to Severe acute respiratory syndrome coronavirus 2",NA,3972950014
+"SARS-CoV-2",NA,12990611000006112,"Myocarditis caused by 2019 novel coronavirus",NA,2808831000000117
+"SARS-CoV-2",NA,12990591000006116,"Myocarditis caused by 2019-nCoV (novel coronavirus)",NA,12990591000006116
+"SARS-CoV-2",NA,13484011000006116,"Myocarditis caused by 2019-nCoV (novel coronavirus)",NA,2807941000000118
+"SARS-CoV-2",NA,13012251000006112,"Myocarditis caused by SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2)",NA,2827591000000110
+"SARS-CoV-2",NA,12990601000006112,"Myocarditis caused by Wuhan 2019-nCoV (novel coronavirus)",NA,2807951000000115
+"SARS-CoV-2",NA,13483841000006112,"Myocarditis due to COVID-19",NA,3970721016
+"SARS-CoV-2",NA,13483831000006116,"Myocarditis due to disease caused by 2019 novel coronavirus",NA,3970602015
+"SARS-CoV-2",NA,13483861000006112,"Myocarditis due to disease caused by 2019-nCoV (novel coronavirus)",NA,2838451000000117
+"SARS-CoV-2",NA,13483821000006118,"Myocarditis due to disease caused by SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2)",NA,2838441000000115
+"SARS-CoV-2",NA,13483851000006110,"Myocarditis due to disease caused by Severe acute respiratory syndrome coronavirus 2",NA,3972997010
+"SARS-CoV-2",NA,13486271000006114,"Newcastle post-COVID syndrome Follow-up Screening Questionnaire",NA,2839061000000118
+"SARS-CoV-2",NA,13486481000006112,"Ongoing symptomatic COVID-19",NA,2839441000000110
+"SARS-CoV-2",NA,13486491000006114,"Ongoing symptomatic disease caused by severe acute respiratory syndrome coronavirus 2",NA,2839451000000113
+"SARS-CoV-2",NA,12990581000006116,"Otitis media caused by 2019 novel coronavirus",NA,2808841000000114
+"SARS-CoV-2",NA,13484001000006116,"Otitis media caused by 2019-nCoV (novel coronavirus)",NA,2807901000000116
+"SARS-CoV-2",NA,12990561000006112,"Otitis media caused by 2019-nCoV (novel coronavirus)",NA,12990561000006112
+"SARS-CoV-2",NA,13012241000006114,"Otitis media caused by SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2)",NA,2827611000000119
+"SARS-CoV-2",NA,12990571000006118,"Otitis media caused by Wuhan 2019-nCoV (novel coronavirus)",NA,2807921000000113
+"SARS-CoV-2",NA,13483791000006110,"Otitis media due to COVID-19",NA,3970722011
+"SARS-CoV-2",NA,13483781000006112,"Otitis media due to disease caused by 2019 novel coronavirus",NA,3970601010
+"SARS-CoV-2",NA,13483811000006114,"Otitis media due to disease caused by 2019-nCoV (novel coronavirus)",NA,2838431000000112
+"SARS-CoV-2",NA,13483771000006114,"Otitis media due to disease caused by SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2)",NA,2838421000000110
+"SARS-CoV-2",NA,13483801000006112,"Otitis media due to disease caused by Severe acute respiratory syndrome coronavirus 2",NA,3972995019
+"SARS-CoV-2",NA,13486331000006116,"PCFS (Post-COVID-19 Functional Status) Scale patient self-report",NA,2839171000000112
+"SARS-CoV-2",NA,13486371000006116,"PCFS (Post-COVID-19 Functional Status) Scale patient self-report final scale grade",NA,2839251000000114
+"SARS-CoV-2",NA,13486431000006110,"PCFS (Post-COVID-19 Functional Status) Scale structured interview",NA,2839351000000118
+"SARS-CoV-2",NA,13486391000006116,"PCFS (Post-COVID-19 Functional Status) Scale structured interview final scale grade",NA,2839291000000118
+"SARS-CoV-2",NA,12990671000006120,"Pneumonia caused by 2019 novel coronavirus",NA,2808851000000112
+"SARS-CoV-2",NA,13484101000006116,"Pneumonia caused by 2019 novel coronavirus",NA,3951294010
+"SARS-CoV-2",NA,12990651000006112,"Pneumonia caused by 2019-nCoV (novel coronavirus)",NA,2807991000000111
+"SARS-CoV-2",NA,13484121000006114,"Pneumonia caused by 2019-nCoV (novel coronavirus)",NA,2833741000000115
+"SARS-CoV-2",NA,13012271000006118,"Pneumonia caused by SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2)",NA,2827631000000110
+"SARS-CoV-2",NA,13484081000006112,"Pneumonia caused by SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2)",NA,2833571000000118
+"SARS-CoV-2",NA,13484111000006118,"Pneumonia caused by Severe acute respiratory syndrome coronavirus 2",NA,3972952018
+"SARS-CoV-2",NA,12990661000006114,"Pneumonia caused by Wuhan 2019-nCoV (novel coronavirus)",NA,2808011000000117
+"SARS-CoV-2",NA,13486341000006112,"Post-COVID-19 Functional Status Scale patient self-report",NA,2839181000000114
+"SARS-CoV-2",NA,13486381000006120,"Post-COVID-19 Functional Status Scale patient self-report final scale grade",NA,2839271000000117
+"SARS-CoV-2",NA,13486441000006116,"Post-COVID-19 Functional Status Scale structured interview",NA,2839361000000115
+"SARS-CoV-2",NA,13486401000006120,"Post-COVID-19 Functional Status Scale structured interview final scale grade",NA,2839301000000119
+"SARS-CoV-2",NA,13486451000006116,"Post-COVID-19 syndrome",NA,2839381000000112
+"SARS-CoV-2",NA,13002301000006118,"Probable COVID-19 confirmed using clinical diagnostic criteria",NA,2799651000000116
+"SARS-CoV-2",NA,13486261000006120,"Referral to Your COVID Recovery rehabilitation platform",NA,2839041000000119
+"SARS-CoV-2",NA,13486251000006116,"Referral to post-COVID assessment clinic",NA,2839011000000115
+"SARS-CoV-2",NA,13485301000006116,"Rhabdomyolysis due to disease caused by 2019 novel coronavirus",NA,3970773015
+"SARS-CoV-2",NA,13485331000006112,"Rhabdomyolysis due to disease caused by 2019-nCoV (novel coronavirus)",NA,2838261000000118
+"SARS-CoV-2",NA,13485311000006120,"Rhabdomyolysis due to disease caused by COVID-19",NA,3970774014
+"SARS-CoV-2",NA,13485291000006118,"Rhabdomyolysis due to disease caused by SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2)",NA,2838251000000116
+"SARS-CoV-2",NA,13485321000006110,"Rhabdomyolysis due to disease caused by Severe acute respiratory syndrome coronavirus 2",NA,3972964014
+"SARS-CoV-2",NA,13483661000006112,"Ribonucleic acid of 2019 novel coronavirus",NA,3973148012
+"SARS-CoV-2",NA,12990311000006116,"Ribonucleic acid of 2019 novel coronavirus",NA,2808721000000114
+"SARS-CoV-2",NA,13483641000006112,"Ribonucleic acid of 2019-nCoV",NA,3973146011
+"SARS-CoV-2",NA,12990291000006116,"Ribonucleic acid of 2019-nCoV (novel coronavirus)",NA,2807581000000116
+"SARS-CoV-2",NA,13483651000006114,"Ribonucleic acid of COVID-19",NA,3973147019
+"SARS-CoV-2",NA,13012151000006116,"Ribonucleic acid of SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2)",NA,2827651000000115
+"SARS-CoV-2",NA,13483631000006120,"Ribonucleic acid of Severe acute respiratory syndrome coronavirus 2",NA,3973145010
+"SARS-CoV-2",NA,12990301000006120,"Ribonucleic acid of Wuhan 2019nCoV (novel coronavirus)",NA,2807591000000119
+"SARS-CoV-2",NA,13483611000006112,"SARS (severe acute respiratory syndrome) coronavirus 2 RNA",NA,3970759012
+"SARS-CoV-2",NA,6874141000006113,"SARS-CoV",NA,2537007017
+"SARS-CoV-2",NA,6618161000006117,"SARS-CoV PCR",NA,2536660012
+"SARS-CoV-2",NA,6604671000006111,"SARS-CoV infection",NA,2536663014
+"SARS-CoV-2",NA,13483141000006116,"SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) RNA (ribonucleic acid) detection result positive",NA,2837101000000113
+"SARS-CoV-2",NA,13052351000006112,"SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) RNA (ribonucleic acid) detection result positive",NA,2831581000000117
+"SARS-CoV-2",NA,13483591000006120,"SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) RNA (ribonucleic acid) detection result positive at the limit of detection",NA,2837971000000115
+"SARS-CoV-2",NA,13052381000006116,"SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) RNA (ribonucleic acid) qualitative existence in specimen",NA,2831751000000118
+"SARS-CoV-2",NA,13053041000006120,"SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) antigen detection result positive",NA,2832011000000112
+"SARS-CoV-2",NA,13012301000006116,"SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) detected",NA,2827041000000112
+"SARS-CoV-2",NA,13039281000006116,"SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) detection result positive",NA,2829511000000110
+"SARS-CoV-2",NA,13032461000006116,"SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) qualitative existence in specimen",NA,2828051000000111
+"SARS-CoV-2",NA,13484481000006118,"SARS-CoV-2 - severe acute respiratory syndrome coronavirus 2",NA,2833561000000113
+"SARS-CoV-2",NA,13012121000006112,"SARS-CoV-2 - severe acute respiratory syndrome coronavirus 2",NA,2827021000000117
+"SARS-CoV-2",NA,13485181000006112,"Sepsis due to disease caused by 2019 novel coronavirus",NA,3970770017
+"SARS-CoV-2",NA,13485201000006112,"Sepsis due to disease caused by 2019-nCoV (novel coronavirus)",NA,2838341000000114
+"SARS-CoV-2",NA,13485171000006114,"Sepsis due to disease caused by COVID-19",NA,3970769018
+"SARS-CoV-2",NA,13485161000006120,"Sepsis due to disease caused by SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2)",NA,2838331000000117
+"SARS-CoV-2",NA,13485191000006110,"Sepsis due to disease caused by Severe acute respiratory syndrome coronavirus 2",NA,3972960017
+"SARS-CoV-2",NA,12990341000006116,"Serotype 2019 novel coronavirus",NA,2808731000000111
+"SARS-CoV-2",NA,12990321000006112,"Serotype 2019-nCoV (novel coronavirus)",NA,2807611000000110
+"SARS-CoV-2",NA,13012161000006118,"Serotype SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2)",NA,2826981000000117
+"SARS-CoV-2",NA,12990331000006110,"Serotype Wuhan 2019-nCoV (novel coronavirus)",NA,2807621000000116
+"SARS-CoV-2",NA,13484501000006112,"Severe acute respiratory syndrome coronavirus 2",NA,3947191013
+"SARS-CoV-2",NA,13483621000006116,"Severe acute respiratory syndrome coronavirus 2 RNA",NA,3973143015
+"SARS-CoV-2",NA,13483941000006116,"Severe acute respiratory syndrome coronavirus 2 detected",NA,3970626018
+"SARS-CoV-2",NA,13483151000006116,"Severe acute respiratory syndrome coronavirus 2 ribonucleic acid detected",NA,2837091000000117
+"SARS-CoV-2",NA,13002611000006110,"Signposting to CHMS (COVID-19 Home Management Service)",NA,2827781000000118
+"SARS-CoV-2",NA,13486241000006118,"Signposting to Your COVID Recovery",NA,2839001000000117
+"SARS-CoV-2",NA,13484881000006116,"Thrombocytopenia due to 2019 novel coronavirus",NA,3968539011
+"SARS-CoV-2",NA,13484911000006116,"Thrombocytopenia due to 2019nCoV (novel coronavirus)",NA,2838361000000110
+"SARS-CoV-2",NA,13484891000006118,"Thrombocytopenia due to COVID19",NA,3968542017
+"SARS-CoV-2",NA,13484871000006120,"Thrombocytopenia due to SARSCoV-2 (severe acute respiratory syndrome coronavirus 2)",NA,2838351000000112
+"SARS-CoV-2",NA,13484901000006120,"Thrombocytopenia due to Severe acute respiratory syndrome coronavirus 2",NA,3972955016
+"SARS-CoV-2",NA,12990621000006116,"Upper respiratory tract infection caused by 2019-nCoV (novel coronavirus)",NA,2807971000000112
+"SARS-CoV-2",NA,13012261000006112,"Upper respiratory tract infection caused by SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2)",NA,2827671000000112
+"SARS-CoV-2",NA,12990631000006116,"Upper respiratory tract infection caused by Wuhan 2019-nCoV (novel coronavirus)",NA,2807981000000114
+"SARS-CoV-2",NA,12990211000006112,"Wuhan 2019-nCoV (novel coronavirus)",NA,2807501000000114
+"SARS-CoV-2",NA,12990751000006120,"Wuhan 2019-nCoV (novel coronavirus) detected",NA,2808101000000118
 "Schizophrenia and non-organic psychosis","1464.00",251628010,"H/O: schizophrenia",161468000,251628010
 "Schizophrenia and non-organic psychosis","146H.00",300411000000110,"H/O: psychosis",198991000000103,300411000000110
 "Schizophrenia and non-organic psychosis","1BG..00",48238012,"Flight of ideas",28810003,48238012
