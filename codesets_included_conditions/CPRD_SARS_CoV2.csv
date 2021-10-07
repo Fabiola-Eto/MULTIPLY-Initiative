@@ -1,73 +1,26 @@
-Disease,ReadCode,MedCode,ReadTerm
-SARS-CoV-2,1IP1.00,114895,COVID-19 excluded by laboratory test*
-SARS-CoV-2,1JX..00,113745,Suspected coronavirus infection
-SARS-CoV-2,1JX1.00,114766,Suspected disease caused by 2019-nCoV (novel coronavirus)
-SARS-CoV-2,38VO.00,114945,COVID-19 severity score*
-SARS-CoV-2,43dt.00,115013,SARS-CoV-2 immunity status*
-SARS-CoV-2,43dt100,115064,Does not have immun SARS-CoV-2*
-SARS-CoV-2,43dt200,115194,SARS-CoV-2 immun status equiv*
-SARS-CoV-2,43dt300,115067,SARS-CoV-2 immun status unknow*
-SARS-CoV-2,43dt400,115072,Has immunity to SARS-CoV-2*
-SARS-CoV-2,43dt500,115017,Cent lab meas SARS-CoV-2 antib*
-SARS-CoV-2,43dt600,115058,PoC measure SARS-CoV-2 antibod*
-SARS-CoV-2,43dt700,115068,Serum SARS-CoV-2 total Immunog*
-SARS-CoV-2,43dt900,115006,Serum SARS-CoV-2 IgG*
-SARS-CoV-2,43dtA00,115010,SARS-CoV-2 IgG detected*
-SARS-CoV-2,43dtB00,115071,SARS-CoV-2 IgG detection equiv*
-SARS-CoV-2,43dtC00,115144,SARS-CoV-2 IgG detection unkno*
-SARS-CoV-2,43dtD00,115036,SARS-CoV-2 IgG not detected*
-SARS-CoV-2,43dtF00,115138,Serum SARS-CoV-2 IgM*
-SARS-CoV-2,43dtG00,115012,SARS-CoV-2 IgM detected*
-SARS-CoV-2,43dtH00,115137,SARS-CoV-2 IgM detection equiv*
-SARS-CoV-2,43dtJ00,115148,SARS-CoV-2 IgM detection unkno*
-SARS-CoV-2,43dtK00,115040,SARS-CoV-2 IgM not detected*
-SARS-CoV-2,43dtL00,115062,Measurement of SARS-CoV-2 antibody*
-SARS-CoV-2,43dtP00,115236,SARS-CoV-2 IgA not detected*
-SARS-CoV-2,43dtW00,115235,SARS-CoV-2 antibody positive*
-SARS-CoV-2,43dtX00,115195,SARS-CoV-2 antibody negative*
-SARS-CoV-2,43hF.00,115037,Detection of SARS-CoV-2 by PCR*
-SARS-CoV-2,43jS.00,91124,Coronavirus nucleic acid detection
-SARS-CoV-2,43jS000,109154,Coronavirus nucleic acid detection assay
-SARS-CoV-2,43jS100,110951,Coronavirus ribonucleic acid detection assay
-SARS-CoV-2,43kB.00,115136,Measurement of SARS-CoV-2 antigen*
-SARS-CoV-2,43kB100,115426,SARS-CoV-2 antigen positive*
-SARS-CoV-2,43kB200,115298,SARS-CoV-2 antigen negative*
-SARS-CoV-2,4J3R.00,114770,2019-nCoV (novel coronavirus) serology
-SARS-CoV-2,4J3R100,114771,2019-nCoV (novel coronavirus) detected
-SARS-CoV-2,4J3R200,114769,2019-nCoV (novel coronavirus) not detected
-SARS-CoV-2,4J3R300,115088,SARS-CoV-2 RNA detect result equiv*
-SARS-CoV-2,4J3R400,115059,SARS-CoV-2 RNA detect reslt unknow*
-SARS-CoV-2,4J3S.00,115061,SARS-CoV-2 species detect test*
-SARS-CoV-2,4J3S100,115069,Cent lab SARS-CoV-2 spec detec*
-SARS-CoV-2,4J3S200,115232,PoC SARS-CoV-2 species detect*
-SARS-CoV-2,4JF6.00,114947,Taking of swab for SARS-CoV-2 (SARS coronavirus 2)*
-SARS-CoV-2,4JF6000,114951,Swab for SARS-CoV-2 by healthcare professional*
-SARS-CoV-2,4JF6100,115016,Self-taken swab for SARS-CoV-2 offered*
-SARS-CoV-2,4JF6200,114948,Self-taken swab for SARS-CoV-2 completed*
-SARS-CoV-2,65PW.00,114731,Coronavirus contact
-SARS-CoV-2,65PW100,114764,Exposure to 2019-nCoV (novel coronavirus) infection
-SARS-CoV-2,8CAO.00,114754,Advice given about 2019-nCoV (novel coronavirus) infection
-SARS-CoV-2,8CAO100,114760,Advice given about 2019-nCoV (novel coronavirus) by telephone
-SARS-CoV-2,8HkI.00,115420,Referral to Your COViD Recovery rehabilitation platform*
-SARS-CoV-2,8HkjC00,114927,Signposting to CHMS (COVID-19 Home Management Service)*
-SARS-CoV-2,8HkjG00,115404,Signposting to Your COVID Recovery*
-SARS-CoV-2,8HTE600,115418,Referral to post-COVID assessment clinic*
-SARS-CoV-2,8I14.00,114944,Provis of advice assess treatmnt limit due to COVID19 pandem*
-SARS-CoV-2,8I15.00,115149,Provis of advice assess treatmnt delay due to COVID19 pandem*
-SARS-CoV-2,9N31200,114753,Telephone consultation for suspected 2019-nCoV (novel coronavirus)
-SARS-CoV-2,A076400,115295,Gastroenteri due to SARS-CoV-2*
-SARS-CoV-2,A795.00,50068,Coronavirus infection
-SARS-CoV-2,A795100,114765,Disease caused by 2019-nCoV (novel coronavirus)
-SARS-CoV-2,A795200,114899,COVID-19 confirmed by laboratory test*
-SARS-CoV-2,A795300,114934,COVID-19 confirmed using clinical diagnostic criteria*
-SARS-CoV-2,A795400,115516,Acute disease caused by SARS-CoV-2*
-SARS-CoV-2,A795500,115513,Ongoing symptomatic COVID-19*
-SARS-CoV-2,A7y0000,114891,Coronavirus as cause of dis classified to other chapters
-SARS-CoV-2,AyuDC00,114762,"[X]Coronavirus infection, unspecified"
-SARS-CoV-2,AyuJC00,115419,Post-COVID-19 syndrome*
-SARS-CoV-2,AyuKL00,115315,[X]Coronavirus/cause/diseases classified to other chapters
-SARS-CoV-2,F289.00,115139,Encephalopat due to SARS-CoV-2*
-SARS-CoV-2,F529.00,115188,Otitis media due to SARS-CoV-2*
-SARS-CoV-2,G520800,115325,Myocarditis due to SARS-CoV-2*
-SARS-CoV-2,H051100,115080,URTI due to SARS-CoV-2*
-SARS-CoV-2,H204.00,115008,Pneumonia due to SARS-CoV-2*
+"Condition","ReadCode","MedCode","ReadTerm"
+"SARS-CoV-2","8HkI.00",115420,"Referral to Your COViD Recovery rehabilitation platform*"
+"SARS-CoV-2","8HkjG00",115404,"Signposting to Your COVID Recovery*"
+"SARS-CoV-2","8HTE600",115418,"Referral to post-COVID assessment clinic*"
+"SARS-CoV-2","43hF.00",115037,"Detection of SARS-CoV-2 by PCR*"
+"SARS-CoV-2","43jS.00",91124,"Coronavirus nucleic acid detection"
+"SARS-CoV-2","43kB100",115426,"SARS-CoV-2 antigen positive*"
+"SARS-CoV-2","4J3R100",114771,"2019-nCoV (novel coronavirus) detected"
+"SARS-CoV-2","A795200",114899,"COVID-19 confirmed by laboratory test*"
+"SARS-CoV-2","38VO.00",114945,"COVID-19 severity score*"
+"SARS-CoV-2","8HkjC00",114927,"Signposting to CHMS (COVID-19 Home Management Service)*"
+"SARS-CoV-2","A795.00",50068,"Coronavirus infection"
+"SARS-CoV-2","A795100",114765,"Disease caused by 2019-nCoV (novel coronavirus)"
+"SARS-CoV-2","A795300",114934,"COVID-19 confirmed using clinical diagnostic criteria*"
+"SARS-CoV-2","A795400",115516,"Acute disease caused by SARS-CoV-2*"
+"SARS-CoV-2","A795500",115513,"Ongoing symptomatic COVID-19*"
+"SARS-CoV-2","A7y0000",114891,"Coronavirus as cause of dis classified to other chapters"
+"SARS-CoV-2","AyuDC00",114762,"[X]Coronavirus infection, unspecified"
+"SARS-CoV-2","AyuKL00",115315,"[X]Coronavirus/cause/diseases classified to other chapters"
+"SARS-CoV-2","A076400",115295,"Gastroenteri due to SARS-CoV-2*"
+"SARS-CoV-2","AyuJC00",115419,"Post-COVID-19 syndrome*"
+"SARS-CoV-2","F289.00",115139,"Encephalopat due to SARS-CoV-2*"
+"SARS-CoV-2","F529.00",115188,"Otitis media due to SARS-CoV-2*"
+"SARS-CoV-2","G520800",115325,"Myocarditis due to SARS-CoV-2*"
+"SARS-CoV-2","H051100",115080,"URTI due to SARS-CoV-2*"
+"SARS-CoV-2","H204.00",115008,"Pneumonia due to SARS-CoV-2*"
