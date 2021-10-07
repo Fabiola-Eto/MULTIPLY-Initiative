@@ -1,6 +1,6 @@
 # QMUL-multimorbidity
 ## Overview
-This repository hosts code sets of multimorbidity. Please, to find out more, see [multimorbidity_list.md](https://github.com/f-eto/qmul-multimorbidity/blob/codesets-included-conditions/multimorbidity_list.md).
+This repository hosts codelists of long-term conditions used in a multimorbidity study. Please, to find out more, see [multimorbidity_list.md](https://github.com/f-eto/qmul-multimorbidity/blob/codesets-included-conditions/multimorbidity_list.md).
 >
 >
 ## Repository content
