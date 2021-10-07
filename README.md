@@ -7,7 +7,7 @@ This repository hosts code sets of multimorbidity. Please, to find out more, see
 >
 > 
 ### codesets_included_conditions
-Includes all primary care codelistS, i.e. Read v2 and CPRD medical codes that were used to identify our [list of 204 conditions](https://github.com/f-eto/qmul-multimorbidity/blob/codesets-included-conditions/multimorbidity_list.md). Note that there are two code lists available for ‘Constipation’, one based on Read2 codes and another based on prodcodes (codes used to identify medication). The code list for 'Painful conditions' was based on prodcodes only.
+Includes all codelists recorded in the primary care using Read v2 (and their correspondent CPRD medical codes) that were used to identify our [list of 204 conditions](https://github.com/f-eto/qmul-multimorbidity/blob/codesets-included-conditions/multimorbidity_list.md). Note that there are two code lists available for ‘Constipation’, one based on Read2 codes and another based on prodcodes (codes used to identify medication). The code list for 'Painful conditions' was based on prodcodes only.
 >
 >
 ### ICD10_included_conditions
