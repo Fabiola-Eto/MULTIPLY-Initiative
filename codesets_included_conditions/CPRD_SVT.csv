@@ -1,0 +1,11 @@
+Disease,ReadCode,MedCode,ReadTerm
+Supraventricular tachycardia,14AQ.00,12375,History of supraventricular tachycardia
+Supraventricular tachycardia,3274.00,18357,ECG: paroxysmal atrial tachy.
+Supraventricular tachycardia,G570000,1297,Paroxysmal atrial tachycardia
+Supraventricular tachycardia,G570100,23647,Paroxysmal atrioventricular tachycardia
+Supraventricular tachycardia,G570200,51845,Paroxysmal junctional tachycardia
+Supraventricular tachycardia,G570300,29491,Paroxysmal nodal tachycardia
+Supraventricular tachycardia,G570.00,4940,Paroxysmal supraventricular tachycardia
+Supraventricular tachycardia,G570z00,35124,Paroxysmal supraventricular tachycardia NOS
+Supraventricular tachycardia,G57y900,1536,Supraventricular tachycardia NOS
+Supraventricular tachycardia,G567400,8230,Wolff-Parkinson-White syndrome

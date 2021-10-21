@@ -1,0 +1,48 @@
+Disease,ReadCode,MedCode,ReadTerm
+Primary malignancy breast,B340000,23380,Malignant neoplasm of nipple of female breast
+Primary malignancy breast,B340100,64686,Malignant neoplasm of areola of female breast
+Primary malignancy breast,B340.00,26853,Malignant neoplasm of nipple and areola of female breast
+Primary malignancy breast,B340z00,59831,Malignant neoplasm of nipple or areola of female breast NOS
+Primary malignancy breast,B341.00,31546,Malignant neoplasm of central part of female breast
+Primary malignancy breast,B342.00,29826,Malignant neoplasm of upper-inner quadrant of female breast
+Primary malignancy breast,B343.00,45222,Malignant neoplasm of lower-inner quadrant of female breast
+Primary malignancy breast,B344.00,23399,Malignant neoplasm of upper-outer quadrant of female breast
+Primary malignancy breast,B345.00,42070,Malignant neoplasm of lower-outer quadrant of female breast
+Primary malignancy breast,B346.00,20685,Malignant neoplasm of axillary tail of female breast
+Primary malignancy breast,B347.00,49148,"Malignant neoplasm, overlapping lesion of breast"
+Primary malignancy breast,B34..00,3968,Malignant neoplasm of female breast
+Primary malignancy breast,B34..11,348,Ca female breast
+Primary malignancy breast,B34y000,95057,Malignant neoplasm of ectopic site of female breast
+Primary malignancy breast,B34y.00,56715,Malignant neoplasm of other site of female breast
+Primary malignancy breast,B34yz00,38475,Malignant neoplasm of other site of female breast NOS
+Primary malignancy breast,B34z.00,9470,Malignant neoplasm of female breast NOS
+Primary malignancy breast,B350000,68480,Malignant neoplasm of nipple of male breast
+Primary malignancy breast,B350100,67884,Malignant neoplasm of areola of male breast
+Primary malignancy breast,B350.00,54494,Malignant neoplasm of nipple and areola of male breast
+Primary malignancy breast,B35..00,19423,Malignant neoplasm of male breast
+Primary malignancy breast,B35z000,95323,Malignant neoplasm of ectopic site of male breast
+Primary malignancy breast,B35z.00,54202,Malignant neoplasm of other site of male breast
+Primary malignancy breast,B35zz00,48809,Malignant neoplasm of male breast NOS
+Primary malignancy breast,B36..00,105488,Local recurrence of malignant tumour of breast
+Primary malignancy breast,B830000,10387,Lobular carcinoma in situ of breast
+Primary malignancy breast,B830100,18694,Intraductal carcinoma in situ of breast
+Primary malignancy breast,BB91.00,8351,[M]Infiltrating duct carcinoma
+Primary malignancy breast,BB91.11,21833,[M]Duct carcinoma NOS
+Primary malignancy breast,BB91000,30189,[M]Intraductal papillary adenocarcinoma with invasion
+Primary malignancy breast,BB96.00,102593,[M]Noninfiltrating intraductal papillary adenocarcinoma
+Primary malignancy breast,BB91100,39760,[M]Infiltrating duct and lobular carcinoma
+Primary malignancy breast,BB92.00,62871,"[M]Comedocarcinoma, noninfiltrating"
+Primary malignancy breast,BB93.00,58131,[M]Comedocarcinoma NOS
+Primary malignancy breast,BB94.00,40359,[M]Juvenile breast carcinoma
+Primary malignancy breast,BB94.11,67701,[M]Secretory breast carcinoma
+Primary malignancy breast,BB9J.00,12300,"[M]Paget's disease, mammary"
+Primary malignancy breast,BB9J.11,60803,"[M]Paget's disease, breast"
+Primary malignancy breast,BB9K000,12480,[M]Paget's disease and intraductal carcinoma of breast
+Primary malignancy breast,BB9K.00,42542,[M]Paget's disease and infiltrating breast duct carcinoma
+Primary malignancy breast,BB9M.00,3969,[M]Intracystic carcinoma NOS
+Primary malignancy breast,Byu6.00,12499,[X]Malignant neoplasm of breast
+Primary malignancy breast,ByuFG00,53803,[X]Other carcinoma in situ of breast
+Primary malignancy breast,ZV10300,16639,[V]Personal history of malignant neoplasm of breast
+Primary malignancy breast,B830.00,7833,Carcinoma in situ of breast
+Primary malignancy breast,B933.00,41232,Neoplasm of uncertain behaviour of breast
+Primary malignancy breast,BA03.00,45906,Neoplasm of unspecified nature of breast

@@ -1,0 +1,11 @@
+Disease,ReadCode,MedCode,ReadTerm
+Macular degeneration,F424200,52090,Retinal pigment epithelium serous detachment
+Macular degeneration,F424300,69892,Retinal pigment epithelium haemorrhagic detachment
+Macular degeneration,F424400,99525,Retinal pigment epithelial detachment
+Macular degeneration,F425000,2762,Unspecified senile macular degeneration
+Macular degeneration,F425100,10343,Dry senile macular degeneration
+Macular degeneration,F425200,26205,Wet senile macular degeneration
+Macular degeneration,F425211,71225,Kuhnt - Junius degeneration
+Macular degeneration,F425.00,118,Degeneration of macula and posterior pole
+Macular degeneration,F425.11,6350,Senile macular degeneration
+Macular degeneration,F425z00,1753,Degeneration of macula or posterior pole NOS

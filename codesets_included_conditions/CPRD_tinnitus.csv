@@ -1,0 +1,12 @@
+Disease,ReadCode,MedCode,ReadTerm
+Tinnitus,1C2..00,9927,Tinnitus symptoms
+Tinnitus,1C23.00,12809,Ringing in ear
+Tinnitus,1C24.00,17555,Hissing in ear
+Tinnitus,1C2Z.00,36213,Tinnitus symptom NOS
+Tinnitus,F583000,44714,Unspecified tinnitus
+Tinnitus,F583100,44519,Subjective tinnitus
+Tinnitus,F583200,59173,Objective tinnitus
+Tinnitus,F583.00,338,Tinnitus
+Tinnitus,F583z00,33737,Tinnitus NOS
+Tinnitus,Z911200,46011,Fit tinnitus masker
+Tinnitus,ZEB..00,45977,Observation of tinnitus

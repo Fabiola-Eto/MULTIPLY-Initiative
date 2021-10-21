@@ -1,0 +1,83 @@
+Disease,ReadCode,MedCode,ReadTerm
+Cerebrovascular disease,14AB000,105202,H/O amaurosis fugax
+Cerebrovascular disease,14AB.00,13567,H/O: TIA
+Cerebrovascular disease,1B1S.00,28278,Transient global amnesia
+Cerebrovascular disease,8CRB.00,100015,Transient ischaemic attack clinical management plan
+Cerebrovascular disease,F423600,1195,Amaurosis fugax
+Cerebrovascular disease,Fyu5500,63746,[X]Other transnt cerebral ischaemic attacks+related syndroms
+Cerebrovascular disease,G650.11,5268,Insufficiency - basilar artery
+Cerebrovascular disease,G655.00,6489,Transient global amnesia
+Cerebrovascular disease,G656.00,10794,Vertebrobasilar insufficiency
+Cerebrovascular disease,G657.00,105738,Carotid territory transient ischaemic attack
+Cerebrovascular disease,G65..00,504,Transient cerebral ischaemia
+Cerebrovascular disease,G65..12,1433,Transient ischaemic attack
+Cerebrovascular disease,G65..13,2417,Vertebro-basilar insufficiency
+Cerebrovascular disease,G65y.00,19354,Other transient cerebral ischaemia
+Cerebrovascular disease,G65z100,16507,Intermittent cerebral ischaemia
+Cerebrovascular disease,G65z.00,1895,Transient cerebral ischaemia NOS
+Cerebrovascular disease,G65zz00,15788,Transient cerebral ischaemia NOS
+Cerebrovascular disease,Z7CE700,18996,Transient global amnesia
+Cerebrovascular disease,Z7CE711,19004,TGA - Transient global amnesia
+Cerebrovascular disease,ZV12D00,101251,[V]Personal history of transient ischaemic attack
+Cerebrovascular disease,G63..11,57495,Infarction - precerebral
+Cerebrovascular disease,G63y000,23671,Cerebral infarct due to thrombosis of precerebral arteries
+Cerebrovascular disease,G63y100,24446,Cerebral infarction due to embolism of precerebral arteries
+Cerebrovascular disease,G640000,36717,Cerebral infarction due to thrombosis of cerebral arteries
+Cerebrovascular disease,G640.00,16517,Cerebral thrombosis
+Cerebrovascular disease,G641000,27975,Cerebral infarction due to embolism of cerebral arteries
+Cerebrovascular disease,G641.00,15019,Cerebral embolism
+Cerebrovascular disease,G641.11,34758,Cerebral embolus
+Cerebrovascular disease,G64..00,8837,Cerebral arterial occlusion
+Cerebrovascular disease,G64..11,5363,CVA - cerebral artery occlusion
+Cerebrovascular disease,G64..12,569,Infarction - cerebral
+Cerebrovascular disease,G64..13,6155,Stroke due to cerebral arterial occlusion
+Cerebrovascular disease,G64z000,25615,Brainstem infarction
+Cerebrovascular disease,G64z100,47642,Wallenberg syndrome
+Cerebrovascular disease,G64z111,5185,Lateral medullary syndrome
+Cerebrovascular disease,G64z200,9985,Left sided cerebral infarction
+Cerebrovascular disease,G64z300,10504,Right sided cerebral infarction
+Cerebrovascular disease,G64z400,26424,Infarction of basal ganglia
+Cerebrovascular disease,G64z.00,3149,Cerebral infarction NOS
+Cerebrovascular disease,G64z.11,15252,Brainstem infarction NOS
+Cerebrovascular disease,G64z.12,5602,Cerebellar infarction
+Cerebrovascular disease,G683.00,39403,Sequelae of cerebral infarction
+Cerebrovascular disease,G6W..00,40758,Cereb infarct due unsp occlus/stenos precerebr arteries
+Cerebrovascular disease,G6X..00,33543,Cerebrl infarctn due/unspcf occlusn or sten/cerebrl artrs
+Cerebrovascular disease,Gyu6300,91627,[X]Cerebrl infarctn due/unspcf occlusn or sten/cerebrl artrs
+Cerebrovascular disease,Gyu6400,53745,[X]Other cerebral infarction
+Cerebrovascular disease,Gyu6G00,94482,[X]Cereb infarct due unsp occlus/stenos precerebr arteries
+Cerebrovascular disease,14A7.00,34135,H/O: CVA/stroke
+Cerebrovascular disease,14A7.11,6305,H/O: CVA
+Cerebrovascular disease,14A7.12,5871,H/O: stroke
+Cerebrovascular disease,14AK.00,66873,H/O: Stroke in last year
+Cerebrovascular disease,1M4..00,100639,Central post-stroke pain
+Cerebrovascular disease,661M700,107195,Stroke self-management plan agreed
+Cerebrovascular disease,661N700,109743,Stroke self-management plan review
+Cerebrovascular disease,662e.00,18686,Stroke/CVA annual review
+Cerebrovascular disease,662e.11,107886,Stroke annual review
+Cerebrovascular disease,662M100,105100,Stroke 6 month review
+Cerebrovascular disease,662M200,104505,Stroke initial post discharge review
+Cerebrovascular disease,662M.00,10792,Stroke monitoring
+Cerebrovascular disease,7P24200,55351,Delivery of rehabilitation for stroke
+Cerebrovascular disease,8HHM.00,56458,Ref to multidisciplinary stroke function improvement service
+Cerebrovascular disease,8IEC.00,104638,Ref multidisciplinary stroke function improvement declined
+Cerebrovascular disease,9h21.00,11039,Excepted from stroke quality indicators: Patient unsuitable
+Cerebrovascular disease,9h22.00,11074,Excepted from stroke quality indicators: Informed dissent
+Cerebrovascular disease,9h2..00,10962,Exception reporting: stroke quality indicators
+Cerebrovascular disease,Fyu5600,93459,[X]Other lacunar syndromes
+Cerebrovascular disease,G663.00,8443,Brain stem stroke syndrome
+Cerebrovascular disease,G664.00,17322,Cerebellar stroke syndrome
+Cerebrovascular disease,G665.00,33499,Pure motor lacunar syndrome
+Cerebrovascular disease,G666.00,51767,Pure sensory lacunar syndrome
+Cerebrovascular disease,G667.00,7780,Left sided CVA
+Cerebrovascular disease,G668.00,12833,Right sided CVA
+Cerebrovascular disease,G66..00,1469,Stroke and cerebrovascular accident unspecified
+Cerebrovascular disease,G66..11,1298,CVA unspecified
+Cerebrovascular disease,G66..12,6253,Stroke unspecified
+Cerebrovascular disease,G66..13,6116,CVA - Cerebrovascular accident unspecified
+Cerebrovascular disease,G68X.00,6228,"Sequelae of stroke,not specfd as h'morrhage or infarction"
+Cerebrovascular disease,Gyu6C00,110337,"[X]Sequelae of stroke,not specfd as h'morrhage or infarction"
+Cerebrovascular disease,L440.11,47607,CVA - cerebrovascular accident in the puerperium
+Cerebrovascular disease,L440.12,56279,Stroke in the puerperium
+Cerebrovascular disease,ZV12511,19348,[V]Personal history of stroke
+Cerebrovascular disease,ZV12512,7138,[V]Personal history of cerebrovascular accident (CVA)

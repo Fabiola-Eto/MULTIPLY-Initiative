@@ -1,0 +1,24 @@
+Disease,ReadCode,MedCode,ReadTerm
+Subarachnoid haemorrhage,G600.00,29939,Ruptured berry aneurysm
+Subarachnoid haemorrhage,G601.00,56007,Subarachnoid haemorrhage from carotid siphon and bifurcation
+Subarachnoid haemorrhage,G602.00,19412,Subarachnoid haemorrhage from middle cerebral artery
+Subarachnoid haemorrhage,G603.00,42331,Subarachnoid haemorrhage from anterior communicating artery
+Subarachnoid haemorrhage,G604.00,9696,Subarachnoid haemorrhage from posterior communicating artery
+Subarachnoid haemorrhage,G605.00,41910,Subarachnoid haemorrhage from basilar artery
+Subarachnoid haemorrhage,G606.00,60692,Subarachnoid haemorrhage from vertebral artery
+Subarachnoid haemorrhage,G60..00,1786,Subarachnoid haemorrhage
+Subarachnoid haemorrhage,G60X.00,17326,"Subarachnoid haemorrh from intracranial artery, unspecif"
+Subarachnoid haemorrhage,G60z.00,23580,Subarachnoid haemorrhage NOS
+Subarachnoid haemorrhage,G680.00,44740,Sequelae of subarachnoid haemorrhage
+Subarachnoid haemorrhage,Gyu6000,108668,[X]Subarachnoid haemorrhage from other intracranial arteries
+Subarachnoid haemorrhage,Gyu6100,65745,[X]Other subarachnoid haemorrhage
+Subarachnoid haemorrhage,Gyu6E00,108630,"[X]Subarachnoid haemorrh from intracranial artery, unspecif"
+Subarachnoid haemorrhage,S620z00,106486, Subarach h'ge inj no open intracran wnd + concussion unspec 
+Subarachnoid haemorrhage,S62..12,28807, Subarachnoid haemorrhage following injury 
+Subarachnoid haemorrhage,S620.00,38304, Closed traumatic subarachnoid haemorrhage 
+Subarachnoid haemorrhage,S621100,113300, Subarachnoid h'ge inj + open intracranial wound + no LOC 
+Subarachnoid haemorrhage,S620100,102130, Subarachnoid h'ge inj no open intracran wnd+no loss consc 
+Subarachnoid haemorrhage,S621.00,96717, Open traumatic subarachnoid haemorrhage 
+Subarachnoid haemorrhage,S620600,104759, Subarach h'ge inj no open intracran wnd+LOC unspec duration 
+Subarachnoid haemorrhage,S627.00,58545, Traumatic subarachnoid haemorrhage 
+Subarachnoid haemorrhage,S621z00,106511, Subarachnoid h'ge inj + open intracran wnd+concussion unspec 

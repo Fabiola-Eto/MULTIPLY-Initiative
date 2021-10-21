@@ -1,0 +1,33 @@
+Disease,ReadCode,MedCode,ReadTerm
+Chronic Kidney Disease,1Z10.00,29013,Chronic kidney disease stage 1
+Chronic Kidney Disease,1Z17.00,94789,Chronic kidney disease stage 1 with proteinuria
+Chronic Kidney Disease,1Z17.11,97980,CKD stage 1 with proteinuria
+Chronic Kidney Disease,1Z18.00,95572,Chronic kidney disease stage 1 without proteinuria
+Chronic Kidney Disease,1Z11.00,12586,Chronic kidney disease stage 2
+Chronic Kidney Disease,1Z19.00,95146,Chronic kidney disease stage 2 with proteinuria
+Chronic Kidney Disease,1Z19.11,97979,CKD stage 2 with proteinuria
+Chronic Kidney Disease,1Z1A.00,95121,Chronic kidney disease stage 2 without proteinuria
+Chronic Kidney Disease,1Z1A.11,97978,CKD stage 2 without proteinuria
+Chronic Kidney Disease,1Z12.00,12566,Chronic kidney disease stage 3
+Chronic Kidney Disease,1Z15.00,94965,Chronic kidney disease stage 3A
+Chronic Kidney Disease,1Z16.00,95179,Chronic kidney disease stage 3B
+Chronic Kidney Disease,1Z1B.00,94793,Chronic kidney disease stage 3 with proteinuria
+Chronic Kidney Disease,1Z1B.11,95145,CKD stage 3 with proteinuria
+Chronic Kidney Disease,1Z1C.00,95123,Chronic kidney disease stage 3 without proteinuria
+Chronic Kidney Disease,1Z1C.11,95188,CKD stage 3 without proteinuria
+Chronic Kidney Disease,1Z1D.00,95408,Chronic kidney disease stage 3A with proteinuria
+Chronic Kidney Disease,1Z1D.11,95571,CKD stage 3A with proteinuria
+Chronic Kidney Disease,1Z1E.00,95175,Chronic kidney disease stage 3A without proteinuria
+Chronic Kidney Disease,1Z1E.11,95176,CKD stage 3A without proteinuria
+Chronic Kidney Disease,1Z1F.00,95178,Chronic kidney disease stage 3B with proteinuria
+Chronic Kidney Disease,1Z1F.11,95180,CKD stage 3B with proteinuria
+Chronic Kidney Disease,1Z1G.00,95177,Chronic kidney disease stage 3B without proteinuria
+Chronic Kidney Disease,1Z13.00,12479,Chronic kidney disease stage 4
+Chronic Kidney Disease,1Z1H.00,95122,Chronic kidney disease stage 4 with proteinuria
+Chronic Kidney Disease,1Z1J.00,95406,Chronic kidney disease stage 4 without proteinuria
+Chronic Kidney Disease,1Z1J.11,97587,CKD stage 4 without proteinuria
+Chronic Kidney Disease,1Z14.00,12585,Chronic kidney disease stage 5
+Chronic Kidney Disease,1Z1K.00,95508,Chronic kidney disease stage 5 with proteinuria
+Chronic Kidney Disease,1Z1L.00,95405,Chronic kidney disease stage 5 without proteinuria
+Chronic Kidney Disease,1Z1L.11,97683,CKD stage 5 without proteinuria
+Chronic Kidney Disease,2126E00,109750,Chronic kidney disease resolved

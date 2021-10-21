@@ -1,0 +1,24 @@
+Disease,ReadCode,MedCode,ReadTerm
+Urinary Incontinence,1593.00,15918,H/O: stress incontinence
+Urinary Incontinence,16F..00,5196,Double incontinence
+Urinary Incontinence,1A23.00,6161,Incontinence of urine
+Urinary Incontinence,1A24.00,1929,Stress incontinence
+Urinary Incontinence,1A24.11,5844,Stress incontinence - symptom
+Urinary Incontinence,1A26.00,3887,Urge incontinence of urine
+Urinary Incontinence,3940.00,13421,Bladder: incontinent
+Urinary Incontinence,7B33800,98767,Insertion retropubic device stress urinary incontinence NEC
+Urinary Incontinence,7B33C00,94021,Insertion retropubic dev fem stress urinary incontinence NEC
+Urinary Incontinence,7B42111,58675,Insertion of Kaufman prosthesis for male incontinence
+Urinary Incontinence,7B42113,106791,Insertion of Rosen prosthesis for male incontinence
+Urinary Incontinence,8C14.00,2739,Incontinence care
+Urinary Incontinence,8D71.00,48601,Incontinence control
+Urinary Incontinence,8D7..12,17637,Incontinence control
+Urinary Incontinence,8HTX.00,25899,Referral to incontinence clinic
+Urinary Incontinence,K198.00,3182,Stress incontinence
+Urinary Incontinence,K586.00,17620,Stress incontinence - female
+Urinary Incontinence,Kyu5A00,52763,[X]Other specified urinary incontinence
+Urinary Incontinence,R083100,31220,[D]Urethral sphincter incontinence
+Urinary Incontinence,R083200,17320,[D] Urge incontinence
+Urinary Incontinence,R083.00,3283,[D]Incontinence of urine
+Urinary Incontinence,R083z00,15400,[D]Incontinence of urine NOS
+Urinary Incontinence,Z9EA.00,45495,Provision of incontinence appliance

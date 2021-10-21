@@ -1,0 +1,5 @@
+Disease,ICD10code,ICD10codeDescr
+Motor neuron disease,G12.2,Motor neuron disease
+Motor neuron disease,G12.9,"Spinal muscular atrophy, unspecified"
+Motor neuron disease,G12.1,Other inherited spinal muscular atrophy
+Motor neuron disease,G12.8,Other spinal muscular atrophies and related syndromes

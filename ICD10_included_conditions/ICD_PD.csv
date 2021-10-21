@@ -1,0 +1,15 @@
+Disease,ICD10code,ICD10codeDescr
+Personality disorder,F60,Specific personality disorders
+Personality disorder,F61,Mixed and other personality disorders
+Personality disorder,F60.0,Paranoid personality disorder
+Personality disorder,F60.1,Schizoid personality disorder
+Personality disorder,F60.2,Dissocial personality disorder
+Personality disorder,F60.3,Emotionally unstable personality disorder
+Personality disorder,F60.4,Histrionic personality disorder
+Personality disorder,F60.5,Anankastic personality disorder
+Personality disorder,F60.6,Anxious [avoidant] personality disorder
+Personality disorder,F60.7,Dependent personality disorder
+Personality disorder,F60.8,Other specific personality disorders
+Personality disorder,F60.9,Personality disorder, unspecified
+Personality disorder,F68,Other disorders of adult personality and behaviour
+Personality disorder,F69,Unspecified disorder of adult personality and behaviour

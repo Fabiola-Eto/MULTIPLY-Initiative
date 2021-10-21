@@ -1,0 +1,22 @@
+Disease,ICD10code,ICD10codeDescr
+Anxiety and phobia,F40,Phobic anxiety disorders
+Anxiety and phobia,F41,Other anxiety disorders
+Anxiety and phobia,F06.4,Organic anxiety disorder
+Anxiety and phobia,F40,Phobic anxiety disorders
+Anxiety and phobia,F40.0,Agoraphobia
+Anxiety and phobia,F40.1,Social phobias
+Anxiety and phobia,F40.2,Specific (isolated) phobias
+Anxiety and phobia,F40.8,Other phobic anxiety disorders
+Anxiety and phobia,F40.9,"Phobic anxiety disorder, unspecified"
+Anxiety and phobia,F41,Other anxiety disorders
+Anxiety and phobia,F41.0,Panic disorder [episodic paroxysmal anxiety]
+Anxiety and phobia,F41.1,Generalized anxiety disorder
+Anxiety and phobia,F41.2,Mixed anxiety and depressive disorder
+Anxiety and phobia,F41.3,Other mixed anxiety disorders
+Anxiety and phobia,F41.8,Other specified anxiety disorders
+Anxiety and phobia,F41.9,"Anxiety disorder, unspecified"
+Anxiety and phobia,F45.2,Hypochondriacal disorder
+Anxiety and phobia,F48.1,Depersonalization-derealization syndrome
+Anxiety and phobia,F48.8,Other specified neurotic disorders
+Anxiety and phobia,F48.9,"Neurotic disorder, unspecified"
+Anxiety and phobia,F94.0,Elective mutism

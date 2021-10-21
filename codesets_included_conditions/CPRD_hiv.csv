@@ -1,0 +1,74 @@
+Disease,ReadCode,MedCode,ReadTerm
+HIV,43C3.11,2835,HIV positive
+HIV,43w3.00,93642,Human immunodeficiency virus RNA/DNA ratio
+HIV,4J34.00,27053,HIV viral load
+HIV,4J3F.00,96902,Human immunodeficiency virus viral load by log rank
+HIV,4J3N.00,109513,Human immunodeficiency virus drug resistance test
+HIV,4J3P.00,110374,Human immunodeficiency virus type 1 subtype identification
+HIV,65QA.00,23763,AIDS carrier
+HIV,65VE.00,33943,Notification of AIDS
+HIV,66j..00,98966,Human immunodeficiency virus monitoring
+HIV,66j0.00,101191,Human immunodeficiency virus annual review
+HIV,7Q05600,97124,Antiretroviral drugs Band 1
+HIV,8Hle.00,108631,Referral to community HIV nurse specialist
+HIV,9kl..00,105040,HIV pos gen health check serv declind - enhanc service admin
+HIV,9kl..11,111971,HIV positive general health check service declined
+HIV,9mN..00,108385,Human immunodeficiency virus infection monitoring invitation
+HIV,9mN0.00,109327,HIV infection monitoring telephone invitation
+HIV,9mN0000,111972,HIV infection monitoring first telephone invitation
+HIV,9mN0100,111973,HIV infection monitoring second telephone invitation
+HIV,9mN0200,111974,HIV infection monitoring third telephone invitation
+HIV,9Nt1000,107594,Seen by community HIV (human immunodeficiency virus) nurse
+HIV,A788.00,23770,Acquired immune deficiency syndrome
+HIV,A788.11,9130,Human immunodeficiency virus infection
+HIV,A788000,58857,Acute human immunodeficiency virus infection
+HIV,A788100,58859,Asymptomatic human immunodeficiency virus infection
+HIV,A788200,69766,HIV infection with persistent generalised lymphadenopathy
+HIV,A788300,70869,Human immunodeficiency virus with constitutional disease
+HIV,A788400,53636,Human immunodeficiency virus with neurological disease
+HIV,A788500,70528,Human immunodeficiency virus with secondary infection
+HIV,A788600,101836,Human immunodeficiency virus with secondary cancers
+HIV,A788U00,47632,"HIV disease result/haematological+immunologic abnorms,NEC"
+HIV,A788V00,111979,HIV disease resulting in multiple diseases CE
+HIV,A788W00,67575,HIV disease resulting in unspecified malignant neoplasm
+HIV,A788X00,71450,HIV disease resulting/unspcf infectious+parasitic disease
+HIV,A788y00,62891,Human immunodeficiency virus with other clinical findings
+HIV,A788z00,36294,Acquired human immunodeficiency virus infection syndrome NOS
+HIV,A789.00,44303,Human immunodef virus resulting in other disease
+HIV,A789000,37006,HIV disease resulting in mycobacterial infection
+HIV,A789100,66368,HIV disease resulting in cytomegaloviral disease
+HIV,A789200,23951,HIV disease resulting in candidiasis
+HIV,A789300,27641,HIV disease resulting in Pneumocystis carinii pneumonia
+HIV,A789311,104717,HIV disease resulting in Pneumocystis jirovecii pneumonia
+HIV,A789400,50076,HIV disease resulting in multiple infections
+HIV,A789500,27853,HIV disease resulting in Kaposi's sarcoma
+HIV,A789511,108054,HIV disease resulting in Kaposi sarcoma
+HIV,A789600,44617,HIV disease resulting in Burkitt's lymphoma
+HIV,A789611,111980,HIV disease resulting in Burkitt lymphoma
+HIV,A789700,66367,HIV dis resulting oth types of non-Hodgkin's lymphoma
+HIV,A789711,111981,HIV disease resulting in other types of non-Hodgkin lymphoma
+HIV,A789800,105324,HIV disease resulting in multiple malignant neoplasms
+HIV,A789900,65117,HIV disease resulting in lymphoid interstitial pneumonitis
+HIV,A789A00,8281,HIV disease resulting in wasting syndrome
+HIV,A789X00,51708,"HIV dis reslt/oth mal neopl/lymph,h'matopoetc+reltd tissu"
+HIV,AyuC.00,62854,[X]Human immunodeficiency virus disease
+HIV,AyuC000,112030,[X]HIV disease resulting in other bacterial infections
+HIV,AyuC100,107807,[X]HIV disease resulting in other viral infections
+HIV,AyuC200,112031,[X]HIV disease resulting in other mycoses
+HIV,AyuC300,102117,[X]HIV disease resulting in multiple infections
+HIV,AyuC400,104134,[X]HIV disease resulting/other infectious+parasitic diseases
+HIV,AyuC500,112032,[X]HIV disease resulting/unspcf infectious+parasitic disease
+HIV,AyuC600,69767,[X]HIV disease resulting in other non-Hodgkin's lymphoma
+HIV,AyuC611,112033,[X]HIV disease resulting in other non-Hodgkin lymphoma
+HIV,AyuC700,112034,"[X]HIV dis reslt/oth mal neopl/lymph,h'matopoetc+reltd tissu"
+HIV,AyuC800,112035,[X]HIV disease resulting in other malignant neoplasms
+HIV,AyuC900,112036,[X]HIV disease resulting in unspecified malignant neoplasm
+HIV,AyuCA00,112037,[X]HIV disease resulting in multiple diseases CE
+HIV,AyuCB00,96751,"[X]HIV disease result/haematological+immunologic abnorms,NEC"
+HIV,AyuCC00,102252,[X]HIV disease resulting in other specified conditions
+HIV,AyuCD00,100769,[X]Unspecified human immunodeficiency virus [HIV] disease
+HIV,Eu02400,41185,[X]Dementia in human immunodef virus [HIV] disease
+HIV,L179.00,104466,HIV disease complicating pregnancy childbirth puerperium
+HIV,R109.00,44288,[D]Laboratory evidence of human immunodeficiency virus [HIV]
+HIV,ZV01A00,24872,[V]Asymptomatic human immunodeficency virus infection status
+HIV,ZV6D400,32043,[V]Human immunodefiency virus counselling

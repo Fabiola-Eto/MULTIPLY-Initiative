@@ -1,0 +1,13 @@
+Disease,ReadCode,MedCode,ReadTerm
+Down's syndrome,PJ00.00,42701,"Trisomy 21, meiotic nondisjunction"
+Down's syndrome,PJ01.00,32010,"Trisomy 21, mosaicism"
+Down's syndrome,PJ01.11,107919,"Trisomy 21, mitotic nondisjunction"
+Down's syndrome,PJ02.00,61499,"Trisomy 21, translocation"
+Down's syndrome,PJ02.11,101309,Partial trisomy 21 in Down's syndrome
+Down's syndrome,PJ0..00,1543,Down's syndrome - trisomy 21
+Down's syndrome,PJ0..11,23489,Mongolism
+Down's syndrome,PJ0..12,18415,Trisomy 21
+Down's syndrome,PJ0z.00,10759,Down's syndrome NOS
+Down's syndrome,PJ0z.11,61627,Trisomy 21 NOS
+Down's syndrome,64j..00,114993,Down's syndrome height centile
+Down's syndrome,64k..00,114994,Down's syndrome weight centile

@@ -1,0 +1,25 @@
+Disease,ReadCode,MedCode,ReadTerm
+Obstructive and reflux uropathy,K110.00,2420,Hydrocalycosis
+Obstructive and reflux uropathy,K111.00,17778,Hydroureteronephrosis
+Obstructive and reflux uropathy,K112.00,27592,Hydronephrosis with renal and ureteral calculous obstruction
+Obstructive and reflux uropathy,K113.00,10410,Hydronephrosis with ureteropelvic junction obstruction
+Obstructive and reflux uropathy,K113.11,8522,Hydronephrosis with pelviureteric junction obstruction
+Obstructive and reflux uropathy,K11..00,3277,Hydronephrosis
+Obstructive and reflux uropathy,K11X.00,28159,Hydronephrosis with ureteral stricture NEC
+Obstructive and reflux uropathy,K11z.00,27302,Hydronephrosis NOS
+Obstructive and reflux uropathy,K133000,48616,Postoperative ureteric constriction
+Obstructive and reflux uropathy,K133100,4890,Stricture of pelviureteric junction
+Obstructive and reflux uropathy,K133.00,3485,Stricture of ureter
+Obstructive and reflux uropathy,K133z00,15835,Stricture of ureter NOS
+Obstructive and reflux uropathy,K134000,15688,Idiopathic retroperitoneal fibrosis
+Obstructive and reflux uropathy,K134.00,6792,Other ureteric obstruction
+Obstructive and reflux uropathy,K134z00,2365,Occlusion of ureter NOS
+Obstructive and reflux uropathy,K135.00,31841,Hydroureter
+Obstructive and reflux uropathy,K137.00,2421,Vesicoureteric reflux
+Obstructive and reflux uropathy,K137.11,4443,Ureteric reflux
+Obstructive and reflux uropathy,K196.00,8877,Urinary obstruction unspecified
+Obstructive and reflux uropathy,K196.11,12095,"Obstructive uropathy, unspecified"
+Obstructive and reflux uropathy,Kyu1100,72621,[X]Other and unspecified hydronephrosis
+Obstructive and reflux uropathy,Kyu1200,107866,[X]Other obstructive and reflux uropathy
+Obstructive and reflux uropathy,Kyu1300,105941,"[X]Obstructive and reflux uropathy, unspecified"
+Obstructive and reflux uropathy,Kyu1F00,98067,[X]Hydronephrosis with ureteral stricture NEC

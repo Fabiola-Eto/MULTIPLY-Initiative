@@ -1,0 +1,9 @@
+Disease,ICD10code,ICD10codeDescr
+Hodgkin Lymphoma,C81,Hodgkin lymphoma
+Hodgkin Lymphoma,C81.9,"Hodgkin lymphoma, unspecified"
+Hodgkin Lymphoma,C81.0,Nodular lymphocyte predominant Hodgkin lymphoma
+Hodgkin Lymphoma,C81.3,Lymphocyte depleted (classical) Hodgkin lymphoma
+Hodgkin Lymphoma,C81.1,Nodular sclerosis (classical) Hodgkin lymphoma
+Hodgkin Lymphoma,C81.2,Mixed cellularity (classical) Hodgkin lymphoma
+Hodgkin Lymphoma,C81.4,Lymphocyte-rich (classical) Hodgkin lymphoma
+Hodgkin Lymphoma,C81.7,Other (classical) Hodgkin lymphoma

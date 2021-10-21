@@ -1,0 +1,4 @@
+Disease,ICD10code,ICD10codeDescr
+Respiratory failure,J96,Respiratory failure
+Respiratory failure,J96.9,"Respiratory failure, unspecified"
+Respiratory failure,J96.1,Chronic respiratory failure

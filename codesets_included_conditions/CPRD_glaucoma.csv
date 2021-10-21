@@ -1,0 +1,75 @@
+Disease,ReadCode,MedCode,ReadTerm
+Glaucoma,7259000,65079,Needling of bleb following glaucoma surgery
+Glaucoma,7259100,89934,Injection of bleb following glaucoma surgery
+Glaucoma,7259200,88595,Revision of bleb NEC following glaucoma surgery
+Glaucoma,7259300,91442,Removal of releasable suture following glaucoma surgery
+Glaucoma,7259400,93967,Laser suture lysis following glaucoma surgery
+Glaucoma,66T1.00,2399,Glaucoma monitoring
+Glaucoma,7259.00,46069,Operations following glaucoma surgery
+Glaucoma,7259y00,88142,Other specified operations following glaucoma surgery
+Glaucoma,7259z00,95852,Operations following glaucoma surgery NOS
+Glaucoma,7275.00,11059,Pan retinal photocoagulation for glaucoma
+Glaucoma,8HTW.00,22904,Referral to glaucoma clinic
+Glaucoma,F404211,44338,Glaucoma - absolute
+Glaucoma,F442100,29764,Glaucomatocyclitic crises
+Glaucoma,F45..00,2074,Glaucoma
+Glaucoma,F450100,10070,Open angle glaucoma with borderline intraocular pressure
+Glaucoma,F450200,35748,Borderline glaucoma with anatomical narrow angle
+Glaucoma,F450300,36737,Borderline glaucoma steroid responder
+Glaucoma,F451.00,1798,Open-angle glaucoma
+Glaucoma,F451000,42447,Unspecified open-angle glaucoma
+Glaucoma,F451100,4581,Primary open-angle glaucoma
+Glaucoma,F451111,30649,Simple chronic glaucoma
+Glaucoma,F451200,9469,Low tension glaucoma
+Glaucoma,F451211,53879,Normal pressure glaucoma
+Glaucoma,F451300,12251,Pigmentary glaucoma
+Glaucoma,F451400,58645,Glaucoma of childhood
+Glaucoma,F451500,72394,Open-angle glaucoma residual stage
+Glaucoma,F451z00,28189,Open-angle glaucoma NOS
+Glaucoma,F452.00,2823,Primary angle-closure glaucoma
+Glaucoma,F452.11,6315,Closed angle glaucoma
+Glaucoma,F452000,20520,Unspecified primary angle-closure glaucoma
+Glaucoma,F452100,44817,Intermittent primary angle-closure glaucoma
+Glaucoma,F452200,28536,Acute primary angle-closure glaucoma
+Glaucoma,F452300,35446,Chronic primary angle-closure glaucoma
+Glaucoma,F452400,67413,Primary angle-closure glaucoma residual stage
+Glaucoma,F452500,107407,Plateau iris
+Glaucoma,F452z00,39120,Primary angle-closure glaucoma NOS
+Glaucoma,F453.00,35528,Steroid-induced glaucoma
+Glaucoma,F453100,68094,Steroid-induced glaucoma residual stage
+Glaucoma,F453z00,48132,Steroid-induced glaucoma NOS
+Glaucoma,F454.00,41854,Glaucoma due to disease EC
+Glaucoma,F454000,69195,Glaucoma due to chamber angle anomaly
+Glaucoma,F454100,67341,Glaucoma due to iris anomaly
+Glaucoma,F454200,96707,Glaucoma due to other anterior segment anomaly
+Glaucoma,F454300,64851,Glaucoma due to systemic syndrome
+Glaucoma,F454400,68633,"Glaucoma in endocrine, nutritional and metabolic diseases"
+Glaucoma,F454z00,41804,Glaucoma due to disease NOS
+Glaucoma,F455.00,54262,Glaucoma associated with disorders of the lens
+Glaucoma,F455000,44798,Phacolytic glaucoma
+Glaucoma,F455100,18743,Pseudoexfoliation glaucoma
+Glaucoma,F455z00,34354,Glaucoma associated with disorders of the lens NOS
+Glaucoma,F456.00,53127,Glaucoma associated with other ocular disorders
+Glaucoma,F456000,22805,Glaucoma due to unspecified ocular disorder
+Glaucoma,F456100,37876,Glaucoma due to pupillary block
+Glaucoma,F456200,26870,Glaucoma due to ocular inflammation
+Glaucoma,F456300,41794,Glaucoma due to ocular vascular disorder
+Glaucoma,F456400,48479,Glaucoma due to ocular tumour or cyst
+Glaucoma,F456411,100303,Glaucoma due to ocular cyst
+Glaucoma,F456500,22528,Glaucoma due to ocular trauma
+Glaucoma,F456600,11058,Neovascular glaucoma
+Glaucoma,F456z00,53521,Glaucoma associated with other ocular disorders NOS
+Glaucoma,F45y.00,28505,Other specified forms of glaucoma
+Glaucoma,F45y000,63660,Hypersecretion glaucoma
+Glaucoma,F45y100,65193,Glaucoma due to episode of increased venous pressure
+Glaucoma,F45y200,8132,Low tension glaucoma
+Glaucoma,F45yz00,44295,Other specified glaucoma NOS
+Glaucoma,F45z.00,8001,Glaucoma NOS
+Glaucoma,F463100,107168,Glaucomatous subcapsular flecks
+Glaucoma,F4H1400,20230,Optic disc glaucomatous atrophy
+Glaucoma,FyuG.00,52888,[X]Glaucoma
+Glaucoma,FyuG000,70195,[X]Other glaucoma
+Glaucoma,FyuG100,98647,"[X]Glaucoma in endocrine,nutritional+metabolic diseases CE"
+Glaucoma,P320000,23407,Congenital glaucoma
+Glaucoma,P320011,98721,Newborn glaucoma
+Glaucoma,Q20y700,99704,Traumatic glaucoma due to birth trauma

@@ -1,0 +1,150 @@
+Disease,ReadCode,MedCode,ReadTerm
+Somatoform and dissociative disorders,E201.00,2188,Hysteria
+Somatoform and dissociative disorders,E201000,41572,Hysteria unspecified
+Somatoform and dissociative disorders,E201100,3438,Hysterical blindness
+Somatoform and dissociative disorders,E201200,44739,Hysterical deafness
+Somatoform and dissociative disorders,E201300,23598,Hysterical tremor
+Somatoform and dissociative disorders,E201400,34696,Hysterical paralysis
+Somatoform and dissociative disorders,E201500,16484,Hysterical seizures
+Somatoform and dissociative disorders,E201600,15431,Other conversion disorder
+Somatoform and dissociative disorders,E201700,4269,Hysterical amnesia
+Somatoform and dissociative disorders,E201800,4775,Hysterical fugue
+Somatoform and dissociative disorders,E201900,43302,Multiple personality
+Somatoform and dissociative disorders,E201A00,23490,Dissociative reaction unspecified
+Somatoform and dissociative disorders,E201C00,24525,Phantom pregnancy
+Somatoform and dissociative disorders,E201z00,23354,Hysteria NOS
+Somatoform and dissociative disorders,E205.00,3361,Neurasthenia - nervous debility
+Somatoform and dissociative disorders,E20y.00,42000,Other neurotic disorders
+Somatoform and dissociative disorders,E20y000,15321,Somatization disorder
+Somatoform and dissociative disorders,E26..00,4199,Physiological malfunction arising from mental factors
+Somatoform and dissociative disorders,E260.00,44212,Psychogenic musculoskeletal symptoms
+Somatoform and dissociative disorders,E260000,48561,Psychogenic paralysis
+Somatoform and dissociative disorders,E260100,56800,Psychogenic torticollis
+Somatoform and dissociative disorders,E260z00,15035,Psychogenic musculoskeletal symptoms NOS
+Somatoform and dissociative disorders,E261.00,38134,Psychogenic respiratory symptoms
+Somatoform and dissociative disorders,E261000,32034,Psychogenic air hunger
+Somatoform and dissociative disorders,E261100,15483,Psychogenic cough
+Somatoform and dissociative disorders,E261200,47809,Psychogenic hiccough
+Somatoform and dissociative disorders,E261300,20053,Psychogenic hyperventilation
+Somatoform and dissociative disorders,E261400,23413,Psychogenic yawning
+Somatoform and dissociative disorders,E261500,41615,Psychogenic aphonia
+Somatoform and dissociative disorders,E261z00,34664,Psychogenic respiratory symptom NOS
+Somatoform and dissociative disorders,E262.00,29448,Psychogenic cardiovascular symptoms
+Somatoform and dissociative disorders,E262000,15292,Cardiac neurosis
+Somatoform and dissociative disorders,E262200,15284,Neurocirculatory asthenia
+Somatoform and dissociative disorders,E262300,30961,Psychogenic cardiovascular disorder
+Somatoform and dissociative disorders,E262z00,15034,Psychogenic cardiovascular symptom NOS
+Somatoform and dissociative disorders,E263.00,29461,Psychogenic skin symptoms
+Somatoform and dissociative disorders,E263000,15959,Psychogenic pruritus
+Somatoform and dissociative disorders,E263z00,15224,Psychogenic skin symptoms NOS
+Somatoform and dissociative disorders,E264.00,31422,Psychogenic gastrointestinal tract symptoms
+Somatoform and dissociative disorders,E264000,4963,Psychogenic aerophagy
+Somatoform and dissociative disorders,E264200,2871,Cyclical vomiting - psychogenic
+Somatoform and dissociative disorders,E264300,15371,Psychogenic diarrhoea
+Somatoform and dissociative disorders,E264400,3869,Psychogenic dyspepsia
+Somatoform and dissociative disorders,E264500,15939,Psychogenic constipation
+Somatoform and dissociative disorders,E264z00,71437,Psychogenic gastrointestinal tract symptom NOS
+Somatoform and dissociative disorders,E265.00,68379,Psychogenic genitourinary tract symptoms
+Somatoform and dissociative disorders,E265100,20109,Psychogenic vaginismus
+Somatoform and dissociative disorders,E265200,44547,Psychogenic dysmenorrhea
+Somatoform and dissociative disorders,E265300,55781,Psychogenic dysuria
+Somatoform and dissociative disorders,E265z00,73547,Psychogenic genitourinary tract symptom NOS
+Somatoform and dissociative disorders,E267.00,89237,Psychogenic symptom of special sense organ
+Somatoform and dissociative disorders,E26y.00,62400,Other psychogenic malfunction
+Somatoform and dissociative disorders,E26yz00,96391,Other psychogenic malfunction NOS
+Somatoform and dissociative disorders,E26z.00,5067,Psychosomatic disorder NOS
+Somatoform and dissociative disorders,E278.00,40311,Psychalgia
+Somatoform and dissociative disorders,E278000,53766,Psychogenic pain unspecified
+Somatoform and dissociative disorders,E278100,191,Tension headache
+Somatoform and dissociative disorders,E278200,45205,Psychogenic backache
+Somatoform and dissociative disorders,E278z00,54373,Psychalgia NOS
+Somatoform and dissociative disorders,Eu44.00,22136,[X]Dissociative [conversion] disorders
+Somatoform and dissociative disorders,Eu44000,40994,[X]Dissociative amnesia
+Somatoform and dissociative disorders,Eu44100,39826,[X]Dissociative fugue
+Somatoform and dissociative disorders,Eu44200,56141,[X]Dissociative stupor
+Somatoform and dissociative disorders,Eu44300,39747,[X]Trance and possession disorders
+Somatoform and dissociative disorders,Eu44400,34978,[X]Dissociative motor disorders
+Somatoform and dissociative disorders,Eu44500,56966,[X]Dissociative convulsions
+Somatoform and dissociative disorders,Eu44600,27633,[X]Dissociative anaesthesia and sensory loss
+Somatoform and dissociative disorders,Eu44700,88758,[X]Mixed dissociative [conversion] disorders
+Somatoform and dissociative disorders,Eu44y00,64166,[X]Other dissociative [conversion] disorders
+Somatoform and dissociative disorders,Eu44z00,48906,"[X]Dissociative [conversion] disorder, unspecified"
+Somatoform and dissociative disorders,Eu45.00,18049,[X]Somatoform disorders
+Somatoform and dissociative disorders,Eu45000,24439,[X]Somatization disorder
+Somatoform and dissociative disorders,Eu45100,57877,[X]Undifferentiated somatoform disorder
+Somatoform and dissociative disorders,Eu45200,7537,[X]Hypochondriacal disorder
+Somatoform and dissociative disorders,Eu45300,41038,[X]Somatoform autonomic dysfunction
+Somatoform and dissociative disorders,Eu45400,30179,[X]Persistent somatoform pain disorder
+Somatoform and dissociative disorders,Eu45500,12453,[X]Globus pharyngeus
+Somatoform and dissociative disorders,Eu45y00,62002,[X]Other somatoform disorders
+Somatoform and dissociative disorders,Eu45z00,48671,"[X]Somatoform disorder, unspecified"
+Somatoform and dissociative disorders,Eu46.00,28090,[X]Other neurotic disorders
+Somatoform and dissociative disorders,Eu46000,16561,[X]Neurasthenia
+Somatoform and dissociative disorders,8G33.00,98816,Aversion therapy - somatic ill
+Somatoform and dissociative disorders,E134.00,24345,Psychogenic paranoid psychosis
+Somatoform and dissociative disorders,E201511,33702,Fit - hysterical
+Somatoform and dissociative disorders,E201611,46399,"Astasia - abasia, hysterical"
+Somatoform and dissociative disorders,E201612,4143,Globus hystericus
+Somatoform and dissociative disorders,E207.00,966,Hypochondriasis
+Somatoform and dissociative disorders,E20y011,56941,Briquet's disorder
+Somatoform and dissociative disorders,E27..00,52481,Psychogenic syndromes NEC
+Somatoform and dissociative disorders,E275300,65173,Psychogenic rumination
+Somatoform and dissociative disorders,E275400,3422,Psychogenic vomiting NOS
+Somatoform and dissociative disorders,E275711,45362,Compulsive water drinking
+Somatoform and dissociative disorders,E275700,26395,Psychogenic polydipsia
+Somatoform and dissociative disorders,E27z.00,71355,Other and unspecified psychogenic syndrome NEC
+Somatoform and dissociative disorders,E27zz00,24076,Psychogenic syndromes NOS
+Somatoform and dissociative disorders,Eu44.11,35311,[X]Conversion hysteria
+Somatoform and dissociative disorders,Eu44.12,52161,[X]Conversion reaction
+Somatoform and dissociative disorders,Eu44.13,27588,[X]Hysteria
+Somatoform and dissociative disorders,Eu44.14,28168,[X]Hysterical psychosis
+Somatoform and dissociative disorders,Eu44411,12147,[X]Psychogenic aphonia
+Somatoform and dissociative disorders,Eu44412,18801,[X]Psychogenic dysphonia
+Somatoform and dissociative disorders,Eu44511,11354,[X]Pseudoseizures
+Somatoform and dissociative disorders,Eu44611,50121,[X]Psychogenic deafness
+Somatoform and dissociative disorders,Eu44y13,16988,[X]Psychogenic confusion
+Somatoform and dissociative disorders,Eu44y14,68259,[X]Psychogenic twilight state
+Somatoform and dissociative disorders,Eu45013,105477,[X]Briquet's disorder
+Somatoform and dissociative disorders,Eu45011,23704,[X]Multiple psychosomatic disorder
+Somatoform and dissociative disorders,Eu45111,34735,[X]Undifferentiated psychosomatic disorder
+Somatoform and dissociative disorders,Eu45213,24264,[X]Hypochondriacal neurosis
+Somatoform and dissociative disorders,Eu45214,10870,[X]Hypochondriasis
+Somatoform and dissociative disorders,Eu45311,44269,[X]Cardiac neurosis
+Somatoform and dissociative disorders,Eu45312,32632,[X]Da Costa's syndrome
+Somatoform and dissociative disorders,Eu45313,63259,[X]Gastric neurosis
+Somatoform and dissociative disorders,Eu45314,50793,[X]Neurocirculatory asthenia
+Somatoform and dissociative disorders,Eu45316,12715,[X]Psychogenic cough
+Somatoform and dissociative disorders,Eu45317,43316,[X]Psychogenic diarrhoea
+Somatoform and dissociative disorders,Eu45318,16714,[X]Psychogenic dyspepsia
+Somatoform and dissociative disorders,Eu45319,53122,[X]Psychogenic dysuria
+Somatoform and dissociative disorders,Eu45320,47698,[X]Psychogenic flatulence
+Somatoform and dissociative disorders,Eu45323,17081,[X]Psychogenic freq micturit
+Somatoform and dissociative disorders,Eu45321,53737,[X]Psychogenic hiccough
+Somatoform and dissociative disorders,Eu45322,12830,[X]Psychogenic hyperventilat
+Somatoform and dissociative disorders,Eu45324,16560,[X]Psychogenic IBS
+Somatoform and dissociative disorders,Eu45325,93067,[X]Psychogenic pylorospasm
+Somatoform and dissociative disorders,Eu45411,54382,[X]Psychalgia
+Somatoform and dissociative disorders,Eu45412,38521,[X]Psychogenic backache
+Somatoform and dissociative disorders,Eu45413,29329,[X]Psychogenic headache
+Somatoform and dissociative disorders,Eu45414,36040,[X]Somatoform pain disorder
+Somatoform and dissociative disorders,Eu45511,100086,[X]Globus hystericus
+Somatoform and dissociative disorders,Eu45y12,20906,[X]Globus hystericus
+Somatoform and dissociative disorders,Eu45y11,46925,[X]Psychogenic dysmenorrhoea
+Somatoform and dissociative disorders,Eu45y13,16679,[X]Psychogenic pruritis
+Somatoform and dissociative disorders,Eu45y14,36009,[X]Psychogenic torticollis
+Somatoform and dissociative disorders,Eu45y15,47570,[X]Teeth-grinding
+Somatoform and dissociative disorders,Eu45z11,19242,[X]Psychosomatic disorder NOS
+Somatoform and dissociative disorders,Eu46y11,100116,[X]Briquet's disorder
+Somatoform and dissociative disorders,Eu46y14,61753,[X]Psychasthenia
+Somatoform and dissociative disorders,Eu46y15,90597,[X]Psychasthenia neurosis
+Somatoform and dissociative disorders,Eu46y16,44586,[X]Psychogenic syncope
+Somatoform and dissociative disorders,Eu50511,6796,[X]Psychogenic vomiting
+Somatoform and dissociative disorders,Eu52213,17639,[X]Psychogenic impotence
+Somatoform and dissociative disorders,Eu52312,10550,[X]Psychogenic anorgasmy
+Somatoform and dissociative disorders,Eu52511,30442,[X]Psychogenic vaginismus
+Somatoform and dissociative disorders,Eu52611,37089,[X]Psychogenic dyspareunia
+Somatoform and dissociative disorders,Eu5z.11,23675,[X]Psychogenic physiological dysfunction NOS
+Somatoform and dissociative disorders,Eu6y111,31021,[X] Munchausens syndrome
+Somatoform and dissociative disorders,Eu6y100,39353,"[X]Intentional production or feigning of symptoms or disabilities, either physical or psychological [factitious disorder]"
+Somatoform and dissociative disorders,Eu6y200,46560,[X]Munchausen's by proxy
+Somatoform and dissociative disorders,Eu6y300,107644,[X]Factitious disorder

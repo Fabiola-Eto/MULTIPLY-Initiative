@@ -1,0 +1,25 @@
+Disease,ReadCode,MedCode,ReadTerm
+Nasal polyp,2D33.00,6411,O/E - nasal polyp present
+Nasal polyp,7402900,25976,Excision of polyp of nasal septum
+Nasal polyp,7402911,8225,Nasal septum polypectomy
+Nasal polyp,7406000,811,Nasal polypectomy
+Nasal polyp,7406700,69714,Nasal polypectomy using auto-debrider
+Nasal polyp,7416F00,42166,Functional endoscopic sinus surg - polypectomy nasal sinus
+Nasal polyp,H110000,31837,Choanal polyp
+Nasal polyp,H110100,47466,Nasopharyngeal polyp
+Nasal polyp,H110.00,977,Polyp of nasal cavity
+Nasal polyp,H110z00,14749,Polyp of nasal cavity NOS
+Nasal polyp,H111000,36229,Woakes' ethmoiditis
+Nasal polyp,H111.00,44934,Polypoid sinus degeneration
+Nasal polyp,H111z00,50528,Polypoid sinus degeneration NOS
+Nasal polyp,H11..00,4686,Nasal polyps
+Nasal polyp,H11y000,91482,Polyp of frontal sinus
+Nasal polyp,H11y100,11744,Polyp of ethmoidal sinus
+Nasal polyp,H11y200,35897,Polyp of maxillary sinus
+Nasal polyp,H11y211,4341,Antral (maxillary) polyp
+Nasal polyp,H11y300,61281,Polyp of sphenoidal sinus
+Nasal polyp,H11y.00,56372,Other polyp of sinus
+Nasal polyp,H11y.11,19742,Nasal sinus polyps
+Nasal polyp,H11yz00,44518,Other polyp of sinus NOS
+Nasal polyp,H11z.00,14888,Nasal polyp NOS
+Nasal polyp,Hyu2300,69765,[X]Other polyp of sinus

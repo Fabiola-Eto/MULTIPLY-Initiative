@@ -1,0 +1,36 @@
+Disease,ReadCode,MedCode,ReadTerm
+Allergic and chronic rhinitis,14B1.00,9302,H/O: hay fever
+Allergic and chronic rhinitis,H120000,28589,Chronic simple rhinitis
+Allergic and chronic rhinitis,H120100,805,Chronic catarrhal rhinitis
+Allergic and chronic rhinitis,H120200,15553,Chronic hypertrophic rhinitis
+Allergic and chronic rhinitis,H120300,16441,Chronic atrophic rhinitis
+Allergic and chronic rhinitis,H120400,16158,Chronic infective rhinitis
+Allergic and chronic rhinitis,H120500,42556,Chronic ulcerative rhinitis
+Allergic and chronic rhinitis,H120600,42065,Chronic membranous rhinitis
+Allergic and chronic rhinitis,H120700,104543,Chronic fibrinous rhinitis
+Allergic and chronic rhinitis,H120.00,774,Chronic rhinitis
+Allergic and chronic rhinitis,H120z00,14645,Chronic rhinitis NOS
+Allergic and chronic rhinitis,H13..11,10546,Chronic rhinosinusitis
+Allergic and chronic rhinitis,H170.00,1838,Allergic rhinitis due to pollens
+Allergic and chronic rhinitis,H170.11,121,Hay fever - pollens
+Allergic and chronic rhinitis,H170.12,24163,Pollinosis
+Allergic and chronic rhinitis,H171000,12382,Allergy to animal
+Allergic and chronic rhinitis,H171100,95938,Dog allergy
+Allergic and chronic rhinitis,H171.00,2372,Allergic rhinitis due to other allergens
+Allergic and chronic rhinitis,H171.11,4861,Cat allergy
+Allergic and chronic rhinitis,H171.12,13377,Dander (animal) allergy
+Allergic and chronic rhinitis,H171.13,30375,Feather allergy
+Allergic and chronic rhinitis,H171.14,16134,Hay fever - other allergen
+Allergic and chronic rhinitis,H171.15,3162,House dust allergy
+Allergic and chronic rhinitis,H171.16,1930,House dust mite allergy
+Allergic and chronic rhinitis,H172.00,775,Allergic rhinitis due to unspecified allergen
+Allergic and chronic rhinitis,H172.11,3798,Hay fever - unspecified allergen
+Allergic and chronic rhinitis,H17..00,175,Allergic rhinitis
+Allergic and chronic rhinitis,H17..11,1468,Perennial rhinitis
+Allergic and chronic rhinitis,H17..12,18572,Allergic rhinosinusitis
+Allergic and chronic rhinitis,H17z.00,964,Allergic rhinitis NOS
+Allergic and chronic rhinitis,H18..00,1108,Vasomotor rhinitis
+Allergic and chronic rhinitis,H330011,5627,Hay fever with asthma
+Allergic and chronic rhinitis,H330.13,15248,Hay fever with asthma
+Allergic and chronic rhinitis,Hyu2000,72490,[X]Other seasonal allergic rhinitis
+Allergic and chronic rhinitis,Hyu2100,47599,[X]Other allergic rhinitis

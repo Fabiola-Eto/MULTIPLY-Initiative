@@ -1,0 +1,28 @@
+Disease,ReadCode,MedCode,ReadTerm
+Neuromuscular dysfunction of bladder,F246111,30941,Atonic bladder
+Neuromuscular dysfunction of bladder,F246112,5309,Neurogenic bladder
+Neuromuscular dysfunction of bladder,F246113,37444,Neuropathic bladder
+Neuromuscular dysfunction of bladder,K164000,32697,Hypotonic bladder
+Neuromuscular dysfunction of bladder,K164100,41628,Bladder inertia
+Neuromuscular dysfunction of bladder,K164.00,49372,Atony of bladder
+Neuromuscular dysfunction of bladder,K164.11,11490,Atonic bladder
+Neuromuscular dysfunction of bladder,K164z00,56009,Atony of bladder NOS
+Neuromuscular dysfunction of bladder,K165000,37502,Hypertonic bladder sphincter
+Neuromuscular dysfunction of bladder,K165100,52174,Bladder sphincter paralysis
+Neuromuscular dysfunction of bladder,K165300,6676,Detrusor instability
+Neuromuscular dysfunction of bladder,K165400,5993,Unstable bladder
+Neuromuscular dysfunction of bladder,K165.00,34452,Other functional disorder of bladder
+Neuromuscular dysfunction of bladder,K165z00,25836,Other bladder function disorder NOS
+Neuromuscular dysfunction of bladder,K16V000,29881,Neuropathic bladder
+Neuromuscular dysfunction of bladder,K16V011,25398,Neurogenic bladder
+Neuromuscular dysfunction of bladder,K16V100,98192,Overactive bladder
+Neuromuscular dysfunction of bladder,K16V.00,21278,"Neuromuscular dysfunction of bladder, unspecified"
+Neuromuscular dysfunction of bladder,K16W.00,11162,"Reflex neuropathic bladder, not elsewhere classified"
+Neuromuscular dysfunction of bladder,K16X.00,31097,"Uninhibited neuropathic bladder, NEC"
+Neuromuscular dysfunction of bladder,K16y400,887,Irritable bladder
+Neuromuscular dysfunction of bladder,K16y411,2248,Detrusor instability
+Neuromuscular dysfunction of bladder,K16y412,31318,Unstable bladder
+Neuromuscular dysfunction of bladder,K16y800,7680,Functional disorder of bladder
+Neuromuscular dysfunction of bladder,K16y811,4998,Functional voiding disorder
+Neuromuscular dysfunction of bladder,Kyu5200,108426,[X]Other neuromuscular dysfunction of bladder
+Neuromuscular dysfunction of bladder,Kyu5E00,90866,"[X]Neuromuscular dysfunction of bladder, unspecified"

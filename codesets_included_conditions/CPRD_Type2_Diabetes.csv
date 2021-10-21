@@ -1,0 +1,117 @@
+Disease,ReadCode,MedCode,ReadTerm
+Type 2 Diabetes,C10FC00,12640,Type 2 diabetes mellitus with nephropathy
+Type 2 Diabetes,C10F500,12736,Type 2 diabetes mellitus with gangrene
+Type 2 Diabetes,C109600,17262,Non-insulin-dependent diabetes mellitus with retinopathy
+Type 2 Diabetes,C109G11,18143,Type II diabetes mellitus with arthropathy
+Type 2 Diabetes,C109012,18209,Type 2 diabetes mellitus with renal complications
+Type 2 Diabetes,C10FM00,18390,Type 2 diabetes mellitus with persistent microalbuminuria
+Type 2 Diabetes,C10FB00,18425,Type 2 diabetes mellitus with polyneuropathy
+Type 2 Diabetes,C10F600,18496,Type 2 diabetes mellitus with retinopathy
+Type 2 Diabetes,C10F000,18777,Type 2 diabetes mellitus with renal complications
+Type 2 Diabetes,C109G00,24693,Non-insulin dependent diabetes mellitus with arthropathy
+Type 2 Diabetes,C109C12,24836,Type 2 diabetes mellitus with nephropathy
+Type 2 Diabetes,C10FQ00,25591,Type 2 diabetes mellitus with exudative maculopathy
+Type 2 Diabetes,C10FL00,26054,Type 2 diabetes mellitus with persistent proteinuria
+Type 2 Diabetes,C10F200,34268,Type 2 diabetes mellitus with neurological complications
+Type 2 Diabetes,C109400,34912,Non-insulin dependent diabetes mellitus with ulcer
+Type 2 Diabetes,C10FH00,35385,Type 2 diabetes mellitus with neuropathic arthropathy
+Type 2 Diabetes,C10FF00,37806,Type 2 diabetes mellitus with peripheral angiopathy
+Type 2 Diabetes,C109500,40401,Non-insulin dependent diabetes mellitus with gangrene
+Type 2 Diabetes,C109H00,40962,Non-insulin dependent d m with neuropathic arthropathy
+Type 2 Diabetes,C109612,42762,Type 2 diabetes mellitus with retinopathy
+Type 2 Diabetes,C10F311,43227,Type II diabetes mellitus with multiple complications
+Type 2 Diabetes,C109E12,44779,Type 2 diabetes mellitus with diabetic cataract
+Type 2 Diabetes,C10FE00,44982,Type 2 diabetes mellitus with diabetic cataract
+Type 2 Diabetes,C109B00,45467,Non-insulin dependent diabetes mellitus with polyneuropathy
+Type 2 Diabetes,C109212,45919,Type 2 diabetes mellitus with neurological complications
+Type 2 Diabetes,C109512,46150,Type 2 diabetes mellitus with gangrene
+Type 2 Diabetes,C10F100,47321,Type 2 diabetes mellitus with ophthalmic complications
+Type 2 Diabetes,C109B11,47409,Type II diabetes mellitus with polyneuropathy
+Type 2 Diabetes,C109H11,47816,Type II diabetes mellitus with neuropathic arthropathy
+Type 2 Diabetes,C109E11,48192,Type II diabetes mellitus with diabetic cataract
+Type 2 Diabetes,C10F400,49074,Type 2 diabetes mellitus with ulcer
+Type 2 Diabetes,C10F611,49655,Type II diabetes mellitus with retinopathy
+Type 2 Diabetes,C109G12,49869,Type 2 diabetes mellitus with arthropathy
+Type 2 Diabetes,C109011,50225,Type II diabetes mellitus with renal complications
+Type 2 Diabetes,C109100,50429,Non-insulin-dependent diabetes mellitus with ophthalm comps
+Type 2 Diabetes,C10FB11,50527,Type II diabetes mellitus with polyneuropathy
+Type 2 Diabetes,C109A11,50813,Type II diabetes mellitus with mononeuropathy
+Type 2 Diabetes,C109000,52303,Non-insulin-dependent diabetes mellitus with renal comps
+Type 2 Diabetes,C109F11,54899,Type II diabetes mellitus with peripheral angiopathy
+Type 2 Diabetes,C109411,55075,Type II diabetes mellitus with ulcer
+Type 2 Diabetes,C109200,55842,Non-insulin-dependent diabetes mellitus with neuro comps
+Type 2 Diabetes,C107400,56803,NIDDM with peripheral circulatory disorder
+Type 2 Diabetes,C10F011,57278,Type II diabetes mellitus with renal complications
+Type 2 Diabetes,C109611,58604,Type II diabetes mellitus with retinopathy
+Type 2 Diabetes,C10FG00,59253,Type 2 diabetes mellitus with arthropathy
+Type 2 Diabetes,C109C00,59365,Non-insulin dependent diabetes mellitus with nephropathy
+Type 2 Diabetes,C109111,59725,Type II diabetes mellitus with ophthalmic complications
+Type 2 Diabetes,C109F12,60699,Type 2 diabetes mellitus with peripheral angiopathy
+Type 2 Diabetes,C10FL11,60796,Type II diabetes mellitus with persistent proteinuria
+Type 2 Diabetes,C109511,62107,Type II diabetes mellitus with gangrene
+Type 2 Diabetes,C109300,62146,Non-insulin-dependent diabetes mellitus with multiple comps
+Type 2 Diabetes,C10FA00,62674,Type 2 diabetes mellitus with mononeuropathy
+Type 2 Diabetes,C10FR00,63690,Type 2 diabetes mellitus with gastroparesis
+Type 2 Diabetes,C109C11,64571,Type II diabetes mellitus with nephropathy
+Type 2 Diabetes,C10F300,65267,Type 2 diabetes mellitus with multiple complications
+Type 2 Diabetes,C109412,65704,Type 2 diabetes mellitus with ulcer
+Type 2 Diabetes,C109H12,66965,Type 2 diabetes mellitus with neuropathic arthropathy
+Type 2 Diabetes,C109211,67905,Type II diabetes mellitus with neurological complications
+Type 2 Diabetes,C109E00,69278,Non-insulin depend diabetes mellitus with diabetic cataract
+Type 2 Diabetes,C109112,70316,Type 2 diabetes mellitus with ophthalmic complications
+Type 2 Diabetes,C109A00,72320,Non-insulin dependent diabetes mellitus with mononeuropathy
+Type 2 Diabetes,C10FM11,85991,Type II diabetes mellitus with persistent microalbuminuria
+Type 2 Diabetes,C10F411,91646,Type II diabetes mellitus with ulcer
+Type 2 Diabetes,C10FE11,93727,Type II diabetes mellitus with diabetic cataract
+Type 2 Diabetes,C10FA11,95351,Type II diabetes mellitus with mononeuropathy
+Type 2 Diabetes,C10F211,98616,Type II diabetes mellitus with neurological complications
+Type 2 Diabetes,C10F111,100964,Type II diabetes mellitus with ophthalmic complications
+Type 2 Diabetes,C10FC11,102201,Type II diabetes mellitus with nephropathy
+Type 2 Diabetes,C10FG11,103902,Type II diabetes mellitus with arthropathy
+Type 2 Diabetes,C10F511,104323,Type II diabetes mellitus with gangrene
+Type 2 Diabetes,C10FF11,104639,Type II diabetes mellitus with peripheral angiopathy
+Type 2 Diabetes,C109312,108005,Type 2 diabetes mellitus with multiple complications
+Type 2 Diabetes,C10FH11,109197,Type II diabetes mellitus with neuropathic arthropathy
+Type 2 Diabetes,C109B12,109865,Type 2 diabetes mellitus with polyneuropathy
+Type 2 Diabetes,C10FQ11,111798,Type II diabetes mellitus with exudative maculopathy
+Type 2 Diabetes,C109311,113495,Type II diabetes mellitus with multiple complications
+Type 2 Diabetes,C10FR11,113609,Type II diabetes mellitus with gastroparesis
+Type 2 Diabetes,66A4.00,1684,Diabetic on oral treatment
+Type 2 Diabetes,66o5.00,110379,Diabetic on oral treatment and glucagon-like peptide 1
+Type 2 Diabetes,C10P111,110611,Type 2 diabetes mellitus in remission
+Type 2 Diabetes,C10F.00,758,Type 2 diabetes mellitus
+Type 2 Diabetes,C10FJ00,1407,Insulin treated Type 2 diabetes mellitus
+Type 2 Diabetes,C109.00,4513,Non-insulin dependent diabetes mellitus
+Type 2 Diabetes,C109.11,5884,NIDDM - Non-insulin dependent diabetes mellitus
+Type 2 Diabetes,66A3.00,7563,Diabetic on diet only
+Type 2 Diabetes,C109700,8403,Non-insulin dependent diabetes mellitus - poor control
+Type 2 Diabetes,C109.12,17859,Type 2 diabetes mellitus
+Type 2 Diabetes,C109.13,18219,Type II diabetes mellitus
+Type 2 Diabetes,C109J12,18264,Insulin treated Type II diabetes mellitus
+Type 2 Diabetes,C109J00,18278,Insulin treated Type 2 diabetes mellitus
+Type 2 Diabetes,C10F.11,22884,Type II diabetes mellitus
+Type 2 Diabetes,C109711,24458,Type II diabetes mellitus - poor control
+Type 2 Diabetes,C10F700,25627,Type 2 diabetes mellitus - poor control
+Type 2 Diabetes,C109900,29979,Non-insulin-dependent diabetes mellitus without complication
+Type 2 Diabetes,C10FN00,32627,Type 2 diabetes mellitus with ketoacidosis
+Type 2 Diabetes,C10FK00,34450,Hyperosmolar non-ketotic state in type 2 diabetes mellitus
+Type 2 Diabetes,C109K00,36633,Hyperosmolar non-ketotic state in type 2 diabetes mellitus
+Type 2 Diabetes,C109J11,37648,Insulin treated non-insulin dependent diabetes mellitus
+Type 2 Diabetes,C109D00,43785,Non-insulin dependent diabetes mellitus with hypoglyca coma
+Type 2 Diabetes,C109712,45913,Type 2 diabetes mellitus - poor control
+Type 2 Diabetes,C10FD00,46917,Type 2 diabetes mellitus with hypoglycaemic coma
+Type 2 Diabetes,C10F711,47315,Type II diabetes mellitus - poor control
+Type 2 Diabetes,C10F900,47954,Type 2 diabetes mellitus without complication
+Type 2 Diabetes,L180600,50609,"Pre-existing diabetes mellitus, non-insulin-dependent"
+Type 2 Diabetes,C10FP00,51756,Type 2 diabetes mellitus with ketoacidotic coma
+Type 2 Diabetes,C10F911,53392,Type II diabetes mellitus without complication
+Type 2 Diabetes,C109D11,56268,Type II diabetes mellitus with hypoglycaemic coma
+Type 2 Diabetes,C109D12,61071,Type 2 diabetes mellitus with hypoglycaemic coma
+Type 2 Diabetes,C10FJ11,64668,Insulin treated Type II diabetes mellitus
+Type 2 Diabetes,C10FD11,98723,Type II diabetes mellitus with hypoglycaemic coma
+Type 2 Diabetes,C109912,105784,Type 2 diabetes mellitus without complication
+Type 2 Diabetes,C10FP11,106061,Type II diabetes mellitus with ketoacidotic coma
+Type 2 Diabetes,C10FN11,106528,Type II diabetes mellitus with ketoacidosis
+Type 2 Diabetes,C10FK11,107701,Hyperosmolar non-ketotic state in type II diabetes mellitus
+Type 2 Diabetes,C10P100,107824,Type II diabetes mellitus in remission
+Type 2 Diabetes,C109911,109103,Type II diabetes mellitus without complication

@@ -1,0 +1,179 @@
+Disease,ReadCode,MedCode,ReadTerm
+Hearing loss,7308400,84365,Placement of hearing implant in external ear
+Hearing loss,7308500,95814,Attention to hearing implant in external ear
+Hearing loss,7308600,96555,Removal of hearing implant from external ear
+Hearing loss,7319000,97657,Insertion fixtures bone anchored hearing prosthesis Stage 1
+Hearing loss,7319100,89253,Insertion fixtures bone anchored hearing prosthesis Stage 2
+Hearing loss,7319200,91930,Reduction soft tissue for bone anchored hearing prosthesis
+Hearing loss,7319300,97761,Attention to fixtures for bone anchored hearing prosthesis
+Hearing loss,7319400,93278,One stage insert fixtures bone anchored hearing prosthesis
+Hearing loss,7319500,101755,Fitting external hearing prosthesis bone anchored fixtures
+Hearing loss,7319600,108029,First stge ins fixtures for bone anchored hearing prosthesis
+Hearing loss,7319700,108030,Second stage ins fixtures for bone anchored hearing prosth
+Hearing loss,1493.00,4957,H/O: hearing problem
+Hearing loss,1C12.00,5967,Hearing difficulty
+Hearing loss,1C13.00,14805,Deafness
+Hearing loss,1C13.11,6641,Deafness symptom
+Hearing loss,1C13100,1681,Unilateral deafness
+Hearing loss,1C13200,1774,Partial deafness
+Hearing loss,1C13300,4035,Bilateral deafness
+Hearing loss,1C16.00,17699,Deteriorating hearing
+Hearing loss,1C17.00,47475,Hearing aid problem
+Hearing loss,1C18.00,39022,Difficulty hearing with background noise
+Hearing loss,1C19.00,60293,Difficulty hearing whispers
+Hearing loss,2BL..11,13114,O/E - deaf
+Hearing loss,2BL2.00,13115,O/E - slightly deaf
+Hearing loss,2BL3.00,13113,O/E - significantly deaf
+Hearing loss,2BL4.00,5149,O/E - very deaf
+Hearing loss,2BL5.00,26539,O/E - completely deaf
+Hearing loss,2BM2.00,42893,O/E -tune fork=conductive deaf
+Hearing loss,2BM2.11,7085,O/E - conductive deafness
+Hearing loss,2BM3.00,30355,O/E tune fork=perceptive deaf
+Hearing loss,2BM3.11,7825,O/E - perceptive deafness
+Hearing loss,2BM4.00,20715,O/E - High tone deafness
+Hearing loss,2DG..00,10170,Hearing aid worn
+Hearing loss,2DH0.00,47129,Uses hearing loop
+Hearing loss,2DH1.00,110790,Does use hearing aid
+Hearing loss,7311A00,19694,Insertn bone anchors subcutaneous bone anchored hearing aid
+Hearing loss,7317C00,68636,Placement of hearing implant in middle ear
+Hearing loss,7317D00,93446,Attention to hearing implant in middle ear
+Hearing loss,7317E00,100449,Removal of hearing implant from middle ear
+Hearing loss,7319.00,59392,Attachment of bone anchored hearing prosthesis
+Hearing loss,7319y00,98553,Other specified attachment bone anchored hearing prosthesis
+Hearing loss,7319z00,98241,Attachment of bone anchored hearing prosthesis NOS
+Hearing loss,8D2..12,3912,Hearing aid provision
+Hearing loss,8D21.00,58602,Provide head worn hearing aid
+Hearing loss,8D22.00,36766,Provide body worn hearing aid
+Hearing loss,8D23.00,626,Ear fitting hearing aid
+Hearing loss,8D24.00,52853,Replace hearing aid battery
+Hearing loss,8D26.00,107246,Provision of replacement hearing aid
+Hearing loss,8E3..00,66126,Deafness remedial therapy
+Hearing loss,8E3Z.00,72765,Deafness remedial therapy NOS
+Hearing loss,8HT2.00,10479,Referral to hearing aid clinic
+Hearing loss,8M41.00,10975,Hearing aid requested
+Hearing loss,9N0b.00,401,Seen in hearing aid clinic
+Hearing loss,9Nfa.00,111907,Requires deafblind manual alphabet interpreter
+Hearing loss,9NfB.00,105795,Requires deafblind communicator guide
+Hearing loss,9Nfb.00,109994,Requires deafblind block alphabet interpreter
+Hearing loss,A560200,14893,Rubella deafness
+Hearing loss,F580100,1752,Presbyacusis
+Hearing loss,F580111,30208,Senile presbyacusis
+Hearing loss,F581200,15940,Noise-induced hearing loss
+Hearing loss,F581211,2552,Noise induced deafness
+Hearing loss,F582.00,6082,Unspecified sudden hearing loss
+Hearing loss,F59..00,412,Hearing loss
+Hearing loss,F59..11,467,Deafness
+Hearing loss,F590.00,8941,Conductive hearing loss
+Hearing loss,F590.11,45751,Conductive deafness
+Hearing loss,F590000,1151,Unspecified conductive hearing loss
+Hearing loss,F590100,36660,Conductive hearing loss due to disorder of external ear
+Hearing loss,F590200,52758,Conductive hearing loss due to disorder of tympanic membrane
+Hearing loss,F590300,31748,Conductive hearing loss due to disorder of middle ear
+Hearing loss,F590400,94782,Conductive hearing loss due to disorder of inner ear
+Hearing loss,F590500,18945,"Conductive hearing loss, bilateral"
+Hearing loss,F590600,43581,"Conduct hear loss,unilat+unrestric hearing on contralat side"
+Hearing loss,F590y00,62906,Combined conductive hearing loss
+Hearing loss,F590z00,33583,Conductive hearing loss NOS
+Hearing loss,F591.00,536,Sensorineural hearing loss
+Hearing loss,F591.11,2625,High frequency deafness
+Hearing loss,F591.12,8033,Low frequency deafness
+Hearing loss,F591.13,2348,Perceptive deafness
+Hearing loss,F591.14,12829,Perceptive hearing loss
+Hearing loss,F591000,2061,Unspecified perceptive hearing loss
+Hearing loss,F591100,18520,Sensory hearing loss
+Hearing loss,F591200,6846,Neural hearing loss
+Hearing loss,F591211,3171,Nerve deafness
+Hearing loss,F591300,69894,Central hearing loss
+Hearing loss,F591400,10665,Congenital sensorineural deafness
+Hearing loss,F591500,47440,Ototoxicity - deafness
+Hearing loss,F591511,102069,Drug ototoxicity - deafness
+Hearing loss,F591600,10112,"Sensorineural hearing loss, bilateral"
+Hearing loss,F591700,29191,"Sensorineurl hear loss,unilat unrestrict hear/contralat side"
+Hearing loss,F591800,100736,Congenital prelingual deafness
+Hearing loss,F591900,107364,Bilateral profound sensorineural hearing loss
+Hearing loss,F591A00,107323,Bilateral congenital sensorineural hearing loss
+Hearing loss,F591B00,107607,Profound sensorineural hearing loss
+Hearing loss,F591C00,107350,Moderate sensorineural hearing loss
+Hearing loss,F591D00,107265,Mild sensorineural hearing loss
+Hearing loss,F591E00,107610,Severe sensorineural hearing loss
+Hearing loss,F591y00,54116,Combined perceptive hearing loss
+Hearing loss,F591z00,16393,Perceptive hearing loss NOS
+Hearing loss,F592.00,14983,Mixed conductive and sensorineural deafness
+Hearing loss,F592.11,9882,Mixed hearing loss
+Hearing loss,F592000,27901,"Mix cond/sensneurl hear loss,unlat unrestrc hear/contrlat sd"
+Hearing loss,F592100,7301,"Mixed conductive and sensorineural hearing loss, bilateral"
+Hearing loss,F593.00,3747,"Deaf mutism, NEC"
+Hearing loss,F594.00,19084,High frequency deafness
+Hearing loss,F595.00,44282,Low frequency deafness
+Hearing loss,F596.00,98253,Maternally inherited deafness
+Hearing loss,F597.00,99753,Mild acquired hearing loss
+Hearing loss,F598.00,100127,Moderate acquired hearing loss
+Hearing loss,F599.00,100276,Severe acquired hearing loss
+Hearing loss,F59A.00,100654,Profound acquired hearing loss
+Hearing loss,F59A.11,102872,Deafened
+Hearing loss,F59y.00,38563,Other specified forms of hearing loss
+Hearing loss,F59z.00,686,Deafness NOS
+Hearing loss,F59z.11,16648,Chronic deafness
+Hearing loss,F5A..00,96245,Hearing impairment
+Hearing loss,Fy1..00,103907,Combined visual and hearing impairment
+Hearing loss,Fy1..11,113993,Dual sensory impairment - deafblind
+Hearing loss,Fy1..12,108703,Deafblind
+Hearing loss,FyuU000,71827,"[X]Deaf mutism, not elsewhere classified"
+Hearing loss,FyuU100,53800,[X]Other specified hearing loss
+Hearing loss,P40..00,5016,Ear anomalies with hearing impairment
+Hearing loss,P400.00,50016,"Ear anomalies with hearing impaired, unspecified"
+Hearing loss,P402.00,52802,Other external ear anomaly with hearing impairment
+Hearing loss,P402z00,72933,Other external ear anomaly with hearing impairment NOS
+Hearing loss,P40z.00,27313,Other and unspecified ear anomaly with hearing impaired
+Hearing loss,P40z.11,31374,Deafness due to congenital anomaly NEC
+Hearing loss,P40zz00,57053,Ear anomaly with hearing impaired NOS
+Hearing loss,PKyP.00,106927,"Diab insipidus,diab mell,optic atrophy and deafness"
+Hearing loss,PKyz800,115285,"DOOR - Deafness, triphalangeal thumbs, onychodystrophy"
+Hearing loss,Pyu1B00,103542,"[X]Malformation of ear with impairment of hearing, unspec"
+Hearing loss,SJ15.12,12339,Deafness - traumatic - NOS
+Hearing loss,Z8B5.00,52245,Ability to use hearing aid
+Hearing loss,Z8B5100,46837,Able to use hearing aid
+Hearing loss,Z8B5200,35178,Unable to use hearing aid
+Hearing loss,Z8B5300,19417,Does use hearing aid
+Hearing loss,Z8B5311,18375,Uses hearing aid
+Hearing loss,Z8B5500,17407,Difficulty using hearing aid
+Hearing loss,Z911.00,30206,Hearing aid procedure
+Hearing loss,Z911100,7344,Fit hearing aid
+Hearing loss,Z911300,51744,Adjust hearing aid settings
+Hearing loss,Z911400,31962,Changing hearing aid battery
+Hearing loss,Z911500,30394,Checking hearing aid
+Hearing loss,Z911700,97300,Switching on hearing aid
+Hearing loss,Z911800,93722,Turning off hearing aid
+Hearing loss,Z911900,59596,Putting on hearing aid
+Hearing loss,Z911A00,58046,Listening for feedback whistle of hearing aid
+Hearing loss,Z911B00,42879,Attention to hearing aid
+Hearing loss,Z911E00,58826,Fit ear mould for existing hearing aid
+Hearing loss,Z911G00,65516,Fit ear mould for hearing protection
+Hearing loss,Z96..00,32905,Provision for visual and hearing impairment
+Hearing loss,Z961.00,38717,Provision of guide help for visual and hearing impairment
+Hearing loss,Z962.00,107912,Provision of communicator for visual and hearing impairment
+Hearing loss,Z9E8100,11619,Hearing aid provision
+Hearing loss,ZE7..00,11704,Hearing problem
+Hearing loss,ZE81200,30734,Hearing for whisper impaired
+Hearing loss,ZE82200,36807,Hearing for conversational voice impaired
+Hearing loss,ZE84200,36762,Hearing for voice impaired
+Hearing loss,ZE87.00,9830,Hearing loss
+Hearing loss,ZE87.11,10367,Deafness
+Hearing loss,ZE87.12,19666,Difficulty hearing
+Hearing loss,ZE87.13,22102,Hard of hearing
+Hearing loss,ZE87.15,12692,HI - Hearing impairment
+Hearing loss,ZE87.16,12324,HL - Hearing loss
+Hearing loss,ZE87.17,7891,HOH - Hard of hearing
+Hearing loss,ZE87.18,18008,Hearing impairment
+Hearing loss,ZE87.19,19068,Hearing impaired
+Hearing loss,ZE87.20,30033,Hearing impaired
+Hearing loss,ZK75.00,112656,Issue of local authority deaf registration
+Hearing loss,ZL71500,13659,Referral to hearing therapist
+Hearing loss,ZL71600,22831,Referral to registered hearing aid dispenser
+Hearing loss,ZN56900,63490,Deaf telephone user
+Hearing loss,ZN56A00,110179,Deaf-blind telephone user
+Hearing loss,ZV41200,15723,[V]Problems with hearing
+Hearing loss,ZV45G00,18148,[V]Presence of external hearing-aid
+Hearing loss,ZV45N00,96803,[V]Bone anchored hearing aid in situ
+Hearing loss,ZV53200,2876,[V]Fitting or adjustment of hearing aid
+Hearing loss,ZV53D00,45604,[V]Adjustment and management of implanted hearing device

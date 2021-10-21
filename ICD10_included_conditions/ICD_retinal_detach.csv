@@ -1,0 +1,6 @@
+Disease,ICD10code,ICD10codeDescr
+Retinal detachments and breaks,H33.0,Retinal detachment with retinal break
+Retinal detachments and breaks,H33.3,Retinal breaks without detachment
+Retinal detachments and breaks,H33.4,Traction detachment of retina
+Retinal detachments and breaks,H33.5,Other retinal detachments
+Retinal detachments and breaks,H33.2,Serous retinal detachment

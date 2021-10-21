@@ -1,0 +1,21 @@
+Disease,ReadCode,MedCode,ReadTerm
+Ptosis of eyelid,2BE2.00,38956,O/E - ptosis present
+Ptosis of eyelid,2BE..00,8696,O/E - ptosis
+Ptosis of eyelid,2BE3.00,22097,O/E - Horner's syndrome
+Ptosis of eyelid,2BEZ.00,35069,O/E - ptosis NOS
+Ptosis of eyelid,7218000,17472,Correction of eyelid ptosis using levator muscle technique
+Ptosis of eyelid,7218100,43924,Correction of eyelid ptosis using frontalis muscle technique
+Ptosis of eyelid,7218200,27441,Correction of ptosis of eyelid using sling of fascia
+Ptosis of eyelid,7218300,36100,Correction of eyelid ptosis using superior rectus technique
+Ptosis of eyelid,7218500,17932,Correction of eyelid ptosis using aponeurosis technique
+Ptosis of eyelid,7218.00,1633,Correction of ptosis of eyelid
+Ptosis of eyelid,7218y00,49096,Other specified correction of ptosis of eyelid
+Ptosis of eyelid,7218z00,4141,Correction of ptosis of eyelid NOS
+Ptosis of eyelid,F4E3000,38413,Unspecified ptosis of eyelid
+Ptosis of eyelid,F4E3100,47614,Paralytic ptosis
+Ptosis of eyelid,F4E3200,66515,Myogenic ptosis
+Ptosis of eyelid,F4E3300,17923,Mechanical ptosis
+Ptosis of eyelid,F4E3.00,2232,Ptosis of eyelid
+Ptosis of eyelid,F4E3z00,35130,Ptosis of eyelid NOS
+Ptosis of eyelid,P360.00,8319,Congenital ptosis
+Ptosis of eyelid,P360.11,16690,Blepharoptosis

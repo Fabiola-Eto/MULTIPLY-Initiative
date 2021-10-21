@@ -1,0 +1,23 @@
+Disease,ICD10code,ICD10codeDescr
+Other anaemias,D53,Other nutritional anaemias
+Other anaemias,D62,Acute posthaemorrhagic anaemia
+Other anaemias,D63,Anaemia in chronic diseases classified elsewhere
+Other anaemias,D64,Other anaemias
+Other anaemias,D56.3,Thalassaemia trait
+Other anaemias,D53.1,"Other megaloblastic anaemias, not elsewhere classified"
+Other anaemias,D53.0,Protein deficiency anaemia
+Other anaemias,E79.8,Other disorders of purine and pyrimidine metabolism
+Other anaemias,D53.8,Other specified nutritional anaemias
+Other anaemias,D53.2,Scorbutic anaemia
+Other anaemias,D53.9,"Nutritional anaemia, unspecified"
+Other anaemias,D56.9,"Thalassaemia, unspecified"
+Other anaemias,D56.1,Beta thalassaemia
+Other anaemias,D64.3,Other sideroblastic anaemias
+Other anaemias,D64.0,Hereditary sideroblastic anaemia
+Other anaemias,D64.1,Secondary sideroblastic anaemia due to disease
+Other anaemias,D64.2,Secondary sideroblastic anaemia due to drugs and toxins
+Other anaemias,D46.4,"Refractory anaemia, unspecified"
+Other anaemias,D64.9,"Anaemia, unspecified"
+Other anaemias,D64.8,Other specified anaemias
+Other anaemias,D64.4,Congenital dyserythropoietic anaemia
+Other anaemias,P61.4,"Other congenital anaemias, not elsewhere classified"

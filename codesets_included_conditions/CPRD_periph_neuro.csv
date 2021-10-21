@@ -1,0 +1,130 @@
+Disease,ReadCode,MedCode,ReadTerm
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),A531300,31709,Postherpetic polyneuropathy
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),A72x100,97848,Mumps polyneuropathy
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),C108J00,39809,Insulin dependent diab mell with neuropathic arthropathy
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),C109H00,40962,Non-insulin dependent d m with neuropathic arthropathy
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),C34y400,59344,Gouty neuritis
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),C373200,28333,Familial neuropathic amyloid
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),C373K13,105825,Familial amyloid polyneuropathy type III
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),E011100,11106,Korsakov's alcoholic psychosis with peripheral neuritis
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),F341000,35395,Median nerve neuritis
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),F341100,23656,Median nerve compression in forearm
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),F341.00,26420,Other median nerve lesions
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),F341z00,29630,Median nerve lesions NOS
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),F342000,5384,Cubital tunnel syndrome
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),F342100,27805,Tardy ulnar nerve palsy
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),F342200,62954,Canal of Guyon compression
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),F342300,12097,Ulnar nerve entrapment
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),F342400,18534,Ulnar neuropathy
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),F342.00,2002,Ulnar nerve lesions
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),F342.11,3736,Neuritis ulnar nerve
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),F342z00,14741,Ulnar nerve lesion NOS
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),F343000,2073,Acute radial nerve palsy
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),F343100,48724,Sensory branch of radial nerve lesion
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),F343200,67043,Posterior interosseous nerve lesion
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),F343.00,24606,Radial nerve lesions
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),F343z00,23393,Radial nerve lesion NOS
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),F344.00,7915,Causalgia
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),F345.00,16293,Mononeuritis multiplex
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),F346.00,22921,Median nerve entrapment
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),F34..00,24331,Mononeuritis of upper limb and mononeuritis multiplex
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),F34y.00,23435,Other upper limb mononeuritis
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),F34z.00,43063,Mononeuritis upper limb NOS
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),F350.00,1254,Sciatic nerve lesion
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),F351.00,4174,Meralgia paraesthetica
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),F352.00,32949,Femoral nerve lesions
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),F353.00,26124,Common peroneal nerve lesion
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),F353.11,18025,Lateral popliteal nerve lesion
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),F354.00,48792,Tibial nerve lesion
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),F354.11,58554,Medial popliteal nerve lesion
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),F355.00,4239,Tarsal tunnel syndrome
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),F356000,2219,Morton's metatarsalgia
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),F356100,6884,Morton's neuralgia
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),F356.00,15808,Plantar nerve lesion
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),F356z00,54645,Plantar nerve lesion NOS
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),F357.00,23636,Superficial peroneal nerve lesion
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),F358.00,43077,Deep peroneal nerve lesion
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),F35..00,21781,Mononeuritis lower limb
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),F35x.00,16540,Other mononeuritis lower limb
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),F35y.00,44113,Unspecified mononeuritis lower limb
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),F35z.00,16452,Mononeuritis of unspecified site NOS
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),F35z.11,8591,Peripheral neuropathy - hereditary or idiopathic
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),F360000,11542,Dejerine-Sottas disease
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),F360.00,39528,Hereditary peripheral neuropathy
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),F360z00,38401,Hereditary peripheral neuropathy NOS
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),F361000,5584,Charcot-Marie-Tooth disease
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),F361011,34698,Charcot's atrophy
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),F361012,108834,Charcot-Marie-Tooth syndrome
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),F361.00,28901,Peroneal muscular atrophy
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),F361z00,70040,Peroneal muscular atrophy NOS
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),F362.00,7635,Hereditary sensory neuropathy
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),F363.00,8267,Refsum's disease
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),F364.00,44512,Idiopathic progressive polyneuropathy
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),F365.00,46937,Neuropathy in association with hereditary ataxia
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),F366.00,3958,Polyneuropathy
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),F367.00,2790,Peripheral neuropathy
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),F368000,56910,Hereditary motor and sensory neuropathy type I
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),F368100,35465,Hereditary motor and sensory neuropathy type II
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),F368200,106103,Hereditary motor and sensory neuropathy type III
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),F368.00,32527,Hereditary motor and sensory neuropathy
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),F36..00,18075,Hereditary and idiopathic peripheral neuropathy
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),F36y.00,14884,Other idiopathic peripheral neuropathy
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),F36yz00,6908,Other idiopathic peripheral neuropathy NOS
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),F36z.00,14883,Hereditary or idiopathic peripheral neuropathy NOS
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),F370000,1607,Guillain-Barre syndrome
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),F370100,24216,Postinfectious polyneuritis
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),F370200,33841,Miller-Fisher syndrome
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),F370.00,6376,Acute infective polyneuritis
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),F370z00,63544,Acute infective polyneuritis NOS
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),F371000,44095,Polyneuropathy in disseminated lupus erythematosus
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),F371100,47465,Polyneuropathy in polyarteritis nodosa
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),F371200,62401,Polyneuropathy in rheumatoid arthritis
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),F371.00,57313,Polyneuropathy in collagen vascular disease
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),F371z00,71258,Polyneuropathy in collagen vascular disease NOS
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),F373.00,30537,Polyneuropathy in malignant disease
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),F374000,66336,Polyneuropathy in amyloidosis
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),F374100,73337,Polyneuropathy in beriberi
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),F374200,24355,Polyneuropathy in vitamin B deficiency
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),F374300,52089,Polyneuropathy in diphtheria
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),F374400,39692,Polyneuropathy in herpes zoster
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),F374500,68960,Polyneuropathy in hypoglycaemia
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),F374600,100064,Polyneuropathy in mumps
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),F374800,58758,Polyneuropathy in porphyria
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),F374900,40751,Polyneuropathy in sarcoidosis
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),F374A00,19454,Polyneuropathy in uraemia
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),F374.00,56272,Polyneuropathy in disease EC
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),F374z00,63555,Polyneuropathy in disease NOS
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),F375.00,2925,Alcoholic polyneuropathy
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),F376.00,24222,Polyneuropathy due to drugs
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),F377.00,54124,Other toxic agent polyneuropathy
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),F378.00,24121,Intercostal neuropathy
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),F37..00,10722,Inflammatory and toxic neuropathy
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),F37..11,45081,Toxic neuropathy
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),F37X.00,31551,"Inflammatory polyneuropathy, unspecified"
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),F37y000,69047,Serum neuropathy
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),F37y100,96256,Axonal sensorimotor neuropathy
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),F37y.00,41652,Other toxic or inflammatory neuropathy
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),F37z.00,15481,Toxic or inflammatory neuropathy NOS
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),F37z.11,24226,Polyneuropathy unspecified
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),F3y..00,42750,Other specified disorders of peripheral nervous system
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),F3z..00,29343,Peripheral nervous system disorder NOS
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),Fyu1300,93228,[X]Paraneoplastic neuromyopathy and neuropathy
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),Fyu6900,107099,[X]Other lesions of median nerve
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),Fyu6A00,93868,[X]Other mononeuropathies of upper limb
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),Fyu6B00,72922,[X]Other mononeuropathies of lower limb
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),Fyu6C00,91741,[X]Other specified mononeuropathies
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),Fyu6D00,107322,[X]Other mononeuropathies in diseases classified elsewhere
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),Fyu7000,97449,[X]Other hereditary and idiopathic neuropathies
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),Fyu7100,97479,[X]Other inflammatory polyneuropathies
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),Fyu7200,97306,[X]Other specified polyneuropathies
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),Fyu7500,110363,[X]Polyneuropathy/other endocrine+metabolic diseases CE
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),Fyu7800,110567,[X]Polyneuropathy/other musculoskeletal disorders CE
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),Fyu7B00,39858,"[X]Inflammatory polyneuropathy, unspecified"
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),Fyu7C00,35537,"[X] Polyneuropathy, unspecified"
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),Fyu7.00,55076,[X]Polyneuropathies & other disord of peripheral nerv syst
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),M271700,99855,Neuropathic foot ulcer
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),N035.00,49575,Neuropathic arthropathy
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),N035.12,36643,Neuropathic arthritis
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),N11y200,37759,Neuropathic spondylopathy
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),N134.14,10082,Ulnar neuritis
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),SD72200,18492,Neuropathic foot blister

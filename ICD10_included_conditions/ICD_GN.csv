@@ -1,0 +1,111 @@
+Disease,ICD10code,ICD10codeDescr
+Glomerulonephritis and other nephritides,N00.0,Acute nephritic syndrome - Minor glomerular abnormality
+Glomerulonephritis and other nephritides,N00.1,Acute nephritic syndrome - Focal and segmental glomerular lesions
+Glomerulonephritis and other nephritides,N00.2,Acute nephritic syndrome - Diffuse membranous glomerulonephritis
+Glomerulonephritis and other nephritides,N00.3,Acute nephritic syndrome - Diffuse mesangial proliferative glomerulonephritis
+Glomerulonephritis and other nephritides,N00.4,Acute nephritic syndrome - Diffuse endocapillary proliferative glomerulonephritis
+Glomerulonephritis and other nephritides,N00.5,Acute nephritic syndrome - Diffuse mesangiocapillary glomerulonephritis
+Glomerulonephritis and other nephritides,N00.6,Acute nephritic syndrome - Dense deposit disease
+Glomerulonephritis and other nephritides,N00.7,Acute nephritic syndrome - Diffuse crescentic glomerulonephritis
+Glomerulonephritis and other nephritides,N00.8,Acute nephritic syndrome - Other
+Glomerulonephritis and other nephritides,N00.9,Acute nephritic syndrome - Unspecified
+Glomerulonephritis and other nephritides,N01.0,Rapidly progressive nephritic syndrome - Minor glomerular abnormality
+Glomerulonephritis and other nephritides,N01.1,Rapidly progressive nephritic syndrome - Focal and segmental glomerular lesions
+Glomerulonephritis and other nephritides,N01.2,Rapidly progressive nephritic syndrome - Diffuse membranous glomerulonephritis
+Glomerulonephritis and other nephritides,N01.3,Rapidly progressive nephritic syndrome - Diffuse mesangial proliferative glomerulonephritis
+Glomerulonephritis and other nephritides,N01.4,Rapidly progressive nephritic syndrome - Diffuse endocapillary proliferative glomerulonephritis
+Glomerulonephritis and other nephritides,N01.5,Rapidly progressive nephritic syndrome - Diffuse mesangiocapillary glomerulonephritis
+Glomerulonephritis and other nephritides,N01.7,Rapidly progressive nephritic syndrome - Diffuse crescentic glomerulonephritis
+Glomerulonephritis and other nephritides,N01.8,Rapidly progressive nephritic syndrome - Other
+Glomerulonephritis and other nephritides,N01.9,Rapidly progressive nephritic syndrome - Unspecified
+Glomerulonephritis and other nephritides,N02.0,Recurrent and persistent haematuria - Minor glomerular abnormality
+Glomerulonephritis and other nephritides,N02.1,Recurrent and persistent haematuria - Focal and segmental glomerular lesions
+Glomerulonephritis and other nephritides,N02.2,Recurrent and persistent haematuria - Diffuse membranous glomerulonephritis
+Glomerulonephritis and other nephritides,N02.3,Recurrent and persistent haematuria - Diffuse mesangial proliferative glomerulonephritis
+Glomerulonephritis and other nephritides,N02.4,Recurrent and persistent haematuria - Diffuse endocapillary proliferative glomerulonephritis
+Glomerulonephritis and other nephritides,N02.5,Recurrent and persistent haematuria - Diffuse mesangiocapillary glomerulonephritis
+Glomerulonephritis and other nephritides,N02.6,Recurrent and persistent haematuria - Dense deposit disease
+Glomerulonephritis and other nephritides,N02.7,Recurrent and persistent haematuria - Diffuse crescentic glomerulonephritis
+Glomerulonephritis and other nephritides,N02.8,Recurrent and persistent haematuria - Other
+Glomerulonephritis and other nephritides,N02.9,Recurrent and persistent haematuria - Unspecified
+Glomerulonephritis and other nephritides,N03.0,Chronic nephritic syndrome - Minor glomerular abnormality
+Glomerulonephritis and other nephritides,N03.1,Chronic nephritic syndrome - Focal and segmental glomerular lesions
+Glomerulonephritis and other nephritides,N03.2,Chronic nephritic syndrome - Diffuse membranous glomerulonephritis
+Glomerulonephritis and other nephritides,N03.3,Chronic nephritic syndrome - Diffuse mesangial proliferative glomerulonephritis
+Glomerulonephritis and other nephritides,N03.4,Chronic nephritic syndrome - Diffuse endocapillary proliferative glomerulonephritis
+Glomerulonephritis and other nephritides,N03.5,Chronic nephritic syndrome - Diffuse mesangiocapillary glomerulonephritis
+Glomerulonephritis and other nephritides,N03.6,Chronic nephritic syndrome - Dense deposit disease
+Glomerulonephritis and other nephritides,N03.7,Chronic nephritic syndrome - Diffuse crescentic glomerulonephritis
+Glomerulonephritis and other nephritides,N03.8,Chronic nephritic syndrome - Other
+Glomerulonephritis and other nephritides,N03.9,Chronic nephritic syndrome - Unspecified
+Glomerulonephritis and other nephritides,N04.0,Nephrotic syndrome - Minor glomerular abnormality
+Glomerulonephritis and other nephritides,N04.1,Nephrotic syndrome - Focal and segmental glomerular lesions
+Glomerulonephritis and other nephritides,N04.2,Nephrotic syndrome - Diffuse membranous glomerulonephritis
+Glomerulonephritis and other nephritides,N04.3,Nephrotic syndrome - Diffuse mesangial proliferative glomerulonephritis
+Glomerulonephritis and other nephritides,N04.4,Nephrotic syndrome - Diffuse endocapillary proliferative glomerulonephritis
+Glomerulonephritis and other nephritides,N04.5,Nephrotic syndrome - Diffuse mesangiocapillary glomerulonephritis
+Glomerulonephritis and other nephritides,N04.6,Nephrotic syndrome - Dense deposit disease
+Glomerulonephritis and other nephritides,N04.7,Nephrotic syndrome - Diffuse crescentic glomerulonephritis
+Glomerulonephritis and other nephritides,N04.8,Nephrotic syndrome - Other
+Glomerulonephritis and other nephritides,N04.9,Nephrotic syndrome - Unspecified
+Glomerulonephritis and other nephritides,N05.0,Unspecified nephritic syndrome - Minor glomerular abnormality
+Glomerulonephritis and other nephritides,N05.1,Unspecified nephritic syndrome - Focal and segmental glomerular lesions
+Glomerulonephritis and other nephritides,N05.2,Unspecified nephritic syndrome - Diffuse membranous glomerulonephritis
+Glomerulonephritis and other nephritides,N05.3,Unspecified nephritic syndrome - Diffuse mesangial proliferative glomerulonephritis
+Glomerulonephritis and other nephritides,N05.4,Unspecified nephritic syndrome - Diffuse endocapillary proliferative glomerulonephritis
+Glomerulonephritis and other nephritides,N05.5,Unspecified nephritic syndrome - Diffuse mesangiocapillary glomerulonephritis
+Glomerulonephritis and other nephritides,N05.6,Unspecified nephritic syndrome - Dense deposit disease
+Glomerulonephritis and other nephritides,N05.7,Unspecified nephritic syndrome - Diffuse crescentic glomerulonephritis
+Glomerulonephritis and other nephritides,N05.8,Unspecified nephritic syndrome - Other
+Glomerulonephritis and other nephritides,N05.9,Unspecified nephritic syndrome - Unspecified
+Glomerulonephritis and other nephritides,N06.0,Isolated proteinuria with specified morphological lesion - Minor glomerular abnormality
+Glomerulonephritis and other nephritides,N06.1,Isolated proteinuria with specified morphological lesion - Focal and segmental glomerular lesions
+Glomerulonephritis and other nephritides,N06.2,Isolated proteinuria with specified morphological lesion - Diffuse membranous glomerulonephritis
+Glomerulonephritis and other nephritides,N06.3,Isolated proteinuria with specified morphological lesion - Diffuse mesangial proliferative glomerulonephritis
+Glomerulonephritis and other nephritides,N06.5,Isolated proteinuria with specified morphological lesion - Diffuse mesangiocapillary glomerulonephritis
+Glomerulonephritis and other nephritides,N06.6,Isolated proteinuria with specified morphological lesion - Dense deposit disease
+Glomerulonephritis and other nephritides,N06.8,Isolated proteinuria with specified morphological lesion - Other
+Glomerulonephritis and other nephritides,N06.9,Isolated proteinuria with specified morphological lesion - Unspecified
+Glomerulonephritis and other nephritides,M31.0,Hypersensitivity angiitis
+Glomerulonephritis and other nephritides,N00,Acute nephritic syndrome
+Glomerulonephritis and other nephritides,N00.8,Acute nephritic syndrome other
+Glomerulonephritis and other nephritides,N05.7,Unspecified nephritic syndrome diffuse crescentic glomerulonephritis
+Glomerulonephritis and other nephritides,N00.9,Acute nephritic syndrome unspecified
+Glomerulonephritis and other nephritides,N04,Nephrotic syndrome
+Glomerulonephritis and other nephritides,N04.8,Nephrotic syndrome other
+Glomerulonephritis and other nephritides,N04.2,Nephrotic syndrome diffuse membranous glomerulonephritis
+Glomerulonephritis and other nephritides,N04.0,Nephrotic syndrome minor glomerular abnormality
+Glomerulonephritis and other nephritides,N04.1,Nephrotic syndrome focal and segmental glomerular lesions
+Glomerulonephritis and other nephritides,N04.6,Nephrotic syndrome dense deposit disease
+Glomerulonephritis and other nephritides,N04.7,Nephrotic syndrome diffuse crescentic glomerulonephritis
+Glomerulonephritis and other nephritides,N04.9,Nephrotic syndrome unspecified
+Glomerulonephritis and other nephritides,N03.9,Chronic nephritic syndrome unspecified
+Glomerulonephritis and other nephritides,N03.3,Chronic nephritic syndrome diffuse mesangial proliferative glomerulonephritis
+Glomerulonephritis and other nephritides,N03.2,Chronic nephritic syndrome diffuse membranous glomerulonephritis
+Glomerulonephritis and other nephritides,N03.5,Chronic nephritic syndrome diffuse mesangiocapillary glomerulonephritis
+Glomerulonephritis and other nephritides,N01.9,Rapidly progressive nephritic syndrome unspecified
+Glomerulonephritis and other nephritides,N03.8,Chronic nephritic syndrome other
+Glomerulonephritis and other nephritides,N03.1,Chronic nephritic syndrome focal and segmental glomerular lesions
+Glomerulonephritis and other nephritides,N05,Unspecified nephritic syndrome
+Glomerulonephritis and other nephritides,N05.8,Unspecified nephritic syndrome other
+Glomerulonephritis and other nephritides,N05.2,Unspecified nephritic syndrome diffuse membranous glomerulonephritis
+Glomerulonephritis and other nephritides,N05.5,Unspecified nephritic syndrome diffuse mesangiocapillary glomerulonephritis
+Glomerulonephritis and other nephritides,N05.1,Unspecified nephritic syndrome focal and segmental glomerular lesions
+Glomerulonephritis and other nephritides,N02.9,Recurrent and persistent haematuria unspecified
+Glomerulonephritis and other nephritides,N02.8,Recurrent and persistent haematuria other
+Glomerulonephritis and other nephritides,N05.6,Unspecified nephritic syndrome dense deposit disease
+Glomerulonephritis and other nephritides,N05.9,Unspecified nephritic syndrome unspecified
+Glomerulonephritis and other nephritides,N26,Unspecified contracted kidney
+Glomerulonephritis and other nephritides,N00.0,Acute nephritic syndrome minor glomerular abnormality
+Glomerulonephritis and other nephritides,N00.6,Acute nephritic syndrome dense deposit disease
+Glomerulonephritis and other nephritides,N01,Rapidly progressive nephritic syndrome
+Glomerulonephritis and other nephritides,N02,Recurrent and persistent haematuria
+Glomerulonephritis and other nephritides,N02.6,Recurrent and persistent haematuria dense deposit disease
+Glomerulonephritis and other nephritides,N03,Chronic nephritic syndrome
+Glomerulonephritis and other nephritides,N03.0,Chronic nephritic syndrome minor glomerular abnormality
+Glomerulonephritis and other nephritides,N03.6,Chronic nephritic syndrome dense deposit disease
+Glomerulonephritis and other nephritides,N06,Isolated proteinuria with specified morphological lesion
+Glomerulonephritis and other nephritides,N083,Glomerular disorders in diabetes mellitus
+Glomerulonephritis and other nephritides,N08,Glomerular disorders in diseases classified elsewhere
+Glomerulonephritis and other nephritides,Q60,Renal agenesis and other reduction defects of kidney
+Glomerulonephritis and other nephritides,N11,Chronic tubulo-interstitial nephritis

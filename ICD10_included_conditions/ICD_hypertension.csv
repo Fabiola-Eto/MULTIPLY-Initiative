@@ -1,0 +1,25 @@
+Disease,ICD10code,ICD10codeDescr
+Hypertension,I10,Essential (primary) hypertension
+Hypertension,I11,Hypertensive heart disease
+Hypertension,I12,Hypertensive renal disease
+Hypertension,I13,Hypertensive heart and renal disease
+Hypertension,I15,Secondary hypertension
+Hypertension,E26.0,Primary hyperaldosteronism
+Hypertension,E26.9,"Hyperaldosteronism, unspecified"
+Hypertension,H44.8,Other disorders of globe
+Hypertension,I11.9,Hypertensive heart disease without (congestive) heart failure
+Hypertension,I12.9,Hypertensive renal disease without renal failure
+Hypertension,I12.0,Hypertensive renal disease with renal failure
+Hypertension,I13.1,Hypertensive heart and renal disease with renal failure
+Hypertension,I13.2,Hypertensive heart and renal disease with both (congestive) heart failure and renal failure
+Hypertension,I13.9,"Hypertensive heart and renal disease, unspecified"
+Hypertension,I15.9,"Secondary hypertension, unspecified"
+Hypertension,I15.0,Renovascular hypertension
+Hypertension,I15.2,Hypertension secondary to endocrine disorders
+Hypertension,I15.8,Other secondary hypertension
+Hypertension,I67.4,Hypertensive encephalopathy
+Hypertension,I15.1,Hypertension secondary to other renal disorders
+Hypertension,O10.9,"Unspecified pre-existing hypertension complicating pregnancy, childbirth and the puerperium"
+Hypertension,O10.2,"Pre-existing hypertensive renal disease complicating pregnancy, childbirth and the puerperium"
+Hypertension,O10.3,"Pre-existing hypertensive heart and renal disease complicating pregnancy, childbirth and the puerperium"
+Hypertension,O11,Pre-eclampsia superimposed on chronic hypertension

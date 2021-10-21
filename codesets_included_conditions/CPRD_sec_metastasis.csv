@@ -1,0 +1,140 @@
+Disease,ReadCode,MedCode,ReadTerm
+Secondary malignancy and metastasis,B577.11,4403,Liver metastases
+Secondary malignancy and metastasis,B577.00,15103,Secondary malignant neoplasm of liver
+Secondary malignancy and metastasis,B153.00,36147,Secondary malignant neoplasm of liver
+Secondary malignancy and metastasis,B577000,112718,Secondary malignant neoplasm of liver intrahepatic bile duct
+Secondary malignancy and metastasis,B565100,114549,Secondary and unspec malig neop inferior epigastric LN
+Secondary malignancy and metastasis,B587.00,36401,Secondary malignant neoplasm of adrenal gland
+Secondary malignancy and metastasis,B585.00,7654,Secondary malignant neoplasm of bone and bone marrow
+Secondary malignancy and metastasis,B585000,18676,Pathological fracture due to metastatic bone disease
+Secondary malignancy and metastasis,B575000,28727,Secondary malignant neoplasm of colon
+Secondary malignancy and metastasis,B575z00,36200,Secondary malig neop of large intestine or rectum NOS
+Secondary malignancy and metastasis,B575.00,44529,Secondary malignant neoplasm of large intestine and rectum
+Secondary malignancy and metastasis,B574000,55946,Secondary malignant neoplasm of duodenum
+Secondary malignancy and metastasis,B575100,62909,Secondary malignant neoplasm of rectum
+Secondary malignancy and metastasis,B574.00,64680,Secondary malignant neoplasm of small intestine and duodenum
+Secondary malignancy and metastasis,B574z00,70026,Secondary malig neop of small intestine or duodenum NOS
+Secondary malignancy and metastasis,B574200,99511,Secondary malignant neoplasm of ileum
+Secondary malignancy and metastasis,B574100,110433,Secondary malignant neoplasm of jejunum
+Secondary malignancy and metastasis,B583000,5198,Secondary malignant neoplasm of brain
+Secondary malignancy and metastasis,B583200,5199,Cerebral metastasis
+Secondary malignancy and metastasis,B583.00,33843,Secondary malignant neoplasm of brain and spinal cord
+Secondary malignancy and metastasis,B583100,38918,Secondary malignant neoplasm of spinal cord
+Secondary malignancy and metastasis,B583z00,59375,Secondary malignant neoplasm of brain or spinal cord NOS
+Secondary malignancy and metastasis,B570.00,4137,Secondary malignant neoplasm of lung
+Secondary malignancy and metastasis,B565.00,6701,Secondary and unspec malig neop intrapelvic lymph nodes
+Secondary malignancy and metastasis,B56..11,7830,Lymph node metastases
+Secondary malignancy and metastasis,B56..00,9618,Secondary and unspecified malignant neoplasm of lymph nodes
+Secondary malignancy and metastasis,B56z.00,15507,Secondary and unspec malig neop lymph nodes NOS
+Secondary malignancy and metastasis,B562300,18658,Secondary and unspec malig neop common iliac lymph nodes
+Secondary malignancy and metastasis,B56y.00,20159,Secondary and unspec malig neop lymph nodes multiple sites
+Secondary malignancy and metastasis,B561300,25366,Secondary and unspec malig neop ant mediastinal lymph nodes
+Secondary malignancy and metastasis,B560600,28059,Secondary and unspec malig neop of facial lymph nodes
+Secondary malignancy and metastasis,B560200,33395,Secondary and unspec malig neop superficial cervical LN
+Secondary malignancy and metastasis,B563000,37540,Secondary and unspec malig neop axillary lymph nodes
+Secondary malignancy and metastasis,B561000,37919,Secondary and unspec malig neop internal mammary lymph nodes
+Secondary malignancy and metastasis,B560700,38343,Secondary and unspec malig neop submental lymph nodes
+Secondary malignancy and metastasis,B560500,39433,Secondary and unspec malig neop submandibular lymph nodes
+Secondary malignancy and metastasis,B562000,41691,Secondary and unspec malig neop coeliac lymph nodes
+Secondary malignancy and metastasis,B560800,44627,Secondary and unspec malig neop anterior cervical LN
+Secondary malignancy and metastasis,B562z00,44931,Secondary and unspec malig neop intra-abdominal LN NOS
+Secondary malignancy and metastasis,B563300,46409,Secondary and unspec malig neop pectoral lymph nodes
+Secondary malignancy and metastasis,B565300,47366,Secondary and unspec malig neop sacral lymph nodes
+Secondary malignancy and metastasis,B560.00,49214,Secondary and unspec malig neop lymph nodes head/face/neck
+Secondary malignancy and metastasis,B563.00,50199,Secondary and unspec malig neop axilla and upper limb LN
+Secondary malignancy and metastasis,B563200,50904,Secondary and unspec malig neop infraclavicular lymph nodes
+Secondary malignancy and metastasis,B561900,52190,Secondary and unspec malig neop pulmonary lymph nodes
+Secondary malignancy and metastasis,B562.00,52736,Secondary and unspec malig neop intra-abdominal lymph nodes
+Secondary malignancy and metastasis,B564000,54278,Secondary and unspec malig neop superficial inguinal LN
+Secondary malignancy and metastasis,B561400,55463,Secondary and unspec malig neop post mediastinal lymph nodes
+Secondary malignancy and metastasis,B561500,58692,Secondary and unspec malig neop paratracheal lymph nodes
+Secondary malignancy and metastasis,B564100,61289,Secondary and unspec malig neop deep inguinal lymph nodes
+Secondary malignancy and metastasis,B562200,61677,Secondary and unspec malig neop inferior mesenteric LN
+Secondary malignancy and metastasis,B561800,62124,Secondary and unspec malig neop bronchopulmonary lymph nodes
+Secondary malignancy and metastasis,B564.00,63915,Secondary and unspec malig neop inguinal and lower limb LN
+Secondary malignancy and metastasis,B561.00,64116,Secondary and unspec malig neop intrathoracic lymph nodes
+Secondary malignancy and metastasis,B560000,64918,Secondary and unspec malig neop of superficial parotid LN
+Secondary malignancy and metastasis,B560300,65253,Secondary and unspec malignant neoplasm occipital lymph node
+Secondary malignancy and metastasis,ByuC200,66163,[X]2ndry+unspcf malignant neoplasm lymph nodes/multi regions
+Secondary malignancy and metastasis,B560100,66775,Secondary and unspec malignant neoplasm mastoid lymph nodes
+Secondary malignancy and metastasis,B560z00,67129,Secondary unspec malig neop lymph nodes head/face/neck NOS
+Secondary malignancy and metastasis,B561600,67797,Secondary and unspec malig neop superfic tracheobronchial LN
+Secondary malignancy and metastasis,B560900,68611,Secondary and unspec malig neop deep cervical LN
+Secondary malignancy and metastasis,B562400,69132,Secondary and unspec malig neop external iliac lymph nodes
+Secondary malignancy and metastasis,B561700,69392,Secondary and unspec malig neop inferior tracheobronchial LN
+Secondary malignancy and metastasis,B564z00,70747,Secondary and unspec malig neop of inguinal and leg LN NOS
+Secondary malignancy and metastasis,B562100,72713,Secondary and unspec malig neop superficial mesenteric LN
+Secondary malignancy and metastasis,B565z00,72803,Secondary and unspec malig neop intrapelvic LN NOS
+Secondary malignancy and metastasis,B563z00,73538,Secondary and unspec malig neop axilla and upper limb LN NOS
+Secondary malignancy and metastasis,B565000,84368,Secondary and unspec malig neop internal iliac lymph nodes
+Secondary malignancy and metastasis,B560400,92703,Secondary and unspec malig neop deep parotid lymph nodes
+Secondary malignancy and metastasis,B561z00,93716,Secondary and unspec malig neop intrathoracic LN NOS
+Secondary malignancy and metastasis,B561200,95378,Secondary and unspec malig neop diaphragmatic lymph nodes
+Secondary malignancy and metastasis,B563100,98626,Secondary and unspec malig neop supratrochlear lymph nodes
+Secondary malignancy and metastasis,B565200,101662,Secondary and unspec malig neop circumflex iliac LN
+Secondary malignancy and metastasis,B561100,105953,Secondary and unspec malig neop intercostal lymph nodes
+Secondary malignancy and metastasis,B580.00,1952,Secondary malignant neoplasm of kidney
+Secondary malignancy and metastasis,BB13.00,3152,"[M]Carcinoma, metastatic, NOS"
+Secondary malignancy and metastasis,BB03.00,3197,"[M]Neoplasm, metastatic"
+Secondary malignancy and metastasis,BB53.00,5455,"[M]Adenocarcinoma, metastatic, NOS"
+Secondary malignancy and metastasis,B58..00,5842,Secondary malignant neoplasm of other specified sites
+Secondary malignancy and metastasis,B590.11,6170,Carcinomatosis
+Secondary malignancy and metastasis,B57..11,6471,Metastases of respiratory and/or digestive systems
+Secondary malignancy and metastasis,BB03.11,6985,[M]Secondary neoplasm
+Secondary malignancy and metastasis,1D18.00,8600,Pain from metastases
+Secondary malignancy and metastasis,BB13.11,9366,[M]Secondary carcinoma
+Secondary malignancy and metastasis,B582600,9505,Secondary malignant neoplasm of skin of breast
+Secondary malignancy and metastasis,B590.00,13569,Disseminated malignancy NOS
+Secondary malignancy and metastasis,B58z.00,16500,Secondary malignant neoplasm of other specified site NOS
+Secondary malignancy and metastasis,B58y000,16760,Secondary malignant neoplasm of breast
+Secondary malignancy and metastasis,B58y.00,18616,Secondary malignant neoplasm of other specified sites
+Secondary malignancy and metastasis,B582.00,19945,Secondary malignant neoplasm of skin
+Secondary malignancy and metastasis,B58y500,21590,Secondary malignant neoplasm of prostate
+Secondary malignancy and metastasis,B581100,22146,Secondary malignant neoplasm of bladder
+Secondary malignancy and metastasis,B58yz00,22524,Secondary malignant neoplasm of other specified site NOS
+Secondary malignancy and metastasis,BB2B.00,24293,"[M]Squamous cell carcinoma, metastatic NOS"
+Secondary malignancy and metastasis,B57..12,24301,Secondary carcinoma of respiratory and/or digestive systems
+Secondary malignancy and metastasis,B58..11,27651,Secondary carcinoma of other specified sites
+Secondary malignancy and metastasis,B58y600,34145,Secondary malignant neoplasm of testis
+Secondary malignancy and metastasis,B57..00,35053,Secondary malig neop of respiratory and digestive systems
+Secondary malignancy and metastasis,B582200,35999,Secondary malignant neoplasm of skin of neck
+Secondary malignancy and metastasis,B582300,41144,Secondary malignant neoplasm of skin of trunk
+Secondary malignancy and metastasis,B582000,43930,Secondary malignant neoplasm of skin of head
+Secondary malignancy and metastasis,B586.00,44615,Secondary malignant neoplasm of ovary
+Secondary malignancy and metastasis,B58y900,45824,Secondary malignant neoplasm of tongue
+Secondary malignancy and metastasis,B582500,48828,Secondary malignant neoplasm of skin of hip and leg
+Secondary malignancy and metastasis,5136.00,48991,X-ray metastasis control
+Secondary malignancy and metastasis,B58y700,49145,Secondary malignant neoplasm of penis
+Secondary malignancy and metastasis,B571.00,51551,Secondary malignant neoplasm of mediastinum
+Secondary malignancy and metastasis,B581200,53528,Secondary malignant neoplasm of urethra
+Secondary malignancy and metastasis,B584.00,54120,Secondary malignant neoplasm of other part of nervous system
+Secondary malignancy and metastasis,ByuC700,54253,[X]Secondary malignant neoplasm of other specified sites
+Secondary malignancy and metastasis,B594.00,54679,Secondary malignant neoplasm of unknown site
+Secondary malignancy and metastasis,BB85100,54874,[M]Metastatic signet ring cell carcinoma
+Secondary malignancy and metastasis,B58y100,55090,Secondary malignant neoplasm of uterus
+Secondary malignancy and metastasis,B582z00,55096,Secondary malignant neoplasm of skin NOS
+Secondary malignancy and metastasis,B57y.00,56345,Secondary malignant neoplasm of other digestive organ
+Secondary malignancy and metastasis,ByuC300,57481,[X]Secondary malignant neoplasm/oth+unspc respiratory organs
+Secondary malignancy and metastasis,B581000,60134,Secondary malignant neoplasm of ureter
+Secondary malignancy and metastasis,B58y400,60335,Secondary malignant neoplasm of vulva
+Secondary malignancy and metastasis,B573.00,62584,Secondary malignant neoplasm of other respiratory organs
+Secondary malignancy and metastasis,B581z00,62828,Secondary malignant neoplasm of other urinary organ NOS
+Secondary malignancy and metastasis,B582400,63896,Secondary malignant neoplasm of skin of shoulder and arm
+Secondary malignancy and metastasis,B58y411,65490,Secondary cancer of the vulva
+Secondary malignancy and metastasis,B57z.00,66083,Secondary malig neop of respiratory or digestive system NOS
+Secondary malignancy and metastasis,ByuC600,68332,[X]2ndry malignant neoplasm/oth+unspec parts/nervous system
+Secondary malignancy and metastasis,B58y300,70736,Secondary malignant neoplasm of vagina
+Secondary malignancy and metastasis,B581.00,73213,Secondary malignant neoplasm of other urinary organs
+Secondary malignancy and metastasis,B58y200,73616,Secondary malignant neoplasm of cervix uteri
+Secondary malignancy and metastasis,ByuC400,88022,[X]Secondary malignant neoplasm/oth+unspcfd digestive organs
+Secondary malignancy and metastasis,ByuC500,97091,[X]2ndry malignant neoplasm/bladder+oth+unsp urinary organs
+Secondary malignancy and metastasis,B58y211,97832,Secondary cancer of the cervix
+Secondary malignancy and metastasis,B582100,100296,Secondary malignant neoplasm of skin of face
+Secondary malignancy and metastasis,B58y800,104480,Secondary malignant neoplasm of epididymis and vas deferens
+Secondary malignancy and metastasis,BBy2.00,104699,"[M]No microscopic confirmation tumour, clinically metastatic"
+Secondary malignancy and metastasis,B572.00,16213,Secondary malignant neoplasm of pleura
+Secondary malignancy and metastasis,B576200,8154,Malignant ascites
+Secondary malignancy and metastasis,B576100,27391,Secondary malignant neoplasm of peritoneum
+Secondary malignancy and metastasis,B576000,35364,Secondary malignant neoplasm of retroperitoneum
+Secondary malignancy and metastasis,B576.00,67396,Secondary malig neop of retroperitoneum and peritoneum
+Secondary malignancy and metastasis,B576z00,97672,Secondary malig neop of retroperitoneum or peritoneum NOS

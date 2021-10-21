@@ -1,0 +1,17 @@
+Disease,ReadCode,MedCode,ReadTerm
+Primary malignancy oesophageal,B100.00,61695,Malignant neoplasm of cervical oesophagus
+Primary malignancy oesophageal,B101.00,41362,Malignant neoplasm of thoracic oesophagus
+Primary malignancy oesophageal,B102.00,63470,Malignant neoplasm of abdominal oesophagus
+Primary malignancy oesophageal,B103.00,50789,Malignant neoplasm of upper third of oesophagus
+Primary malignancy oesophageal,B104.00,54171,Malignant neoplasm of middle third of oesophagus
+Primary malignancy oesophageal,B105.00,42416,Malignant neoplasm of lower third of oesophagus
+Primary malignancy oesophageal,B106.00,67497,"Malignant neoplasm, overlapping lesion of oesophagus"
+Primary malignancy oesophageal,B107.00,98142,Siewert type I adenocarcinoma
+Primary malignancy oesophageal,B10..00,1062,Malignant neoplasm of oesophagus
+Primary malignancy oesophageal,B10y.00,53591,Malignant neoplasm of other specified part of oesophagus
+Primary malignancy oesophageal,B10z.00,30700,Malignant neoplasm of oesophagus NOS
+Primary malignancy oesophageal,B10z.11,4865,Oesophageal cancer
+Primary malignancy oesophageal,ZV10016,51001,[V]Personal history of malignant neoplasm of oesophagus
+Primary malignancy oesophageal,B110100,22894,Malignant neoplasm of cardio-oesophageal junction of stomach
+Primary malignancy oesophageal,B110111,94278,Malignant neoplasm of gastro-oesophageal junction
+Primary malignancy oesophageal,B905000,38604,Neoplasm of uncertain behaviour of oesophagus

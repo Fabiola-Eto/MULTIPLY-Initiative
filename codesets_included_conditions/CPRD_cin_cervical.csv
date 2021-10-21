@@ -1,0 +1,31 @@
+Disease,ReadCode,MedCode,ReadTerm
+Cervical carcinoma in situ,4K2..11,7610,Dyskaryosis on cervical smear
+Cervical carcinoma in situ,4K2J.00,107295,Cervical smear - low grade dyskaryosis
+Cervical carcinoma in situ,4K2K.00,107363,Cervical smear - high grade dyskaryosis (moderate)
+Cervical carcinoma in situ,4K2L.00,107264,Cervical smear - high grade dyskaryosis (severe)
+Cervical carcinoma in situ,4K2N.00,107497,Cervical smear - ?endocervical type glandular neoplasia
+Cervical carcinoma in situ,4K2P.00,107348,Cervical smear - ?non-cervical type glandular neoplasia
+Cervical carcinoma in situ,B831000,24228,Carcinoma in situ of endocervix
+Cervical carcinoma in situ,B831100,50126,Carcinoma in situ of exocervix
+Cervical carcinoma in situ,B831.00,3279,Carcinoma in situ of cervix uteri
+Cervical carcinoma in situ,B831.11,4087,CIN III - carcinoma in situ of cervix
+Cervical carcinoma in situ,B831.12,5295,Cervical intraepithelial neoplasia
+Cervical carcinoma in situ,B831.13,21886,Cervical intraepithelial neoplasia grade III
+Cervical carcinoma in situ,ByuFA00,72695,[X]Carcinoma in situ of other parts of cervix
+Cervical carcinoma in situ,K551000,63477,Anaplasia of cervix
+Cervical carcinoma in situ,K551100,107831,Epidermidization of cervix
+Cervical carcinoma in situ,K551300,9184,Mild cervical dysplasia
+Cervical carcinoma in situ,K551311,8226,Cervical intraepithelial neoplasia grade I
+Cervical carcinoma in situ,K551400,22037,Moderate cervical dysplasia
+Cervical carcinoma in situ,K551411,22493,Cervical intraepithelial neoplasia grade II
+Cervical carcinoma in situ,K551.00,1910,Dysplasia of cervix uteri
+Cervical carcinoma in situ,K551.12,16859,"CIN I - II, cervical dysplasia"
+Cervical carcinoma in situ,K551X00,20602,"Severe cervical dysplasia, not elsewhere classified"
+Cervical carcinoma in situ,K551z00,12913,Dysplasia of cervix NOS
+Cervical carcinoma in situ,R150000,5446,[D]Dyskaryotic cervical smear
+Cervical carcinoma in situ,ZV13B00,64005,[V]Personal history of mild cervical dysplasia
+Cervical carcinoma in situ,ZV13B11,61148,"[V]PH of cervical intraepithelial neoplasia, grade I"
+Cervical carcinoma in situ,ZV13C00,32449,[V]Personal history of moderate cervical dysplasia
+Cervical carcinoma in situ,ZV13C11,30366,[V]PH of cervical intraepithelial neoplasia grade II
+Cervical carcinoma in situ,ZV13D00,42853,[V]Personal history of severe cervical dysplasia
+Cervical carcinoma in situ,ZV13E00,28613,"[V]PH of cervical intraepithelial neoplasia, grade III"

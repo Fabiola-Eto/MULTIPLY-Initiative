@@ -1,0 +1,12 @@
+Disease,ICD10code,ICD10codeDescr
+Heart failure,I11.0,Hypertensive heart disease with (congestive) heart failure
+Heart failure,I13.0,Hypertensive heart and renal disease with (congestive) heart failure
+Heart failure,I13.2,Hypertensive heart and renal disease with both (congestive) heart failure and renal failure
+Heart failure,I13.9,"Hypertensive heart and renal disease, unspecified"
+Heart failure,I50,Heart failure
+Heart failure,I09.9,"Rheumatic heart disease, unspecified"
+Heart failure,I26.0,Pulmonary embolism with mention of acute cor pulmonale
+Heart failure,I27.9,"Pulmonary heart disease, unspecified"
+Heart failure,I50.9,"Heart failure, unspecified"
+Heart failure,I50.0,Congestive heart failure
+Heart failure,I50.1,Left ventricular failure

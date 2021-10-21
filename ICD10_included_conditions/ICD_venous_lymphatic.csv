@@ -1,0 +1,34 @@
+Disease,ICD10code,ICD10codeDescr
+Peripheral venous and lymphatic disease,I80.1,Phlebitis and thrombophlebitis of femoral vein
+Peripheral venous and lymphatic disease,I83,Varicose veins of lower extremities
+Peripheral venous and lymphatic disease,I83.0,Varicose veins of lower extremities with ulcer
+Peripheral venous and lymphatic disease,I83.1,Varicose veins of lower extremities with inflammation
+Peripheral venous and lymphatic disease,I83.2,Varicose veins of lower extremities with both ulcer and inflammation
+Peripheral venous and lymphatic disease,I83.9,Varicose veins of lower extremities without ulcer or inflammation
+Peripheral venous and lymphatic disease,I86,Varicose veins of other sites
+Peripheral venous and lymphatic disease,I86.8,Varicose veins of other specified sites
+Peripheral venous and lymphatic disease,I87,Other disorders of veins
+Peripheral venous and lymphatic disease,I87.1,Compression of vein
+Peripheral venous and lymphatic disease,I87.8,Other specified disorders of veins
+Peripheral venous and lymphatic disease,I87.9,"Disorder of vein, unspecified"
+Peripheral venous and lymphatic disease,I89,Other noninfective disorders of lymphatic vessels and lymph nodes
+Peripheral venous and lymphatic disease,I89.8,Other specified noninfective disorders of lymphatic vessels and lymph nodes
+Peripheral venous and lymphatic disease,I89.9,"Noninfective disorder of lymphatic vessels and lymph nodes, unspecified"
+Peripheral venous and lymphatic disease,K75.1,Phlebitis of portal vein
+Peripheral venous and lymphatic disease,O22.0,Varicose veins of lower extremity in pregnancy
+Peripheral venous and lymphatic disease,Q26,Congenital malformations of great veins
+Peripheral venous and lymphatic disease,Q26.6,Portal vein-hepatic artery fistula
+Peripheral venous and lymphatic disease,Q26.8,Other congenital malformations of great veins
+Peripheral venous and lymphatic disease,Q26.9,"Congenital malformation of great vein, unspecified"
+Peripheral venous and lymphatic disease,I78.0,Hereditary haemorrhagic telangiectasia
+Peripheral venous and lymphatic disease,I97.2,Postmastectomy lymphoedema syndrome
+Peripheral venous and lymphatic disease,Q82.0,Hereditary lymphoedema
+Peripheral venous and lymphatic disease,I89.0,"Lymphoedema, not elsewhere classified"
+Peripheral venous and lymphatic disease,I89.1,Lymphangitis
+Peripheral venous and lymphatic disease,I87.0,Postthrombotic syndrome
+Peripheral venous and lymphatic disease,I87.2,Venous insufficiency (chronic)(peripheral)
+Peripheral venous and lymphatic disease,O22.9,"Venous complication in pregnancy, unspecified"
+Peripheral venous and lymphatic disease,O87.8,Other venous complications in the puerperium
+Peripheral venous and lymphatic disease,E14.5,Unspecified diabetes mellitus with peripheral circulatory complications
+Peripheral venous and lymphatic disease,E11.5,Type 2 diabetes mellitus with peripheral circulatory complications
+Peripheral venous and lymphatic disease,E10.5,Type 1 diabetes mellitus with peripheral circulatory complications

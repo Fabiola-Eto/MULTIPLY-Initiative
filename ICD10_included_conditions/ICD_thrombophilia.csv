@@ -1,0 +1,5 @@
+Disease,ICD10code,ICD10codeDescr
+Thrombophilia,D68.5,Primary Thrombophilia
+Thrombophilia,D68.6,Other Thrombophilia
+Thrombophilia,D68.2,Hereditary deficiency of other clotting factors
+Thrombophilia,D68.8,Other specified coagulation defects

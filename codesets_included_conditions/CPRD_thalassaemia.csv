@@ -1,0 +1,17 @@
+Disease,ReadCode,MedCode,ReadTerm
+Thalassaemia,D104000,31405,Thalassaemia major NEC
+Thalassaemia,D104011,45151,Thalassaemia major - Cooley's anaemia
+Thalassaemia,D104200,54429,Thalassaemia with haemoglobin S disease
+Thalassaemia,D104211,31075,Sickle-cell thalassaemia
+Thalassaemia,D104300,8866,Alpha thalassaemia
+Thalassaemia,D104311,37808,Homozygous alpha thalassaemia
+Thalassaemia,D104600,57144,Beta intermedia thalassaemia
+Thalassaemia,D104700,46733,Beta major thalassaemia
+Thalassaemia,D104811,21643,Beta thalassaemia
+Thalassaemia,D104900,32943,Delta-beta thalassaemia
+Thalassaemia,D104A00,71992,Hereditary leptocytosis
+Thalassaemia,D104.00,1171,Thalassaemia
+Thalassaemia,D104.12,105439,Mediterranean anaemia
+Thalassaemia,D104z00,4666,Thalassaemia NOS
+Thalassaemia,D104z11,66137,Mediterranean anaemia
+Thalassaemia,Dyu1100,73946,[X]Other thalassaemias

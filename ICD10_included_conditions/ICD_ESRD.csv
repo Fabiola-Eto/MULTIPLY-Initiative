@@ -1,0 +1,12 @@
+Disease,ICD10code,ICD10codeDescr
+End stage renal disease,T82.4,Mechanical complication of vascular dialysis catheter
+End stage renal disease,Y60.2,During kidney dialysis or other perfusion
+End stage renal disease,Y61.2,During kidney dialysis or other perfusion
+End stage renal disease,Y84.1,Kidney dialysis
+End stage renal disease,Z49.1,Extracorporeal dialysis
+End stage renal disease,Z49.2,Other dialysis
+End stage renal disease,Z99.2,Dependence on renal dialysis
+End stage renal disease,N16.5,Renal tubulo-interstitial disorders in transplant rejection
+End stage renal disease,T86.1,Kidney transplant failure and rejection
+End stage renal disease,Z94.0,Kidney transplant status
+End stage renal disease,N18.5,"Chronic kidney disease, stage 5"

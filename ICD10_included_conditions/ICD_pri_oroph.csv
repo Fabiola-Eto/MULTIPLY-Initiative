@@ -1,0 +1,79 @@
+Disease,ICD10code,ICD10codeDescr
+Primary Malignancy_Oro-pharyngeal,C00,Malignant neoplasm of lip
+Primary Malignancy_Oro-pharyngeal,C01,Malignant neoplasm of base of tongue
+Primary Malignancy_Oro-pharyngeal,C02,Malignant neoplasm of other and unspecified parts of tongue
+Primary Malignancy_Oro-pharyngeal,C03,Malignant neoplasm of gum
+Primary Malignancy_Oro-pharyngeal,C04,Malignant neoplasm of floor of mouth
+Primary Malignancy_Oro-pharyngeal,C05,Malignant neoplasm of palate
+Primary Malignancy_Oro-pharyngeal,C06,Malignant neoplasm of other and unspecified parts of mouth
+Primary Malignancy_Oro-pharyngeal,C07,Malignant neoplasm of parotid gland
+Primary Malignancy_Oro-pharyngeal,C08,Malignant neoplasm of other and unspecified major salivary glands
+Primary Malignancy_Oro-pharyngeal,C09,Malignant neoplasm of tonsil
+Primary Malignancy_Oro-pharyngeal,C10,Malignant neoplasm of oropharynx
+Primary Malignancy_Oro-pharyngeal,C11,Malignant neoplasm of nasopharynx
+Primary Malignancy_Oro-pharyngeal,C12,Malignant neoplasm of piriform sinus
+Primary Malignancy_Oro-pharyngeal,C13,Malignant neoplasm of hypopharynx
+Primary Malignancy_Oro-pharyngeal,C14,Malignant neoplasm of other and ill-defined sites in the lip oral cavity and pharynx
+Primary Malignancy_Oro-pharyngeal,C00.0,Malignant neoplasm: External upper lip
+Primary Malignancy_Oro-pharyngeal,C00.1,Malignant neoplasm: External lower lip
+Primary Malignancy_Oro-pharyngeal,C00.3,"Malignant neoplasm: Upper lip, inner aspect"
+Primary Malignancy_Oro-pharyngeal,C00.4,"Malignant neoplasm: Lower lip, inner aspect"
+Primary Malignancy_Oro-pharyngeal,C00.5,"Malignant neoplasm: Lip, unspecified, inner aspect"
+Primary Malignancy_Oro-pharyngeal,C00.6,Malignant neoplasm: Commissure of lip
+Primary Malignancy_Oro-pharyngeal,C00.8,Malignant neoplasm: Overlapping lesion of lip
+Primary Malignancy_Oro-pharyngeal,C00.9,"Malignant neoplasm: Lip, unspecified"
+Primary Malignancy_Oro-pharyngeal,C00.2,"Malignant neoplasm: External lip, unspecified"
+Primary Malignancy_Oro-pharyngeal,C02.0,Malignant neoplasm: Dorsal surface of tongue
+Primary Malignancy_Oro-pharyngeal,C02.1,Malignant neoplasm: Border of tongue
+Primary Malignancy_Oro-pharyngeal,C02.2,Malignant neoplasm: Ventral surface of tongue
+Primary Malignancy_Oro-pharyngeal,C02.3,"Malignant neoplasm: Anterior two-thirds of tongue, part unspecified"
+Primary Malignancy_Oro-pharyngeal,C02.8,Malignant neoplasm: Overlapping lesion of tongue
+Primary Malignancy_Oro-pharyngeal,C02.4,Malignant neoplasm: Lingual tonsil
+Primary Malignancy_Oro-pharyngeal,C02.9,"Malignant neoplasm: Tongue, unspecified"
+Primary Malignancy_Oro-pharyngeal,C08.0,Malignant neoplasm: Submandibular gland
+Primary Malignancy_Oro-pharyngeal,C08.1,Malignant neoplasm: Sublingual gland
+Primary Malignancy_Oro-pharyngeal,C08.9,"Malignant neoplasm: Major salivary gland, unspecified"
+Primary Malignancy_Oro-pharyngeal,C03.0,Malignant neoplasm: Upper gum
+Primary Malignancy_Oro-pharyngeal,C03.1,Malignant neoplasm: Lower gum
+Primary Malignancy_Oro-pharyngeal,C03.9,"Malignant neoplasm: Gum, unspecified"
+Primary Malignancy_Oro-pharyngeal,C04.0,Malignant neoplasm: Anterior floor of mouth
+Primary Malignancy_Oro-pharyngeal,C04.1,Malignant neoplasm: Lateral floor of mouth
+Primary Malignancy_Oro-pharyngeal,C04.8,Malignant neoplasm: Overlapping lesion of floor of mouth
+Primary Malignancy_Oro-pharyngeal,C04.9,"Malignant neoplasm: Floor of mouth, unspecified"
+Primary Malignancy_Oro-pharyngeal,C06.0,Malignant neoplasm: Cheek mucosa
+Primary Malignancy_Oro-pharyngeal,C06.1,Malignant neoplasm: Vestibule of mouth
+Primary Malignancy_Oro-pharyngeal,C05.0,Malignant neoplasm: Hard palate
+Primary Malignancy_Oro-pharyngeal,C05.1,Malignant neoplasm: Soft palate
+Primary Malignancy_Oro-pharyngeal,C05.2,Malignant neoplasm: Uvula
+Primary Malignancy_Oro-pharyngeal,C05.9,"Malignant neoplasm: Palate, unspecified"
+Primary Malignancy_Oro-pharyngeal,C05.8,Malignant neoplasm: Overlapping lesion of palate
+Primary Malignancy_Oro-pharyngeal,C06.2,Malignant neoplasm: Retromolar area
+Primary Malignancy_Oro-pharyngeal,C06.9,"Malignant neoplasm: Mouth, unspecified"
+Primary Malignancy_Oro-pharyngeal,C09.9,"Malignant neoplasm: Tonsil, unspecified"
+Primary Malignancy_Oro-pharyngeal,C09.8,Malignant neoplasm: Overlapping lesion of tonsil
+Primary Malignancy_Oro-pharyngeal,C09.0,Malignant neoplasm: Tonsillar fossa
+Primary Malignancy_Oro-pharyngeal,C09.1,Malignant neoplasm: Tonsillar pillar (anterior)(posterior)
+Primary Malignancy_Oro-pharyngeal,C10.0,Malignant neoplasm: Vallecula
+Primary Malignancy_Oro-pharyngeal,C10.1,Malignant neoplasm: Anterior surface of epiglottis
+Primary Malignancy_Oro-pharyngeal,C10.8,Malignant neoplasm: Overlapping lesion of oropharynx
+Primary Malignancy_Oro-pharyngeal,C10.2,Malignant neoplasm: Lateral wall of oropharynx
+Primary Malignancy_Oro-pharyngeal,C10.3,Malignant neoplasm: Posterior wall of oropharynx
+Primary Malignancy_Oro-pharyngeal,C10.9,"Malignant neoplasm: Oropharynx, unspecified"
+Primary Malignancy_Oro-pharyngeal,C11.0,Malignant neoplasm: Superior wall of nasopharynx
+Primary Malignancy_Oro-pharyngeal,C11.1,Malignant neoplasm: Posterior wall of nasopharynx
+Primary Malignancy_Oro-pharyngeal,C11.2,Malignant neoplasm: Lateral wall of nasopharynx
+Primary Malignancy_Oro-pharyngeal,C11.3,Malignant neoplasm: Anterior wall of nasopharynx
+Primary Malignancy_Oro-pharyngeal,C11.8,Malignant neoplasm: Overlapping lesion of nasopharynx
+Primary Malignancy_Oro-pharyngeal,C11.9,"Malignant neoplasm: Nasopharynx, unspecified"
+Primary Malignancy_Oro-pharyngeal,C13.0,Malignant neoplasm: Postcricoid region
+Primary Malignancy_Oro-pharyngeal,C13.2,Malignant neoplasm: Posterior wall of hypopharynx
+Primary Malignancy_Oro-pharyngeal,C13.9,"Malignant neoplasm: Hypopharynx, unspecified"
+Primary Malignancy_Oro-pharyngeal,C14.0,"Malignant neoplasm: Pharynx, unspecified"
+Primary Malignancy_Oro-pharyngeal,C14.2,Malignant neoplasm: Waldeyer ring
+Primary Malignancy_Oro-pharyngeal,C14.8,"Malignant neoplasm: Overlapping lesion of lip, oral cavity and pharynx"
+Primary Malignancy_Oro-pharyngeal,C32.0,Malignant neoplasm: Glottis
+Primary Malignancy_Oro-pharyngeal,C32.1,Malignant neoplasm: Supraglottis
+Primary Malignancy_Oro-pharyngeal,C32.2,Malignant neoplasm: Subglottis
+Primary Malignancy_Oro-pharyngeal,C32.3,Malignant neoplasm: Laryngeal cartilage
+Primary Malignancy_Oro-pharyngeal,C32.8,Malignant neoplasm: Overlapping lesion of larynx
+Primary Malignancy_Oro-pharyngeal,C32.9,"Malignant neoplasm: Larynx, unspecified"

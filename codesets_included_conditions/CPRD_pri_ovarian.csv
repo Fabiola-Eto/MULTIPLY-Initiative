@@ -1,0 +1,8 @@
+Disease,ReadCode,MedCode,ReadTerm
+Primary malignancy ovarian,B440.00,7805,Malignant neoplasm of ovary
+Primary malignancy ovarian,B440.11,1986,Cancer of ovary
+Primary malignancy ovarian,BB5j200,9447,[M]Endometrioid carcinoma
+Primary malignancy ovarian,BB5j500,103034,"[M]Endometrioid adenofibroma, malignant"
+Primary malignancy ovarian,BBQA100,71301,"[M]Struma ovarii, malignant"
+Primary malignancy ovarian,D212000,48145,Anaemia in ovarian carcinoma
+Primary malignancy ovarian,ZV10414,52141,[V]Personal history of malignant neoplasm of ovary

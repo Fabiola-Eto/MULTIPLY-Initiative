@@ -1,0 +1,7 @@
+Disease,ICD10code,ICD10codeDescr
+Portal hypertension and oesophageal varices,I85,Oesophageal varices
+Portal hypertension and oesophageal varices,I98.2,Oesophageal varices without bleeding in diseases classified elsewhere
+Portal hypertension and oesophageal varices,I98.3,Oesophageal varices with bleeding in diseases classified elsewhere
+Portal hypertension and oesophageal varices,K76.6,Portal hypertension
+Portal hypertension and oesophageal varices,I85.0,Oesophageal varices with bleeding
+Portal hypertension and oesophageal varices,I85.9,Oesophageal varices without bleeding

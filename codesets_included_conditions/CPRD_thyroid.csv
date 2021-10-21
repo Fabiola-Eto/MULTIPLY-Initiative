@@ -1,0 +1,125 @@
+Disease,ReadCode,MedCode,ReadTerm
+Thyroid disease,143..11,4937,H/O: thyroid disorder
+Thyroid disease,1431.00,6245,H/O: hyperthyroidism
+Thyroid disease,1431.11,8038,H/O: thyrotoxicosis
+Thyroid disease,1432.00,3611,H/O: hypothyroidism
+Thyroid disease,1433.00,35608,H/O: thyroid disorder NOS
+Thyroid disease,212P.00,26362,Hyperthyroidism resolved
+Thyroid disease,66B..00,8268,Thyroid disease monitoring
+Thyroid disease,66B4.00,28530,Thyroid eye disease
+Thyroid disease,66BB.00,95885,Hypothyroidism annual review
+Thyroid disease,66BZ.00,28822,Thyroid disease monitoring NOS
+Thyroid disease,8CR5.00,85955,Hypothyroidism clinical management plan
+Thyroid disease,9Oj..00,28735,Hypothyroidism monitoring administration
+Thyroid disease,9Oj0.00,46057,Hypothyroidism monitoring first letter
+Thyroid disease,9Oj1.00,46630,Hypothyroidism monitoring second letter
+Thyroid disease,9Oj2.00,46640,Hypothyroidism monitoring third letter
+Thyroid disease,9Oj3.00,19367,Hypothyroidism monitoring verbal invite
+Thyroid disease,9Oj4.00,85661,Hypothyroidism monitoring telephone invitation
+Thyroid disease,C02..00,677,Thyrotoxicosis
+Thyroid disease,C02..11,1472,Hyperthyroidism
+Thyroid disease,C02..12,10760,Toxic goitre
+Thyroid disease,C020.00,23315,Toxic diffuse goitre
+Thyroid disease,C020.11,44405,Basedow's disease
+Thyroid disease,C020.12,5257,Graves' disease
+Thyroid disease,C020000,26702,Toxic diffuse goitre with no crisis
+Thyroid disease,C020100,57011,Toxic diffuse goitre with crisis
+Thyroid disease,C020200,100476,Thyroid-associated dermopathy
+Thyroid disease,C020z00,49334,Toxic diffuse goitre NOS
+Thyroid disease,C021.00,53280,Toxic uninodular goitre
+Thyroid disease,C021000,26869,Toxic uninodular goitre with no crisis
+Thyroid disease,C021z00,61498,Toxic uninodular goitre NOS
+Thyroid disease,C022.00,11426,Toxic multinodular goitre
+Thyroid disease,C022000,46985,Toxic multinodular goitre with no crisis
+Thyroid disease,C022z00,53981,Toxic multinodular goitre NOS
+Thyroid disease,C023.00,15790,Toxic nodular goitre unspecified
+Thyroid disease,C023000,68512,Toxic nodular goitre unspecified with no crisis
+Thyroid disease,C023100,100004,Toxic nodular goitre unspecified with crisis
+Thyroid disease,C023z00,49361,Toxic nodular goitre NOS
+Thyroid disease,C02y.00,43136,Thyrotoxicosis of other specified origin
+Thyroid disease,C02y000,51273,Thyrotoxicosis of other specified origin with no crisis
+Thyroid disease,C02y100,106532,Thyrotoxicosis of other specified origin with crisis
+Thyroid disease,C02y300,19205,Thyroid crisis
+Thyroid disease,C02yz00,34220,Thyrotoxicosis of other specified origin NOS
+Thyroid disease,C02z.00,15565,Thyrotoxicosis without mention of goitre or other cause
+Thyroid disease,C02z000,26701,Thyrotoxicosis without mention of goitre or cause no crisis
+Thyroid disease,C02z100,3194,"Thyrotoxicosis without mention of goitre, cause with crisis"
+Thyroid disease,C02zz00,26699,Thyrotoxicosis NOS
+Thyroid disease,C03..00,10097,Congenital hypothyroidism
+Thyroid disease,C03..11,67513,Cretinism
+Thyroid disease,C030.00,11892,Pendred's syndrome
+Thyroid disease,C031.00,47449,Goitrous cretin
+Thyroid disease,C03y.00,69290,Other specified congenital hypothyroidism
+Thyroid disease,C03y000,31612,Congenital hypothyroidism with diffuse goitre
+Thyroid disease,C03y100,93159,Congenital hypothyroidism without goitre
+Thyroid disease,C03z.00,51481,Congenital hypothyroidism NOS
+Thyroid disease,C03z.11,93323,Congenital thyroid insufficiency
+Thyroid disease,C03z.12,27533,Cretinism
+Thyroid disease,C04..00,3290,Acquired hypothyroidism
+Thyroid disease,C04..11,1619,Myxoedema
+Thyroid disease,C04..12,14704,Thyroid deficiency
+Thyroid disease,C04..13,273,Hypothyroidism
+Thyroid disease,C040.00,28852,Postsurgical hypothyroidism
+Thyroid disease,C040.11,47521,Post ablative hypothyroidism
+Thyroid disease,C041.00,50275,Other postablative hypothyroidism
+Thyroid disease,C041000,11322,Irradiation hypothyroidism
+Thyroid disease,C041z00,51706,Postablative hypothyroidism NOS
+Thyroid disease,C042.00,34221,Iodine hypothyroidism
+Thyroid disease,C043.00,25913,Other iatrogenic hypothyroidism
+Thyroid disease,C043000,15743,Hypothyroidism resulting from para-aminosalicylic acid
+Thyroid disease,C043100,97090,Hypothyroidism resulting from phenylbutazone
+Thyroid disease,C043200,94915,Hypothyroidism resulting from resorcinol
+Thyroid disease,C043z00,38976,Iatrogenic hypothyroidism NOS
+Thyroid disease,C044.00,50860,Postinfectious hypothyroidism
+Thyroid disease,C045.00,46345,Acquired atrophy of thyroid
+Thyroid disease,C046.00,31971,Autoimmune myxoedema
+Thyroid disease,C047.00,95830,Subclinical hypothyroidism
+Thyroid disease,C04y.00,24748,Other acquired hypothyroidism
+Thyroid disease,C04z.00,3941,Hypothyroidism NOS
+Thyroid disease,C04z.11,20310,Pretibial myxoedema - hypothyroid
+Thyroid disease,C04z.12,23014,Thyroid insufficiency
+Thyroid disease,C04z.13,18282,"Hypothyroid goitre, acquired"
+Thyroid disease,C04z000,56722,Premature puberty due to hypothyroidism
+Thyroid disease,C04z100,59702,Myxoedema coma
+Thyroid disease,C05..00,1346,Thyroiditis
+Thyroid disease,C052.00,26833,Chronic lymphocytic thyroiditis
+Thyroid disease,C052.11,3857,Autoimmune thyroiditis
+Thyroid disease,C052.12,3436,Hashimoto's disease
+Thyroid disease,C053.00,70244,Chronic fibrous thyroiditis
+Thyroid disease,C05y.00,65444,Other and unspecified chronic thyroiditis
+Thyroid disease,C05y400,65907,Chronic thyroiditis with transient thyrotoxicosis
+Thyroid disease,C05z.00,20909,Thyroiditis NOS
+Thyroid disease,C06y100,69113,Thyroid atrophy
+Thyroid disease,C134300,11146,TSH - thyroid-stimulating hormone deficiency
+Thyroid disease,Cyu1100,73107,[X]Other sp cified hypothyroidism
+Thyroid disease,Cyu1300,72690,[X]Other thyrotoxicosis
+Thyroid disease,Cyu1400,95335,[X]Other chronic thyroiditis
+Thyroid disease,F11x500,47658,Cerebral degeneration due to myxoedema
+Thyroid disease,F381400,61069,Myasthenic syndrome due to hypothyroidism
+Thyroid disease,F381600,47695,Myasthenic syndrome due to thyrotoxicosis
+Thyroid disease,F395300,51416,Myopathy due to myxoedema
+Thyroid disease,F395400,48167,Myopathy due to thyrotoxicosis
+Thyroid disease,F4G2000,1567,Thyrotoxic exophthalmos
+Thyroid disease,FyuBD00,68626,[X]Dysthyroid exophthalmos
+Thyroid disease,G557500,20035,Thyrotoxic heart disease
+Thyroid disease, 7113y00 ,61197, Other specified other operation on thyroid gland 
+Thyroid disease, C051.11 ,21747, De Quervain's thyroiditis 
+Thyroid disease, C000.13 ,2572, Thyroid nodule 
+Thyroid disease, 7113z00 ,40542, Other operation on thyroid gland NOS 
+Thyroid disease, C024z00 ,56270, Thyrotoxicosis from ectopic thyroid nodule NOS 
+Thyroid disease,7110000,8384, Total thyroidectomy 
+Thyroid disease, C024000 ,64656, Thyrotoxicosis from ectopic thyroid nodule with no crisis 
+Thyroid disease, C000.12 ,60288, Substernal thyroid goitre 
+Thyroid disease, C0A5.00 ,718, Subclinical iodine-deficiency hypothyroidism 
+Thyroid disease, PK25011 ,10704, Retrosternal thyroid gland 
+Thyroid disease, C053.11 ,53667, Riedel's thyroiditis 
+Thyroid disease,7110600,34289, Thyroidectomy NEC 
+Thyroid disease,7110.00,7712, Thyroidectomy operations 
+Thyroid disease,7110.11,25323, Excision of thyroid gland operations 
+Thyroid disease, C06y.00 ,43245, Other specified thyroid disorders 
+Thyroid disease, L181500 ,11947, Postpartum thyroiditis 
+Thyroid disease, 7110y00 ,38650, Other specified thyroidectomy 
+Thyroid disease,7110111,16784, Bilateral subtotal thyroidectomy 
+Thyroid disease, L181400 ,115326, Thyroid dysfunction in puerperium- baby previously delivered 
+Thyroid disease, C024.00 ,49508, Thyrotoxicosis from ectopic thyroid nodule 
+Thyroid disease, C051.00 ,30799, Subacute thyroiditis 

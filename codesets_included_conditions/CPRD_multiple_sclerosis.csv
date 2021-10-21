@@ -1,0 +1,26 @@
+Disease,ReadCode,MedCode,ReadTerm
+Multiple sclerosis,666A.00,44985,Multiple sclerosis review
+Multiple sclerosis,666B.00,43232,Multiple sclerosis multidisciplinary review
+Multiple sclerosis,8Cc0.00,98835,Management of multiple sclerosis in onset phase
+Multiple sclerosis,8Cc1.00,97487,Management of multiple sclerosis in early disease phase
+Multiple sclerosis,8Cc2.00,95864,Management of multiple sclerosis in stable disability phase
+Multiple sclerosis,8Cc4.00,98521,Management of multiple sclerosis in palliative phase
+Multiple sclerosis,8CS1.00,50161,Multiple sclerosis care plan agreed
+Multiple sclerosis,8IAb.00,100503,Multiple sclerosis review declined
+Multiple sclerosis,9kG..00,48527,Spec serv for pat with multiple sclerosis - enh serv admin
+Multiple sclerosis,9mD..00,106307,Multiple sclerosis monitoring administration
+Multiple sclerosis,9mD0.00,109049,Multiple sclerosis monitoring first letter
+Multiple sclerosis,9mD1.00,109302,Multiple sclerosis monitoring second letter
+Multiple sclerosis,F20..00,684,Multiple sclerosis
+Multiple sclerosis,F20..11,3440,Disseminated sclerosis
+Multiple sclerosis,F200.00,40344,Multiple sclerosis of the brain stem
+Multiple sclerosis,F201.00,69886,Multiple sclerosis of the spinal cord
+Multiple sclerosis,F202.00,23730,Generalised multiple sclerosis
+Multiple sclerosis,F203.00,2298,Exacerbation of multiple sclerosis
+Multiple sclerosis,F204.00,96291,Benign multiple sclerosis
+Multiple sclerosis,F206.00,96607,Primary progressive multiple sclerosis
+Multiple sclerosis,F207.00,95972,Relapsing and remitting multiple sclerosis
+Multiple sclerosis,F208.00,96246,Secondary progressive multiple sclerosis
+Multiple sclerosis,F20z.00,20493,Multiple sclerosis NOS
+Multiple sclerosis,8Hkv.00 ,103740, Referral to community multiple sclerosis team
+Multiple sclerosis,9mD2.00 ,112194, Multiple sclerosis monitoring telephone invitation

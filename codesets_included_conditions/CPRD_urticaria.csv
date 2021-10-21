@@ -1,0 +1,31 @@
+Disease,ReadCode,MedCode,ReadTerm
+Urticaria,2F82.00,39255,O/E - weals present
+Urticaria,2F8..00,7031,O/E - weals present
+Urticaria,2F8Z.00,65374,O/E - weals NOS
+Urticaria,M12A200,15310,Solar urticaria
+Urticaria,M280.00,6400,Allergic urticaria
+Urticaria,M280.11,38554,Drug induced urticaria
+Urticaria,M281.00,8948,Idiopathic urticaria
+Urticaria,M282000,7651,Cold urticaria
+Urticaria,M282100,30016,Thermal urticaria
+Urticaria,M282111,17710,Heat urticaria
+Urticaria,M282.00,16294,Urticaria due to cold and heat
+Urticaria,M282z00,45386,Urticaria due to cold and heat NOS
+Urticaria,M283.00,1594,Dermatographic urticaria
+Urticaria,M283.11,43163,Factitial urticaria
+Urticaria,M284.00,20919,Vibratory urticaria
+Urticaria,M285.00,9041,Cholinergic urticaria
+Urticaria,M286.00,6678,Contact urticaria
+Urticaria,M287.00,24845,Physical urticaria
+Urticaria,M28..00,1272,Urticaria
+Urticaria,M28y000,20986,Urticaria geographica
+Urticaria,M28y100,50836,Menstrual urticaria
+Urticaria,M28y200,51725,Urticaria persistans
+Urticaria,M28y.00,1869,Other specified urticaria
+Urticaria,M28y.11,11883,Nettle rash
+Urticaria,M28yz00,23645,Other specified urticaria NOS
+Urticaria,M28z.00,15138,Urticaria NOS
+Urticaria,M28z.11,7244,Hives
+Urticaria,Myu4000,49257,[X]Other urticaria
+Urticaria,Myu4.00,70628,[X]Urticaria and erythema
+Urticaria,PH32100,1876,Urticaria pigmentosa

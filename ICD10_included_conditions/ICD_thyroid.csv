@@ -1,0 +1,34 @@
+Disease,ICD10code,ICD10codeDescr
+Thyroid disease,E03.5,Myxoedema coma
+Thyroid disease,E03.8,Other specified hypothyroidism
+Thyroid disease,E03.9,Hypothyroidism unspecified
+Thyroid disease,E05.0,Thyrotoxicosis with diffuse goitre
+Thyroid disease,E05.1,Thyrotoxicosis with toxic single thyroid nodule
+Thyroid disease,E05.2,Thyrotoxicosis with toxic multinodular goitre
+Thyroid disease,E05.5,Thyroid crisis or storm
+Thyroid disease,E05.8,Other thyrotoxicosis
+Thyroid disease,E05.9,Thyrotoxicosis unspecified
+Thyroid disease,E06.2,Chronic thyroiditis with transient thyrotoxicosis
+Thyroid disease,E06.3,Autoimmune thyroiditis
+Thyroid disease,E06.5,Other chronic thyroiditis
+Thyroid disease,E06.9,Thyroiditis unspecified
+Thyroid disease,H06.2,Dysthyroid exophthalmos
+Thyroid disease,E04.0,Nontoxic diffuse goitre
+Thyroid disease,E05,Thyrotoxicosis [hyperthyroidism]
+Thyroid disease,E05.3,Thyrotoxicosis from ectopic thyroid tissue
+Thyroid disease,E05.9,"Thyrotoxicosis, unspecified"
+Thyroid disease,E03.1,Congenital hypothyroidism without goitre
+Thyroid disease,E07.1,Dyshormogenetic goitre
+Thyroid disease,E00.9,"Congenital iodine-deficiency syndrome, unspecified"
+Thyroid disease,E03.0,Congenital hypothyroidism with diffuse goitre
+Thyroid disease,E03.9,"Hypothyroidism, unspecified"
+Thyroid disease,E89.0,Postprocedural hypothyroidism
+Thyroid disease,E01.8,Other iodine-deficiency-related thyroid disorders and allied conditions
+Thyroid disease,E03.2,Hypothyroidism due to medicaments and other exogenous substances
+Thyroid disease,E03.3,Postinfectious hypothyroidism
+Thyroid disease,E03.4,Atrophy of thyroid (acquired)
+Thyroid disease,E06.1,Subacute thyroiditis
+Thyroid disease,E06.9,"Thyroiditis, unspecified"
+Thyroid disease,E07.8,Other specified disorders of thyroid
+Thyroid disease,E02,Subclinical iodine-deficiency hypothyroidism
+Thyroid disease,O90.5,Postpartum thyroiditis

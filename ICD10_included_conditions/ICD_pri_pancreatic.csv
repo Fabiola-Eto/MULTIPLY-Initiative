@@ -1,0 +1,11 @@
+Disease,ICD10code,ICD10codeDescr
+Primary malignancy pancreatic,C25,Malignant neoplasm of pancreas
+Primary malignancy pancreatic,C25.0,Malignant neoplasm: Head of pancreas
+Primary malignancy pancreatic,C25.1,Malignant neoplasm: Body of pancreas
+Primary malignancy pancreatic,C25.2,Malignant neoplasm: Tail of pancreas
+Primary malignancy pancreatic,C25.3,Malignant neoplasm: Pancreatic duct
+Primary malignancy pancreatic,C25.4,Malignant neoplasm: Endocrine pancreas
+Primary malignancy pancreatic,C25.8,Malignant neoplasm: Overlapping lesion of pancreas
+Primary malignancy pancreatic,C25.7,Malignant neoplasm: Other parts of pancreas
+Primary malignancy pancreatic,C25.9,"Malignant neoplasm: Pancreas, unspecified"
+

@@ -1,0 +1,6 @@
+Disease,ICD10code,ICD10codeDescr
+ADHD and hyperkinetic disorders,F90,Hyperkinetic disorders
+ADHD and hyperkinetic disorders,F90.0,Disturbance of activity and attention
+ADHD and hyperkinetic disorders,F90.1,Hyperkinetic conduct disorder
+ADHD and hyperkinetic disorders,F90.8,Other hyperkinetic disorders
+ADHD and hyperkinetic disorders,F90.9,"Hyperkinetic disorder, unspecified"

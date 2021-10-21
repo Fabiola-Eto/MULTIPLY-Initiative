@@ -1,0 +1,13 @@
+Disease,ICD10code,ICD10codeDescr
+Diabetic eye disease,H35.0,Background retinopathy and retinal vascular changes
+Diabetic eye disease,H35.2,Other proliferative retinopathy
+Diabetic eye disease,E10.3,Insulin-dependent diabetes mellitus - With ophthalmic complications
+Diabetic eye disease,E11.3,Non-insulin-dependent diabetes mellitus - With ophthalmic complications
+Diabetic eye disease,E12.3,Malnutrition-related diabetes mellitus - With ophthalmic complications
+Diabetic eye disease,E13.3,Other specified diabetes mellitus - With ophthalmic complications
+Diabetic eye disease,E14.3,Unspecified diabetes mellitus - With ophthalmic complications
+Diabetic eye disease,H28.0,Diabetic cataract
+Diabetic eye disease,H36.0,Diabetic retinopathy
+Diabetic eye disease,E11.3,Type 2 diabetes mellitus with ophthalmic complications
+Diabetic eye disease,H280,Diabetic cataract
+Diabetic eye disease,H360,Diabetic retinopathy

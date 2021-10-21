@@ -1,0 +1,21 @@
+Disease,ReadCode,MedCode,ReadTerm
+Primary malignancy liver,B150000,16126,Primary carcinoma of liver
+Primary malignancy liver,B150100,31210,Hepatoblastoma of liver
+Primary malignancy liver,B150200,68410,Primary angiosarcoma of liver
+Primary malignancy liver,B150300,22187,Hepatocellular carcinoma
+Primary malignancy liver,B150.00,25535,Primary malignant neoplasm of liver
+Primary malignancy liver,B150z00,44399,Primary malignant neoplasm of liver NOS
+Primary malignancy liver,B152.00,26393,Malignant neoplasm of liver unspecified
+Primary malignancy liver,BB5D500,40240,[M]Hepatocellular carcinoma NOS
+Primary malignancy liver,BB5D511,20234,[M]Hepatoma NOS
+Primary malignancy liver,BB5D512,26814,"[M]Hepatoma, malignant"
+Primary malignancy liver,BB5D513,25641,[M]Liver cell carcinoma
+Primary malignancy liver,BB5D700,107299,[M]Combined hepatocellular carcinoma and cholangiocarcinoma
+Primary malignancy liver,BB5D711,110147,[M]Hepatocholangiocarcinoma
+Primary malignancy liver,BB5D800,46771,"[M]Hepatocellular carcinoma, fibrolamellar"
+Primary malignancy liver,Byu1100,43490,[X]Other specified carcinomas of liver
+Primary malignancy liver,ZV10015,58177,[V]Personal history of malignant neoplasm of liver
+Primary malignancy liver,B15..00,8918,Malignant neoplasm of liver and intrahepatic bile ducts
+Primary malignancy liver,B15z.00,38978,Malignant neoplasm of liver and intrahepatic bile ducts NOS
+Primary malignancy liver,B903.00,71427,Neoplasm of uncertain behaviour of liver and biliary passage
+Primary malignancy liver,B903000,40520,Neoplasm of uncertain behaviour of liver

@@ -1,0 +1,31 @@
+Disease,ICD10code,ICD10codeDescr
+"Primary malignancy brain, other CNS and intracranial",C70,Malignant neoplasm of meninges
+"Primary malignancy brain, other CNS and intracranial",C71,Malignant neoplasm of brain
+"Primary malignancy brain, other CNS and intracranial",C72,Malignant neoplasm of spinal cord cranial nerves and other parts of central nervous system
+"Primary malignancy brain, other CNS and intracranial",C75.1,Malignant neoplasm: Pituitary gland
+"Primary malignancy brain, other CNS and intracranial",C75.2,Malignant neoplasm: Craniopharyngeal duct
+"Primary malignancy brain, other CNS and intracranial",C75.3,Malignant neoplasm: Pineal gland
+"Primary malignancy brain, other CNS and intracranial",C75.4,Malignant neoplasm: Carotid body
+"Primary malignancy brain, other CNS and intracranial",C75.5,Malignant neoplasm: Aortic body and other paraganglia
+"Primary malignancy brain, other CNS and intracranial",C71.9,"Malignant neoplasm: Brain, unspecified"
+"Primary malignancy brain, other CNS and intracranial",C71.0,"Malignant neoplasm: Cerebrum, except lobes and ventricles"
+"Primary malignancy brain, other CNS and intracranial",C71.1,Malignant neoplasm: Frontal lobe
+"Primary malignancy brain, other CNS and intracranial",C71.2,Malignant neoplasm: Temporal lobe
+"Primary malignancy brain, other CNS and intracranial",C71.3,Malignant neoplasm: Parietal lobe
+"Primary malignancy brain, other CNS and intracranial",C71.4,Malignant neoplasm: Occipital lobe
+"Primary malignancy brain, other CNS and intracranial",C71.5,Malignant neoplasm: Cerebral ventricle
+"Primary malignancy brain, other CNS and intracranial",C71.6,Malignant neoplasm: Cerebellum
+"Primary malignancy brain, other CNS and intracranial",C71.7,Malignant neoplasm: Brain stem
+"Primary malignancy brain, other CNS and intracranial",C71.8,Malignant neoplasm: Overlapping lesion of brain
+"Primary malignancy brain, other CNS and intracranial",C72.5,Malignant neoplasm: Other and unspecified cranial nerves
+"Primary malignancy brain, other CNS and intracranial",C72.2,Malignant neoplasm: Olfactory nerve
+"Primary malignancy brain, other CNS and intracranial",C72.3,Malignant neoplasm: Optic nerve
+"Primary malignancy brain, other CNS and intracranial",C72.4,Malignant neoplasm: Acoustic nerve
+"Primary malignancy brain, other CNS and intracranial",C70.0,Malignant neoplasm: Cerebral meninges
+"Primary malignancy brain, other CNS and intracranial",C72.0,Malignant neoplasm: Spinal cord
+"Primary malignancy brain, other CNS and intracranial",C70.1,Malignant neoplasm: Spinal meninges
+"Primary malignancy brain, other CNS and intracranial",C72.1,Malignant neoplasm: Cauda equina
+"Primary malignancy brain, other CNS and intracranial",C70.9,"Malignant neoplasm: Meninges, unspecified"
+"Primary malignancy brain, other CNS and intracranial",C49.5,Malignant neoplasm: Connective and soft tissue of pelvis
+"Primary malignancy brain, other CNS and intracranial",D43.9,"Neoplasm of uncertain or unknown behaviour: Central nervous system, unspecified"
+"Primary malignancy brain, other CNS and intracranial",D43.2,"Neoplasm of uncertain or unknown behaviour: Brain, unspecified"

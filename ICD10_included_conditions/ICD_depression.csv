@@ -1,0 +1,28 @@
+Disease,ICD10code,ICD10codeDescr
+Depression,F32,Depressive episode
+Depression,F33,Recurrent depressive disorder
+Depression,F20.4,Post-schizophrenic depression
+Depression,F25.1,"Schizoaffective disorder, depressive type"
+Depression,F32.0,Mild depressive episode
+Depression,F32.1,Moderate depressive episode
+Depression,F32.2,Severe depressive episode without psychotic symptoms
+Depression,F32.3,Severe depressive episode with psychotic symptoms
+Depression,F32.8,Other depressive episodes
+Depression,F32.9,"Depressive episode, unspecified"
+Depression,F33.0,"Recurrent depressive disorder, current episode mild"
+Depression,F33.1,"Recurrent depressive disorder, current episode moderate"
+Depression,F33.2,"Recurrent depressive disorder, current episode severe without psychotic symptoms"
+Depression,F33.3,"Recurrent depressive disorder, current episode severe with psychotic symptoms"
+Depression,F33.4,"Recurrent depressive disorder, currently in remission"
+Depression,F33.8,Other recurrent depressive disorders
+Depression,F33.9,"Recurrent depressive disorder, unspecified"
+Depression,F34,Persistent mood [affective] disorders
+Depression,F34.0,Cyclothymia
+Depression,F34.1,Dysthymia
+Depression,F34.8,Other persistent mood [affective] disorders
+Depression,F34.9,"Persistent mood [affective] disorder, unspecified"
+Depression,F38,Other mood [affective] disorders
+Depression,F38.0,Other single mood [affective] disorders
+Depression,F38.1,Other recurrent mood [affective] disorders
+Depression,F41.2,Mixed anxiety and depressive disorder
+Depression,F92.0,Depressive conduct disorder

@@ -1,0 +1,15 @@
+Disease,ReadCode,MedCode,ReadTerm
+Seborrheic dermatitis,M101.00,359,Seborrhoeic dermatitis
+Seborrheic dermatitis,M101.12,653,Seborrhoeic eczema
+Seborrheic dermatitis,M263.00,2556,Seborrhoea
+Seborrheic dermatitis,M100.00,3069,Pityriasis capitis - dandruff
+Seborrheic dermatitis,M244.11,3453,Seborrhoea capitis
+Seborrheic dermatitis,M101.11,7425,Seborrhoeic dermatitis capitis
+Seborrheic dermatitis,M165100,18970,Pityriasis folliculorum
+Seborrheic dermatitis,M263z00,20150,Seborrhoea NOS
+Seborrheic dermatitis,M263100,35810,Seborrhoea faciei
+Seborrheic dermatitis,M263000,38493,Seborrhoea corporis
+Seborrheic dermatitis,Myu2000,48473,[X]Other seborrhoeic dermatitis
+Seborrheic dermatitis,M165200,48641,Pityriasis streptogenes
+Seborrheic dermatitis,M263200,62750,Seborrhoea nasi
+Seborrheic dermatitis,M263300,65283,Seborrhoea oleosa
