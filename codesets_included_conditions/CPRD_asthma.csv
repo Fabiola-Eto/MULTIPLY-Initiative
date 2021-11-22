@@ -1,4 +1,4 @@
-"Condition","ReadCode","MedCode","ReadTerm"
+"Disease","ReadCode","MedCode","ReadTerm"
 "Asthma","14B4.00",719,"H/O: asthma"
 "Asthma","173A.00",5867,"Exercise induced asthma"
 "Asthma","173c.00",22752,"Occupational asthma"
