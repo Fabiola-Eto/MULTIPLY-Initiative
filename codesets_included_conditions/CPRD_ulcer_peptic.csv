@@ -1,4 +1,4 @@
-"Condition","ReadCode","MedCode","ReadTerm"
+"Disease","ReadCode","MedCode","ReadTerm"
 "Peptic ulcer disease","14C1.00",2812,"H/O: peptic ulcer"
 "Peptic ulcer disease","14C1.11",6321,"H/O: duodenal ulcer"
 "Peptic ulcer disease","14C1.12",7108,"H/O: gastric ulcer"
