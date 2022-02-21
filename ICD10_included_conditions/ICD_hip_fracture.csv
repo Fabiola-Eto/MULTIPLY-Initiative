@@ -2,5 +2,3 @@ Disease,ICD10code,ICD10codeDescr
 Fracture of hip,S72.0,Fracture of neck of femur
 Fracture of hip,S72.1,Pertrochanteric fracture
 Fracture of hip,S72.2,Subtrochanteric fracture
-Fracture of hip,S72.8,Fractures of other parts of femur
-Fracture of hip,T93.1,Sequelae of fracture of femur
