@@ -1,0 +1,19 @@
+Condition,ICD10code,ICD10codeDescr
+"Pregnancy disorders: hypertension in pregnancy, eclampsia and pre-eclampsia",O10.9,"Unspecified pre-existing hypertension complicating pregnancy, childbirth and the puerperium"
+"Pregnancy disorders: hypertension in pregnancy, eclampsia and pre-eclampsia",O13,Gestational [pregnancy-induced] hypertension
+"Pregnancy disorders: hypertension in pregnancy, eclampsia and pre-eclampsia",O11,Pre-eclampsia superimposed on chronic hypertension
+"Pregnancy disorders: hypertension in pregnancy, eclampsia and pre-eclampsia",O14.9,"Pre-eclampsia, unspecified"
+"Pregnancy disorders: hypertension in pregnancy, eclampsia and pre-eclampsia",O12,Gestational [pregnancy-induced] oedema and proteinuria without hypertension
+"Pregnancy disorders: hypertension in pregnancy, eclampsia and pre-eclampsia",O10.0,"Pre-existing essential hypertension complicating pregnancy, childbirth and the puerperium"
+"Pregnancy disorders: hypertension in pregnancy, eclampsia and pre-eclampsia",O10.1,"Pre-existing hypertensive heart disease complicating pregnancy, childbirth and the puerperium"
+"Pregnancy disorders: hypertension in pregnancy, eclampsia and pre-eclampsia",O10.2,"Pre-existing hypertensive renal disease complicating pregnancy, childbirth and the puerperium"
+"Pregnancy disorders: hypertension in pregnancy, eclampsia and pre-eclampsia",O10.3,"Pre-existing hypertensive heart and renal disease complicating pregnancy, childbirth and the puerperium"
+"Pregnancy disorders: hypertension in pregnancy, eclampsia and pre-eclampsia",O10.4,"Pre-existing secondary hypertension complicating pregnancy, childbirth and the puerperium"
+"Pregnancy disorders: hypertension in pregnancy, eclampsia and pre-eclampsia",O14.0,Mild to moderate pre-eclampsia
+"Pregnancy disorders: hypertension in pregnancy, eclampsia and pre-eclampsia",O14.1,Severe pre-eclampsia
+"Pregnancy disorders: hypertension in pregnancy, eclampsia and pre-eclampsia",O14.2,HELLP syndrome
+"Pregnancy disorders: hypertension in pregnancy, eclampsia and pre-eclampsia",O15.0,Eclampsia in pregnancy
+"Pregnancy disorders: hypertension in pregnancy, eclampsia and pre-eclampsia",O15.1,Eclampsia in labour
+"Pregnancy disorders: hypertension in pregnancy, eclampsia and pre-eclampsia",O15.2,Eclampsia in the puerperium
+"Pregnancy disorders: hypertension in pregnancy, eclampsia and pre-eclampsia",O15.9,"Eclampsia, unspecified as to time period"
+"Pregnancy disorders: hypertension in pregnancy, eclampsia and pre-eclampsia",O16,Unspecified maternal hypertension

@@ -1,0 +1,11 @@
+Condition,ICD10code,ICD10codeDescr
+Cholelithiasis,K56.3,Gallstone ileus
+Cholelithiasis,K80,Cholelithiasis
+Cholelithiasis,K80.0,Calculus of gallbladder with acute cholecystitis
+Cholelithiasis,K80.1,Calculus of gallbladder with other cholecystitis
+Cholelithiasis,K80.2,Calculus of gallbladder without cholecystitis
+Cholelithiasis,K80.3,Calculus of bile duct with cholangitis
+Cholelithiasis,K80.4,Calculus of bile duct with cholecystitis
+Cholelithiasis,K80.5,Calculus of bile duct without cholangitis or cholecystitis
+Cholelithiasis,K80.8,Other cholelithiasis
+Cholelithiasis,K85.1,Biliary acute pancreatitis

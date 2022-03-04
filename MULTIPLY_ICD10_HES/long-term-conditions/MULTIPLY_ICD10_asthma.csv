@@ -1,0 +1,7 @@
+Condition,ICD10code,ICD10codeDescr
+Asthma,J45,Asthma
+Asthma,J45.0,Predominantly allergic asthma
+Asthma,J45.1,Nonallergic asthma
+Asthma,J45.8,Mixed asthma
+Asthma,J45.9,"Asthma, unspecified"
+Asthma,J46,Status asthmaticus

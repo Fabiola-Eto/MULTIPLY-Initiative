@@ -1,0 +1,21 @@
+Condition,ICD10code,ICD10codeDescr
+Dementia,F00,Dementia in Alzheimer's disease
+Dementia,F01,Vascular dementia
+Dementia,F01,Vascular dementia
+Dementia,F01.0,Vascular dementia of acute onset
+Dementia,F01.1,Multi-infarct dementia
+Dementia,F01.2,Subcortical vascular dementia
+Dementia,F01.3,Mixed cortical and subcortical vascular dementia
+Dementia,F01.8,Other vascular dementia
+Dementia,F01.9,"Vascular dementia, unspecified"
+Dementia,F02,Dementia in other diseases classified elsewhere
+Dementia,F02.4,Dementia in human immunodeficiency virus [HIV] disease
+Dementia,F03,Unspecified dementia
+Dementia,F03,Unspecified dementia
+Dementia,F05.1,Delirium superimposed on dementia
+Dementia,F05.1,Delirium superimposed on dementia
+Dementia,G30,Alzheimer's disease
+Dementia,G30.0,Alzheimer disease with early onset
+Dementia,G30.1,Alzheimer disease with late onset
+Dementia,G30.8,Other Alzheimer disease
+Dementia,G30.9,"Alzheimer disease, unspecified"

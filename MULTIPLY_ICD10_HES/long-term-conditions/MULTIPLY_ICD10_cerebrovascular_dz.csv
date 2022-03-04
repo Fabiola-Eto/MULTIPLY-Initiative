@@ -1,0 +1,36 @@
+Condition,ICD10code,ICD10codeDescr
+Cerebrovascular disease,G45,Transient cerebral ischaemic attacks and related syndromes
+Cerebrovascular disease,G45.0,Vertebro-basilar artery syndrome
+Cerebrovascular disease,G45.1,Carotid artery syndrome (hemispheric)
+Cerebrovascular disease,G45.2,Multiple and bilateral precerebral artery syndromes
+Cerebrovascular disease,G45.3,Amaurosis fugax
+Cerebrovascular disease,G45.4,Transient global amnesia
+Cerebrovascular disease,G45.8,Other transient cerebral ischaemic attacks and related syndromes
+Cerebrovascular disease,G45.9,Transient cerebral ischaemic attack
+Cerebrovascular disease,G45.9,"Transient cerebral ischaemic attack, unspecified"
+Cerebrovascular disease,G46.0,Middle cerebral artery syndrome
+Cerebrovascular disease,G46.1,Anterior cerebral artery syndrome
+Cerebrovascular disease,G46.2,Posterior cerebral artery syndrome
+Cerebrovascular disease,G46.3,Brain stem stroke syndrome
+Cerebrovascular disease,G46.4,Cerebellar stroke syndrome
+Cerebrovascular disease,G46.5,Pure motor lacunar syndrome
+Cerebrovascular disease,G46.6,Pure sensory lacunar syndrome
+Cerebrovascular disease,G46.7,Other lacunar syndromes
+Cerebrovascular disease,G46.8,Other vascular syndromes of brain in cerebrovascular diseases
+Cerebrovascular disease,I63.0,Cerebral infarction due to thrombosis of precerebral arteries
+Cerebrovascular disease,I63.1,Cerebral infarction due to embolism of precerebral arteries
+Cerebrovascular disease,I63.2,Cerebral infarction due to unspecified occlusion or stenosis of precerebral arteries
+Cerebrovascular disease,I63.3,Cerebral infarction due to thrombosis of cerebral arteries
+Cerebrovascular disease,I63.4,Cerebral infarction due to embolism of cerebral arteries
+Cerebrovascular disease,I63.5,Cerebral infarction due to unspecified occlusion or stenosis of cerebral arteries
+Cerebrovascular disease,I63.8,Other cerebral infarction
+Cerebrovascular disease,I63.9,Cerebral infarction
+Cerebrovascular disease,I63.9,"Cerebral infarction, unspecified"
+Cerebrovascular disease,I64,Stroke
+Cerebrovascular disease,I64,"Stroke, not specified as haemorrhage or infarction"
+Cerebrovascular disease,I65,Occlusion and stenosis of precerebral arteries
+Cerebrovascular disease,I65,"Occlusion and stenosis of precerebral arteries, not resulting in cerebral infarction"
+Cerebrovascular disease,I66,Occlusion and stenosis of cerebral arteries
+Cerebrovascular disease,I66.9,Occlusion and stenosis of unspecified cerebral artery
+Cerebrovascular disease,I69.3,Sequelae of cerebral infarction
+Cerebrovascular disease,I69.4,Sequelae of stroke

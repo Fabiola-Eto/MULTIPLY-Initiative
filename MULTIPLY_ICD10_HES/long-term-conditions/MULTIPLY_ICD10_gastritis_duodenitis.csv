@@ -1,0 +1,11 @@
+Condition,ICD10code,ICD10codeDescr
+Gastritis and duodenitis,K29,Gastritis and duodenitis
+Gastritis and duodenitis,K29.1,Other acute gastritis
+Gastritis and duodenitis,K29.2,Alcoholic gastritis
+Gastritis and duodenitis,K29.3,Chronic superficial gastritis
+Gastritis and duodenitis,K29.4,Chronic atrophic gastritis
+Gastritis and duodenitis,K29.5,"Chronic gastritis, unspecified"
+Gastritis and duodenitis,K29.6,Other gastritis
+Gastritis and duodenitis,K29.7,"Gastritis, unspecified"
+Gastritis and duodenitis,K29.8,Duodenitis
+Gastritis and duodenitis,K29.9,"Gastroduodenitis, unspecified"

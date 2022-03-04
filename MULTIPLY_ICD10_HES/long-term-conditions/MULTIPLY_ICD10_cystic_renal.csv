@@ -1,0 +1,8 @@
+Condition,ICD10code,ICD10codeDescr
+Cystic renal disease,Q61,Cystic kidney disease
+Cystic renal disease,Q61.1,"Polycystic kidney, autosomal recessive"
+Cystic renal disease,Q61.2,"Polycystic kidney, autosomal dominant"
+Cystic renal disease,Q61.3,"Polycystic kidney, unspecified"
+Cystic renal disease,Q61.5,Medullary cystic kidney
+Cystic renal disease,Q61.8,Other cystic kidney diseases
+Cystic renal disease,Q61.9,"Cystic kidney disease, unspecified"

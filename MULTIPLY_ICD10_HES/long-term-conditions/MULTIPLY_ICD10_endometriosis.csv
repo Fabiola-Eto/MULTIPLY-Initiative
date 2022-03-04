@@ -1,0 +1,11 @@
+Condition,ICD10code,ICD10codeDescr
+Endometriosis,N80,Endometriosis
+Endometriosis,N80.0,Endometriosis of uterus
+Endometriosis,N80.1,Endometriosis of ovary
+Endometriosis,N80.2,Endometriosis of fallopian tube
+Endometriosis,N80.3,Endometriosis of pelvic peritoneum
+Endometriosis,N80.4,Endometriosis of rectovaginal septum and vagina
+Endometriosis,N80.5,Endometriosis of intestine
+Endometriosis,N80.6,Endometriosis in cutaneous scar
+Endometriosis,N80.8,Other endometriosis
+Endometriosis,N80.9,"Endometriosis, unspecified"

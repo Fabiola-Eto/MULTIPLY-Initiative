@@ -1,0 +1,12 @@
+Condition,ICD10code,ICD10codeDescr
+Disorders of autonomic nervous system,G83.4,Cauda equina syndrome
+Disorders of autonomic nervous system,G90,Disorders of autonomic nervous system
+Disorders of autonomic nervous system,G90.0,Idiopathic peripheral autonomic neuropathy
+Disorders of autonomic nervous system,G90.1,Familial dysautonomia [Riley-Day]
+Disorders of autonomic nervous system,G90.2,Horner syndrome
+Disorders of autonomic nervous system,G90.4,Autonomic dysreflexia
+Disorders of autonomic nervous system,G90.9,"Disorder of autonomic nervous system, unspecified"
+Disorders of autonomic nervous system,G99.0,Autonomic neuropathy in endocrine and metabolic diseases
+Disorders of autonomic nervous system,G99.1,Other disorders of autonomic nervous system in other diseases classified elsewhere
+Disorders of autonomic nervous system,K59.2,"Neurogenic bowel, not elsewhere classified"
+Disorders of autonomic nervous system,M89.0,Algoneurodystrophy

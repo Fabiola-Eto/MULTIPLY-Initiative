@@ -1,0 +1,6 @@
+Condition,ICD10code,ICD10codeDescr
+Pregnancy disorders: mental health,F53.0,"Mild mental and behavioural disorders associated with the puerperium, not elsewhere classified"
+Pregnancy disorders: mental health,F53.1,"Severe mental and behavioural disorders associated with the puerperium, not elsewhere classified"
+Pregnancy disorders: mental health,O99.3,"Mental disorders and diseases of the nervous system complicating pregnancy, childbirth and the puerperium"
+Pregnancy disorders: mental health,F53.8,"Other mental and behavioural disorders associated with the puerperium, not elsewhere classified"
+Pregnancy disorders: mental health,F53.9,"Puerperal mental disorder, unspecified"

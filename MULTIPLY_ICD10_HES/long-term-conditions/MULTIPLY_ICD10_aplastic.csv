@@ -1,0 +1,11 @@
+Condition,ICD10code,ICD10codeDescr
+Aplastic anaemias,D60,Acquired pure red cell aplasia [erythroblastopenia]
+Aplastic anaemias,D60.0,Chronic acquired pure red cell aplasia
+Aplastic anaemias,D60.1,Transient acquired pure red cell aplasia
+Aplastic anaemias,D60.9,"Acquired pure red cell aplasia, unspecified"
+Aplastic anaemias,D61,Other aplastic anaemias
+Aplastic anaemias,D61.0,Constitutional aplastic anaemia
+Aplastic anaemias,D61.1,Drug-induced aplastic anaemia
+Aplastic anaemias,D61.2,Aplastic anaemia due to other external agents
+Aplastic anaemias,D61.3,Idiopathic aplastic anaemia
+Aplastic anaemias,D61.9,"Aplastic anaemia, unspecified"
