@@ -1,0 +1,36 @@
+Condition,ReadCode,MedCode,ReadTerm
+Hypopituitarism,7100.00,50190,Excision of pituitary gland
+Hypopituitarism,7100y00,53569,Other specified excision of pituitary gland
+Hypopituitarism,7100z00,49056,Excision of pituitary gland NOS
+Hypopituitarism,7101.00,73009,Destruction of pituitary gland
+Hypopituitarism,C132.00,5026,Panhypopituitarism
+Hypopituitarism,C132.11,8552,Hypopituitarism NOS
+Hypopituitarism,C132.12,21279,Sheehan's syndrome
+Hypopituitarism,C132000,48590,Idiopathic panhypopituitarism
+Hypopituitarism,C132100,101601,Post-birth injury panhypopituitarism
+Hypopituitarism,C132200,70695,Postinfarction panhypopituitarism
+Hypopituitarism,C132300,44873,Postinfective panhypopituitarism
+Hypopituitarism,C132y00,67154,Other specified panhypopituitarism
+Hypopituitarism,C132z00,33653,Panhypopituitarism NOS
+Hypopituitarism,C133.00,20287,Pituitary dwarfism
+Hypopituitarism,C133000,1048,Isolated deficiency of growth hormone
+Hypopituitarism,C133y00,69903,Other specified pituitary dwarfism
+Hypopituitarism,C133z00,61409,Pituitary dwarfism NOS
+Hypopituitarism,C134.00,9895,Other anterior pituitary disorder
+Hypopituitarism,C134300,11146,TSH - thyroid-stimulating hormone deficiency
+Hypopituitarism,C134400,41193,Isolated ACTH deficiency
+Hypopituitarism,C134411,11147,ACTH deficiency
+Hypopituitarism,C134z11,43908,Anterior pituitary hormone deficiency NEC
+Hypopituitarism,C135.12,60046,Diabetes insipidus - pituitary
+Hypopituitarism,C137.00,56983,Iatrogenic pituitary disorders
+Hypopituitarism,C137.11,50958,Iatrogenic hypopituitarism
+Hypopituitarism,C137000,105672,Hormone-induced hypopituitarism
+Hypopituitarism,C137100,44881,Post-hypophysectomy hypopituitarism
+Hypopituitarism,C137111,97846,Surgically-induced hypopituitarism
+Hypopituitarism,C137200,44247,Post-radiotherapy hypopituitarism
+Hypopituitarism,C138.00,10071,Empty sella syndrome
+Hypopituitarism,C139.00,98210,Hypogonadotropic hypogonadism
+Hypopituitarism,C13A.00,105321,Pituitary apoplexy
+Hypopituitarism,C172111,21876,Kallman's syndrome
+Hypopituitarism,F395200,113264,Myopathy due to hypopituitarism
+Hypopituitarism,PK24100,111629,Congenital absence of pituitary gland

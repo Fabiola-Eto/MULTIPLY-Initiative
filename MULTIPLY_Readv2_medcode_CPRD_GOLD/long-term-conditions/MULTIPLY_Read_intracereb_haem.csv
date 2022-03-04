@@ -1,0 +1,24 @@
+Condition,ReadCode,MedCode,ReadTerm
+Intracerebral haemorrhage,662o.00,28914,Haemorrhagic stroke monitoring
+Intracerebral haemorrhage,7004300,7017,Evacuation of intracerebral haematoma NEC
+Intracerebral haemorrhage,G61..00,5051,Intracerebral haemorrhage
+Intracerebral haemorrhage,G61..11,6960,CVA - cerebrovascular accid due to intracerebral haemorrhage
+Intracerebral haemorrhage,G61..12,18604,Stroke due to intracerebral haemorrhage
+Intracerebral haemorrhage,G610.00,31595,Cortical haemorrhage
+Intracerebral haemorrhage,G611.00,40338,Internal capsule haemorrhage
+Intracerebral haemorrhage,G612.00,46316,Basal nucleus haemorrhage
+Intracerebral haemorrhage,G613.00,13564,Cerebellar haemorrhage
+Intracerebral haemorrhage,G614.00,7912,Pontine haemorrhage
+Intracerebral haemorrhage,G615.00,62342,Bulbar haemorrhage
+Intracerebral haemorrhage,G616.00,30045,External capsule haemorrhage
+Intracerebral haemorrhage,G617.00,30202,"Intracerebral haemorrhage, intraventricular"
+Intracerebral haemorrhage,G618.00,57315,"Intracerebral haemorrhage, multiple localized"
+Intracerebral haemorrhage,G619.00,107440,Lobar cerebral haemorrhage
+Intracerebral haemorrhage,G61X.00,31060,"Intracerebral haemorrhage in hemisphere, unspecified"
+Intracerebral haemorrhage,G61X000,28314,"Left sided intracerebral haemorrhage, unspecified"
+Intracerebral haemorrhage,G61X100,19201,"Right sided intracerebral haemorrhage, unspecified"
+Intracerebral haemorrhage,G61z.00,3535,Intracerebral haemorrhage NOS
+Intracerebral haemorrhage,G681.00,48149,Sequelae of intracerebral haemorrhage
+Intracerebral haemorrhage,G682.00,43451,Sequelae of other nontraumatic intracranial haemorrhage
+Intracerebral haemorrhage,Gyu6200,53810,[X]Other intracerebral haemorrhage
+Intracerebral haemorrhage,Gyu6F00,96630,"[X]Intracerebral haemorrhage in hemisphere, unspecified"

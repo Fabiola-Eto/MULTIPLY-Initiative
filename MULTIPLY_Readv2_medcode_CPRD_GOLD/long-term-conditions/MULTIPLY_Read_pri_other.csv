@@ -1,0 +1,346 @@
+Condition,ReadCode,MedCode,ReadTerm
+Primary malignancy other,4M20.00,60918,Lymphoma stage I
+Primary malignancy other,4M21.00,94935,Lymphoma stage II
+Primary malignancy other,4M22.00,32240,Lymphoma stage III
+Primary malignancy other,4M23.00,71672,Lymphoma stage IV
+Primary malignancy other,A789500,27853,HIV disease resulting in Kaposi's sarcoma
+Primary malignancy other,A789511,108054,HIV disease resulting in Kaposi sarcoma
+Primary malignancy other,B12..00,6806,Malignant neoplasm of small intestine and duodenum
+Primary malignancy other,B120.00,18613,Malignant neoplasm of duodenum
+Primary malignancy other,B121.00,43479,Malignant neoplasm of jejunum
+Primary malignancy other,B122.00,33871,Malignant neoplasm of ileum
+Primary malignancy other,B123.00,63995,Malignant neoplasm of Meckel's diverticulum
+Primary malignancy other,B124.00,66166,"Malignant neoplasm, overlapping lesion of small intestine"
+Primary malignancy other,B12y.00,99896,Malignant neoplasm of other specified site small intestine
+Primary malignancy other,B12z.00,43390,Malignant neoplasm of small intestine NOS
+Primary malignancy other,B15..00,8918,Malignant neoplasm of liver and intrahepatic bile ducts
+Primary malignancy other,B15z.00,38978,Malignant neoplasm of liver and intrahepatic bile ducts NOS
+Primary malignancy other,B16..00,54103,Malignant neoplasm gallbladder and extrahepatic bile ducts
+Primary malignancy other,B160.00,16105,Malignant neoplasm of gallbladder
+Primary malignancy other,B160.11,31393,Carcinoma gallbladder
+Primary malignancy other,B16y.00,60312,Malignant neoplasm other gallbladder/extrahepatic bile duct
+Primary malignancy other,B16z.00,15907,Malignant neoplasm gallbladder/extrahepatic bile ducts NOS
+Primary malignancy other,B18..00,44108,Malignant neoplasm of retroperitoneum and peritoneum
+Primary malignancy other,B180.00,21330,Malignant neoplasm of retroperitoneum
+Primary malignancy other,B180100,65159,Malignant neoplasm of perinephric tissue
+Primary malignancy other,B180200,24048,Malignant neoplasm of retrocaecal tissue
+Primary malignancy other,B180z00,61555,Malignant neoplasm of retroperitoneum NOS
+Primary malignancy other,B182.00,101907,Overlapping malign lesion of retroperitoneum and peritoneum
+Primary malignancy other,B18y.00,46613,Malignant neoplasm of specified parts of peritoneum
+Primary malignancy other,B18y100,59388,Malignant neoplasm of mesocaecum
+Primary malignancy other,B18y200,30165,Malignant neoplasm of mesorectum
+Primary malignancy other,B18y300,50898,Malignant neoplasm of omentum
+Primary malignancy other,B18y400,64516,Malignant neoplasm of parietal peritoneum
+Primary malignancy other,B18y500,39413,Malignant neoplasm of pelvic peritoneum
+Primary malignancy other,B18y600,69821,Malignant neoplasm of the pouch of Douglas
+Primary malignancy other,B18y700,90290,Malignant neoplasm of mesentery
+Primary malignancy other,B18yz00,64106,Malignant neoplasm of specified parts of peritoneum NOS
+Primary malignancy other,B18z.00,16298,Malignant neoplasm of retroperitoneum and peritoneum NOS
+Primary malignancy other,B1z..00,11009,Malig neop oth/ill-defined sites digestive tract/peritoneum
+Primary malignancy other,B1z0.00,17559,"Malignant neoplasm of intestinal tract, part unspecified"
+Primary malignancy other,B1z1.00,65460,Malignant neoplasm of spleen NEC
+Primary malignancy other,B1z1000,108667,Angiosarcoma of spleen
+Primary malignancy other,B1z1100,72224,Fibrosarcoma of spleen
+Primary malignancy other,B1z1z00,93778,Malignant neoplasm of spleen NOS
+Primary malignancy other,B1z2.00,94776,"Malignant neoplasm, overlapping lesion of digestive system"
+Primary malignancy other,B1zy.00,56918,Malignant neoplasm other spec digestive tract and peritoneum
+Primary malignancy other,B1zz.00,51255,Malignant neoplasm of digestive tract and peritoneum NOS
+Primary malignancy other,B20..00,26652,"Malig neop nasal cavities, middle ear and accessory sinuses"
+Primary malignancy other,B200.00,23389,Malignant neoplasm of nasal cavities
+Primary malignancy other,B200000,71204,Malignant neoplasm of cartilage of nose
+Primary malignancy other,B200100,98911,Malignant neoplasm of nasal conchae
+Primary malignancy other,B200200,62761,Malignant neoplasm of septum of nose
+Primary malignancy other,B200300,62182,Malignant neoplasm of vestibule of nose
+Primary malignancy other,B200z00,42856,Malignant neoplasm of nasal cavities NOS
+Primary malignancy other,B201.00,24456,"Malig neop auditory tube, middle ear and mastoid air cells"
+Primary malignancy other,B201000,107916,Malignant neoplasm of auditory (Eustachian) tube
+Primary malignancy other,B201100,98537,Malignant neoplasm of tympanic cavity
+Primary malignancy other,B201200,54613,Malignant neoplasm of tympanic antrum
+Primary malignancy other,B201300,71946,Malignant neoplasm of mastoid air cells
+Primary malignancy other,B201z00,73537,"Malig neop auditory tube, middle ear, mastoid air cells NOS"
+Primary malignancy other,B202.00,32174,Malignant neoplasm of maxillary sinus
+Primary malignancy other,B203.00,54636,Malignant neoplasm of ethmoid sinus
+Primary malignancy other,B204.00,15684,Malignant neoplasm of frontal sinus
+Primary malignancy other,B205.00,65215,Malignant neoplasm of sphenoidal sinus
+Primary malignancy other,B206.00,39590,"Malignant neoplasm, overlapping lesion of accessory sinuses"
+Primary malignancy other,B20y.00,96971,"Malig neop other site nasal cavity, middle ear and sinuses"
+Primary malignancy other,B20z.00,55246,Malignant neoplasm of accessory sinus NOS
+Primary malignancy other,B21..00,319,Malignant neoplasm of larynx
+Primary malignancy other,B210.00,318,Malignant neoplasm of glottis
+Primary malignancy other,B211.00,26165,Malignant neoplasm of supraglottis
+Primary malignancy other,B212.00,22441,Malignant neoplasm of subglottis
+Primary malignancy other,B213.00,43111,Malignant neoplasm of laryngeal cartilage
+Primary malignancy other,B213000,63460,Malignant neoplasm of arytenoid cartilage
+Primary malignancy other,B213100,37805,Malignant neoplasm of cricoid cartilage
+Primary malignancy other,B213200,107878,Malignant neoplasm of cuneiform cartilage
+Primary malignancy other,B213300,47862,Malignant neoplasm of thyroid cartilage
+Primary malignancy other,B213z00,97332,Malignant neoplasm of laryngeal cartilage NOS
+Primary malignancy other,B214.00,50579,"Malignant neoplasm, overlapping lesion of larynx"
+Primary malignancy other,B215.00,55374,Malignant neoplasm of epiglottis NOS
+Primary malignancy other,B21y.00,26813,"Malignant neoplasm of larynx, other specified site"
+Primary malignancy other,B21z.00,9237,Malignant neoplasm of larynx NOS
+Primary malignancy other,B23..00,31573,Malignant neoplasm of pleura
+Primary malignancy other,B230.00,67107,Malignant neoplasm of parietal pleura
+Primary malignancy other,B231.00,106194,Malignant neoplasm of visceral pleura
+Primary malignancy other,B23y.00,98104,Malignant neoplasm of other specified pleura
+Primary malignancy other,B23z.00,34742,Malignant neoplasm of pleura NOS
+Primary malignancy other,B24..00,62556,"Malignant neoplasm of thymus, heart and mediastinum"
+Primary malignancy other,B240.00,27483,Malignant neoplasm of thymus
+Primary malignancy other,B241.00,95644,Malignant neoplasm of heart
+Primary malignancy other,B241000,63430,Malignant neoplasm of endocardium
+Primary malignancy other,B241200,65605,Malignant neoplasm of myocardium
+Primary malignancy other,B241300,94975,Malignant neoplasm of pericardium
+Primary malignancy other,B241z00,50289,Malignant neoplasm of heart NOS
+Primary malignancy other,B242.00,27715,Malignant neoplasm of anterior mediastinum
+Primary malignancy other,B243.00,92720,Malignant neoplasm of posterior mediastinum
+Primary malignancy other,B24X.00,61064,"Malignant neoplasm of mediastinum, part unspecified"
+Primary malignancy other,B24y.00,100232,"Malig neop of other site of heart, thymus and mediastinum"
+Primary malignancy other,B24z.00,66750,"Malignant neoplasm of heart, thymus and mediastinum NOS"
+Primary malignancy other,B25..00,39531,"Malig neo, overlapping lesion of heart, mediastinum & pleura"
+Primary malignancy other,B26..00,66646,"Malignant neoplasm, overlap lesion of resp & intrathor orgs"
+Primary malignancy other,B2z..00,44356,Malig neop other/ill-defined sites resp/intrathoracic organs
+Primary malignancy other,B2z0.00,65793,"Malig neop of upper respiratory tract, part unspecified"
+Primary malignancy other,B2zy.00,29283,Malignant neoplasm of other site of respiratory tract
+Primary malignancy other,B2zz.00,42569,Malignant neoplasm of respiratory tract NOS
+Primary malignancy other,B310.00,43475,"Malig neop of connective and soft tissue head, face and neck"
+Primary malignancy other,B310000,59382,Malignant neoplasm of soft tissue of head
+Primary malignancy other,B310100,40014,Malignant neoplasm of soft tissue of face
+Primary malignancy other,B310200,48517,Malignant neoplasm of soft tissue of neck
+Primary malignancy other,B310300,60035,Malignant neoplasm of cartilage of ear
+Primary malignancy other,B310400,49463,Malignant neoplasm of tarsus of eyelid
+Primary malignancy other,B310500,108389,Malignant neoplasm soft tissues of cervical spine
+Primary malignancy other,B310z00,73718,"Malig neop connective and soft tissue head, face, neck NOS"
+Primary malignancy other,B311.00,53989,Malig neop connective and soft tissue upper limb/shoulder
+Primary malignancy other,B311000,50222,Malignant neoplasm of connective and soft tissue of shoulder
+Primary malignancy other,B311100,64345,"Malignant neoplasm of connective and soft tissue, upper arm"
+Primary malignancy other,B311200,57482,Malignant neoplasm of connective and soft tissue of fore-arm
+Primary malignancy other,B311300,19321,Malignant neoplasm of connective and soft tissue of hand
+Primary malignancy other,B311400,91586,Malignant neoplasm of connective and soft tissue of finger
+Primary malignancy other,B311500,63988,Malignant neoplasm of connective and soft tissue of thumb
+Primary malignancy other,B311z00,104913,Malig neop connective soft tissue upper limb/shoulder NOS
+Primary malignancy other,B312.00,66088,Malig neop of connective and soft tissue of hip and leg
+Primary malignancy other,B312000,102949,Malignant neoplasm of connective and soft tissue of hip
+Primary malignancy other,B312100,44805,Malig neop of connective and soft tissue thigh and upper leg
+Primary malignancy other,B312200,54965,Malig neop connective and soft tissue of popliteal space
+Primary malignancy other,B312300,30542,Malig neop of connective and soft tissue of lower leg
+Primary malignancy other,B312400,54222,Malignant neoplasm of connective and soft tissue of foot
+Primary malignancy other,B312500,99572,Malignant neoplasm of connective and soft tissue of toe
+Primary malignancy other,B312z00,90546,Malig neop connective and soft tissue hip and leg NOS
+Primary malignancy other,B313.00,22290,Malignant neoplasm of connective and soft tissue of thorax
+Primary malignancy other,B313000,29160,Malignant neoplasm of connective and soft tissue of axilla
+Primary malignancy other,B313100,54186,Malignant neoplasm of diaphragm
+Primary malignancy other,B313200,72522,Malignant neoplasm of great vessels
+Primary malignancy other,B313300,104139,Malig neoplasm of connective and soft tissues of thor spine
+Primary malignancy other,B313z00,98408,Malig neop of connective and soft tissue of thorax NOS
+Primary malignancy other,B314.00,45071,Malignant neoplasm of connective and soft tissue of abdomen
+Primary malignancy other,B314000,66488,Malig neop of connective and soft tissue of abdominal wall
+Primary malignancy other,B314100,94272,Malig neoplasm of connective and soft tissues of lumb spine
+Primary malignancy other,B314z00,60247,Malig neop of connective and soft tissue of abdomen NOS
+Primary malignancy other,B315.00,51965,Malignant neoplasm of connective and soft tissue of pelvis
+Primary malignancy other,B315000,70463,Malignant neoplasm of connective and soft tissue of buttock
+Primary malignancy other,B315100,67324,Malig neop of connective and soft tissue of inguinal region
+Primary malignancy other,B315200,59152,Malignant neoplasm of connective and soft tissue of perineum
+Primary malignancy other,B315300,110192,Malig neopl of connective and soft tissue - sacrum or coccyx
+Primary malignancy other,B315z00,58836,Malig neop of connective and soft tissue of pelvis NOS
+Primary malignancy other,B316.00,57471,Malig neop of connective and soft tissue trunk unspecified
+Primary malignancy other,B31y.00,65233,Malig neop connective and soft tissue other specified site
+Primary malignancy other,B31z.00,15182,"Malignant neoplasm of connective and soft tissue, site NOS"
+Primary malignancy other,B31z000,104128,Kaposi's sarcoma of soft tissue
+Primary malignancy other,B42..00,93762,Malignant neoplasm of placenta
+Primary malignancy other,B420.00,28003,Choriocarcinoma
+Primary malignancy other,B44..00,19141,Malignant neoplasm of ovary and other uterine adnexa
+Primary malignancy other,B441.00,49828,Malignant neoplasm of fallopian tube
+Primary malignancy other,B442.00,101778,Malignant neoplasm of broad ligament
+Primary malignancy other,B443.00,46153,Malignant neoplasm of parametrium
+Primary malignancy other,B44y.00,97996,Malignant neoplasm of other site of uterine adnexa
+Primary malignancy other,B44z.00,65106,Malignant neoplasm of uterine adnexa NOS
+Primary malignancy other,B45..00,4555,Malig neop of other and unspecified female genital organs
+Primary malignancy other,B450.00,37328,Malignant neoplasm of vagina
+Primary malignancy other,B450100,10698,Malignant neoplasm of vaginal vault
+Primary malignancy other,B450z00,60772,Malignant neoplasm of vagina NOS
+Primary malignancy other,B451.00,43761,Malignant neoplasm of labia majora
+Primary malignancy other,B451000,47899,Malignant neoplasm of greater vestibular (Bartholin's) gland
+Primary malignancy other,B451z00,59362,Malignant neoplasm of labia majora NOS
+Primary malignancy other,B452.00,58061,Malignant neoplasm of labia minora
+Primary malignancy other,B453.00,53910,Malignant neoplasm of clitoris
+Primary malignancy other,B454.00,4554,Malignant neoplasm of vulva unspecified
+Primary malignancy other,B454.11,11991,Primary vulval cancer
+Primary malignancy other,B45X.00,26454,Malignant neoplasm/overlapping lesion/feml genital organs
+Primary malignancy other,B45y.00,95421,Malignant neoplasm of other specified female genital organ
+Primary malignancy other,B45y000,27617,Malignant neoplasm of overlapping lesion of vulva
+Primary malignancy other,B45z.00,20166,Malignant neoplasm of female genital organ NOS
+Primary malignancy other,B480.00,50681,Malignant neoplasm of prepuce (foreskin)
+Primary malignancy other,B481.00,17841,Malignant neoplasm of glans penis
+Primary malignancy other,B482.00,48743,Malignant neoplasm of body of penis
+Primary malignancy other,B483.00,43392,"Malignant neoplasm of penis, part unspecified"
+Primary malignancy other,B484.00,72127,Malignant neoplasm of epididymis
+Primary malignancy other,B485.00,63331,Malignant neoplasm of spermatic cord
+Primary malignancy other,B486.00,47767,Malignant neoplasm of scrotum
+Primary malignancy other,B487.00,52570,"Malignant neoplasm, overlapping lesion of penis"
+Primary malignancy other,B48y.00,67949,Malignant neoplasm of other male genital organ
+Primary malignancy other,B48y000,68161,Malignant neoplasm of seminal vesicle
+Primary malignancy other,B48y100,47668,Malignant neoplasm of tunica vaginalis
+Primary malignancy other,B48y200,68824,"Malignant neoplasm, overlapping lesion male genital orgs"
+Primary malignancy other,B48yz00,92329,Malignant neoplasm of other male genital organ NOS
+Primary malignancy other,B48z.00,63224,Malignant neoplasm of penis and other male genital organ NOS
+Primary malignancy other,B4A..00,13559,Malig neop of kidney and other unspecified urinary organs
+Primary malignancy other,B4A3.00,15644,Malignant neoplasm of urethra
+Primary malignancy other,B4A4.00,72174,Malignant neoplasm of paraurethral glands
+Primary malignancy other,B4Ay.00,44884,Malignant neoplasm of other urinary organs
+Primary malignancy other,B4Ay000,59286,Malignant neoplasm of overlapping lesion of urinary organs
+Primary malignancy other,B4Az.00,29462,Malignant neoplasm of kidney or urinary organs NOS
+Primary malignancy other,B5...00,10995,Malignant neoplasm of other and unspecified sites
+Primary malignancy other,B5...11,8693,Carcinoma of other and unspecified sites
+Primary malignancy other,B50..00,20160,Malignant neoplasm of eye
+Primary malignancy other,B500.00,98813,"Malig neop eyeball excl conjunctiva, cornea, retina, choroid"
+Primary malignancy other,B500000,59041,Malignant neoplasm of ciliary body
+Primary malignancy other,B500100,59381,Malignant neoplasm of iris
+Primary malignancy other,B500200,106569,Malignant neoplasm of crystalline lens
+Primary malignancy other,B500z00,56718,Malignant neoplasm of eyeball NOS
+Primary malignancy other,B501.00,45667,Malignant neoplasm of orbit
+Primary malignancy other,B501000,86996,Malignant neoplasm of connective tissue of orbit
+Primary malignancy other,B501z00,63104,Malignant neoplasm of orbit NOS
+Primary malignancy other,B502.00,64817,Malignant neoplasm of lacrimal gland
+Primary malignancy other,B503.00,63657,Malignant neoplasm of conjunctiva
+Primary malignancy other,B504.00,73992,Malignant neoplasm of cornea
+Primary malignancy other,B505.00,28069,Malignant neoplasm of retina
+Primary malignancy other,B506.00,15991,Malignant neoplasm of choroid
+Primary malignancy other,B507.00,71584,Malignant neoplasm of lacrimal duct
+Primary malignancy other,B507000,101805,Malignant neoplasm of lacrimal sac
+Primary malignancy other,B507100,65357,Malignant neoplasm of nasolacrimal duct
+Primary malignancy other,B508.00,45922,"Malignant neoplasm, overlapping lesion of eye and adnexa"
+Primary malignancy other,B50y.00,40437,Malignant neoplasm of other specified site of eye
+Primary malignancy other,B50z.00,54956,Malignant neoplasm of eye NOS
+Primary malignancy other,B52..00,65458,Malig neop of other and unspecified parts of nervous system
+Primary malignancy other,B524.00,24235,Malig neopl peripheral nerves and autonomic nervous system
+Primary malignancy other,B524000,63568,"Malignant neoplasm of peripheral nerves of head, face & neck"
+Primary malignancy other,B524100,61716,"Malignant neoplasm of peripheral nerve,upp limb,incl should"
+Primary malignancy other,B524200,89258,"Malignant neoplasm of peripheral nerve of low limb, incl hip"
+Primary malignancy other,B524300,63695,Malignant neoplasm of peripheral nerve of thorax
+Primary malignancy other,B524400,86046,Malignant neoplasm of peripheral nerve of abdomen
+Primary malignancy other,B524500,73988,Malignant neoplasm of peripheral nerve of pelvis
+Primary malignancy other,B524600,50777,"Malignant neoplasm,overlap lesion periph nerve & auton ns"
+Primary malignancy other,B524W00,106654,"Mal neoplasm/periph nerves+autonomic nervous system,unspc"
+Primary malignancy other,B52y.00,88144,Malignant neoplasm of other specified part of nervous system
+Primary malignancy other,B52z.00,56490,Malignant neoplasm of nervous system NOS
+Primary malignancy other,B540.00,28148,Malignant neoplasm of adrenal gland
+Primary malignancy other,B540000,61390,Malignant neoplasm of adrenal cortex
+Primary malignancy other,B540100,94220,Malignant neoplasm of adrenal medulla
+Primary malignancy other,B540z00,70824,Malignant neoplasm of adrenal gland NOS
+Primary malignancy other,B541.00,4218,Malignant neoplasm of parathyroid gland
+Primary malignancy other,B54X.00,87113,"Malignant neoplasm-pluriglandular involvement,unspecified"
+Primary malignancy other,B54y.00,90659,Malignant neoplasm of other specified endocrine gland
+Primary malignancy other,B54z.00,64195,Malig neop of endocrine gland or related structure NOS
+Primary malignancy other,B550.00,68236,"Malignant neoplasm of head, neck and face"
+Primary malignancy other,B550000,55098,Malignant neoplasm of head NOS
+Primary malignancy other,B550100,41931,Malignant neoplasm of cheek NOS
+Primary malignancy other,B550200,12490,Malignant neoplasm of nose NOS
+Primary malignancy other,B550300,51818,Malignant neoplasm of jaw NOS
+Primary malignancy other,B550400,16280,Malignant neoplasm of neck NOS
+Primary malignancy other,B550500,73510,Malignant neoplasm of supraclavicular fossa NOS
+Primary malignancy other,B550z00,58903,"Malignant neoplasm of head, neck and face NOS"
+Primary malignancy other,B551.00,47286,Malignant neoplasm of thorax
+Primary malignancy other,B551000,37618,Malignant neoplasm of axilla NOS
+Primary malignancy other,B551100,23861,Malignant neoplasm of chest wall NOS
+Primary malignancy other,B551200,97547,Malignant neoplasm of intrathoracic site NOS
+Primary malignancy other,B551z00,64810,Malignant neoplasm of thorax NOS
+Primary malignancy other,B552.00,15976,Malignant neoplasm of abdomen
+Primary malignancy other,B553.00,52316,Malignant neoplasm of pelvis
+Primary malignancy other,B553000,57854,Malignant neoplasm of inguinal region NOS
+Primary malignancy other,B553100,89916,Malignant neoplasm of presacral region
+Primary malignancy other,B553200,107126,Malignant neoplasm of sacrococcygeal region
+Primary malignancy other,B553z00,55101,Malignant neoplasm of pelvis NOS
+Primary malignancy other,B554.00,27449,Malignant neoplasm of upper limb NOS
+Primary malignancy other,B555.00,31399,Malignant neoplasm of lower limb NOS
+Primary malignancy other,B55y.00,42218,Malignant neoplasm of other specified sites
+Primary malignancy other,B55y000,68787,Malignant neoplasm of back NOS
+Primary malignancy other,B55y100,67217,Malignant neoplasm of trunk NOS
+Primary malignancy other,B55y200,94355,Malignant neoplasm of flank NOS
+Primary malignancy other,B55yz00,60052,Malignant neoplasm of specified site NOS
+Primary malignancy other,B55z.00,45267,Malignant neoplasm of other and ill defined site NOS
+Primary malignancy other,B59..00,47810,Malignant neoplasm of unspecified site
+Primary malignancy other,B591.00,26034,Other malignant neoplasm NOS
+Primary malignancy other,B592.00,51352,Malignant neoplasms of independent (primary) multiple sites
+Primary malignancy other,B592X00,65466,Kaposi's sarcoma of multiple organs
+Primary malignancy other,B593.00,11035,Primary malignant neoplasm of unknown site
+Primary malignancy other,B595.00,104324,Malignant tumour of unknown origin
+Primary malignancy other,B59z.00,54267,Malignant neoplasm of unspecified site NOS
+Primary malignancy other,B59zX00,49525,"Kaposi's sarcoma, unspecified"
+Primary malignancy other,B5y..00,38736,Malignant neoplasm of other and unspecified site OS
+Primary malignancy other,B5z..00,1056,Malignant neoplasm of other and unspecified site NOS
+Primary malignancy other,B623.00,44267,Malignant histiocytosis
+Primary malignancy other,B623000,69497,Malignant histiocytosis of unspecified site
+Primary malignancy other,B623100,94415,"Malignant histiocytosis of lymph nodes head, face and neck"
+Primary malignancy other,B623300,65642,Malignant histiocytosis of intra-abdominal lymph nodes
+Primary malignancy other,B623z00,58871,Malignant histiocytosis NOS
+Primary malignancy other,B625.00,34926,Letterer-Siwe disease
+Primary malignancy other,B625.11,4870,"Histiocytosis X (acute, progressive)"
+Primary malignancy other,B625000,102715,Letterer-Siwe disease of unspecified sites
+Primary malignancy other,B625200,102158,Letterer-Siwe disease of intrathoracic lymph nodes
+Primary malignancy other,B625800,54083,Letterer-Siwe disease of lymph nodes of multiple sites
+Primary malignancy other,B625z00,47204,Letterer-Siwe disease NOS
+Primary malignancy other,B626.00,15036,Malignant mast cell tumours
+Primary malignancy other,B626000,103900,Mast cell malignancy of unspecified site
+Primary malignancy other,B626500,100615,Mast cell malignancy of lymph nodes inguinal region and leg
+Primary malignancy other,B626800,31324,Mast cell malignancy of lymph nodes of multiple sites
+Primary malignancy other,B626z00,89657,Malignant mast cell tumour NOS
+Primary malignancy other,B62x500,58962,Malignant immunoproliferative small intestinal disease
+Primary malignancy other,B62x600,95630,True histiocytic lymphoma
+Primary malignancy other,B62z.00,65434,Malignant neoplasms of lymphoid and histiocytic tissue NOS
+Primary malignancy other,B62z000,108037,Unspec malig neop lymphoid/histiocytic of unspecified site
+Primary malignancy other,B62z100,64427,Unspec malig neop lymphoid/histiocytic lymph node head/neck
+Primary malignancy other,B62z200,93384,Unspec malig neop lymphoid/histiocytic of intrathoracic node
+Primary malignancy other,B62z300,103353,Unspec malig neop lymphoid/histiocytic intra-abdominal nodes
+Primary malignancy other,B62z400,107638,Unspec malig neop lymphoid/histiocytic lymph node axilla/arm
+Primary malignancy other,B62z500,71609,Unspec malig neop lymphoid/histiocytic nodes inguinal/leg
+Primary malignancy other,B62z600,109342,Unspec malig neop lymphoid/histiocytic of intrapelvic nodes
+Primary malignancy other,B62z800,101465,Unspec malig neop lymphoid/histiocytic of multiple sites
+Primary malignancy other,B62zz00,95792,Lymphoid and histiocytic malignancy NOS
+Primary malignancy other,B62zz11,70716,Immunoproliferative neoplasm
+Primary malignancy other,B63y.00,64567,Other immunoproliferative neoplasms
+Primary malignancy other,B63z.00,43450,Immunoproliferative neoplasm or myeloma NOS
+Primary malignancy other,B6y..00,30646,Malignant neoplasm lymphatic or haematopoietic tissue OS
+Primary malignancy other,B6z..00,49301,Malignant neoplasm lymphatic or haematopoietic tissue NOS
+Primary malignancy other,B6z0.00,50290,Kaposi's sarcoma of lymph nodes
+Primary malignancy other,BB57.00,28272,"[M]Adenocarcinoma, intestinal type"
+Primary malignancy other,BB5h100,60775,[M]Adrenal cortical carcinoma
+Primary malignancy other,BBcC.00,51878,[M]Aesthesioneuroblastoma
+Primary malignancy other,BBcC.11,39388,[M]Olfactory neuroblastoma
+Primary malignancy other,BBcD.11,106131,[M]Olfactory neuroepithelioma
+Primary malignancy other,BBm4.00,57544,[M]True histiocytic lymphoma
+Primary malignancy other,BBT1.00,62348,[M]Haemangiosarcoma
+Primary malignancy other,BBT7100,98322,"[M]Haemangioendothelioma, malignant"
+Primary malignancy other,Byu1200,45766,"[X]Malignant neoplasm of intestinal tract, part unspecified"
+Primary malignancy other,Byu1300,49292,[X]Malignant neoplsm/ill-defin sites within digestive system
+Primary malignancy other,Byu2400,86997,[X]Malignant neoplasm/ill-defined sites within resp system
+Primary malignancy other,Byu2500,50292,"[X]Malignant neoplasm of mediastinum, part unspecified"
+Primary malignancy other,Byu5300,93665,"[X]Kaposi's sarcoma, unspecified"
+Primary malignancy other,Byu5400,101668,"[X]Malignant neoplasm/peripheral nerves of trunk,unspecified"
+Primary malignancy other,Byu5500,105072,[X]Mal neoplasm/overlap les/periph nerv+autonomic nerv systm
+Primary malignancy other,Byu5700,95671,"[X]Malignant neoplasm of peritoneum, unspecified"
+Primary malignancy other,Byu5800,91896,"[X]Mal neoplasm/connective+soft tissue of trunk,unspecified"
+Primary malignancy other,Byu5900,91457,"[X]Malignant neoplasm/connective + soft tissue,unspecified"
+Primary malignancy other,Byu5B00,98361,[X]Kaposi's sarcoma of other sites
+Primary malignancy other,Byu7000,64497,"[X]Malignant neoplasm of uterine adnexa, unspecified"
+Primary malignancy other,Byu7100,57756,[X]Malignant neoplasm/other specified female genital organs
+Primary malignancy other,Byu7300,55588,"[X]Malignant neoplasm of female genital organ, unspecified"
+Primary malignancy other,Byu8000,57191,[X]Malignant neoplasm/other specified male genital organs
+Primary malignancy other,Byu8200,45262,"[X]Malignant neoplasm of male genital organ, unspecified"
+Primary malignancy other,Byu9000,45260,"[X]Malignant neoplasm of urinary organ, unspecified"
+Primary malignancy other,ByuB.00,40608,[X]Malignant neoplasm of thyroid and other endocrine glands
+Primary malignancy other,ByuB100,64309,"[X]Malignant neoplasm of endocrine gland, unspecified"
+Primary malignancy other,ByuC.00,35186,"[X]Malignant neoplasm of ill-defined, secondary and unspeci"
+Primary malignancy other,ByuC000,39027,[X]Malignant neoplasm of other specified sites
+Primary malignancy other,ByuC100,96226,[X]Malignant neoplasm/overlap lesion/other+ill-defined sites
+Primary malignancy other,ByuC600,68332,[X]2ndry malignant neoplasm/oth+unspec parts/nervous system
+Primary malignancy other,ByuC800,52029,[X]Malignant neoplasm without specification of site
+Primary malignancy other,ByuD400,102688,[X]Other malignant immunoproliferative diseases
+Primary malignancy other,ByuDA00,105025,"[X]Oth spcf mal neoplsm/lymphoid,haematopoietic+rltd tissue"
+Primary malignancy other,ByuDB00,72500,"[X]Mal neoplasm/lymphoid,haematopoietic+related tissu,unspcf"
+Primary malignancy other,ByuE.00,63598,[X]Malignant neoplasms/independent (primary) multiple sites
+Primary malignancy other,ByuE000,64897,[X]Malignant neoplasms/independent(primary)multiple sites
+Primary malignancy other,C37y000,54411,Hand - Schuller - Christian disease
+Primary malignancy other,C37y500,51718,"Histiocytosis X , chronic"
+Primary malignancy other,C37y600,36736,"Histiocytosis X , unspecified"
+Primary malignancy other,ZV10000,62814,[V]Personal history of malig neop of gastrointestinal tract
+Primary malignancy other,ZV10012,64568,[V]Personal history of malig neop of gastrointestinal tract

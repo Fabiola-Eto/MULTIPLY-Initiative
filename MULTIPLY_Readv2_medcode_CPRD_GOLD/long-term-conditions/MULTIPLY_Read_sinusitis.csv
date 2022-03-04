@@ -1,0 +1,127 @@
+Condition,ReadCode,MedCode,ReadTerm
+Chronic sinusitis,741..00,4640,Nasal sinus operations
+Chronic sinusitis,7410.00,23740,Operations on maxillary antrum using sublabial approach
+Chronic sinusitis,7410000,32764,Ligation of maxillary artery using sublabial approach
+Chronic sinusitis,7410100,3938,Caldwell Luc drainage of maxillary antrum
+Chronic sinusitis,7410200,57098,Irrigation of maxillary antrum using sublabial approach
+Chronic sinusitis,7410300,61629,Transantral vidian nerve neurectomy using sublabial approach
+Chronic sinusitis,7410y00,96692,Operation on maxillary antrum using sublabial approach OS
+Chronic sinusitis,7410z00,105781,Operation on maxillary antrum using sublabial approach NOS
+Chronic sinusitis,7411.00,7981,Other operations on maxillary antrum
+Chronic sinusitis,7411.11,28764,Reconstruction of maxillary antrum
+Chronic sinusitis,7411000,41457,Drainage of maxillary antrum NEC
+Chronic sinusitis,7411100,54292,Excision of lesion of maxillary antrum
+Chronic sinusitis,7411200,848,Intranasal antrostomy
+Chronic sinusitis,7411211,34257,Intranasal antrostomy and drainage
+Chronic sinusitis,7411300,44876,Biopsy of lesion of maxillary antrum
+Chronic sinusitis,7411400,44432,Closure of fistula between maxillary antrum and mouth
+Chronic sinusitis,7411500,18271,Puncture of maxillary antrum
+Chronic sinusitis,7411511,48497,Irrigation of maxillary antrum NEC
+Chronic sinusitis,7411600,24535,Removal of antrochoanal polyp
+Chronic sinusitis,7411700,41877,Radical maxillary antrotomy
+Chronic sinusitis,7411711,95634,Denker radical maxillary antrotomy
+Chronic sinusitis,7411800,95857,Direct closure of defect of maxilla
+Chronic sinusitis,7411900,70776,Reconstruction of defect of maxilla with skin graft
+Chronic sinusitis,7411A00,97338,Reconstruction of maxilla with local flap
+Chronic sinusitis,7411D00,34107,Reconstruction of maxilla with bone graft
+Chronic sinusitis,7411E00,33956,Intranasal antrostomy and biopsy of maxillary antrum
+Chronic sinusitis,7411F00,33603,Intranasal antrostomy and excision lesion maxillary antrum
+Chronic sinusitis,7411G00,25174,Bilateral antral washout
+Chronic sinusitis,7411y00,53961,Other specified other operation on maxillary antrum
+Chronic sinusitis,7411z00,19995,Other operation on maxillary antrum NOS
+Chronic sinusitis,7412.00,39381,Operations on frontal sinus
+Chronic sinusitis,7412000,12747,External frontoethmoidectomy
+Chronic sinusitis,7412011,63552,Killian external frontoethmoidectomy
+Chronic sinusitis,7412013,66885,Ogston external frontoethmoidectomy
+Chronic sinusitis,7412100,1673,Intranasal ethmoidectomy
+Chronic sinusitis,7412200,30744,External ethmoidectomy
+Chronic sinusitis,7412300,34165,Transantral ethmoidectomy
+Chronic sinusitis,7412311,39469,Horgan transantral ethmoidectomy
+Chronic sinusitis,7412400,50787,Bone flap to frontal sinus
+Chronic sinusitis,7412500,60356,Trephine of frontal sinus
+Chronic sinusitis,7412600,48896,Craniofacial ethmoidectomy
+Chronic sinusitis,7412700,21213,Radical frontal sinus antrostomy
+Chronic sinusitis,7412800,27869,Frontal sinusotomy NEC
+Chronic sinusitis,7412900,90287,Median drainage of frontal sinus
+Chronic sinusitis,7412y00,64359,Other specified operation on frontal sinus
+Chronic sinusitis,7412z00,42196,Operation on frontal sinus NOS
+Chronic sinusitis,7413.00,11711,Operations on sphenoid sinus
+Chronic sinusitis,7413000,18302,Drainage of sphenoid sinus
+Chronic sinusitis,7413100,22555,Puncture of sphenoid sinus
+Chronic sinusitis,7413200,88274,Repair of sphenoidal sinus
+Chronic sinusitis,7413y00,33336,Other specified operation on sphenoid sinus
+Chronic sinusitis,7413z00,68405,Operation on sphenoid sinus NOS
+Chronic sinusitis,7414.00,36047,Operations on unspecified nasal sinus
+Chronic sinusitis,7414.11,62763,Reconstruction of defect of nasal sinus
+Chronic sinusitis,7414000,64766,Excision of nasal sinus NEC
+Chronic sinusitis,7414100,67200,Excision of lesion of nasal sinus
+Chronic sinusitis,7414200,45832,Biopsy of lesion of nasal sinus NEC
+Chronic sinusitis,7414300,16022,Lateral rhinotomy
+Chronic sinusitis,7414400,44645,Catheterisation of nasal sinus
+Chronic sinusitis,7414500,1400,Antral washout - nasal
+Chronic sinusitis,7414511,23673,BAWO
+Chronic sinusitis,7414600,49369,Direct closure of defect of nasal sinus
+Chronic sinusitis,7414700,110252,Reconstruction of defect of nasal sinus with skin graft
+Chronic sinusitis,7414800,91681,Reconstruction of defect of nasal sinus with local flap
+Chronic sinusitis,7414A00,67275,Reconstruct defect nasal sinus c microvascular transfer flap
+Chronic sinusitis,7414B00,69374,Reconstruction of defect of nasal sinus with bone graft
+Chronic sinusitis,7414y00,4128,Other specified operation on unspecified nasal sinus
+Chronic sinusitis,7414z00,1140,Operation on unspecified nasal sinus NOS
+Chronic sinusitis,7415.00,7738,FESS - diagnostic endoscopy of nose and sinus
+Chronic sinusitis,7415.11,20806,FESS - diagnostic nasal antroscopy
+Chronic sinusitis,7415000,103022,FESS - diagnostic antroscopy via canine fossa
+Chronic sinusitis,7415100,105121,FESS - diagnostic antroscopy via inferior meatus
+Chronic sinusitis,7415200,59339,FESS - diagnostic antroscopy via middle meatus
+Chronic sinusitis,7415y00,41887,FESS/Diagnostic endoscopy of nose or sinus OS
+Chronic sinusitis,7415z00,33709,FESS/Diagnostic endoscopy of nose or sinus NOS
+Chronic sinusitis,7416.00,6491,FESS/Therapeutic endoscopy of nose and sinus
+Chronic sinusitis,7416.11,21923,FESS/Therapeutic nasal antroscopy
+Chronic sinusitis,7416100,99561,FESS/Therapeutic antroscopy via inferior meatus
+Chronic sinusitis,7416200,62936,FESS/Therapeutic antroscopy via middle meatus
+Chronic sinusitis,7416300,8220,FESS/Uncinectomy
+Chronic sinusitis,7416400,59019,FESS/Uncinectomy and excision of bulla
+Chronic sinusitis,7416500,20832,FESS/Anterior ethmoidectomy
+Chronic sinusitis,7416600,49348,FESS/Anterior ethmoidectomy and frontal recess dissection
+Chronic sinusitis,7416700,33922,FESS/Anterior and posterior ethmoidectomy
+Chronic sinusitis,7416800,37481,FESS/Sphenoidectomy
+Chronic sinusitis,7416900,18869,FESS/Antrostomy via middle meatus
+Chronic sinusitis,7416A00,46336,FESS/Antrostomy via inferior meatus
+Chronic sinusitis,7416B00,35389,FESS/Excisional surgery to middle turbinate
+Chronic sinusitis,7416C00,18083,FESS - post operative suction clearance (local anaesthetic)
+Chronic sinusitis,7416D00,16626,FESS - post operative removal of polyps (local anaesthetic)
+Chronic sinusitis,7416E00,7243,FESS/Post operative division of adhesions
+Chronic sinusitis,7416F00,42166,Functional endoscopic sinus surg - polypectomy nasal sinus
+Chronic sinusitis,7416y00,45995,FESS - therapeutic endoscopy of nose or sinus OS
+Chronic sinusitis,7416z00,34973,FESS - therapeutic endoscopy of nose or sinus NOS
+Chronic sinusitis,7417000,92311,Frontal sinus osteoplasty
+Chronic sinusitis,7417y00,92967,Other specified other operations on frontal sinus
+Chronic sinusitis,7417z00,94014,Other operations on frontal sinus
+Chronic sinusitis,7417z00,39139,Other operations on frontal sinus NOS
+Chronic sinusitis,7418.00,100959,Diagnostic nasendoscopy
+Chronic sinusitis,741y.00,19480,Other specified operations on nasal sinus
+Chronic sinusitis,741z.00,33756,Nasal sinus operations NOS
+Chronic sinusitis,7M1B000,68003,Functional endoscopic sinus surgery
+Chronic sinusitis,7M1B100,86064,Functional endoscopic nasal surgery
+Chronic sinusitis,H01..11,243,Sinusitis
+Chronic sinusitis,H11y.11,19742,Nasal sinus polyps
+Chronic sinusitis,H11y100,11744,Polyp of ethmoidal sinus
+Chronic sinusitis,H11y200,35897,Polyp of maxillary sinus
+Chronic sinusitis,H13..00,2257,Chronic sinusitis
+Chronic sinusitis,H13..11,10546,Chronic rhinosinusitis
+Chronic sinusitis,H130.00,4433,Chronic maxillary sinusitis
+Chronic sinusitis,H130.11,33437,Antritis - chronic
+Chronic sinusitis,H130.12,3624,Maxillary sinusitis
+Chronic sinusitis,H131.00,15163,Chronic frontal sinusitis
+Chronic sinusitis,H131.11,2984,Frontal sinusitis
+Chronic sinusitis,H132.00,1674,Chronic ethmoidal sinusitis
+Chronic sinusitis,H133.00,48703,Chronic sphenoidal sinusitis
+Chronic sinusitis,H134.00,29429,Fistula of nasal sinus
+Chronic sinusitis,H135.00,17173,Recurrent sinusitis
+Chronic sinusitis,H13y.00,49548,Other chronic sinusitis
+Chronic sinusitis,H13y000,39501,Chronic pansinusitis
+Chronic sinusitis,H13y100,2233,Pansinusitis
+Chronic sinusitis,H13yz00,54375,Other chronic sinusitis NOS
+Chronic sinusitis,H13z.00,5437,Chronic sinusitis NOS
+Chronic sinusitis,H17..12,18572,Allergic rhinosinusitis
+Chronic sinusitis,Hyu2200,63733,[X]Other chronic sinusitis
+Chronic sinusitis,J083500,6354,Oroantral fistula

@@ -1,0 +1,26 @@
+Condition,ReadCode,MedCode,ReadTerm
+Primary malignancy biliary tract,B151.00,16915,Malignant neoplasm of intrahepatic bile ducts
+Primary malignancy biliary tract,B151000,65124,Malignant neoplasm of interlobular bile ducts
+Primary malignancy biliary tract,B151200,89593,Malignant neoplasm of intrahepatic biliary passages
+Primary malignancy biliary tract,B151400,58088,Malignant neoplasm of intrahepatic gall duct
+Primary malignancy biliary tract,B151z00,61643,Malignant neoplasm of intrahepatic bile ducts NOS
+Primary malignancy biliary tract,B161.00,23433,Malignant neoplasm of extrahepatic bile ducts
+Primary malignancy biliary tract,B161000,72445,Malignant neoplasm of cystic duct
+Primary malignancy biliary tract,B161100,52537,Malignant neoplasm of hepatic duct
+Primary malignancy biliary tract,B161200,7982,Malignant neoplasm of common bile duct
+Primary malignancy biliary tract,B161211,36495,Carcinoma common bile duct
+Primary malignancy biliary tract,B161300,105613,Malignant neoplasm of sphincter of Oddi
+Primary malignancy biliary tract,B161z00,74896,Malignant neoplasm of extrahepatic bile ducts NOS
+Primary malignancy biliary tract,B162.00,10949,Malignant neoplasm of ampulla of Vater
+Primary malignancy biliary tract,B163.00,35039,"Malignant neoplasm, overlapping lesion of biliary tract"
+Primary malignancy biliary tract,B808100,99580,Carcinoma in situ of intrahepatic bile ducts
+Primary malignancy biliary tract,B808500,64089,Carcinoma in situ of common bile duct
+Primary malignancy biliary tract,B903100,114243,Neoplasm of uncertain behaviour of intra-hepatic bile ducts
+Primary malignancy biliary tract,B903500,73587,Neoplasm of uncertain behaviour of common bile duct
+Primary malignancy biliary tract,BB5D.00,36031,[M]Hepatobiliary tract adenomas and carcinomas
+Primary malignancy biliary tract,BB5D.11,70516,[M]Biliary tract adenomas and adenocarcinomas
+Primary malignancy biliary tract,BB5D100,8711,[M]Cholangiocarcinoma
+Primary malignancy biliary tract,BB5D111,40438,[M]Bile duct carcinoma
+Primary malignancy biliary tract,BB5D300,41313,[M]Bile duct cystadenocarcinoma
+Primary malignancy biliary tract,BB5D700,107299,[M]Combined hepatocellular carcinoma and cholangiocarcinoma
+Primary malignancy biliary tract,BB5D711,110147,[M]Hepatocholangiocarcinoma

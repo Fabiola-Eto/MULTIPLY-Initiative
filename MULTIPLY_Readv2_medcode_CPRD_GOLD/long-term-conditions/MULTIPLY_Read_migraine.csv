@@ -1,0 +1,27 @@
+Condition,ReadCode,MedCode,ReadTerm
+Migraine,1474.00,5029,H/O: migraine
+Migraine,1474000,103451,H/O migraine with aura
+Migraine,8B6N.00,11389,Migraine prophylaxis
+Migraine,F26..00,161,Migraine
+Migraine,F260.00,3220,Classical migraine
+Migraine,F260.11,103502,Migraine with aura
+Migraine,F261.00,2424,Common migraine
+Migraine,F261.11,103602,Migraine without aura
+Migraine,F261000,9633,Atypical migraine
+Migraine,F261z00,41497,Common migraine NOS
+Migraine,F262.00,5509,Migraine variants
+Migraine,F262200,2861,Abdominal migraine
+Migraine,F262300,9004,Basilar migraine
+Migraine,F262400,10583,Ophthalmic migraine
+Migraine,F262800,103973,Migraine induced by oestrogen contraceptive
+Migraine,F262z00,23621,Migraine variant NOS
+Migraine,F26y.00,28031,Other forms of migraine
+Migraine,F26y000,3658,Hemiplegic migraine
+Migraine,F26y100,12511,Ophthalmoplegic migraine
+Migraine,F26y111,65262,Moebius' ophthalmoplegic migraine
+Migraine,F26y200,22685,Status migrainosus
+Migraine,F26y300,27930,Complicated migraine
+Migraine,F26yz00,28092,Other forms of migraine NOS
+Migraine,F26z.00,14700,Migraine NOS
+Migraine,Fyu5300,53813,[X]Other migraine
+Migraine,K584.11,11138,Migraine - menstrual

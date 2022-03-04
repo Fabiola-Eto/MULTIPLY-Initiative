@@ -1,0 +1,6 @@
+Condition,ReadCode,MedCode,ReadTerm
+Primary malignancy thyroid,B53..00,5637,Malignant neoplasm of thyroid gland
+Primary malignancy thyroid,B8yy000,8958,Carcinoma in situ of thyroid gland
+Primary malignancy thyroid,B924000,17415,Neoplasm of uncertain behaviour of thyroid gland
+Primary malignancy thyroid,B924100,46892,Neoplasm of uncertain behaviour of parathyroid gland
+Primary malignancy thyroid,ZV10y15,35771,[V]Personal history of malignant neoplasm of thyroid

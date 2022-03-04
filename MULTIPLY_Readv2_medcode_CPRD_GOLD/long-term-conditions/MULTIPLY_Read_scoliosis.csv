@@ -1,0 +1,27 @@
+Condition,ReadCode,MedCode,ReadTerm
+Scoliosis,2376.00,7136,O/E - kyphoscoliotic chest def
+Scoliosis,7J44111,22657,Dwyer anterior wiring of spine for scoliosis
+Scoliosis,G411.00,42901,Kyphoscoliotic heart disease
+Scoliosis,N373.00,714,Kyphoscoliosis and scoliosis
+Scoliosis,N373000,755,Idiopathic scoliosis
+Scoliosis,N373100,14790,Idiopathic kyphoscoliosis
+Scoliosis,N373200,36682,Resolving infantile idiopathic scoliosis
+Scoliosis,N373300,45232,Progressive infantile idiopathic scoliosis
+Scoliosis,N373500,3059,Thoracogenic scoliosis
+Scoliosis,N373600,3705,Postural scoliosis
+Scoliosis,N373700,12549,Adolescent idiopathic scoliosis
+Scoliosis,N373800,27725,Post-surgical scoliosis
+Scoliosis,N373900,53972,Scoliosis secondary to other treatment
+Scoliosis,N373z00,11620,Kyphoscoliosis or scoliosis NOS
+Scoliosis,N374.11,10664,"Kyphosis, scoliosis, and lordosis associated with oth cond"
+Scoliosis,N374300,40041,Scoliosis associated with other condition
+Scoliosis,N374A00,64218,Scoliosis in skeletal dysplasia
+Scoliosis,N374B00,45554,Neuromuscular scoliosis
+Scoliosis,N374C00,67445,Scoliosis in neurofibromatosis
+Scoliosis,N374D00,43192,Scoliosis in connective tissue anomalies
+Scoliosis,Nyu5300,72582,[X]Other idiopathic scoliosis
+Scoliosis,Nyu5400,53874,[X]Other secondary scoliosis
+Scoliosis,Nyu5500,56368,[X]Other forms of scoliosis
+Scoliosis,PE22.00,4330,Congenital postural scoliosis
+Scoliosis,PE23.00,9567,Congenital scoliosis due to congenital bony malformation
+Scoliosis,PG18.11,28717,Congenital kyphoscoliosis

@@ -1,0 +1,71 @@
+Condition,ReadCode,MedCode,ReadTerm
+Other anaemias,145..11,5833,H/O: anaemia
+Other anaemias,1454.00,24953,H/O: anaemia NOS
+Other anaemias,4234.00,35749,Haemoglobin very low
+Other anaemias,4235.00,3942,Haemoglobin low
+Other anaemias,D0...00,7841,Deficiency anaemias
+Other anaemias,D00..11,882,Hypochromic - microcytic anaemia
+Other anaemias,D00..12,539,Microcytic - hypochromic anaemia
+Other anaemias,D00y100,4839,Microcytic hypochromic anaemia
+Other anaemias,D00z200,40750,Idiopathic hypochromic anaemia
+Other anaemias,D01..00,11961,Other deficiency anaemias
+Other anaemias,D01..11,4475,Megaloblastic anaemia
+Other anaemias,D012112,59103,Megaloblastic anaemia due to dietary causes
+Other anaemias,D012500,3981,Macrocytic anaemia unspecified cause
+Other anaemias,D013.00,51489,Other specified megaloblastic anaemia NEC
+Other anaemias,D013z00,56348,Other specified megaloblastic anaemia NEC NOS
+Other anaemias,D014.00,2452,Protein-deficiency anaemia
+Other anaemias,D014000,64601,Amino-acid deficiency anaemia
+Other anaemias,D014100,71773,Oroticaciduria
+Other anaemias,D014z00,70835,Protein-deficiency anaemia NOS
+Other anaemias,D01y.00,58136,Other specified nutritional deficiency anaemia
+Other anaemias,D01y000,104812,Vitamin C deficiency anaemia
+Other anaemias,D01y100,62257,Vitamin E deficiency anaemia
+Other anaemias,D01yy00,100576,Other specified other nutritional deficiency anaemia
+Other anaemias,D01yz00,92106,Other specified nutritional deficiency anaemia NOS
+Other anaemias,D01z.00,57274,Other deficiency anaemias NOS
+Other anaemias,D01z.11,53799,Megaloblastic anaemia NOS
+Other anaemias,D01z000,10506,[X]Megaloblastic anaemia NOS
+Other anaemias,D0y..00,26327,Other specified deficiency anaemias
+Other anaemias,D0z..00,8054,Deficiency anaemias NOS
+Other anaemias,D104100,1174,Thalassaemia minor NEC
+Other anaemias,D104400,12235,Alpha trait thalassaemia
+Other anaemias,D104500,9864,Beta trait thalassaemia
+Other anaemias,D104800,27761,Beta minor thalassaemia
+Other anaemias,D2...00,37539,Aplastic and other anaemias
+Other anaemias,D21..00,3265,Other and unspecified anaemias
+Other anaemias,D210.00,15936,Sideroblastic anaemia
+Other anaemias,D210000,43330,Congenital sideroblastic anaemia
+Other anaemias,D210100,41699,Acquired sideroblastic anaemia
+Other anaemias,D210200,72276,Pyridoxine-responsive sideroblastic anaemia
+Other anaemias,D210300,31550,Secondary sideroblastic anaemia due to disease
+Other anaemias,D210400,47225,Secondary sideroblastic anaemia due to drugs and toxins
+Other anaemias,D210z00,94387,Sideroblastic anaemia NOS
+Other anaemias,D211.00,2743,Acute posthaemorrhagic anaemia
+Other anaemias,D211.11,45929,Normocytic anaemia following acute bleed
+Other anaemias,D212.00,30637,Anaemia in neoplastic disease
+Other anaemias,D212000,48145,Anaemia in ovarian carcinoma
+Other anaemias,D213.00,16052,Refractory Anaemia
+Other anaemias,D214.00,12176,Chronic anaemia
+Other anaemias,D215.00,16929,Anaemia secondary to renal failure
+Other anaemias,D215000,25394,Anaemia secondary to chronic renal failure
+Other anaemias,D21y.00,34934,Other specified anaemias
+Other anaemias,D21y000,53422,Congenital dyshaematopoietic anaemia
+Other anaemias,D21y011,31040,Congenital dyserythropoietic anaemia
+Other anaemias,D21y012,56752,Congenital dyserythropoiesis NEC
+Other anaemias,D21y200,33278,Leukoerythroblastic anaemia
+Other anaemias,D21y300,70732,Hereditary erythroblast multinuclearity + positive acid test
+Other anaemias,D21yy00,58695,Other specified other anaemia
+Other anaemias,D21yz00,28768,Other specified anaemia NOS
+Other anaemias,D21z.00,739,Anaemia unspecified
+Other anaemias,D21z.11,4670,Secondary anaemia NOS
+Other anaemias,D21z.12,1702,Normocytic anaemia due to unspecified cause
+Other anaemias,D21z.13,797,Macrocytic anaemia of unspecified cause
+Other anaemias,D2y..00,25876,Other specified anaemias
+Other anaemias,D2z..00,35160,Other anaemias NOS
+Other anaemias,Dyu0.00,71840,[X]Nutritional anaemias
+Other anaemias,Dyu2200,31205,[X]Anaemia in other chronic diseases classified elsewhere
+Other anaemias,Dyu2400,51169,[X]Other specified anaemias
+Other anaemias,Q455.00,31248,Congenital anaemia
+Other anaemias,Q456.00,19574,Anaemia of prematurity
+Other anaemias,Qyu5C00,99222,"[X]Other congenital anaemias, not elsewhere classified"

@@ -1,0 +1,130 @@
+Condition,ReadCode,MedCode,ReadTerm
+Leukaemia,1429.00,17177,H/O: * leukaemia
+Leukaemia,B624.00,27330,Leukaemic reticuloendotheliosis
+Leukaemia,B624.11,5137,Leukaemic reticuloendotheliosis
+Leukaemia,B624.12,87335,Hairy cell leukaemia
+Leukaemia,B624000,65122,Leukaemic reticuloendotheliosis of unspecified sites
+Leukaemia,B624300,65123,Leukaemic reticuloend of intra-abdominal lymph nodes
+Leukaemia,B624z00,73777,Leukaemic reticuloendotheliosis NOS
+Leukaemia,B64..00,19372,Lymphoid leukaemia
+Leukaemia,B64..11,4222,Lymphatic leukaemia
+Leukaemia,B640.00,4251,Acute lymphoid leukaemia
+Leukaemia,B640000,104325,B-cell acute lymphoblastic leukaemia
+Leukaemia,B641.00,8625,Chronic lymphoid leukaemia
+Leukaemia,B641.11,27790,Chronic lymphatic leukaemia
+Leukaemia,B641000,104328,B-cell chronic lymphocytic leukaemia
+Leukaemia,B641011,107017,Chronic lymphocytic leukaemia of B-cell type
+Leukaemia,B641100,107052,Clinical stage A chronic lymphocytic leukaemia
+Leukaemia,B641200,106924,Clinical stage B chronic lymphocytic leukaemia
+Leukaemia,B641300,107163,Clinical stage C chronic lymphocytic leukaemia
+Leukaemia,B642.00,72774,Subacute lymphoid leukaemia
+Leukaemia,B64y.00,49725,Other lymphoid leukaemia
+Leukaemia,B64y100,31586,Prolymphocytic leukaemia
+Leukaemia,B64y200,37461,Adult T-cell leukaemia
+Leukaemia,B64y300,108656,B-cell prolymphocytic leukaemia
+Leukaemia,B64y400,107643,T-cell prolymphocytic leukaemia
+Leukaemia,B64y500,104939,Adult T-cell lymphoma/leukaemia (HTLV-1-associated)
+Leukaemia,B64yz00,38331,Other lymphoid leukaemia NOS
+Leukaemia,B64z.00,38914,Lymphoid leukaemia NOS
+Leukaemia,B65..00,7176,Myeloid leukaemia
+Leukaemia,B650.00,4413,Acute myeloid leukaemia
+Leukaemia,B651.00,10726,Chronic myeloid leukaemia
+Leukaemia,B651.11,31701,Chronic granulocytic leukaemia
+Leukaemia,B651100,105957,"Chronic myeloid leukaemia, BCR/ABL positive"
+Leukaemia,B651200,102783,Chronic neutrophilic leukaemia
+Leukaemia,B651300,107236,"Atypical chronic myeloid leukaemia, BCR/ABL negative"
+Leukaemia,B651z00,27520,Chronic myeloid leukaemia NOS
+Leukaemia,B652.00,63475,Subacute myeloid leukaemia
+Leukaemia,B653.00,70724,Myeloid sarcoma
+Leukaemia,B653000,52327,Chloroma
+Leukaemia,B653100,39629,Granulocytic sarcoma
+Leukaemia,B654.00,104788,Acute myeloblastic leukaemia
+Leukaemia,B65y100,27664,Acute promyelocytic leukaemia
+Leukaemia,B65yz00,66089,Other myeloid leukaemia NOS
+Leukaemia,B65z.00,33344,Myeloid leukaemia NOS
+Leukaemia,B66..00,35875,Monocytic leukaemia
+Leukaemia,B66..11,108715,Histiocytic leukaemia
+Leukaemia,B66..12,67700,Monoblastic leukaemia
+Leukaemia,B660.00,19974,Acute monocytic leukaemia
+Leukaemia,B661.00,27458,Chronic monocytic leukaemia
+Leukaemia,B662.00,101606,Subacute monocytic leukaemia
+Leukaemia,B663.00,108424,Acute monoblastic leukaemia
+Leukaemia,B66y.00,99015,Other monocytic leukaemia
+Leukaemia,B66yz00,103645,Other monocytic leukaemia NOS
+Leukaemia,B66z.00,93342,Monocytic leukaemia NOS
+Leukaemia,B67..00,37272,Other specified leukaemia
+Leukaemia,B670.00,42539,Acute erythraemia and erythroleukaemia
+Leukaemia,B670.11,27340,Di Guglielmo's disease
+Leukaemia,B672.00,57671,Megakaryocytic leukaemia
+Leukaemia,B672.11,65777,Thrombocytic leukaemia
+Leukaemia,B673.00,65721,Mast cell leukaemia
+Leukaemia,B674.00,50858,Acute panmyelosis
+Leukaemia,B675.00,28276,Acute myelofibrosis
+Leukaemia,B677.00,104273,Myelodysplastic and myeloproliferative disease
+Leukaemia,B67y.00,94174,Other and unspecified leukaemia
+Leukaemia,B67y000,72197,Lymphosarcoma cell leukaemia
+Leukaemia,B67yz00,99413,Other and unspecified leukaemia NOS
+Leukaemia,B67z.00,30632,Other specified leukaemia NOS
+Leukaemia,B68..00,25191,Leukaemia of unspecified cell type
+Leukaemia,B680.00,4072,Acute leukaemia NOS
+Leukaemia,B681.00,16416,Chronic leukaemia NOS
+Leukaemia,B682.00,54793,Subacute leukaemia NOS
+Leukaemia,B68y.00,34692,Other leukaemia of unspecified cell type
+Leukaemia,B68z.00,4250,Leukaemia NOS
+Leukaemia,B69..00,20440,Myelomonocytic leukaemia
+Leukaemia,B690.00,61500,Acute myelomonocytic leukaemia
+Leukaemia,B691.00,22050,Chronic myelomonocytic leukaemia
+Leukaemia,B692.00,104475,Subacute myelomonocytic leukaemia
+Leukaemia,B693.00,105069,Juvenile myelomonocytic leukaemia
+Leukaemia,BBr..00,4637,[M]Leukaemias
+Leukaemia,BBr0.00,40420,[M]Leukaemias unspecified
+Leukaemia,BBr0000,41734,[M]Leukaemia NOS
+Leukaemia,BBr0100,6316,[M]Acute leukaemia NOS
+Leukaemia,BBr0111,22071,[M]Blast cell leukaemia
+Leukaemia,BBr0112,64963,[M]Blastic leukaemia
+Leukaemia,BBr0113,63570,[M]Stem cell leukaemia
+Leukaemia,BBr0200,72179,[M]Subacute leukaemia NOS
+Leukaemia,BBr0300,31750,[M]Chronic leukaemia NOS
+Leukaemia,BBr0400,72310,[M]Aleukaemic leukaemia NOS
+Leukaemia,BBr0z00,59929,"[M]Leukaemia unspecified, NOS"
+Leukaemia,BBr2.00,48155,[M]Lymphoid leukaemias
+Leukaemia,BBr2000,12146,[M]Lymphoid leukaemia NOS
+Leukaemia,BBr2011,20635,[M]Lymphatic leukaemia
+Leukaemia,BBr2100,37410,[M]Acute lymphoid leukaemia
+Leukaemia,BBr2300,41500,[M]Chronic lymphoid leukaemia
+Leukaemia,BBr2500,46048,[M]Prolymphocytic leukaemia
+Leukaemia,BBr2600,50928,[M]Burkitt's cell leukaemia
+Leukaemia,BBr2700,29335,[M]Adult T-cell leukaemia/lymphoma
+Leukaemia,BBr4.00,46444,[M]Erythroleukaemias
+Leukaemia,BBr4000,70935,[M]Erythroleukaemia
+Leukaemia,BBr4z00,100927,[M]Erythroleukaemia NOS
+Leukaemia,BBr6.00,35697,[M]Myeloid leukaemias
+Leukaemia,BBr6000,71850,[M]Myeloid leukaemia NOS
+Leukaemia,BBr6011,37723,[M]Granulocytic leukaemia NOS
+Leukaemia,BBr6100,54585,[M]Acute myeloid leukaemia
+Leukaemia,BBr6200,106483,[M]Subacute myeloid leukaemia
+Leukaemia,BBr6300,52942,[M]Chronic myeloid leukaemia
+Leukaemia,BBr6311,66694,[M]Naegeli-type monocytic leukaemia
+Leukaemia,BBr6600,57316,[M]Acute promyelocytic leukaemia
+Leukaemia,BBr6700,46263,[M]Acute myelomonocytic leukaemia
+Leukaemia,BBr6800,48049,[M]Chronic myelomonocytic leukaemia
+Leukaemia,BBr6900,108964,[M]Juvenile myelomonocytic leukaemia
+Leukaemia,BBr6z00,62330,[M]Other myeloid leukaemia NOS
+Leukaemia,BBr7000,106197,[M]Basophilic leukaemia
+Leukaemia,BBr9000,73088,[M]Monocytic leukaemia NOS
+Leukaemia,BBrA.00,73066,[M]Miscellaneous leukaemias
+Leukaemia,BBrA100,72222,[M]Megakaryocytic leukaemia
+Leukaemia,BBrA111,69299,[M]Thrombocytic leukaemia
+Leukaemia,BBrA400,5915,[M]Hairy cell leukaemia
+Leukaemia,BBrA500,49327,[M]Acute megakaryoblastic leukaemia
+Leukaemia,BBrAz00,108316,[M]Miscellaneous leukaemia NOS
+Leukaemia,BBrz.00,42297,[M]Leukaemia NOS
+Leukaemia,ByuD500,67029,[X]Other lymphoid leukaemia
+Leukaemia,ByuD600,61693,[X]Other myeloid leukaemia
+Leukaemia,ByuD700,89762,[X]Other monocytic leukaemia
+Leukaemia,ByuD800,89329,[X]Other specified leukaemias
+Leukaemia,ByuD900,65165,[X]Other leukaemia of unspecified cell type
+Leukaemia,ZV10600,36693,[V]Personal history of leukaemia
+Leukaemia,ZV10611,94597,[V]Personal history of lymphoid leukaemia
+Leukaemia,ZV10613,110058,[V]Personal history of myeloid leukaemia
+Leukaemia,ZV67811,53477,[V]Follow-up examination after chemotherapy for leukaemia

@@ -1,0 +1,14 @@
+Condition,ReadCode,MedCode,ReadTerm
+Primary malignancy prostate,1427000,102314,H/O: prostate cancer
+Primary malignancy prostate,4M0..00,10178,Gleason grading of prostate cancer
+Primary malignancy prostate,4M00.00,18503,Gleason prostate grade 2-4 (low)
+Primary malignancy prostate,4M01.00,18612,Gleason prostate grade 5-7 (medium)
+Primary malignancy prostate,4M02.00,26081,Gleason prostate grade 8-10 (high)
+Primary malignancy prostate,7B20000,9541,Radical cystoprostatourethrectomy
+Primary malignancy prostate,7B20200,10633,Radical cystoprostatectomy
+Primary malignancy prostate,7B36000,4997,Radical prostatectomy - unspecified excision of pelvic nodes
+Primary malignancy prostate,7B36500,12593,Radical prostatectomy without pelvic node excision
+Primary malignancy prostate,7B36600,11492,Radical prostatectomy with pelvic node sampling
+Primary malignancy prostate,7B36700,9533,Radical prostatectomy with pelvic lymphadenectomy
+Primary malignancy prostate,B46..00,780,Malignant neoplasm of prostate
+Primary malignancy prostate,ZV10415,37306,[V]Personal history of malignant neoplasm of prostate

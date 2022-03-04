@@ -1,0 +1,15 @@
+Condition,ReadCode,MedCode,ReadTerm
+Primary malignancy mesothelioma,B181.00,17874,Mesothelioma of peritoneum
+Primary malignancy mesothelioma,B226.00,7484,Mesothelioma
+Primary malignancy mesothelioma,B232.00,9600,Mesothelioma of pleura
+Primary malignancy mesothelioma,B241400,101885,Mesothelioma of pericardium
+Primary malignancy mesothelioma,BBP1.00,27509,"[M]Mesothelioma, malignant"
+Primary malignancy mesothelioma,BBP3.00,113440,"[M]Fibrous mesothelioma, malignant"
+Primary malignancy mesothelioma,BBP3.11,104720,[M]Sarcomatoid mesothelioma
+Primary malignancy mesothelioma,BBP5.00,47734,"[M]Epithelioid mesothelioma, malignant"
+Primary malignancy mesothelioma,BBP7.00,86820,"[M]Mesothelioma, biphasic type, malignant"
+Primary malignancy mesothelioma,BBP9.00,38756,[M]Cystic mesothelioma
+Primary malignancy mesothelioma,BBPX.00,21770,"[M]Mesothelioma, unspecified"
+Primary malignancy mesothelioma,Byu5000,67034,[X]Mesothelioma of other sites
+Primary malignancy mesothelioma,Byu5011,21715,[X]Mesothelioma of lung
+Primary malignancy mesothelioma,Byu5100,30526,"[X]Mesothelioma, unspecified"

@@ -1,0 +1,10 @@
+Condition,ReadCode,MedCode,ReadTerm
+Rosacea,F4C3100,30398,Rosacea conjunctivitis
+Rosacea,M153.00,970,Rosacea
+Rosacea,M153000,1518,Acne rosacea
+Rosacea,M153100,3582,Rhinophyma
+Rosacea,M153200,64861,Rosacea hypertrophica
+Rosacea,M153300,50603,Lupoid rosacea
+Rosacea,M153400,36835,Ocular rosacea
+Rosacea,M153z00,16014,Rosacea NOS
+Rosacea,Myu6900,53876,[X]Other rosacea

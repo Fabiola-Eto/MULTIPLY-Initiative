@@ -1,0 +1,122 @@
+Condition,ReadCode,MedCode,ReadTerm
+Primary malignancy bone and articular cartilage,B3...00,18608,"Malig neop of bone, connective tissue, skin and breast"
+Primary malignancy bone and articular cartilage,B3...11,9902,"Carcinoma of bone, connective tissue, skin and breast"
+Primary malignancy bone and articular cartilage,B30..00,18314,Malignant neoplasm of bone and articular cartilage
+Primary malignancy bone and articular cartilage,B300.00,59036,Malignant neoplasm of bones of skull and face
+Primary malignancy bone and articular cartilage,B300000,53594,Malignant neoplasm of ethmoid bone
+Primary malignancy bone and articular cartilage,B300100,53599,Malignant neoplasm of frontal bone
+Primary malignancy bone and articular cartilage,B300200,59520,Malignant neoplasm of malar bone
+Primary malignancy bone and articular cartilage,B300300,95458,Malignant neoplasm of nasal bone
+Primary malignancy bone and articular cartilage,B300400,55953,Malignant neoplasm of occipital bone
+Primary malignancy bone and articular cartilage,B300500,50298,Malignant neoplasm of orbital bone
+Primary malignancy bone and articular cartilage,B300600,54747,Malignant neoplasm of parietal bone
+Primary malignancy bone and articular cartilage,B300700,55595,Malignant neoplasm of sphenoid bone
+Primary malignancy bone and articular cartilage,B300800,62104,Malignant neoplasm of temporal bone
+Primary malignancy bone and articular cartilage,B300900,50299,Malignant neoplasm of zygomatic bone
+Primary malignancy bone and articular cartilage,B300A00,17475,Malignant neoplasm of maxilla
+Primary malignancy bone and articular cartilage,B300B00,96445,Malignant neoplasm of turbinate
+Primary malignancy bone and articular cartilage,B300C00,44452,Malignant neoplasm of vomer
+Primary malignancy bone and articular cartilage,B300z00,69146,Malignant neoplasm of bones of skull and face NOS
+Primary malignancy bone and articular cartilage,B301.00,33833,Malignant neoplasm of mandible
+Primary malignancy bone and articular cartilage,B302.00,16704,Malignant neoplasm of vertebral column
+Primary malignancy bone and articular cartilage,B302000,46939,Malignant neoplasm of cervical vertebra
+Primary malignancy bone and articular cartilage,B302100,32372,Malignant neoplasm of thoracic vertebra
+Primary malignancy bone and articular cartilage,B302200,54691,Malignant neoplasm of lumbar vertebra
+Primary malignancy bone and articular cartilage,B302z00,49701,Malignant neoplasm of vertebral column NOS
+Primary malignancy bone and articular cartilage,B303.00,27528,"Malignant neoplasm of ribs, sternum and clavicle"
+Primary malignancy bone and articular cartilage,B303000,37842,Malignant neoplasm of rib
+Primary malignancy bone and articular cartilage,B303100,49491,Malignant neoplasm of sternum
+Primary malignancy bone and articular cartilage,B303200,66639,Malignant neoplasm of clavicle
+Primary malignancy bone and articular cartilage,B303300,60403,Malignant neoplasm of costal cartilage
+Primary malignancy bone and articular cartilage,B303400,67763,Malignant neoplasm of costo-vertebral joint
+Primary malignancy bone and articular cartilage,B303500,54493,Malignant neoplasm of xiphoid process
+Primary malignancy bone and articular cartilage,B303z00,51237,"Malignant neoplasm of rib, sternum and clavicle NOS"
+Primary malignancy bone and articular cartilage,B304.00,71810,Malignant neoplasm of scapula and long bones of upper arm
+Primary malignancy bone and articular cartilage,B304000,49054,Malignant neoplasm of scapula
+Primary malignancy bone and articular cartilage,B304100,105797,Malignant neoplasm of acromion
+Primary malignancy bone and articular cartilage,B304200,61741,Malignant neoplasm of humerus
+Primary malignancy bone and articular cartilage,B304300,92371,Malignant neoplasm of radius
+Primary malignancy bone and articular cartilage,B304400,64848,Malignant neoplasm of ulna
+Primary malignancy bone and articular cartilage,B304z00,65880,Malig neop of scapula and long bones of upper arm NOS
+Primary malignancy bone and articular cartilage,B305.00,73530,Malignant neoplasm of hand bones
+Primary malignancy bone and articular cartilage,B305.11,106069,Malignant neoplasm of carpal bones
+Primary malignancy bone and articular cartilage,B305.12,72464,Malignant neoplasm of metacarpal bones
+Primary malignancy bone and articular cartilage,B305000,57988,Malignant neoplasm of carpal bone - scaphoid
+Primary malignancy bone and articular cartilage,B305100,69104,Malignant neoplasm of carpal bone - lunate
+Primary malignancy bone and articular cartilage,B305800,110993,Malignant neoplasm of first metacarpal bone
+Primary malignancy bone and articular cartilage,B305A00,108638,Malignant neoplasm of third metacarpal bone
+Primary malignancy bone and articular cartilage,B305C00,94427,Malignant neoplasm of fifth metacarpal bone
+Primary malignancy bone and articular cartilage,B305D00,86812,Malignant neoplasm of phalanges of hand
+Primary malignancy bone and articular cartilage,B305z00,73556,Malignant neoplasm of hand bones NOS
+Primary malignancy bone and articular cartilage,B306.00,54631,"Malignant neoplasm of pelvic bones, sacrum and coccyx"
+Primary malignancy bone and articular cartilage,B306000,44609,Malignant neoplasm of ilium
+Primary malignancy bone and articular cartilage,B306100,59223,Malignant neoplasm of ischium
+Primary malignancy bone and articular cartilage,B306200,51921,Malignant neoplasm of pubis
+Primary malignancy bone and articular cartilage,B306300,40966,Malignant neoplasm of sacral vertebra
+Primary malignancy bone and articular cartilage,B306400,66908,Malignant neoplasm of coccygeal vertebra
+Primary malignancy bone and articular cartilage,B306500,50152,Malignant sacral teratoma
+Primary malignancy bone and articular cartilage,B306z00,38938,"Malignant neoplasm of pelvis, sacrum or coccyx NOS"
+Primary malignancy bone and articular cartilage,B307.00,68055,Malignant neoplasm of long bones of leg
+Primary malignancy bone and articular cartilage,B307000,56513,Malignant neoplasm of femur
+Primary malignancy bone and articular cartilage,B307100,50402,Malignant neoplasm of fibula
+Primary malignancy bone and articular cartilage,B307200,40814,Malignant neoplasm of tibia
+Primary malignancy bone and articular cartilage,B307z00,62630,Malignant neoplasm of long bones of leg NOS
+Primary malignancy bone and articular cartilage,B308.00,105475,Malignant neoplasm of short bones of leg
+Primary malignancy bone and articular cartilage,B308.11,113608,Malignant neoplasm of metatarsal bones of foot
+Primary malignancy bone and articular cartilage,B308100,95182,Malignant neoplasm of talus
+Primary malignancy bone and articular cartilage,B308200,72212,Malignant neoplasm of calcaneum
+Primary malignancy bone and articular cartilage,B308300,34878,Malignant neoplasm of medial cuneiform
+Primary malignancy bone and articular cartilage,B308800,69927,Malignant neoplasm of first metatarsal bone
+Primary malignancy bone and articular cartilage,B308900,111426,Malignant neoplasm of second metatarsal bone
+Primary malignancy bone and articular cartilage,B308B00,92382,Malignant neoplasm of fourth metatarsal bone
+Primary malignancy bone and articular cartilage,B308D00,58949,Malignant neoplasm of phalanges of foot
+Primary malignancy bone and articular cartilage,B308z00,103354,Malignant neoplasm of short bones of leg NOS
+Primary malignancy bone and articular cartilage,B30W.00,67451,Malignant neoplasm/overlap lesion/bone+articulr cartilage
+Primary malignancy bone and articular cartilage,B30X.00,43614,"Malignant neoplasm/bones+articular cartilage/limb,unspfd"
+Primary malignancy bone and articular cartilage,B30z.00,16075,Malignant neoplasm of bone and articular cartilage NOS
+Primary malignancy bone and articular cartilage,B30z000,19437,Osteosarcoma
+Primary malignancy bone and articular cartilage,B3y..00,19389,"Malig neop of bone, connective tissue, skin and breast OS"
+Primary malignancy bone and articular cartilage,B3z..00,41011,"Malig neop of bone, connective tissue, skin and breast NOS"
+Primary malignancy bone and articular cartilage,B930.00,109359,Neop of uncertain behaviour of bone and articular cartilage
+Primary malignancy bone and articular cartilage,B930000,50333,Neoplasm of uncertain behaviour of bone
+Primary malignancy bone and articular cartilage,B930z00,62802,Neop uncertain behaviour of bone or articular cartilage NOS
+Primary malignancy bone and articular cartilage,BA02.00,73086,"Neoplasm of unspecified nature of bone, skin and soft tissue"
+Primary malignancy bone and articular cartilage,BA02000,48282,Neoplasm of unspecified nature of bone
+Primary malignancy bone and articular cartilage,BA02z00,85089,"Neoplasm of unspec nature of bone, skin or soft tissue NOS"
+Primary malignancy bone and articular cartilage,BBV..11,99665,[M]Juxtacortical osteogenic sarcoma
+Primary malignancy bone and articular cartilage,BBV..12,63571,[M]Parosteal osteosarcoma
+Primary malignancy bone and articular cartilage,BBV..13,105275,[M]Periosteal osteogenic sarcoma
+Primary malignancy bone and articular cartilage,BBV1.00,8660,[M]Osteosarcoma NOS
+Primary malignancy bone and articular cartilage,BBV1.11,49862,[M]Osteoblastic sarcoma
+Primary malignancy bone and articular cartilage,BBV1.12,59310,[M]Osteochondrosarcoma
+Primary malignancy bone and articular cartilage,BBV1.13,5052,[M]Osteogenic sarcoma NOS
+Primary malignancy bone and articular cartilage,BBV2.00,24539,[M]Chondroblastic osteosarcoma
+Primary malignancy bone and articular cartilage,BBV3.00,21447,[M]Fibroblastic osteosarcoma
+Primary malignancy bone and articular cartilage,BBV4.00,22561,[M]Telangiectatic osteosarcoma
+Primary malignancy bone and articular cartilage,BBV5.00,60631,[M]Osteosarcoma in Paget's disease of bone
+Primary malignancy bone and articular cartilage,BBV9.00,4118,[M]Myxoid chondrosarcoma
+Primary malignancy bone and articular cartilage,BBVA.00,29337,[M] Small cell osteosarcoma
+Primary malignancy bone and articular cartilage,BBW4.00,7941,[M]Chondrosarcoma NOS
+Primary malignancy bone and articular cartilage,BBW4.11,68220,[M]Fibrochondrosarcoma
+Primary malignancy bone and articular cartilage,BBW6.00,63659,[M]Juxtacortical chondrosarcoma
+Primary malignancy bone and articular cartilage,BBW8.00,98559,"[M]Chondroblastoma, malignant"
+Primary malignancy bone and articular cartilage,BBW9.00,52684,[M]Mesenchymal chondrosarcoma
+Primary malignancy bone and articular cartilage,BBX1.00,68956,"[M]Giant cell tumour of bone, malignant"
+Primary malignancy bone and articular cartilage,BBX1.11,50859,[M]Giant cell bone sarcoma
+Primary malignancy bone and articular cartilage,BBX1.12,31673,"[M]Osteoclastoma, malignant"
+Primary malignancy bone and articular cartilage,BBY0.00,4473,[M]Ewing's sarcoma
+Primary malignancy bone and articular cartilage,BBY0.11,49023,[M]Endothelial bone sarcoma
+Primary malignancy bone and articular cartilage,BBY1.00,38593,[M]Adamantinoma of long bones
+Primary malignancy bone and articular cartilage,BBY1.11,67430,[M]Tibial adamantinoma
+Primary malignancy bone and articular cartilage,BBZ2.00,72443,"[M]Odontogenic tumour, malignant"
+Primary malignancy bone and articular cartilage,BBZ2.11,93175,[M]Intraosseous carcinoma
+Primary malignancy bone and articular cartilage,BBZC.00,46741,[M]Ameloblastic odontosarcoma
+Primary malignancy bone and articular cartilage,BBZG.00,97593,"[M]Ameloblastoma, malignant"
+Primary malignancy bone and articular cartilage,BBZG.11,100267,"[M]Adamantinoma, malignant"
+Primary malignancy bone and articular cartilage,BBZN.00,68730,[M]Ameloblastic fibrosarcoma
+Primary malignancy bone and articular cartilage,BBZN.11,98483,[M]Odontogenic fibrosarcoma
+Primary malignancy bone and articular cartilage,Byu3.00,40749,[X]Malignant neoplasm of bone and articular cartilage
+Primary malignancy bone and articular cartilage,Byu3100,73296,"[X]Malignant neoplasm/bones+articular cartilage/limb,unspfd"
+Primary malignancy bone and articular cartilage,Byu3200,63300,[X]Malignant neoplasm/overlap lesion/bone+articulr cartilage
+Primary malignancy bone and articular cartilage,Byu3300,43151,"[X]Malignant neoplasm/bone+articular cartilage, unspecified"
+Primary malignancy bone and articular cartilage,ZV10y11,46282,[V]Personal history of malignant neoplasm of bone

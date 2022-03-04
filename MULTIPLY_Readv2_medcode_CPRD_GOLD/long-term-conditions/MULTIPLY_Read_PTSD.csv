@@ -1,0 +1,60 @@
+Condition,ReadCode,MedCode,ReadTerm
+Post-traumatic stress and stress-related disorders,13H4.12,723,Marital stress
+Post-traumatic stress and stress-related disorders,13HT100,1650,Stress at home
+Post-traumatic stress and stress-related disorders,13HT111,465,Domestic stress
+Post-traumatic stress and stress-related disorders,13JM.13,924,Stress at work
+Post-traumatic stress and stress-related disorders,1B1T.00,9642,Feeling stressed
+Post-traumatic stress and stress-related disorders,1S1..00,26251,Flashbacks
+Post-traumatic stress and stress-related disorders,1S10.00,91242,Short duration flashbacks
+Post-traumatic stress and stress-related disorders,1S11.00,109918,Long duration flashbacks
+Post-traumatic stress and stress-related disorders,1S12.00,74001,Episodic flashbacks
+Post-traumatic stress and stress-related disorders,67J..00,9134,Stress counselling
+Post-traumatic stress and stress-related disorders,9ON8.00,96503,Stress monitoring phone invite
+Post-traumatic stress and stress-related disorders,E28..00,276,Acute reaction to stress
+Post-traumatic stress and stress-related disorders,E280.00,11940,Acute panic state due to acute stress reaction
+Post-traumatic stress and stress-related disorders,E281.00,42737,Acute fugue state due to acute stress reaction
+Post-traumatic stress and stress-related disorders,E282.00,15551,Acute stupor state due to acute stress reaction
+Post-traumatic stress and stress-related disorders,E283.00,38640,Other acute stress reactions
+Post-traumatic stress and stress-related disorders,E283000,20245,Acute situational disturbance
+Post-traumatic stress and stress-related disorders,E283100,24847,Acute posttrauma stress state
+Post-traumatic stress and stress-related disorders,E283z00,29707,Other acute stress reaction NOS
+Post-traumatic stress and stress-related disorders,E284.00,23869,Stress reaction causing mixed disturbance of emotion/conduct
+Post-traumatic stress and stress-related disorders,E28z.00,26138,Acute stress reaction NOS
+Post-traumatic stress and stress-related disorders,E29..00,2826,Adjustment reaction
+Post-traumatic stress and stress-related disorders,E290000,2775,Grief reaction
+Post-traumatic stress and stress-related disorders,E292.00,24212,"Adjustment reaction, predominant disturbance other emotions"
+Post-traumatic stress and stress-related disorders,E292500,58013,Culture shock
+Post-traumatic stress and stress-related disorders,E292y00,48588,Adjustment reaction with mixed disturbance of emotion
+Post-traumatic stress and stress-related disorders,E292z00,15665,Adjustment reaction with disturbance of other emotion NOS
+Post-traumatic stress and stress-related disorders,E293.00,16415,Adjustment reaction with predominant disturbance of conduct
+Post-traumatic stress and stress-related disorders,E293000,6075,Adjustment reaction with aggression
+Post-traumatic stress and stress-related disorders,E293100,35914,Adjustment reaction with antisocial behaviour
+Post-traumatic stress and stress-related disorders,E293200,66398,Adjustment reaction with destructiveness
+Post-traumatic stress and stress-related disorders,E293z00,104891,Adjustment reaction with predominant disturbance conduct NOS
+Post-traumatic stress and stress-related disorders,E294.00,45603,Adjustment reaction with disturbance emotion and conduct
+Post-traumatic stress and stress-related disorders,E29y.00,41455,Other adjustment reactions
+Post-traumatic stress and stress-related disorders,E29y000,53362,Concentration camp syndrome
+Post-traumatic stress and stress-related disorders,E29y100,32387,Other post-traumatic stress disorder
+Post-traumatic stress and stress-related disorders,E29y200,35632,Adjustment reaction with physical symptoms
+Post-traumatic stress and stress-related disorders,E29y300,7716,Elective mutism due to an adjustment reaction
+Post-traumatic stress and stress-related disorders,E29y400,27390,Adjustment reaction due to hospitalisation
+Post-traumatic stress and stress-related disorders,E29y500,19921,Other adjustment reaction with withdrawal
+Post-traumatic stress and stress-related disorders,E29yz00,23462,Other adjustment reactions NOS
+Post-traumatic stress and stress-related disorders,E29z.00,37669,Adjustment reaction NOS
+Post-traumatic stress and stress-related disorders,Eu43.00,11098,"[X]Reaction to severe stress, and adjustment disorders"
+Post-traumatic stress and stress-related disorders,Eu43000,11607,[X]Acute stress reaction
+Post-traumatic stress and stress-related disorders,Eu43012,10535,[X]Acute reaction to stress
+Post-traumatic stress and stress-related disorders,Eu43100,4171,[X]Post - traumatic stress disorder
+Post-traumatic stress and stress-related disorders,Eu43200,11336,[X]Adjustment disorders
+Post-traumatic stress and stress-related disorders,Eu43300,101785,[X]Acute post-traumatic stress disorder follow military comb
+Post-traumatic stress and stress-related disorders,Eu43400,101725,[X]Chron post-traumatic stress disorder follow military comb
+Post-traumatic stress and stress-related disorders,Eu43500,113199,[X]Delayed post-traumat stress disorder follow military comb
+Post-traumatic stress and stress-related disorders,Eu43y00,21753,[X]Other reactions to severe stress
+Post-traumatic stress and stress-related disorders,Eu43z00,31515,"[X]Reaction to severe stress, unspecified"
+Post-traumatic stress and stress-related disorders,R00zW00,8250,"[D]State of emotional shock and stress, unspecified"
+Post-traumatic stress and stress-related disorders,Ry15.00,27665,[D]Undue concern and preoccupation with stressful events
+Post-traumatic stress and stress-related disorders,Ryu5800,56020,"[X]State of emotional shock and stress, unspecified"
+Post-traumatic stress and stress-related disorders,Z771.00,11376,Stress management
+Post-traumatic stress and stress-related disorders,Z7CG400,11267,Flashbacks
+Post-traumatic stress and stress-related disorders,ZS7C700,99609,Post-traumatic mutism
+Post-traumatic stress and stress-related disorders,ZV4B200,7098,[V]Stressful work schedule

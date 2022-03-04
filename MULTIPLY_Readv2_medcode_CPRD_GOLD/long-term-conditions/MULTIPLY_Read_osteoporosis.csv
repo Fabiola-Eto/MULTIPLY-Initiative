@@ -1,0 +1,66 @@
+Condition,ReadCode,MedCode,ReadTerm
+Osteoporosis,14G6.00,18731,H/O: fragility fracture
+Osteoporosis,14GB.00,99817,History of osteoporosis
+Osteoporosis,2126500,101386,Osteoporosis resolved
+Osteoporosis,2126600,101249,Osteopenia resolved
+Osteoporosis,585O.00,51891,Quantitative ultrasound scan of heel - result osteoporotic
+Osteoporosis,58E4.00,13987,Forearm DXA scan result osteoporotic
+Osteoporosis,58EA.00,46510,Heel DXA scan result osteoporotic
+Osteoporosis,58EG.00,42354,Hip DXA scan result osteoporotic
+Osteoporosis,58EM.00,39217,Lumbar DXA scan result osteoporotic
+Osteoporosis,58EV.00,96342,Femoral neck DEXA scan result osteoporotic
+Osteoporosis,66a..00,11603,Osteoporosis monitoring
+Osteoporosis,66a2.00,37646,Osteoporosis treatment started
+Osteoporosis,66a4.00,34129,Osteoporosis treatment changed
+Osteoporosis,66a5.00,48962,Osteoporosis - no treatment
+Osteoporosis,66aB.00,98189,Osteoporosis - no treatment response
+Osteoporosis,8B31E00,110401,Osteoporosis medication compliance review
+Osteoporosis,9kj..00,98433,Osteoporosis - enhanced services administration
+Osteoporosis,9kj0.00,98760,Bone sparing drug treatment offered for osteoporosis - ESA
+Osteoporosis,9Od..00,36796,Osteoporosis monitoring administration
+Osteoporosis,9Od0.00,65163,Attends osteoporosis monitoring
+Osteoporosis,9Od2.00,92887,Osteoporosis monitoring default
+Osteoporosis,9Od3.00,68122,Osteoporosis monitoring first letter
+Osteoporosis,9Od4.00,93455,Osteoporosis monitoring second letter
+Osteoporosis,9Od5.00,102017,Osteoporosis monitoring third letter
+Osteoporosis,9Od6.00,105290,Osteoporosis monitoring verbal invitation
+Osteoporosis,9Od7.00,61121,Osteoporosis monitoring telephone invitation
+Osteoporosis,9Od8.00,96779,Osteoporosis monitoring deleted
+Osteoporosis,9Od9.00,25534,Osteoporosis monitoring check done
+Osteoporosis,N330.00,277,Osteoporosis
+Osteoporosis,N330000,14967,"Osteoporosis, unspecified"
+Osteoporosis,N330100,16307,Senile osteoporosis
+Osteoporosis,N330200,9700,Postmenopausal osteoporosis
+Osteoporosis,N330300,40428,Idiopathic osteoporosis
+Osteoporosis,N330400,62702,Dissuse osteoporosis
+Osteoporosis,N330500,24093,Drug-induced osteoporosis
+Osteoporosis,N330600,70349,Postoophorectomy osteoporosis
+Osteoporosis,N330700,93655,Postsurgical malabsorption osteoporosis
+Osteoporosis,N330A00,31580,Osteoporosis in endocrine disorders
+Osteoporosis,N330B00,3346,Vertebral osteoporosis
+Osteoporosis,N330C00,16857,Osteoporosis localized to spine
+Osteoporosis,N330D00,25650,Osteoporosis due to corticosteroids
+Osteoporosis,N330z00,34798,Osteoporosis NOS
+Osteoporosis,N331.14,44386,Osteoporotic vertebral collapse
+Osteoporosis,N331200,39334,Postoophorectomy osteoporosis with pathological fracture
+Osteoporosis,N331300,33526,Osteoporosis of disuse with pathological fracture
+Osteoporosis,N331400,68019,Postsurgical malabsorption osteoporosis with path fracture
+Osteoporosis,N331500,46894,Drug-induced osteoporosis with pathological fracture
+Osteoporosis,N331600,27597,Idiopathic osteoporosis with pathological fracture
+Osteoporosis,N331800,17377,Osteoporosis + pathological fracture lumbar vertebrae
+Osteoporosis,N331900,12673,Osteoporosis + pathological fracture thoracic vertebrae
+Osteoporosis,N331A00,48772,Osteoporosis + pathological fracture cervical vertebrae
+Osteoporosis,N331B00,38395,Postmenopausal osteoporosis with pathological fracture
+Osteoporosis,N331H00,45736,Collapse of cervical vertebra due to osteoporosis
+Osteoporosis,N331J00,5841,Collapse of lumbar vertebra due to osteoporosis
+Osteoporosis,N331K00,19048,Collapse of thoracic vertebra due to osteoporosis
+Osteoporosis,N331L00,4013,Collapse of vertebra due to osteoporosis NOS
+Osteoporosis,N331M00,11503,Fragility fracture due to unspecified osteoporosis
+Osteoporosis,N331M11,93705,Minimal trauma fracture due to unspecified osteoporosis
+Osteoporosis,N331N00,93497,Fragility fracture
+Osteoporosis,N331N11,93981,Minimal trauma fracture
+Osteoporosis,N374600,36432,Osteoporotic kyphosis
+Osteoporosis,NyuB000,57301,[X]Other osteoporosis with pathological fracture
+Osteoporosis,NyuB100,41755,[X]Other osteoporosis
+Osteoporosis,NyuB200,102730,[X]Osteoporosis in other disorders classified elsewhere
+Osteoporosis,NyuB800,18825,[X]Unspecified osteoporosis with pathological fracture
