@@ -1,0 +1,193 @@
+Condition,ReadCode,MedCode,ReadTerm
+Unspecified or Rare Diabetes,C10A500,100347,Malnutritn-relat diabetes melitus wth periph circul complctn
+Unspecified or Rare Diabetes,C10A200,114439,Malnutrition-related diabetes mellitus with renal complicatn
+Unspecified or Rare Diabetes,C108700,6509,Insulin dependent diabetes mellitus with retinopathy
+Unspecified or Rare Diabetes,C108B00,24694,Insulin dependent diabetes mellitus with mononeuropathy
+Unspecified or Rare Diabetes,C108J00,39809,Insulin dependent diab mell with neuropathic arthropathy
+Unspecified or Rare Diabetes,C108F00,44260,Insulin dependent diabetes mellitus with diabetic cataract
+Unspecified or Rare Diabetes,C108500,44443,Insulin dependent diabetes mellitus with ulcer
+Unspecified or Rare Diabetes,C10E312,45276,Insulin dependent diabetes mellitus with multiple complicat
+Unspecified or Rare Diabetes,C108000,46963,Insulin-dependent diabetes mellitus with renal complications
+Unspecified or Rare Diabetes,C108100,49276,Insulin-dependent diabetes mellitus with ophthalmic comps
+Unspecified or Rare Diabetes,C108300,52104,Insulin dependent diabetes mellitus with multiple complicatn
+Unspecified or Rare Diabetes,C108200,52283,Insulin-dependent diabetes mellitus with neurological comps
+Unspecified or Rare Diabetes,C108D00,57621,Insulin dependent diabetes mellitus with nephropathy
+Unspecified or Rare Diabetes,C108600,60499,Insulin dependent diabetes mellitus with gangrene
+Unspecified or Rare Diabetes,C108G00,64446,Insulin dependent diab mell with peripheral angiopathy
+Unspecified or Rare Diabetes,C108H00,65616,Insulin dependent diabetes mellitus with arthropathy
+Unspecified or Rare Diabetes,C107300,69124,IDDM with peripheral circulatory disorder
+Unspecified or Rare Diabetes,C10E712,93875,Insulin dependent diabetes mellitus with retinopathy
+Unspecified or Rare Diabetes,C10E112,98071,Insulin-dependent diabetes mellitus with ophthalmic comps
+Unspecified or Rare Diabetes,C10E512,98704,Insulin dependent diabetes mellitus with ulcer
+Unspecified or Rare Diabetes,C10EA12,99719,Insulin-dependent diabetes without complication
+Unspecified or Rare Diabetes,C10EF12,100770,Insulin dependent diabetes mellitus with diabetic cataract
+Unspecified or Rare Diabetes,C10EC12,101311,Insulin dependent diabetes mellitus with polyneuropathy
+Unspecified or Rare Diabetes,C10E212,101735,Insulin-dependent diabetes mellitus with neurological comps
+Unspecified or Rare Diabetes,C10ED12,102163,Insulin dependent diabetes mellitus with nephropathy
+Unspecified or Rare Diabetes,C10E012,102946,Insulin-dependent diabetes mellitus with renal complications
+Unspecified or Rare Diabetes,C10E612,109051,Insulin dependent diabetes mellitus with gangrene
+Unspecified or Rare Diabetes,C106000,67853,"Diabetes mellitus, juvenile, + neurological manifestation"
+Unspecified or Rare Diabetes,C10z000,68792,"Diabetes mellitus, juvenile type, + unspecified complication"
+Unspecified or Rare Diabetes,C105000,69748,"Diabetes mellitus, juvenile type, + ophthalmic manifestation"
+Unspecified or Rare Diabetes,C107000,70448,"Diabetes mellitus, juvenile +peripheral circulatory disorder"
+Unspecified or Rare Diabetes,C104000,93922,"Diabetes mellitus, juvenile type, with renal manifestation"
+Unspecified or Rare Diabetes,C10y000,110997,"Diabetes mellitus, juvenile, + other specified manifestation"
+Unspecified or Rare Diabetes,C104100,35105,"Diabetes mellitus, adult onset, with renal manifestation"
+Unspecified or Rare Diabetes,C106100,39317,"Diabetes mellitus, adult onset, + neurological manifestation"
+Unspecified or Rare Diabetes,C105100,41389,"Diabetes mellitus, adult onset, + ophthalmic manifestation"
+Unspecified or Rare Diabetes,C107100,63357,"Diabetes mellitus, adult, + peripheral circulatory disorder"
+Unspecified or Rare Diabetes,C10y100,63371,"Diabetes mellitus, adult, + other specified manifestation"
+Unspecified or Rare Diabetes,C10z100,63762,"Diabetes mellitus, adult onset, + unspecified complication"
+Unspecified or Rare Diabetes,C10yy00,10098,Other specified diabetes mellitus with other spec comps
+Unspecified or Rare Diabetes,C104y00,13279,Other specified diabetes mellitus with renal complications
+Unspecified or Rare Diabetes,C106.00,16230,Diabetes mellitus with neurological manifestation
+Unspecified or Rare Diabetes,C106.13,16491,Diabetes mellitus with polyneuropathy
+Unspecified or Rare Diabetes,C104.00,16502,Diabetes mellitus with renal manifestation
+Unspecified or Rare Diabetes,C106z00,22573,Diabetes mellitus NOS with neurological manifestation
+Unspecified or Rare Diabetes,C107.11,32403,Diabetes mellitus with gangrene
+Unspecified or Rare Diabetes,C107.12,32556,Diabetes with gangrene
+Unspecified or Rare Diabetes,C105.00,33254,Diabetes mellitus with ophthalmic manifestation
+Unspecified or Rare Diabetes,C10y.00,33343,Diabetes mellitus with other specified manifestation
+Unspecified or Rare Diabetes,C107200,33807,"Diabetes mellitus, adult with gangrene"
+Unspecified or Rare Diabetes,C105z00,34283,Diabetes mellitus NOS with ophthalmic manifestation
+Unspecified or Rare Diabetes,C104z00,35107,Diabetes mellitus with nephropathy NOS
+Unspecified or Rare Diabetes,C107.00,35399,Diabetes mellitus with peripheral circulatory disorder
+Unspecified or Rare Diabetes,C10z.00,45491,Diabetes mellitus with unspecified complication
+Unspecified or Rare Diabetes,C108y00,46290,Other specified diabetes mellitus with multiple comps
+Unspecified or Rare Diabetes,C105y00,47377,Other specified diabetes mellitus with ophthalmic complicatn
+Unspecified or Rare Diabetes,C106y00,61523,Other specified diabetes mellitus with neurological comps
+Unspecified or Rare Diabetes,C10zy00,64283,Other specified diabetes mellitus with unspecified comps
+Unspecified or Rare Diabetes,C10zz00,64357,Diabetes mellitus NOS with unspecified complication
+Unspecified or Rare Diabetes,C108z00,64449,Unspecified diabetes mellitus with multiple complications
+Unspecified or Rare Diabetes,C107z00,65025,Diabetes mellitus NOS with peripheral circulatory disorder
+Unspecified or Rare Diabetes,Cyu2300,100292,[X]Unspecified diabetes mellitus with renal complications
+Unspecified or Rare Diabetes,C107y00,112402,Other specified diabetes mellitus with periph circ comps
+Unspecified or Rare Diabetes,C108C00,41716,Insulin dependent diabetes mellitus with polyneuropathy
+Unspecified or Rare Diabetes,F420.00,1323,Diabetic retinopathy
+Unspecified or Rare Diabetes,F381311,2340,Diabetic amyotrophy
+Unspecified or Rare Diabetes,F372.12,2342,Diabetic neuropathy
+Unspecified or Rare Diabetes,K01x100,2471,Nephrotic syndrome in diabetes mellitus
+Unspecified or Rare Diabetes,C104.11,2475,Diabetic nephropathy
+Unspecified or Rare Diabetes,F420200,2986,Preproliferative diabetic retinopathy
+Unspecified or Rare Diabetes,F420100,3286,Proliferative diabetic retinopathy
+Unspecified or Rare Diabetes,F420400,3837,Diabetic maculopathy
+Unspecified or Rare Diabetes,F372.11,5002,Diabetic polyneuropathy
+Unspecified or Rare Diabetes,F420000,7069,Background diabetic retinopathy
+Unspecified or Rare Diabetes,M037200,7328,Cellulitis in diabetic foot
+Unspecified or Rare Diabetes,M271200,9881,Mixed diabetic ulcer - foot
+Unspecified or Rare Diabetes,F420300,10099,Advanced diabetic maculopathy
+Unspecified or Rare Diabetes,F464000,10659,Diabetic cataract
+Unspecified or Rare Diabetes,F420600,10755,Non proliferative diabetic retinopathy
+Unspecified or Rare Diabetes,F420z00,11626,Diabetic retinopathy NOS
+Unspecified or Rare Diabetes,M271100,11663,Neuropathic diabetic ulcer - foot
+Unspecified or Rare Diabetes,C314.11,11848,Renal diabetes
+Unspecified or Rare Diabetes,F171100,17067,Autonomic neuropathy due to diabetes
+Unspecified or Rare Diabetes,F35z000,17247,Diabetic mononeuritis NOS
+Unspecified or Rare Diabetes,F440700,17313,Diabetic iritis
+Unspecified or Rare Diabetes,2G5C.00,18056,Foot abnormality - diabetes related
+Unspecified or Rare Diabetes,N030000,18142,Diabetic cheiroarthropathy
+Unspecified or Rare Diabetes,2BBF.00,22967,Retinal abnormality - diabetes related
+Unspecified or Rare Diabetes,M271000,24327,Ischaemic ulcer diabetic foot
+Unspecified or Rare Diabetes,F372200,24571,Asymptomatic diabetic neuropathy
+Unspecified or Rare Diabetes,N030100,27891,Diabetic Charcot arthropathy
+Unspecified or Rare Diabetes,2G51000,27921,Foot abnormality - diabetes related
+Unspecified or Rare Diabetes,F420700,30477,High risk proliferative diabetic retinopathy
+Unspecified or Rare Diabetes,R054300,31053,[D]Widespread diabetic foot gangrene
+Unspecified or Rare Diabetes,F372.00,31790,Polyneuropathy in diabetes
+Unspecified or Rare Diabetes,G73y000,34152,Diabetic peripheral angiopathy
+Unspecified or Rare Diabetes,F372100,35785,Chronic painful diabetic neuropathy
+Unspecified or Rare Diabetes,F3y0.00,37315,Diabetic mononeuropathy
+Unspecified or Rare Diabetes,F381300,39420,Myasthenic syndrome due to diabetic amyotrophy
+Unspecified or Rare Diabetes,F345000,44033,Diabetic mononeuritis multiplex
+Unspecified or Rare Diabetes,K01x111,45499,Kimmelstiel - Wilson disease
+Unspecified or Rare Diabetes,F420500,47584,Advanced diabetic retinal disease
+Unspecified or Rare Diabetes,F372000,48078,Acute painful diabetic neuropathy
+Unspecified or Rare Diabetes,R054200,53634,[D]Gangrene of toe in diabetic
+Unspecified or Rare Diabetes,N030011,57333,Diabetic cheiropathy
+Unspecified or Rare Diabetes,C106.11,59903,Diabetic amyotrophy
+Unspecified or Rare Diabetes,F420800,65463,High risk non proliferative diabetic retinopathy
+Unspecified or Rare Diabetes,Kyu0300,99628,[X]Glomerular disorders in diabetes mellitus
+Unspecified or Rare Diabetes,2BBr.00,101881,Impaired vision due to diabetic retinopathy
+Unspecified or Rare Diabetes,K08yA00,105302,Proteinuric diabetic nephropathy
+Unspecified or Rare Diabetes,K27y700,106360,Erectile dysfunction due to diabetes mellitus
+Unspecified or Rare Diabetes,1M8..00,109760,Diabetic peripheral neuropathic pain
+Unspecified or Rare Diabetes,K08yA11,107881,Clinical diabetic nephropathy
+Unspecified or Rare Diabetes,Q441.00,21472,Neonatal diabetes mellitus
+Unspecified or Rare Diabetes,C350011,23479,Bronzed diabetes
+Unspecified or Rare Diabetes,C10A100,33969,Malnutrition-related diabetes mellitus with ketoacidosis
+Unspecified or Rare Diabetes,C10C.00,43453,Diabetes mellitus autosomal dominant
+Unspecified or Rare Diabetes,C10M.00,43857,Lipoatrophic diabetes mellitus
+Unspecified or Rare Diabetes,C10A.00,52236,Malnutrition-related diabetes mellitus
+Unspecified or Rare Diabetes,C10A000,66675,Malnutrition-related diabetes mellitus with coma
+Unspecified or Rare Diabetes,C10Q.00,113115,Maturity onset diabetes of the young type 5
+Unspecified or Rare Diabetes,L180700,109133,Pre-existing malnutrition-related diabetes mellitus
+Unspecified or Rare Diabetes,C100011,1038,Insulin dependent diabetes mellitus
+Unspecified or Rare Diabetes,C108.00,1647,Insulin dependent diabetes mellitus
+Unspecified or Rare Diabetes,C108800,6791,Insulin dependent diabetes mellitus - poor control
+Unspecified or Rare Diabetes,C108.11,18505,IDDM-Insulin dependent diabetes mellitus
+Unspecified or Rare Diabetes,C108400,26855,Unstable insulin dependent diabetes mellitus
+Unspecified or Rare Diabetes,C108900,31310,Insulin dependent diabetes maturity onset
+Unspecified or Rare Diabetes,C108E00,44440,Insulin dependent diabetes mellitus with hypoglycaemic coma
+Unspecified or Rare Diabetes,L180500,50960,"Pre-existing diabetes mellitus, insulin-dependent"
+Unspecified or Rare Diabetes,C10E.12,51261,Insulin dependent diabetes mellitus
+Unspecified or Rare Diabetes,C10E412,54600,Unstable insulin dependent diabetes mellitus
+Unspecified or Rare Diabetes,C108A00,56448,Insulin-dependent diabetes without complication
+Unspecified or Rare Diabetes,C10E812,72702,Insulin dependent diabetes mellitus - poor control
+Unspecified or Rare Diabetes,C10E912,97849,Insulin dependent diabetes maturity onset
+Unspecified or Rare Diabetes,C10EE12,99716,Insulin dependent diabetes mellitus with hypoglycaemic coma
+Unspecified or Rare Diabetes,C100111,14889,Maturity onset diabetes
+Unspecified or Rare Diabetes,C100112,506,Non-insulin dependent diabetes mellitus
+Unspecified or Rare Diabetes,66AV.00,28769,Diabetic on insulin and oral treatment
+Unspecified or Rare Diabetes,C100000,24490,"Diabetes mellitus, juvenile type, no mention of complication"
+Unspecified or Rare Diabetes,C102000,40023,"Diabetes mellitus, juvenile type, with hyperosmolar coma"
+Unspecified or Rare Diabetes,C100100,14803,"Diabetes mellitus, adult onset, no mention of complication"
+Unspecified or Rare Diabetes,C102100,43139,"Diabetes mellitus, adult onset, with hyperosmolar coma"
+Unspecified or Rare Diabetes,C10..00,711,Diabetes mellitus
+Unspecified or Rare Diabetes,C101.00,1682,Diabetes mellitus with ketoacidosis
+Unspecified or Rare Diabetes,66AJ.00,2378,Diabetic - poor control
+Unspecified or Rare Diabetes,66AJ100,2478,Brittle diabetes
+Unspecified or Rare Diabetes,1434.00,6813,H/O: diabetes mellitus
+Unspecified or Rare Diabetes,C106.12,7795,Diabetes mellitus with neuropathy
+Unspecified or Rare Diabetes,66A5.00,8842,Diabetic on insulin
+Unspecified or Rare Diabetes,66AJ.11,9013,Unstable diabetes
+Unspecified or Rare Diabetes,66AI.00,13071,Diabetic - good control
+Unspecified or Rare Diabetes,C103.00,15690,Diabetes mellitus with ketoacidotic coma
+Unspecified or Rare Diabetes,66AL.00,17869,Diabetic-uncooperative patient
+Unspecified or Rare Diabetes,212H.00,18766,Diabetes resolved
+Unspecified or Rare Diabetes,C102.00,21482,Diabetes mellitus with hyperosmolar coma
+Unspecified or Rare Diabetes,66AJz00,22023,Diabetic - poor control NOS
+Unspecified or Rare Diabetes,2126300,28622,Diabetes resolved
+Unspecified or Rare Diabetes,C101y00,38617,Other specified diabetes mellitus with ketoacidosis
+Unspecified or Rare Diabetes,C100.00,38986,Diabetes mellitus with no mention of complication
+Unspecified or Rare Diabetes,Cyu2000,41686,[X]Other specified diabetes mellitus
+Unspecified or Rare Diabetes,C101z00,42505,Diabetes mellitus NOS with ketoacidosis
+Unspecified or Rare Diabetes,66AK.00,43951,Diabetic - cooperative patient
+Unspecified or Rare Diabetes,C100z00,50972,Diabetes mellitus NOS with no mention of complication
+Unspecified or Rare Diabetes,Cyu2.00,52212,[X]Diabetes mellitus
+Unspecified or Rare Diabetes,L180X00,55431,"Pre-existing diabetes mellitus, unspecified"
+Unspecified or Rare Diabetes,C103z00,65062,Diabetes mellitus NOS with ketoacidotic coma
+Unspecified or Rare Diabetes,C10yz00,70821,Diabetes mellitus NOS with other specified manifestation
+Unspecified or Rare Diabetes,C102z00,72345,Diabetes mellitus NOS with hyperosmolar coma
+Unspecified or Rare Diabetes,66As.00,101728,Diabetic on subcutaneous treatment
+Unspecified or Rare Diabetes,C10P.00,107603,Diabetes mellitus in remission
+Unspecified or Rare Diabetes,66o2.00,110344,Diabetic on non-insulin injectable medication
+Unspecified or Rare Diabetes,66o6.00,111483,Diabetic on insulin and glucagon-like peptide 1
+Unspecified or Rare Diabetes,Lyu2900,112365,"[X]Pre-existing diabetes mellitus, unspecified"
+Unspecified or Rare Diabetes,13L4.11,16946,Diabetic child
+Unspecified or Rare Diabetes,L180000,67635,Diabetes mellitus - unspec whether in pregnancy/puerperium
+Unspecified or Rare Diabetes,C10B.00,11551,Diabetes mellitus induced by steroids
+Unspecified or Rare Diabetes,C10N.00,22487,Secondary diabetes mellitus
+Unspecified or Rare Diabetes,C10B000,26108,Steroid induced diabetes mellitus without complication
+Unspecified or Rare Diabetes,C11y000,32193,Steroid induced diabetes
+Unspecified or Rare Diabetes,C10G.00,51697,Secondary pancreatic diabetes mellitus
+Unspecified or Rare Diabetes,C10H.00,61122,Diabetes mellitus induced by non-steroid drugs
+Unspecified or Rare Diabetes,C10N100,93380,Cystic fibrosis related diabetes mellitus
+Unspecified or Rare Diabetes,C10N000,94383,Secondary diabetes mellitus without complication
+Unspecified or Rare Diabetes,C10G000,96506,Secondary pancreatic diabetes mellitus without complication
+Unspecified or Rare Diabetes,C10C.11,46624,Maturity onset diabetes in youth
+Unspecified or Rare Diabetes,C10D.11,59991,Maturity onset diabetes in youth type 2
+Unspecified or Rare Diabetes,C10FS00,95539,Maternally inherited diabetes mellitus
+Unspecified or Rare Diabetes,C10D.00,36695,Diabetes mellitus autosomal dominant type 2
+Unspecified or Rare Diabetes,C101100,54856,"Diabetes mellitus, adult onset, with ketoacidosis"
+Unspecified or Rare Diabetes,C103y00,59288,Other specified diabetes mellitus with coma
+Unspecified or Rare Diabetes,C103100,68843,"Diabetes mellitus, adult onset, with ketoacidotic coma"

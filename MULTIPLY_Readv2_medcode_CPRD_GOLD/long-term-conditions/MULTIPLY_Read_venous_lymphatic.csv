@@ -1,0 +1,140 @@
+Condition,ReadCode,MedCode,ReadTerm
+Peripheral venous and lymphatic disease,14A9.00,5827,H/O: varicose veins
+Peripheral venous and lymphatic disease,2482.00,12576,O/E - varicose veins
+Peripheral venous and lymphatic disease,38Q3.00,113617,LYMQOL (Lymphoedema Quality of Life Tool) - leg
+Peripheral venous and lymphatic disease,7A66111,43874,Cockett subfascial ligation of perforating varicose vein
+Peripheral venous and lymphatic disease,7A66112,52097,Subfascial ligation of varicose veins
+Peripheral venous and lymphatic disease,7A67.00,3654,Ligation of varicose vein of leg
+Peripheral venous and lymphatic disease,7A67200,28286,Ligation of recurrent varicose vein of leg
+Peripheral venous and lymphatic disease,7A67300,38557,Ligation of perforating varicose vein of leg
+Peripheral venous and lymphatic disease,7A67311,106076,Linton ligation of perforating varicose vein of leg
+Peripheral venous and lymphatic disease,7A67y00,25923,Other specified ligation of varicose vein of leg
+Peripheral venous and lymphatic disease,7A67z00,1205,Ligation of varicose vein of leg NOS
+Peripheral venous and lymphatic disease,7A68.00,4308,Injection into varicose vein of leg
+Peripheral venous and lymphatic disease,7A68000,913,Injection of sclerosing substance into varicose vein of leg
+Peripheral venous and lymphatic disease,7A68200,63117,Ultrasound guided foam sclerotherapy for varicose vein leg
+Peripheral venous and lymphatic disease,7A68300,58984,Transilluminated powered phlebectomy of varicose vein of leg
+Peripheral venous and lymphatic disease,7A68400,66147,Injection of sclerosing substance into varicose vein leg NEC
+Peripheral venous and lymphatic disease,7A68y00,63112,Other specified injection into varicose vein of leg
+Peripheral venous and lymphatic disease,7A68z00,29677,Injection into varicose vein of leg NOS
+Peripheral venous and lymphatic disease,7A69.00,905,Other operations on varicose vein of leg
+Peripheral venous and lymphatic disease,7A69200,627,Stripping of varicose vein of leg NEC
+Peripheral venous and lymphatic disease,7A69211,57506,Mayo stripping of varicose vein
+Peripheral venous and lymphatic disease,7A69300,6461,Avulsion of varicose vein of leg
+Peripheral venous and lymphatic disease,7A69311,24519,Babcock subcutaneous enucleation of varicose veins
+Peripheral venous and lymphatic disease,7A69400,2148,Local excision of varicose vein of leg
+Peripheral venous and lymphatic disease,7A69500,49328,Incision of varicose vein of leg
+Peripheral venous and lymphatic disease,7A69600,63617,Endovascular radiofrequency ablation of varicose vein of leg
+Peripheral venous and lymphatic disease,7A69700,28898,Endovascular laser ablation of varicose vein of leg
+Peripheral venous and lymphatic disease,7A69y00,41788,Other specified other operation on varicose vein of leg
+Peripheral venous and lymphatic disease,7A69z00,1773,Other operation on varicose vein of leg NOS
+Peripheral venous and lymphatic disease,7A6L.00,69286,Combined operations on varicose vein of leg
+Peripheral venous and lymphatic disease,7A6Ly00,96479,Other specified combined operations on varicose vein of leg
+Peripheral venous and lymphatic disease,7A6Lz00,89018,Combined operations on varicose vein of leg NOS
+Peripheral venous and lymphatic disease,7A6M.00,90928,Transluminal operations on varicose vein of leg
+Peripheral venous and lymphatic disease,7A6M100,66665,Radiofrequency ablation of varicose vein of leg
+Peripheral venous and lymphatic disease,7A6M300,87004,Perc transluminal laser ablation of varicose vein of leg NEC
+Peripheral venous and lymphatic disease,7A6My00,94913,Other specified transluminal operations on varicose vein leg
+Peripheral venous and lymphatic disease,7A6Mz00,85498,Transluminal operations on varicose vein of leg NOS
+Peripheral venous and lymphatic disease,7H66.11,61690,Excision of lymphoedema tissue
+Peripheral venous and lymphatic disease,7H66100,65366,Excision of lymphoedematous tissue of arm
+Peripheral venous and lymphatic disease,7H66111,60539,Charles correction for lymphoedema of arm
+Peripheral venous and lymphatic disease,7H66211,68210,Thompson correction for lymphoedema
+Peripheral venous and lymphatic disease,7H66300,60543,Excision of lymphoedematous tissue of leg NEC
+Peripheral venous and lymphatic disease,7H66311,98963,Gibson excision of lymphoedematous tissue of leg
+Peripheral venous and lymphatic disease,7H66312,35367,Homan correction for lymphoedema
+Peripheral venous and lymphatic disease,7H66313,69600,Tough excision of lymphoedematous tissue of leg
+Peripheral venous and lymphatic disease,7H66400,53340,Excision of lymphoedematous tissue of scrotum
+Peripheral venous and lymphatic disease,7H66500,62533,Excision of lymphoedematous tissue NEC
+Peripheral venous and lymphatic disease,7H66y11,65150,Kondoleon correction for lymphoedema
+Peripheral venous and lymphatic disease,8BAh.00,101029,Lymphoedema care
+Peripheral venous and lymphatic disease,8HkZ.00,101004,Referral to community lymphoedema service
+Peripheral venous and lymphatic disease,8HT7.00,11967,Referral to varicose vein clinic
+Peripheral venous and lymphatic disease,8L2..00,2377,Varicose vein operation planned
+Peripheral venous and lymphatic disease,9N0V.00,17053,Seen in varicose vein clinic
+Peripheral venous and lymphatic disease,9NoB.00,108204,Seen in lymphoedema clinic
+Peripheral venous and lymphatic disease,9NoB000,110213,Seen in community lymphoedema clinic
+Peripheral venous and lymphatic disease,D418.00,25717,Calcified lymph nodes
+Peripheral venous and lymphatic disease,G8...00,36422,"Vein, lymphatic and circulatory diseases NOS"
+Peripheral venous and lymphatic disease,G83..00,742,Varicose veins of the legs
+Peripheral venous and lymphatic disease,G830.00,1913,Varicose veins of the leg with ulcer
+Peripheral venous and lymphatic disease,G831.00,5983,Varicose veins of the leg with eczema
+Peripheral venous and lymphatic disease,G831.11,1217,Varicose eczema
+Peripheral venous and lymphatic disease,G832.00,16079,Varicose veins of the leg with ulcer and eczema
+Peripheral venous and lymphatic disease,G833.00,18216,Varicose veins of the leg with rupture
+Peripheral venous and lymphatic disease,G834.00,3072,Varicose veins of leg without mention of complications
+Peripheral venous and lymphatic disease,G834000,85663,Varicose veins of leg with long saphenous vein distribution
+Peripheral venous and lymphatic disease,G834100,89157,Varicose veins of leg with short saphenous vein distribution
+Peripheral venous and lymphatic disease,G835.00,12704,Infected varicose ulcer
+Peripheral venous and lymphatic disease,G836.00,17431,Varicose vein of leg with phlebitis
+Peripheral venous and lymphatic disease,G837.00,11264,Venous ulcer of leg
+Peripheral venous and lymphatic disease,G83z.00,3214,Varicose veins of the leg NOS
+Peripheral venous and lymphatic disease,G85..00,29476,Other varicose veins
+Peripheral venous and lymphatic disease,G85y.00,25397,Other specified varicose veins
+Peripheral venous and lymphatic disease,G85z.00,32019,Other varicose veins NOS
+Peripheral venous and lymphatic disease,G86..00,40459,Noninfective lymphatic disorders
+Peripheral venous and lymphatic disease,G86..11,4215,Lymphoedema
+Peripheral venous and lymphatic disease,G860.00,27379,Postmastectomy lymphoedema
+Peripheral venous and lymphatic disease,G860.11,99209,Elephantiasis-postmastectomy
+Peripheral venous and lymphatic disease,G861.00,46273,Other lymphoedema
+Peripheral venous and lymphatic disease,G861.11,23401,Elephantiasis-non filarial-NOS
+Peripheral venous and lymphatic disease,G861000,4484,Primary (congenital) lymphoedema
+Peripheral venous and lymphatic disease,G861100,31425,Acquired (chronic) lymphoedema
+Peripheral venous and lymphatic disease,G861200,73658,Infantile lymphoedema (praecox)
+Peripheral venous and lymphatic disease,G861211,34658,Lymphoedema praecox
+Peripheral venous and lymphatic disease,G861300,30070,Lymphoedema tarda
+Peripheral venous and lymphatic disease,G861500,111155,Lymphoedema following breast cancer
+Peripheral venous and lymphatic disease,G861z00,33331,Other lymphoedema NOS
+Peripheral venous and lymphatic disease,G862.00,3718,Lymphangitis
+Peripheral venous and lymphatic disease,G862000,41654,Chronic lymphangitis
+Peripheral venous and lymphatic disease,G862100,48752,Subacute lymphangitis
+Peripheral venous and lymphatic disease,G86y.00,9816,Other noninfective lymphatic disorder
+Peripheral venous and lymphatic disease,G86y000,63573,Chylocele - nonfilarial
+Peripheral venous and lymphatic disease,G86y100,25337,Chylous ascites
+Peripheral venous and lymphatic disease,G86y200,44195,Chylous cyst
+Peripheral venous and lymphatic disease,G86y300,44313,Lymph node fistula
+Peripheral venous and lymphatic disease,G86y400,64938,Lymph vessel fistula
+Peripheral venous and lymphatic disease,G86y500,50095,Lymph node infarction
+Peripheral venous and lymphatic disease,G86y600,92895,Lymph vessel infarction
+Peripheral venous and lymphatic disease,G86y800,66059,Lymph vessel rupture
+Peripheral venous and lymphatic disease,G86y900,101420,Lymphocele
+Peripheral venous and lymphatic disease,G86yA00,106395,Infected lymphocele
+Peripheral venous and lymphatic disease,G86yz00,71082,Other noninfective lymphatic disorders NOS
+Peripheral venous and lymphatic disease,G86z.00,57595,Noninfective lymphatic disorder NOS
+Peripheral venous and lymphatic disease,G8X..00,4096,"Disorder of vein, unspecified"
+Peripheral venous and lymphatic disease,G8y1.00,5197,Postphlebitic syndrome
+Peripheral venous and lymphatic disease,G8y2000,59312,Stricture of vein
+Peripheral venous and lymphatic disease,G8y2z00,41645,Compression of vein NOS
+Peripheral venous and lymphatic disease,G8y3.00,26347,Chronic peripheral venous hypertension
+Peripheral venous and lymphatic disease,G8y4.00,104392,Postthrombotic syndrome
+Peripheral venous and lymphatic disease,G8yy000,6314,Chronic venous insufficiency NOS
+Peripheral venous and lymphatic disease,G8yy100,36162,Venous collateral circulation NOS
+Peripheral venous and lymphatic disease,G8yy200,49638,Phlebosclerosis
+Peripheral venous and lymphatic disease,G8yy300,57657,Venofibrosis
+Peripheral venous and lymphatic disease,Gyu8.00,58115,"[X]Diseases of veins, lymphatic vessels & lymph nodes, NEC"
+Peripheral venous and lymphatic disease,Gyu8600,93973,[X]Varicose veins of other specified sites
+Peripheral venous and lymphatic disease,Gyu8700,53786,[X]Other specified disorders of veins
+Peripheral venous and lymphatic disease,Gyu8900,111662,[X]Oth spcfd noninfectv disordrs/lymphatc vessls+lymph nodes
+Peripheral venous and lymphatic disease,Gyu8A00,73791,"[X]Disorder of vein, unspecified"
+Peripheral venous and lymphatic disease,J57yK00,28906,Intestinal lymphangiectasis
+Peripheral venous and lymphatic disease,L41..11,29620,Varicose veins - obstetric
+Peripheral venous and lymphatic disease,L410600,99043,Varicose veins of legs in the puerperium
+Peripheral venous and lymphatic disease,L411.11,19327,Perineal obstetric varicose veins
+Peripheral venous and lymphatic disease,L411.12,20496,Vulval obstetric varicose veins
+Peripheral venous and lymphatic disease,M1y2.00,102515,Gravitational eczema
+Peripheral venous and lymphatic disease,M211500,44755,Lymphoedematous keratoderma
+Peripheral venous and lymphatic disease,P8y4.00,44347,Congenital pulmonary lymphangiectasis
+Peripheral venous and lymphatic disease,PF5E100,93038,Constriction ring with lymphoedema
+Peripheral venous and lymphatic disease,PF6D100,114240,Constriction ring of lower limb with lymphoedema
+Peripheral venous and lymphatic disease,PH00.00,27326,Congenital lymphoedema
+Peripheral venous and lymphatic disease,PH01.00,45279,Hereditary trophoedema
+Peripheral venous and lymphatic disease,PH02.00,21453,Milroy's disease
+Peripheral venous and lymphatic disease,PH02.11,40816,Meige's disease
+Peripheral venous and lymphatic disease,PH03.00,51067,Congenital elephantiasis
+Peripheral venous and lymphatic disease,TJC8z00,113736,Adverse reaction to antivaricose drugs NOS
+Peripheral venous and lymphatic disease,Z111200,38711,Lymphoedema bandaging
+Peripheral venous and lymphatic disease,Z6G7D00,58811,Lymphoedema massage
+Peripheral venous and lymphatic disease,ZL22900,47310,Under care of lymphoedema care nurse
+Peripheral venous and lymphatic disease,ZL62900,13695,Referral to lymphoedema care nurse
+Peripheral venous and lymphatic disease,ZLA2900,9376,Seen by lymphoedema care nurse
+Peripheral venous and lymphatic disease,ZLD7700,51423,Discharge by lymphoedema care nurse

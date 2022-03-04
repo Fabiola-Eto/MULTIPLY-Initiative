@@ -1,0 +1,24 @@
+Condition,ReadCode,MedCode,ReadTerm
+Subdural haematoma,7017000,4917,Evacuation of subdural haematoma
+Subdural haematoma,7034.00,18794,Drainage of subdural space
+Subdural haematoma,7034y00,49934,Other specified drainage of subdural space
+Subdural haematoma,7034z00,21410,Drainage of subdural space NOS
+Subdural haematoma,G621.00,4273,Subdural haemorrhage - nontraumatic
+Subdural haematoma,G622.00,17734,Subdural haematoma - nontraumatic
+Subdural haematoma,G623.00,18912,Subdural haemorrhage NOS
+Subdural haematoma,Q200100,49363,"Subdural haemorrhage unspecified, due to birth trauma"
+Subdural haematoma,S62..13,6569,Subdural haemorrhage following injury
+Subdural haematoma,S622.00,2883,Closed traumatic subdural haemorrhage
+Subdural haematoma,S622000,68800,Subdural h'ge inj no open intracranial wnd + unspec consc
+Subdural haematoma,S622100,114652,Subdural h'ge inj no open intracranial wound+no loss consc
+Subdural haematoma,S622200,113577,Subdural h'ge inj no open intracranial wound+<1hr loss consc
+Subdural haematoma,S622300,94468,Subdural h'ge inj no open intracran wnd+1-24hr loss consc
+Subdural haematoma,S622400,112566,Subdural h'ge inj no open intracranial wnd+>24 LOC +recovery
+Subdural haematoma,S622600,91633,Subdural h'ge inj no open intracran wnd+LOC unspec duration
+Subdural haematoma,S622z00,93458,Subdural h'ge inj no open intracran wound+concussion unspec
+Subdural haematoma,S623.00,94351,Open traumatic subdural haemorrhage
+Subdural haematoma,S623300,112452,Subdural h'ge inj + open intracranial wnd+1-24hr loss consc
+Subdural haematoma,S628.00,8181,Traumatic subdural haemorrhage
+Subdural haematoma,S629.00,7862,Traumatic subdural haematoma
+Subdural haematoma,S629000,53980,Traumatic subdural haematoma without open intracranial wound
+Subdural haematoma,S629100,96677,Traumatic subdural haematoma with open intracranial wound

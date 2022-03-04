@@ -1,0 +1,15 @@
+Condition,ReadCode,MedCode,ReadTerm
+Spondylolisthesis,7J34112,43211,Buck fusion of lumbar spine for spondylolisthesis
+Spondylolisthesis,7J48500,11250,Spondylolisthesis operation
+Spondylolisthesis,7J48511,63967,Gill excision of spondylolisthesis
+Spondylolisthesis,7J48K00,20734,Reduction of spondylolisthesis and fusion
+Spondylolisthesis,7J48L00,16743,Fusion spondylolisthesis in situ
+Spondylolisthesis,N384.00,2895,Acquired spondylolisthesis
+Spondylolisthesis,N384000,65017,Dysplastic spondylolisthesis
+Spondylolisthesis,N384100,61817,Isthmic spondylolisthesis
+Spondylolisthesis,N384200,12371,Degenerative spondylolisthesis
+Spondylolisthesis,N384300,66732,Pedicular spondylolisthesis
+Spondylolisthesis,Zw04600,52889,[Q] Spondylolisthesis grade 1
+Spondylolisthesis,Zw04700,53931,[Q] Spondylolisthesis grade 2
+Spondylolisthesis,Zw04800,73565,[Q] Spondylolisthesis grade 3
+Spondylolisthesis,Zw04900,104348,[Q] Spondylolisthesis grade 4

@@ -1,0 +1,83 @@
+Condition,ReadCode,MedCode,ReadTerm
+Type 1 Diabetes,C10ED00,10418,Type 1 diabetes mellitus with nephropathy
+Type 1 Diabetes,C108F11,17545,Type I diabetes mellitus with diabetic cataract
+Type 1 Diabetes,C108J12,18230,Type 1 diabetes mellitus with neuropathic arthropathy
+Type 1 Diabetes,C10E700,18387,Type 1 diabetes mellitus with retinopathy
+Type 1 Diabetes,C10EH00,18642,Type 1 diabetes mellitus with arthropathy
+Type 1 Diabetes,C10E500,18683,Type 1 diabetes mellitus with ulcer
+Type 1 Diabetes,C108012,21983,Type 1 diabetes mellitus with renal complications
+Type 1 Diabetes,C10EP00,22871,Type 1 diabetes mellitus with exudative maculopathy
+Type 1 Diabetes,C10EL00,30294,Type 1 diabetes mellitus with persistent microalbuminuria
+Type 1 Diabetes,C10EK00,30323,Type 1 diabetes mellitus with persistent proteinuria
+Type 1 Diabetes,C108711,38161,Type I diabetes mellitus with retinopathy
+Type 1 Diabetes,C108712,41049,Type 1 diabetes mellitus with retinopathy
+Type 1 Diabetes,C10E200,42831,Type 1 diabetes mellitus with neurological complications
+Type 1 Diabetes,C10EC00,46301,Type 1 diabetes mellitus with polyneuropathy
+Type 1 Diabetes,C10E000,47582,Type 1 diabetes mellitus with renal complications
+Type 1 Diabetes,C10E100,47649,Type 1 diabetes mellitus with ophthalmic complications
+Type 1 Diabetes,C10E300,47650,Type 1 diabetes mellitus with multiple complications
+Type 1 Diabetes,C108211,49146,Type I diabetes mellitus with neurological complications
+Type 1 Diabetes,C10EF00,49554,Type 1 diabetes mellitus with diabetic cataract
+Type 1 Diabetes,C108511,51957,Type I diabetes mellitus with ulcer
+Type 1 Diabetes,C10EJ00,54008,Type 1 diabetes mellitus with neuropathic arthropathy
+Type 1 Diabetes,C10EQ00,55239,Type 1 diabetes mellitus with gastroparesis
+Type 1 Diabetes,C108J11,60208,Type I diabetes mellitus with neuropathic arthropathy
+Type 1 Diabetes,C108011,61344,Type I diabetes mellitus with renal complications
+Type 1 Diabetes,C108212,61829,Type 1 diabetes mellitus with neurological complications
+Type 1 Diabetes,C108H11,62352,Type I diabetes mellitus with arthropathy
+Type 1 Diabetes,C108D11,66872,Type I diabetes mellitus with nephropathy
+Type 1 Diabetes,C10EB00,68105,Type 1 diabetes mellitus with mononeuropathy
+Type 1 Diabetes,C108512,68390,Type 1 diabetes mellitus with ulcer
+Type 1 Diabetes,C10E600,69993,Type 1 diabetes mellitus with gangrene
+Type 1 Diabetes,C10E311,91942,Type I diabetes mellitus with multiple complications
+Type 1 Diabetes,C10EC11,91943,Type I diabetes mellitus with polyneuropathy
+Type 1 Diabetes,C10EG00,93468,Type 1 diabetes mellitus with peripheral angiopathy
+Type 1 Diabetes,C10E511,93878,Type I diabetes mellitus with ulcer
+Type 1 Diabetes,C10E711,95343,Type I diabetes mellitus with retinopathy
+Type 1 Diabetes,C10EP11,97894,Type I diabetes mellitus with exudative maculopathy
+Type 1 Diabetes,C108B11,99231,Type I diabetes mellitus with mononeuropathy
+Type 1 Diabetes,C10E111,99311,Type I diabetes mellitus with ophthalmic complications
+Type 1 Diabetes,C10E611,102112,Type I diabetes mellitus with gangrene
+Type 1 Diabetes,C10EL11,102620,Type I diabetes mellitus with persistent microalbuminuria
+Type 1 Diabetes,C108112,102740,Type 1 diabetes mellitus with ophthalmic complications
+Type 1 Diabetes,C108311,108007,Type I diabetes mellitus with multiple complications
+Type 1 Diabetes,C10EQ11,108724,Type I diabetes mellitus with gastroparesis
+Type 1 Diabetes,C10E011,109837,Type I diabetes mellitus with renal complications
+Type 1 Diabetes,C108F12,110400,Type 1 diabetes mellitus with diabetic cataract
+Type 1 Diabetes,C108D12,113197,Type 1 diabetes mellitus with nephropathy
+Type 1 Diabetes,C10ED11,113863,Type I diabetes mellitus with nephropathy
+Type 1 Diabetes,C108C11,113975,Type I diabetes mellitus with polyneuropathy
+Type 1 Diabetes,C108612,114401,Type 1 diabetes mellitus with gangrene
+Type 1 Diabetes,C10P011,109628,Type 1 diabetes mellitus in remission
+Type 1 Diabetes,C10ER00,95636,Latent autoimmune diabetes mellitus in adult
+Type 1 Diabetes,C10C.12,98392,Maturity onset diabetes in youth type 1
+Type 1 Diabetes,C10E.00,1549,Type 1 diabetes mellitus
+Type 1 Diabetes,C10EM00,10692,Type 1 diabetes mellitus with ketoacidosis
+Type 1 Diabetes,C10E.11,12455,Type I diabetes mellitus
+Type 1 Diabetes,C108.12,17858,Type 1 diabetes mellitus
+Type 1 Diabetes,C108.13,24423,Type I diabetes mellitus
+Type 1 Diabetes,C10E800,35288,Type 1 diabetes mellitus - poor control
+Type 1 Diabetes,C10EE00,39070,Type 1 diabetes mellitus with hypoglycaemic coma
+Type 1 Diabetes,C10E900,40682,Type 1 diabetes mellitus maturity onset
+Type 1 Diabetes,C10EN00,40837,Type 1 diabetes mellitus with ketoacidotic coma
+Type 1 Diabetes,C103000,42567,"Diabetes mellitus, juvenile type, with ketoacidotic coma"
+Type 1 Diabetes,C108E11,42729,Type I diabetes mellitus with hypoglycaemic coma
+Type 1 Diabetes,C10E400,43921,Unstable type 1 diabetes mellitus
+Type 1 Diabetes,C108812,45914,Type 1 diabetes mellitus - poor control
+Type 1 Diabetes,C108811,46850,Type I diabetes mellitus - poor control
+Type 1 Diabetes,C10E411,49949,Unstable type I diabetes mellitus
+Type 1 Diabetes,C101000,53200,"Diabetes mellitus, juvenile type, with ketoacidosis"
+Type 1 Diabetes,C108411,60107,Unstable type I diabetes mellitus
+Type 1 Diabetes,C10EM11,62209,Type I diabetes mellitus with ketoacidosis
+Type 1 Diabetes,C10EA11,62613,Type I diabetes mellitus without complication
+Type 1 Diabetes,C108911,63017,Type I diabetes mellitus maturity onset
+Type 1 Diabetes,C10EN11,66145,Type I diabetes mellitus with ketoacidotic coma
+Type 1 Diabetes,C10EA00,69676,Type 1 diabetes mellitus without complication
+Type 1 Diabetes,C108E12,70766,Type 1 diabetes mellitus with hypoglycaemic coma
+Type 1 Diabetes,C108A11,95992,Type I diabetes mellitus without complication
+Type 1 Diabetes,C10E911,96235,Type I diabetes mellitus maturity onset
+Type 1 Diabetes,C108912,97446,Type 1 diabetes mellitus maturity onset
+Type 1 Diabetes,C108412,97474,Unstable type 1 diabetes mellitus
+Type 1 Diabetes,C10E811,105337,Type I diabetes mellitus - poor control
+Type 1 Diabetes,C10P000,108360,Type I diabetes mellitus in remission
+Type 1 Diabetes,C108A12,111106,Type 1 diabetes mellitus without complication

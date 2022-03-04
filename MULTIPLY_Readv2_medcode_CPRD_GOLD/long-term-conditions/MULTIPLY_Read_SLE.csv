@@ -1,0 +1,32 @@
+Condition,ReadCode,MedCode,ReadTerm
+Lupus erythematosus (local and systemic),F371000,44095,Polyneuropathy in disseminated lupus erythematosus
+Lupus erythematosus (local and systemic),F396100,108072,Myopathy due to disseminated lupus erythematosus
+Lupus erythematosus (local and systemic),F4D3300,94751,Eyelid discoid lupus erythematosus
+Lupus erythematosus (local and systemic),H57y400,31564,Lung disease with systemic lupus erythematosus
+Lupus erythematosus (local and systemic),K01x400,47672,Nephrotic syndrome in systemic lupus erythematosus
+Lupus erythematosus (local and systemic),K01x411,22205,Lupus nephritis
+Lupus erythematosus (local and systemic),K0B4000,41148,Renal tubulo-interstitial disorder in SLE
+Lupus erythematosus (local and systemic),M154.00,4125,Lupus erythematosus
+Lupus erythematosus (local and systemic),M154000,33449,Lupus erythematosus chronicus
+Lupus erythematosus (local and systemic),M154100,2667,Discoid lupus erythematosus
+Lupus erythematosus (local and systemic),M154200,40797,Lupus erythematosus migrans
+Lupus erythematosus (local and systemic),M154300,65391,Lupus erythematosus nodularis
+Lupus erythematosus (local and systemic),M154400,46148,Lupus erythematosus profundus
+Lupus erythematosus (local and systemic),M154500,44984,Lupus erythematosus tumidus
+Lupus erythematosus (local and systemic),M154600,63955,Lupus erythematosus unguium mutilans
+Lupus erythematosus (local and systemic),M154700,25390,Subacute cutaneous lupus erythematosus
+Lupus erythematosus (local and systemic),M154z00,7522,Lupus erythematosus NOS
+Lupus erythematosus (local and systemic),Myu7800,100692,[X]Other local lupus erythematosus
+Lupus erythematosus (local and systemic),N000.00,7871,Systemic lupus erythematosus
+Lupus erythematosus (local and systemic),N000000,20007,Disseminated lupus erythematosus
+Lupus erythematosus (local and systemic),N000100,57675,Libman-Sacks disease
+Lupus erythematosus (local and systemic),N000200,36942,Drug-induced systemic lupus erythematosus
+Lupus erythematosus (local and systemic),N000300,29519,Systemic lupus erythematosus with organ or sys involv
+Lupus erythematosus (local and systemic),N000400,11920,Systemic lupus erythematosus with pericarditis
+Lupus erythematosus (local and systemic),N000600,101433,Cerebral lupus
+Lupus erythematosus (local and systemic),N000z00,42719,Systemic lupus erythematosus NOS
+Lupus erythematosus (local and systemic),Nyu4300,58706,[X]Other forms of systemic lupus erythematosus
+Lupus erythematosus (local and systemic),ZRq8.00,51798,Systemic lupus activity measure
+Lupus erythematosus (local and systemic),ZRq8.11,106086,SLAM - Systemic lupus activity measure
+Lupus erythematosus (local and systemic),ZRq9.00,45726,Systemic lupus erythematosus disease activity index
+Lupus erythematosus (local and systemic),ZRq9.11,63283,SLEDAI-Sys lup ery dis act ind

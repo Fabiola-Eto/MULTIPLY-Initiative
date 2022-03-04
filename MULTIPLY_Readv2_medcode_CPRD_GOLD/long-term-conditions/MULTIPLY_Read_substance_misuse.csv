@@ -1,0 +1,455 @@
+Condition,ReadCode,MedCode,ReadTerm
+Other psychoactive substance misuse,13c..00,8490,Drug user
+Other psychoactive substance misuse,13c0.00,22079,Injecting drug user
+Other psychoactive substance misuse,13c1.00,30251,Intravenous drug user
+Other psychoactive substance misuse,13c4.00,42257,Intranasal drug user
+Other psychoactive substance misuse,13c5.00,28642,Substance misuse increased
+Other psychoactive substance misuse,13c6.00,35286,Substance misuse decreased
+Other psychoactive substance misuse,13c7.00,49618,Current drug user
+Other psychoactive substance misuse,13c8.00,35404,Reduced drugs misuse
+Other psychoactive substance misuse,13c9.00,38125,Subcutaneous drug user
+Other psychoactive substance misuse,13cA.00,26096,Smokes drugs
+Other psychoactive substance misuse,13cB.00,38029,Misuses drugs orally
+Other psychoactive substance misuse,13cC.00,47804,Continuous use of drugs
+Other psychoactive substance misuse,13cD.00,44966,Episodic use of drugs
+Other psychoactive substance misuse,13cE.00,25925,Prolonged high dose use of cannabis
+Other psychoactive substance misuse,13cF.00,41039,Preoccupied with substance misuse
+Other psychoactive substance misuse,13cH.00,28766,Persistent substance misuse
+Other psychoactive substance misuse,13cJ.00,32709,Previously injecting drug user
+Other psychoactive substance misuse,13cK.00,69977,Current non recreational drug user
+Other psychoactive substance misuse,13cM.00,93412,Substance misuse
+Other psychoactive substance misuse,13r3.00,68327,Abstinent from drug misuse on maintenance replacement
+Other psychoactive substance misuse,13r4.00,94693,Abstinent from drug misuse when receiving blocking therapy
+Other psychoactive substance misuse,146C.00,30565,Failed heroin detoxification
+Other psychoactive substance misuse,146F.00,12651,H/O: drug abuse
+Other psychoactive substance misuse,1T...00,85956,History of substance misuse
+Other psychoactive substance misuse,1T0..00,82479,H/O heroin misuse
+Other psychoactive substance misuse,1T00.00,86002,H/O daily heroin misuse
+Other psychoactive substance misuse,1T01.00,93554,H/O weekly heroin misuse
+Other psychoactive substance misuse,1T02.00,88372,Previous history of heroin misuse
+Other psychoactive substance misuse,1T03.00,89145,H/O infrequent heroin misuse
+Other psychoactive substance misuse,1T1..00,85097,H/O methadone misuse
+Other psychoactive substance misuse,1T10.00,92404,H/O daily methadone misuse
+Other psychoactive substance misuse,1T11.00,93109,H/O weekly methadone misuse
+Other psychoactive substance misuse,1T12.00,106342,H/O infrequent methadone misuse
+Other psychoactive substance misuse,1T13.00,86771,Previous history of methadone misuse
+Other psychoactive substance misuse,1T2..00,81441,H/O ecstasy misuse
+Other psychoactive substance misuse,1T20.00,95380,H/O daily ecstasy misuse
+Other psychoactive substance misuse,1T21.00,92359,H/O weekly ecstasy misuse
+Other psychoactive substance misuse,1T22.00,90442,H/O infrequent ecstasy misuse
+Other psychoactive substance misuse,1T23.00,89698,Previous history of ecstasy misuse
+Other psychoactive substance misuse,1T3..00,85834,H/O benzodiazepine misuse
+Other psychoactive substance misuse,1T30.00,92232,H/O daily benzodiazepine misuse
+Other psychoactive substance misuse,1T31.00,93774,H/O weekly benzodiazepine misuse
+Other psychoactive substance misuse,1T32.00,92993,H/O infrequent benzodiazepine misuse
+Other psychoactive substance misuse,1T33.00,91848,Previous history of benzodiazepine misuse
+Other psychoactive substance misuse,1T4..00,85096,H/O amphetamine misuse
+Other psychoactive substance misuse,1T40.00,90664,H/O daily amphetamine misuse
+Other psychoactive substance misuse,1T41.00,88782,H/O weekly amphetamine misuse
+Other psychoactive substance misuse,1T42.00,88781,H/O infrequent amphetamine misuse
+Other psychoactive substance misuse,1T43.00,83574,Previous history of amphetamine misuse
+Other psychoactive substance misuse,1T5..00,82471,H/O cocaine misuse
+Other psychoactive substance misuse,1T50.00,85091,H/O daily cocaine misuse
+Other psychoactive substance misuse,1T51.00,90109,H/O weekly cocaine misuse
+Other psychoactive substance misuse,1T52.00,87002,H/O infrequent cocaine misuse
+Other psychoactive substance misuse,1T53.00,84156,Previous history of cocaine misuse
+Other psychoactive substance misuse,1T6..00,86035,H/O crack cocaine misuse
+Other psychoactive substance misuse,1T60.00,88990,H/O daily crack cocaine misuse
+Other psychoactive substance misuse,1T61.00,90271,H/O weekly crack cocaine misuse
+Other psychoactive substance misuse,1T62.00,88844,H/O infrequent crack cocaine misuse
+Other psychoactive substance misuse,1T63.00,85671,Previous history of crack cocaine misuse
+Other psychoactive substance misuse,1T7..00,96198,H/O hallucinogen misuse
+Other psychoactive substance misuse,1T73.00,93193,Previous history of hallucinogen misuse
+Other psychoactive substance misuse,1T8..00,78442,H/O cannabis misuse
+Other psychoactive substance misuse,1T80.00,86754,H/O daily cannabis misuse
+Other psychoactive substance misuse,1T81.00,87502,H/O weekly cannabis misuse
+Other psychoactive substance misuse,1T82.00,83564,H/O infrequent cannabis misuse
+Other psychoactive substance misuse,1T83.00,82476,Previous history of cannabis misuse
+Other psychoactive substance misuse,1T9..00,84215,H/O solvent misuse
+Other psychoactive substance misuse,1T90.00,95396,H/O daily solvent misuse
+Other psychoactive substance misuse,1T91.00,99429,H/O weekly solvent misuse
+Other psychoactive substance misuse,1T92.00,109471,H/O infrequent solvent misuse
+Other psychoactive substance misuse,1T93.00,89930,Previous history of solvent misuse
+Other psychoactive substance misuse,1TA..00,93263,H/O barbiturate misuse
+Other psychoactive substance misuse,1TA3.00,109849,Previous history of barbiturate misuse
+Other psychoactive substance misuse,1TB..00,101724,H/O major tranquilliser misuse
+Other psychoactive substance misuse,1TB0.00,93528,H/O daily major tranquilliser misuse
+Other psychoactive substance misuse,1TC..00,99798,H/O anti-depressant misuse
+Other psychoactive substance misuse,1TC0.00,103881,H/O daily anti-depressant misuse
+Other psychoactive substance misuse,1TC3.00,106143,Previous history of anti-depressant misuse
+Other psychoactive substance misuse,1TD..00,86036,H/O opiate misuse
+Other psychoactive substance misuse,1TD0.00,88760,H/O daily opiate misuse
+Other psychoactive substance misuse,1TD1.00,101377,H/O weekly opiate misuse
+Other psychoactive substance misuse,1TD2.00,91029,H/O infrequent opiate misuse
+Other psychoactive substance misuse,1TD3.00,91256,Previous history of opiate misuse
+Other psychoactive substance misuse,1TE..00,86041,Uses heroin on top of substitution therapy
+Other psychoactive substance misuse,1TF..00,85953,Does not use heroin on top of substitution therapy
+Other psychoactive substance misuse,1V...00,97025,Drug misuse behaviour
+Other psychoactive substance misuse,1V0..00,97578,Misuses drugs
+Other psychoactive substance misuse,1V00.00,97648,Occasional drug user
+Other psychoactive substance misuse,1V01.00,98528,Long-term drug misuser
+Other psychoactive substance misuse,1V02.00,97698,Poly-drug misuser
+Other psychoactive substance misuse,1V04.00,110153,Misuses drugs rectally
+Other psychoactive substance misuse,1V07.00,101697,Notified addict
+Other psychoactive substance misuse,1V08.00,105999,Smokes drugs in cigarette form
+Other psychoactive substance misuse,1V09.00,107593,Smokes drugs through a pipe
+Other psychoactive substance misuse,1V0A.00,105104,Chases the dragon
+Other psychoactive substance misuse,1V0B.00,103844,Sniffs drugs
+Other psychoactive substance misuse,1V0C.00,98914,Drug addict
+Other psychoactive substance misuse,1V0E.00,100935,Health problem secondary to drug misuse
+Other psychoactive substance misuse,1V22.00,101892,Age at starting drug misuse
+Other psychoactive substance misuse,1V23.00,101394,Time since stopped drug misuse
+Other psychoactive substance misuse,1V26.00,100477,Misused drugs in past
+Other psychoactive substance misuse,1V3..00,97000,Drug injection behaviour
+Other psychoactive substance misuse,1V30.00,109558,Injects drugs subcutaneously
+Other psychoactive substance misuse,1V31.00,109544,Injects drugs intramuscularly
+Other psychoactive substance misuse,1V32.00,107780,Neck injector
+Other psychoactive substance misuse,1V35.00,103726,Shares drug equipment
+Other psychoactive substance misuse,1V37.00,103725,Drug injecting equipment hygiene
+Other psychoactive substance misuse,1V38.00,97811,Sharing of drug injecting equipment
+Other psychoactive substance misuse,1V4..00,103018,Priority of drug-related activities
+Other psychoactive substance misuse,1V5..00,98452,Routine of drug-related activities
+Other psychoactive substance misuse,1V6..00,97245,Drug-related offending behaviour
+Other psychoactive substance misuse,1V62.00,98169,Buying drugs
+Other psychoactive substance misuse,1V63.00,97071,Possession of drugs
+Other psychoactive substance misuse,1V64.00,97028,Illicit drug use
+Other psychoactive substance misuse,1V65.00,96925,Heroin misuse
+Other psychoactive substance misuse,1V66.00,97031,Ecstasy misuse
+Other psychoactive substance misuse,46QB100,107755,Urine methadone positive
+Other psychoactive substance misuse,46Qr000,108762,Urine buprenorphine positive
+Other psychoactive substance misuse,677T.00,96049,Substance misuse structured counselling
+Other psychoactive substance misuse,7P22000,30750,Delivery of rehabilitation for drug addiction
+Other psychoactive substance misuse,8AA..00,54356,Drug abuse monitoring
+Other psychoactive substance misuse,8B23.00,7496,Drug addiction therapy
+Other psychoactive substance misuse,8B23.11,6111,Drug addictn therap-methadone
+Other psychoactive substance misuse,8B23.13,9024,Drug dependence therapy
+Other psychoactive substance misuse,8B2M.00,47083,Buprenorphine maintenance therapy
+Other psychoactive substance misuse,8B2N.00,28976,Drug addiction detoxification therapy - methadone
+Other psychoactive substance misuse,8B2P.00,30694,Drug addiction maintenance therapy - methadone
+Other psychoactive substance misuse,8B2Q.00,43487,Drug addiction maintenance therapy - buprenorphine
+Other psychoactive substance misuse,8B2R.00,51052,Drug addiction detoxification therapy - buprenorphine
+Other psychoactive substance misuse,8B2S.00,93980,Opioid agonist substitution therapy
+Other psychoactive substance misuse,8B2T.00,93979,Opioid antagonist therapy
+Other psychoactive substance misuse,8BA9.00,3222,Detoxification dependence drug
+Other psychoactive substance misuse,8BAc.00,42649,Substance misuse management stopped - self withdrawal
+Other psychoactive substance misuse,8BAd.00,30598,Opiate dependence detoxification
+Other psychoactive substance misuse,8BAW.00,32653,Drug dependence self detoxification
+Other psychoactive substance misuse,8BAX.00,30679,Drug dependence home detoxification
+Other psychoactive substance misuse,8BE0.00,90198,Reinduction to methadone maintenance therapy
+Other psychoactive substance misuse,8BE1.00,96081,Reinduction to buprenorphine maintenance therapy
+Other psychoactive substance misuse,8H7x.00,12856,Referral to drug abuse counsellor
+Other psychoactive substance misuse,8Hh1.00,94686,Self referral to substance misuse service
+Other psychoactive substance misuse,8HkF.00,93850,Referral to substance misuse service
+Other psychoactive substance misuse,8Hq..00,100178,Admission to substance misuse detoxification centre
+Other psychoactive substance misuse,8I2N.00,60985,Drug dependence home detoxification contraindicated
+Other psychoactive substance misuse,9G2..00,29728,Drug addiction notification
+Other psychoactive substance misuse,9G2..11,21623,Drug addict notific admin
+Other psychoactive substance misuse,9G21.00,24849,Drug addict notific to CMO
+Other psychoactive substance misuse,9G22.00,69963,Drug addict re-notific due
+Other psychoactive substance misuse,9G23.00,60372,Drug addict re-notif to CMO
+Other psychoactive substance misuse,9G24.00,65927,Drug addict-notify local SMR22
+Other psychoactive substance misuse,9G2Z.00,58743,Drug addiction notif NOS
+Other psychoactive substance misuse,9HC..00,31213,Substance misuse monitoring
+Other psychoactive substance misuse,9HC0.00,22530,Initial substance misuse assessment
+Other psychoactive substance misuse,9HC1.00,58145,Follow up substance misuse assessment
+Other psychoactive substance misuse,9HC2.00,45550,Substance misuse clinical management plan agreed
+Other psychoactive substance misuse,9HC3.00,72663,Substance misuse clinical management plan reviewed
+Other psychoactive substance misuse,9HC4.00,91939,Substance misuse treatment withdrawn
+Other psychoactive substance misuse,9HC5.00,91277,Substance misuse treatment programme completed
+Other psychoactive substance misuse,9HC6.00,96009,Substance misuse treatment declined
+Other psychoactive substance misuse,9K4..00,98763,SMR25a drug misuse initial assessment form
+Other psychoactive substance misuse,9k5..00,34398,Drug misuse - enhanced services administration
+Other psychoactive substance misuse,9k50.00,62490,Drug misuse - enhanced service completed
+Other psychoactive substance misuse,9k51.00,97586,Shared care drug misuse treatment - enhanced services admin
+Other psychoactive substance misuse,9k51.11,103241,Shared care drug misuse treatment
+Other psychoactive substance misuse,9k52.00,97676,Drug misuse treatment primary care - enhanced services admin
+Other psychoactive substance misuse,9k53.00,98566,Pharmacy attended for drug misuse - enhanced services admin
+Other psychoactive substance misuse,9kS..00,98362,Drug misuse assessment declined - enhanced services administ
+Other psychoactive substance misuse,9N1yJ00,107355,Seen in drug misuse clinic
+Other psychoactive substance misuse,9N4i.00,30465,DNA - Did not attend substance misuse clinic
+Other psychoactive substance misuse,9NdN.00,106290,Declined consent for notification of drug misuse
+Other psychoactive substance misuse,9No5.00,98221,Seen in substance misuse clinic
+Other psychoactive substance misuse,9s...00,106802,Drug misuse clinic administration
+Other psychoactive substance misuse,E02..00,16256,Drug psychoses
+Other psychoactive substance misuse,E020.00,3844,Drug withdrawal syndrome
+Other psychoactive substance misuse,E021.00,45997,Drug-induced paranoia or hallucinatory states
+Other psychoactive substance misuse,E021000,12628,Drug-induced paranoid state
+Other psychoactive substance misuse,E021100,20026,Drug-induced hallucinosis
+Other psychoactive substance misuse,E021z00,26481,Drug-induced paranoia or hallucinatory state NOS
+Other psychoactive substance misuse,E022.00,15876,Pathological drug intoxication
+Other psychoactive substance misuse,E02y.00,51135,Other drug psychoses
+Other psychoactive substance misuse,E02y000,29783,Drug-induced delirium
+Other psychoactive substance misuse,E02y100,62132,Drug-induced dementia
+Other psychoactive substance misuse,E02y300,46244,Drug-induced depressive state
+Other psychoactive substance misuse,E02y400,22103,Drug-induced personality disorder
+Other psychoactive substance misuse,E02yz00,28767,Other drug psychoses NOS
+Other psychoactive substance misuse,E02z.00,26002,Drug psychosis NOS
+Other psychoactive substance misuse,E24..00,5105,Drug dependence
+Other psychoactive substance misuse,E24..11,3519,Drug addiction
+Other psychoactive substance misuse,E240.00,16243,Opioid type drug dependence
+Other psychoactive substance misuse,E240.11,689,Heroin dependence
+Other psychoactive substance misuse,E240.12,16374,Methadone dependence
+Other psychoactive substance misuse,E240.13,22059,Morphine dependence
+Other psychoactive substance misuse,E240.14,32804,Opium dependence
+Other psychoactive substance misuse,E240000,38034,Unspecified opioid dependence
+Other psychoactive substance misuse,E240100,43075,Continuous opioid dependence
+Other psychoactive substance misuse,E240200,20962,Episodic opioid dependence
+Other psychoactive substance misuse,E240300,27960,Opioid dependence in remission
+Other psychoactive substance misuse,E240z00,24441,Opioid drug dependence NOS
+Other psychoactive substance misuse,E241.00,25344,Hypnotic or anxiolytic dependence
+Other psychoactive substance misuse,E241.11,35733,Anxiolytic dependence
+Other psychoactive substance misuse,E241.12,23436,Barbiturate dependence
+Other psychoactive substance misuse,E241.13,460,Benzodiazepine dependence
+Other psychoactive substance misuse,E241.14,18210,Diazepam dependence
+Other psychoactive substance misuse,E241.15,31862,Librium dependence
+Other psychoactive substance misuse,E241.16,36223,Sedative dependence
+Other psychoactive substance misuse,E241.17,37130,Valium dependence
+Other psychoactive substance misuse,E241000,53025,"Hypnotic or anxiolytic dependence, unspecified"
+Other psychoactive substance misuse,E241100,26208,"Hypnotic or anxiolytic dependence, continuous"
+Other psychoactive substance misuse,E241200,50778,"Hypnotic or anxiolytic dependence, episodic"
+Other psychoactive substance misuse,E241300,48702,Hypnotic or anxiolytic dependence in remission
+Other psychoactive substance misuse,E241z00,29797,Hypnotic or anxiolytic dependence NOS
+Other psychoactive substance misuse,E242.00,11840,Cocaine type drug dependence
+Other psychoactive substance misuse,E242000,25808,"Cocaine dependence, unspecified"
+Other psychoactive substance misuse,E242100,25748,"Cocaine dependence, continuous"
+Other psychoactive substance misuse,E242200,39836,"Cocaine dependence, episodic"
+Other psychoactive substance misuse,E242300,52765,Cocaine dependence in remission
+Other psychoactive substance misuse,E242z00,33942,Cocaine drug dependence NOS
+Other psychoactive substance misuse,E243.00,8284,Cannabis type drug dependence
+Other psychoactive substance misuse,E243.11,40720,Hashish dependence
+Other psychoactive substance misuse,E243.12,23712,Hemp dependence
+Other psychoactive substance misuse,E243.13,37316,Marihuana dependence
+Other psychoactive substance misuse,E243000,24616,"Cannabis dependence, unspecified"
+Other psychoactive substance misuse,E243100,42923,"Cannabis dependence, continuous"
+Other psychoactive substance misuse,E243200,52794,"Cannabis dependence, episodic"
+Other psychoactive substance misuse,E243300,44991,Cannabis dependence in remission
+Other psychoactive substance misuse,E243z00,33462,Cannabis drug dependence NOS
+Other psychoactive substance misuse,E244.00,22186,Amphetamine or other psychostimulant dependence
+Other psychoactive substance misuse,E244.11,41476,Psychostimulant dependence
+Other psychoactive substance misuse,E244.12,25670,Stimulant dependence
+Other psychoactive substance misuse,E244000,37472,"Amphetamine or psychostimulant dependence, unspecified"
+Other psychoactive substance misuse,E244011,109077,"Amfetamine or psychostimulant dependence, unspecified"
+Other psychoactive substance misuse,E244100,38360,"Amphetamine or psychostimulant dependence, continuous"
+Other psychoactive substance misuse,E244200,49585,"Amphetamine or psychostimulant dependence, episodic"
+Other psychoactive substance misuse,E244300,46800,Amphetamine or psychostimulant dependence in remission
+Other psychoactive substance misuse,E244z00,25646,Amphetamine or psychostimulant dependence NOS
+Other psychoactive substance misuse,E244z11,102440,Amfetamine or psychostimulant dependence NOS
+Other psychoactive substance misuse,E245.00,32887,Hallucinogen dependence
+Other psychoactive substance misuse,E245.11,21683,LSD dependence
+Other psychoactive substance misuse,E245.12,72371,Lysergic acid diethylamide dependence
+Other psychoactive substance misuse,E245000,92353,"Hallucinogen dependence, unspecified"
+Other psychoactive substance misuse,E245100,71086,"Hallucinogen dependence, continuous"
+Other psychoactive substance misuse,E245200,73448,"Hallucinogen dependence, episodic"
+Other psychoactive substance misuse,E245300,70578,Hallucinogen dependence in remission
+Other psychoactive substance misuse,E245z00,68150,Hallucinogen dependence NOS
+Other psychoactive substance misuse,E246.00,5203,Glue sniffing dependence
+Other psychoactive substance misuse,E246000,38072,"Glue sniffing dependence, unspecified"
+Other psychoactive substance misuse,E246100,97375,"Glue sniffing dependence, continuous"
+Other psychoactive substance misuse,E246200,33774,"Glue sniffing dependence, episodic"
+Other psychoactive substance misuse,E246300,70761,Glue sniffing dependence in remission
+Other psychoactive substance misuse,E246z00,59184,Glue sniffing dependence NOS
+Other psychoactive substance misuse,E247.00,51197,Other specified drug dependence
+Other psychoactive substance misuse,E247.11,87505,Absinthe addiction
+Other psychoactive substance misuse,E247000,59676,"Other specified drug dependence, unspecified"
+Other psychoactive substance misuse,E247100,24998,"Other specified drug dependence, continuous"
+Other psychoactive substance misuse,E247200,72564,"Other specified drug dependence, episodic"
+Other psychoactive substance misuse,E247300,64269,Other specified drug dependence in remission
+Other psychoactive substance misuse,E247z00,40781,Other specified drug dependence NOS
+Other psychoactive substance misuse,E248.00,26061,Combined opioid with other drug dependence
+Other psychoactive substance misuse,E248000,56194,"Combined opioid with other drug dependence, unspecified"
+Other psychoactive substance misuse,E248100,64265,"Combined opioid with other drug dependence, continuous"
+Other psychoactive substance misuse,E248200,64277,"Combined opioid with other drug dependence, episodic"
+Other psychoactive substance misuse,E248300,52451,Combined opioid with other drug dependence in remission
+Other psychoactive substance misuse,E248z00,73737,Combined opioid with other drug dependence NOS
+Other psychoactive substance misuse,E249.00,14809,"Combined drug dependence, excluding opioids"
+Other psychoactive substance misuse,E249000,91260,"Combined drug dependence, excluding opioid, unspecified"
+Other psychoactive substance misuse,E249100,53678,"Combined drug dependence, excluding opioid, continuous"
+Other psychoactive substance misuse,E249200,62717,"Combined drug dependence, excluding opioid, episodic"
+Other psychoactive substance misuse,E249300,70900,"Combined drug dependence, excluding opioid, in remission"
+Other psychoactive substance misuse,E249z00,72342,"Combined drug dependence, excluding opioid, NOS"
+Other psychoactive substance misuse,E24A.00,21087,Ecstasy type drug dependence
+Other psychoactive substance misuse,E24z.00,29446,Drug dependence NOS
+Other psychoactive substance misuse,E25..00,7747,Nondependent abuse of drugs
+Other psychoactive substance misuse,E250000,669,"Nondependent alcohol abuse, unspecified"
+Other psychoactive substance misuse,E252.00,3635,Nondependent cannabis abuse
+Other psychoactive substance misuse,E252000,42140,"Nondependent cannabis abuse, unspecified"
+Other psychoactive substance misuse,E252100,39983,"Nondependent cannabis abuse, continuous"
+Other psychoactive substance misuse,E252200,25448,"Nondependent cannabis abuse, episodic"
+Other psychoactive substance misuse,E252300,53071,Nondependent cannabis abuse in remission
+Other psychoactive substance misuse,E252z00,25526,Nondependent cannabis abuse NOS
+Other psychoactive substance misuse,E253.00,5610,Nondependent hallucinogen abuse
+Other psychoactive substance misuse,E253.11,60048,'Bad trips'
+Other psychoactive substance misuse,E253.12,16071,LSD reaction
+Other psychoactive substance misuse,E253000,71060,"Nondependent hallucinogen abuse, unspecified"
+Other psychoactive substance misuse,E253100,95955,"Nondependent hallucinogen abuse, continuous"
+Other psychoactive substance misuse,E253200,95956,"Nondependent hallucinogen abuse, episodic"
+Other psychoactive substance misuse,E253300,67462,Nondependent hallucinogen abuse in remission
+Other psychoactive substance misuse,E253z00,48131,Nondependent hallucinogen abuse NOS
+Other psychoactive substance misuse,E254.00,60180,Nondependent hypnotic or anxiolytic abuse
+Other psychoactive substance misuse,E254.11,29075,Barbiturate abuse
+Other psychoactive substance misuse,E254.12,43296,Hypnotic or anxiolytic abuse
+Other psychoactive substance misuse,E254.13,39051,Sedative abuse
+Other psychoactive substance misuse,E254.14,18285,Tranquilliser abuse
+Other psychoactive substance misuse,E254000,66243,"Nondependent hypnotic or anxiolytic abuse, unspecified"
+Other psychoactive substance misuse,E254100,95954,"Nondependent hypnotic or anxiolytic abuse, continuous"
+Other psychoactive substance misuse,E254200,65942,"Nondependent hypnotic or anxiolytic abuse, episodic"
+Other psychoactive substance misuse,E254300,68396,Nondependent hypnotic or anxiolytic abuse in remission
+Other psychoactive substance misuse,E254z00,94394,Nondependent hypnotic or anxiolytic abuse NOS
+Other psychoactive substance misuse,E255.00,26831,Nondependent opioid abuse
+Other psychoactive substance misuse,E255000,40536,"Nondependent opioid abuse, unspecified"
+Other psychoactive substance misuse,E255100,58731,"Nondependent opioid abuse, continuous"
+Other psychoactive substance misuse,E255200,64382,"Nondependent opioid abuse, episodic"
+Other psychoactive substance misuse,E255300,95953,Nondependent opioid abuse in remission
+Other psychoactive substance misuse,E255z00,69508,Nondependent opioid abuse NOS
+Other psychoactive substance misuse,E256.00,10860,Nondependent cocaine abuse
+Other psychoactive substance misuse,E256000,32931,"Nondependent cocaine abuse, unspecified"
+Other psychoactive substance misuse,E256100,46896,"Nondependent cocaine abuse, continuous"
+Other psychoactive substance misuse,E256200,43901,"Nondependent cocaine abuse, episodic"
+Other psychoactive substance misuse,E256300,58934,Nondependent cocaine abuse in remission
+Other psychoactive substance misuse,E256z00,64338,Nondependent cocaine abuse NOS
+Other psychoactive substance misuse,E257.00,22481,Nondependent amphetamine or other psychostimulant abuse
+Other psychoactive substance misuse,E257.11,32751,Psychostimulant abuse
+Other psychoactive substance misuse,E257.12,46732,Stimulant abuse
+Other psychoactive substance misuse,E257000,39058,"Nondependent amphetamine/psychostimulant abuse, unspecified"
+Other psychoactive substance misuse,E257100,52841,"Nondependent amphetamine/psychostimulant abuse, continuous"
+Other psychoactive substance misuse,E257200,25229,"Nondependent amphetamine or psychostimulant abuse, episodic"
+Other psychoactive substance misuse,E257300,43176,Nondependent amphetamine/psychostimulant abuse in remission
+Other psychoactive substance misuse,E257z00,47836,Nondependent amphetamine or psychostimulant abuse NOS
+Other psychoactive substance misuse,E258.00,46962,Nondependent antidepressant type drug abuse
+Other psychoactive substance misuse,E258z00,94436,Nondependent antidepressant type drug abuse NOS
+Other psychoactive substance misuse,E259.00,53008,Nondependent mixed drug abuse
+Other psychoactive substance misuse,E259000,56337,"Nondependent mixed drug abuse, unspecified"
+Other psychoactive substance misuse,E259100,62887,"Nondependent mixed drug abuse, continuous"
+Other psychoactive substance misuse,E259200,52953,"Nondependent mixed drug abuse, episodic"
+Other psychoactive substance misuse,E259300,52842,Nondependent mixed drug abuse in remission
+Other psychoactive substance misuse,E259400,25175,Misuse of prescription only drugs
+Other psychoactive substance misuse,E259z00,33838,Nondependent mixed drug abuse NOS
+Other psychoactive substance misuse,E25y.00,16161,Nondependent other drug abuse
+Other psychoactive substance misuse,E25y.11,8608,Analgesic abuse
+Other psychoactive substance misuse,E25y000,63076,"Nondependent other drug abuse, unspecified"
+Other psychoactive substance misuse,E25y100,54800,"Nondependent other drug abuse, continuous"
+Other psychoactive substance misuse,E25y200,64983,"Nondependent other drug abuse, episodic"
+Other psychoactive substance misuse,E25y300,52846,Nondependent other drug abuse in remission
+Other psychoactive substance misuse,E25yz00,64316,Nondependent other drug abuse NOS
+Other psychoactive substance misuse,E25z.00,1588,Misuse of drugs NOS
+Other psychoactive substance misuse,Eu1..00,30034,[X]Mental and behavioural disorders due to psychoactive subs
+Other psychoactive substance misuse,Eu10500,12353,[X]Mental & behav dis due to use alcohol: psychotic disorder
+Other psychoactive substance misuse,Eu11.00,47335,[X]Mental and behavioural disorders due to use of opioids
+Other psychoactive substance misuse,Eu11000,42456,[X]Mental & behav dis due to use opioids: acute intoxication
+Other psychoactive substance misuse,Eu11100,37568,[X]Mental and behav dis due to use of opioids: harmful use
+Other psychoactive substance misuse,Eu11200,34249,[X]Mental and behav dis due to use opioids: dependence syndr
+Other psychoactive substance misuse,Eu11211,10538,[X]Drug addiction - opioids
+Other psychoactive substance misuse,Eu11212,4564,[X]Heroin addiction
+Other psychoactive substance misuse,Eu11300,36241,[X]Mental and behav dis due to use opioids: withdrawal state
+Other psychoactive substance misuse,Eu11311,25527,"[X]Cold turkey, opiate withdrawal"
+Other psychoactive substance misuse,Eu11400,97488,[X]Men & behav dis due opioid: withdrawl state with delirium
+Other psychoactive substance misuse,Eu11500,50964,[X]Mental & behav dis due to use opioids: psychotic disorder
+Other psychoactive substance misuse,Eu11600,103991,[X]Mental and behav dis due to use opioids: amnesic syndrome
+Other psychoactive substance misuse,Eu11700,27652,[X]Men & beh dis due opioids: resid & late-onset psychot dis
+Other psychoactive substance misuse,Eu11y00,52739,[X]Men & behav dis due to use opioids: oth men & behav dis
+Other psychoactive substance misuse,Eu11z00,91801,[X]Ment & behav dis due use opioids: unsp ment & behav dis
+Other psychoactive substance misuse,Eu12.00,10655,[X]Mental and behavioural disorders due to use cannabinoids
+Other psychoactive substance misuse,Eu12000,37389,[X]Mental & behav dis due cannabinoids: acute intoxication
+Other psychoactive substance misuse,Eu12100,50343,[X]Mental and behav dis due to use cannabinoids: harmful use
+Other psychoactive substance misuse,Eu12200,56504,[X]Mental and behav dis due to cannabinoids: dependence synd
+Other psychoactive substance misuse,Eu12211,21662,[X]Drug addiction - cannabis
+Other psychoactive substance misuse,Eu12300,65681,[X]Mental and behav dis due cannabinoids: withdrawal state
+Other psychoactive substance misuse,Eu12500,38429,[X]Mental & behav dis due to cannabinoids: psychotic disordr
+Other psychoactive substance misuse,Eu12600,97561,[X]Mental and behav dis due to use cannabinoids: amnesic syn
+Other psychoactive substance misuse,Eu12700,57574,[X]Mnt/bh dis due cannabinds: resid & late-onset psychot dis
+Other psychoactive substance misuse,Eu12y00,64308,[X]Men/behav dis due to use cannabinoids: oth men/behav disd
+Other psychoactive substance misuse,Eu12z00,64987,[X]Ment/behav dis due use cannabinoids: unsp ment/behav disd
+Other psychoactive substance misuse,Eu13.00,41317,[X]Mental and behavioural dis due use sedatives/hypnotics
+Other psychoactive substance misuse,Eu13000,64210,[X]Mental & behav dis due seds/hypntcs: acute intoxication
+Other psychoactive substance misuse,Eu13100,93407,[X]Mental and behav dis due to use seds/hypntcs: harmful use
+Other psychoactive substance misuse,Eu13200,44330,[X]Mental and behav dis due to seds/hypntcs: dependence synd
+Other psychoactive substance misuse,Eu13211,25757,[X]Drug addiction- sedative / hypnotics
+Other psychoactive substance misuse,Eu13300,61342,[X]Mental and behav dis due seds/hypntcs: withdrawal state
+Other psychoactive substance misuse,Eu13400,44131,[X]Men & beh dis due seds/hypns: withdrwl state wth delirium
+Other psychoactive substance misuse,Eu13500,69138,[X]Mental & behav dis due to seds/hypntcs: psychotic disordr
+Other psychoactive substance misuse,Eu14.00,32052,[X]Mental and behavioural disorders due to use of cocaine
+Other psychoactive substance misuse,Eu14000,49566,[X]Mental & behav dis due to use cocaine: acute intoxication
+Other psychoactive substance misuse,Eu14100,47739,[X]Mental and behav dis due to use of cocaine: harmful use
+Other psychoactive substance misuse,Eu14200,50302,[X]Mental and behav dis due to use cocaine: dependence syndr
+Other psychoactive substance misuse,Eu14211,11746,[X]Drug addiction - cocaine
+Other psychoactive substance misuse,Eu14300,67535,[X]Mental and behav dis due to use cocaine: withdrawal state
+Other psychoactive substance misuse,Eu14500,49565,[X]Mental & behav dis due to use cocaine: psychotic disorder
+Other psychoactive substance misuse,Eu14700,102591,[X]Men & beh dis due cocaine: resid & late-onset psychot dis
+Other psychoactive substance misuse,Eu15.00,43101,[X]Mental & behav disorder due other stimulants inc caffein
+Other psychoactive substance misuse,Eu15000,44742,[X]Mnt/beh dis due oth stim inc caffein: acute intoxication
+Other psychoactive substance misuse,Eu15100,72712,[X]Ment/behav dis due to use oth stims inc caff: harmful use
+Other psychoactive substance misuse,Eu15200,33493,[X]Mental and behav dis oth stim inc caffein: dependnce synd
+Other psychoactive substance misuse,Eu15211,10045,[X]Drug addiction-other stimul
+Other psychoactive substance misuse,Eu15300,48760,[X]Mnt/behav dis other stimlnts inc caffeine: withdrwl state
+Other psychoactive substance misuse,Eu15500,49879,[X]Mental/behav dis oth stims inc caffeine: psychotic dis
+Other psychoactive substance misuse,Eu15700,59163,[X]Mnt/bh dis oth stm inc caffne resid/late-onset psycht dis
+Other psychoactive substance misuse,Eu15z00,56650,[X]Ment/beh dis oth stims inc caffeine: unsp ment/behav disd
+Other psychoactive substance misuse,Eu16.00,50265,[X]Mental and behavioural disorders due to use hallucinogens
+Other psychoactive substance misuse,Eu16000,66187,[X]Mental & behav dis due hallucinogens: acute intoxicatn
+Other psychoactive substance misuse,Eu16100,67491,[X]Mental and behav dis due to use hallucinogens: harmfl use
+Other psychoactive substance misuse,Eu16200,65826,[X]Mental and behav dis due to hallucinogens: dependence syn
+Other psychoactive substance misuse,Eu16211,47784,[X]Drug addiction - hallucinogen
+Other psychoactive substance misuse,Eu16300,56179,[X]Mental and behav dis due hallucinogens: withdrawal state
+Other psychoactive substance misuse,Eu16500,54983,[X]Mental & behav dis due to hallucinogens: psychotic disord
+Other psychoactive substance misuse,Eu16700,105346,[X]Mnt/bh dis due hallucngns: resid & late-onset psychot dis
+Other psychoactive substance misuse,Eu16711,35196,[X]Post hallucinogen perception disorder
+Other psychoactive substance misuse,Eu16z00,92291,[X]Ment/behav dis due use hallucinogens: unsp ment/behav dis
+Other psychoactive substance misuse,Eu18.00,31736,[X]Mental & behav disorders due to use of volatile solvents
+Other psychoactive substance misuse,Eu18000,50136,[X]Mental & behav dis due vol solvents: acute intoxication
+Other psychoactive substance misuse,Eu18100,59009,[X]Mental and behav dis due volatile solvents: harmful use
+Other psychoactive substance misuse,Eu18200,52815,[X]Mental and behav dis due to vol solvents: dependence synd
+Other psychoactive substance misuse,Eu18211,33585,[X]Drug addiction - solvent
+Other psychoactive substance misuse,Eu18400,62106,[X]Men & beh dis vol solvents: withdrawal state wth delirium
+Other psychoactive substance misuse,Eu18500,98618,[X]Mental & behav dis due to vol solvents: psychotic disordr
+Other psychoactive substance misuse,Eu18z00,49068,[X]Ment/behav dis due use vol solvents: unsp ment/behav dis
+Other psychoactive substance misuse,Eu19.00,10656,[X]Men & behav disorder multiple drug use/psychoactive subst
+Other psychoactive substance misuse,Eu19000,60676,[X]Mental/behav dis multi drg use/psychoac subs: acute intox
+Other psychoactive substance misuse,Eu19100,62959,[X]Mental and behav dis mlti drg/oth psychoa sbs: harmfl use
+Other psychoactive substance misuse,Eu19200,45208,[X]Mental and behav dis mlti/oth psych sbs: dependence syndr
+Other psychoactive substance misuse,Eu19211,9615,[X]Drug addiction NOS
+Other psychoactive substance misuse,Eu19300,51290,[X]Mental and behav dis mlti/oth psychoa sbs: withdrwl state
+Other psychoactive substance misuse,Eu19400,65950,[X]Mnt/bh dis mlti drg use/oth psy sbs: wthdr state + dlrium
+Other psychoactive substance misuse,Eu19500,24637,[X]Ment/behav dis mlti drug use/oth psyc sbs: psychotc dis
+Other psychoactive substance misuse,Eu19600,106958,[X]Mental/behav dis multi drg use/oth psy sbs: amnesic syndr
+Other psychoactive substance misuse,Eu19700,56948,[X]Men/beh dis mlt drg use/oth subs: resid/late psychot dis
+Other psychoactive substance misuse,Eu19y00,93009,[X]Men/beh dis mlt drg use/oth psy sbs: oth men & behav dis
+Other psychoactive substance misuse,Eu19z00,70961,[X]Ment/beh dis multi drug use/oth psy sbs unsp mnt/beh dis
+Other psychoactive substance misuse,Eu1A.00,32640,[X]Mental and behavioural disorders due use of crack cocaine
+Other psychoactive substance misuse,Eu1A000,60420,[X]Ment behav dis due use crack cocaine: acute intoxication
+Other psychoactive substance misuse,Eu1A100,86034,[X]Mental behav disorders due use crack cocaine: harmful use
+Other psychoactive substance misuse,Eu1A200,102582,[X]Mental behav disorders due use crack cocaine: depend synd
+Other psychoactive substance misuse,Eu1A300,101738,[X]Mental behav disord due crack cocaine: withdrawal state
+Other psychoactive substance misuse,Eu1A500,102475,[X]Mental behav disord due crack cocaine: psychotic disorder
+Other psychoactive substance misuse,Eu1Az00,91577,[X]Ment behav dis due crack cocaine: unsp ment and behav dis
+Other psychoactive substance misuse,L183.00,41473,"Drug dependence in pregnancy, childbirth and the puerperium"
+Other psychoactive substance misuse,L183.11,64500,Pregnancy and drug dependence
+Other psychoactive substance misuse,L183100,63379,Drug dependence during pregnancy - baby delivered
+Other psychoactive substance misuse,L183300,67098,Drug dependence during pregnancy - baby not yet delivered
+Other psychoactive substance misuse,L183z00,96004,Drug dependence during pregnancy/childbirth/puerperium NOS
+Other psychoactive substance misuse,SL50.00,61673,Opiate and narcotic poisoning
+Other psychoactive substance misuse,SL50.12,32760,Opiate poisoning
+Other psychoactive substance misuse,SL50100,20458,Heroin poisoning
+Other psychoactive substance misuse,SL50500,37056,Morphine poisoning
+Other psychoactive substance misuse,SL85000,10859,Cocaine poisoning
+Other psychoactive substance misuse,SL96000,36231,Cannabis poisoning
+Other psychoactive substance misuse,SL97000,31754,Amfetamine poisoning
+Other psychoactive substance misuse,SL97011,102176,Amphetamine poisoning
+Other psychoactive substance misuse,SL97200,37544,Ecstasy poisoning
+Other psychoactive substance misuse,T800.00,54560,Accidental poisoning by heroin
+Other psychoactive substance misuse,TJ51.00,55126,Adverse reaction to methadone
+Other psychoactive substance misuse,TJ52100,48674,Adverse reaction to buprenorphine
+Other psychoactive substance misuse,TJ85000,40852,Adverse reaction to cocaine
+Other psychoactive substance misuse,TJ96000,33876,Adverse reaction to cannabis
+Other psychoactive substance misuse,U1A5.11,51334,[X]Accidental poisoning with heroin
+Other psychoactive substance misuse,U205.11,28710,[X]Overdose - heroin
+Other psychoactive substance misuse,U605012,69347,[X] Adverse reaction to methadone
+Other psychoactive substance misuse,U605015,73857,[X] Adverse reaction to buprenorphine
+Other psychoactive substance misuse,U606312,109871,[X] Adverse reaction to cocaine
+Other psychoactive substance misuse,U60A100,55611,[X]Opioid recept antag causing adverse effect in therap use
+Other psychoactive substance misuse,Z1Q6200,60355,Methadone maintenance
+Other psychoactive substance misuse,Z1Q6212,100632,Methadone therapy
+Other psychoactive substance misuse,Z1Q6214,95460,Heroin maintenance
+Other psychoactive substance misuse,Z416.00,9273,Substance abuse counselling
+Other psychoactive substance misuse,ZV11400,21096,[V]Personal history of psychoactive substance abuse
+Other psychoactive substance misuse,ZV11500,30711,[V]Personal history of drug abuse by injection
+Other psychoactive substance misuse,ZV6D700,8463,[V]Drug abuse counselling and surveillance
