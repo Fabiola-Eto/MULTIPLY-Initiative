@@ -1,0 +1,102 @@
+Condition,ReadCode,MedCode,ReadTerm
+Smoking status,1371.11,11788,Non-smoker
+Smoking status,1372.11,12941,Occasional smoker
+Smoking status,137..11,12942,Smoker - amount smoked
+Smoking status,1371.00,33,Never smoked tobacco
+Smoking status,1372.00,12958,Trivial smoker - < 1 cig/day
+Smoking status,1373.00,12944,Light smoker - 1-9 cigs/day
+Smoking status,1374.00,1878,Moderate smoker - 10-19 cigs/d
+Smoking status,1375.00,3568,Heavy smoker - 20-39 cigs/day
+Smoking status,1376.00,1822,Very heavy smoker - 40+cigs/d
+Smoking status,1377.00,12961,Ex-trivial smoker (<1/day)
+Smoking status,1378.00,12957,Ex-light smoker (1-9/day)
+Smoking status,1379.00,12955,Ex-moderate smoker (10-19/day)
+Smoking status,137A.00,12956,Ex-heavy smoker (20-39/day)
+Smoking status,137B.00,12959,Ex-very heavy smoker (40+/day)
+Smoking status,137b.00,31114,Ready to stop smoking
+Smoking status,137C.00,12964,Keeps trying to stop smoking
+Smoking status,137c.00,30423,Thinking about stopping smoking
+Smoking status,137d.00,30762,Not interested in stopping smoking
+Smoking status,137e.00,41979,Smoking restarted
+Smoking status,137F.00,12946,Ex-smoker - amount unknown
+Smoking status,137f.00,46321,Reason for restarting smoking
+Smoking status,137G.00,12240,Trying to give up smoking
+Smoking status,137h.00,62686,Minutes from waking to first tobacco consumption
+Smoking status,137H.00,12947,Pipe smoker
+Smoking status,137J.00,12943,Cigar smoker
+Smoking status,137j.00,97210,Ex-cigarette smoker
+Smoking status,137K.00,776,Stopped smoking
+Smoking status,137K000,99838,Recently stopped smoking
+Smoking status,137L.00,60,Current non-smoker
+Smoking status,137l.00,100495,Ex roll-up cigarette smoker
+Smoking status,137m.00,101338,Failed attempt to stop smoking
+Smoking status,137M.00,12945,Rolls own cigarettes
+Smoking status,137N.00,26470,Ex pipe smoker
+Smoking status,137O.00,19488,Ex cigar smoker
+Smoking status,137P.00,93,Cigarette smoker
+Smoking status,137P.11,1823,Smoker
+Smoking status,137Q.00,12952,Smoking started
+Smoking status,137Q.11,12951,Smoking restarted
+Smoking status,137R.00,10558,Current smoker
+Smoking status,137S.00,90,Ex smoker
+Smoking status,137T.00,12878,Date ceased smoking
+Smoking status,137V.00,12966,Smoking reduced
+Smoking status,13p..00,10211,Smoking cessation milestones
+Smoking status,13p0.00,34126,Negotiated date for cessation of smoking
+Smoking status,13p1.00,34127,Smoking status at 4 weeks
+Smoking status,13p2.00,34374,Smoking status between 4 and 52 weeks
+Smoking status,13p3.00,41405,Smoking status at 52 weeks
+Smoking status,13p4.00,10898,Smoking free weeks
+Smoking status,13p5.00,38112,Smoking cessation programme start date
+Smoking status,13p5000,101764,Practice based smoking cessation programme start date
+Smoking status,13p6.00,28886,Carbon monoxide reading at 4 weeks
+Smoking status,13p7.00,103208,Smoking status at 12 weeks
+Smoking status,13p8.00,102951,Lost to smoking cessation follow-up
+Smoking status,38DH.00,97643,Fagerstrom test for nicotine dependence
+Smoking status,6791.00,2111,Health ed. - smoking
+Smoking status,67H6.00,98137,Brief intervention for smoking cessation
+Smoking status,745H.00,74907,Smoking cessation therapy
+Smoking status,745H000,81440,Nicotine replacement therapy using nicotine patches
+Smoking status,745H100,85975,Nicotine replacement therapy using nicotine gum
+Smoking status,745H200,85247,Nicotine replacement therapy using nicotine inhalator
+Smoking status,745H300,89464,Nicotine replacement therapy using nicotine lozenges
+Smoking status,745H400,94958,Smoking cessation drug therapy
+Smoking status,745Hy00,91708,Other specified smoking cessation therapy
+Smoking status,745Hz00,90522,Smoking cessation therapy NOS
+Smoking status,8B2B.00,9833,Nicotine replacement therapy
+Smoking status,8B3f.00,25106,Nicotine replacement therapy provided free
+Smoking status,8B3Y.00,32572,Over the counter nicotine replacement therapy
+Smoking status,8BP3.00,67178,Nicotine replacement therapy provided by community pharmacis
+Smoking status,8CAg.00,41042,Smoking cessation advice provided by community pharmacist
+Smoking status,8CAL.00,7622,Smoking cessation advice
+Smoking status,8CdB.00,103507,Stop smoking service opportunity signposted
+Smoking status,8H7i.00,18573,Referral to smoking cessation advisor
+Smoking status,8HBM.00,98245,Stop smoking face to face follow-up
+Smoking status,8HBP.00,105710,Smoking cessation 12 week follow-up
+Smoking status,8HkQ.00,98154,Referral to NHS stop smoking service
+Smoking status,8HTK.00,10742,Referral to stop-smoking clinic
+Smoking status,8I2I.00,66409,Nicotine replacement therapy contraindicated
+Smoking status,8I2J.00,63717,Bupropion contraindicated
+Smoking status,8IAj.00,100099,Smoking cessation advice declined
+Smoking status,9km..00,98447,Ex-smoker annual review - enhanced services administration
+Smoking status,9km..11,100963,Ex-smoker annual review
+Smoking status,9kn..00,98177,Non-smoker annual review - enhanced services administration
+Smoking status,9kn..11,101878,Non-smoker annual review
+Smoking status,9ko..00,98347,Current smoker annual review - enhanced services admin
+Smoking status,9ko..11,104310,Current smoker annual review
+Smoking status,9N2k.00,11356,Seen by smoking cessation advisor
+Smoking status,9NS0200,102361,Referral for smoking cessation service offered
+Smoking status,E023.00,6359,Nicotine withdrawal
+Smoking status,E251.00,32687,Tobacco dependence
+Smoking status,E251300,72706,Tobacco dependence in remission
+Smoking status,E251z00,68658,Tobacco dependence NOS
+Smoking status,ZG23300,9045,Advice on smoking
+Smoking status,ZRaM.00,47273,Motives for smoking scale
+Smoking status,ZRao.00,91513,Occasions for smoking scale
+Smoking status,ZRBm200,63666,Fagerstrom test for nicotine dependence
+Smoking status,ZRBm211,63299,FTND - Fagerstrom test for nicotine dependence
+Smoking status,ZRh4.00,59866,Reasons for smoking scale
+Smoking status,ZRh4.11,49418,RFS - Reasons for smoking scale
+Smoking status,ZV11600,72700,[V]Personal history of tobacco abuse
+Smoking status,ZV4K000,12954,[V]Tobacco use
+Smoking status,ZV6D800,35055,[V]Tobacco abuse counselling

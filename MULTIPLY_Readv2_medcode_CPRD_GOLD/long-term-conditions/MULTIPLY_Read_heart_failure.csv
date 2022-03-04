@@ -1,0 +1,82 @@
+Condition,ReadCode,MedCode,ReadTerm
+Heart failure,14A6.00,15058,H/O: heart failure
+Heart failure,14AM.00,46912,H/O: Heart failure in last year
+Heart failure,1O1..00,9913,Heart failure confirmed
+Heart failure,2126400,100784,Heart failure resolved
+Heart failure,388D.00,46672,New York Heart Assoc classification heart failure symptoms
+Heart failure,661M500,106198,Heart failure self-management plan agreed
+Heart failure,662f.00,18853,New York Heart Association classification - class I
+Heart failure,662g.00,13189,New York Heart Association classification - class II
+Heart failure,662h.00,19066,New York Heart Association classification - class III
+Heart failure,662i.00,51214,New York Heart Association classification - class IV
+Heart failure,662p.00,83502,Heart failure 6 month review
+Heart failure,662T.00,12366,Congestive heart failure monitoring
+Heart failure,662W.00,30779,Heart failure annual review
+Heart failure,679W100,105002,Education about deteriorating heart failure
+Heart failure,679X.00,95835,Heart failure education
+Heart failure,8B29.00,24503,Cardiac failure therapy
+Heart failure,8CeC.00,105542,Preferred place of care for next exacerbation heart failure
+Heart failure,8CL3.00,32945,Heart failure care plan discussed with patient
+Heart failure,8CMK.00,103732,Has heart failure management plan
+Heart failure,8CMW800,106008,Heart failure clinical pathway
+Heart failure,8H2S.00,32898,Admit heart failure emergency
+Heart failure,8HBE.00,17851,Heart failure follow-up
+Heart failure,8HHz.00,70619,Referral to heart failure exercise programme
+Heart failure,8Hk0.00,71235,Referred to heart failure education group
+Heart failure,9h1..00,34213,Exception reporting: LVD quality indicators
+Heart failure,9h11.00,11613,Excepted from LVD quality indicators: Patient unsuitable
+Heart failure,9h12.00,28649,Excepted from LVD quality indicators: Informed dissent
+Heart failure,9hH..00,90935,Exception reporting: heart failure quality indicators
+Heart failure,9hH0.00,30749,Excepted heart failure quality indicators: Patient unsuitabl
+Heart failure,9hH1.00,64062,Excepted heart failure quality indicators: Informed dissent
+Heart failure,9N2p.00,19002,Seen by community heart failure nurse
+Heart failure,9N6T.00,69062,Referred by heart failure nurse specialist
+Heart failure,9On..00,18793,Left ventricular dysfunction monitoring administration
+Heart failure,9On0.00,60710,Left ventricular dysfunction monitoring first letter
+Heart failure,9On1.00,60721,Left ventricular dysfunction monitoring second letter
+Heart failure,9On2.00,72341,Left ventricular dysfunction monitoring third letter
+Heart failure,9On3.00,92305,Left ventricular dysfunction monitoring verbal invite
+Heart failure,9On4.00,96484,Left ventricular dysfunction monitoring telephone invite
+Heart failure,9Or..00,32911,Heart failure monitoring administration
+Heart failure,9Or0.00,19380,Heart failure review completed
+Heart failure,9Or1.00,90193,Heart failure monitoring telephone invite
+Heart failure,9Or2.00,90192,Heart failure monitoring verbal invite
+Heart failure,9Or3.00,72965,Heart failure monitoring first letter
+Heart failure,9Or4.00,72386,Heart failure monitoring second letter
+Heart failure,9Or5.00,89650,Heart failure monitoring third letter
+Heart failure,G1yz100,22262,Rheumatic left ventricular failure
+Heart failure,G210100,72668,Malignant hypertensive heart disease with CCF
+Heart failure,G211100,52127,Benign hypertensive heart disease with CCF
+Heart failure,G21z100,62718,Hypertensive heart disease NOS with CCF
+Heart failure,G232.00,21837,Hypertensive heart&renal dis wth (congestive) heart failure
+Heart failure,G234.00,57987,Hyperten heart&renal dis+both(congestv)heart and renal fail
+Heart failure,G400.00,8464,Acute cor pulmonale
+Heart failure,G41z.11,5695,Chronic cor pulmonale
+Heart failure,G554000,5141,Congestive cardiomyopathy
+Heart failure,G554011,68766,Congestive obstructive cardiomyopathy
+Heart failure,G58..00,2062,Heart failure
+Heart failure,G58..11,1223,Cardiac failure
+Heart failure,G580.00,398,Congestive heart failure
+Heart failure,G580.11,2906,Congestive cardiac failure
+Heart failure,G580.12,10079,Right heart failure
+Heart failure,G580.13,10154,Right ventricular failure
+Heart failure,G580.14,9524,Biventricular failure
+Heart failure,G580000,23707,Acute congestive heart failure
+Heart failure,G580100,32671,Chronic congestive heart failure
+Heart failure,G580200,27884,Decompensated cardiac failure
+Heart failure,G580300,11424,Compensated cardiac failure
+Heart failure,G580400,94870,Congestive heart failure due to valvular disease
+Heart failure,G581.00,884,Left ventricular failure
+Heart failure,G581.11,23481,Asthma - cardiac
+Heart failure,G581.12,43618,Pulmonary oedema - acute
+Heart failure,G581.13,5942,Impaired left ventricular function
+Heart failure,G581000,5255,Acute left ventricular failure
+Heart failure,G582.00,27964,Acute heart failure
+Heart failure,G584.00,104275,Right ventricular failure
+Heart failure,G58z.00,4024,Heart failure NOS
+Heart failure,G58z.12,17278,Cardiac failure NOS
+Heart failure,G5yy900,8966,Left ventricular systolic dysfunction
+Heart failure,G5yyA00,12550,Left ventricular diastolic dysfunction
+Heart failure,Q48y100,20822,Congenital cardiac failure
+Heart failure,Q490.00,23566,Neonatal cardiac failure
+Heart failure,ZRad.00,26242,New York Heart Assoc classification heart failure symptoms

@@ -1,0 +1,52 @@
+Condition,ReadCode,MedCode,ReadTerm
+Asthma,14B4.00,719,H/O: asthma
+Asthma,173A.00,5867,Exercise induced asthma
+Asthma,173c.00,22752,Occupational asthma
+Asthma,173d.00,73522,Work aggravated asthma
+Asthma,1780.00,41017,Aspirin induced asthma
+Asthma,1O2..00,11370,Asthma confirmed
+Asthma,2126200,10996,Asthma resolved
+Asthma,212G.00,11839,Asthma resolved
+Asthma,663j.00,10487,Asthma - currently active
+Asthma,663V000,3458,Occasional asthma
+Asthma,663V100,3018,Mild asthma
+Asthma,663V200,13065,Moderate asthma
+Asthma,663V300,3366,Severe asthma
+Asthma,H312000,5798,Chronic asthmatic bronchitis
+Asthma,H33..00,78,Asthma
+Asthma,H33..11,1555,Bronchial asthma
+Asthma,H330.00,7146,Extrinsic (atopic) asthma
+Asthma,H330.11,2290,Allergic asthma
+Asthma,H330.12,1208,Childhood asthma
+Asthma,H330.13,15248,Hay fever with asthma
+Asthma,H330.14,7731,Pollen asthma
+Asthma,H330000,14777,Extrinsic asthma without status asthmaticus
+Asthma,H330011,5627,Hay fever with asthma
+Asthma,H330100,27926,Extrinsic asthma with status asthmaticus
+Asthma,H330111,6707,Extrinsic asthma with asthma attack
+Asthma,H330z00,45782,Extrinsic asthma NOS
+Asthma,H331.00,5267,Intrinsic asthma
+Asthma,H331.11,3665,Late onset asthma
+Asthma,H331000,29325,Intrinsic asthma without status asthmaticus
+Asthma,H331100,58196,Intrinsic asthma with status asthmaticus
+Asthma,H331111,18323,Intrinsic asthma with asthma attack
+Asthma,H331z00,45073,Intrinsic asthma NOS
+Asthma,H332.00,25796,Mixed asthma
+Asthma,H333.00,185,Acute exacerbation of asthma
+Asthma,H334.00,40823,Brittle asthma
+Asthma,H335.00,106805,Chronic asthma with fixed airflow obstruction
+Asthma,H33z.00,4442,Asthma unspecified
+Asthma,H33z.11,32727,Hyperreactive airways disease
+Asthma,H33z000,4892,Status asthmaticus NOS
+Asthma,H33z011,233,Severe asthma attack
+Asthma,H33z100,232,Asthma attack
+Asthma,H33z111,8335,Asthma attack NOS
+Asthma,H33z200,12987,Late-onset asthma
+Asthma,H33zz00,16070,Asthma NOS
+Asthma,H33zz11,4606,Exercise induced asthma
+Asthma,H33zz12,21232,Allergic asthma NEC
+Asthma,H33zz13,18207,Allergic bronchitis NEC
+Asthma,H35y600,93353,Sequoiosis (red-cedar asthma)
+Asthma,H35y700,39478,Wood asthma
+Asthma,H3B..00,109958,Asthma-chronic obstructive pulmonary disease overlap syndrom
+Asthma,H47y000,47684,Detergent asthma

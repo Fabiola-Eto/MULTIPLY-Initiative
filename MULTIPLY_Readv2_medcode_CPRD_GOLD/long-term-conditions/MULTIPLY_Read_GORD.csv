@@ -1,0 +1,26 @@
+Condition,ReadCode,MedCode,ReadTerm
+Gastro-oesophageal reflux disease,171J.00,19470,Reflux cough
+Gastro-oesophageal reflux disease,1957.00,7577,Gastric reflux
+Gastro-oesophageal reflux disease,760L.00,18211,Antireflux operations
+Gastro-oesophageal reflux disease,760L.11,17263,Oesophageal reflux operations
+Gastro-oesophageal reflux disease,760L000,14713,Antireflux fundoplication using thoracic approach
+Gastro-oesophageal reflux disease,760L100,53657,Antireflux operation using thoracic approach NEC
+Gastro-oesophageal reflux disease,760L111,68276,Antireflux procedure using thoracic approach NEC
+Gastro-oesophageal reflux disease,760L200,17610,Antireflux fundoplication using abdominal approach
+Gastro-oesophageal reflux disease,760L300,45360,Antireflux gastropexy
+Gastro-oesophageal reflux disease,760L311,48146,Antireflux gastroplasty
+Gastro-oesophageal reflux disease,760L400,103564,Antireflux procedure and gastroplasty HFQ
+Gastro-oesophageal reflux disease,760Ly00,34005,Other specified antireflux operation
+Gastro-oesophageal reflux disease,760Lz00,28619,Antireflux operation NOS
+Gastro-oesophageal reflux disease,760M.00,51400,Revision of antireflux operations
+Gastro-oesophageal reflux disease,760My00,111797,Other specified revision of antireflux operation
+Gastro-oesophageal reflux disease,760Mz00,67258,Revision of antireflux operation NOS
+Gastro-oesophageal reflux disease,J101100,2535,Reflux oesophagitis
+Gastro-oesophageal reflux disease,J101111,15054,Acid reflux
+Gastro-oesophageal reflux disease,J101112,7104,Gastro-oesophageal reflux with oesophagitis
+Gastro-oesophageal reflux disease,J101113,16605,Oesophageal reflux with oesophagitis
+Gastro-oesophageal reflux disease,J10y400,25610,Oesopheal reflux without mention of oesophagitis
+Gastro-oesophageal reflux disease,J10y411,1327,Oesophageal reflux
+Gastro-oesophageal reflux disease,J10y412,984,Gastro-oesophageal reflux
+Gastro-oesophageal reflux disease,J10y413,2281,Acid reflux
+Gastro-oesophageal reflux disease,J10y500,19111,Laryngopharyngeal reflux

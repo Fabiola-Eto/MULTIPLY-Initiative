@@ -1,0 +1,6 @@
+Condition,ReadCode,MedCode,ReadTerm
+Asbestosis,4E34.00,72163,Sputum: asbestos bodies
+Asbestosis,H41..00,8303,Asbestosis
+Asbestosis,H410.00,5005,Pleural plaque disease due to asbestosis
+Asbestosis,H410.11,100994,Asbestos-induced pleural plaque
+Asbestosis,H41z.00,51410,Asbestosis NOS

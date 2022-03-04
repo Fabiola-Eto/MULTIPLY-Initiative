@@ -1,0 +1,59 @@
+Condition,ReadCode,MedCode,ReadTerm
+Menopause,1512.00,4383,Menopause
+Menopause,66U..11,337,Hormone replacement therapy
+Menopause,66U1.00,20628,Menopause initial assessment
+Menopause,66U2.00,22074,Menopause follow-up assessment
+Menopause,66U5.00,2702,Menopause: bone density check
+Menopause,66U6.00,34489,HRT contraindicated
+Menopause,66U7.00,26607,HRT started
+Menopause,66U8.00,26608,HRT side-effects
+Menopause,66U9.00,29275,HRT changed
+Menopause,66UA.00,25078,HRT stopped
+Menopause,66UB.00,33436,HRT: unopposed oestrogen
+Menopause,66UC.00,38723,HRT: combined oestrog/progest
+Menopause,66UD.00,62797,Menopause: dietary advice
+Menopause,66UE.00,58681,Menopause: sexual advice
+Menopause,66UF.00,21534,Menopause: gen counselling
+Menopause,66UG.00,38600,Patient refuses HRT
+Menopause,66UH.00,38792,Hormone replacement therapy bleed pattern - normal
+Menopause,66UI.00,49111,Hormone replacement therapy bleed pattern - abnormal
+Menopause,66UJ.00,62292,Hormone replacement therapy bleed pattern - not relevant
+Menopause,66UK.00,59447,Hormone replacement therapy bleed pattern - no bleeding
+Menopause,C163111,2087,Premature menopause NOS
+Menopause,C163400,94499,Early menopause
+Menopause,K5A0.11,20795,Climacteric menorrhagia
+Menopause,K5A2.00,4043,Menopausal or female climacteric state
+Menopause,M211000,57057,Climacteric keratoderma
+Menopause,N063.00,12410,Climacteric arthritis
+Menopause,N063000,55834,Climacteric arthritis of unspecified site
+Menopause,N063200,100054,Climacteric arthritis of the upper arm
+Menopause,N063400,69882,Climacteric arthritis of the hand
+Menopause,N063700,71838,Climacteric arthritis of the ankle and foot
+Menopause,N063800,65722,Climacteric arthritis of other specified site
+Menopause,N063900,70797,Climacteric arthritis of multiple sites
+Menopause,N063z00,72249,Climacteric arthritis NOS
+Menopause,K5A2011,814,Hot flushes - menopausal
+Menopause,K5A2z00,828,Menopausal symptoms NOS
+Menopause,67I1.00,7032,Advice about the menopause
+Menopause,K5A..00,9171,Menopausal and postmenopausal disorders
+Menopause,66U..00,9313,Menopause monitoring
+Menopause,K5A2000,9547,Menopausal flushing
+Menopause,ZG61.00,10064,Advice about the menopause
+Menopause,8B64.12,13198,HRT prophylaxis
+Menopause,8B64.11,13199,Hormone implant - HRT
+Menopause,K5A2100,15283,Menopausal sleeplessness
+Menopause,N063.11,17051,Menopausal arthritis
+Menopause,66U3.00,17442,Menopause symptoms present
+Menopause,K5A2200,18730,Menopausal headache
+Menopause,66UZ.00,21464,Menopause monitoring NOS
+Menopause,K5A2300,25549,Menopausal concentration lack
+Menopause,K5Ay.00,28046,Other menopausal and postmenopausal states
+Menopause,K5A5.00,30359,Perimenopausal atrophic vaginitis
+Menopause,66U4.00,36514,"Menopause: LH, FSH checked"
+Menopause,K5Az.00,45409,Menopausal and postmenopausal disorder NOS
+Menopause,Kyu9F00,52904,[X]Other specified menopausal and perimenopausal disorders
+Menopause,44x2.00,86026,Menopausal profile
+Menopause,K5A6.00,93526,Perimenopausal menorrhagia
+Menopause,N063500,109863,Climacteric arthritis of the pelvic region and thigh
+Menopause,N063100,109866,Climacteric arthritis of the shoulder region
+Menopause,N063300,113870,Climacteric arthritis of the forearm

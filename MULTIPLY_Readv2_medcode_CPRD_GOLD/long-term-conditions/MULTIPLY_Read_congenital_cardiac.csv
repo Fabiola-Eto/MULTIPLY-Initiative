@@ -1,0 +1,134 @@
+Condition,ReadCode,MedCode,ReadTerm
+Congenital cardiac disease,12C8.00,13261,FH: Congenital heart disease
+Congenital cardiac disease,14AV.00,99786,History of ventricular septal defect
+Congenital cardiac disease,2126800,104307,Ostium secundum atrial septal defect resolved
+Congenital cardiac disease,24M..00,104345,Spontaneous closure of ventricular septal defect
+Congenital cardiac disease,66g..00,72576,Congenital heart condition monitoring
+Congenital cardiac disease,7902.00,5477,Correction of tetralogy of Fallot
+Congenital cardiac disease,7902.11,12844,Repair of tetralogy of Fallot
+Congenital cardiac disease,7902000,16538,Correct Fallot tetralogy- valved right ventr outflow conduit
+Congenital cardiac disease,7902100,73029,Correct Fallot tetralogy- right ventric outflow conduit NEC
+Congenital cardiac disease,7902200,99198,Correct Fallot tetralogy- right ventricular outflow patch
+Congenital cardiac disease,7902300,70857,Revision of correction of tetralogy of Fallot
+Congenital cardiac disease,7902400,88842,Repair of tetralogy of Fallot using transannular patch
+Congenital cardiac disease,7902500,88479,Repair of tetralogy of Fallot with absent pulmonary valve
+Congenital cardiac disease,7902600,93719,Repair Fallot-type pulmonary atresia aortopulmonary collater
+Congenital cardiac disease,7902y00,65401,Other specified correction of tetralogy of Fallot
+Congenital cardiac disease,7902z00,19956,Correction of tetralogy of Fallot NOS
+Congenital cardiac disease,7902z11,108402,Repair of tetralogy of Fallot NOS
+Congenital cardiac disease,7903.12,37987,Senning correction for transposition of great vessels
+Congenital cardiac disease,7903.13,89968,Atrial inversion operations for transposition of great art
+Congenital cardiac disease,7904,28355,Other correction of transposition of great vessels
+Congenital cardiac disease,7904y00,64470,Other correction of transposition of great vessels OS
+Congenital cardiac disease,7904z00,38411,Other correction of transposition of great vessels NOS
+Congenital cardiac disease,7906300,42181,Closure of persistent ostium primum
+Congenital cardiac disease,7906311,99346,Repair of persistent ostium primum
+Congenital cardiac disease,7908500,94023,Closure of multiple interventricular septal defects
+Congenital cardiac disease,7908511,98273,Repair of multiple interventricular septal defects
+Congenital cardiac disease,7908600,65234,Closure interventricular septal defect us intraop trans pros
+Congenital cardiac disease,7908611,92020,Repair interventricular septal defect us intraop trans pros
+Congenital cardiac disease,790J.00,90605,Other repair of transposition of great arteries
+Congenital cardiac disease,790Jz00,108021,Other repair of transposition of great arteries NOS
+Congenital cardiac disease,790K100,107122,Repair of Fallot-type double outlet right ventricle
+Congenital cardiac disease,790M400,96637,Biventricular repair of hypoplastic left heart syndrome
+Congenital cardiac disease,7A00000,56081,Correction of persistent truncus arteriosus
+Congenital cardiac disease,7A00100,114658,Application of band to persistent truncus arteriosus
+Congenital cardiac disease,7A00200,61915,Repair of hemitruncus arteriosus
+Congenital cardiac disease,7A18111,92330,Hamilton repair coarctation of aorta using subclavian flap
+Congenital cardiac disease,7A18600,67046,Repair of interrupted aortic arch
+Congenital cardiac disease,7N42100,43440,[SO]Aortic arch
+Congenital cardiac disease,9RD0.00,63297,Transfer of care from paediatric congenital heart service
+Congenital cardiac disease,P5...12,23754,"Congenital heart disease, septal and bulbar anomalies"
+Congenital cardiac disease,P500.00,72604,Absent septum between aorta and pulmonary artery
+Congenital cardiac disease,P500.11,61914,Persistent truncus arteriosus
+Congenital cardiac disease,P500.12,45187,Truncus arteriosus
+Congenital cardiac disease,P502.00,66245,Persistent truncus arteriosus
+Congenital cardiac disease,P502.11,41371,Truncus arteriosus
+Congenital cardiac disease,P51..00,2816,Transposition of great vessels
+Congenital cardiac disease,P511100,23988,Dextratransposition of aorta
+Congenital cardiac disease,P511200,102980,Incomplete great vessel transposition
+Congenital cardiac disease,P511300,40025,Taussig-Bing syndrome
+Congenital cardiac disease,P512.00,63390,Corrected great vessel transposition
+Congenital cardiac disease,P51y.00,62169,Other specified transposition of great vessels
+Congenital cardiac disease,P51z.00,73539,Great vessel transposition NOS
+Congenital cardiac disease,P52..00,4864,Tetralogy of Fallot
+Congenital cardiac disease,P520.00,38967,"Tetralogy of Fallot, unspecified"
+Congenital cardiac disease,P520.11,23692,Ventricular septal defect in Fallot's tetralogy
+Congenital cardiac disease,P520.12,71252,Dextraposition of aorta in Fallot's tetralogy
+Congenital cardiac disease,P521.00,51649,Pentalogy of Fallot
+Congenital cardiac disease,P52z.00,63046,Tetralogy of Fallot NOS
+Congenital cardiac disease,P53..00,19969,Common ventricle
+Congenital cardiac disease,P54..00,246,Ventricular septal defect
+Congenital cardiac disease,P540.00,42132,"Ventricular septal defect, unspecified"
+Congenital cardiac disease,P541.00,56575,Interventricular septal defect
+Congenital cardiac disease,P542.00,67657,Left ventricle to right atrial communication
+Congenital cardiac disease,P543.00,9011,Eisenmenger's complex
+Congenital cardiac disease,P544.00,51897,Gerbode's defect
+Congenital cardiac disease,P545.00,20153,Roger's disease
+Congenital cardiac disease,P54y.00,54772,Other specified ventricular septal defect
+Congenital cardiac disease,P54z.00,34067,Ventricular septal defect NOS
+Congenital cardiac disease,P55..00,7474,Ostium secundum atrial septal defect
+Congenital cardiac disease,P550.00,3255,Atrial septal defect NOS
+Congenital cardiac disease,P550.11,40673,Auricular septal defect NOS
+Congenital cardiac disease,P550.12,28174,Interatrial septal defect NEC
+Congenital cardiac disease,P550.13,72577,Interauricular septal defect
+Congenital cardiac disease,P551.00,3625,Patent foramen ovale
+Congenital cardiac disease,P552.00,37816,Persistent ostium secundum
+Congenital cardiac disease,P552.11,109853,Patent ostium secundum
+Congenital cardiac disease,P553.00,59144,Lutembacher's syndrome
+Congenital cardiac disease,P55y.00,53088,Other specified ostium secundum atrial septal defect
+Congenital cardiac disease,P55y.11,18395,Other specified atrial septal defect
+Congenital cardiac disease,P55z.00,54243,Ostium secundum atrial septal defect NOS
+Congenital cardiac disease,P56..00,63340,Endocardial cushion defects
+Congenital cardiac disease,P561.00,51053,Ostium primum defect
+Congenital cardiac disease,P561.11,93161,Persistent ostium primum
+Congenital cardiac disease,P56y.00,101393,Other specified endocardial cushion defects
+Congenital cardiac disease,P56z.00,49702,Endocardial cushion defects NOS
+Congenital cardiac disease,P56z000,55535,Common atrium
+Congenital cardiac disease,P56z011,61715,Cor triloculare biventriculare
+Congenital cardiac disease,P56z100,43049,Common atrioventricular canal
+Congenital cardiac disease,P56z200,44896,Common atrioventricular-type ventricular septal defect
+Congenital cardiac disease,P56zz00,73816,Endocardial cushion defects NOS
+Congenital cardiac disease,P5y..00,66401,Other heart bulb and septal closure defect
+Congenital cardiac disease,P5z..00,54196,Heart bulb or septal closure defects NOS
+Congenital cardiac disease,P6...00,5621,Other congenital heart anomalies
+Congenital cardiac disease,P603.00,21851,Right hypoplastic heart syndrome
+Congenital cardiac disease,P603.11,68982,Pseudotruncus arteriosus
+Congenital cardiac disease,P60z100,52607,Fallot's trilogy
+Congenital cardiac disease,P61..00,12752,Congenital tricuspid atresia and stenosis
+Congenital cardiac disease,P610.00,21272,Congenital tricuspid atresia
+Congenital cardiac disease,P611.00,69169,Congenital tricuspid stenosis
+Congenital cardiac disease,P61z.00,100065,Congenital tricuspid atresia or stenosis NOS
+Congenital cardiac disease,P62..00,23709,Ebstein's anomaly
+Congenital cardiac disease,P640.00,58734,"Congenital aortic valve insufficiency, unspecified"
+Congenital cardiac disease,P65..00,57091,Congenital mitral stenosis
+Congenital cardiac disease,P650.00,90551,"Congenital mitral stenosis, unspecified"
+Congenital cardiac disease,P652.00,63069,Parachute deformity of the mitral valve
+Congenital cardiac disease,P65z.00,100291,Congenital mitral stenosis NOS
+Congenital cardiac disease,P66..00,61651,Congenital mitral insufficiency
+Congenital cardiac disease,P67..00,20772,Hypoplastic left heart syndrome
+Congenital cardiac disease,P68..00,89256,Congenital heart disease
+Congenital cardiac disease,P6W..00,46825,Congenital malformation of aortic and mitral valves unsp
+Congenital cardiac disease,P6X..00,50529,"Congenital malformation of tricuspid valve, unspecified"
+Congenital cardiac disease,P6y5.00,24533,Congenital heart block
+Congenital cardiac disease,P6y5000,68097,"Congenital heart block, unspecified"
+Congenital cardiac disease,P6y5z00,70992,Congenital heart block NOS
+Congenital cardiac disease,P6yy.11,44767,Hypoplastic aortic orifice or valve
+Congenital cardiac disease,P6z..00,247,Congenital heart anomaly NOS
+Congenital cardiac disease,P6z2.00,38968,Acyanotic congenital heart disease NOS
+Congenital cardiac disease,P6z3.00,3863,Cyanotic congenital heart disease NOS
+Congenital cardiac disease,P6zz.00,11982,Congenital heart anomaly NOS
+Congenital cardiac disease,P71..00,3301,Coarctation of aorta
+Congenital cardiac disease,P710.00,57932,"Hypoplasia of aortic arch, unspecified"
+Congenital cardiac disease,P711.00,72295,Preductal coarctation of aorta
+Congenital cardiac disease,P712.00,70853,Postductal coarctation of aorta
+Congenital cardiac disease,P713.00,37323,Interruption of aortic arch
+Congenital cardiac disease,P713.11,16731,Stenosis of aortic arch
+Congenital cardiac disease,P71z.00,59907,Coarctation of aorta NOS
+Congenital cardiac disease,P721.00,30725,Aortic arch anomalies
+Congenital cardiac disease,P721000,67286,Anomalous origin of the aortic arch
+Congenital cardiac disease,P721200,46530,Double aortic arch
+Congenital cardiac disease,P721500,44334,Persistent right aortic arch
+Congenital cardiac disease,P721z00,34176,Aortic arch anomalies NOS
+Congenital cardiac disease,P733.00,18982,Coarctation of the pulmonary artery
+Congenital cardiac disease,Pyu2G00,107496,"[X]Congenital malformation of tricuspid valve, unspecified"

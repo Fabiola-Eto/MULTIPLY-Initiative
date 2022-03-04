@@ -1,0 +1,151 @@
+Condition,ReadCode,MedCode,ReadTerm
+Depression,1465.00,2716,H/O: depression
+Depression,1B17.00,1996,Depressed
+Depression,1B17.11,4824,C/O - feeling depressed
+Depression,1B1U.00,9796,Symptoms of depression
+Depression,1B1U.11,10438,Depressive symptoms
+Depression,1BT..00,10015,Depressed mood
+Depression,212S.00,19439,Depression resolved
+Depression,2257.00,1908,O/E - depressed
+Depression,62T1.00,2923,Puerperal depression
+Depression,6G00.00,18702,Postnatal depression counselling
+Depression,8BK0.00,44848,Depression management programme
+Depression,8CAa.00,30483,Patient given advice about management of depression
+Depression,8HHq.00,32841,Referral for guided self-help for depression
+Depression,9H90.00,12399,Depression annual review
+Depression,9H91.00,12122,Depression medication review
+Depression,9H92.00,30405,Depression interim review
+Depression,9HA0.00,42931,On depression register
+Depression,9HA1.00,44936,Removed from depression register
+Depression,9k4..00,30583,Depression - enhanced services administration
+Depression,9k40.00,65435,Depression - enhanced service completed
+Depression,9kQ..00,96995,On full dose long term treatment depression - enh serv admin
+Depression,9Ov..00,51258,Depression monitoring administration
+Depression,9Ov0.00,71009,Depression monitoring first letter
+Depression,9Ov1.00,72966,Depression monitoring second letter
+Depression,9Ov2.00,91105,Depression monitoring third letter
+Depression,9Ov3.00,88644,Depression monitoring verbal invite
+Depression,9Ov4.00,85852,Depression monitoring telephone invite
+Depression,E001300,27677,Presenile dementia with depression
+Depression,E002100,21887,Senile dementia with depression
+Depression,E004300,43292,Arteriosclerotic dementia with depression
+Depression,E11..12,2560,Depressive psychoses
+Depression,E112.00,10610,Single major depressive episode
+Depression,E112.11,5879,Agitated depression
+Depression,E112.12,6546,Endogenous depression first episode
+Depression,E112.13,6950,Endogenous depression first episode
+Depression,E112.14,595,Endogenous depression
+Depression,E112000,34390,"Single major depressive episode, unspecified"
+Depression,E112100,16506,"Single major depressive episode, mild"
+Depression,E112200,15155,"Single major depressive episode, moderate"
+Depression,E112300,15219,"Single major depressive episode, severe, without psychosis"
+Depression,E112400,32159,"Single major depressive episode, severe, with psychosis"
+Depression,E112500,43324,"Single major depressive episode, partial or unspec remission"
+Depression,E112600,57409,"Single major depressive episode, in full remission"
+Depression,E112z00,7011,Single major depressive episode NOS
+Depression,E113.00,15099,Recurrent major depressive episode
+Depression,E113.11,6932,Endogenous depression - recurrent
+Depression,E113000,35671,"Recurrent major depressive episodes, unspecified"
+Depression,E113100,29342,"Recurrent major depressive episodes, mild"
+Depression,E113200,14709,"Recurrent major depressive episodes, moderate"
+Depression,E113300,25697,"Recurrent major depressive episodes, severe, no psychosis"
+Depression,E113400,24171,"Recurrent major depressive episodes, severe, with psychosis"
+Depression,E113500,56273,"Recurrent major depressive episodes,partial/unspec remission"
+Depression,E113600,55384,"Recurrent major depressive episodes, in full remission"
+Depression,E113700,6482,Recurrent depression
+Depression,E113z00,25563,Recurrent major depressive episode NOS
+Depression,E118.00,10825,Seasonal affective disorder
+Depression,E11y200,27491,Atypical depressive disorder
+Depression,E11z200,9183,Masked depression
+Depression,E130.00,8478,Reactive depressive psychosis
+Depression,E130.11,17770,Psychotic reactive depression
+Depression,E135.00,1055,Agitated depression
+Depression,E200300,655,Anxiety with depression
+Depression,E204.00,1131,Neurotic depression reactive type
+Depression,E204.11,2639,Postnatal depression
+Depression,E211200,10455,Depressive personality disorder
+Depression,E290.00,1533,Brief depressive reaction
+Depression,E290z00,36246,Brief depressive reaction NOS
+Depression,E291.00,16632,Prolonged depressive reaction
+Depression,E2B..00,324,Depressive disorder NEC
+Depression,E2B0.00,2972,Postviral depression
+Depression,E2B1.00,4323,Chronic depression
+Depression,Eu20400,20785,[X]Post-schizophrenic depression
+Depression,Eu25100,11055,"[X]Schizoaffective disorder, depressive type"
+Depression,Eu25111,35274,"[X]Schizoaffective psychosis, depressive type"
+Depression,Eu25112,41022,"[X]Schizophreniform psychosis, depressive type"
+Depression,Eu32.00,4639,[X]Depressive episode
+Depression,Eu32.11,9055,[X]Single episode of depressive reaction
+Depression,Eu32.12,18510,[X]Single episode of psychogenic depression
+Depression,Eu32.13,7604,[X]Single episode of reactive depression
+Depression,Eu32000,11717,[X]Mild depressive episode
+Depression,Eu32100,9211,[X]Moderate depressive episode
+Depression,Eu32200,9667,[X]Severe depressive episode without psychotic symptoms
+Depression,Eu32211,41989,[X]Single episode agitated depressn w'out psychotic symptoms
+Depression,Eu32212,22806,[X]Single episode major depression w'out psychotic symptoms
+Depression,Eu32213,59386,[X]Single episode vital depression w'out psychotic symptoms
+Depression,Eu32300,12099,[X]Severe depressive episode with psychotic symptoms
+Depression,Eu32311,24117,[X]Single episode of major depression and psychotic symptoms
+Depression,Eu32312,52678,[X]Single episode of psychogenic depressive psychosis
+Depression,Eu32313,24112,[X]Single episode of psychotic depression
+Depression,Eu32314,28863,[X]Single episode of reactive depressive psychosis
+Depression,Eu32400,10667,[X]Mild depression
+Depression,Eu32500,98346,"[X]Major depression, mild"
+Depression,Eu32600,98252,"[X]Major depression, moderately severe"
+Depression,Eu32700,98414,"[X]Major depression, severe without psychotic symptoms"
+Depression,Eu32800,98417,"[X]Major depression, severe with psychotic symptoms"
+Depression,Eu32900,101054,"[X]Single major depr ep, severe with psych, psych in remiss"
+Depression,Eu32A00,101153,"[X]Recurr major depr ep, severe with psych, psych in remiss"
+Depression,Eu32B00,103677,[X]Antenatal depression
+Depression,Eu32y00,6854,[X]Other depressive episodes
+Depression,Eu32y11,10720,[X]Atypical depression
+Depression,Eu32y12,56609,[X]Single episode of masked depression NOS
+Depression,Eu32z00,2970,"[X]Depressive episode, unspecified"
+Depression,Eu32z11,543,[X]Depression NOS
+Depression,Eu32z12,3291,[X]Depressive disorder NOS
+Depression,Eu32z13,28248,[X]Prolonged single episode of reactive depression
+Depression,Eu32z14,5987,[X] Reactive depression NOS
+Depression,Eu33.00,3292,[X]Recurrent depressive disorder
+Depression,Eu33.11,8851,[X]Recurrent episodes of depressive reaction
+Depression,Eu33.12,19696,[X]Recurrent episodes of psychogenic depression
+Depression,Eu33.13,8902,[X]Recurrent episodes of reactive depression
+Depression,Eu33.14,28756,[X]Seasonal depressive disorder
+Depression,Eu33.15,8826,[X]SAD - Seasonal affective disorder
+Depression,Eu33000,29784,"[X]Recurrent depressive disorder, current episode mild"
+Depression,Eu33100,29520,"[X]Recurrent depressive disorder, current episode moderate"
+Depression,Eu33200,33469,[X]Recurr depress disorder cur epi severe without psyc sympt
+Depression,Eu33211,11329,[X]Endogenous depression without psychotic symptoms
+Depression,Eu33212,11252,"[X]Major depression, recurrent without psychotic symptoms"
+Depression,Eu33213,29451,"[X]Manic-depress psychosis,depressd,no psychotic symptoms"
+Depression,Eu33214,73991,"[X]Vital depression, recurrent without psychotic symptoms"
+Depression,Eu33300,47009,[X]Recurrent depress disorder cur epi severe with psyc symp
+Depression,Eu33311,23731,[X]Endogenous depression with psychotic symptoms
+Depression,Eu33313,32941,[X]Recurr severe episodes/major depression+psychotic symptom
+Depression,Eu33314,31757,[X]Recurr severe episodes/psychogenic depressive psychosis
+Depression,Eu33315,16861,[X]Recurrent severe episodes of psychotic depression
+Depression,Eu33316,37764,[X]Recurrent severe episodes/reactive depressive psychosis
+Depression,Eu33400,22116,"[X]Recurrent depressive disorder, currently in remission"
+Depression,Eu33y00,47731,[X]Other recurrent depressive disorders
+Depression,Eu33z00,44300,"[X]Recurrent depressive disorder, unspecified"
+Depression,Eu33z11,36616,[X]Monopolar depression NOS
+Depression,Eu34.00,42857,[X]Persistent mood affective disorders
+Depression,Eu34000,21540,[X]Cyclothymia
+Depression,Eu34012,54848,[X]Cycloid personality
+Depression,Eu34013,23854,[X]Cyclothymic personality
+Depression,Eu34100,7953,[X]Dysthymia
+Depression,Eu34111,8584,[X]Depressive neurosis
+Depression,Eu34112,10290,[X]Depressive personality disorder
+Depression,Eu34113,7737,[X]Neurotic depression
+Depression,Eu34114,15220,[X]Persistant anxiety depression
+Depression,Eu34y00,50243,[X]Other persistent mood affective disorders
+Depression,Eu34z00,39767,"[X]Persistent mood affective disorder, unspecified"
+Depression,Eu3y.00,28008,[X]Other mood affective disorders
+Depression,Eu3y000,50998,[X]Other single mood affective disorders
+Depression,Eu3y011,30688,[X]Mixed affective episode
+Depression,Eu3y100,29921,[X]Other recurrent mood affective disorders
+Depression,Eu3y111,19054,[X]Recurrent brief depressive episodes
+Depression,Eu41200,11913,[X]Mixed anxiety and depressive disorder
+Depression,Eu41211,7749,[X]Mild anxiety depression
+Depression,Eu53011,13307,[X]Postnatal depression NOS
+Depression,Eu53012,4979,[X]Postpartum depression NOS
+Depression,Eu92000,32845,[X]Depressive conduct disorder

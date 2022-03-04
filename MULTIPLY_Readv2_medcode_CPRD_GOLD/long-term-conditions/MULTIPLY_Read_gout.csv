@@ -1,0 +1,46 @@
+Condition,ReadCode,MedCode,ReadTerm
+Gout,1443.00,3759,H/O: gout
+Gout,2D52.00,17284,O/E - auricle of ear - tophi
+Gout,669..00,16475,Gout monitoring
+Gout,6691.00,14996,Initial gout assessment
+Gout,6692.00,35660,Follow-up gout assessment
+Gout,6693.00,29658,Joints gout affected
+Gout,6695.00,34006,Date gout treatment started
+Gout,6696.00,68209,Date of last gout attack
+Gout,6697.00,58746,Gout associated problems
+Gout,6698.00,52103,Gout drug side effects
+Gout,6699.00,34105,Gout treatment changed
+Gout,669Z.00,52117,Gout monitoring NOS
+Gout,C34..00,709,Gout
+Gout,C340.00,10080,Gouty arthropathy
+Gout,C341.00,52969,Gouty nephropathy
+Gout,C341000,114211,Gouty nephropathy unspecified
+Gout,C341z00,61145,Gouty nephropathy NOS
+Gout,C342.00,11462,Idiopathic gout
+Gout,C343.00,111834,Lead-induced gout
+Gout,C344.00,44566,Drug-induced gout
+Gout,C345.00,21687,Gout due to impairment of renal function
+Gout,C346.00,108901,Acute exacerbation of gout
+Gout,C34y.00,28999,Other specified gouty manifestation
+Gout,C34y000,36481,Gouty tophi of ear
+Gout,C34y100,93689,Gouty tophi of heart
+Gout,C34y200,4440,Gouty tophi of other sites
+Gout,C34y300,50067,Gouty iritis
+Gout,C34y400,59344,Gouty neuritis
+Gout,C34y500,9874,Gouty tophi of hand
+Gout,C34yz00,27521,Other specified gouty manifestation NOS
+Gout,C34z.00,24153,Gout NOS
+Gout,G557300,57334,Gouty tophi of heart
+Gout,N023.00,2857,Gouty arthritis
+Gout,N023000,113314,Gouty arthritis of unspecified site
+Gout,N023100,72471,Gouty arthritis of the shoulder region
+Gout,N023200,97539,Gouty arthritis of the upper arm
+Gout,N023300,45465,Gouty arthritis of the forearm
+Gout,N023400,52101,Gouty arthritis of the hand
+Gout,N023600,49775,Gouty arthritis of the lower leg
+Gout,N023700,35664,Gouty arthritis of the ankle and foot
+Gout,N023800,93677,Gouty arthritis of toe
+Gout,N023x00,58064,Gouty arthritis of multiple sites
+Gout,N023y00,60541,Gouty arthritis of other specified site
+Gout,N023z00,12594,Gouty arthritis NOS
+Gout,Nyu1700,94539,[X]Other secondary gout

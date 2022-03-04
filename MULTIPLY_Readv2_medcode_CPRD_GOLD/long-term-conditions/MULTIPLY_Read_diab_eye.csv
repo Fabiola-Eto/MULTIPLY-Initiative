@@ -1,0 +1,68 @@
+Condition,ReadCode,MedCode,ReadTerm
+Diabetic eye disease,2BBk.00,47328,O/E - right eye stable treated prolif diabetic retinopathy
+Diabetic eye disease,2BBl.00,52041,O/E - left eye stable treated prolif diabetic retinopathy
+Diabetic eye disease,2BBL.00,9835,O/E - diabetic maculopathy present both eyes
+Diabetic eye disease,2BBM.00,47144,O/E - diabetic maculopathy absent both eyes
+Diabetic eye disease,2BBo.00,52630,O/E - sight threatening diabetic retinopathy
+Diabetic eye disease,2BBP.00,11433,O/E - right eye background diabetic retinopathy
+Diabetic eye disease,2BBQ.00,11129,O/E - left eye background diabetic retinopathy
+Diabetic eye disease,2BBr.00,101881,Impaired vision due to diabetic retinopathy
+Diabetic eye disease,2BBR.00,13099,O/E - right eye preproliferative diabetic retinopathy
+Diabetic eye disease,2BBS.00,13103,O/E - left eye preproliferative diabetic retinopathy
+Diabetic eye disease,2BBT.00,13097,O/E - right eye proliferative diabetic retinopathy
+Diabetic eye disease,2BBV.00,13101,O/E - left eye proliferative diabetic retinopathy
+Diabetic eye disease,2BBW.00,13102,O/E - right eye diabetic maculopathy
+Diabetic eye disease,2BBX.00,13108,O/E - left eye diabetic maculopathy
+Diabetic eye disease,7276.00,11599,Pan retinal photocoagulation for diabetes
+Diabetic eye disease,C105.00,33254,Diabetes mellitus with ophthalmic manifestation
+Diabetic eye disease,C105000,69748,"Diabetes mellitus, juvenile type, + ophthalmic manifestation"
+Diabetic eye disease,C105100,41389,"Diabetes mellitus, adult onset, + ophthalmic manifestation"
+Diabetic eye disease,C105y00,47377,Other specified diabetes mellitus with ophthalmic complicatn
+Diabetic eye disease,C105z00,34283,Diabetes mellitus NOS with ophthalmic manifestation
+Diabetic eye disease,C108100,49276,Insulin-dependent diabetes mellitus with ophthalmic comps
+Diabetic eye disease,C108112,102740,Type 1 diabetes mellitus with ophthalmic complications
+Diabetic eye disease,C108700,6509,Insulin dependent diabetes mellitus with retinopathy
+Diabetic eye disease,C108711,38161,Type I diabetes mellitus with retinopathy
+Diabetic eye disease,C108712,41049,Type 1 diabetes mellitus with retinopathy
+Diabetic eye disease,C108F00,44260,Insulin dependent diabetes mellitus with diabetic cataract
+Diabetic eye disease,C108F11,17545,Type I diabetes mellitus with diabetic cataract
+Diabetic eye disease,C108F12,110400,Type 1 diabetes mellitus with diabetic cataract
+Diabetic eye disease,C109100,50429,Non-insulin-dependent diabetes mellitus with ophthalm comps
+Diabetic eye disease,C109111,59725,Type II diabetes mellitus with ophthalmic complications
+Diabetic eye disease,C109112,70316,Type 2 diabetes mellitus with ophthalmic complications
+Diabetic eye disease,C109600,17262,Non-insulin-dependent diabetes mellitus with retinopathy
+Diabetic eye disease,C109611,58604,Type II diabetes mellitus with retinopathy
+Diabetic eye disease,C109612,42762,Type 2 diabetes mellitus with retinopathy
+Diabetic eye disease,C109E00,69278,Non-insulin depend diabetes mellitus with diabetic cataract
+Diabetic eye disease,C109E11,48192,Type II diabetes mellitus with diabetic cataract
+Diabetic eye disease,C109E12,44779,Type 2 diabetes mellitus with diabetic cataract
+Diabetic eye disease,C10E100,47649,Type 1 diabetes mellitus with ophthalmic complications
+Diabetic eye disease,C10E111,99311,Type I diabetes mellitus with ophthalmic complications
+Diabetic eye disease,C10E112,98071,Insulin-dependent diabetes mellitus with ophthalmic comps
+Diabetic eye disease,C10E700,18387,Type 1 diabetes mellitus with retinopathy
+Diabetic eye disease,C10E711,95343,Type I diabetes mellitus with retinopathy
+Diabetic eye disease,C10E712,93875,Insulin dependent diabetes mellitus with retinopathy
+Diabetic eye disease,C10EF00,49554,Type 1 diabetes mellitus with diabetic cataract
+Diabetic eye disease,C10EF12,100770,Insulin dependent diabetes mellitus with diabetic cataract
+Diabetic eye disease,C10EP00,22871,Type 1 diabetes mellitus with exudative maculopathy
+Diabetic eye disease,C10EP11,97894,Type I diabetes mellitus with exudative maculopathy
+Diabetic eye disease,C10F100,47321,Type 2 diabetes mellitus with ophthalmic complications
+Diabetic eye disease,C10F111,100964,Type II diabetes mellitus with ophthalmic complications
+Diabetic eye disease,C10F600,18496,Type 2 diabetes mellitus with retinopathy
+Diabetic eye disease,C10F611,49655,Type II diabetes mellitus with retinopathy
+Diabetic eye disease,C10FE00,44982,Type 2 diabetes mellitus with diabetic cataract
+Diabetic eye disease,C10FE11,93727,Type II diabetes mellitus with diabetic cataract
+Diabetic eye disease,C10FQ00,25591,Type 2 diabetes mellitus with exudative maculopathy
+Diabetic eye disease,F420.00,1323,Diabetic retinopathy
+Diabetic eye disease,F420000,7069,Background diabetic retinopathy
+Diabetic eye disease,F420100,3286,Proliferative diabetic retinopathy
+Diabetic eye disease,F420200,2986,Preproliferative diabetic retinopathy
+Diabetic eye disease,F420300,10099,Advanced diabetic maculopathy
+Diabetic eye disease,F420400,3837,Diabetic maculopathy
+Diabetic eye disease,F420500,47584,Advanced diabetic retinal disease
+Diabetic eye disease,F420600,10755,Non proliferative diabetic retinopathy
+Diabetic eye disease,F420700,30477,High risk proliferative diabetic retinopathy
+Diabetic eye disease,F420800,65463,High risk non proliferative diabetic retinopathy
+Diabetic eye disease,F420z00,11626,Diabetic retinopathy NOS
+Diabetic eye disease,F440700,17313,Diabetic iritis
+Diabetic eye disease,F464000,10659,Diabetic cataract

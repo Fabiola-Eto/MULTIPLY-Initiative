@@ -1,0 +1,109 @@
+Condition,ReadCode,MedCode,ReadTerm
+Anxiety and phobia,1466.00,3407,H/O: anxiety state
+Anxiety and phobia,146G.00,11764,H/O: agoraphobia
+Anxiety and phobia,173f.00,107410,Anxiety about breathlessness
+Anxiety and phobia,1B1H.11,5347,Fear
+Anxiety and phobia,1B1V.00,11890,C/O - panic attack
+Anxiety and phobia,1Bb..00,18672,Specific fear
+Anxiety and phobia,225J.00,19000,O/E - panic attack
+Anxiety and phobia,225K.00,26331,O/E - fearful mood
+Anxiety and phobia,285..00,15811,"Neurotic condition, insight present"
+Anxiety and phobia,286..00,5274,Poor insight into neurotic condition
+Anxiety and phobia,8CAZ000,108107,Patient given advice about management of anxiety
+Anxiety and phobia,8G52.00,63521,Antiphobic therapy
+Anxiety and phobia,8G94.00,9125,Anxiety management training
+Anxiety and phobia,8HHp.00,28925,Referral for guided self-help for anxiety
+Anxiety and phobia,8IH5300,114506,Referral for guided self-help for anxiety declined
+Anxiety and phobia,8IH5700,113911,Referral for psychological management of anxiety declined
+Anxiety and phobia,8T23.00,111085,Referral for psychological management of anxiety
+Anxiety and phobia,9N54.00,53067,Encounter for fear
+Anxiety and phobia,E2...00,9686,"Neurotic, personality and other nonpsychotic disorders"
+Anxiety and phobia,E20..00,5249,Neurotic disorders
+Anxiety and phobia,E200.00,636,Anxiety states
+Anxiety and phobia,E200000,6939,Anxiety state unspecified
+Anxiety and phobia,E200100,4069,Panic disorder
+Anxiety and phobia,E200111,462,Panic attack
+Anxiety and phobia,E200200,4659,Generalised anxiety disorder
+Anxiety and phobia,E200300,655,Anxiety with depression
+Anxiety and phobia,E200400,1758,Chronic anxiety
+Anxiety and phobia,E200500,4634,Recurrent anxiety
+Anxiety and phobia,E200z00,4534,Anxiety state NOS
+Anxiety and phobia,E201B00,29322,Compensation neurosis
+Anxiety and phobia,E202.00,1907,Phobic disorders
+Anxiety and phobia,E202.11,16638,Social phobic disorders
+Anxiety and phobia,E202.12,9944,Phobic anxiety
+Anxiety and phobia,E202000,2300,Phobia unspecified
+Anxiety and phobia,E202100,3076,Agoraphobia with panic attacks
+Anxiety and phobia,E202200,12838,Agoraphobia without mention of panic attacks
+Anxiety and phobia,E202300,16199,"Social phobia, fear of eating in public"
+Anxiety and phobia,E202400,31957,"Social phobia, fear of public speaking"
+Anxiety and phobia,E202500,18603,"Social phobia, fear of public washing"
+Anxiety and phobia,E202600,28106,Acrophobia
+Anxiety and phobia,E202700,28938,Animal phobia
+Anxiety and phobia,E202800,1723,Claustrophobia
+Anxiety and phobia,E202900,31672,Fear of crowds
+Anxiety and phobia,E202A00,4167,Fear of flying
+Anxiety and phobia,E202B00,1510,Cancer phobia
+Anxiety and phobia,E202C00,2366,Dental phobia
+Anxiety and phobia,E202D00,10390,Fear of death
+Anxiety and phobia,E202E00,6071,Fear of pregnancy
+Anxiety and phobia,E202z00,14729,Phobic disorder NOS
+Anxiety and phobia,E206.00,5305,Depersonalisation syndrome
+Anxiety and phobia,E207.00,966,Hypochondriasis
+Anxiety and phobia,E20y100,3685,Writer's cramp neurosis
+Anxiety and phobia,E20y200,39518,Other occupational neurosis
+Anxiety and phobia,E20y300,72171,Psychasthenic neurosis
+Anxiety and phobia,E20yz00,43050,Other neurotic disorder NOS
+Anxiety and phobia,E20z.00,14780,Neurotic disorder NOS
+Anxiety and phobia,E26y000,10001,Bruxism (teeth grinding)
+Anxiety and phobia,E292000,6221,Separation anxiety disorder
+Anxiety and phobia,E292100,23327,Adolescent emancipation disorder
+Anxiety and phobia,E292200,54658,Early adult emancipation disorder
+Anxiety and phobia,E292311,67304,Specific academic or work inhibition
+Anxiety and phobia,E292400,56924,Adjustment reaction with anxious mood
+Anxiety and phobia,Eu05400,20773,[X]Organic anxiety disorder
+Anxiety and phobia,Eu34111,8584,[X]Depressive neurosis
+Anxiety and phobia,Eu34113,7737,[X]Neurotic depression
+Anxiety and phobia,Eu34114,15220,[X]Persistant anxiety depression
+Anxiety and phobia,Eu4..00,23808,"[X]Neurotic, stress - related and somoform disorders"
+Anxiety and phobia,Eu40.00,9386,[X]Phobic anxiety disorders
+Anxiety and phobia,Eu40000,2571,[X]Agoraphobia
+Anxiety and phobia,Eu40011,16729,[X]Agoraphobia without history of panic disorder
+Anxiety and phobia,Eu40012,14890,[X]Panic disorder with agoraphobia
+Anxiety and phobia,Eu40100,11602,[X]Social phobias
+Anxiety and phobia,Eu40112,42788,[X]Social neurosis
+Anxiety and phobia,Eu40200,9785,[X]Specific (isolated) phobias
+Anxiety and phobia,Eu40211,67965,[X]Acrophobia
+Anxiety and phobia,Eu40212,18248,[X]Animal phobias
+Anxiety and phobia,Eu40213,11280,[X]Claustrophobia
+Anxiety and phobia,Eu40214,12635,[X]Simple phobia
+Anxiety and phobia,Eu40300,12508,[X]Needle phobia
+Anxiety and phobia,Eu40y00,27685,[X]Other phobic anxiety disorders
+Anxiety and phobia,Eu40z00,34064,"[X]Phobic anxiety disorder, unspecified"
+Anxiety and phobia,Eu40z11,7222,[X]Phobia NOS
+Anxiety and phobia,Eu40z12,67898,[X]Phobic state NOS
+Anxiety and phobia,Eu41.00,5385,[X]Other anxiety disorders
+Anxiety and phobia,Eu41000,8205,[X]Panic disorder [episodic paroxysmal anxiety]
+Anxiety and phobia,Eu41011,6408,[X]Panic attack
+Anxiety and phobia,Eu41012,4081,[X]Panic state
+Anxiety and phobia,Eu41100,10344,[X]Generalized anxiety disorder
+Anxiety and phobia,Eu41111,962,[X]Anxiety neurosis
+Anxiety and phobia,Eu41112,35825,[X]Anxiety reaction
+Anxiety and phobia,Eu41113,50191,[X]Anxiety state
+Anxiety and phobia,Eu41200,11913,[X]Mixed anxiety and depressive disorder
+Anxiety and phobia,Eu41211,7749,[X]Mild anxiety depression
+Anxiety and phobia,Eu41300,44321,[X]Other mixed anxiety disorders
+Anxiety and phobia,Eu41y00,24066,[X]Other specified anxiety disorders
+Anxiety and phobia,Eu41y11,28167,[X]Anxiety hysteria
+Anxiety and phobia,Eu41z00,23838,"[X]Anxiety disorder, unspecified"
+Anxiety and phobia,Eu41z11,25638,[X]Anxiety NOS
+Anxiety and phobia,Eu45215,66806,[X]Nosophobia
+Anxiety and phobia,Eu46100,9265,[X]Depersonalization - derealization syndrome
+Anxiety and phobia,Eu46y00,44331,[X]Other specified neurotic disorders
+Anxiety and phobia,Eu46z00,49628,"[X]Neurotic disorder, unspecified"
+Anxiety and phobia,Eu94000,36500,[X]Elective mutism
+Anxiety and phobia,Eu94011,31865,[X]Selective mutism
+Anxiety and phobia,Z481.00,25749,Phobia counselling
+Anxiety and phobia,Z4L1.00,7999,Anxiety counselling
+Anxiety and phobia,ZS7C700,99609,Post-traumatic mutism
+Anxiety and phobia,ZV11200,51613,[V]Personal history of neurosis

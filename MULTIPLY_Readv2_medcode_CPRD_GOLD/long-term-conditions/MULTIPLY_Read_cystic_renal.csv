@@ -1,0 +1,22 @@
+Condition,ReadCode,MedCode,ReadTerm
+Cystic renal disease,7B03300,45880,Rovsing's operation for polycystic kidney
+Cystic renal disease,PD1..00,15917,Congenital cystic kidney disease
+Cystic renal disease,PD1..11,20629,Congenital cystic renal disease
+Cystic renal disease,PD1..12,59064,Fibrocystic kidney
+Cystic renal disease,PD1..13,4504,Polycystic kidney
+Cystic renal disease,PD11.00,4503,Polycystic kidney disease
+Cystic renal disease,PD11000,21381,"Polycystic kidneys, infantile type"
+Cystic renal disease,PD11011,105919,Autosomal recessive polycystic kidney disease
+Cystic renal disease,PD11100,4505,"Polycystic kidneys, adult type"
+Cystic renal disease,PD11111,105143,Autosomal dominant polycystic kidney disease
+Cystic renal disease,PD11z00,56852,Polycystic kidney disease NOS
+Cystic renal disease,PD11z11,9240,Cystic kidney disease NEC
+Cystic renal disease,PD13.00,18331,Multicystic renal dysplasia
+Cystic renal disease,PD13.11,11946,Multicystic kidney
+Cystic renal disease,PD1y.00,59018,Other specified congenital cystic kidney disease
+Cystic renal disease,PD1y000,67486,Fibrocystic kidney disease
+Cystic renal disease,PD1y011,37751,Fibrocystic renal degeneration
+Cystic renal disease,PD1yz00,59031,Other congenital cystic kidney disease NOS
+Cystic renal disease,PD1z.00,50331,Congenital cystic kidney disease NOS
+Cystic renal disease,Pyu7000,72877,[X]Other cystic kidney diseases
+Cystic renal disease,Z4B4.00,55233,Polycystic kidney disease counselling
