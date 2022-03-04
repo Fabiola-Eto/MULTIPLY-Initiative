@@ -1,8 +1,0 @@
-Disease,ReadCode,MedCode,ReadTerm
-Respiratory failure,Fy04.00,38686,Sleep-related respiratory failure
-Respiratory failure,H591.00,24814,Chronic respiratory failure
-Respiratory failure,H592.00,94946,Chronic type 1 respiratory failure
-Respiratory failure,H593.00,94486,Chronic type 2 respiratory failure
-Respiratory failure,H59..00,25249,Respiratory failure
-Respiratory failure,R2y1.00,3959,[D]Respiratory failure
-Respiratory failure,R2y1z00,15779,[D]Respiratory failure NOS
