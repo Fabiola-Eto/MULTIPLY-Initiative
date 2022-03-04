@@ -1,0 +1,8 @@
+Condition,ICD10code,ICD10codeDescr
+Type 1 Diabetes,E10.9,Type 1 diabetes mellitus without complications
+Type 1 Diabetes,E10.1,Type 1 diabetes mellitus with ketoacidosis
+Type 1 Diabetes,E10.0,Type 1 diabetes mellitus with coma
+Type 1 Diabetes,E10.5,Type 1 diabetes mellitus with peripheral circulatory complications
+Type 1 Diabetes,E10.7,Type 1 diabetes mellitus with multiple complications
+Type 1 Diabetes,E10.5,Type 1 diabetes mellitus with peripheral circulatory complications
+Type 1 Diabetes,E10.5,Type 1 diabetes mellitus with peripheral circulatory complications

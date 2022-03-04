@@ -1,0 +1,8 @@
+Condition,ICD10code,ICD10codeDescr
+Thalassaemia,D56.0,Alpha thalassaemia
+Thalassaemia,D56.1,Beta thalassaemia
+Thalassaemia,D56.2,Delta-beta thalassaemia
+Thalassaemia,D56.8,Other thalassaemias
+Thalassaemia,D56.9,Thalassaemia
+Thalassaemia,D56.9,"Thalassaemia, unspecified"
+Thalassaemia,D57.2,Double heterozygous sickling disorders
