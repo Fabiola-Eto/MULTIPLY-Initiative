@@ -1,0 +1,38 @@
+Condition,OPCS4code,OPCS4codeDescr
+Heart valve disease non-rheumatic,K25,Plastic repair of mitral valve
+Heart valve disease non-rheumatic,K251,Allograft replacement of mitral valve
+Heart valve disease non-rheumatic,K252,Xenograft replacement of mitral valve
+Heart valve disease non-rheumatic,K253,Prosthetic replacement of mitral valve
+Heart valve disease non-rheumatic,K254,Replacement of mitral valve NEC
+Heart valve disease non-rheumatic,K255,Mitral valve repair NEC
+Heart valve disease non-rheumatic,K258,Other specified plastic repair of mitral valve
+Heart valve disease non-rheumatic,K259,Unspecified plastic repair of mitral valve
+Heart valve disease non-rheumatic,K26,Plastic repair of aortic valve
+Heart valve disease non-rheumatic,K261,Allograft replacement of aortic valve
+Heart valve disease non-rheumatic,K264,Replacement of aortic valve NEC
+Heart valve disease non-rheumatic,K265,Aortic valve repair NEC
+Heart valve disease non-rheumatic,K268,Other specified plastic repair of aortic valve
+Heart valve disease non-rheumatic,K269,Unspecified plastic repair of aortic valve
+Heart valve disease non-rheumatic,K27,Plastic repair of tricuspid valve
+Heart valve disease non-rheumatic,K271,Allograft replacement of tricuspid valve
+Heart valve disease non-rheumatic,K272,Xenograft replacement of tricuspid valve
+Heart valve disease non-rheumatic,K273,Prosthetic replacement of tricuspid valve
+Heart valve disease non-rheumatic,K274,Replacement of tricuspid valve NEC
+Heart valve disease non-rheumatic,K276,Tricuspid valve repair NEC
+Heart valve disease non-rheumatic,K278,Other specified plastic repair of tricuspid valve
+Heart valve disease non-rheumatic,K279,Unspecified plastic repair of tricuspid valve
+Heart valve disease non-rheumatic,K301,Revision of plastic repair of mitral valve
+Heart valve disease non-rheumatic,K303,Revision of plastic repair of tricuspid valve
+Heart valve disease non-rheumatic,K311,Open mitral valvotomy
+Heart valve disease non-rheumatic,K312,Open aortic valvotomy
+Heart valve disease non-rheumatic,K313,Open tricuspid valvotomy
+Heart valve disease non-rheumatic,K321,Closed mitral valvotomy
+Heart valve disease non-rheumatic,K322,Closed aortic valvotomy
+Heart valve disease non-rheumatic,K323,Closed tricuspid valvotomy
+Heart valve disease non-rheumatic,K341,Annuloplasty of mitral valve
+Heart valve disease non-rheumatic,K342,Annuloplasty of tricuspid valve
+Heart valve disease non-rheumatic,K345,Closure of tricuspid valve
+Heart valve disease non-rheumatic,K351,Percutaneous transluminal mitral valvotomy
+Heart valve disease non-rheumatic,K352,Percutaneous transluminal aortic valvotomy
+Heart valve disease non-rheumatic,K353,Percutaneous transluminal tricuspid valvotomy
+Heart valve disease non-rheumatic,K361,Tricuspid valvectomy

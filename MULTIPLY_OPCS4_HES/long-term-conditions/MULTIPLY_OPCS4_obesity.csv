@@ -1,0 +1,17 @@
+Condition,OPCS4code,OPCS4codeDescr
+Obesity,G284,Sleeve gastrectomy and duodenal switch
+Obesity,G285,Sleeve gastrectomy NEC
+Obesity,G302,Partitioning of stomach NEC
+Obesity,G303,Partitioning of stomach using band
+Obesity,G304,Partitioning of stomach using staples
+Obesity,G305,Maintenance of gastric band
+Obesity,G312,Bypass of stomach by anastomosis of stomach to duodenum
+Obesity,G331,Bypass of stomach by anastomosis of stomach to jejunum NEC
+Obesity,G387,Removal of gastric band
+Obesity,G61,Bypass of jejunum
+Obesity,G611,Bypass of jejunum by anastomosis of jejunum to jejunum
+Obesity,G612,Bypass of jejunum by anastomosis of jejunum to ileum
+Obesity,G613,Bypass of jejunum by anastomosis of jejunum to colon
+Obesity,G618,Other specified bypass of jejunum
+Obesity,G619,Unspecified bypass of jejunum
+Obesity,G716,Duodenal switch

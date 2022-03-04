@@ -1,0 +1,85 @@
+Condition,OPCS4code,OPCS4codeDescr
+Congenital cardiac disease,K04,Repair of tetralogy of Fallot
+Congenital cardiac disease,K041,Repair of tetralogy of Fallot using valved right ventricular outflow conduit
+Congenital cardiac disease,K042,Repair of tetralogy of Fallot using right ventricular outflow conduit NEC
+Congenital cardiac disease,K043,Repair of tetralogy of Fallot using transannular patch
+Congenital cardiac disease,K044,Revision of repair of tetralogy of Fallot
+Congenital cardiac disease,K045,Repair of tetralogy of Fallot with absent pulmonary valve
+Congenital cardiac disease,K046,Repair of Fallot-type pulmonary atresia with aortopulmonary collaterals
+Congenital cardiac disease,K048,Other specified repair of tetralogy of Fallot
+Congenital cardiac disease,K049,Unspecified repair of tetralogy of Fallot
+Congenital cardiac disease,K05,Atrial inversion operations for transposition of great arteries
+Congenital cardiac disease,K06,Other repair of transposition of great arteries
+Congenital cardiac disease,K069,Unspecified other repair of transposition of great arteries
+Congenital cardiac disease,K082,Repair of Fallot-type double outlet right ventricle
+Congenital cardiac disease,K09,Repair of defect of atrioventricular septum
+Congenital cardiac disease,K091,Repair of defect of atrioventricular septum using dual prosthetic patches
+Congenital cardiac disease,K092,Repair of defect of atrioventricular septum using prosthetic patch NEC
+Congenital cardiac disease,K093,Repair of defect of atrioventricular septum using tissue graft
+Congenital cardiac disease,K094,Repair of persistent ostium primum
+Congenital cardiac disease,K095,Primary repair of defect of atrioventricular septum NEC
+Congenital cardiac disease,K096,Revision of repair of defect of atrioventricular septum
+Congenital cardiac disease,K098,Other specified repair of defect of atrioventricular septum
+Congenital cardiac disease,K099,Unspecified repair of defect of atrioventricular septum
+Congenital cardiac disease,K10,Repair of defect of interatrial septum
+Congenital cardiac disease,K101,Repair of defect of interatrial septum using prosthetic patch
+Congenital cardiac disease,K102,Repair of defect of interatrial septum using pericardial patch
+Congenital cardiac disease,K103,Repair of defect of interatrial septum using tissue graft NEC
+Congenital cardiac disease,K104,Primary repair of defect of interatrial septum NEC
+Congenital cardiac disease,K105,Revision of repair of defect of interatrial septum
+Congenital cardiac disease,K108,Other specified repair of defect of interatrial septum
+Congenital cardiac disease,K109,Unspecified repair of defect of interatrial septum
+Congenital cardiac disease,K11,Repair of defect of interventricular septum
+Congenital cardiac disease,K111,Repair of defect of interventricular septum using prosthetic patch
+Congenital cardiac disease,K112,Repair of defect of interventricular septum using pericardial patch
+Congenital cardiac disease,K113,Repair of defect of interventricular septum using tissue graft NEC
+Congenital cardiac disease,K114,Primary repair of defect of interventricular septum NEC
+Congenital cardiac disease,K115,Revision of repair of defect of interventricular septum
+Congenital cardiac disease,K116,Repair of multiple interventricular septal defects
+Congenital cardiac disease,K117,Repair of interventricular septal defect using intraoperative transluminal prosthesis
+Congenital cardiac disease,K118,Other specified repair of defect of interventricular septum
+Congenital cardiac disease,K119,Unspecified repair of defect of interventricular septum
+Congenital cardiac disease,K12,Repair of defect of unspecified septum of heart
+Congenital cardiac disease,K121,Repair of defect of septum of heart using prosthetic patch NEC
+Congenital cardiac disease,K122,Repair of defect of septum of heart using pericardial patch NEC
+Congenital cardiac disease,K123,Repair of defect of septum of heart using tissue graft NEC
+Congenital cardiac disease,K124,Primary repair of defect of septum of heart NEC
+Congenital cardiac disease,K125,Revision of repair of septum of heart NEC
+Congenital cardiac disease,K128,Other specified repair of defect of unspecified septum of heart
+Congenital cardiac disease,K129,Unspecified repair of defect of unspecified septum of heart
+Congenital cardiac disease,K13,Transluminal repair of defect of septum
+Congenital cardiac disease,K131,Percutaneous transluminal repair of defect of interventricular septum using prosthesis
+Congenital cardiac disease,K132,Percutaneous transluminal repair of defect of interventricular septum NEC
+Congenital cardiac disease,K133,Percutaneous transluminal repair of defect of interatrial septum using prosthesis
+Congenital cardiac disease,K134,Percutaneous transluminal repair of defect of interatrial septum NEC
+Congenital cardiac disease,K135,Percutaneous transluminal repair of defect of unspecified septum using prosthesis
+Congenital cardiac disease,K138,Other specified transluminal repair of defect of septum
+Congenital cardiac disease,K139,Unspecified transluminal repair of defect of septum
+Congenital cardiac disease,K14,Other open operations on septum of heart
+Congenital cardiac disease,K141,Open enlargement of defect of atrial septum
+Congenital cardiac disease,K142,Open atrial septostomy
+Congenital cardiac disease,K143,Atrial septectomy
+Congenital cardiac disease,K144,Surgical atrial septation
+Congenital cardiac disease,K145,Open enlargement of defect of interventricular septum
+Congenital cardiac disease,K148,Other specified other open operations on septum of heart
+Congenital cardiac disease,K149,Unspecified other open operations on septum of heart
+Congenital cardiac disease,K15,Closed operations on septum of heart
+Congenital cardiac disease,K151,Closed enlargement of defect of atrial septum
+Congenital cardiac disease,K152,Closed atrial septostomy
+Congenital cardiac disease,K158,Other specified closed operations on septum of heart
+Congenital cardiac disease,K159,Unspecified closed operations on septum of heart
+Congenital cardiac disease,K16,Other therapeutic transluminal operations on septum of heart
+Congenital cardiac disease,K161,Percutaneous transluminal balloon atrial septostomy
+Congenital cardiac disease,K162,Percutaneous transluminal atrial septostomy NEC
+Congenital cardiac disease,K163,Percutaneous transluminal atrial septum fenestration closure with prosthesis
+Congenital cardiac disease,K164,Percutaneous transluminal atrial septum fenestration
+Congenital cardiac disease,K165,Percutaneous transluminal closure of patent oval foramen with prosthesis
+Congenital cardiac disease,K166,Percutaneous transluminal chemical mediated septal ablation
+Congenital cardiac disease,K168,Other specified other therapeutic transluminal operations on septum of heart
+Congenital cardiac disease,K169,Unspecified other therapeutic transluminal operations on septum of heart
+Congenital cardiac disease,K175,Biventricular repair of hypoplastic left heart syndrome
+Congenital cardiac disease,L011,Correction of persistent truncus arteriosus
+Congenital cardiac disease,L012,Application of band to persistent truncus arteriosus
+Congenital cardiac disease,L013,Repair of anomalous pulmonary artery origin from ascending aorta
+Congenital cardiac disease,L237,Repair of interrupted aortic arch
+Congenital cardiac disease,Z342,Aortic arch

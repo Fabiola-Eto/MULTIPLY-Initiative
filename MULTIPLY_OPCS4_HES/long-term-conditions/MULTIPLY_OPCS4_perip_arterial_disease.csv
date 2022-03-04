@@ -1,0 +1,76 @@
+Condition,OPCS4code,OPCS4codeDescr
+Peripheral arterial disease,L162,Bypass of aorta by anastomosis of axillary artery to femoral artery NEC
+Peripheral arterial disease,L163,Bypass of aorta by anastomosis of axillary artery to bilateral femoral arteries
+Peripheral arterial disease,L21,Other bypass of segment of aorta
+Peripheral arterial disease,L216,Bypass of bifurcation of aorta by anastomosis of aorta to iliac artery NEC
+Peripheral arterial disease,L218,Other specified other bypass of segment of aorta
+Peripheral arterial disease,L219,Unspecified other bypass of segment of aorta
+Peripheral arterial disease,L253,Open embolectomy of bifurcation of aorta
+Peripheral arterial disease,L50,Other emergency bypass of iliac artery
+Peripheral arterial disease,L501,Emergency bypass of common iliac artery by anastomosis of aorta to common iliac artery NEC
+Peripheral arterial disease,L502,Emergency bypass of iliac artery by anastomosis of aorta to external iliac artery NEC
+Peripheral arterial disease,L503,Emergency bypass of artery of leg by anastomosis of aorta to common femoral artery NEC
+Peripheral arterial disease,L504,Emergency bypass of artery of leg by anastomosis of aorta to deep femoral artery NEC
+Peripheral arterial disease,L505,Emergency bypass of iliac artery by anastomosis of iliac artery to iliac artery NEC
+Peripheral arterial disease,L506,Emergency bypass of artery of leg by anastomosis of iliac artery to femoral artery NEC
+Peripheral arterial disease,L508,Other specified other emergency bypass of iliac artery
+Peripheral arterial disease,L509,Unspecified other emergency bypass of iliac artery
+Peripheral arterial disease,L51,Other bypass of iliac artery
+Peripheral arterial disease,L511,Bypass of common iliac artery by anastomosis of aorta to common iliac artery NEC
+Peripheral arterial disease,L512,Bypass of iliac artery by anastomosis of aorta to external iliac artery NEC
+Peripheral arterial disease,L513,Bypass of artery of leg by anastomosis of aorta to common femoral artery NEC
+Peripheral arterial disease,L514,Bypass of artery of leg by anastomosis of aorta to deep femoral artery NEC
+Peripheral arterial disease,L515,Bypass of iliac artery by anastomosis of iliac artery to iliac artery NEC
+Peripheral arterial disease,L516,Bypass of artery of leg by anastomosis of iliac artery to femoral artery NEC
+Peripheral arterial disease,L518,Other specified other bypass of iliac artery
+Peripheral arterial disease,L519,Unspecified other bypass of iliac artery
+Peripheral arterial disease,L52,Reconstruction of iliac artery
+Peripheral arterial disease,L521,Endarterectomy of iliac artery and patch repair of iliac artery
+Peripheral arterial disease,L522,Endarterectomy of iliac artery NEC
+Peripheral arterial disease,L528,Other specified reconstruction of iliac artery
+Peripheral arterial disease,L529,Unspecified reconstruction of iliac artery
+Peripheral arterial disease,L53,Other open operations on iliac artery
+Peripheral arterial disease,L531,Repair of iliac artery NEC
+Peripheral arterial disease,L532,Open embolectomy of iliac artery
+Peripheral arterial disease,L541,Percutaneous transluminal angioplasty of iliac artery
+Peripheral arterial disease,L542,Percutaneous transluminal embolectomy of iliac artery
+Peripheral arterial disease,L544,Percutaneous transluminal insertion of stent into iliac artery
+Peripheral arterial disease,L548,Other specified transluminal operations on iliac artery
+Peripheral arterial disease,L549,Unspecified transluminal operations on iliac artery
+Peripheral arterial disease,L58,Other emergency bypass of femoral artery
+Peripheral arterial disease,L581,Emergency bypass of femoral artery by anastomosis of femoral artery to femoral artery NEC
+Peripheral arterial disease,L582,Emergency bypass of femoral artery by anastomosis of femoral artery to popliteal artery using prosthesis NEC
+Peripheral arterial disease,L583,Emergency bypass of femoral artery by anastomosis of femoral artery to popliteal artery using vein graft NEC
+Peripheral arterial disease,L584,Emergency bypass of femoral artery by anastomosis of femoral artery to tibial artery using prosthesis NEC
+Peripheral arterial disease,L585,Emergency bypass of femoral artery by anastomosis of femoral artery to tibial artery using vein graft NEC
+Peripheral arterial disease,L586,Emergency bypass of femoral artery by anastomosis of femoral artery to peroneal artery using prosthesis NEC
+Peripheral arterial disease,L587,Emergency bypass of femoral artery by anastomosis of femoral artery to peroneal artery using vein graft NEC
+Peripheral arterial disease,L588,Other specified other emergency bypass of femoral artery
+Peripheral arterial disease,L589,Unspecified other emergency bypass of femoral artery
+Peripheral arterial disease,L59,Other bypass of femoral artery
+Peripheral arterial disease,L591,Bypass of femoral artery by anastomosis of femoral artery to femoral artery NEC
+Peripheral arterial disease,L592,Bypass of femoral artery by anastomosis of femoral artery to popliteal artery using prosthesis NEC
+Peripheral arterial disease,L593,Bypass of femoral artery by anastomosis of femoral artery to popliteal artery using vein graft NEC
+Peripheral arterial disease,L594,Bypass of femoral artery by anastomosis of femoral artery to tibial artery using prosthesis NEC
+Peripheral arterial disease,L595,Bypass of femoral artery by anastomosis of femoral artery to tibial artery using vein graft NEC
+Peripheral arterial disease,L596,Bypass of femoral artery by anastomosis of femoral artery to peroneal artery using prosthesis NEC
+Peripheral arterial disease,L597,Bypass of femoral artery by anastomosis of femoral artery to peroneal artery using vein graft NEC
+Peripheral arterial disease,L598,Other specified other bypass of femoral artery
+Peripheral arterial disease,L599,Unspecified other bypass of femoral artery
+Peripheral arterial disease,L60,Reconstruction of femoral artery
+Peripheral arterial disease,L601,Endarterectomy of femoral artery and patch repair of femoral artery
+Peripheral arterial disease,L602,Endarterectomy of femoral artery NEC
+Peripheral arterial disease,L603,Profundoplasty of femoral artery and patch repair of deep femoral artery
+Peripheral arterial disease,L604,Profundoplasty of femoral artery NEC
+Peripheral arterial disease,L608,Other specified reconstruction of femoral artery
+Peripheral arterial disease,L609,Unspecified reconstruction of femoral artery
+Peripheral arterial disease,L62,Other open operations on femoral artery
+Peripheral arterial disease,L621,Repair of femoral artery NEC
+Peripheral arterial disease,L622,Open embolectomy of femoral artery
+Peripheral arterial disease,L628,Other specified other open operations on femoral artery
+Peripheral arterial disease,L629,Unspecified other open operations on femoral artery
+Peripheral arterial disease,L631,Percutaneous transluminal angioplasty of femoral artery
+Peripheral arterial disease,L632,Percutaneous transluminal embolectomy of femoral artery
+Peripheral arterial disease,L633,Percutaneous transluminal embolisation of femoral artery
+Peripheral arterial disease,L635,Percutaneous transluminal insertion of stent into femoral artery
+Peripheral arterial disease,L658,Other specified revision of reconstruction of artery

@@ -1,0 +1,44 @@
+Condition,OPCS4code,OPCS4codeDescr
+Chronic sinusitis,E12,Operations on maxillary antrum using sublabial approach
+Chronic sinusitis,E121,Ligation of maxillary artery using sublabial approach
+Chronic sinusitis,E122,Drainage of maxillary antrum using sublabial approach
+Chronic sinusitis,E123,Irrigation of maxillary antrum using sublabial approach
+Chronic sinusitis,E129,Unspecified operations on maxillary antrum using sublabial approach
+Chronic sinusitis,E13,Other operations on maxillary antrum
+Chronic sinusitis,E131,Drainage of maxillary antrum NEC
+Chronic sinusitis,E132,Excision of lesion of maxillary antrum
+Chronic sinusitis,E133,Intranasal antrostomy
+Chronic sinusitis,E134,Biopsy of lesion of maxillary antrum
+Chronic sinusitis,E135,Closure of fistula between maxillary antrum and mouth
+Chronic sinusitis,E136,Puncture of maxillary antrum
+Chronic sinusitis,E138,Other specified other operations on maxillary antrum
+Chronic sinusitis,E139,Unspecified other operations on maxillary antrum
+Chronic sinusitis,E14,Operations on frontal sinus
+Chronic sinusitis,E141,External frontoethmoidectomy
+Chronic sinusitis,E142,Intranasal ethmoidectomy
+Chronic sinusitis,E143,External ethmoidectomy
+Chronic sinusitis,E144,Transantral ethmoidectomy
+Chronic sinusitis,E145,Bone flap to frontal sinus
+Chronic sinusitis,E146,Trephine of frontal sinus
+Chronic sinusitis,E147,Median drainage of frontal sinus
+Chronic sinusitis,E148,Other specified operations on frontal sinus
+Chronic sinusitis,E149,Unspecified operations on frontal sinus
+Chronic sinusitis,E15,Operations on sphenoid sinus
+Chronic sinusitis,E151,Drainage of sphenoid sinus
+Chronic sinusitis,E152,Puncture of sphenoid sinus
+Chronic sinusitis,E153,Repair of sphenoidal sinus
+Chronic sinusitis,E158,Other specified operations on sphenoid sinus
+Chronic sinusitis,E159,Unspecified operations on sphenoid sinus
+Chronic sinusitis,E161,Frontal sinus osteoplasty
+Chronic sinusitis,E168,Other specified other operations on frontal sinus
+Chronic sinusitis,E169,Unspecified other operations on frontal sinus
+Chronic sinusitis,E17,Operations on unspecified nasal sinus
+Chronic sinusitis,E171,Excision of nasal sinus NEC
+Chronic sinusitis,E172,Excision of lesion of nasal sinus NEC
+Chronic sinusitis,E173,Biopsy of lesion of nasal sinus NEC
+Chronic sinusitis,E174,Lateral rhinotomy into nasal sinus NEC
+Chronic sinusitis,E178,Other specified operations on unspecified nasal sinus
+Chronic sinusitis,E179,Unspecified operations on unspecified nasal sinus
+Chronic sinusitis,E253,Diagnostic endoscopic examination of nasopharynx NEC
+Chronic sinusitis,Y761,Functional endoscopic sinus surgery
+Chronic sinusitis,Y762,Functional endoscopic nasal surgery

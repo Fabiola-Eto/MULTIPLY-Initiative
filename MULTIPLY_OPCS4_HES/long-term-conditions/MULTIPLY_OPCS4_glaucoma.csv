@@ -1,0 +1,30 @@
+Condition,OPCS4code,OPCS4codeDescr
+Glaucoma,C601,Trabeculectomy
+Glaucoma,C602,Inclusion of iris
+Glaucoma,C603,Fixation of iris
+Glaucoma,C604,Iridoplasty NEC
+Glaucoma,C605,Insertion of tube into anterior chamber of eye to assist drainage of aqueous humour
+Glaucoma,C606,Viscocanulostomy
+Glaucoma,C608,Other specified filtering operations on iris
+Glaucoma,C609,Unspecified filtering operations on iris
+Glaucoma,C611,Laser trabeculoplasty
+Glaucoma,C612,Trabeculotomy
+Glaucoma,C613,Goniotomy
+Glaucoma,C614,Goniopuncture
+Glaucoma,C615,Viscogonioplasty
+Glaucoma,C618,Other specified other operations on trabecular meshwork of eye
+Glaucoma,C619,Unspecified other operations on trabecular meshwork of eye
+Glaucoma,C621,Iridosclerotomy
+Glaucoma,C622,Surgical iridotomy
+Glaucoma,C623,Laser iridotomy
+Glaucoma,C624,Correction iridodialysis NEC
+Glaucoma,C628,Other specified incision of iris
+Glaucoma,C629,Unspecified incision of iris
+Glaucoma,C65,Operations following glaucoma surgery
+Glaucoma,C651,Needling of bleb
+Glaucoma,C652,Injection of bleb
+Glaucoma,C653,Revision of bleb NEC
+Glaucoma,C654,Removal of releasable suture following glaucoma surgery
+Glaucoma,C655,Laser suture lysis following glaucoma surgery
+Glaucoma,C658,Other specified operations following glaucoma surgery
+Glaucoma,C659,Unspecified operations following glaucoma surgery

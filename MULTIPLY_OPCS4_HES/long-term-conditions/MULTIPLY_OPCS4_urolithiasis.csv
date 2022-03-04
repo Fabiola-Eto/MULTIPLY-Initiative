@@ -1,0 +1,41 @@
+Condition,OPCS4code,OPCS4codeDescr
+Urolithiasis,M061,Open removal of calculus from kidney
+Urolithiasis,M09,Therapeutic endoscopic operations on calculus of kidney
+Urolithiasis,M091,Endoscopic ultrasound fragmentation of calculus of kidney
+Urolithiasis,M092,Endoscopic electrohydraulic shockwave fragmentation of calculus of kidney
+Urolithiasis,M093,Endoscopic laser fragmentation of calculus of kidney
+Urolithiasis,M094,Endoscopic extraction of calculus of kidney NEC
+Urolithiasis,M098,Other specified therapeutic endoscopic operations on calculus of kidney
+Urolithiasis,M099,Unspecified therapeutic endoscopic operations on calculus of kidney
+Urolithiasis,M14,Extracorporeal fragmentation of calculus of kidney
+Urolithiasis,M141,Extracorporeal shock wave lithotripsy of calculus of kidney
+Urolithiasis,M148,Other specified extracorporeal fragmentation of calculus of kidney
+Urolithiasis,M149,Unspecified extracorporeal fragmentation of calculus of kidney
+Urolithiasis,M164,Percutaneous nephrolithotomy NEC
+Urolithiasis,M231,Open ureterolithotomy
+Urolithiasis,M261,Nephroscopic laser fragmentation of calculus of ureter
+Urolithiasis,M262,Nephroscopic fragmentation of calculus of ureter NEC
+Urolithiasis,M263,Nephroscopic extraction of calculus of ureter
+Urolithiasis,M271,Ureteroscopic laser fragmentation of calculus of ureter
+Urolithiasis,M272,Ureteroscopic fragmentation of calculus of ureter NEC
+Urolithiasis,M273,Ureteroscopic extraction of calculus of ureter
+Urolithiasis,M28,Other endoscopic removal of calculus from ureter
+Urolithiasis,M281,Endoscopic laser fragmentation of calculus of ureter NEC
+Urolithiasis,M282,Endoscopic fragmentation of calculus of ureter NEC
+Urolithiasis,M283,Endoscopic extraction of calculus of ureter NEC
+Urolithiasis,M284,Endoscopic catheter drainage of calculus of ureter
+Urolithiasis,M285,Endoscopic drainage of calculus of ureter by dilation of ureter
+Urolithiasis,M288,Other specified other endoscopic removal of calculus from ureter
+Urolithiasis,M289,Unspecified other endoscopic removal of calculus from ureter
+Urolithiasis,M31,Extracorporeal fragmentation of calculus of ureter
+Urolithiasis,M311,Extracorporeal shockwave lithotripsy of calculus of ureter
+Urolithiasis,M318,Other specified extracorporeal fragmentation of calculus of ureter
+Urolithiasis,M319,Unspecified extracorporeal fragmentation of calculus of ureter
+Urolithiasis,M391,Open removal of calculus from bladder
+Urolithiasis,M441,Endoscopic lithopaxy
+Urolithiasis,M442,Endoscopic extraction of calculus of bladder NEC
+Urolithiasis,M478,Other specified urethral catheterisation of bladder
+Urolithiasis,M754,Open extraction of calculus from urethra
+Urolithiasis,M759,Unspecified other open operations on urethra
+Urolithiasis,M762,Endoscopic removal of foreign body from urethra
+Urolithiasis,M861,Endoscopic extraction of calculus of urinary diversion

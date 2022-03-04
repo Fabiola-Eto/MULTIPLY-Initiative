@@ -1,0 +1,27 @@
+Condition,OPCS4code,OPCS4codeDescr
+End stage renal disease,L746,Creation of graft fistula for dialysis
+End stage renal disease,M01,Transplantation of kidney
+End stage renal disease,M011,Autotransplantation of kidney
+End stage renal disease,M012,Allotransplantation of kidney from live donor
+End stage renal disease,M013,Allotransplantation of kidney from cadaver NEC
+End stage renal disease,M014,Allotransplantation of kidney from cadaver heart beating
+End stage renal disease,M015,Allotransplantation of kidney from cadaver heart non-beating
+End stage renal disease,M018,Other specified transplantation of kidney
+End stage renal disease,M019,Unspecified transplantation of kidney
+End stage renal disease,M026,Excision of rejected transplanted kidney
+End stage renal disease,M027,Excision of transplanted kidney NEC
+End stage renal disease,M084,Exploration of transplanted kidney
+End stage renal disease,M17,Interventions associated with transplantation of kidney
+End stage renal disease,M172,Pre-transplantation of kidney work-up - recipient
+End stage renal disease,M174,Post-transplantation of kidney examination - recipient
+End stage renal disease,M178,Other specified interventions associated with transplantation of kidney
+End stage renal disease,M179,Unspecified interventions associated with transplantation of kidney
+End stage renal disease,X40,Compensation for renal failure
+End stage renal disease,X401,Renal dialysis
+End stage renal disease,X402,Peritoneal dialysis NEC
+End stage renal disease,X403,Haemodialysis NEC
+End stage renal disease,X405,Automated peritoneal dialysis
+End stage renal disease,X406,Continuous ambulatory peritoneal dialysis
+End stage renal disease,X411,Insertion of ambulatory peritoneal dialysis catheter
+End stage renal disease,X412,Removal of ambulatory peritoneal dialysis catheter
+End stage renal disease,X421,Insertion of temporary peritoneal dialysis catheter
