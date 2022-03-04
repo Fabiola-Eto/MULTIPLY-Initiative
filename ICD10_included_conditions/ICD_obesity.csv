@@ -1,7 +1,0 @@
-Disease,ICD10code,ICD10codeDescr
-Obesity,E66,Obesity
-Obesity,E66.9,"Obesity, unspecified"
-Obesity,E66.0,Obesity due to excess calories
-Obesity,E66.1,Drug-induced obesity
-Obesity,E66.2,Extreme obesity with alveolar hypoventilation
-Obesity,E66.8,Other obesity

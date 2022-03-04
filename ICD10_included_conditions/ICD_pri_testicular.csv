@@ -1,6 +1,0 @@
-Disease,ICD10code,ICD10codeDescr
-Primary malignancy testicular,C62,Malignant neoplasm of testis
-Primary malignancy testicular,C62.0,Malignant neoplasm: Undescended testis
-Primary malignancy testicular,C62.1,Malignant neoplasm: Descended testis
-Primary malignancy testicular,C62.9,"Malignant neoplasm: Testis, unspecified"
-Primary malignancy testicular,D40.1,Neoplasm of uncertain or unknown behaviour: Testis
