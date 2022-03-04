@@ -1,0 +1,6 @@
+Condition,ICD10code,ICD10codeDescr
+Nasal polyp,J33,Nasal polyp
+Nasal polyp,J33.0,Polyp of nasal cavity
+Nasal polyp,J33.1,Polypoid sinus degeneration
+Nasal polyp,J33.8,Other polyp of sinus
+Nasal polyp,J33.9,"Nasal polyp, unspecified"

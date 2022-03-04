@@ -1,0 +1,143 @@
+Condition,ICD10code,ICD10codeDescr
+Primary malignancy other,B21,Human immunodeficiency virus [HIV] disease resulting in malignant neoplasms
+Primary malignancy other,B21.0,HIV disease resulting in Kaposi sarcoma
+Primary malignancy other,B21.7,HIV disease resulting in multiple malignant neoplasms
+Primary malignancy other,B21.8,HIV disease resulting in other malignant neoplasms
+Primary malignancy other,B21.9,HIV disease resulting in unspecified malignant neoplasm
+Primary malignancy other,C17,Malignant neoplasm of small intestine
+Primary malignancy other,C17.0,Malignant neoplasm: Duodenum
+Primary malignancy other,C17.1,Malignant neoplasm: Jejunum
+Primary malignancy other,C17.2,Malignant neoplasm: Ileum
+Primary malignancy other,C17.3,Malignant neoplasm: Meckel diverticulum
+Primary malignancy other,C17.8,Malignant neoplasm: Overlapping lesion of small intestine
+Primary malignancy other,C17.9,"Malignant neoplasm: Small intestine, unspecified"
+Primary malignancy other,C23,Malignant neoplasm of gallbladder
+Primary malignancy other,C26.0,Malignant neoplasm: Intestinal tract
+Primary malignancy other,C26.0,"Malignant neoplasm: Intestinal tract, part unspecified"
+Primary malignancy other,C26.1,Malignant neoplasm: Spleen
+Primary malignancy other,C26.8,Malignant neoplasm: Overlapping lesion of digestive system
+Primary malignancy other,C26.9,Malignant neoplasm: Ill-defined sites within the digestive system
+Primary malignancy other,C30.0,Malignant neoplasm: Nasal cavity
+Primary malignancy other,C30.1,Malignant neoplasm: Middle ear
+Primary malignancy other,C31,Malignant neoplasm of accessory sinuses
+Primary malignancy other,C31.0,Malignant neoplasm: Maxillary sinus
+Primary malignancy other,C31.1,Malignant neoplasm: Ethmoidal sinus
+Primary malignancy other,C31.2,Malignant neoplasm: Frontal sinus
+Primary malignancy other,C31.3,Malignant neoplasm: Sphenoidal sinus
+Primary malignancy other,C31.8,Malignant neoplasm: Overlapping lesion of accessory sinuses
+Primary malignancy other,C31.9,"Malignant neoplasm: Accessory sinus, unspecified"
+Primary malignancy other,C32,Malignant neoplasm of larynx
+Primary malignancy other,C37,Malignant neoplasm of thymus
+Primary malignancy other,C38.0,Malignant neoplasm: Heart
+Primary malignancy other,C38.1,Malignant neoplasm: Anterior mediastinum
+Primary malignancy other,C38.2,Malignant neoplasm: Posterior mediastinum
+Primary malignancy other,C38.3,Malignant neoplasm: Mediastinum
+Primary malignancy other,C38.3,"Malignant neoplasm: Mediastinum, part unspecified"
+Primary malignancy other,C38.4,Malignant neoplasm: Pleura
+Primary malignancy other,C39.0,Malignant neoplasm: Upper respiratory tract
+Primary malignancy other,C39.8,Malignant neoplasm: Overlapping lesion of respiratory and intrathoracic organs
+Primary malignancy other,C39.9,Malignant neoplasm: Ill-defined sites within the respiratory system
+Primary malignancy other,C46,Kaposi sarcoma
+Primary malignancy other,C46.1,Kaposi sarcoma of soft tissue
+Primary malignancy other,C46.3,Kaposi sarcoma of lymph nodes
+Primary malignancy other,C46.7,Kaposi sarcoma of other sites
+Primary malignancy other,C46.8,Kaposi sarcoma of multiple organs
+Primary malignancy other,C46.9,"Kaposi sarcoma, unspecified"
+Primary malignancy other,C47,Malignant neoplasm of peripheral nerves and autonomic nervous system
+Primary malignancy other,C47.3,Malignant neoplasm: Peripheral nerves of thorax
+Primary malignancy other,C47.4,Malignant neoplasm: Peripheral nerves of abdomen
+Primary malignancy other,C47.5,Malignant neoplasm: Peripheral nerves of pelvis
+Primary malignancy other,C48,Malignant neoplasm of retroperitoneum and peritoneum
+Primary malignancy other,C48.0,Malignant neoplasm: Retroperitoneum
+Primary malignancy other,C48.1,Malignant neoplasm: Specified parts of peritoneum
+Primary malignancy other,C48.2,"Malignant neoplasm: Peritoneum, unspecified"
+Primary malignancy other,C49,Malignant neoplasm of other connective and soft tissue
+Primary malignancy other,C49.0,"Malignant neoplasm: Connective and soft tissue of head, face and neck"
+Primary malignancy other,C49.1,"Malignant neoplasm: Connective and soft tissue of upper limb, including shoulder"
+Primary malignancy other,C49.2,"Malignant neoplasm: Connective and soft tissue of lower limb, including hip"
+Primary malignancy other,C49.3,Malignant neoplasm: Connective and soft tissue of thorax
+Primary malignancy other,C49.4,Malignant neoplasm: Connective and soft tissue of abdomen
+Primary malignancy other,C49.5,Malignant neoplasm: Connective and soft tissue of pelvis
+Primary malignancy other,C49.9,"Malignant neoplasm: Connective and soft tissue, unspecified"
+Primary malignancy other,C51,Malignant neoplasm of vulva
+Primary malignancy other,C51.0,Malignant neoplasm: Labium majus
+Primary malignancy other,C51.1,Malignant neoplasm: Labium minus
+Primary malignancy other,C51.2,Malignant neoplasm: Clitoris
+Primary malignancy other,C51.8,Malignant neoplasm: Overlapping lesion of vulva
+Primary malignancy other,C51.9,"Malignant neoplasm: Vulva, unspecified"
+Primary malignancy other,C52,Malignant neoplasm of vagina
+Primary malignancy other,C57,Malignant neoplasm of other and unspecified female genital organs
+Primary malignancy other,C57.0,Malignant neoplasm: Fallopian tube
+Primary malignancy other,C57.1,Malignant neoplasm: Broad ligament
+Primary malignancy other,C57.3,Malignant neoplasm: Parametrium
+Primary malignancy other,C57.4,"Malignant neoplasm: Uterine adnexa, unspecified"
+Primary malignancy other,C57.7,Malignant neoplasm: Other specified female genital organs
+Primary malignancy other,C57.8,Malignant neoplasm: Overlapping lesion of female genital organs
+Primary malignancy other,C57.9,"Malignant neoplasm: Female genital organ, unspecified"
+Primary malignancy other,C58,Malignant neoplasm of placenta
+Primary malignancy other,C60,Malignant neoplasm of penis
+Primary malignancy other,C60.0,Malignant neoplasm: Prepuce
+Primary malignancy other,C60.1,Malignant neoplasm: Glans penis
+Primary malignancy other,C60.2,Malignant neoplasm: Body of penis
+Primary malignancy other,C60.8,Malignant neoplasm: Overlapping lesion of penis
+Primary malignancy other,C60.9,"Malignant neoplasm: Penis, unspecified"
+Primary malignancy other,C63,Malignant neoplasm of other and unspecified male genital organs
+Primary malignancy other,C63.0,Malignant neoplasm: Epididymis
+Primary malignancy other,C63.1,Malignant neoplasm: Spermatic cord
+Primary malignancy other,C63.2,Malignant neoplasm: Scrotum
+Primary malignancy other,C63.7,Malignant neoplasm: Other specified male genital organs
+Primary malignancy other,C63.9,"Malignant neoplasm: Male genital organ, unspecified"
+Primary malignancy other,C68,Malignant neoplasm of other and unspecified urinary organs
+Primary malignancy other,C68.0,Malignant neoplasm: Urethra
+Primary malignancy other,C68.1,Malignant neoplasm: Paraurethral gland
+Primary malignancy other,C68.8,Malignant neoplasm: Overlapping lesion of urinary organs
+Primary malignancy other,C68.9,"Malignant neoplasm: Urinary organ, unspecified"
+Primary malignancy other,C69,Malignant neoplasm of eye and adnexa
+Primary malignancy other,C69.0,Malignant neoplasm: Conjunctiva
+Primary malignancy other,C69.1,Malignant neoplasm: Cornea
+Primary malignancy other,C69.2,Malignant neoplasm: Retina
+Primary malignancy other,C69.3,Malignant neoplasm: Choroid
+Primary malignancy other,C69.4,Malignant neoplasm: Ciliary body
+Primary malignancy other,C69.5,Malignant neoplasm: Lacrimal gland and duct
+Primary malignancy other,C69.6,Malignant neoplasm: Orbit
+Primary malignancy other,C69.8,Malignant neoplasm: Overlapping lesion of eye and adnexa
+Primary malignancy other,C69.9,"Malignant neoplasm: Eye, unspecified"
+Primary malignancy other,C72.9,"Malignant neoplasm: Central nervous system, unspecified"
+Primary malignancy other,C74,Malignant neoplasm of adrenal gland
+Primary malignancy other,C74.0,Malignant neoplasm: Cortex of adrenal gland
+Primary malignancy other,C74.1,Malignant neoplasm: Medulla of adrenal gland
+Primary malignancy other,C74.9,"Malignant neoplasm: Adrenal gland, unspecified"
+Primary malignancy other,C75.0,Malignant neoplasm: Parathyroid gland
+Primary malignancy other,C75.8,Malignant neoplasm: Pluriglandular involvement
+Primary malignancy other,C75.9,Malignant neoplasm: Endocrine gland
+Primary malignancy other,C75.9,"Malignant neoplasm: Endocrine gland, unspecified"
+Primary malignancy other,C76,Malignant neoplasm of other and ill-defined sites
+Primary malignancy other,C76.0,"Malignant neoplasm of other and ill-defined sites: Head, face and neck"
+Primary malignancy other,C76.1,Malignant neoplasm of other and ill-defined sites: Thorax
+Primary malignancy other,C76.2,Malignant neoplasm of other and ill-defined sites: Abdomen
+Primary malignancy other,C76.3,Malignant neoplasm of other and ill-defined sites: Pelvis
+Primary malignancy other,C76.4,Malignant neoplasm of other and ill-defined sites: Upper limb
+Primary malignancy other,C76.5,Malignant neoplasm of other and ill-defined sites: Lower limb
+Primary malignancy other,C76.7,Malignant neoplasm of other and ill-defined sites: Other ill-defined sites
+Primary malignancy other,C80,Malignant neoplasm without specification of site
+Primary malignancy other,C80.0,"Malignant neoplasm, primary site unknown, so stated"
+Primary malignancy other,C80.9,"Malignant neoplasm, primary site unspecified"
+Primary malignancy other,C88.3,Immunoproliferative small intestinal disease
+Primary malignancy other,C88.4,Extranodal marginal zone B-cell lymphoma of mucosa-associated lymphoid tissue [MALT-lymphoma]
+Primary malignancy other,C88.7,Other malignant immunoproliferative diseases
+Primary malignancy other,C88.9,Malignant immunoproliferative disease
+Primary malignancy other,C88.9,"Malignant immunoproliferative disease, unspecified"
+Primary malignancy other,C96,Other and unspecified malignant neoplasms of lymphoid
+Primary malignancy other,C96.0,Multifocal and multisystemic (disseminated) Langerhans-cell histiocytosis [Letterer-Siwe disease]
+Primary malignancy other,C96.2,Malignant mast cell tumour
+Primary malignancy other,C96.5,Multifocal and unisystemic Langerhans-cell histiocytosis
+Primary malignancy other,C96.6,Unifocal Langerhans-cell histiocytosis
+Primary malignancy other,C96.8,Histiocytic sarcoma
+Primary malignancy other,C96.9,"Malignant neoplasm of lymphoid, haematopoietic and related tissue, unspecified"
+Primary malignancy other,C97,Malignant neoplasms of independent (primary) multiple sites
+Primary malignancy other,D07.6,Carcinoma in situ: Other and unspecified male genital organs
+Primary malignancy other,D37.7,Neoplasm of uncertain or unknown behaviour: Other digestive organs
+Primary malignancy other,D39.2,Neoplasm of uncertain or unknown behaviour: Placenta
+Primary malignancy other,Z85.0,Personal history of malignant neoplasm of digestive organs
+Primary malignancy other,Z85.4,Personal history of malignant neoplasm of genital organs
+Primary malignancy other,Z85.8,Personal history of malignant neoplasms of other organs and systems

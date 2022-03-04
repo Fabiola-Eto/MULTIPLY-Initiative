@@ -1,0 +1,8 @@
+Condition,ICD10code,ICD10codeDescr
+SARS-CoV-2,U07.1,"COVID-19, virus identified"
+SARS-CoV-2,U08,Personal history of COVID-19
+SARS-CoV-2,U08.9,"Personal history of COVID-19, unspecified"
+SARS-CoV-2,U09,Post COVID-19 condition
+SARS-CoV-2,U09.9,"Post COVID-19 condition, unspecified"
+SARS-CoV-2,U10,Multisystem inflammatory syndrome associated with COVID-19
+SARS-CoV-2,U10.9,"Multisystem inflammatory syndrome associated with COVID-19, unspecified"

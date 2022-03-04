@@ -1,0 +1,9 @@
+Condition,ICD10code,ICD10codeDescr
+Primary malignancy cervical,C53,Malignant neoplasm of cervix uteri
+Primary malignancy cervical,C53.0,Malignant neoplasm: Endocervix
+Primary malignancy cervical,C53.1,Malignant neoplasm: Exocervix
+Primary malignancy cervical,C53.8,Malignant neoplasm: Overlapping lesion of cervix uteri
+Primary malignancy cervical,C53.9,"Malignant neoplasm: Cervix uteri, unspecified"
+Primary malignancy cervical,D06.0,Carcinoma in situ: Endocervix
+Primary malignancy cervical,D06.1,Carcinoma in situ: Exocervix
+Primary malignancy cervical,D06.9,"Carcinoma in situ: Cervix, unspecified"

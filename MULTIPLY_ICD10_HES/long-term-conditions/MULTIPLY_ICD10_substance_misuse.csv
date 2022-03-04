@@ -1,0 +1,30 @@
+Condition,ICD10code,ICD10codeDescr
+Other psychoactive substance misuse,F11,Mental and behavioural disorders due to use of opioids
+Other psychoactive substance misuse,F11.2,Mental and behavioural disorders due to use of opioids dependence syndrome
+Other psychoactive substance misuse,F11.3,Mental and behavioural disorders due to use of opioids withdrawal state
+Other psychoactive substance misuse,F12,Mental and behavioural disorders due to use of cannabinoids
+Other psychoactive substance misuse,F12.2,Mental and behavioural disorders due to use of cannabinoids dependence syndrome
+Other psychoactive substance misuse,F13,Mental and behavioural disorders due to use of sedatives or hypnotics
+Other psychoactive substance misuse,F13.2,Mental and behavioural disorders due to use of sedatives or hypnotics dependence syndrome
+Other psychoactive substance misuse,F14,Mental and behavioural disorders due to use of cocaine
+Other psychoactive substance misuse,F14.2,Mental and behavioural disorders due to use of cocaine dependence syndrome
+Other psychoactive substance misuse,F15,Mental and behavioural disorders due to use of other stimulants
+Other psychoactive substance misuse,F15.2,"Mental and behavioural disorders due to use of other stimulants, including caffeine dependence syndrome"
+Other psychoactive substance misuse,F16,Mental and behavioural disorders due to use of hallucinogens
+Other psychoactive substance misuse,F16.2,Mental and behavioural disorders due to use of hallucinogens dependence syndrome
+Other psychoactive substance misuse,F16.7,Mental and behavioural disorders due to use of hallucinogens residual and late-onset psychotic disorder
+Other psychoactive substance misuse,F18,Mental and behavioural disorders due to use of volatile solvents
+Other psychoactive substance misuse,F18.2,Mental and behavioural disorders due to use of volatile solvents dependence syndrome
+Other psychoactive substance misuse,F19,Mental and behavioural disorders due to multiple drug use and use of other psychoactive substances
+Other psychoactive substance misuse,F19.2,Mental and behavioural disorders due to multiple drug use and use of other psychoactive substances dependence syndrome
+Other psychoactive substance misuse,T40.1,Poisoning: Heroin
+Other psychoactive substance misuse,T40.2,Poisoning: Other opioids
+Other psychoactive substance misuse,T40.5,Poisoning: Cocaine
+Other psychoactive substance misuse,T40.7,Poisoning: Cannabis (derivatives)
+Other psychoactive substance misuse,T43.6,Poisoning: Psychostimulants with abuse potential
+Other psychoactive substance misuse,X42,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"
+Other psychoactive substance misuse,X62,"Intentional self-poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"
+Other psychoactive substance misuse,Y45.0,Opioids and related analgesics
+Other psychoactive substance misuse,Y46.3,Deoxybarbiturates
+Other psychoactive substance misuse,Z71.5,Drug abuse counselling and surveillance
+Other psychoactive substance misuse,Z86.4,Personal history of psychoactive substance abuse

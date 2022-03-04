@@ -1,0 +1,33 @@
+Condition,ICD10code,ICD10codeDescr
+Osteoarthritis (excl spine),M15,Polyarthrosis
+Osteoarthritis (excl spine),M15.0,Primary generalized (osteo)arthrosis
+Osteoarthritis (excl spine),M15.1,Heberden nodes (with arthropathy)
+Osteoarthritis (excl spine),M15.2,Bouchard nodes (with arthropathy)
+Osteoarthritis (excl spine),M15.3,Secondary multiple arthrosis
+Osteoarthritis (excl spine),M15.4,Erosive (osteo)arthrosis
+Osteoarthritis (excl spine),M15.8,Other polyarthrosis
+Osteoarthritis (excl spine),M15.9,"Polyarthrosis, unspecified"
+Osteoarthritis (excl spine),M16,Coxarthrosis [arthrosis of hip]
+Osteoarthritis (excl spine),M16.0,"Primary coxarthrosis, bilateral"
+Osteoarthritis (excl spine),M16.1,Other primary coxarthrosis
+Osteoarthritis (excl spine),M16.2,"Coxarthrosis resulting from dysplasia, bilateral"
+Osteoarthritis (excl spine),M16.3,Other dysplastic coxarthrosis
+Osteoarthritis (excl spine),M16.6,"Other secondary coxarthrosis, bilateral"
+Osteoarthritis (excl spine),M16.7,Other secondary coxarthrosis
+Osteoarthritis (excl spine),M16.9,"Coxarthrosis, unspecified"
+Osteoarthritis (excl spine),M17,Gonarthrosis [arthrosis of knee]
+Osteoarthritis (excl spine),M17.0,"Primary gonarthrosis, bilateral"
+Osteoarthritis (excl spine),M17.1,Other primary gonarthrosis
+Osteoarthritis (excl spine),M17.4,"Other secondary gonarthrosis, bilateral"
+Osteoarthritis (excl spine),M17.5,Other secondary gonarthrosis
+Osteoarthritis (excl spine),M17.9,"Gonarthrosis, unspecified"
+Osteoarthritis (excl spine),M18,Arthrosis of first carpometacarpal joint
+Osteoarthritis (excl spine),M18.0,"Primary arthrosis of first carpometacarpal joints, bilateral"
+Osteoarthritis (excl spine),M18.1,Other primary arthrosis of first carpometacarpal joint
+Osteoarthritis (excl spine),M18.9,"Arthrosis of first carpometacarpal joint, unspecified"
+Osteoarthritis (excl spine),M19,Other arthrosis
+Osteoarthritis (excl spine),M19.0,Primary arthrosis of other joints
+Osteoarthritis (excl spine),M19.2,Other secondary arthrosis
+Osteoarthritis (excl spine),M19.8,Other specified arthrosis
+Osteoarthritis (excl spine),M19.9,"Arthrosis, unspecified"
+Osteoarthritis (excl spine),M47.9,"Spondylosis, unspecified"

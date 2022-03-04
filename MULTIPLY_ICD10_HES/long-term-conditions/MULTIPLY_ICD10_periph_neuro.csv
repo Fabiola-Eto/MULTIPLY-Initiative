@@ -1,0 +1,42 @@
+Condition,ICD10code,ICD10codeDescr
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),E85.1,Neuropathic heredofamilial amyloidosis
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),G56.1,Other lesions of median nerve
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),G56.2,Lesion of ulnar nerve
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),G56.3,Lesion of radial nerve
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),G56.4,Causalgia
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),G56.8,Other mononeuropathies of upper limb
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),G56.9,Mononeuropathy of upper limb unspecified
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),G56.9,"Mononeuropathy of upper limb, unspecified"
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),G57,Mononeuropathies of lower limb
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),G57.1,Meralgia paraesthetica
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),G57.5,Tarsal tunnel syndrome
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),G57.8,Other mononeuropathies of lower limb
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),G57.9,"Mononeuropathy of lower limb, unspecified"
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),G58,Other mononeuropathies
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),G58.0,Intercostal neuropathy
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),G58.7,Mononeuritis multiplex
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),G58.8,Other specified mononeuropathies
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),G58.9,"Mononeuropathy, unspecified"
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),G59,Mononeuropathy in diseases classified elsewhere
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),G60,Hereditary and idiopathic neuropathy
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),G60.0,Hereditary motor and sensory neuropathy
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),G60.1,Refsum disease
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),G60.2,Neuropathy in association with hereditary ataxia
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),G60.3,Idiopathic progressive neuropathy
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),G60.8,Other hereditary and idiopathic neuropathies
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),G60.9,"Hereditary and idiopathic neuropathy, unspecified"
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),G61,Inflammatory polyneuropathy
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),G61.0,Guillain-Barr<c8> syndrome
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),G61.1,Serum neuropathy
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),G61.8,Other inflammatory polyneuropathies
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),G61.9,"Inflammatory polyneuropathy, unspecified"
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),G62,Other polyneuropathies
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),G62.0,Drug-induced polyneuropathy
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),G62.1,Alcoholic polyneuropathy
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),G62.2,Polyneuropathy due to other toxic agents
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),G62.8,Other specified polyneuropathies
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),G62.9,"Polyneuropathy, unspecified"
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),G63,Polyneuropathy in diseases classified elsewhere
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),G64,Other disorders of peripheral nervous system
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),M14.6,Neuropathic arthropathy
+Non-diabetic peripheral neuropathies (excluding cranial nerves and carpal tunnel syndrome),M49.4,Neuropathic spondylopathy

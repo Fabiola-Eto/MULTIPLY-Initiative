@@ -1,0 +1,5 @@
+Condition,ICD10code,ICD10codeDescr
+Seborrheic dermatitis,L21,Seborrhoeic dermatitis
+Seborrheic dermatitis,L21.0,Seborrhoea capitis
+Seborrheic dermatitis,L21.8,Other seborrhoeic dermatitis
+Seborrheic dermatitis,L21.9,"Seborrhoeic dermatitis, unspecified"

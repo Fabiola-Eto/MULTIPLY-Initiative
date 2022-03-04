@@ -1,0 +1,11 @@
+Condition,ICD10code,ICD10codeDescr
+Juvenile arthritis,M08,Juvenile arthritis
+Juvenile arthritis,M08.0,Juvenile rheumatoid arthritis
+Juvenile arthritis,M08.1,Juvenile ankylosing spondylitis
+Juvenile arthritis,M08.2,Juvenile arthritis with systemic onset
+Juvenile arthritis,M08.3,Juvenile polyarthritis (seronegative)
+Juvenile arthritis,M08.4,Pauciarticular juvenile arthritis
+Juvenile arthritis,M08.8,Other juvenile arthritis
+Juvenile arthritis,M08.9,"Juvenile arthritis, unspecified"
+Juvenile arthritis,M09,Juvenile arthritis in diseases classified elsewhere
+Juvenile arthritis,M09.0,Juvenile arthritis in psoriasis

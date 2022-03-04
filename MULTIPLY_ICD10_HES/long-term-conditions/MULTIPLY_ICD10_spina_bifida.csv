@@ -1,0 +1,14 @@
+Condition,ICD10code,ICD10codeDescr
+Spina bifida,Q05,Spina bifida
+Spina bifida,Q05.0,Cervical spina bifida with hydrocephalus
+Spina bifida,Q05.1,Thoracic spina bifida with hydrocephalus
+Spina bifida,Q05.2,Lumbar spina bifida with hydrocephalus
+Spina bifida,Q05.3,Sacral spina bifida with hydrocephalus
+Spina bifida,Q05.4,Unspecified spina bifida with hydrocephalus
+Spina bifida,Q05.5,Cervical spina bifida without hydrocephalus
+Spina bifida,Q05.6,Thoracic spina bifida without hydrocephalus
+Spina bifida,Q05.7,Lumbar spina bifida without hydrocephalus
+Spina bifida,Q05.8,Sacral spina bifida without hydrocephalus
+Spina bifida,Q05.9,"Spina bifida, unspecified"
+Spina bifida,Q07.0,Arnold-Chiari syndrome
+Spina bifida,Q76.0,Spina bifida occulta

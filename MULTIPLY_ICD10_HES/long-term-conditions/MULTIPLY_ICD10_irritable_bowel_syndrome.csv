@@ -1,0 +1,4 @@
+Condition,ICD10code,ICD10codeDescr
+Irritable bowel syndrome,K58,Irritable bowel syndrome
+Irritable bowel syndrome,K58.0,Irritable bowel syndrome with diarrhoea
+Irritable bowel syndrome,K58.9,Irritable bowel syndrome without diarrhoea
