@@ -1,0 +1,8 @@
+Condition,ReadCode,MedCodeId,Term,SnomedCTConceptId,SnomedCTDescriptionId
+Giant Cell arteritis,G755.00,2534171012,Giant cell arteritis,414341000,2534171012
+Giant Cell arteritis,G755000,1787109017,Cranial arteritis,400130008,1787109017
+Giant Cell arteritis,G755100,1779388019,Temporal arteritis,400130008,1779388019
+Giant Cell arteritis,G755200,1787110010,Horton's disease,400130008,1787110010
+Giant Cell arteritis,G755z00,300584016,Giant cell arteritis NOS,414341000,2534171012
+Giant Cell arteritis,N200.00,359513016,Giant cell arteritis with polymyalgia rheumatica,239938009,359513016
+Giant Cell arteritis,Nyu4100,312576015,[X]Other giant cell arteritis,414341000,2534171012

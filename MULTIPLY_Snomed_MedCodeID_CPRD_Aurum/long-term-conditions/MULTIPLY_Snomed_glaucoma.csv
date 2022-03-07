@@ -1,0 +1,75 @@
+Condition,ReadCode,MedCodeId,Term,SnomedCTConceptId,SnomedCTDescriptionId
+Glaucoma,66T1.00,264949013,Glaucoma monitoring,170946006,264949013
+Glaucoma,7259.00,361511000000118,Operation following glaucoma surgery,792741000000100,1772301000000112
+Glaucoma,7259000,383421000000110,Needling of bleb following glaucoma surgery,236891000000101,383421000000110
+Glaucoma,7259100,383381000000118,Injection of bleb following glaucoma surgery,428494000,1659491000000113
+Glaucoma,7259200,378061000000112,Revision of bleb NEC following glaucoma surgery,236891000000101,383421000000110
+Glaucoma,7259300,2676361011,Removal of releasable suture following glaucoma surgery,426877004,2676361011
+Glaucoma,7259400,378701000000110,Laser suture lysis following glaucoma surgery,234611000000100,378701000000110
+Glaucoma,7259y00,378721000000118,Other specified operations following glaucoma surgery,792741000000100,1772301000000112
+Glaucoma,7259z00,383401000000118,Operations following glaucoma surgery NOS,792741000000100,1772301000000112
+Glaucoma,7275.00,249331000006112,Panretinal photocoagulation for glaucoma,172586003,267176015
+Glaucoma,8HTW.00,2533408017,Referral to glaucoma clinic,415273001,2533408017
+Glaucoma,F404211,802901000006112,Absolute glaucoma,19144002,32262013
+Glaucoma,F442100,1226368013,Glaucomatocyclitic crises,29538005,1226368013
+Glaucoma,F45..00,40268016,Glaucoma,23986001,40268016
+Glaucoma,F450100,264071000006115,Open-angle glaucoma - borderline,193533000,298026013
+Glaucoma,F450200,521031000006117,Angle-closure glaucoma - borderline,193534006,298027016
+Glaucoma,F450300,1490617017,Borderline glaucoma steroid responder,302895007,1490617017
+Glaucoma,F451.00,140102012,Open-angle glaucoma,84494001,140102012
+Glaucoma,F451000,298034019,Unspecified open-angle glaucoma,84494001,140102012
+Glaucoma,F451100,503452018,Primary open-angle glaucoma,77075001,503452018
+Glaucoma,F451111,141721000006112,Simple chronic glaucoma,77075001,503452018
+Glaucoma,F451200,734071000006115,Low tension glaucoma,50485007,84105018
+Glaucoma,F451211,495680018,Normal pressure glaucoma,50485007,495680018
+Glaucoma,F451300,76978010,Pigmentary glaucoma,46168003,76978010
+Glaucoma,F451400,118092013,Glaucoma of childhood,71111008,118092013
+Glaucoma,F451500,47081000006113,Residual stage of open angle glaucoma,66990007,111276019
+Glaucoma,F451z00,298042018,Open-angle glaucoma NOS,84494001,140102012
+Glaucoma,F452.00,1486268015,Primary angle-closure glaucoma,392288006,1486268015
+Glaucoma,F452.11,560611000006117,Closed angle glaucoma,392288006,1486268015
+Glaucoma,F452000,298047012,Unspecified primary angle-closure glaucoma,392288006,1486268015
+Glaucoma,F452100,770481000006118,Intermittent primary angle-closure glaucoma,65460003,1232679017
+Glaucoma,F452200,459721000006110,Acute closed-angle glaucoma,30041005,1226810019
+Glaucoma,F452300,556201000006114,Chronic closed-angle glaucoma,33647009,485588018
+Glaucoma,F452400,298048019,Primary angle-closure glaucoma residual stage,193546005,298048019
+Glaucoma,F452500,347744010,Plateau iris,232080006,347744010
+Glaucoma,F452z00,298049010,Primary angle-closure glaucoma NOS,392288006,1486268015
+Glaucoma,F453.00,1221368012,Steroid-induced glaucoma,1654001,1221368012
+Glaucoma,F453100,298051014,Steroid-induced glaucoma residual stage,193549003,298051014
+Glaucoma,F453z00,298052019,Steroid-induced glaucoma NOS,1654001,3874015
+Glaucoma,F454.00,298053012,Secondary glaucoma,95717004,158563019
+Glaucoma,F454000,298054018,Glaucoma due to chamber angle anomaly,193552006,298054018
+Glaucoma,F454100,298055017,Glaucoma due to iris anomaly,193553001,298055017
+Glaucoma,F454200,298056016,Glaucoma due to other anterior segment anomaly,95717004,158563019
+Glaucoma,F454300,298057013,Glaucoma due to systemic syndrome,193555008,298057013
+Glaucoma,F454400,298058015,"Glaucoma in endocrine, nutritional and metabolic diseases",193556009,298058015
+Glaucoma,F454z00,298059011,Glaucoma due to disease NOS,95717004,158563019
+Glaucoma,F455.00,802911000006110,Glaucoma associated with disorders of the lens,84333006,1234928013
+Glaucoma,F455000,54899010,Phacolytic glaucoma,32893002,54899010
+Glaucoma,F455100,178757012,Pseudoexfoliation glaucoma,111514006,178757012
+Glaucoma,F455z00,298060018,Glaucoma associated with disorders of the lens NOS,84333006,139867011
+Glaucoma,F456.00,298061019,Glaucoma associated with other ocular disorders,95717004,158563019
+Glaucoma,F456000,298062014,Glaucoma due to unspecified ocular disorder,95717004,158563019
+Glaucoma,F456100,803061000006115,Glaucoma due to pupillary block,193561006,298063016
+Glaucoma,F456200,803011000006118,Glaucoma due to ocular inflammation,37155002,486637019
+Glaucoma,F456300,298064010,Glaucoma due to ocular vascular disorder,193562004,298064010
+Glaucoma,F456400,399447011,Glaucoma due to ocular tumour or cyst,267625001,399447011
+Glaucoma,F456411,411465018,Glaucoma due to ocular cyst,275477002,411465018
+Glaucoma,F456500,1233026017,Glaucoma due to ocular trauma,68241007,1233026017
+Glaucoma,F456600,347755010,Neovascular glaucoma,232086000,347755010
+Glaucoma,F456z00,298071017,Glaucoma associated with other ocular disorders NOS,95717004,158563019
+Glaucoma,F45y.00,298072012,Other specified forms of glaucoma,23986001,40268016
+Glaucoma,F45y000,49139016,Hypersecretion glaucoma,29369005,49139016
+Glaucoma,F45y100,802981000006115,Glaucoma due to episode of increased venous pressure,34623005,1228189019
+Glaucoma,F45y200,84105018,Low tension glaucoma,50485007,84105018
+Glaucoma,F45yz00,298074013,Other specified glaucoma NOS,23986001,40268016
+Glaucoma,F45z.00,298075014,Glaucoma NOS,23986001,40268016
+Glaucoma,F463100,1232965011,Glaucomatous subcapsular flecks,67733005,1232965011
+Glaucoma,F4H1400,1220514012,Optic disc glaucomatous atrophy,1207009,1220514012
+Glaucoma,FyuG.00,388091000006115,[X]Glaucoma,23986001,40268016
+Glaucoma,FyuG000,299482013,[X]Other glaucoma,23986001,40268016
+Glaucoma,FyuG100,388101000006114,"[X]Glaucoma in endocrine,nutritional+metabolic diseases CE",193556009,298058015
+Glaucoma,P320000,582671000006113,Congenital glaucoma,204113001,312991013
+Glaucoma,P320011,674741000006115,Newborn glaucoma,204113001,312991013
+Glaucoma,Q20y700,316238010,Traumatic glaucoma due to birth trauma,206248004,316238010

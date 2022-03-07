@@ -1,0 +1,19 @@
+Condition,ReadCode,MedCodeId,Term,SnomedCTConceptId,SnomedCTDescriptionId
+Coeliac disease,13YB.00,2263871000000118,Coeliac UK member,877071000000102,2263871000000118
+Coeliac disease,6648,1747701000006119,Coeliac disease monitoring,1747701000006103,1747701000006119
+Coeliac disease,6648,1689381000000112,Coeliac disease monitoring,703970007,3011518017
+Coeliac disease,6648000,1689421000000115,Coeliac disease annual review,473213008,2956273012
+Coeliac disease,68W4.00,1119251000000112,Coeliac disease autoantibody profile positive,443718009,2839516019
+Coeliac disease,8IAp.00,1651921000000116,Coeliac disease annual review declined,750911000000105,1651921000000116
+Coeliac disease,9mB..00,1651841000000119,Coeliac disease monitoring invitation,750871000000108,1651841000000119
+Coeliac disease,9mB1.00,1655141000000110,Coeliac disease monitoring invitation first letter,752301000000106,1655141000000110
+Coeliac disease,9mB2.00,1655181000000119,Coeliac disease monitoring invitation second letter,752321000000102,1655181000000119
+Coeliac disease,J690.00,1772803017,Coeliac disease,396331005,1772803017
+Coeliac disease,J690.11,411383013,Coeliac rickets,275404008,411383013
+Coeliac disease,J690.12,221181000000119,Gee - Herter disease,45259000,75457010
+Coeliac disease,J690.13,1785538011,Gluten enteropathy,396331005,1785538011
+Coeliac disease,J690.14,131661000006114,Sprue - nontropical,396331005,1772803017
+Coeliac disease,J690000,303686010,Congenital coeliac disease,197478000,303686010
+Coeliac disease,J690100,303687018,Acquired coeliac disease,197479008,303687018
+Coeliac disease,J690z00,303690012,Coeliac disease NOS,396331005,1772803017
+Coeliac disease,ZC2C200,5741761000006114,Dietary advice for coeliac disease,289134009,428945010

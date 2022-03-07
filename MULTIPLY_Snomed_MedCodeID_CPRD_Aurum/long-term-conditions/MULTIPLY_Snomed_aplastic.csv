@@ -1,0 +1,48 @@
+Condition,ReadCode,MedCodeId,Term,SnomedCTConceptId,SnomedCTDescriptionId
+Aplastic anaemias,D20..00,448863016,Aplastic anaemia,306058006,448863016
+Aplastic anaemias,D200.00,590121000006115,Constitutional aplastic anaemia,28975000,484030019
+Aplastic anaemias,D200.12,249651000006114,Pancytopenia with malformation,267524009,399218019
+Aplastic anaemias,D200.13,514811000006112,Blackfan - Diamond syndrome,5315003,496572011
+Aplastic anaemias,D200.15,1216286014,Hypoplastic anaemia - familial,28975000,1216286014
+Aplastic anaemias,D200000,508244016,Congenital hypoplastic anaemia,28975000,484030019
+Aplastic anaemias,D200011,590151000006112,Constitutional aplastic anaemia without malformation,28975000,48508019
+Aplastic anaemias,D200100,1216340010,Fanconi's familial refractory anaemia,30575002,1216340010
+Aplastic anaemias,D200111,1216339013,Fanconi's hypoplastic anaemia,30575002,1216339013
+Aplastic anaemias,D200200,399217012,Constitutional aplastic anaemia with malformation,267524009,399217012
+Aplastic anaemias,D200211,411515013,Pancytopenia-dysmelia,275523003,411515013
+Aplastic anaemias,D200300,399219010,Constitutional red cell aplasia and hypoplasia,267525005,399219010
+Aplastic anaemias,D200311,514821000006116,Blackfan - Diamond syndrome,5315003,496572011
+Aplastic anaemias,D200312,351128013,Congenital pure red cell aplasia,88854002,147324016
+Aplastic anaemias,D200313,351130010,Constitutional red cell hypoplasia,234373004,351130010
+Aplastic anaemias,D200314,351129017,Congenital red cell hypoplasia,88854002,147324016
+Aplastic anaemias,D200400,294178016,Erythrogenesis imperfecta,88854002,3664231018
+Aplastic anaemias,D200y00,294179012,Other specified constitutional aplastic anaemia,267525005,399219010
+Aplastic anaemias,D200z00,294182019,Constitutional aplastic anaemia NOS,267525005,399219010
+Aplastic anaemias,D201.00,497451015,Acquired aplastic anaemia,55907008,497451015
+Aplastic anaemias,D201.11,351070017,Normocytic anaemia due to aplasia,234343008,351070017
+Aplastic anaemias,D201000,294190019,Aplastic anaemia due to chronic disease,191244003,294190019
+Aplastic anaemias,D201100,399223019,Aplastic anaemia due to drugs,267527002,399223019
+Aplastic anaemias,D201111,787861000006116,Hypoplastic anaemia due to drug or chemical substance,267527002,399223019
+Aplastic anaemias,D201200,294198014,Aplastic anaemia due to infection,191246001,294198014
+Aplastic anaemias,D201211,787871000006111,Hypoplastic anaemia due to infection,191246001,294198014
+Aplastic anaemias,D201300,294202011,Aplastic anaemia due to radiation,191247005,294202011
+Aplastic anaemias,D201311,294201016,Radiation aplastic anaemia,191247005,294201016
+Aplastic anaemias,D201400,294203018,Aplastic anaemia due to toxic cause,191248000,294203018
+Aplastic anaemias,D201411,98611000006117,Toxic aplastic anaemia,191248000,294203018
+Aplastic anaemias,D201412,787891000006112,Hypoplastic anaemia due to toxic cause,191248000,294203018
+Aplastic anaemias,D201500,2478769014,Pancytopenia - acquired,5876000,2478769014
+Aplastic anaemias,D201600,399224013,Pancytopenia,127034005,322010
+Aplastic anaemias,D201611,399218019,Pancytopenia with malformation,127034005,322010
+Aplastic anaemias,D201612,351123016,Pancytopenia with pancreatitis,234367000,351123016
+Aplastic anaemias,D201700,294211011,Transient hypoplastic anaemia,191251007,294211011
+Aplastic anaemias,D201800,424321000006114,[X]Pure red cell aplasia,50715003,84523015
+Aplastic anaemias,D201z00,399225014,Acquired aplastic anaemia NOS,55907008,497451015
+Aplastic anaemias,D201z12,495763010,Red cell hypoplasia,50715003,495763010
+Aplastic anaemias,D201z13,152091000006116,Secondary red cell hypoplasia NEC,50715003,84523015
+Aplastic anaemias,D201z14,351126012,Secondary red cell aplasia NEC,50715003,84523015
+Aplastic anaemias,D202.00,149842011,Chronic acquired pure red cell aplasia,90414007,149842011
+Aplastic anaemias,D203.00,294222010,Transient acquired pure red cell aplasia,191255003,294222010
+Aplastic anaemias,D204.00,294223017,Idiopathic aplastic anaemia,191256002,294223017
+Aplastic anaemias,D20X.00,454501000006110,"Acquired pure red cell aplasia, unspecified",234370001,351127015
+Aplastic anaemias,D20z.00,294227016,Aplastic anaemia NOS,306058006,448863016
+Aplastic anaemias,Dyu2500,294609012,"[X]Acquired pure red cell aplasia, unspecified",234370001,351127015

@@ -1,0 +1,44 @@
+Condition,ReadCode,MedCodeId,Term,SnomedCTConceptId,SnomedCTDescriptionId
+Cerebral Palsy,38Gw.00,1883621000006119,Gross motor function classification system for cerebral palsy,707621005,3030870013
+Cerebral Palsy,F137.11,497021000006113,Athetoid cerebral palsy,75019001,124598014
+Cerebral Palsy,F137.12,450601010,Athetosis - congenital,307355007,450601010
+Cerebral Palsy,F137000,124598014,Athetoid cerebral palsy,75019001,124598014
+Cerebral Palsy,F137011,124599018,Vogt's disease,193497004,297977018
+Cerebral Palsy,F137100,27369019,Double athetosis,16171003,27369019
+Cerebral Palsy,F137111,450600011,Congenital athetosis,307355007,450600011
+Cerebral Palsy,F23..00,411453017,Congenital cerebral palsy,128188000,2995060017
+Cerebral Palsy,F23..11,411454011,Congenital spastic cerebral palsy,230773005,2995835018
+Cerebral Palsy,F23..12,345771011,Infantile cerebral palsy,128188000,2995381013
+Cerebral Palsy,F23..13,740431000006115,Littles disease,128188000,206411014
+Cerebral Palsy,F23..14,542541000006112,Cerebral atonia,128188000,206411014
+Cerebral Palsy,F230.00,411456013,Congenital diplegia,58193001,96717010
+Cerebral Palsy,F230.11,223801000000115,Paraplegia - congenital,192949002,297221013
+Cerebral Palsy,F230000,297221013,Congenital paraplegia,192949002,297221013
+Cerebral Palsy,F230100,543071000006115,Cerebral palsy with spastic diplegia,230773005,345773014
+Cerebral Palsy,F230111,1815931000006114,Spastic diplegic cerebral palsy,58193001,2168501000000119
+Cerebral Palsy,F230z00,297223011,Congenital diplegia NOS,58193001,96715019
+Cerebral Palsy,F231.00,72531016,Infantile hemiplegia,1593000,3769017
+Cerebral Palsy,F232.00,411455012,Congenital quadriplegia,275468009,411455012
+Cerebral Palsy,F232.11,110721000006114,Tetraplegia - congenital,275468009,411455012
+Cerebral Palsy,F233.00,497600015,Congenital monoplegia,56409008,497600015
+Cerebral Palsy,F233.11,345779013,Congenital spastic foot,230779009,345779013
+Cerebral Palsy,F234.00,297232013,Infantile hemiplegia NOS,1593000,3769017
+Cerebral Palsy,F23y.00,297233015,Other congenital cerebral palsy,128188000,206411014
+Cerebral Palsy,F23y000,297234014,Ataxic infantile cerebral palsy,278512001,2995485017
+Cerebral Palsy,F23y100,761411000006111,Flaccid infantile cerebral palsy,192958009,297235010
+Cerebral Palsy,F23y200,345773014,Spastic cerebral palsy,230773005,345773014
+Cerebral Palsy,F23y300,345780011,Dyskinetic cerebral palsy,230780007,345780011
+Cerebral Palsy,F23y400,2475877015,Ataxic diplegic cerebral palsy,58193001,96715019
+Cerebral Palsy,F23y500,557181000000116,Worster Drought syndrome,716335003,3305548017
+Cerebral Palsy,F23y511,551481000000119,Congenital suprabulbar paresis,716335003,3305547010
+Cerebral Palsy,F23y600,2283831000000117,Choreoathetoid cerebral palsy,885831000000109,2283831000000117
+Cerebral Palsy,F23yz00,297238012,Other infantile cerebral palsy NOS,128188000,206411014
+Cerebral Palsy,F23z.00,297239016,Congenital cerebral palsy NOS,128188000,2995060017
+Cerebral Palsy,F2B..00,206411014,Cerebral palsy,128188000,206411014
+Cerebral Palsy,F2B0.00,1815951000006119,Spastic quadriplegic cerebral palsy,48721008,3010116017
+Cerebral Palsy,F2B1.00,2122001000000116,Spastic hemiplegic cerebral palsy,813921000000104,2122001000000116
+Cerebral Palsy,F2By.00,1815971000006112,Other cerebral palsy,128188000,206411014
+Cerebral Palsy,F2Bz.00,1815981000006110,Cerebral palsy NOS,128188000,206411014
+Cerebral Palsy,Fyu9.00,299393011,[X]Cerebral palsy and other paralytic syndromes,408371000000100,897791000000110
+Cerebral Palsy,Fyu9000,299394017,[X]Other infantile cerebral palsy,128188000,206411014
+Cerebral Palsy,G669.00,451123015,"Cerebral palsy, not congenital or infantile, acute",307756005,451123015

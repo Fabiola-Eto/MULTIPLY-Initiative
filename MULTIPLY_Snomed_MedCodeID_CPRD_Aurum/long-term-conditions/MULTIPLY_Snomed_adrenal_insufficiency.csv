@@ -1,0 +1,17 @@
+Condition,ReadCode,MedCodeId,Term,SnomedCTConceptId,SnomedCTDescriptionId
+Adrenal insufficiency and Addison's disease,7122.00,485064014,Excision of adrenal gland operations,31904001,485064014
+Adrenal insufficiency and Addison's disease,7122000,266381013,Bilateral adrenalectomy and transposition of adrenal tissue,172021003,266381013
+Adrenal insufficiency and Addison's disease,7122100,266382018,Bilateral adrenalectomy,302340005,443963019
+Adrenal insufficiency and Addison's disease,A176.00,286325014,Tuberculosis of adrenal glands - Addison's disease,186270000,286325014
+Adrenal insufficiency and Addison's disease,C154.00,1491626013,Corticoadrenal insufficiency,386584007,1491626013
+Adrenal insufficiency and Addison's disease,C154000,482035011,Acute adrenal insufficiency,24867002,41675016
+Adrenal insufficiency and Addison's disease,C154011,460981000006112,Addisonian crisis,24867002,41675016
+Adrenal insufficiency and Addison's disease,C154012,41676015,Adrenal crisis,24867002,41675016
+Adrenal insufficiency and Addison's disease,C154100,485624014,Addison's disease,363732003,485624014
+Adrenal insufficiency and Addison's disease,C154600,41677012,Addisonian crisis,24867002,41675016
+Adrenal insufficiency and Addison's disease,C154z00,398809019,Corticoadrenal insufficiency NOS,386584007,1480726013
+Adrenal insufficiency and Addison's disease,C154z11,178805019,Adrenal hypofunction,237785004,3506672018
+Adrenal insufficiency and Addison's disease,C154z12,356317017,Adrenal insufficiency,386584007,1491625012
+Adrenal insufficiency and Addison's disease,C155.00,292837019,Hypoadrenalism,237785004,356349017
+Adrenal insufficiency and Addison's disease,C155z00,292838012,Other adrenal hypofunction NOS,237785004,356349017
+Adrenal insufficiency and Addison's disease,F395000,682621000006119,Myopathy due to Addison's disease,34253008,57198011

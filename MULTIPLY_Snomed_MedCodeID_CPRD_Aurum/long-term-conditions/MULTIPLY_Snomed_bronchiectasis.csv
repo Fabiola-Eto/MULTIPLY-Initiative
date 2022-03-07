@@ -1,0 +1,8 @@
+Condition,ReadCode,MedCodeId,Term,SnomedCTConceptId,SnomedCTDescriptionId
+Bronchiectasis,14BA.00,2404941000000118,H/O: bronchiectasis,939431000000108,2404941000000118
+Bronchiectasis,A115.00,38677017,Tuberculous bronchiectasis,23022004,38677017
+Bronchiectasis,H34..00,21163015,Bronchiectasis,12295008,21163015
+Bronchiectasis,H340.00,301524014,Recurrent bronchiectasis,195984007,301524014
+Bronchiectasis,H341.00,301525010,Post-infective bronchiectasis,195985008,301525010
+Bronchiectasis,H34z.00,301526011,Bronchiectasis NOS,12295008,21163015
+Bronchiectasis,P861.00,128792019,Congenital bronchiectasis,77593006,128792019

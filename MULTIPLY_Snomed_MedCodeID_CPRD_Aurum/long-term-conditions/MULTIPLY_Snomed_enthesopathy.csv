@@ -1,0 +1,207 @@
+Condition,ReadCode,MedCodeId,Term,SnomedCTConceptId,SnomedCTDescriptionId
+Enthesopathies & synovial disorders,7H40B11,825661000006117,Hitchcock operation for tenosynovitis of biceps brachii,264989003,393512011
+Enthesopathies & synovial disorders,7H40B12,742081000006112,Lippman operation for tenosynovitis of biceps brachii muscle,264989003,393512011
+Enthesopathies & synovial disorders,7H48700,745561000000112,Steroid injection for tenosynovitis,378521000000107,745561000000112
+Enthesopathies & synovial disorders,7H53500,745581000000115,Plastic repair of rotator cuff of shoulder NEC,178242000,275872015
+Enthesopathies & synovial disorders,7H53600,745601000000112,Revisional repair of rotator cuff NEC,429598009,2695428016
+Enthesopathies & synovial disorders,7H53700,745621000000115,Plastic repair of multiple tears of rotator cuff of shoulder,378551000000102,745621000000115
+Enthesopathies & synovial disorders,7H53800,1702051000006112,Revisional repair of multiple tears of rotator cuff of shoulder,441907007,2818526012
+Enthesopathies & synovial disorders,7K12900,164831000006110,Rotator cuff decompression - open acromioplasty,297709009,438266019
+Enthesopathies & synovial disorders,7K12911,754631000006114,Kessel rotator cuff decompression,297709009,438266019
+Enthesopathies & synovial disorders,7K12912,58891000006117,Watson rotator cuff decompression,297709009,438266019
+Enthesopathies & synovial disorders,7K12913,438266019,Open acromioplasty for decompression of rotator cuff,297709009,438266019
+Enthesopathies & synovial disorders,N04y300,1756301000006119,Remitting seronegative symmetrical synovitis with pitting oedema,445345005,2871569011
+Enthesopathies & synovial disorders,N101.00,17967011,Spinal enthesopathy,10317009,17967011
+Enthesopathies & synovial disorders,N21..00,311312013,Peripheral enthesopathies and allied syndromes,202836006,311312013
+Enthesopathies & synovial disorders,N210.00,219651000000111,Adhesive capsulitis of shoulder,399114005,1778574014
+Enthesopathies & synovial disorders,N210.11,219661000000114,Bursitis - shoulder,239961006,359546010
+Enthesopathies & synovial disorders,N210.12,1786699016,Frozen shoulder,399114005,1786699016
+Enthesopathies & synovial disorders,N211.00,311320010,Rotator cuff syndrome,4106009,8095011
+Enthesopathies & synovial disorders,N211000,400295013,"Rotator cuff syndrome, unspecified",4106009,8095011
+Enthesopathies & synovial disorders,N211011,1778711014,Supraspinatus syndrome,202841003,311325017
+Enthesopathies & synovial disorders,N211100,483645017,Calcifying tendinitis of the shoulder,27741009,483645017
+Enthesopathies & synovial disorders,N211200,68620010,Bicipital tenosynovitis,41137001,68620010
+Enthesopathies & synovial disorders,N211300,311325017,Supraspinatus tendinitis,202841003,311325017
+Enthesopathies & synovial disorders,N211400,311326016,Partial thickness rotator cuff tear,202842005,311326016
+Enthesopathies & synovial disorders,N211500,311327013,Full thickness rotator cuff tear,202843000,311327013
+Enthesopathies & synovial disorders,N211600,122681000006110,Subacromial bursitis,40799003,68050018
+Enthesopathies & synovial disorders,N211700,130615018,Subdeltoid bursitis,78715003,130615018
+Enthesopathies & synovial disorders,N211800,359546010,Bursitis of shoulder,239961006,359546010
+Enthesopathies & synovial disorders,N211z00,400296014,Rotator cuff syndrome NOS,4106009,8095011
+Enthesopathies & synovial disorders,N211z11,359542012,Painful arc syndrome,202841003,311325017
+Enthesopathies & synovial disorders,N211z12,68050018,Subacromial bursitis,40799003,68050018
+Enthesopathies & synovial disorders,N212.00,311333016,Other shoulder affections NEC,239954007,359538014
+Enthesopathies & synovial disorders,N212000,1786700015,Periarthritis of shoulder,399114005,1786700015
+Enthesopathies & synovial disorders,N212100,311335011,Scapulohumeral fibrositis,202848009,311335011
+Enthesopathies & synovial disorders,N212200,311336012,Subacromial impingement,202849001,311336012
+Enthesopathies & synovial disorders,N212300,311337015,Coracoid impingement,202850001,311337015
+Enthesopathies & synovial disorders,N212400,784571000006116,Impingement syndrome of shoulder region,239960007,359544013
+Enthesopathies & synovial disorders,N212500,140831000006110,Shoulder tendonitis,442520000,2819850013
+Enthesopathies & synovial disorders,N212z00,311340015,"Other shoulder affections NEC, NOS",239954007,359538014
+Enthesopathies & synovial disorders,N213.00,1228253018,Enthesopathy of elbow region,35185008,58710013
+Enthesopathies & synovial disorders,N213000,311341016,Elbow enthesopathy unspecified,35185008,58710013
+Enthesopathies & synovial disorders,N213100,713261000006110,Medial epicondylitis of elbow,53286005,496607014
+Enthesopathies & synovial disorders,N213111,496608016,Golfer's elbow,53286005,496608016
+Enthesopathies & synovial disorders,N213200,749561000006115,Lateral epicondylitis of elbow,202855006,311344012
+Enthesopathies & synovial disorders,N213211,311343018,Tennis elbow,202855006,311343018
+Enthesopathies & synovial disorders,N213300,2673129012,Olecranon bursitis,425940002,2674830012
+Enthesopathies & synovial disorders,N213400,311345013,Biceps tendinitis,202856007,311345013
+Enthesopathies & synovial disorders,N213500,311347017,Triceps tendinitis,202857003,311347017
+Enthesopathies & synovial disorders,N213z00,311348010,Elbow enthesopathy NOS,35185008,58710013
+Enthesopathies & synovial disorders,N214.00,646141000006114,Enthesopathy of wrist AND/OR carpus,33439002,55801014
+Enthesopathies & synovial disorders,N214000,73041019,Bursitis of wrist,43800000,73041019
+Enthesopathies & synovial disorders,N214100,95394012,Bursitis of hand,57356000,95394012
+Enthesopathies & synovial disorders,N214200,178460018,Periarthritis of wrist,111242007,178460018
+Enthesopathies & synovial disorders,N214300,2239701000000110,Carpometacarpal bossing,866511000000105,2239701000000110
+Enthesopathies & synovial disorders,N214z00,311350019,Wrist or carpus enthesopathy NOS,302936009,444972015
+Enthesopathies & synovial disorders,N215.00,646111000006110,Enthesopathy of hip region,30936004,51802011
+Enthesopathies & synovial disorders,N215000,311352010,"Hip enthesopathy, unspecified",30936004,51802011
+Enthesopathies & synovial disorders,N215100,135200013,Bursitis of hip,81498004,135200013
+Enthesopathies & synovial disorders,N215200,97681017,Gluteal tendinitis,58781003,97681017
+Enthesopathies & synovial disorders,N215300,139830015,Iliac crest spur,84308008,139830015
+Enthesopathies & synovial disorders,N215400,125702014,Psoas tendinitis,75680005,125702014
+Enthesopathies & synovial disorders,N215500,48884013,Trochanteric tendinitis,29210001,48884013
+Enthesopathies & synovial disorders,N215600,311353017,Adductor tendinitis,202863007,311353017
+Enthesopathies & synovial disorders,N215700,13682017,Trochanteric bursitis,7674000,13682017
+Enthesopathies & synovial disorders,N215800,20001010,Snapping hip,11568002,20001010
+Enthesopathies & synovial disorders,N215900,2649445015,Iliotibial band friction syndrome,423849004,2645786016
+Enthesopathies & synovial disorders,N215A00,359579010,Ischial bursitis,239993003,359579010
+Enthesopathies & synovial disorders,N215z00,311358014,Hip enthesopathy NOS,30936004,51802011
+Enthesopathies & synovial disorders,N216.00,646121000006119,Enthesopathy of knee region,39547005,1229540011
+Enthesopathies & synovial disorders,N216000,400297017,Bursitis of knee,111243002,178461019
+Enthesopathies & synovial disorders,N216011,221591000000112,Semimembranosus bursitis,240004005,359591018
+Enthesopathies & synovial disorders,N216012,359589014,Popliteal bursitis,240002009,359589014
+Enthesopathies & synovial disorders,N216100,311364019,Pes anserinus tendinitis and bursitis,202868003,311364019
+Enthesopathies & synovial disorders,N216200,73788010,Tibial collateral ligament bursitis,44245003,73788010
+Enthesopathies & synovial disorders,N216211,221601000000118,Calcification of medial collateral ligament of knee,60644007,100753018
+Enthesopathies & synovial disorders,N216300,128331014,Fibular collateral ligament bursitis,77323000,128331014
+Enthesopathies & synovial disorders,N216400,240041000006111,Patellar tendinitis,37785001,2440981000000113
+Enthesopathies & synovial disorders,N216500,28870010,Prepatellar bursitis,17059001,28870010
+Enthesopathies & synovial disorders,N216600,75415016,Infrapatellar bursitis,45231001,75415016
+Enthesopathies & synovial disorders,N216700,106668015,Subpatellar bursitis,64166009,106668015
+Enthesopathies & synovial disorders,N216800,311370013,Biceps femoris tendinitis,202872004,311370013
+Enthesopathies & synovial disorders,N216900,311371012,Semimembranosus tendinitis,202873009,311371012
+Enthesopathies & synovial disorders,N216z00,400298010,Knee enthesopathy NOS,39547005,66327012
+Enthesopathies & synovial disorders,N216z11,359590017,Suprapatellar bursitis,240003004,359590017
+Enthesopathies & synovial disorders,N217.00,646081000006116,Enthesopathy of ankle AND/OR tarsus,21409006,35940010
+Enthesopathies & synovial disorders,N217.11,359607015,Tarsus enthesopathy,240018003,359607015
+Enthesopathies & synovial disorders,N217000,311378018,Enthesopathy of lower leg and ankle region,302937000,444973013
+Enthesopathies & synovial disorders,N217100,311379014,Enthesopathy of the tarsus unspecified,240018003,359607015
+Enthesopathies & synovial disorders,N217300,334283017,Achilles bursitis,221695002,334283017
+Enthesopathies & synovial disorders,N217400,20135010,Achilles tendinitis,11654001,20135010
+Enthesopathies & synovial disorders,N217500,311383014,Tibialis anterior tendinitis,202880006,311383014
+Enthesopathies & synovial disorders,N217600,311384015,Tibialis posterior tendinitis,202881005,311384015
+Enthesopathies & synovial disorders,N217700,91871010,Calcaneal spur,55260003,91871010
+Enthesopathies & synovial disorders,N217800,88489011,Peroneal tendinitis,53208009,88489011
+Enthesopathies & synovial disorders,N217B00,311389013,Anterior ankle impingement,202884002,311389013
+Enthesopathies & synovial disorders,N217C00,311391017,Fibular impingement,202885001,311391017
+Enthesopathies & synovial disorders,N217z00,311392012,Ankle or tarsus enthesopathy NOS,302937000,444973013
+Enthesopathies & synovial disorders,N21y.00,311393019,Other peripheral enthesopathies,111239001,178457013
+Enthesopathies & synovial disorders,N21z.00,311396010,Enthesopathy,23680005,39756015
+Enthesopathies & synovial disorders,N21z000,311397018,Capsulitis,6858004,12348010
+Enthesopathies & synovial disorders,N21z100,311398011,Periarthritis,50921008,84846013
+Enthesopathies & synovial disorders,N21z200,400300010,Tendinitis,34840004,58144010
+Enthesopathies & synovial disorders,N21z211,109021000006119,Tendonitis NOS,34840004,58144010
+Enthesopathies & synovial disorders,N21z212,221611000000116,Bicipital tendinitis,202856007,311346014
+Enthesopathies & synovial disorders,N21z213,221621000000110,Tendonitis bicepital,202856007,311345013
+Enthesopathies & synovial disorders,N21z214,221631000000112,Adductor tendonitis,202863007,311353017
+Enthesopathies & synovial disorders,N21z215,311354011,Tendonitis adductor,202863007,311354011
+Enthesopathies & synovial disorders,N21z216,221641000000115,Supraspinatus tendonitis,202841003,311325017
+Enthesopathies & synovial disorders,N21zz00,311414010,Peripheral enthesopathy,111239001,178457013
+Enthesopathies & synovial disorders,N220.00,311416012,Synovitis and tenosynovitis,202900007,311416012
+Enthesopathies & synovial disorders,N220000,311417015,Synovitis or tenosynovitis NOS,202900007,311416012
+Enthesopathies & synovial disorders,N220100,311418013,Synovitis and tenosynovitis with disorders EC,202900007,311416012
+Enthesopathies & synovial disorders,N220300,87741000006114,Acquired trigger finger,1539003,3676015
+Enthesopathies & synovial disorders,N220311,493439016,Trigger thumb,42786005,493439016
+Enthesopathies & synovial disorders,N220312,137921000006118,Snapping fingers,1539003,3676015
+Enthesopathies & synovial disorders,N220313,710181000006116,Finger trigger,1539003,3676015
+Enthesopathies & synovial disorders,N220400,36572013,Radial styloid tenosynovitis,21794005,36572013
+Enthesopathies & synovial disorders,N220411,36573015,de Quervain's disease,21794005,36572013
+Enthesopathies & synovial disorders,N220412,493441015,Trigger thumb - acquired,42786005,493441015
+Enthesopathies & synovial disorders,N220413,101011000006114,Thumb trigger,42786005,493441015
+Enthesopathies & synovial disorders,N220500,400302019,Tenosynovitis,67801009,112616018
+Enthesopathies & synovial disorders,N220511,359561011,Tenosynovitis of hand,423778009,2645782019
+Enthesopathies & synovial disorders,N220512,359560012,Tenosynovitis of wrist,442048005,2818257013
+Enthesopathies & synovial disorders,N220513,109341000006111,Tenosynovitis of fingers,240036003,359630014
+Enthesopathies & synovial disorders,N220514,109031000006116,Tendonitis of thumb,67801009,112616018
+Enthesopathies & synovial disorders,N220600,311438014,Tenosynovitis of ankle,202907005,311438014
+Enthesopathies & synovial disorders,N220700,311439018,Tenosynovitis of foot,202908000,311439018
+Enthesopathies & synovial disorders,N220900,311441017,Plant thorn synovitis,202910003,311441017
+Enthesopathies & synovial disorders,N220A00,311442012,Flexor tenosynovitis of wrist,202911004,311442012
+Enthesopathies & synovial disorders,N220B00,311443019,Flexor tenosynovitis of finger,202912006,311443019
+Enthesopathies & synovial disorders,N220C00,311444013,Flexor tenosynovitis of thumb,202913001,311444013
+Enthesopathies & synovial disorders,N220D00,311445014,Extensor tenosynovitis of wrist,202914007,311445014
+Enthesopathies & synovial disorders,N220E00,311446010,Extensor tenosynovitis of finger,202915008,311446010
+Enthesopathies & synovial disorders,N220F00,311447018,Extensor tenosynovitis of thumb,202916009,311447018
+Enthesopathies & synovial disorders,N220G00,454631000006115,Acquired trigger thumb,42786005,493441015
+Enthesopathies & synovial disorders,N220H00,311448011,Achilles tenosynovitis,202917000,311448011
+Enthesopathies & synovial disorders,N220J00,311449015,Tibialis anterior tenosynovitis,202918005,311449015
+Enthesopathies & synovial disorders,N220K00,311450015,Tibialis posterior tenosynovitis,202919002,311450015
+Enthesopathies & synovial disorders,N220L00,311451016,Extensor hallucis longus tenosynovitis,202920008,311451016
+Enthesopathies & synovial disorders,N220M00,311452011,Extensor digitorum longus tenosynovitis,202921007,311452011
+Enthesopathies & synovial disorders,N220N00,311453018,Peroneus longus tenosynovitis,202922000,311453018
+Enthesopathies & synovial disorders,N220P00,311454012,Peroneus brevis tenosynovitis,202923005,311454012
+Enthesopathies & synovial disorders,N220Q00,311455013,Transient synovitis,202924004,311455013
+Enthesopathies & synovial disorders,N220R00,311456014,Chronic crepitant synovitis of hand and wrist,202925003,311456014
+Enthesopathies & synovial disorders,N220S00,311457017,Synovitis of hip,202926002,311457017
+Enthesopathies & synovial disorders,N220T00,312001000000116,Synovitis,416209007,2548712013
+Enthesopathies & synovial disorders,N220V00,359327010,Synovitis of knee,239817004,359327010
+Enthesopathies & synovial disorders,N220W00,359326018,Synovitis of elbow,239816008,359326018
+Enthesopathies & synovial disorders,N220X00,345741000000115,Synovitis of shoulder,239818009,345741000000115
+Enthesopathies & synovial disorders,N220Y00,1816911000006113,Irritable hip,301813003,443295011
+Enthesopathies & synovial disorders,N220z00,400303012,Other synovitis and tenosynovitis,202900007,311416012
+Enthesopathies & synovial disorders,N220z11,359328017,Shoulder synovitis,239818009,359328017
+Enthesopathies & synovial disorders,N220z12,113561000006116,Synovitis of knee,239817004,359327010
+Enthesopathies & synovial disorders,N220z13,113541000006115,Synovitis of elbow,239816008,359326018
+Enthesopathies & synovial disorders,N222000,128927013,Beat elbow,712484007,3526418012
+Enthesopathies & synovial disorders,N222100,49155011,Beat hand,57356000,95394012
+Enthesopathies & synovial disorders,N222200,62220010,Beat knee,17059001,3528942013
+Enthesopathies & synovial disorders,N222400,1231110011,Miners' knee,52334005,1231110011
+Enthesopathies & synovial disorders,N222z00,311469013,Specific bursitides NOS,84017003,139318017
+Enthesopathies & synovial disorders,N223.00,400304018,Bursitis,84017003,139318017
+Enthesopathies & synovial disorders,N223.11,359624014,Postcalcaneal bursitis,240033006,359624014
+Enthesopathies & synovial disorders,N224000,311475016,Synovial cyst,240205003,359843011
+Enthesopathies & synovial disorders,N224400,311481012,Cyst of bursa,202941002,311481012
+Enthesopathies & synovial disorders,N224A00,137149010,Synovial cyst of popliteal space,82675004,137149010
+Enthesopathies & synovial disorders,N224A11,137150010,Baker's cyst,82675004,137149010
+Enthesopathies & synovial disorders,N225.00,87886014,Rupture of synovium,52817008,87886014
+Enthesopathies & synovial disorders,N225000,311495010,"Rupture of synovium, unspecified",52817008,87886014
+Enthesopathies & synovial disorders,N225100,405344011,Rupture of popliteal space synovial cyst,270887007,405344011
+Enthesopathies & synovial disorders,N225111,359841013,Rupture of Baker's cyst - knee,240203005,359841013
+Enthesopathies & synovial disorders,N225112,359840014,Rupture of popliteal bursa,240202000,359840014
+Enthesopathies & synovial disorders,N225z00,311501012,Rupture of synovium NOS,52817008,87886014
+Enthesopathies & synovial disorders,N226.00,297691000006118,Non-traumatic tendon rupture,268002004,400306016
+Enthesopathies & synovial disorders,N226000,297701000006118,"Nontraumatic tendon rupture, unspecified",268002004,400306016
+Enthesopathies & synovial disorders,N226100,164821000006112,Rotator cuff complete rupture,202843000,311327013
+Enthesopathies & synovial disorders,N226200,510491000006113,Biceps tendon rupture,428883008,2921101018
+Enthesopathies & synovial disorders,N226300,311509014,Hand and wrist extensor tendon rupture,202961008,311509014
+Enthesopathies & synovial disorders,N226400,311510016,Hand and wrist flexor tendon rupture,202962001,311510016
+Enthesopathies & synovial disorders,N226500,1233051016,Quadriceps tendon rupture,6849006,1233051016
+Enthesopathies & synovial disorders,N226600,297681000006116,Nontraumatic rupture of patellar tendon,202963006,311511017
+Enthesopathies & synovial disorders,N226700,297671000006119,Non-traumatic rupture of Achilles tendon,202964000,311512012
+Enthesopathies & synovial disorders,N226800,311513019,Extensor digitorum communis rupture,202965004,311513019
+Enthesopathies & synovial disorders,N226900,657981000006117,Extensor pollicis longus rupture,209767002,320520016
+Enthesopathies & synovial disorders,N226A00,311515014,Long head of biceps rupture,202967007,311515014
+Enthesopathies & synovial disorders,N226C00,320526010,Flexor digitorum sublimis tendon rupture,209771004,320526010
+Enthesopathies & synovial disorders,N226D00,761911000006119,Flexor digitorum profundus tendon rupture,209772006,320527018
+Enthesopathies & synovial disorders,N226E00,311519015,Flexor pollicis longus tendon rupture,202971005,311519015
+Enthesopathies & synovial disorders,N226F00,311520014,Rupture of posterior tibial tendon,699312008,2983755011
+Enthesopathies & synovial disorders,N226G00,311521013,Peroneus longus rupture,202973008,311521013
+Enthesopathies & synovial disorders,N226M00,2532988017,Spontaneous rupture of flexor tendons,415575007,2532988017
+Enthesopathies & synovial disorders,N226N00,2532989013,Spontaneous rupture of extensor tendons,415574006,2532989013
+Enthesopathies & synovial disorders,N226y00,311526015,Rupture of tendon of foot and ankle,281550008,419585015
+Enthesopathies & synovial disorders,N226z00,25511000006117,Other nontraumatic tendon rupture,268002004,400306016
+Enthesopathies & synovial disorders,N23y900,158048010,Calcific tendinitis,95414005,158048010
+Enthesopathies & synovial disorders,Nyu9100,312647010,[X]Other synovitis and tenosynovitis,202900007,311416012
+Enthesopathies & synovial disorders,Nyu9200,312648017,[X]Spontaneous rupture of other tendons,268002004,400306016
+Enthesopathies & synovial disorders,NyuA000,312657011,Bursitis of elbow,712484007,3082242010
+Enthesopathies & synovial disorders,NyuA100,312658018,[X]Other bursitis of knee,111243002,178461019
+Enthesopathies & synovial disorders,NyuA200,312659014,[X]Other bursitis of hip,81498004,135200013
+Enthesopathies & synovial disorders,NyuA500,312662012,[X]Other bursal cyst,202941002,311481012
+Enthesopathies & synovial disorders,NyuA600,312663019,"[X]Other bursitis, not elsewhere classified",84017003,139318017
+Enthesopathies & synovial disorders,NyuAC00,312672010,"[X]Other enthesopathies of lower limb, excluding foot",312836001,456626011
+Enthesopathies & synovial disorders,NyuAD00,312673017,Enthesopathy of foot region,240028007,359617013
+Enthesopathies & synovial disorders,NyuAE00,312674011,"[X]Other enthesopathies, not elsewhere classified",23680005,39756015
+Enthesopathies & synovial disorders,NyuAJ00,312679018,Enthesopathy of lower limb,312836001,456626011
+Enthesopathies & synovial disorders,SK12500,2124011000000110,Injury of muscle of rotator cuff,733227000,3499028014
+Enthesopathies & synovial disorders,ZRBd.00,5550391000006114,Enthesitis index,273445002,408866010

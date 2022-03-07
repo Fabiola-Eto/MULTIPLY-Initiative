@@ -1,0 +1,29 @@
+Condition,ReadCode,MedCodeId,Term,SnomedCTConceptId,SnomedCTDescriptionId
+Gastritis and duodenitis,A074313,819571000006118,Helicobacter-associated gastritis,89538001,148452011
+Gastritis and duodenitis,J11z.11,353273019,Gastric erosions,235652004,353273019
+Gastritis and duodenitis,J123.00,353328012,Duodenal erosion,235692002,353328012
+Gastritis and duodenitis,J15..00,302616010,Gastritis and duodenitis,196731005,302616010
+Gastritis and duodenitis,J150.00,42686017,Acute gastritis,25458004,42686017
+Gastritis and duodenitis,J150000,478553011,Acute haemorrhagic gastritis,2367005,481682019
+Gastritis and duodenitis,J151.00,15005019,Chronic gastritis,8493009,15005019
+Gastritis and duodenitis,J151000,302619015,Chronic atrophic gastritis,84568007,140221013
+Gastritis and duodenitis,J151100,554831000006112,Chronic inflammatory gastritis,8493009,15005019
+Gastritis and duodenitis,J151200,302621013,Chronic superficial gastritis,196735001,302621013
+Gastritis and duodenitis,J151z00,302623011,Chronic gastritis NOS,8493009,15005019
+Gastritis and duodenitis,J152.00,99677013,Gastric mucosal hypertrophy,60002000,99677013
+Gastritis and duodenitis,J153.00,4525015,Alcoholic gastritis,2043009,4525015
+Gastritis and duodenitis,J154.00,302624017,Other specified gastritis,4556007,7841019
+Gastritis and duodenitis,J154000,4151013,Allergic gastritis,1824008,4151013
+Gastritis and duodenitis,J154100,511831000006115,Alkaline reflux gastritis,72950008,502298012
+Gastritis and duodenitis,J154200,70968018,Irritant gastritis,42541005,70968018
+Gastritis and duodenitis,J154300,302630017,Corrosive gastritis,196740009,302630017
+Gastritis and duodenitis,J154400,222841000000112,Helicobacter gastritis,89538001,148452011
+Gastritis and duodenitis,J154z00,302632013,Other specified gastritis NOS,4556007,7841019
+Gastritis and duodenitis,J155.00,302633015,Gastritis,4556007,7841019
+Gastritis and duodenitis,J156.00,302634014,Gastroduodenitis,196731005,2532163012
+Gastritis and duodenitis,J157.00,119655018,Duodenitis,72007001,119655018
+Gastritis and duodenitis,J15z.00,302635010,Gastritis and duodenitis NOS,196731005,302616010
+Gastritis and duodenitis,J4z0.00,303048019,Non-infective gastritis NOS,4556007,7841019
+Gastritis and duodenitis,Jyu1200,303749019,[X]Other acute gastritis,25458004,42686017
+Gastritis and duodenitis,Jyu1300,303750019,[X]Other gastritis,4556007,7841019
+Gastritis and duodenitis,ZV65316,1227775018,[V]Dietary counselling in gastritis,424753004,2645393015

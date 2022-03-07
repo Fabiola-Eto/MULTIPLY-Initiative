@@ -1,0 +1,4 @@
+Condition,ReadCode,MedCodeId,Term,SnomedCTConceptId,SnomedCTDescriptionId
+Hypertrophic Cardiomyopathy,G551.00,75410014,Hypertrophic obstructive cardiomyopathy,45227007,75410014
+Hypertrophic Cardiomyopathy,G554300,300038015,Hypertrophic non-obstructive cardiomyopathy,195020003,300038015
+Hypertrophic Cardiomyopathy,Gyu5M00,300910013,Hypertrophic cardiomyopathy,233873004,350415017

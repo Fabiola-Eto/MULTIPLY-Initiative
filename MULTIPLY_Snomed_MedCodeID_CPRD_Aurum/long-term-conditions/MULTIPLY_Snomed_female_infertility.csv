@@ -1,0 +1,53 @@
+Condition,ReadCode,MedCodeId,Term,SnomedCTConceptId,SnomedCTDescriptionId
+Female infertility,1597.00,252120016,H/O: infertility - female,161798008,252120016
+Female infertility,1597.11,252121017,H/O: female infertility,161798008,252121017
+Female infertility,1AZ2.11,779241000006115,Infertility,8619003,15222012
+Female infertility,3189100,256399019,Female infertility test abnormal,164820001,256399019
+Female infertility,6242.00,263130015,A/N care: H/O infertility,169589005,263130015
+Female infertility,8C8..00,86791000006115,Infertility therapy,65046005,108109017
+Female infertility,8C82.00,282947017,Female infertility therapy,183036001,282947017
+Female infertility,8C8Z.00,397174013,Treatment for infertility NOS,65046005,108109017
+Female infertility,8Cf..00,1483150015,Infertility care,389094009,1483150015
+Female infertility,K26y000,133297015,Infertility due to drug therapy,80330000,133297015
+Female infertility,K26y200,779151000006114,Infertility due to efferent duct obstruction,198014000,304460018
+Female infertility,K26y300,89449014,Infertility due to radiation,53821008,89449014
+Female infertility,K26y400,779201000006117,Secondary infertility,297121000,437580013
+Female infertility,K5B..00,779131000006119,Female infertility,6738008,12167015
+Female infertility,K5B0.00,396795017,Female infertility of anovulatory origin,266609001,396795017
+Female infertility,K5B0.11,396797013,Anovular cycle,266609001,396797013
+Female infertility,K5B0000,305102011,Primary anovulatory infertility,198445009,305102011
+Female infertility,K5B0100,305103018,Secondary anovulatory infertility,198446005,305103018
+Female infertility,K5B0z00,305104012,Female infertility of anovulatory origin NOS,237139007,355455017
+Female infertility,K5B1.00,305105013,Female infertility of pituitary - hypothalamic origin,198448006,305105013
+Female infertility,K5B1000,305106014,Primary pituitary - hypothalamic infertility,198449003,305106014
+Female infertility,K5B1100,305107017,Secondary pituitary - hypothalamic infertility,198450003,305107017
+Female infertility,K5B1z00,305108010,Female infertility of pituitary - hypothalamic cause NOS,198448006,305105013
+Female infertility,K5B2.00,66155016,Female infertility of tubal origin,39446004,66155016
+Female infertility,K5B2000,305109019,Primary tubal infertility,198452006,305109019
+Female infertility,K5B2100,305110012,Secondary tubal infertility,198453001,305110012
+Female infertility,K5B2300,355463016,Blocked fallopian tube,237143006,355463016
+Female infertility,K5B2z00,305112016,Female infertility of tubal origin NOS,39446004,66155016
+Female infertility,K5B3.00,45005010,Female infertility of uterine origin,26899006,45005010
+Female infertility,K5B3000,305113014,Primary uterine infertility,198456009,305113014
+Female infertility,K5B3100,305114015,Secondary uterine infertility,198457000,305114015
+Female infertility,K5B3z00,305115019,Female infertility of uterine origin NOS,26899006,45005010
+Female infertility,K5B4.00,6341018,Female infertility of cervical origin,3160009,6341018
+Female infertility,K5B4000,305116018,Primary cervical infertility,198459002,305116018
+Female infertility,K5B4100,305117010,Secondary cervical infertility,198460007,305117010
+Female infertility,K5B5.00,51600018,Female infertility of vaginal origin,30826006,51600018
+Female infertility,K5B5000,305122010,Primary vaginal infertility,198464003,305122010
+Female infertility,K5B5100,305123017,Secondary vaginal infertility,198465002,305123017
+Female infertility,K5B5z00,305124011,Female infertility of vaginal origin NOS,30826006,51600018
+Female infertility,K5B6.00,2536834014,Female infertility associated with male factors,414187003,2536834014
+Female infertility,K5B7.00,2674253018,Female infertility due to diminished ovarian reserve,427547007,2674253018
+Female infertility,K5By.00,305126013,Other female infertility,6738008,12167015
+Female infertility,K5By000,305127016,Primary infertility,297106006,437558010
+Female infertility,K5By100,305128014,Secondary female infertility,30238006,50614010
+Female infertility,K5Byz00,396798015,Other female infertility NOS,6738008,12167015
+Female infertility,K5Byz11,457148011,Subfertility,313279000,457148011
+Female infertility,K5Bz.00,305133013,Female infertility NOS,6738008,12167015
+Female infertility,Kyu9G00,305263011,[X]Female infertility of other origin,6738008,12167015
+Female infertility,ZV23000,460458015,[V]Pregnancy with history of infertility,169589005,263130015
+Female infertility,ZV26.00,460513011,Infertility care management,408966007,2470803017
+Female infertility,ZV26y00,460526010,[V]Other specified infertility management,399071000000103,1011381000000116
+Female infertility,ZV26z00,460527018,[V]Unspecified infertility management,427641000000106,1011391000000119

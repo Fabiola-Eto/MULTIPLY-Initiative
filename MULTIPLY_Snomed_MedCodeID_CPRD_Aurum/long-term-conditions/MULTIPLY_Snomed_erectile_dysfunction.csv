@@ -1,0 +1,20 @@
+Condition,ReadCode,MedCodeId,Term,SnomedCTConceptId,SnomedCTDescriptionId
+Erectile dysfunction,1ABB.00,371290017,Cannot get an erection,248773007,371290017
+Erectile dysfunction,1ABC.00,371298012,Cannot sustain an erection,248779006,371298012
+Erectile dysfunction,1D1B.00,1734321000000113,C/O erectile dysfunction,473327001,2242321000000110
+Erectile dysfunction,7A6G000,272294012,Revascularisation for impotence,175881006,272294012
+Erectile dysfunction,7A6G500,272299019,Ligation of penile veins for impotence,175886001,272299019
+Erectile dysfunction,7C25B00,273365014,Penile injection to produce erection,176566004,273365014
+Erectile dysfunction,7C25E00,369101000000114,Management of erectile dysfunction,851081000000105,2205041000000119
+Erectile dysfunction,7C25F00,489201000000110,Operations on penis for erectile dysfunction NEC,71588001,118923011
+Erectile dysfunction,8BB4.00,1768751000006113,Erectile dysfunction unresponsive to phosphodiesterase-5 inhibitor,707300000,3029856010
+Erectile dysfunction,8HTj.00,302271000000119,Referral to erectile dysfunction clinic,704048004,3010274018
+Erectile dysfunction,E227300,1777409015,Impotence,397803000,1777409015
+Erectile dysfunction,E227311,1786154013,Erectile dysfunction,397803000,2955652011
+Erectile dysfunction,Eu52200,384551000006110,Failure of genital response,268723003,401891015
+Erectile dysfunction,Eu52212,396141000006114,[X]Male erectile disorder,397803000,2955652011
+Erectile dysfunction,Eu52213,424011000006115,Psychogenic impotence,73491007,122034016
+Erectile dysfunction,K27y100,304501018,Impotence of organic origin,198036002,304501018
+Erectile dysfunction,K27y700,2243331000000115,Erectile dysfunction due to diabetes mellitus,867891000000101,2243331000000115
+Erectile dysfunction,Z9E9.00,5191041000006114,Provision of device for impotence,243754005,364563010
+Erectile dysfunction,ZG43600,5182251000006113,Advice on technique for impotence,243083002,363556018

@@ -1,0 +1,48 @@
+Condition,ReadCode,MedCodeId,Term,SnomedCTConceptId,SnomedCTDescriptionId
+"Pregnancy disorders: hypertension in pregnancy, eclampsia and pre-eclampsia",L12..00,790051000006114,"Hypertension complicating pregnancy, childbirth and the puerperium",198941007,305749016
+"Pregnancy disorders: hypertension in pregnancy, eclampsia and pre-eclampsia",L120.00,504831000006116,"Benign essential hypertension complicating pregnancy, childbirth and the puerperium",198942000,305750016
+"Pregnancy disorders: hypertension in pregnancy, eclampsia and pre-eclampsia",L120000,504811000006110,Benign essential hypertension in preg/childb/puerp unspec,86041002,142647015
+"Pregnancy disorders: hypertension in pregnancy, eclampsia and pre-eclampsia",L120100,504791000006111,"Benign essential hypertension complicating pregnancy, childbirth and the puerperium - delivered",198944004,305752012
+"Pregnancy disorders: hypertension in pregnancy, eclampsia and pre-eclampsia",L120300,504821000006119,"Benign essential hypertension complicating pregnancy, childbirth and the puerperium - not delivered",198946002,305754013
+"Pregnancy disorders: hypertension in pregnancy, eclampsia and pre-eclampsia",L120400,504781000006113,"Benign essential hypertension complicating pregnancy, childbirth and the puerperium with postnatal complication",198947006,305755014
+"Pregnancy disorders: hypertension in pregnancy, eclampsia and pre-eclampsia",L120z00,504801000006112,Benign essential hypertension in preg/childb/puerp NOS,86041002,142647015
+"Pregnancy disorders: hypertension in pregnancy, eclampsia and pre-eclampsia",L121.00,176971000006117,"Renal hypertension complicating pregnancy, childbirth and the puerperium",198949009,305757018
+"Pregnancy disorders: hypertension in pregnancy, eclampsia and pre-eclampsia",L121000,176961000006112,Renal hypertension in pregnancy/childbirth/puerp unspecified,198949009,305757018
+"Pregnancy disorders: hypertension in pregnancy, eclampsia and pre-eclampsia",L121100,176951000006110,"Renal hypertension complicating pregnancy, childbirth and the puerperium - delivered",198951008,305759015
+"Pregnancy disorders: hypertension in pregnancy, eclampsia and pre-eclampsia",L121200,176931000006115,"Renal hypertension complicating pregnancy, childbirth and the puerperium - delivered with postnatal complication",198952001,305760013
+"Pregnancy disorders: hypertension in pregnancy, eclampsia and pre-eclampsia",L121300,176941000006113,"Renal hypertension complicating pregnancy, childbirth and the puerperium - not delivered",198953006,305761012
+"Pregnancy disorders: hypertension in pregnancy, eclampsia and pre-eclampsia",L121z00,176981000006119,Renal hypertension in pregnancy/childbirth/puerperium NOS,198949009,305757018
+"Pregnancy disorders: hypertension in pregnancy, eclampsia and pre-eclampsia",L122.00,305764016,Other pre-existing hypertension in preg/childbirth/puerp,86041002,142647015
+"Pregnancy disorders: hypertension in pregnancy, eclampsia and pre-eclampsia",L122000,19451000006111,Other pre-existing hypertension in preg/childb/puerp unspec,86041002,142647015
+"Pregnancy disorders: hypertension in pregnancy, eclampsia and pre-eclampsia",L122100,19431000006116,Other pre-existing hypertension in preg/childb/puerp - deliv,86041002,142647015
+"Pregnancy disorders: hypertension in pregnancy, eclampsia and pre-eclampsia",L122300,19421000006119,Other pre-exist hypertension in preg/childb/puerp-not deliv,86041002,142647015
+"Pregnancy disorders: hypertension in pregnancy, eclampsia and pre-eclampsia",L122400,19411000006110,Other pre-exist hypertension in preg/childb/puerp + p/n comp,86041002,142647015
+"Pregnancy disorders: hypertension in pregnancy, eclampsia and pre-eclampsia",L122z00,19441000006114,Other pre-existing hypertension in preg/childb/puerp NOS,86041002,142647015
+"Pregnancy disorders: hypertension in pregnancy, eclampsia and pre-eclampsia",L123.00,95981000006112,Transient hypertension of pregnancy,237279007,355621014
+"Pregnancy disorders: hypertension in pregnancy, eclampsia and pre-eclampsia",L123000,305773012,Transient hypertension of pregnancy unspecified,237279007,355621014
+"Pregnancy disorders: hypertension in pregnancy, eclampsia and pre-eclampsia",L123100,305774018,Transient hypertension of pregnancy - delivered,198965005,305774018
+"Pregnancy disorders: hypertension in pregnancy, eclampsia and pre-eclampsia",L123200,96011000006114,Transient hypertension of pregnancy - delivered with postnatal complication,198966006,305775017
+"Pregnancy disorders: hypertension in pregnancy, eclampsia and pre-eclampsia",L123300,305776016,Transient hypertension of pregnancy - not delivered,198967002,305776016
+"Pregnancy disorders: hypertension in pregnancy, eclampsia and pre-eclampsia",L123400,96001000006111,Transient hypertension of pregnancy with postnatal complication,198968007,305777013
+"Pregnancy disorders: hypertension in pregnancy, eclampsia and pre-eclampsia",L123600,355621014,Transient hypertension of pregnancy,237279007,355621014
+"Pregnancy disorders: hypertension in pregnancy, eclampsia and pre-eclampsia",L123z00,305780014,Transient hypertension of pregnancy NOS,237279007,355621014
+"Pregnancy disorders: hypertension in pregnancy, eclampsia and pre-eclampsia",L127.00,305818015,Pre-eclampsia or eclampsia with pre-existing hypertension,198997005,305818015
+"Pregnancy disorders: hypertension in pregnancy, eclampsia and pre-eclampsia",L127000,213011000006113,Pre-eclampsia or eclampsia with hypertension unspecified,198997005,305818015
+"Pregnancy disorders: hypertension in pregnancy, eclampsia and pre-eclampsia",L127100,212991000006114,Pre-eclampsia or eclampsia with pre-existing hypertension - delivered,198999008,305820017
+"Pregnancy disorders: hypertension in pregnancy, eclampsia and pre-eclampsia",L127200,212981000006111,Pre-eclampsia or eclampsia with pre-existing hypertension - delivered with postnatal complication,199000005,305821018
+"Pregnancy disorders: hypertension in pregnancy, eclampsia and pre-eclampsia",L127300,213001000006110,Pre-eclampsia or eclampsia with pre-existing hypertension - not delivered,199002002,305823015
+"Pregnancy disorders: hypertension in pregnancy, eclampsia and pre-eclampsia",L127400,212971000006113,Pre-eclampsia or eclampsia with pre-existing hypertension with postnatal complication,199003007,305824014
+"Pregnancy disorders: hypertension in pregnancy, eclampsia and pre-eclampsia",L127z00,212961000006118,Pre-eclampsia or eclampsia + pre-existing hypertension NOS,198997005,305818015
+"Pregnancy disorders: hypertension in pregnancy, eclampsia and pre-eclampsia",L128.00,213111000006112,"Pre-existing hypertension complicating pregnancy, childbirth and puerperium",199005000,305826011
+"Pregnancy disorders: hypertension in pregnancy, eclampsia and pre-eclampsia",L128000,213091000006115,"Pre-existing hypertensive heart disease complicating pregnancy, childbirth and the puerperium",199006004,305827019
+"Pregnancy disorders: hypertension in pregnancy, eclampsia and pre-eclampsia",L128200,213081000006118,"Pre-existing secondary hypertension complicating pregnancy, childbirth and puerperium",199008003,305829016
+"Pregnancy disorders: hypertension in pregnancy, eclampsia and pre-eclampsia",L12B.00,494622019,Proteinuric hypertension of pregnancy,398254007,1786188019
+"Pregnancy disorders: hypertension in pregnancy, eclampsia and pre-eclampsia",L12z.00,76691000006119,Unspecified hypertension in pregnancy/childbirth/puerperium,198941007,305749016
+"Pregnancy disorders: hypertension in pregnancy, eclampsia and pre-eclampsia",L12z000,76671000006115,Unspecified hypertension in preg/childb/puerp unspecified,48194001,80299016
+"Pregnancy disorders: hypertension in pregnancy, eclampsia and pre-eclampsia",L12z100,76631000006118,Pregnancy-induced hypertension,48194001,80299016
+"Pregnancy disorders: hypertension in pregnancy, eclampsia and pre-eclampsia",L12z200,76651000006113,Unspecified hypertension in preg/childb/puerp -del +p/n comp,199015006,305837012
+"Pregnancy disorders: hypertension in pregnancy, eclampsia and pre-eclampsia",L12z300,76641000006111,Unspecified hypertension in preg/childb/puerp - not deliv,48194001,80299016
+"Pregnancy disorders: hypertension in pregnancy, eclampsia and pre-eclampsia",L12z400,76681000006117,Unspecified hypertension in preg/childb/puerp with p/n comp,199018008,305841011
+"Pregnancy disorders: hypertension in pregnancy, eclampsia and pre-eclampsia",L12zz00,76661000006110,Unspecified hypertension in preg/childb/puerp NOS,48194001,80299016
+"Pregnancy disorders: hypertension in pregnancy, eclampsia and pre-eclampsia",L16C.00,213861000006116,Pregnancy induced oedema+proteinuria without hypertension,199139003,306010018
+"Pregnancy disorders: hypertension in pregnancy, eclampsia and pre-eclampsia",Lyu1.00,403581000006112,"[X]Oedema, proteinuria and hypertensive disorders in pregnancy, childbirth and the puerperium",198609003,305277014

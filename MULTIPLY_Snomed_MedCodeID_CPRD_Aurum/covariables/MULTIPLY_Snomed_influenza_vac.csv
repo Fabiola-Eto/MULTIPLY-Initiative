@@ -1,0 +1,85 @@
+Condition,ReadCode,MedCodeId,Term,SnomedCTConceptId,SnomedCTDescriptionId
+Influenza vaccination,14b3.00,1136091000000113,History of influenza vaccination,473169009,2955980010
+Influenza vaccination,14LJ.00,460150015,Influenza vaccine allergy,294647003,434938013
+Influenza vaccination,2J63.00,1560361000000115,High priority for influenza A subtype H1N1 vaccination,711831000000107,1560361000000115
+Influenza vaccination,65b..00,407721000000118,Haemophilus influenzae type B and meningitis C vaccination,428975001,1664081000000114
+Influenza vaccination,65b0.00,1766771000006119,First Haemophilus influenzae type B and meningitis C vaccination,712834006,3285842011
+Influenza vaccination,65b1.00,1766781000006116,Second Haemophilus influenzae type B and meningitis C vaccination,764141000000106,1694961000000116
+Influenza vaccination,65E..00,142934010,Influenza vaccination,86198006,142934010
+Influenza vaccination,65E0.00,308411000000113,First pandemic influenza vaccination,202301000000106,308411000000113
+Influenza vaccination,65E1.00,308441000000114,Second pandemic influenza vaccination,202311000000108,308441000000114
+Influenza vaccination,65E2.00,753841000000112,Influenza vaccination given by other healthcare provider,955641000000103,2437071000000113
+Influenza vaccination,65E2000,1811611000006112,Seasonal influenza vaccination given by other healthcare provider,955651000000100,2437091000000112
+Influenza vaccination,65E5.00,1724231000006113,CELVAPAN - first influenza A (H1N1v) 2009 vaccination given,515291000000105,1145841000000119
+Influenza vaccination,65E6.00,1724241000006115,CELVAPAN - second influenza A (H1N1v) 2009 vaccination given,515321000000100,1145881000000110
+Influenza vaccination,65E9.00,1724271000006111,PANDEMRIX - first influenza A (H1N1v) 2009 vaccination given,515281000000108,1145821000000114
+Influenza vaccination,65EA.00,1724281000006114,PANDEMRIX - second influenza A (H1N1v) 2009 vaccination given,515301000000109,1145861000000118
+Influenza vaccination,65ED.00,2142081000000112,Seasonal influenza vaccination,822851000000102,2142081000000112
+Influenza vaccination,65ED000,2200881000000110,Seasonal influenza vaccination given by pharmacist,955691000000108,2437171000000112
+Influenza vaccination,65ED200,1884481000006115,Seasonal influenza vaccination given while hospital inpatient,955701000000108,2437191000000111
+Influenza vaccination,65EE.00,2244031000000119,Administration of intranasal influenza vaccination,868241000000109,2244031000000119
+Influenza vaccination,65EE000,2252131000000112,Administration of first intranasal influenza vaccination,871751000000104,2252131000000112
+Influenza vaccination,65EE100,2252191000000113,Administration of second intranasal influenza vaccination,871781000000105,2252191000000113
+Influenza vaccination,6797000,2348481000000113,Education about influenza vaccination,913961000000102,2348481000000113
+Influenza vaccination,68NE000,2244651000000119,No consent for seasonal influenza vaccination,868491000000103,2244651000000119
+Influenza vaccination,68Nr.00,749241000000111,Consent given for pandemic influenza vaccination,380271000000101,749241000000111
+Influenza vaccination,68Ns.00,1724311000006111,No consent for influenza A (H1N1v) 2009 vaccination,515371000000101,1145981000000115
+Influenza vaccination,68Nt.00,1158771000000112,Consent given for influenza A subtype H1N1 vaccination,518961000000102,1158771000000112
+Influenza vaccination,68Nu.00,1149291000000110,No response to influenza vaccination invitation,516101000000103,1149291000000110
+Influenza vaccination,68NV000,2142381000000114,Consent given for seasonal influenza vaccination,822991000000104,2142381000000114
+Influenza vaccination,8BQ1.00,2395701000000111,Long term indication for seasonal influenza vaccination,935351000000106,2395701000000111
+Influenza vaccination,8I23100,1907171000006110,Haemophilus influenzae type b and meningitis C vaccination contraindicated,897331000000109,2308551000000112
+Influenza vaccination,8I2d.00,749991000000113,Pandemic influenza vaccination contraindicated,380631000000100,749991000000113
+Influenza vaccination,8I2F.00,1484830012,Influenza vaccination contraindicated,390796006,1484830012
+Influenza vaccination,8I2F000,2142301000000116,Seasonal influenza vaccination contraindicated,822951000000107,2142301000000116
+Influenza vaccination,8I6D.00,2159174015,Influenza vaccination not indicated,407573008,2159174015
+Influenza vaccination,8I6D000,2142341000000118,Seasonal influenza vaccination not indicated,822971000000103,2142341000000118
+Influenza vaccination,8I6g.00,750401000000118,Pandemic influenza vaccination not indicated,380801000000105,750401000000118
+Influenza vaccination,8IA4.00,1627301000006114,Haemophilus influenzae type B and meningitis C vaccination declined,299161000000100,529081000000112
+Influenza vaccination,8IAG.00,749451000000113,Pandemic influenza vaccination declined,380381000000108,749451000000113
+Influenza vaccination,8ME..00,1756791000000118,Influenza vaccination requested,736818002,3525144014
+Influenza vaccination,9N4q.00,301281000000110,Did not attend flu vaccination appointment,199331000000106,301281000000110
+Influenza vaccination,9N4q000,1551781000000113,Did not attend influenza A virus subtype H1N1 vaccination,710151000000101,1551781000000113
+Influenza vaccination,9N4q100,1886551000006116,Did not attend first intranasal seasonal influenza vaccination,882181000000108,2275211000000115
+Influenza vaccination,9N4q200,1886561000006119,Did not attend first intranasal pandemic influenza vaccination,886071000000108,2283541000000111
+Influenza vaccination,9N4q300,1886571000006114,Did not attend second intranasal seasonal influenza vaccination,882141000000100,2275131000000115
+Influenza vaccination,9N4z300,1742151000006117,Did not attend haemophilus influenzae type B and meningitis C vaccination,519421000000105,1159761000000110
+Influenza vaccination,9OX..11,17131000000110,Flu vaccination administration,714801000000104,1567091000000111
+Influenza vaccination,9OX1.00,285858017,Has 'flu vaccination at home,185900003,285858017
+Influenza vaccination,9OX2.00,285859013,Has'flu vaccination at surgery,185901004,285859013
+Influenza vaccination,9OX3.00,816791000006117,Has influenza vaccination at hospital,185902006,285861016
+Influenza vaccination,9OX5.00,460159019,Influenza vaccination declined,315640000,460159019
+Influenza vaccination,9OX5000,1660601000000116,Influenza A virus subtype H1N1 vaccination declined,698950001,2981921011
+Influenza vaccination,9OX5100,2142261000000114,Seasonal influenza vaccination declined,822931000000100,2142261000000114
+Influenza vaccination,9OX5200,2251621000000112,First intranasal influenza vaccination declined,871521000000104,2251621000000112
+Influenza vaccination,9OX5300,2251661000000116,Second intranasal influenza vaccination declined,871541000000106,2251661000000116
+Influenza vaccination,9OX5400,2283331000000110,First intranasal seasonal influenza vaccination declined,885971000000103,2283331000000110
+Influenza vaccination,9OX5500,2283371000000112,First intranasal pandemic influenza vaccination declined,885991000000104,2283371000000112
+Influenza vaccination,9OX5600,2283411000000111,Second intranasal seasonal influenza vaccination declined,886011000000103,2283411000000111
+Influenza vaccination,9OX5700,2283461000000113,Second intranasal pandemic influenza vaccination declined,886031000000106,2283461000000113
+Influenza vaccination,9OX6.00,460160012,Influenza vaccination invitation letter sent,315641001,460160012
+Influenza vaccination,9OX7.00,2533631013,Invitation by telephone for influenza vaccination,737041000,3526434010
+Influenza vaccination,9OX7000,2225021000000117,Influenza vaccination first telephone invitation,1095821000000105,2744651000000113
+Influenza vaccination,9OX7100,2225061000000113,Influenza vaccination second telephone invitation,1095831000000107,2744671000000116
+Influenza vaccination,9OX7200,2225181000000117,Influenza vaccination third telephone invitation,1095841000000103,2744691000000117
+Influenza vaccination,9OX8.00,2549468013,Has influenza vaccination at work,416928007,2549468013
+Influenza vaccination,9OX9.00,304131000000118,Influenza vaccination invitation first letter sent,200481000000107,304131000000118
+Influenza vaccination,9OXA.00,304161000000111,Influenza vaccination invitation second letter sent,200491000000109,304161000000111
+Influenza vaccination,9OXB.00,304191000000117,Influenza vaccination invitation third letter sent,200501000000103,304191000000117
+Influenza vaccination,9OXC.00,1755651000006115,Influenza vaccination invitation short message service text message sent,711301000000108,1555071000000111
+Influenza vaccination,9OXC100,1770291000006119,Influenza vaccination invitation first short message service text message sent,777791000000102,1738691000000111
+Influenza vaccination,9OXC200,1770301000006118,Influenza vaccination invitation second short message service text message sent,777831000000109,1738801000000117
+Influenza vaccination,9OXC300,1770311000006115,Influenza vaccination invitation third short message service text message sent,777851000000102,1738861000000118
+Influenza vaccination,9OXD.00,1686591000000110,Influenza vaccination verbal invitation,761311000000109,1686591000000110
+Influenza vaccination,9OXD000,2224941000000112,Influenza vaccination first verbal invitation,860151000000103,2224941000000112
+Influenza vaccination,9OXD100,2224981000000116,Influenza vaccination second verbal invitation,860171000000107,2224981000000116
+Influenza vaccination,9OXD200,2225221000000110,Influenza vaccination third verbal invitation,860291000000101,2225221000000110
+Influenza vaccination,9OXE.00,2191791000000112,Influenza vaccination invitation email,844941000000103,2191791000000112
+Influenza vaccination,9OXE000,2191831000000117,Influenza vaccination invitation first email,844961000000102,2191831000000117
+Influenza vaccination,9OXE100,2191871000000115,Influenza vaccination invitation second email,844981000000106,2191871000000115
+Influenza vaccination,9OXE200,2191911000000118,Influenza vaccination invitation third email,845001000000101,2191911000000118
+Influenza vaccination,F034G00,296887012,Post influenza vaccination encephalitis,192721000,296887012
+Influenza vaccination,U60K400,931801000006112,Influenza virus vaccine adverse reaction,420113004,2578720016
+Influenza vaccination,ZV04800,460224014,Influenza vaccine needed,1411000119106,2916683016
+Influenza vaccination,ZV04811,1227545013,[V]Flu - influenza vaccination,1411000119106,2916683016
+Influenza vaccination,ZV14F00,2159195013,[V]Personal history of influenza vaccine allergy,294647003,434938013

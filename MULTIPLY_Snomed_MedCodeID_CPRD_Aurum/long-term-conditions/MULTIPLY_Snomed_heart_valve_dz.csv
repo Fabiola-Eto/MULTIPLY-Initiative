@@ -1,0 +1,124 @@
+Condition,ReadCode,MedCodeId,Term,SnomedCTConceptId,SnomedCTDescriptionId
+Heart valve disease non-rheumatic,7910.00,394276014,Plastic repair of mitral valve,265472007,394276014
+Heart valve disease non-rheumatic,7910.11,1478969019,Mitral valvuloplasty,384642005,1478969019
+Heart valve disease non-rheumatic,7910.12,88255012,Replacement of mitral valve,53059001,88255012
+Heart valve disease non-rheumatic,7910000,478011000006110,Allograft replacement of mitral valve,174918001,270924018
+Heart valve disease non-rheumatic,7910100,55901000006111,Xenograft replacement of mitral valve,174919009,270925017
+Heart valve disease non-rheumatic,7910200,204181000006117,Mechanical prosthetic mitral valve replacement,431339008,2768408010
+Heart valve disease non-rheumatic,7910211,514511000006110,Bjork-Shiley prosthetic replacement of mitral valve,232773001,348739017
+Heart valve disease non-rheumatic,7910212,348739017,Bjork-Shiley prosthetic replacement of mitral valve,232773001,348739017
+Heart valve disease non-rheumatic,7910213,538921000006110,Carpentier prosthetic replacement of mitral valve,431339008,2768408010
+Heart valve disease non-rheumatic,7910214,636731000006119,Edwards prosthetic replacement of mitral valve,431339008,2768408010
+Heart valve disease non-rheumatic,7910300,270932014,Replacement of mitral valve NEC,53059001,88255012
+Heart valve disease non-rheumatic,7910400,270933016,Mitral valvuloplasty NEC,384642005,1478969019
+Heart valve disease non-rheumatic,7910411,465571000000117,Repair of mitral valve,384641003,1478968010
+Heart valve disease non-rheumatic,7910y00,270934010,Other specified plastic repair of mitral valve,265472007,394276014
+Heart valve disease non-rheumatic,7910z00,270935011,Plastic repair of mitral valve NOS,265472007,394276014
+Heart valve disease non-rheumatic,7911.00,394277017,Plastic repair of aortic valve,265473002,394277017
+Heart valve disease non-rheumatic,7911000,270944012,Allograft replacement of aortic valve,174927000,270944012
+Heart valve disease non-rheumatic,7911300,270949019,Replacement of aortic valve NEC,26212005,43909016
+Heart valve disease non-rheumatic,7911400,270950019,Aortic valvuloplasty NEC,112816004,188662011
+Heart valve disease non-rheumatic,7911500,1716111000006113,Transapical implantation of aortic valve,443887000,2842340013
+Heart valve disease non-rheumatic,7911y00,270951015,Other specified plastic repair of aortic valve,265473002,394277017
+Heart valve disease non-rheumatic,7911z00,270952010,Plastic repair of aortic valve NOS,265473002,394277017
+Heart valve disease non-rheumatic,7912.00,394278010,Plastic repair of tricuspid valve,265474008,394278010
+Heart valve disease non-rheumatic,7912.11,42309019,Replacement of tricuspid valve,25236004,1224851015
+Heart valve disease non-rheumatic,7912.12,2536641017,Tricuspid valvuloplasty,384643000,2536641017
+Heart valve disease non-rheumatic,7912000,478051000006111,Allograft replacement of tricuspid valve,174935002,270959018
+Heart valve disease non-rheumatic,7912100,55921000006118,Xenograft replacement of tricuspid valve,174936001,270960011
+Heart valve disease non-rheumatic,7912200,204241000006119,Prosthetic replacement of tricuspid valve,174937005,270962015
+Heart valve disease non-rheumatic,7912300,270963013,Replacement of tricuspid valve,25236004,42309019
+Heart valve disease non-rheumatic,7912500,270966017,Tricuspid valvuloplasty NEC,384643000,1478970018
+Heart valve disease non-rheumatic,7912511,465521000000116,Tricuspid valve repair NEC,384643000,1478970018
+Heart valve disease non-rheumatic,7912y00,270967014,Other specified plastic repair of tricuspid valve,265474008,394278010
+Heart valve disease non-rheumatic,7912z00,270968016,Plastic repair of tricuspid valve NOS,265474008,394278010
+Heart valve disease non-rheumatic,7915000,270998011,Revision of plastic repair of mitral valve,174960002,270998011
+Heart valve disease non-rheumatic,7915200,271000016,Revision of plastic repair of tricuspid valve,174962005,271000016
+Heart valve disease non-rheumatic,7916000,271010013,Open mitral valvotomy,174967004,271010013
+Heart valve disease non-rheumatic,7916100,271011012,Open aortic valvotomy,174968009,271011012
+Heart valve disease non-rheumatic,7916200,271012017,Open tricuspid valvotomy,174969001,271012017
+Heart valve disease non-rheumatic,7917000,499818013,Closed mitral valvotomy,6433003,499818013
+Heart valve disease non-rheumatic,7917100,1219795015,Closed aortic valvotomy,112814001,1219795015
+Heart valve disease non-rheumatic,7917200,474766017,Closed tricuspid valvotomy,129243001,474766017
+Heart valve disease non-rheumatic,7918000,271030012,Annuloplasty of mitral valve,174980001,271030012
+Heart valve disease non-rheumatic,7918100,394285014,Annuloplasty of tricuspid valve,265480000,394285014
+Heart valve disease non-rheumatic,7918111,348762015,De Vega tricuspid annuloplasty,232783002,348762015
+Heart valve disease non-rheumatic,7918400,348798011,Closure of tricuspid valve,232808000,348798011
+Heart valve disease non-rheumatic,7919000,271043012,Percutaneous transluminal mitral valvotomy,174987003,271043012
+Heart valve disease non-rheumatic,7919100,271044018,Percutaneous transluminal aortic valvotomy,174988008,271044018
+Heart valve disease non-rheumatic,7919200,271045017,Percutaneous transluminal tricuspid valvotomy,174989000,271045017
+Heart valve disease non-rheumatic,791D000,348801017,Tricuspid valvectomy,232811004,348801017
+Heart valve disease non-rheumatic,G11..00,219511000000113,Mitral valve disease,11851006,444757013
+Heart valve disease non-rheumatic,G110.00,1234383014,Mitral stenosis,79619009,1234383014
+Heart valve disease non-rheumatic,G112.12,299593012,Mitral stenosis with incompetence,194726006,299593012
+Heart valve disease non-rheumatic,G112.13,299592019,Mitral stenosis with regurgitation,194726006,299592019
+Heart valve disease non-rheumatic,G114.00,159271000006119,Ruptured mitral valve cusp,251003004,374137013
+Heart valve disease non-rheumatic,G11z.00,299596016,Mitral valve disease NOS,11851006,444757013
+Heart valve disease non-rheumatic,G13..00,299602018,Diseases of mitral and aortic valves,194732001,299602018
+Heart valve disease non-rheumatic,G130.00,299603011,Mitral and aortic stenosis,194733006,299603011
+Heart valve disease non-rheumatic,G131.00,299604017,Mitral stenosis and aortic insufficiency,194734000,299604017
+Heart valve disease non-rheumatic,G131.13,299606015,Mitral stenosis and aortic incompetence,194734000,299606015
+Heart valve disease non-rheumatic,G131.14,299605016,Mitral stenosis and aortic regurgitation,194734000,299605016
+Heart valve disease non-rheumatic,G132.00,299609010,Mitral insufficiency and aortic stenosis,194735004,299609010
+Heart valve disease non-rheumatic,G132.12,299607012,Mitral incompetence and aortic stenosis,194735004,299607012
+Heart valve disease non-rheumatic,G132.13,299608019,Mitral regurgitation and aortic stenosis,194735004,299608019
+Heart valve disease non-rheumatic,G133.00,299610017,Mitral and aortic incompetence,194736003,299610017
+Heart valve disease non-rheumatic,G133.11,299611018,Mitral and aortic insufficiency,194736003,299611018
+Heart valve disease non-rheumatic,G133.12,299612013,Mitral and aortic regurgitation,194736003,299612013
+Heart valve disease non-rheumatic,G13y.00,299613015,Multiple mitral and aortic valve involvement,194732001,299602018
+Heart valve disease non-rheumatic,G13z.00,299614014,Mitral and aortic valve disease NOS,194732001,299602018
+Heart valve disease non-rheumatic,G140.00,299616011,Tricuspid valve disease,20721001,1222524014
+Heart valve disease non-rheumatic,G140111,87501000006118,Rheumatic tricuspid regurgitation,67696008,1232959011
+Heart valve disease non-rheumatic,G140112,1232958015,Tricuspid incompetence - rheumatic,67696008,1232958015
+Heart valve disease non-rheumatic,G140200,299620010,Rheumatic tricuspid stenosis and insufficiency,194741006,299620010
+Heart valve disease non-rheumatic,G140300,299621014,"Tricuspid stenosis, cause unspecified",49915006,83138015
+Heart valve disease non-rheumatic,G140400,299622019,Tricuspid valve regurgitation,111287006,178507019
+Heart valve disease non-rheumatic,G140412,1222306011,"Tricuspid incompetence, cause unspecified",111287006,178507019
+Heart valve disease non-rheumatic,G140413,1222307019,"Tricuspid regurgitation, cause unspecified",111287006,178507019
+Heart valve disease non-rheumatic,G140500,299623012,"Tricuspid stenosis and insufficiency, cause unspecified",49915006,83138015
+Heart valve disease non-rheumatic,G140514,1222308012,"Tricuspid stenosis and regurgitation, cause unspecified",49915006,83138015
+Heart valve disease non-rheumatic,G540.00,81191015,Mitral valve incompetence,48724000,81193017
+Heart valve disease non-rheumatic,G540.12,81192010,Mitral valve insufficiency,48724000,81192010
+Heart valve disease non-rheumatic,G540.14,81186016,Mitral valve regurgitation,48724000,81186016
+Heart valve disease non-rheumatic,G540.15,700891000006114,Mitral valve prolapse,409712001,2471474013
+Heart valve disease non-rheumatic,G540.16,81193017,Mitral regurgitation,48724000,81193017
+Heart valve disease non-rheumatic,G540000,299980014,"Mitral incompetence, non-rheumatic",194978002,299980014
+Heart valve disease non-rheumatic,G540100,299981013,"Mitral incompetence, cause unspecified",48724000,81186016
+Heart valve disease non-rheumatic,G540200,2471474013,Mitral valve prolapse,409712001,2471474013
+Heart valve disease non-rheumatic,G540300,374120018,Mitral valve leaf prolapse,250989005,374120018
+Heart valve disease non-rheumatic,G540z00,299984017,Mitral valve disorder,11851006,20449013
+Heart valve disease non-rheumatic,G541.00,488521000006118,Aortic valve disease,8722008,1235209017
+Heart valve disease non-rheumatic,G541000,299985016,"Aortic incompetence, non-rheumatic",194983005,299985016
+Heart valve disease non-rheumatic,G541011,299987012,"Aortic insufficiency, non-rheumatic",194983005,299987012
+Heart valve disease non-rheumatic,G541012,299986015,"Aortic regurgitation, non-rheumatic",194983005,299986015
+Heart valve disease non-rheumatic,G541100,299988019,"Aortic stenosis, non-rheumatic",194984004,299988019
+Heart valve disease non-rheumatic,G541200,299989010,Aortic valve regurgitation,60234000,100055018
+Heart valve disease non-rheumatic,G541211,1222314017,"Aortic insufficiency alone, cause unspecified",60234000,100055018
+Heart valve disease non-rheumatic,G541212,1222315016,"Aortic regurgitation alone, cause unspecified",60234000,100055018
+Heart valve disease non-rheumatic,G541300,299990018,Aortic valve stenosis,60573004,100633013
+Heart valve disease non-rheumatic,G541400,299991019,Aortic valve stenosis with insufficiency,194987006,299991019
+Heart valve disease non-rheumatic,G541500,1232103019,Aortic valve stenosis,60573004,100633013
+Heart valve disease non-rheumatic,G541600,112523010,Aortic valve sclerosis,67754003,112523010
+Heart valve disease non-rheumatic,G541700,374104011,Aortic valve calcification,250978003,374104011
+Heart valve disease non-rheumatic,G541z00,299992014,Aortic valve disorder,8722008,15387019
+Heart valve disease non-rheumatic,G542.00,299993016,"Tricuspid valve disorders, non-rheumatic",194989009,299993016
+Heart valve disease non-rheumatic,G542000,299994010,"Tricuspid incompetence, non-rheumatic",194990000,299994010
+Heart valve disease non-rheumatic,G542011,299995011,"Tricuspid insufficiency, non-rheumatic",194990000,299995011
+Heart valve disease non-rheumatic,G542012,299996012,"Tricuspid regurgitation, non-rheumatic",194990000,299996012
+Heart valve disease non-rheumatic,G542100,299997015,"Tricuspid stenosis, non-rheumatic",194991001,299997015
+Heart valve disease non-rheumatic,G542200,297501000006112,Nonrheumatic tricuspid valve stenosis with insufficiency,194992008,299998013
+Heart valve disease non-rheumatic,G542X00,297491000006116,"Nonrheumatic tricuspid valve disorder, unspecified",194989009,2957051016
+Heart valve disease non-rheumatic,G542z00,300000019,Tricuspid valve disorders NOS,20721001,34866017
+Heart valve disease non-rheumatic,G544.00,694371000006117,Multiple valve diseases,195002007,300013013
+Heart valve disease non-rheumatic,G544000,300014019,Disorders of both aortic and tricuspid valves,195003002,300014019
+Heart valve disease non-rheumatic,G544100,300015018,Disorders of both mitral and tricuspid valves,195004008,300015018
+Heart valve disease non-rheumatic,G544200,300016017,"Combined disorders of mitral, aortic and tricuspid valves",195005009,300016017
+Heart valve disease non-rheumatic,G544X00,694361000006112,"Multiple valve disease, unspecified",195002007,300013013
+Heart valve disease non-rheumatic,Gyu1000,300863016,[X]Other mitral valve diseases,11851006,20449013
+Heart valve disease non-rheumatic,Gyu1100,300864010,[X]Other rheumatic aortic valve diseases,12023003,20718019
+Heart valve disease non-rheumatic,Gyu1200,300865011,[X]Other tricuspid valve diseases,20721001,34866017
+Heart valve disease non-rheumatic,Gyu5500,412241000006110,[X]Other nonrheumatic mitral valve disorders,11851006,20449013
+Heart valve disease non-rheumatic,Gyu5600,300893010,[X]Other aortic valve disorders,8722008,15387019
+Heart valve disease non-rheumatic,Gyu5A00,300897011,[X]Aortic valve disorders in diseases classified elsewhere,8722008,15387019
+Heart valve disease non-rheumatic,Gyu5B00,429571000006116,Tricuspid valve disorder,20721001,34866017
+Heart valve disease non-rheumatic,Gyu5D00,399141000006119,[X]Multiple valve disorders/diseases CE,195002007,300013013

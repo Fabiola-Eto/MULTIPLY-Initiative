@@ -1,0 +1,36 @@
+Condition,ReadCode,MedCodeId,Term,SnomedCTConceptId,SnomedCTDescriptionId
+Allergic and chronic rhinitis,14B1.00,251711015,H/O: hay fever,161524000,251711015
+Allergic and chronic rhinitis,H120.00,142764012,Chronic rhinitis,86094006,142764012
+Allergic and chronic rhinitis,H120000,301176016,Chronic simple rhinitis,195765002,301176016
+Allergic and chronic rhinitis,H120100,396095011,Chronic catarrhal rhinitis,266342009,396095011
+Allergic and chronic rhinitis,H120200,301181013,Chronic hypertrophic rhinitis,195768000,301181013
+Allergic and chronic rhinitis,H120300,301182018,Chronic atrophic rhinitis,195769008,301182018
+Allergic and chronic rhinitis,H120400,301183011,Chronic infective rhinitis,195770009,301183011
+Allergic and chronic rhinitis,H120500,301184017,Chronic ulcerative rhinitis,195771008,301184017
+Allergic and chronic rhinitis,H120600,301185016,Chronic membranous rhinitis,195772001,301185016
+Allergic and chronic rhinitis,H120700,301186015,Chronic fibrinous rhinitis,195773006,301186015
+Allergic and chronic rhinitis,H120z00,301187012,Chronic rhinitis NOS,86094006,142764012
+Allergic and chronic rhinitis,H13..11,1229598015,Chronic rhinosinusitis,40055000,1229598015
+Allergic and chronic rhinitis,H17..00,102311013,Allergic rhinitis,61582004,102311013
+Allergic and chronic rhinitis,H17..11,224001000000114,Perennial allergic rhinitis,446096008,2883237016
+Allergic and chronic rhinitis,H17..12,477701000006111,Allergic rhinosinusitis,61582004,102311013
+Allergic and chronic rhinitis,H170.00,481104016,Allergic rhinitis due to pollens,21719001,481104016
+Allergic and chronic rhinitis,H170.11,817341000006110,Hay fever - pollens,21719001,481104016
+Allergic and chronic rhinitis,H170.12,36447011,Pollinosis,21719001,36447011
+Allergic and chronic rhinitis,H171.00,396097015,Allergic rhinitis due to other allergens,61582004,102311013
+Allergic and chronic rhinitis,H171.11,348103016,Cat allergy,232346004,348103016
+Allergic and chronic rhinitis,H171.12,348104010,Animal dander allergy,232347008,348105011
+Allergic and chronic rhinitis,H171.13,348106012,Feather allergy,232348003,348106012
+Allergic and chronic rhinitis,H171.14,348109017,Allergic rhinitis due to pollen,21719001,36446019
+Allergic and chronic rhinitis,H171.15,348107015,House dust allergy,232349006,348107015
+Allergic and chronic rhinitis,H171.16,348108013,House dust mite allergy,232350006,348108013
+Allergic and chronic rhinitis,H171000,1495072016,Allergy to animal,717234006,3308773018
+Allergic and chronic rhinitis,H171100,634501000000119,Dog allergy,419271008,634501000000119
+Allergic and chronic rhinitis,H172.00,396098013,Allergic rhinitis due to allergen,61582004,499054013
+Allergic and chronic rhinitis,H172.11,348110010,Hay fever,21719001,481105015
+Allergic and chronic rhinitis,H17z.00,301268012,Allergic rhinitis NOS,61582004,102311013
+Allergic and chronic rhinitis,H18..00,14582019,Vasomotor rhinitis,8229003,14582019
+Allergic and chronic rhinitis,H330.13,817361000006114,Hay fever with asthma,233683003,350153016
+Allergic and chronic rhinitis,H330011,350153016,Hay fever with asthma,233683003,350153016
+Allergic and chronic rhinitis,Hyu2000,301823011,Seasonal allergic rhinitis,367498001,492457012
+Allergic and chronic rhinitis,Hyu2100,301824017,[X]Other allergic rhinitis,61582004,102311013

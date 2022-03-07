@@ -1,0 +1,8 @@
+Condition,ReadCode,MedCodeId,Term,SnomedCTConceptId,SnomedCTDescriptionId
+Ankylosing spondylitis,2377.00,253940015,On examination - ankylosing spondylitis chest deformity,162930007,2668362011
+Ankylosing spondylitis,388p.00,2692996011,Bath ankylosing spondylitis disease activity index score,441562009,2817026019
+Ankylosing spondylitis,388p000,2325761000000118,Bath ankylosing spondylitis functional index score,441680005,2817378011
+Ankylosing spondylitis,38QL.00,2326221000000110,Bath ankylosing spondylitis metrology index score,441930001,2817787017
+Ankylosing spondylitis,N045000,359312010,Juvenile ankylosing spondylitis,239805001,359312010
+Ankylosing spondylitis,N100.00,16833013,Ankylosing spondylitis,9631008,16833013
+Ankylosing spondylitis,N100.11,718001000006112,Marie - Strumpell spondylitis,9631008,1235977013

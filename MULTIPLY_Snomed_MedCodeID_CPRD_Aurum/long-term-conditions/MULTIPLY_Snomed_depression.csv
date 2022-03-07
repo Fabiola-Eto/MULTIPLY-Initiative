@@ -1,0 +1,151 @@
+Condition,ReadCode,MedCodeId,Term,SnomedCTConceptId,SnomedCTDescriptionId
+Depression,1465.00,251629019,H/O: depression,161469008,251629019
+Depression,1B17.00,2164006016,Depressed,366979004,490537016
+Depression,1B17.11,407062014,C/O - feeling depressed,272022009,407062014
+Depression,1B1U.00,1488626018,Symptoms of depression,394924000,1488626018
+Depression,1B1U.11,1494612017,Depressive symptoms,394924000,1494612017
+Depression,1BT..00,2164005017,Depressed mood,366979004,490537016
+Depression,212S.00,294621000000118,Depression resolved,196381000000100,294621000000118
+Depression,2257.00,253619019,O/E - depressed,162722001,253619019
+Depression,62T1.00,1231868010,Puerperal depression,58703003,1231868010
+Depression,6G00.00,1488771018,Postnatal depression counselling,395072006,1488771018
+Depression,8BK0.00,1773563015,Depression management programme,401174001,1773563015
+Depression,8CAa.00,2533375017,Patient given advice about management of depression,415044007,2533375017
+Depression,8HHq.00,300711000000119,Referral for guided self-help for depression,199111000000100,300711000000119
+Depression,9H90.00,2534096013,Depression annual review,413972000,2534096013
+Depression,9H91.00,2534092010,Depression medication review,413974004,2534092010
+Depression,9H92.00,2534091015,Depression interim review,413973005,2534091015
+Depression,9HA0.00,2474715017,On depression register,413169006,2474715017
+Depression,9HA1.00,2474716016,Removed from depression register,413170007,2474716016
+Depression,9k4..00,226411000000110,Depression enhanced services administration,166291000000108,1154541000000116
+Depression,9k40.00,226581000000119,Depression enhanced service completed,166481000000107,1154701000000110
+Depression,9kQ..00,1680571000006118,On full dose long term treatment depression - enh serv admin,361761000000106,681801000000113
+Depression,9Ov..00,406881000000111,Depression monitoring administration,713831000000108,1565071000000118
+Depression,9Ov0.00,408521000000112,Depression monitoring first letter,717211000000107,1569751000000114
+Depression,9Ov1.00,408541000000117,Depression monitoring second letter,716681000000100,1569231000000114
+Depression,9Ov2.00,408561000000116,Depression monitoring third letter,716961000000102,1569511000000115
+Depression,9Ov3.00,408581000000113,Depression monitoring verbal invitation,717261000000109,1569801000000119
+Depression,9Ov4.00,408601000000116,Depression monitoring telephone invitation,716421000000103,1568971000000112
+Depression,E001300,294642013,Presenile dementia with depression,191455000,294642013
+Depression,E002100,294646011,Senile dementia with depression,191459006,294646011
+Depression,E004300,294655014,Arteriosclerotic dementia with depression,191466007,294655014
+Depression,E11..12,613791000006115,Depressive psychoses,35489007,59212011
+Depression,E112.00,401766011,"Major depression, single episode",36923009,61590015
+Depression,E112.11,474171000006112,Agitated depression,83458005,138421012
+Depression,E112.12,642461000006116,Endogenous depression first episode,231499006,346972018
+Depression,E112.13,346972018,Endogenous depression first episode,231499006,346972018
+Depression,E112.14,441826016,Endogenous depression,300706003,441826016
+Depression,E112000,294824018,"Single major depressive episode, unspecified",36923009,61590015
+Depression,E112100,294825017,"Mild major depression, single episode",79298009,131561018
+Depression,E112200,294826016,"Moderate major depression, single episode",15639000,26507014
+Depression,E112300,142541000006115,"Severe major depression, single episode",251000119105,2916281014
+Depression,E112400,294828015,"Single major depressive episode, severe, with psychosis",191604000,294828015
+Depression,E112500,142521000006110,"Major depression single episode, in partial remission",70747007,117520015
+Depression,E112600,294831019,Single episode of major depression in full remission,19527009,3304522019
+Depression,E112z00,294832014,Single major depressive episode NOS,36923009,61590015
+Depression,E113.00,182721000006111,Recurrent major depressive episodes,268621008,401767019
+Depression,E113.11,410861011,Endogenous depression - recurrent,274948002,410861011
+Depression,E113000,294836012,"Recurrent major depressive episodes, unspecified",268621008,401767019
+Depression,E113100,294837015,"Recurrent major depressive episodes, mild",191610000,294837015
+Depression,E113200,294838013,"Recurrent major depressive episodes, moderate",191611001,294838013
+Depression,E113300,182771000006112,"Recurrent major depressive episodes, severe",764611000000100,1696221000000111
+Depression,E113400,294840015,"Recurrent major depressive episodes, severe, with psychosis",191613003,294840015
+Depression,E113500,182801000006114,"Recurrent major depressive episodes,partial/unspec remission",764691000000109,1696381000000115
+Depression,E113600,294843018,Recurrent major depression in full remission,46244001,3304524018
+Depression,E113700,294844012,Recurrent depression,191616006,294844012
+Depression,E113z00,294845013,Recurrent major depressive episode NOS,268621008,401767019
+Depression,E118.00,369982012,Seasonal affective disorder,247803002,369982012
+Depression,E11y200,294894013,Atypical depressive disorder,191659001,294894013
+Depression,E11z200,346973011,Masked depression,231500002,346973011
+Depression,E130.00,294917018,Reactive depressive psychosis,191676002,294917018
+Depression,E130.11,294918011,Psychotic reactive depression,191676002,294918011
+Depression,E135.00,138421012,Agitated depression,83458005,138421012
+Depression,E200300,488211000006112,Mixed anxiety and depressive disorder,231504006,346979010
+Depression,E204.00,675861000006113,Reactive depression (situational),87414006,144929012
+Depression,E204.11,223651000000118,Postpartum depression,58703003,97552012
+Depression,E211200,613781000006118,Depressive personality disorder,78667006,130532011
+Depression,E290.00,525921000006119,Brief depressive adjustment reaction,192046006,295490019
+Depression,E290z00,295494011,Brief depressive reaction NOS,192046006,295490019
+Depression,E291.00,202561000006114,Prolonged depressive adjustment reaction,192049004,295495012
+Depression,E2B..00,295535012,Depressive disorder,35489007,59212011
+Depression,E2B0.00,295536013,Postviral depression,192079006,295536013
+Depression,E2B1.00,295537016,Chronic depression,192080009,295537016
+Depression,Eu20400,423041000006119,[X]Post-schizophrenic depression,231485007,346956014
+Depression,Eu25100,425501000006113,"Schizoaffective disorder, depressive type",84760002,140519016
+Depression,Eu25111,425561000006114,"[X]Schizoaffective psychosis, depressive type",84760002,140519016
+Depression,Eu25112,425691000006119,"[X]Schizophreniform psychosis, depressive type",84760002,1234980016
+Depression,Eu32.00,376721000006114,Depressive episode,35489007,486185019
+Depression,Eu32.11,426911000006111,[X]Single episode of depressive reaction,87414006,2951871015
+Depression,Eu32.12,426941000006110,[X]Single episode of psychogenic depression,87414006,2951871015
+Depression,Eu32.13,426971000006119,[X]Single episode of reactive depression,87414006,2951871015
+Depression,Eu32000,296137015,Mild depression,310495003,454082014
+Depression,Eu32100,296138013,[X]Moderate depressive episode,310496002,454083016
+Depression,Eu32200,401866015,[X]Severe depressive episode without psychotic symptoms,310497006,454084010
+Depression,Eu32211,426891000006114,[X] Single episode agitated depression without psychotic symptoms,310497006,454084010
+Depression,Eu32212,223741000000112,Severe depression,310497006,454084010
+Depression,Eu32213,426991000006118,[X]Single episode vital depression w'out psychotic symptoms,310497006,454084010
+Depression,Eu32300,401869010,[X]Severe depressive episode with psychotic symptoms,191604000,294828015
+Depression,Eu32311,426921000006115,[X]Single episode of major depression and psychotic symptoms,191604000,294828015
+Depression,Eu32312,426951000006112,[X]Single episode of psychogenic depressive psychosis,191676002,294917018
+Depression,Eu32313,426961000006114,[X]Single episode of psychotic depression,191604000,294828015
+Depression,Eu32314,426981000006116,[X]Single episode of reactive depressive psychosis,191676002,294917018
+Depression,Eu32400,213641000000111,[X]Mild depression,310495003,213641000000111
+Depression,Eu32500,1715771000006112,Mild major depression,87512008,145089017
+Depression,Eu32600,1715181000006114,Moderate major depression,832007,2451016
+Depression,Eu32700,1715781000006110,Severe major depression without psychotic features,75084000,124707013
+Depression,Eu32800,1715191000006112,Severe major depression with psychotic features,73867007,122670017
+Depression,Eu32900,1755901000006112,"[X]Single major depressive episode, severe, with psychosis, psychosis in remission",755321000000106,1667601000000117
+Depression,Eu32A00,1755911000006110,"[X]Recurrent major depressive episodes, severe, with psychosis, psychosis in remission",755331000000108,1667611000000115
+Depression,Eu32B00,1785881000006119,Antenatal depression,790961000000101,1768521000000118
+Depression,Eu32y00,401871010,[X]Other depressive episodes,35489007,59212011
+Depression,Eu32y11,366561000006119,[X]Atypical depression,191659001,294894013
+Depression,Eu32y12,426931000006117,[X]Single episode of masked depression NOS,231500002,346973011
+Depression,Eu32z00,401872015,"[X]Depressive episode, unspecified",35489007,486185019
+Depression,Eu32z11,376691000006116,Depression,35489007,486184015
+Depression,Eu32z12,376711000006118,[X]Depressive disorder NOS,35489007,486185019
+Depression,Eu32z13,423611000006111,[X]Prolonged single episode of reactive depression,87414006,2951871015
+Depression,Eu32z14,359121000006116,Reactive depression,87414006,2951871015
+Depression,Eu33.00,401873013,[X]Recurrent depressive disorder,191616006,294844012
+Depression,Eu33.11,424631000006119,[X]Recurrent episodes of depressive reaction,191616006,294844012
+Depression,Eu33.12,424641000006112,[X]Recurrent episodes of psychogenic depression,191616006,294844012
+Depression,Eu33.13,424651000006114,[X]Recurrent episodes of reactive depression,191616006,294844012
+Depression,Eu33.14,425751000006115,[X]Seasonal depressive disorder,247803002,369982012
+Depression,Eu33.15,425411000006110,SAD - Seasonal affective disorder,247803002,369983019
+Depression,Eu33000,296180012,"[X]Recurrent depressive disorder, current episode mild",310495003,454082014
+Depression,Eu33100,296181011,"[X]Recurrent depressive disorder, current episode moderate",310496002,454083016
+Depression,Eu33200,424531000006118,[X]Recurr depress disorder cur epi severe without psyc sympt,310497006,454084010
+Depression,Eu33211,379781000006118,[X]Endogenous depression without psychotic symptoms,300706003,441826016
+Depression,Eu33212,396081000006116,"[X]Major depression, recurrent without psychotic symptoms",268621008,401767019
+Depression,Eu33213,396771000006117,"[X] Manic-depressive psychosis, depressed type without psychotic symptoms",36474008,60885016
+Depression,Eu33214,432511000006119,"[X]Vital depression, recurrent without psychotic symptoms",310497006,454084010
+Depression,Eu33300,424571000006115,[X]Recurrent depress disorder cur epi severe with psyc symp,28475009,47670016
+Depression,Eu33311,379771000006116,[X]Endogenous depression with psychotic symptoms,73867007,122670017
+Depression,Eu33313,424541000006111,[X]Recurr severe episodes/major depression+psychotic symptom,28475009,47670016
+Depression,Eu33314,424551000006113,[X]Recurr severe episodes/psychogenic depressive psychosis,191613003,294840015
+Depression,Eu33315,424671000006116,[X]Recurrent severe episodes of psychotic depression,191613003,294840015
+Depression,Eu33316,424681000006118,"Recurrent reactive depressive episodes, severe, with psychosis",1086471000000103,2721771000000114
+Depression,Eu33400,296198011,"[X]Recurrent depressive disorder, currently in remission",698957003,2981573016
+Depression,Eu33y00,296199015,[X]Other recurrent depressive disorders,191616006,294844012
+Depression,Eu33z00,401876017,"[X]Recurrent depressive disorder, unspecified",191616006,294844012
+Depression,Eu33z11,398841000006119,[X]Monopolar depression NOS,35489007,59212011
+Depression,Eu34.00,296204014,Disturbance in affect,386782008,1480909013
+Depression,Eu34000,376291000006118,Cyclothymia,76105009,126403014
+Depression,Eu34012,376261000006114,[X]Cycloid personality,76105009,126403014
+Depression,Eu34013,376301000006117,[X]Cyclothymic personality,76105009,126403014
+Depression,Eu34100,379431000006113,Dysthymia,78667006,130532011
+Depression,Eu34111,376741000006119,[X]Depressive neurosis,78667006,130534012
+Depression,Eu34112,376751000006117,Depressive personality disorder,1084061000000106,2716551000000112
+Depression,Eu34113,399961000006118,Depressive neurosis,78667006,130534012
+Depression,Eu34114,419841000006116,[X]Persistant anxiety depression,231504006,346979010
+Depression,Eu34y00,296207019,[X]Other persistent mood affective disorders,386782008,1480909013
+Depression,Eu34z00,296208012,"[X]Persistent mood affective disorder, unspecified",386782008,1480909013
+Depression,Eu3y.00,296209016,[X]Other mood affective disorders,46206005,77054013
+Depression,Eu3y000,401877014,[X]Other single mood affective disorders,46206005,77054013
+Depression,Eu3y011,398541000006116,"Bipolar affective disorder , current episode mixed",192362008,296129011
+Depression,Eu3y100,401878016,[X]Other recurrent mood affective disorders,386782008,1480909013
+Depression,Eu3y111,424561000006110,[X]Recurrent brief depressive episodes,40568001,67653019
+Depression,Eu41200,398561000006117,[X]Mixed anxiety and depressive disorder,231504006,346979010
+Depression,Eu41211,398351000006110,[X]Mild anxiety depression,231504006,346979010
+Depression,Eu53011,423131000006113,[X]Postnatal depression NOS,58703003,97552012
+Depression,Eu53012,423141000006115,[X]Postpartum depression NOS,58703003,97552012
+Depression,Eu92000,376701000006116,[X]Depressive conduct disorder,231542000,347030014

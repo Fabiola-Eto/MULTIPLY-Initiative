@@ -1,0 +1,5 @@
+Condition,ReadCode,MedCodeId,Term,SnomedCTConceptId,SnomedCTDescriptionId
+Autoimmune liver disease,J614111,303404016,Autoimmune chronic active hepatitis,197284004,303404016
+Autoimmune liver disease,J616000,52980015,Primary biliary cirrhosis,31712002,52980015
+Autoimmune liver disease,J63B.00,2159899016,Autoimmune hepatitis,408335007,2159899016
+Autoimmune liver disease,J661700,303614019,Primary sclerosing cholangitis,197441003,303614019

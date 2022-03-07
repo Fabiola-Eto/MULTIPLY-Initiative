@@ -1,0 +1,6 @@
+Condition,ReadCode,MedCodeId,Term,SnomedCTConceptId,SnomedCTDescriptionId
+Asbestosis,4E34.00,260963012,Sputum: asbestos bodies,167999002,260963012
+Asbestosis,H41..00,37941013,Asbestosis,22607003,37941013
+Asbestosis,H410.00,350121013,Pleural plaque disease due to asbestosis,233659006,350121013
+Asbestosis,H410.11,350120014,Asbestos-induced pleural plaque,233659006,350120014
+Asbestosis,H41z.00,301552017,Asbestosis NOS,22607003,37941013

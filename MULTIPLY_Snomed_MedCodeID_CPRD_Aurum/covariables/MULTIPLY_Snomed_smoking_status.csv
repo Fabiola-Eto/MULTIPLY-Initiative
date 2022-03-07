@@ -1,0 +1,103 @@
+Condition,ReadCode,MedCodeId,Term,SnomedCTConceptId,SnomedCTDescriptionId
+Smoking status,137..11,137721000006115,Smoker - amount smoked,266918002,397730015
+Smoking status,1371.00,397732011,Never smoked tobacco,266919005,397732011
+Smoking status,1371.11,14866014,Non-smoker,8392000,14866014
+Smoking status,1372.00,88471000006112,Trivial cigarette smoker (less than one cigarette/day),266920004,397735013
+Smoking status,1372.11,397733018,Occasional smoker,428041000124106,2717161000000119
+Smoking status,1373.00,743331000006116,Light cigarette smoker (1-9 cigs/day),160603005,250358015
+Smoking status,1374.00,700121000006118,Moderate cigarette smoker (10-19 cigs/day),160604004,250359011
+Smoking status,1375.00,819331000006110,Heavy cigarette smoker (20-39 cigs/day),160605003,250360018
+Smoking status,1376.00,67621000006112,Very heavy cigarette smoker (40+ cigs/day),160606002,250362014
+Smoking status,1377.00,250363016,Ex-trivial cigarette smoker (<1/day),266921000,397736014
+Smoking status,1378.00,250364010,Ex-light cigarette smoker (1-9/day),266922007,397737017
+Smoking status,1379.00,250365011,Ex-moderate cigarette smoker (10-19/day),266923002,397738010
+Smoking status,137A.00,250366012,Ex-heavy cigarette smoker (20-39/day),266924008,397739019
+Smoking status,137b.00,1488577017,Ready to stop smoking,394872000,1488577017
+Smoking status,137B.00,250367015,Ex-very heavy cigarette smoker (40+/day),266925009,397740017
+Smoking status,137c.00,1488576014,Thinking about stopping smoking,394871007,1488576014
+Smoking status,137C.00,250368013,Keeps trying to stop smoking,160612007,250368013
+Smoking status,137d.00,1488578010,Not interested in stopping smoking,394873005,1488578010
+Smoking status,137e.00,2670126018,Smoking restarted,308438006,2670126018
+Smoking status,137f.00,1780360012,Reason for restarting smoking,401159003,1780360012
+Smoking status,137F.00,250371017,Ex-smoker - amount unknown,8517006,15047015
+Smoking status,137G.00,250372012,Trying to give up smoking,160616005,250372012
+Smoking status,137h.00,2474719011,Minutes from waking to first tobacco consumption,413173009,2474719011
+Smoking status,137H.00,136515019,Pipe smoker,82302008,136515019
+Smoking status,137j.00,418914010,Ex-cigarette smoker,281018007,418914010
+Smoking status,137J.00,99639019,Cigar smoker,59978006,99639019
+Smoking status,137K.00,250373019,Stopped smoking,160617001,250373019
+Smoking status,137K000,1151791000000117,Recently stopped smoking,517211000000106,1151791000000117
+Smoking status,137l.00,1059701000000119,Ex roll-up cigarette smoker,492191000000103,1059701000000119
+Smoking status,137L.00,250374013,Current non-smoker,160618006,250374013
+Smoking status,137m.00,1592611000000110,Failed attempt to stop smoking,446172000,2882460017
+Smoking status,137M.00,250375014,Rolls own cigarettes,160619003,250375014
+Smoking status,137N.00,649831000006117,Ex-pipe smoker,160620009,250376010
+Smoking status,137O.00,649821000006115,Ex-cigar smoker,160621008,250377018
+Smoking status,137P.00,108938018,Cigarette smoker,65568007,108938018
+Smoking status,137P.11,128130017,Smoker,77176002,128130017
+Smoking status,137Q.00,2669652019,Smoking started,266929003,2669652019
+Smoking status,137Q.11,137791000006118,Smoking restarted,308438006,2670126018
+Smoking status,137R.00,503483019,Current smoker,77176002,503483019
+Smoking status,137S.00,649841000006110,Ex-smoker,8517006,15047015
+Smoking status,137T.00,250385010,Date ceased smoking,160625004,250385010
+Smoking status,137V.00,216212011,Smoking reduced,134406006,216212011
+Smoking status,13p..00,1484932017,Smoking cessation milestones,390900001,1484932017
+Smoking status,13p0.00,1484933010,Negotiated date for cessation of smoking,390901002,1484933010
+Smoking status,13p1.00,1484934016,Smoking status at 4 weeks,390902009,1484934016
+Smoking status,13p2.00,1484935015,Smoking status between 4 and 52 weeks,390903004,1484935015
+Smoking status,13p3.00,1484936019,Smoking status at 52 weeks,390904005,1484936019
+Smoking status,13p4.00,1488873010,Smoking free weeks,395177003,1488873010
+Smoking status,13p5.00,1773560017,Smoking cessation programme start date,401160008,1773560017
+Smoking status,13p5000,1563081000000115,Practice based smoking cessation programme start date,712971000000108,1563081000000115
+Smoking status,13p6.00,2534083012,Carbon monoxide reading at 4 weeks,413753009,2534083012
+Smoking status,13p7.00,1708051000000119,Smoking status at 12 weeks,766931000000106,1708051000000119
+Smoking status,13p8.00,1716141000000117,Lost to smoking cessation follow-up,768971000000109,1716141000000117
+Smoking status,38DH.00,408878014,Fagerstrom Test for Nicotine Dependence total score,762991003,3637499017
+Smoking status,6791.00,818061000006111,Smoking cessation education,225323000,2575784012
+Smoking status,67H6.00,1125741000000111,Brief intervention for smoking cessation,506491000000102,1125741000000111
+Smoking status,745H.00,492511000000117,Smoking cessation therapy,710081004,3043296015
+Smoking status,745H000,482791000000119,Nicotine replacement therapy using nicotine patch,790121000000107,1766431000000116
+Smoking status,745H100,482811000000118,Nicotine replacement therapy using nicotine gum,280801000000101,482811000000118
+Smoking status,745H200,482831000000114,Nicotine replacement therapy using nicotine inhalator,280811000000104,482831000000114
+Smoking status,745H300,482851000000119,Nicotine replacement therapy using nicotine lozenge,790131000000109,1766451000000111
+Smoking status,745H400,482771000000118,Smoking cessation drug therapy,713700008,3297364011
+Smoking status,745Hy00,482871000000111,Other specified smoking cessation therapy,710081004,3043296015
+Smoking status,745Hz00,489931000000114,Smoking cessation therapy NOS,710081004,3043296015
+Smoking status,8B2B.00,457286014,Nicotine replacement therapy,313396002,457286014
+Smoking status,8B3f.00,1484937011,Nicotine replacement therapy provided free,390905006,1484937011
+Smoking status,8B3Y.00,459524018,Over the counter nicotine replacement therapy,315055008,459524018
+Smoking status,8BP3.00,998861000006112,Nicotine replacement therapy provided by community pharmacist,200211000000104,303471000000110
+Smoking status,8CAg.00,303501000000115,Smoking cessation advice provided by community pharmacist,200221000000105,303501000000115
+Smoking status,8CAL.00,338608011,Smoking cessation advice,225323000,338608011
+Smoking status,8CdB.00,1750931000000118,Stop smoking service opportunity signposted,783011000000105,1750931000000118
+Smoking status,8H7i.00,1489355012,Referral to smoking cessation advisor,395700008,1489355012
+Smoking status,8HBM.00,1123541000000118,Stop smoking face to face follow-up,505581000000108,1123541000000118
+Smoking status,8HBP.00,2203381000000113,Smoking cessation 12 week follow-up,850331000000104,2203381000000113
+Smoking status,8HkQ.00,1715591000006117,Referral to National Health Service stop smoking service,505281000000106,1122921000000113
+Smoking status,8HTK.00,459722017,Referral to stop-smoking clinic,315232003,459722017
+Smoking status,8I2I.00,1488870013,Nicotine replacement therapy contraindicated,395174005,1488870013
+Smoking status,8I2J.00,1488871012,Bupropion contraindicated,395175006,1488871012
+Smoking status,8IAj.00,1176421000000118,Smoking cessation advice declined,527151000000107,1176421000000118
+Smoking status,9km..00,1123951000000110,Ex-smoker annual review - enhanced services administration,505761000000105,1154471000000114
+Smoking status,9km..11,1154471000000114,Ex-smoker annual review,505761000000105,1154471000000114
+Smoking status,9kn..00,1123751000000113,Non-smoker annual review - enhanced services administration,505681000000109,1154431000000112
+Smoking status,9kn..11,1154431000000112,Non-smoker annual review,505681000000109,1154431000000112
+Smoking status,9ko..00,1714541000006110,Current smoker annual review - enhanced services admin,505651000000103,1152111000000118
+Smoking status,9ko..11,1152111000000118,Current smoker annual review,505651000000103,1152111000000118
+Smoking status,9N2k.00,1780273014,Seen by smoking cessation advisor,401068004,1780273014
+Smoking status,9NS0200,1709641000000115,Referral for smoking cessation service offered,767641000000109,1709641000000115
+Smoking status,E023.00,150398019,Nicotine withdrawal,90755006,150398019
+Smoking status,E251.00,102951000006115,Tobacco dependence,89765005,2951656017
+Smoking status,E251300,295259018,Tobacco dependence in remission,191889006,295259018
+Smoking status,E251z00,295260011,Tobacco dependence NOS,89765005,2951656017
+Smoking status,ZG23300,4939251000006118,Advice on smoking,225323000,2695629019
+Smoking status,ZRaM.00,5553301000006112,Motives for smoking scale,273632007,409167012
+Smoking status,ZRao.00,5553641000006116,Occasions for smoking scale,273657002,409204012
+Smoking status,ZRBm200,1672841000006118,Fagerstrom test for nicotine dependence,1672841000006102,1672841000006118
+Smoking status,ZRBm200,11928931000006120,Fagerstrom test for nicotine dependence,273453005,408878014
+Smoking status,ZRBm211,5550551000006111,FTND - Fagerstrom test for nicotine dependence,273453005,408879018
+Smoking status,ZRh4.00,5555231000006111,Reasons for smoking scale,273738001,409335016
+Smoking status,ZRh4.11,5555241000006118,RFS - Reasons for smoking scale,273738001,409336015
+Smoking status,ZV11600,298701000000114,History of tobacco use,8517006,15047015
+Smoking status,ZV4K000,460828018,Tobacco user,110483000,175325014
+Smoking status,ZV6D800,461114016,Counselling about tobacco use,711028002,3047058010

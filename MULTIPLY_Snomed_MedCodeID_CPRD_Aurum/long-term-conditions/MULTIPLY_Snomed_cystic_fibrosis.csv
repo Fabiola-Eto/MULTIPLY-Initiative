@@ -1,0 +1,20 @@
+Condition,ReadCode,MedCodeId,Term,SnomedCTConceptId,SnomedCTDescriptionId
+Cystic Fibrosis,66k..00,1148201000000111,Cystic fibrosis monitoring,515611000000104,1148201000000111
+Cystic Fibrosis,66k0.00,1148241000000114,Cystic fibrosis annual review,515631000000107,1148241000000114
+Cystic Fibrosis,9No7.00,1551091000000112,Seen in cystic fibrosis clinic,698529000,2974778015
+Cystic Fibrosis,C10N100,494831000000119,Diabetes mellitus associated with cystic fibrosis,426705001,2674608014
+Cystic Fibrosis,C370.00,293528019,Cystic fibrosis,190905008,293528019
+Cystic Fibrosis,C370.11,293530017,Fibrocystic disease,190905008,293530017
+Cystic Fibrosis,C370.12,293532013,Mucoviscidosis,190905008,293532013
+Cystic Fibrosis,C370000,1495466012,Cystic fibrosis with no meconium ileus,81423003,1495466012
+Cystic Fibrosis,C370100,142759013,Cystic fibrosis with meconium ileus,86092005,142759013
+Cystic Fibrosis,C370111,1495490013,Meconium ileus in cystic fibrosis,86092005,1495490013
+Cystic Fibrosis,C370200,606441000006110,Cystic fibrosis of the lung,86555001,143537016
+Cystic Fibrosis,C370300,293537019,Cystic fibrosis with intestinal manifestations,190909002,293537019
+Cystic Fibrosis,C370400,1174311000000111,Arthropathy in cystic fibrosis,526071000000104,1174311000000111
+Cystic Fibrosis,C370500,1174361000000113,Cystic fibrosis with distal intestinal obstruction syndrome,526091000000100,1174361000000113
+Cystic Fibrosis,C370700,2675247013,Liver disease due to cystic fibrosis,427022004,2675247013
+Cystic Fibrosis,C370800,1736361000000112,Cystic fibrosis related cirrhosis,776981000000103,1736361000000112
+Cystic Fibrosis,C370900,2222561000000111,Exacerbation of cystic fibrosis,859041000000103,2222561000000111
+Cystic Fibrosis,C370y00,451084014,Cystic fibrosis with other manifestations,190905008,293528019
+Cystic Fibrosis,C370z00,293539016,Cystic fibrosis NOS,190905008,293528019

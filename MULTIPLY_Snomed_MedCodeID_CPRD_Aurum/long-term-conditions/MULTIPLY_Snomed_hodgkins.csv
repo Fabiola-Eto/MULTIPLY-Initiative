@@ -1,0 +1,74 @@
+Condition,ReadCode,MedCodeId,Term,SnomedCTConceptId,SnomedCTDescriptionId
+Hodgkin Lymphoma,B61..00,2663473018,Hodgkin's disease,118599009,2663473018
+Hodgkin Lymphoma,B61..11,1815031000006110,Hodgkin lymphoma,118599009,2663473018
+Hodgkin Lymphoma,B610.00,826681000006115,"Hodgkin lymphoma, nodular lymphocyte predominance (clinical)",118605002,202988019
+Hodgkin Lymphoma,B610100,826751000006118,"Hodgkin's paragranuloma of lymph nodes of head, face, and neck",93542008,154855017
+Hodgkin Lymphoma,B610300,289621011,Hodgkin's paragranuloma of intra-abdominal lymph nodes,93493001,3635497016
+Hodgkin Lymphoma,B611.00,2663476014,Hodgkin's granuloma,118602004,2663476014
+Hodgkin Lymphoma,B611100,289629013,"Hodgkin's granuloma of lymph nodes of head, face and neck",188534006,289629013
+Hodgkin Lymphoma,B612.00,2663376010,Hodgkin's sarcoma,118606001,2663376010
+Hodgkin Lymphoma,B612400,289643015,Hodgkin's sarcoma of lymph nodes of axilla and upper limb,188547001,289643015
+Hodgkin Lymphoma,B613.00,826261000006110,"Hodgkin's disease, lymphocytic-histiocytic predominance",118607005,177026017
+Hodgkin Lymphoma,B613000,826991000006114,"Hodgkin's disease, lymphocytic-histiocytic predominance (clinical)",118607005,177026017
+Hodgkin Lymphoma,B613100,826951000006115,"Hodgkin's disease, lymphocytic-histiocytic predominance of lymph nodes of head, face and neck",188554007,289650016
+Hodgkin Lymphoma,B613200,826941000006117,"Hodgkin's disease, lymphocytic-histiocytic predominance of intrathoracic lymph nodes",93495008,154777010
+Hodgkin Lymphoma,B613300,826921000006112,"Hodgkin's disease, lymphocytic-histiocytic predominance of intra-abdominal lymph nodes",93493001,154775019
+Hodgkin Lymphoma,B613500,826911000006116,"Hodgkin's disease, lymphocytic-histiocytic predominance of lymph nodes of inguinal region and lower limb",188559002,289655014
+Hodgkin Lymphoma,B613600,826931000006110,"Hodgkin's disease, lymphocytic-histiocytic predominance of intrapelvic lymph nodes",93494007,154776018
+Hodgkin Lymphoma,B613700,289657018,"Hodgkin's disease, lymphocytic-histiocytic predominance of spleen",93500006,154785018
+Hodgkin Lymphoma,B613800,826961000006118,"Hodgkin's disease, lymphocytic-histiocytic predominance of lymph nodes of multiple sites",188562004,289658011
+Hodgkin Lymphoma,B613z00,289659015,"Hodgkin's, lymphocytic-histiocytic predominance NOS",118607005,177026017
+Hodgkin Lymphoma,B614.00,1220414014,"Hodgkin's disease, nodular sclerosis",118608000,1220414014
+Hodgkin Lymphoma,B614000,289660013,"Hodgkin's disease, nodular sclerosis of unspecified site",118608000,177027014
+Hodgkin Lymphoma,B614100,826611000006110,"Hodgkin's disease, nodular sclerosis of lymph nodes of head, face and neck",188565002,289661012
+Hodgkin Lymphoma,B614200,826651000006111,"Hodgkin's disease, nodular sclerosis of intrathoracic lymph nodes",188566001,289662017
+Hodgkin Lymphoma,B614300,826631000006116,"Hodgkin's disease, nodular sclerosis of intra-abdominal lymph nodes",188567005,289663010
+Hodgkin Lymphoma,B614400,826661000006113,"Hodgkin's disease, nodular sclerosis of lymph nodes of axilla and upper limb",188568000,289664016
+Hodgkin Lymphoma,B614700,154811011,"Hodgkin's disease, nodular sclerosis of spleen",93518009,154811011
+Hodgkin Lymphoma,B614800,826671000006118,"Hodgkin's disease, nodular sclerosis of lymph nodes of multiple sites",188572001,289668018
+Hodgkin Lymphoma,B614z00,289669014,"Hodgkin's disease, nodular sclerosis NOS",118608000,177027014
+Hodgkin Lymphoma,B615.00,2663461018,"Hodgkin's disease, mixed cellularity",118609008,2663461018
+Hodgkin Lymphoma,B615000,289670010,"Hodgkin's disease, mixed cellularity of unspecified site",118609008,177028016
+Hodgkin Lymphoma,B615100,826571000006117,"Hodgkin's disease, mixed cellularity of lymph nodes of head, face and neck",188575004,289671014
+Hodgkin Lymphoma,B615200,826561000006112,"Hodgkin's disease, mixed cellularity of intrathoracic lymph nodes",188576003,289672019
+Hodgkin Lymphoma,B615500,826581000006119,"Hodgkin's disease, mixed cellularity of lymph nodes of inguinal region and lower limb",188579005,289675017
+Hodgkin Lymphoma,B615z00,289679011,"Hodgkin's disease, mixed cellularity NOS",118609008,177028016
+Hodgkin Lymphoma,B616.00,2663187010,"Hodgkin's disease, lymphocytic depletion",118610003,2663187010
+Hodgkin Lymphoma,B616000,289680014,Hodgkin's lymphocytic depletion of unspecified site,118610003,177029012
+Hodgkin Lymphoma,B616400,826471000006116,"Hodgkin's disease, lymphocytic depletion of lymph nodes of axilla and upper limb",188589009,289696012
+Hodgkin Lymphoma,B616500,826481000006118,"Hodgkin's disease, lymphocytic depletion of lymph nodes of inguinal region and lower limb",188590000,289697015
+Hodgkin Lymphoma,B616700,289699017,"Hodgkin's disease, lymphocytic depletion of spleen",188592008,289699017
+Hodgkin Lymphoma,B616800,826491000006115,"Hodgkin's disease, lymphocytic depletion of lymph nodes of multiple sites",188593003,289700016
+Hodgkin Lymphoma,B616z00,289701017,"Hodgkin's disease, lymphocytic depletion NOS",118610003,177029012
+Hodgkin Lymphoma,B617.00,2168431000000112,"Hodgkin lymphoma, nodular lymphocyte predominance (clinical)",118605002,177024019
+Hodgkin Lymphoma,B618.00,1815051000006115,Nodular sclerosis classical Hodgkin lymphoma,118608000,1220414014
+Hodgkin Lymphoma,B619.00,1815061000006118,Mixed cellularity classical Hodgkin lymphoma,118609008,2663461018
+Hodgkin Lymphoma,B61B.00,2870724014,Lymphocyte-rich classical Hodgkin lymphoma,118607005,2870724014
+Hodgkin Lymphoma,B61C.00,1815091000006114,Other classical Hodgkin lymphoma,118599009,2663473018
+Hodgkin Lymphoma,B61z.00,826121000006114,Hodgkin's disease NOS,118599009,2663473018
+Hodgkin Lymphoma,B61z.11,1815101000006115,Hodgkin's disease (clinical),118599009,177017015
+Hodgkin Lymphoma,B61z000,289703019,"Hodgkin's disease NOS, unspecified site",118599009,177017015
+Hodgkin Lymphoma,B61z100,289704013,"Hodgkin's disease of lymph nodes of head, face AND/OR neck",93524003,154823017
+Hodgkin Lymphoma,B61z200,289705014,Hodgkin's disease of intrathoracic lymph nodes,93522004,154818017
+Hodgkin Lymphoma,B61z300,289706010,Hodgkin's disease of intra-abdominal lymph nodes,93520007,154814015
+Hodgkin Lymphoma,B61z400,826181000006113,Hodgkin's disease of lymph nodes of axilla AND/OR upper limb,93523009,154820019
+Hodgkin Lymphoma,B61z500,826171000006110,Hodgkin's disease of lymph nodes of inguinal region AND/OR lower limb,93525002,154826013
+Hodgkin Lymphoma,B61z700,289710013,Hodgkin's disease of spleen,93527005,154831010
+Hodgkin Lymphoma,B61z800,289711012,Hodgkin's disease of lymph nodes of multiple sites,93526001,154829018
+Hodgkin Lymphoma,B61zz00,289702012,Hodgkin's disease NOS,118599009,2663473018
+Hodgkin Lymphoma,BBj..00,1221109014,[M]Hodgkin's disease,14537002,1221109014
+Hodgkin Lymphoma,BBj0.00,309991000006111,[M]Hodgkin's disease NOS,128930002,207613010
+Hodgkin Lymphoma,BBj1.00,291931019,"[M]Hodgkin's disease, lymphocytic predominance",128799007,207299018
+Hodgkin Lymphoma,BBj1000,291932014,"Hodgkin lymphoma, lymphocyte-rich",128799007,207303011
+Hodgkin Lymphoma,BBj1100,1233285010,"[M]Hodgkin,s disease, lymphocytic predominance, nodular",70600005,1233285010
+Hodgkin Lymphoma,BBj2.00,1229767019,"[M]Hodgkin's disease, mixed cellularity",41529000,1229767019
+Hodgkin Lymphoma,BBj4.00,310071000006116,"[M]Hodgkin's disease, lymphocytic depletion, diffuse fibrosis",16893006,1221432018
+Hodgkin Lymphoma,BBj6.00,215914013,"Hodgkin lymphoma, nodular sclerosis",52248008,198368015
+Hodgkin Lymphoma,BBj6000,310141000006111,"[M]Hodgkin,s disease, nodular sclerosis, lymphocytic predominance",45572000,1230240010
+Hodgkin Lymphoma,BBj6100,291933016,"Hodgkin lymphoma, nodular sclerosis, grade 1",45572000,197881018
+Hodgkin Lymphoma,BBj6200,310131000006118,"[M]Hodgkin's disease, nodular sclerosis, lymphocytic depletion",43985008,1230036014
+Hodgkin Lymphoma,BBj7.00,1229491012,"[M]Hodgkin's disease, nodular sclerosis, cellular phase",39086001,1229491012
+Hodgkin Lymphoma,BBj9.00,1233711012,[M]Hodgkin's granuloma,74189002,1233711012
+Hodgkin Lymphoma,BBjz.00,453326010,[M]Hodgkin's disease NOS,128930002,207613010
+Hodgkin Lymphoma,ByuD000,292169014,[X]Other Hodgkin's disease,118599009,2663473018
+Hodgkin Lymphoma,ZV10711,1227575015,[V]Personal history of Hodgkin's disease,266987004,397818015

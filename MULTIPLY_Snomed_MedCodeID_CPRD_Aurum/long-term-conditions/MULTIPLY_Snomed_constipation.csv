@@ -1,0 +1,13 @@
+Condition,ReadCode,MedCodeId,Term,SnomedCTConceptId,SnomedCTDescriptionId
+Constipation,19C..00,25076018,Constipation,14760008,25076018
+Constipation,19C..11,590111000006111,Constipation symptom,14760008,25076018
+Constipation,19C2.00,2162207016,Constipated,14760008,2162207016
+Constipation,19CZ.00,303166010,Constipation NOS,14760008,25076018
+Constipation,J520.00,303161017,Constipation - functional,197118003,303161017
+Constipation,J520100,484894013,Chronic constipation with overflow,31499008,484894013
+Constipation,J520200,303163019,Chronic constipation without overflow,197120000,303163019
+Constipation,J520300,630451000006116,Drug-induced constipation,21782001,36557014
+Constipation,J520400,353853017,Chronic constipation,236069009,353853017
+Constipation,J520y00,303165014,Other specified constipation,14760008,25076018
+Constipation,J520z00,590101000006113,Constipation NOS,14760008,25076018
+Constipation,J521100,2791650019,Irritable bowel syndrome characterised by constipation,440630006,2791650019

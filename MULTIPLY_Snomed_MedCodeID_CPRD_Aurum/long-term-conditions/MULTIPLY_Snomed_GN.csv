@@ -1,0 +1,161 @@
+Condition,ReadCode,MedCodeId,Term,SnomedCTConceptId,SnomedCTDescriptionId
+Glomerulonephritis and other nephritides,14D1.00,251763010,H/O: nephritis,161546008,251763010
+Glomerulonephritis and other nephritides,A786.00,249896014,Haemorrhagic nephrosonephritis,364756009,487930011
+Glomerulonephritis and other nephritides,D310100,354514013,Henoch-Schonlein nephritis,236504007,354514013
+Glomerulonephritis and other nephritides,G752111,354518011,Antiglomerular basement membrane disease,236506009,354518011
+Glomerulonephritis and other nephritides,G752112,2214081000000112,Anti GBM disease - Antiglomerular basement membrane disease,236506009,2214081000000112
+Glomerulonephritis and other nephritides,K0...00,303806010,"Nephritis, nephrosis and nephrotic syndrome",197577008,303806010
+Glomerulonephritis and other nephritides,K00..00,32619017,Acute glomerulonephritis,19351000,32619017
+Glomerulonephritis and other nephritides,K00..11,102173012,Acute nephritis,61503006,102173012
+Glomerulonephritis and other nephritides,K00..12,354351015,Bright's disease,61503006,102173012
+Glomerulonephritis and other nephritides,K000.00,303812017,Acute proliferative glomerulonephritis,197579006,303812017
+Glomerulonephritis and other nephritides,K000100,354363013,Crescentic glomerulonephritis,236398000,354363013
+Glomerulonephritis and other nephritides,K000111,354364019,CGN - Crescentic glomerulonephritis,236398000,354364019
+Glomerulonephritis and other nephritides,K001.00,303814016,Acute nephritis with lesions of necrotising glomerulitis,197580009,303814016
+Glomerulonephritis and other nephritides,K00y.00,303815015,Other acute glomerulonephritis,19351000,32619017
+Glomerulonephritis and other nephritides,K00y000,303816019,Acute glomerulonephritis in diseases EC,197582001,303816019
+Glomerulonephritis and other nephritides,K00y100,303817011,Acute exudative nephritis,197583006,303817011
+Glomerulonephritis and other nephritides,K00y200,303818018,Acute focal nephritis,197584000,303818018
+Glomerulonephritis and other nephritides,K00y300,303819014,Acute diffuse nephritis,197585004,303819014
+Glomerulonephritis and other nephritides,K00yz00,303820015,Other acute glomerulonephritis NOS,19351000,32619017
+Glomerulonephritis and other nephritides,K00z.00,303824012,Acute glomerulonephritis NOS,19351000,32619017
+Glomerulonephritis and other nephritides,K01..00,86957016,Nephrotic syndrome,52254009,86957016
+Glomerulonephritis and other nephritides,K010.00,303825013,Nephrotic syndrome with proliferative glomerulonephritis,197589005,303825013
+Glomerulonephritis and other nephritides,K011.00,303826014,Nephrotic syndrome with membranous glomerulonephritis,197590001,303826014
+Glomerulonephritis and other nephritides,K012.00,677621000006112,Nephrotic syndrome with membranoproliferative glomerulonephritis,197591002,303827017
+Glomerulonephritis and other nephritides,K013.00,396706011,Nephrotic syndrome with minimal change glomerulonephritis,266549004,396706011
+Glomerulonephritis and other nephritides,K013.11,74720014,Lipoid nephrosis,44785005,74720014
+Glomerulonephritis and other nephritides,K013.12,127091000006118,Steroid-sensitive nephrotic syndrome,236380004,354331019
+Glomerulonephritis and other nephritides,K014.00,303832016,"Nephrotic syndrome, minor glomerular abnormality",197593004,303832016
+Glomerulonephritis and other nephritides,K015.00,303833014,"Nephrotic syndrome, focal and segmental glomerular lesions",197594005,303833014
+Glomerulonephritis and other nephritides,K016.00,303834015,"Nephrotic syndrome, diffuse membranous glomerulonephritis",197595006,303834015
+Glomerulonephritis and other nephritides,K017.00,677461000006115,"Nephrotic syndrome, diffuse mesangial proliferative glomerulonephritis",197596007,303835019
+Glomerulonephritis and other nephritides,K018.00,677481000006113,"Nephrotic syndrome, diffuse endocapillary proliferative glomerulonephritis",197597003,303836018
+Glomerulonephritis and other nephritides,K019.00,677471000006110,"Nephrotic syndrome, diffuse mesangiocapillary glomerulonephritis",197598008,303837010
+Glomerulonephritis and other nephritides,K01A.00,303838017,"Nephrotic syndrome, dense deposit disease",197599000,303838017
+Glomerulonephritis and other nephritides,K01B.00,303839013,"Nephrotic syndrome, diffuse crescentic glomerulonephritis",197600002,303839013
+Glomerulonephritis and other nephritides,K01x.00,303844018,Nephrotic syndrome in diseases EC,197603000,303844018
+Glomerulonephritis and other nephritides,K01x000,303845017,Nephrotic syndrome in amyloidosis,197604006,303845017
+Glomerulonephritis and other nephritides,K01x200,303848015,Nephrotic syndrome in malaria,197606008,303848015
+Glomerulonephritis and other nephritides,K01x300,303849011,Nephrotic syndrome in polyarteritis nodosa,197607004,303849011
+Glomerulonephritis and other nephritides,K01x400,677561000006119,Nephrotic syndrome in systemic lupus erythematosus,68815009,114310015
+Glomerulonephritis and other nephritides,K01x411,114310015,Lupus nephritis,68815009,114310015
+Glomerulonephritis and other nephritides,K01y.00,303854019,Nephrotic syndrome with other pathological kidney lesions,52254009,86957016
+Glomerulonephritis and other nephritides,K01z.00,303855018,Nephrotic syndrome NOS,52254009,86957016
+Glomerulonephritis and other nephritides,K02..00,35171019,Chronic glomerulonephritis,20917003,35171019
+Glomerulonephritis and other nephritides,K02..11,677941000006114,Nephritis - chronic,197707007,304004016
+Glomerulonephritis and other nephritides,K020.00,556211000006112,Chronic proliferative glomerulonephritis,197613008,303862010
+Glomerulonephritis and other nephritides,K021.00,555201000006116,Chronic membranous glomerulonephritis,77182004,128137019
+Glomerulonephritis and other nephritides,K022.00,555191000006119,Membranoproliferative glomerulonephritis,80321008,133282018
+Glomerulonephritis and other nephritides,K023.00,303863017,Chronic rapidly progressive glomerulonephritis,236392004,354352010
+Glomerulonephritis and other nephritides,K02y.00,303864011,Other chronic glomerulonephritis,20917003,35171019
+Glomerulonephritis and other nephritides,K02y000,554481000006111,Chronic glomerulonephritis + diseases EC,197616000,303865012
+Glomerulonephritis and other nephritides,K02y200,303867016,Chronic focal glomerulonephritis,197618004,303867016
+Glomerulonephritis and other nephritides,K02y300,303868014,Chronic diffuse glomerulonephritis,197619007,303868014
+Glomerulonephritis and other nephritides,K02yz00,303869018,Other chronic glomerulonephritis NOS,20917003,35171019
+Glomerulonephritis and other nephritides,K02z.00,303870017,Chronic glomerulonephritis NOS,20917003,35171019
+Glomerulonephritis and other nephritides,K03..00,677951000006111,Nephritis,52845002,87940013
+Glomerulonephritis and other nephritides,K03..11,396707019,Nephritis and nephropathy unspecified,52845002,87940013
+Glomerulonephritis and other nephritides,K030.00,303874014,Proliferative nephritis unspecified,52845002,87940013
+Glomerulonephritis and other nephritides,K031.00,303875010,Membranous glomerulonephritis,77182004,128137019
+Glomerulonephritis and other nephritides,K032.00,303876011,Membranoproliferative nephritis unspecified,52845002,87940013
+Glomerulonephritis and other nephritides,K032000,303877019,Focal membranoproliferative glomerulonephritis,197626007,303877019
+Glomerulonephritis and other nephritides,K032100,303878012,Recurrent benign haematuria syndrome,197627003,303878012
+Glomerulonephritis and other nephritides,K032200,763111000006117,Focal glomerulonephritis with focal recurrent macroscopic glomerulonephritis,36171008,60355017
+Glomerulonephritis and other nephritides,K032300,303881019,Anaphylactoid glomerulonephritis,197629000,303881019
+Glomerulonephritis and other nephritides,K032400,666291000006116,Familial glomerulonephritis in Alport's syndrome,399340005,1786829010
+Glomerulonephritis and other nephritides,K032500,303883016,Other familial glomerulonephritis,399340005,1778791010
+Glomerulonephritis and other nephritides,K032600,303884010,Berger's IgA or IgG nephropathy,197632002,303884010
+Glomerulonephritis and other nephritides,K032y00,677981000006115,Nephritis unsp+OS membranoprolif glomerulonephritis lesion,52845002,87940013
+Glomerulonephritis and other nephritides,K032y11,354349019,Hypocomplementaemic persistent glomerulonephritis NEC,197613008,303860019
+Glomerulonephritis and other nephritides,K032y12,354348010,Lobular glomerulonephritis NEC,52845002,87940013
+Glomerulonephritis and other nephritides,K032y13,354347017,Chronic mesangial proliferative glomerulonephritis,197613008,303860019
+Glomerulonephritis and other nephritides,K032y14,354380012,Mesangiocapillary glomerulonephritis,80321008,133280014
+Glomerulonephritis and other nephritides,K032y15,354346014,Mixed membranous and proliferative glomerulonephritis NEC,52845002,87940013
+Glomerulonephritis and other nephritides,K032z00,677971000006118,Nephritis unsp+membranoprolif glomerulonephritis lesion NOS,52845002,87940013
+Glomerulonephritis and other nephritides,K033.00,303894017,Rapidly progressive nephritis unspecified,236392004,354352010
+Glomerulonephritis and other nephritides,K036.00,354516010,Cryoglobulinaemic glomerulonephritis,236505008,354516010
+Glomerulonephritis and other nephritides,K03T.00,83331000006110,"Tubulo-interstit nephritis, not specif as acute or chron",428255004,2694843016
+Glomerulonephritis and other nephritides,K03U.00,81581000006119,"Unspecif nephr synd, diff concentric glomerulonephritis",64212008,106739010
+Glomerulonephritis and other nephritides,K03V.00,77541000006113,"Unspecified nephritic syndrome, dense deposit disease",462181000000102,891521000000111
+Glomerulonephritis and other nephritides,K03W.00,81251000006113,"Unsp nephrit synd, diff endocap prolif glomerulonephritis",3704008,7243014
+Glomerulonephritis and other nephritides,K03X.00,81261000006110,"Unsp nephrit synd, diff mesang prolif glomerulonephritis",197679002,303967017
+Glomerulonephritis and other nephritides,K03y.00,303902013,Other nephritis and nephrosis unspecified,90708001,150315015
+Glomerulonephritis and other nephritides,K03y000,303903015,Other nephritis and nephrosis in diseases EC,90708001,150315015
+Glomerulonephritis and other nephritides,K03y200,303905010,Interstitial nephritis,28689008,48036015
+Glomerulonephritis and other nephritides,K03yz00,303906011,Other nephritis and nephrosis NOS,90708001,150315015
+Glomerulonephritis and other nephritides,K03z.00,303907019,Glomerulonephritis,36171008,60355017
+Glomerulonephritis and other nephritides,K072.00,303938018,Glomerulosclerosis,197661001,303938018
+Glomerulonephritis and other nephritides,K08y500,47940012,Acute interstitial nephritis,28637003,47940012
+Glomerulonephritis and other nephritides,K08y511,1225985011,AIN - Acute interstitial nephritis,28637003,1225985011
+Glomerulonephritis and other nephritides,K08y512,1225986012,ATIN - Acute tubulo-interstitial nephritis,28637003,1225986012
+Glomerulonephritis and other nephritides,K08y513,1225987015,Acute tubulo-interstitial nephritis,28637003,1225987015
+Glomerulonephritis and other nephritides,K08y600,1230447010,Acute idiopathic interstitial nephritis,47330001,1230447010
+Glomerulonephritis and other nephritides,K08y700,1232869016,Acute infective interstitial nephritis,66993009,1232869016
+Glomerulonephritis and other nephritides,K0A..00,303967017,Glomerular disease,197679002,303967017
+Glomerulonephritis and other nephritides,K0A0.00,499033018,Acute nephritic syndrome,61503006,499033018
+Glomerulonephritis and other nephritides,K0A0000,303969019,"Acute nephritic syndrome, minor glomerular abnormality",197681000,303969019
+Glomerulonephritis and other nephritides,K0A0100,458481000006111,"Acute nephritic syndrome, focal and segmental glomerular lesions",197682007,303970018
+Glomerulonephritis and other nephritides,K0A0200,458451000006115,"Acute nephritic syndrome, diffuse membranous glomerulonephritis",197683002,303971019
+Glomerulonephritis and other nephritides,K0A0300,455321000006114,"Acute nephritic syndrome, diffuse mesangial proliferative glomerulonephritis",197684008,303972014
+Glomerulonephritis and other nephritides,K0A0400,440031000006117,"Acute nephritic syndrome, diffuse endocapillary proliferative glomerulonephritis",197685009,303973016
+Glomerulonephritis and other nephritides,K0A0500,458441000006117,"Acute nephritic syndrome, diffuse mesangiocapillary glomerulonephritis",197686005,303974010
+Glomerulonephritis and other nephritides,K0A0600,303975011,"Acute nephritic syndrome, dense deposit disease",197687001,303975011
+Glomerulonephritis and other nephritides,K0A0700,458521000006111,"Acute nephritic syndrome, diffuse crescentic glomerulonephritis",197688006,303976012
+Glomerulonephritis and other nephritides,K0A1.00,303977015,Rapidly progressive nephritic syndrome,197689003,303977015
+Glomerulonephritis and other nephritides,K0A1100,191891000006110,"Rapidly progressive nephritic syndrome, focal and segmental glomerular lesions",197691006,303979017
+Glomerulonephritis and other nephritides,K0A1200,191861000006119,"Rapidly progressive nephritic syndrome, diffuse membranous glomerulonephritis",197692004,303980019
+Glomerulonephritis and other nephritides,K0A1300,165061000006114,"Rapidly progressive nephritic syndrome, diffuse mesangial proliferative glomerulonephritis",197693009,303981015
+Glomerulonephritis and other nephritides,K0A1400,191851000006116,"Rapidly progressive nephritic syndrome, diffuse endocapillary proliferative glomerulonephritis",197694003,303982010
+Glomerulonephritis and other nephritides,K0A1600,191901000006114,"Rapidly progressive nephritic syndrome, dense deposit disease",197696001,303984011
+Glomerulonephritis and other nephritides,K0A1700,191881000006112,"Rapidly progressive nephritic syndrome, diffuse crescentic glomerulonephritis",197697005,303985012
+Glomerulonephritis and other nephritides,K0A2.00,303986013,Recurrent haematuria,281860005,419991013
+Glomerulonephritis and other nephritides,K0A2000,183201000006117,Recurrent haematuria co-occurrent and due to minor glomerular abnormality,714823009,3300550011
+Glomerulonephritis and other nephritides,K0A2100,189151000006111,Recurrent haematuria co-occurrent and due to focal and segmental glomerular lesions,714827005,3300562010
+Glomerulonephritis and other nephritides,K0A2200,189141000006114,Recurrent haematuria co-occurrent and due to diffuse membranous glomerulonephritis,714821006,3300544018
+Glomerulonephritis and other nephritides,K0A2300,189171000006118,Recurrent haematuria co-occurrent and due to diffuse mesangial proliferative glomerulonephritis,714825002,3300556017
+Glomerulonephritis and other nephritides,K0A2500,189181000006115,Recurrent haematuria co-occurrent and due to diffuse mesangiocapillary glomerulonephritis,714819001,3300538017
+Glomerulonephritis and other nephritides,K0A2600,304001012,Recurrent haematuria co-occurrent and due to dense deposit disease,714813000,3300520015
+Glomerulonephritis and other nephritides,K0A2700,189131000006116,Recurrent haematuria co-occurrent and due to diffuse crescentic glomerulonephritis,714815007,3300526014
+Glomerulonephritis and other nephritides,K0A2800,354379014,IgA nephropathy,236407003,354379014
+Glomerulonephritis and other nephritides,K0A3.00,304004016,Chronic nephritic syndrome,197707007,304004016
+Glomerulonephritis and other nephritides,K0A3000,304005015,"Chronic nephritic syndrome, minor glomerular abnormality",197708002,304005015
+Glomerulonephritis and other nephritides,K0A3100,555391000006117,"Chronic nephritic syndrome, focal and segmental glomerular lesions",197709005,304006019
+Glomerulonephritis and other nephritides,K0A3200,553201000006117,"Chronic nephritic syndrome, diffuse membranous glomerulonephritis",77182004,1234074010
+Glomerulonephritis and other nephritides,K0A3300,553181000006118,"Chronic nephritic syndrome, diffuse mesangial proliferative glomerulonephritis",197613008,303861015
+Glomerulonephritis and other nephritides,K0A3500,555371000006118,"Chronic nephritic syndrome, diffuse mesangiocapillary glomerulonephritis",197713003,304010016
+Glomerulonephritis and other nephritides,K0A3600,304011017,"Chronic nephritic syndrome, dense deposit disease",197714009,304011017
+Glomerulonephritis and other nephritides,K0A3700,555381000006115,"Chronic nephritic syndrome, diffuse crescentic glomerulonephritis",197715005,304012012
+Glomerulonephritis and other nephritides,K0A4.00,304013019,Isolated proteinuria with specified morphological lesion,197716006,304013019
+Glomerulonephritis and other nephritides,K0A4100,715441000006113,"Isolated proteinuria with specified morphological lesion, focal and segmental glomerular lesions",197719004,304016010
+Glomerulonephritis and other nephritides,K0A4200,712841000006115,"Isolated proteinuria with specified morphological lesion, diffuse membranous glomerulonephritis",197720005,304017018
+Glomerulonephritis and other nephritides,K0A4300,742241000006111,"Isolated proteinuria with specified morphological lesion, diffuse mesangial proliferative glomerulonephritis",197721009,304018011
+Glomerulonephritis and other nephritides,K0A4500,745481000006111,"Isolated proteinuria with specified morphological lesion, diffuse mesangiocapillary glomerulonephritis",197723007,304020014
+Glomerulonephritis and other nephritides,K0A4W00,739121000006119,"Isolated proteinuria, with unspecified morpholog changes",390361000000103,891551000000118
+Glomerulonephritis and other nephritides,K0A4X00,736981000006111,"Isolated proteinuria, with oth specif morpholog changes",197679002,303967017
+Glomerulonephritis and other nephritides,K0A5200,821711000006113,"Hereditry nephropathy NEC,difus membran glomerulnephritis",236526008,354545012
+Glomerulonephritis and other nephritides,K0A5300,821741000006112,Heredtry nephrpthy NEC difus mesangial prolif glomnephrit,236526008,354545012
+Glomerulonephritis and other nephritides,K0A5700,821481000006114,"Hereditary nephropathy,NEC,difus crescentic glomnephritis",236526008,354545012
+Glomerulonephritis and other nephritides,K0A7.00,803321000006112,Glomerular disorders in blood diseases and disorders involving the immune mechanism,197739000,304037019
+Glomerulonephritis and other nephritides,K0A8.00,354352010,Rapidly progressive glomerulonephritis,236392004,354352010
+Glomerulonephritis and other nephritides,K0A9.00,354636018,Cytomegalovirus-induced glomerulonephritis,236590008,354636018
+Glomerulonephritis and other nephritides,K0C5.00,1227911011,Acute drug-induced interstitial nephritis,32093003,1227911011
+Glomerulonephritis and other nephritides,K0y..00,304056012,"Other specified nephritis, nephrosis or nephrotic syndrome",90708001,150315015
+Glomerulonephritis and other nephritides,K0z..00,304058013,"Nephritis, nephrosis and nephrotic syndrome NOS",90708001,150315015
+Glomerulonephritis and other nephritides,K100.00,105227013,Chronic pyelonephritis,63302006,105227013
+Glomerulonephritis and other nephritides,K100000,304060010,Chronic pyelonephritis without medullary necrosis,197760006,304060010
+Glomerulonephritis and other nephritides,K100100,304061014,Chronic pyelonephritis with medullary necrosis,197761005,304061014
+Glomerulonephritis and other nephritides,K100400,585761000006118,Nonobstructive reflux-associated chronic pyelonephritis,197764002,304064018
+Glomerulonephritis and other nephritides,K100500,354330018,Chronic obstructive pyelonephritis,236379002,354330018
+Glomerulonephritis and other nephritides,K100600,39884018,Calculous pyelonephritis,23754003,39884018
+Glomerulonephritis and other nephritides,K100z00,304067013,Chronic pyelonephritis NOS,63302006,105227013
+Glomerulonephritis and other nephritides,K101400,354323012,Emphysematous pyelonephritis,236373001,354323012
+Glomerulonephritis and other nephritides,K104.00,65241012,Xanthogranulomatous pyelonephritis,38898003,65241012
+Glomerulonephritis and other nephritides,K105.00,354324018,Chronic infective interstitial nephritis,236374007,354324018
+Glomerulonephritis and other nephritides,K13yz11,150798017,Salt-losing nephritis,91003006,150797010
+Glomerulonephritis and other nephritides,Kyu0800,430601000006115,"[X]Unspecif nephritic syndr, minor glomerular abnormality",197679002,303967017
+Glomerulonephritis and other nephritides,Kyu0900,430101000006111,"[X]Unsp nephrit synd, diff mesang prolif glomerulonephritis",197679002,303967017
+Glomerulonephritis and other nephritides,Kyu0B00,305166012,"[X]Unspecified nephritic syndrome, dense deposit disease",462181000000102,891521000000111
+Glomerulonephritis and other nephritides,Kyu1000,305172012,[X]Other chronic tubulo-interstitial nephritis,60926001,101225013
+Glomerulonephritis and other nephritides,Kyu1E00,429641000006113,Tubulointerstitial nephritis,428255004,2694843016
+Glomerulonephritis and other nephritides,SP08b00,354632016,De novo glomerulonephritis,236586006,354632016

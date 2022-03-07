@@ -1,0 +1,43 @@
+Condition,ReadCode,MedCodeId,Term,SnomedCTConceptId,SnomedCTDescriptionId
+Diverticular disease of intestine,7718000,651641000006113,Excision of diverticula of colon,386197003,1480377015
+Diverticular disease of intestine,J23z300,1222658010,Appendicular diverticulum,21692001,1222658010
+Diverticular disease of intestine,J51..00,105596011,Diverticula of intestine,63532004,105596011
+Diverticular disease of intestine,J51..11,1777478012,Diverticular disease,397881000,1777478012
+Diverticular disease of intestine,J510.00,1786007012,Diverticulosis,397881000,1777478012
+Diverticular disease of intestine,J510000,303123015,Diverticulosis of the duodenum,197083003,303123015
+Diverticular disease of intestine,J510100,303124014,Diverticulosis of the jejunum,197084009,303124014
+Diverticular disease of intestine,J510200,303126011,Diverticulosis of the ileum,197085005,303126011
+Diverticular disease of intestine,J510300,303127019,Diverticulosis of the small intestine unspecified,8114009,14400014
+Diverticular disease of intestine,J510400,303128012,Diverticulosis of small intestine,8114009,14400014
+Diverticular disease of intestine,J510500,1786077011,Diverticular disease of colon,398050005,1777620011
+Diverticular disease of intestine,J510600,303131013,Diverticulosis of the large intestine unspecified,398157006,1777716018
+Diverticular disease of intestine,J510700,303132018,Diverticular disease of large intestine,398157006,1777716018
+Diverticular disease of intestine,J510800,626561000006118,Diverticular disease of both small and large intestine without perforation or abscess,197091007,303133011
+Diverticular disease of intestine,J510900,303134017,Bleeding diverticulosis,197092000,303134017
+Diverticular disease of intestine,J510y00,303135016,Diverticulosis,397881000,1786007012
+Diverticular disease of intestine,J510z00,303136015,Diverticulosis NOS,397881000,1777478012
+Diverticular disease of intestine,J511.00,450775010,Diverticulitis,307496006,450775010
+Diverticular disease of intestine,J511000,485644015,Diverticulitis of the duodenum,33838003,485644015
+Diverticular disease of intestine,J511100,626681000006110,Diverticulitis of jejunum,111358007,178594018
+Diverticular disease of intestine,J511200,500628015,Diverticulitis of the ileum,67153004,500628015
+Diverticular disease of intestine,J511300,303141011,Diverticulitis of the small intestine unspecified,56165008,93400012
+Diverticular disease of intestine,J511400,303142016,Diverticulitis of small intestine,56165008,93400012
+Diverticular disease of intestine,J511500,626651000006119,Diverticulitis of colon,111359004,178595017
+Diverticular disease of intestine,J511600,303143014,Diverticulitis of the large intestine unspecified,4494009,7629011
+Diverticular disease of intestine,J511700,303144015,Diverticulitis of large intestine,4494009,7629011
+Diverticular disease of intestine,J511y00,303145019,Diverticulitis unspecified,307496006,450775010
+Diverticular disease of intestine,J511z00,303146018,Diverticulitis NOS,307496006,450775010
+Diverticular disease of intestine,J512.00,303147010,Perforated diverticulum,197104005,3512575015
+Diverticular disease of intestine,J512000,303148017,Perforated diverticulum of duodenum,197105006,303148017
+Diverticular disease of intestine,J512100,303149013,Perforated diverticulum of jejunum,197106007,303149013
+Diverticular disease of intestine,J512200,303150013,Perforated diverticulum of ileum,197107003,303150013
+Diverticular disease of intestine,J512300,303151012,Perforated diverticulum of small intestine unspecified,280993006,418881013
+Diverticular disease of intestine,J512400,303152017,Perforated diverticulum of small intestine,280993006,418881013
+Diverticular disease of intestine,J512500,503419012,Perforated diverticulum of colon,76953007,503419012
+Diverticular disease of intestine,J512600,303153010,Perforated diverticulum of large intestine unspecified,280992001,418880014
+Diverticular disease of intestine,J512700,303154016,Perforated diverticulum of large intestine,280992001,418880014
+Diverticular disease of intestine,J512800,626571000006113,Diverticular disease of both small and large intestine with perforation and abscess,197112002,303155015
+Diverticular disease of intestine,J512y00,303156019,Perforated diverticulum of intestine,197104005,3512575015
+Diverticular disease of intestine,J512z00,303157011,Perforated diverticulum of intestine NOS,197104005,3512575015
+Diverticular disease of intestine,J513.00,353440011,Diverticular abscess,235774002,353440011
+Diverticular disease of intestine,J51z.00,303159014,Diverticula of the intestine NOS,63532004,105596011

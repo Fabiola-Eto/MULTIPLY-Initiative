@@ -1,0 +1,17 @@
+Condition,ReadCode,MedCodeId,Term,SnomedCTConceptId,SnomedCTDescriptionId
+Autism and Asperger's syndrome,E140.00,781051000006117,Infantile autism,408857007,2470703014
+Autism and Asperger's syndrome,E140.11,2477201014,Kanner's syndrome,408856003,2477201014
+Autism and Asperger's syndrome,E140.12,2579633010,Autism,35919005,486317010
+Autism and Asperger's syndrome,E140.13,72723012,Childhood autism,43614003,72723012
+Autism and Asperger's syndrome,E140000,294935010,Active infantile autism,191689008,294935010
+Autism and Asperger's syndrome,E140100,294936011,Residual infantile autism,191690004,294936011
+Autism and Asperger's syndrome,E140z00,294937019,Infantile autism NOS,408857007,2470703014
+Autism and Asperger's syndrome,Eu84000,370801000006114,[X]Childhood autism,43614003,72723012
+Autism and Asperger's syndrome,Eu84011,366581000006112,Autistic disorder,408856003,2470702016
+Autism and Asperger's syndrome,Eu84012,389671000006119,[X]Infantile autism,408857007,2470703014
+Autism and Asperger's syndrome,Eu84014,394581000006118,[X]Kanner's syndrome,408856003,2477201014
+Autism and Asperger's syndrome,Eu84100,366531000006111,Atypical autism,231536004,347022013
+Autism and Asperger's syndrome,Eu84112,398241000006118,[X]Mental retardation with autistic features,231536004,347022013
+Autism and Asperger's syndrome,Eu84500,363931000006110,Asperger's syndrome,23560001,2162281017
+Autism and Asperger's syndrome,Eu84511,366591000006110,[X]Autistic psychopathy,23560001,2162281017
+Autism and Asperger's syndrome,Eu84z11,2535850012,Autistic spectrum disorder,35919005,486317010

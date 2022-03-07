@@ -1,0 +1,61 @@
+Condition,ReadCode,MedCodeId,Term,SnomedCTConceptId,SnomedCTDescriptionId
+COPD,14B3.12,1765681000000110,History of chronic obstructive pulmonary disease,270473001,1765681000000110
+COPD,14OX.00,1699821000006113,At risk of chronic obstructive pulmonary disease exacerbation,383611000000102,756761000000112
+COPD,2126F00,2408831000000112,Chronic obstructive pulmonary disease resolved,941201000000103,2408831000000112
+COPD,H3...00,475431013,Chronic obstructive pulmonary disease,13645005,475431013
+COPD,H3...11,555471000006114,COAD - Chronic obstructive airways disease,13645005,475423015
+COPD,H31..00,105519017,Chronic bronchitis,63480004,105519017
+COPD,H310.00,508561017,Simple chronic bronchitis,61937009,102938011
+COPD,H310000,508562012,Chronic catarrhal bronchitis,89549007,508562012
+COPD,H310100,78013015,Smokers' cough,46802002,78013015
+COPD,H310z00,301444018,Simple chronic bronchitis NOS,61937009,102938011
+COPD,H311.00,123588010,Mucopurulent chronic bronchitis,74417001,123588010
+COPD,H311000,506053014,Purulent chronic bronchitis,84409004,506053014
+COPD,H311100,139979010,Fetid chronic bronchitis,84409004,506053014
+COPD,H311z00,301448015,Mucopurulent chronic bronchitis NOS,74417001,123588010
+COPD,H312.00,285104011,Obstructive chronic bronchitis,185086009,285100019
+COPD,H312000,301450011,Chronic asthmatic bronchitis,195949008,301450011
+COPD,H312011,301451010,Chronic wheezy bronchitis,195949008,301451010
+COPD,H312100,285100019,Emphysematous bronchitis,185086009,285100019
+COPD,H312200,301453013,Acute exacerbation of chronic obstructive airways disease,195951007,301453013
+COPD,H312300,492443010,Bronchiolitis obliterans,40100001,492443010
+COPD,H312z00,301455018,Obstructive chronic bronchitis NOS,185086009,285100019
+COPD,H313.00,301456017,Mixed simple and mucopurulent chronic bronchitis,195953005,301456017
+COPD,H31y.00,301457014,Other chronic bronchitis,63480004,105519017
+COPD,H31y000,13306011,Chronic tracheitis,7457009,13306011
+COPD,H31y100,87480013,Chronic tracheobronchitis,52571006,87480013
+COPD,H31yz00,301458016,Other chronic bronchitis NOS,63480004,105519017
+COPD,H31z.00,301459012,Chronic bronchitis NOS,63480004,105519017
+COPD,H32..00,640491000006111,Pulmonary emphysema,87433001,144964015
+COPD,H320.00,301460019,Chronic bullous emphysema,195957006,301460019
+COPD,H320000,301463017,Segmental bullous emphysema,195958001,301463017
+COPD,H320100,301464011,Zonal bullous emphysema,195959009,301464011
+COPD,H320200,27096010,Giant bullous emphysema,16003001,27096010
+COPD,H320300,396108018,Bullous emphysema with collapse,266355005,396108018
+COPD,H320311,109301000006114,Tension pneumatocoele,275503004,411494013
+COPD,H320z00,301468014,Chronic bullous emphysema NOS,195957006,301460019
+COPD,H321.00,9337016,Panlobular emphysema,4981000,9337016
+COPD,H322.00,113497011,Centrilobular emphysema,68328006,113497011
+COPD,H32y.00,301469018,Other emphysema,87433001,144964015
+COPD,H32y000,301470017,Acute vesicular emphysema,195963002,301470017
+COPD,H32y100,396109014,Atrophic (senile) emphysema,266356006,396109014
+COPD,H32y111,457581000006111,Acute interstitial emphysema,77690003,503646013
+COPD,H32y200,1230190015,MacLeod's unilateral emphysema,45145000,1230190015
+COPD,H32yz00,396110016,Other emphysema NOS,87433001,144964015
+COPD,H32z.00,301477019,Emphysema NOS,87433001,144964015
+COPD,H36..00,457168017,Mild chronic obstructive pulmonary disease,313296004,457168017
+COPD,H37..00,457169013,Moderate chronic obstructive pulmonary disease,313297008,457169013
+COPD,H38..00,457171013,Severe chronic obstructive pulmonary disease,313299006,457171013
+COPD,H39..00,516801000000112,Very severe chronic obstructive pulmonary disease,293991000000106,516801000000112
+COPD,H3A..00,216596014,End stage chronic obstructive airways disease,135836000,216596014
+COPD,H3y..00,301539010,Other specified chronic obstructive airways disease,13645005,475428012
+COPD,H3y..11,1222334016,Other specified chronic obstructive pulmonary disease,13645005,475431013
+COPD,H3y0.00,555461000006119,Chronic obstructive pulmonary disease with acute lower respiratory infection,196001008,301542016
+COPD,H3y1.00,553211000006119,"Chron obstruct pulmonary dis wth acute exacerbation, unspec",195951007,301453013
+COPD,H3z..00,301545019,Chronic obstructive airway disease,13645005,475428012
+COPD,H3z..11,1222335015,Chronic obstructive pulmonary disease NOS,13645005,475431013
+COPD,H464000,301572010,Chronic emphysema due to chemical fumes,196026004,301572010
+COPD,H464100,269761000006112,Obliterative bronchiolitis due to chemical fumes,196027008,301573017
+COPD,H583200,2240631000000119,Eosinophilic bronchitis,866901000000103,2240631000000119
+COPD,Hyu3000,301835010,[X]Other emphysema,87433001,144964015
+COPD,Hyu3100,301836011,[X]Other specified chronic obstructive pulmonary disease,13645005,475431013

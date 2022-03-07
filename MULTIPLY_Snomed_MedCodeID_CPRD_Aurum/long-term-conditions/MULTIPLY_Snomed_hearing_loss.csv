@@ -1,0 +1,181 @@
+Condition,ReadCode,MedCodeId,Term,SnomedCTConceptId,SnomedCTDescriptionId
+Hearing loss,1493.00,251667016,H/O: hearing problem,161497002,251667016
+Hearing loss,1C12.00,253157015,Hearing difficulty,162340000,253157015
+Hearing loss,1C13.00,608101000006118,Deafness,15188001,25788011
+Hearing loss,1C13.11,407075014,Deafness symptom,272033007,407075014
+Hearing loss,1C13100,253161014,Unilateral deafness,162342008,253161014
+Hearing loss,1C13200,470343013,Partial deafness,343087000,470343013
+Hearing loss,1C13300,253163012,Bilateral deafness,162344009,253163012
+Hearing loss,1C16.00,459324019,Deteriorating hearing,314914004,459324019
+Hearing loss,1C17.00,1484996016,Hearing aid problem,390967001,1484996016
+Hearing loss,1C18.00,1780215014,Difficulty hearing with background noise,401008002,1780215014
+Hearing loss,1C19.00,1780216010,Difficulty hearing whispers,401009005,1780216010
+Hearing loss,2BL..11,411844019,O/E - deaf,275879008,411844019
+Hearing loss,2BL2.00,255425013,O/E - slightly deaf,164060004,255425013
+Hearing loss,2BL3.00,255426014,O/E - significantly deaf,164061000,255426014
+Hearing loss,2BL4.00,255427017,O/E - very deaf,164062007,255427017
+Hearing loss,2BL5.00,255428010,O/E - completely deaf,164063002,255428010
+Hearing loss,2BM2.00,255433014,O/E -tune fork=conductive deaf,164068006,255433014
+Hearing loss,2BM2.11,255434015,O/E - conductive deafness,44057004,73473018
+Hearing loss,2BM3.00,255436018,O/E tune fork=perceptive deaf,164069003,255436018
+Hearing loss,2BM3.11,255435019,O/E - perceptive deafness,164069003,255435019
+Hearing loss,2BM4.00,255437010,O/E - High tone deafness,164070002,255437010
+Hearing loss,2DG..00,413668018,Hearing aid worn,285055002,423944012
+Hearing loss,2DH0.00,298231000000110,Uses hearing loop,198061000000105,298231000000110
+Hearing loss,2DH1.00,423945013,Does use hearing aid,285055002,423945013
+Hearing loss,7308400,361091000000119,Insertion of hearing implant in external ear,429585000,2692293012
+Hearing loss,7308500,2693867016,Attention to hearing implant in external ear,428619000,2693867016
+Hearing loss,7308600,2675903011,Removal of hearing implant from external ear,426706000,2675903011
+Hearing loss,7311A00,772531000006119,Insertion of bone anchors for subcutaneous bone anchored hearing aid,232183005,347885014
+Hearing loss,7317C00,360771000000113,Insertion of hearing implant into middle ear,428004000,2694704011
+Hearing loss,7317D00,2695992016,Attention to hearing implant in middle ear,429383008,2695992016
+Hearing loss,7317E00,2675904017,Removal of hearing implant from middle ear,427556004,2675904017
+Hearing loss,7319.00,2675905016,Attachment of bone anchored hearing prosthesis,426733001,2675905016
+Hearing loss,7319000,1542751000006117,Insertion of fixtures for bone anchored hearing prosthesis Stage 1,225861000000101,360871000000115
+Hearing loss,7319100,1542761000006115,Insertion of fixtures for bone anchored hearing prosthesis Stage 2,225951000000109,361051000000110
+Hearing loss,7319200,1542771000006110,Reduction of soft tissue for bone anchored hearing prosthesis,225871000000108,360891000000116
+Hearing loss,7319300,360731000000111,Attention to fixtures for bone anchored hearing prosthesis,225791000000104,360731000000111
+Hearing loss,7319400,1586391000006119,One stage insertion of fixtures for bone anchored hearing prosthesis,280651000000104,482511000000116
+Hearing loss,7319500,1586401000006117,Fitting of external hearing prosthesis to bone anchored fixtures,426647008,2675980012
+Hearing loss,7319600,1586411000006119,First stage insertion of fixtures for bone anchored hearing prosthesis,225861000000101,487301000000112
+Hearing loss,7319700,1586421000006110,Second stage insertion of fixtures for bone anchored hearing prosthesis,225951000000109,487311000000114
+Hearing loss,7319y00,1542791000006111,Other specified attachment bone anchored hearing prosthesis,426733001,2675905016
+Hearing loss,7319z00,378241000000119,Attachment of bone anchored hearing prosthesis NOS,426733001,2675905016
+Hearing loss,8D2..12,419723011,Hearing aid provision,281656009,419723011
+Hearing loss,8D21.00,283069016,Provide head worn hearing aid,183123004,283069016
+Hearing loss,8D22.00,283070015,Provide body worn hearing aid,183124005,283070015
+Hearing loss,8D23.00,283071016,Ear fitting hearing aid,183125006,283071016
+Hearing loss,8D24.00,283072011,Replace hearing aid battery,183126007,283072011
+Hearing loss,8D26.00,2882346015,Provision of replacement hearing aid,446499008,2882346015
+Hearing loss,8E3..00,283305018,Deafness remedial therapy,183280009,283305018
+Hearing loss,8E3Z.00,283308016,Deafness remedial therapy NOS,183280009,283305018
+Hearing loss,8HT2.00,185541000006117,Refer to hearing aid clinic,183853009,284059016
+Hearing loss,8M41.00,1488593014,Hearing aid requested,394889008,1488593014
+Hearing loss,9N0b.00,457008018,Seen in hearing aid clinic,313152005,457008018
+Hearing loss,9Nfa.00,2440101000000118,Requires deafblind manual alphabet interpreter,957051000000100,2440101000000118
+Hearing loss,9Nfb.00,2440141000000115,Requires deafblind block alphabet interpreter,957071000000109,2440141000000115
+Hearing loss,9NfB.00,1779881000000115,Requires deafblind communicator guide,796201000000109,1779881000000115
+Hearing loss,A560200,286780017,Rubella deafness,186570004,286780017
+Hearing loss,F580100,207971000006112,Presbyacusia,49526009,82492017
+Hearing loss,F580111,148351000006111,Senile presbyacusis,49526009,82492017
+Hearing loss,F581200,121916015,Noise-induced hearing loss,73415002,121916015
+Hearing loss,F581211,587171000006119,Noise induced deafness,73415002,121916015
+Hearing loss,F582.00,299208013,Sudden hearing loss,79471008,131848010
+Hearing loss,F59..00,25788011,Hearing loss,15188001,25788011
+Hearing loss,F59..11,25785014,Deafness,15188001,25788011
+Hearing loss,F590.00,73470015,Conductive hearing loss,44057004,73470015
+Hearing loss,F590.11,73473018,Conductive deafness,44057004,73473018
+Hearing loss,F590000,299240012,Unspecified conductive hearing loss,44057004,73470015
+Hearing loss,F590100,299241011,Conductive hearing loss due to disorder of external ear,194413008,299241011
+Hearing loss,F590200,299242016,Conductive hearing loss due to disorder of tympanic membrane,194414002,299242016
+Hearing loss,F590300,299243014,Conductive hearing loss due to disorder of middle ear,194415001,299243014
+Hearing loss,F590400,299244015,Conductive hearing loss due to disorder of inner ear,194416000,299244015
+Hearing loss,F590500,299245019,"Conductive hearing loss, bilateral",194417009,299245019
+Hearing loss,F590600,578361000006118,"Conductive hearing loss, unilateral with unrestricted hearing on the contralateral side",194418004,299246018
+Hearing loss,F590y00,299247010,Combined conductive hearing loss,194419007,299247010
+Hearing loss,F590z00,299248017,Conductive hearing loss NOS,44057004,73470015
+Hearing loss,F591.00,100850012,Sensorineural hearing loss,60700002,100850012
+Hearing loss,F591.11,822981000006112,High frequency deafness,232326009,348076010
+Hearing loss,F591.12,733941000006114,Low frequency deafness,42538001,70962017
+Hearing loss,F591.13,100857010,Perceptive deafness,60700002,100857010
+Hearing loss,F591.14,100856018,Perceptive hearing loss,60700002,100856018
+Hearing loss,F591000,299255015,Unspecified perceptive hearing loss,60700002,100850012
+Hearing loss,F591100,141844010,Sensory hearing loss,85571008,141844010
+Hearing loss,F591200,121849011,Neural hearing loss,73371001,121849011
+Hearing loss,F591211,502417018,Nerve deafness,73371001,502417018
+Hearing loss,F591300,113719012,Central hearing loss,68467004,113719012
+Hearing loss,F591400,512317011,Congenital sensorineural deafness,95828007,512317011
+Hearing loss,F591500,399507018,Ototoxicity - deafness,267677007,399507018
+Hearing loss,F591511,411470013,Drug ototoxicity - deafness,275482009,411470013
+Hearing loss,F591600,299259014,"Sensorineural hearing loss, bilateral",194424005,299259014
+Hearing loss,F591700,148551000006115,"Sensorineural hearing loss, unilateral with unrestricted hearing on the contralateral side",194425006,299260016
+Hearing loss,F591800,1173591000000110,Congenital prelingual deafness,699238006,2983005012
+Hearing loss,F591900,2264121000000111,Bilateral profound sensorineural hearing loss,877191000000104,2264121000000111
+Hearing loss,F591A00,2264161000000115,Bilateral congenital sensorineural hearing loss,877211000000100,2264161000000115
+Hearing loss,F591B00,2226361000000117,Profound sensorineural hearing loss,700454004,2990684014
+Hearing loss,F591C00,2226281000000117,Moderate sensorineural hearing loss,860801000000109,2226281000000117
+Hearing loss,F591D00,2226381000000114,Mild sensorineural hearing loss,860851000000105,2226381000000114
+Hearing loss,F591E00,2226301000000116,Severe sensorineural hearing loss,860811000000106,2226301000000116
+Hearing loss,F591y00,299261017,Combined perceptive hearing loss,194426007,299261017
+Hearing loss,F591z00,299262012,Perceptive hearing loss NOS,60700002,100850012
+Hearing loss,F592.00,1234118017,Mixed conductive and sensorineural deafness,77507001,1234118017
+Hearing loss,F592.11,1234119013,Mixed hearing loss,77507001,1234119013
+Hearing loss,F592000,700951000006112,"Mixed conductive and sensorineural hearing loss, unilateral with unrestricted hearing on the contralateral side",194428008,299263019
+Hearing loss,F592100,299264013,"Mixed conductive and sensorineural hearing loss, bilateral",194429000,299264013
+Hearing loss,F593.00,299265014,Deaf mutism,61947007,102958012
+Hearing loss,F594.00,348076010,High frequency deafness,232326009,348076010
+Hearing loss,F595.00,70962017,Low frequency deafness,42538001,70962017
+Hearing loss,F596.00,622201000000110,Maternally inherited deafness,95828007,158711011
+Hearing loss,F597.00,1173611000000119,Mild acquired hearing loss,737047001,3526449019
+Hearing loss,F598.00,1173631000000110,Moderate acquired hearing loss,737048006,3526451015
+Hearing loss,F599.00,1173651000000115,Severe acquired hearing loss,737049003,3526453017
+Hearing loss,F59A.00,1173671000000112,Profound acquired hearing loss,737050003,3526456013
+Hearing loss,F59A.11,1668111000000114,Deafened,737050003,3526456013
+Hearing loss,F59y.00,299266010,Other specified forms of hearing loss,118230007,180784019
+Hearing loss,F59z.00,399508011,Deafness NOS,272033007,407075014
+Hearing loss,F59z.11,348075014,Chronic deafness,232325008,348075014
+Hearing loss,F5A..00,477221017,Hearing impaired,15188001,477226010
+Hearing loss,Fy1..00,2773231012,Combined visual and hearing impairment,433147009,2773231012
+Hearing loss,Fy1..11,2267601000000116,Dual sensory impairment - deafblind,433147009,2267601000000116
+Hearing loss,Fy1..12,2267571000000111,Deafblind,433147009,2267571000000111
+Hearing loss,FyuU000,299550012,"[X]Deaf mutism, not elsewhere classified",61947007,102958012
+Hearing loss,FyuU100,299551011,[X]Other specified hearing loss,15188001,25788011
+Hearing loss,P40..00,313148014,Ear anomalies with hearing impairment,204224006,313148014
+Hearing loss,P400.00,313149018,"Ear anomalies with hearing impaired, unspecified",204224006,313148014
+Hearing loss,P402.00,313159017,Other external ear anomaly with hearing impairment,25906001,43405015
+Hearing loss,P402z00,313164018,Other external ear anomaly with hearing impairment NOS,25906001,43405015
+Hearing loss,P40z.00,400791015,Other and unspecified ear anomaly with hearing impaired,204224006,313148014
+Hearing loss,P40z.11,377153018,Deafness due to congenital anomaly NEC,204224006,313148014
+Hearing loss,P40zz00,313177010,Ear anomaly with hearing impaired NOS,204224006,313148014
+Hearing loss,PKyP.00,1848531000006116,"Diabetes insipidus, diabetes mellitus, optic atrophy and deafness",70694009,3028935019
+Hearing loss,PKyz800,358234016,"DOOR - Deafness, triphalangeal thumbs, onychodystrophy",239047003,358234016
+Hearing loss,Pyu1B00,396151000006111,Congenital anomaly of ear with impairment of hearing,111339003,178572014
+Hearing loss,SJ15.12,608121000006111,Deafness - traumatic - NOS,9441002,511288012
+Hearing loss,Z8B5.00,5696461000006110,Ability to use hearing aid,285052004,423941016
+Hearing loss,Z8B5100,5696471000006115,Able to use hearing aid,285053009,423942011
+Hearing loss,Z8B5200,5696481000006117,Unable to use hearing aid,285054003,423943018
+Hearing loss,Z8B5300,423945013,Does use hearing aid,285055002,423945013
+Hearing loss,Z8B5311,5696501000006110,Uses hearing aid,285055002,423944012
+Hearing loss,Z8B5500,5696521000006117,Difficulty using hearing aid,285057005,423947017
+Hearing loss,Z911.00,4944961000006113,Hearing aid procedure,225680006,339117017
+Hearing loss,Z911300,5903771000006116,Adjust hearing aid settings,302171008,443738014
+Hearing loss,Z911400,4720481000006112,Changing hearing aid battery,183126007,2619459016
+Hearing loss,Z911500,4944951000006111,Checking hearing aid,225678000,339115013
+Hearing loss,Z911700,4944941000006114,Switching on hearing aid,225676001,339113018
+Hearing loss,Z911800,4944891000006113,Turning off hearing aid,225672004,339106018
+Hearing loss,Z911900,4944931000006116,Putting on hearing aid,225675002,339112011
+Hearing loss,Z911A00,4944901000006112,Listening for feedback whistle of hearing aid,225673009,339109013
+Hearing loss,Z911B00,5754981000006118,Attention to hearing aid,290036002,430012018
+Hearing loss,Z911E00,5755031000006119,Fit ear mould for existing hearing aid,290039009,430017012
+Hearing loss,Z911G00,5755071000006116,Fit ear mould for hearing protection,290041005,430021017
+Hearing loss,Z96..00,5190941000006119,Provision for visual and hearing impairment,243748009,364553019
+Hearing loss,Z961.00,5190951000006117,Provision of guide help for visual and hearing impairment,243749001,364554013
+Hearing loss,Z962.00,5190961000006115,Provision of communicator for visual and hearing impairment,243750001,364555014
+Hearing loss,Z9E8100,419723011,Hearing aid provision,281656009,419723011
+Hearing loss,ZE7..00,5876671000006118,Hearing problem,300228004,441255017
+Hearing loss,ZE81200,5876591000006116,Hearing for whisper impaired,300221005,441247012
+Hearing loss,ZE82200,5876611000006110,Hearing for conversational voice impaired,300223008,441249010
+Hearing loss,ZE84200,5876661000006113,Hearing for voice impaired,300227009,441254018
+Hearing loss,ZE87.00,25788011,Hearing loss,15188001,25788011
+Hearing loss,ZE87.11,25785014,Deafness,15188001,25788011
+Hearing loss,ZE87.11,608101000006118,Deafness,15188001,25788011
+Hearing loss,ZE87.11,918681000006119,Deafness,918681000006103,918681000006119
+Hearing loss,ZE87.12,2740741000006117,Difficulty hearing,15188001,477222012
+Hearing loss,ZE87.13,2740721000006112,Hard of hearing,15188001,477220016
+Hearing loss,ZE87.15,2740771000006113,HI - Hearing impairment,15188001,477225014
+Hearing loss,ZE87.16,2740761000006118,HL - Hearing loss,15188001,477224013
+Hearing loss,ZE87.17,2740711000006116,HOH - Hard of hearing,15188001,477219010
+Hearing loss,ZE87.18,2740731000006110,Hearing impairment,15188001,477221017
+Hearing loss,ZE87.19,477221017,Hearing impaired,15188001,477226010
+Hearing loss,ZE87.19,982621000006118,Hearing impaired,982621000006102,982621000006118
+Hearing loss,ZE87.20,477221017,Hearing impaired,15188001,477226010
+Hearing loss,ZE87.20,982621000006118,Hearing impaired,982621000006102,982621000006118
+Hearing loss,ZL71500,5953611000006113,Referral to hearing therapist,306245000,449202013
+Hearing loss,ZL71600,5953621000006117,Referral to registered hearing aid dispenser,306246004,449203015
+Hearing loss,ZN56900,4926071000006114,Deaf telephone user,224283006,337283010
+Hearing loss,ZN56A00,4926081000006112,Deaf-blind telephone user,224284000,337284016
+Hearing loss,ZV41200,460635011,[V]Problems with hearing,15188001,25785014
+Hearing loss,ZV45G00,460695014,[V]Presence of external hearing-aid,285055002,423944012
+Hearing loss,ZV45N00,669051000000119,Wears bone anchored hearing aid,761591000000105,1687281000000114
+Hearing loss,ZV53200,460872015,[V]Fitting or adjustment of hearing aid,411511000000107,1016091000000113
+Hearing loss,ZV53D00,460886016,[V]Adjustment and management of implanted hearing device,416121000000101,922181000000110

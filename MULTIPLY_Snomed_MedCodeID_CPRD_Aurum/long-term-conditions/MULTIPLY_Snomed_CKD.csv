@@ -1,0 +1,33 @@
+Condition,ReadCode,MedCodeId,Term,SnomedCTConceptId,SnomedCTDescriptionId
+Chronic Kidney Disease,1Z10.00,304031000000117,Chronic kidney disease stage 1,431855005,2767383018
+Chronic Kidney Disease,1Z11.00,304051000000112,Chronic kidney disease stage 2,431856006,2767384012
+Chronic Kidney Disease,1Z12.00,304071000000115,Chronic kidney disease stage 3,433144002,2773184015
+Chronic Kidney Disease,1Z13.00,304091000000116,Chronic kidney disease stage 4,431857002,2767385013
+Chronic Kidney Disease,1Z14.00,304111000000114,Chronic kidney disease stage 5,433146000,2767154014
+Chronic Kidney Disease,1Z15.00,557811000000119,Chronic kidney disease stage 3A,700378005,2990386017
+Chronic Kidney Disease,1Z16.00,557831000000110,Chronic kidney disease stage 3B,700379002,2990361014
+Chronic Kidney Disease,1Z17.00,595541000000119,Chronic kidney disease stage 1 with proteinuria,324121000000109,595541000000119
+Chronic Kidney Disease,1Z17.11,618391000000118,CKD stage 1 with proteinuria,324121000000109,618391000000118
+Chronic Kidney Disease,1Z18.00,595601000000118,Chronic kidney disease stage 1 without proteinuria,324151000000104,595601000000118
+Chronic Kidney Disease,1Z19.00,595661000000119,Chronic kidney disease stage 2 with proteinuria,324181000000105,595661000000119
+Chronic Kidney Disease,1Z19.11,618411000000118,CKD stage 2 with proteinuria,324181000000105,618411000000118
+Chronic Kidney Disease,1Z1A.00,595721000000116,Chronic kidney disease stage 2 without proteinuria,324211000000106,595721000000116
+Chronic Kidney Disease,1Z1A.11,618421000000112,CKD stage 2 without proteinuria,324211000000106,618421000000112
+Chronic Kidney Disease,1Z1B.00,595811000000117,Chronic kidney disease stage 3 with proteinuria,324251000000105,595811000000117
+Chronic Kidney Disease,1Z1B.11,618431000000114,CKD stage 3 with proteinuria,324251000000105,618431000000114
+Chronic Kidney Disease,1Z1C.00,595871000000110,Chronic kidney disease stage 3 without proteinuria,324281000000104,595871000000110
+Chronic Kidney Disease,1Z1C.11,618441000000117,CKD stage 3 without proteinuria,324281000000104,618441000000117
+Chronic Kidney Disease,1Z1D.00,595931000000116,Chronic kidney disease stage 3A with proteinuria,324311000000101,595931000000116
+Chronic Kidney Disease,1Z1D.11,618451000000119,CKD stage 3A with proteinuria,324311000000101,618451000000119
+Chronic Kidney Disease,1Z1E.00,595991000000115,Chronic kidney disease stage 3A without proteinuria,324341000000100,595991000000115
+Chronic Kidney Disease,1Z1E.11,618461000000116,CKD stage 3A without proteinuria,324341000000100,618461000000116
+Chronic Kidney Disease,1Z1F.00,596051000000115,Chronic kidney disease stage 3B with proteinuria,324371000000106,596051000000115
+Chronic Kidney Disease,1Z1F.11,618471000000111,CKD stage 3B with proteinuria,324371000000106,618471000000111
+Chronic Kidney Disease,1Z1G.00,596131000000114,Chronic kidney disease stage 3B without proteinuria,324411000000105,596131000000114
+Chronic Kidney Disease,1Z1H.00,596191000000110,Chronic kidney disease stage 4 with proteinuria,324441000000106,596191000000110
+Chronic Kidney Disease,1Z1J.00,596261000000111,Chronic kidney disease stage 4 without proteinuria,324471000000100,596261000000111
+Chronic Kidney Disease,1Z1J.11,618501000000116,CKD stage 4 without proteinuria,324471000000100,618501000000116
+Chronic Kidney Disease,1Z1K.00,596321000000110,Chronic kidney disease stage 5 with proteinuria,324501000000107,596321000000110
+Chronic Kidney Disease,1Z1L.00,596401000000111,Chronic kidney disease stage 5 without proteinuria,324541000000105,596401000000111
+Chronic Kidney Disease,1Z1L.11,618521000000113,CKD stage 5 without proteinuria,324541000000105,618521000000113
+Chronic Kidney Disease,2126E00,2404491000000115,Chronic kidney disease resolved,939211000000104,2404491000000115

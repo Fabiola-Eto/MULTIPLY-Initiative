@@ -1,0 +1,6 @@
+Condition,ReadCode,MedCodeId,Term,SnomedCTConceptId,SnomedCTDescriptionId
+Enteropathic arthropathy,N031000,309743013,Arthropathy in ulcerative colitis,201727001,309743013
+Enteropathic arthropathy,N031100,309744019,Arthropathy in Crohn's disease,201728006,309744019
+Enteropathic arthropathy,N045300,309833017,Juvenile arthritis in Crohn's disease,201805000,309833017
+Enteropathic arthropathy,N045400,309836013,Juvenile arthritis in ulcerative colitis,201807008,309836013
+Enteropathic arthropathy,Nyu1400,312522015,Post-dysenteric arthropathy,56528004,94003014

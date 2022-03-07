@@ -1,0 +1,39 @@
+Condition,ReadCode,MedCodeId,Term,SnomedCTConceptId,SnomedCTDescriptionId
+Disorders of autonomic nervous system,2BE3.00,255372014,O/E - Horner's syndrome,164018003,255372014
+Disorders of autonomic nervous system,F17..00,500291000006112,Disorders of autonomic nervous system,15241006,477252016
+Disorders of autonomic nervous system,F170.00,143436010,Idiopathic peripheral autonomic neuropathy,86489003,143436010
+Disorders of autonomic nervous system,F170000,86133015,Carotid sinus syndrome,51723007,86133015
+Disorders of autonomic nervous system,F170100,297161015,Cervical sympathetic paralysis,192915005,297161015
+Disorders of autonomic nervous system,F170z00,297162010,Idiopathic peripheral autonomic neuropathy NOS,86489003,143436010
+Disorders of autonomic nervous system,F171.00,297163017,Disorder of peripheral autonomic nervous system,128123007,194717012
+Disorders of autonomic nervous system,F171000,297164011,Autonomic neuropathy due to amyloid,192918007,297164011
+Disorders of autonomic nervous system,F171100,1230890017,Autonomic neuropathy due to diabetes,50620007,1230890017
+Disorders of autonomic nervous system,F171z00,297165012,Disease related peripheral neuropathy,11060002,19167016
+Disorders of autonomic nervous system,F172.00,358981000006112,Horner syndrome,271730003,406625018
+Disorders of autonomic nervous system,F173.00,4637014,Shoulder-hand syndrome,712537009,3082984014
+Disorders of autonomic nervous system,F175.00,208437018,Autonomic dysreflexia,129618003,208437018
+Disorders of autonomic nervous system,F17z.00,399402010,Autonomic nervous system disorder NOS,15241006,25864017
+Disorders of autonomic nervous system,F17z.11,21857010,Horner's syndrome,271730003,406625018
+Disorders of autonomic nervous system,F17z.12,506064012,Autonomic failure,84438001,506064012
+Disorders of autonomic nervous system,F246112,676521000006111,Neurogenic bladder,398064005,1777632010
+Disorders of autonomic nervous system,F347.00,2477180015,Complex regional pain syndrome type II,408751001,2477180015
+Disorders of autonomic nervous system,F369.00,206425010,Complex regional pain syndrome,128200000,206425010
+Disorders of autonomic nervous system,FyuAC00,366601000006119,[X]Autonomic neuropathy/endocrine+metabolic diseases CE,15241006,25864017
+Disorders of autonomic nervous system,FyuAD00,409661000006115,[X]Other disordrs/autonomic nervous system/other diseases CE,15241006,25864017
+Disorders of autonomic nervous system,J16y900,459361011,Delayed gastric emptying,314944001,459361011
+Disorders of autonomic nervous system,J5X..00,676541000006116,Neurogenic bowel,425671009,2674069017
+Disorders of autonomic nervous system,Jyu5700,303774016,"[X]Neurogenic bowel, not elsewhere classified",425671009,2674069017
+Disorders of autonomic nervous system,K16V011,1777632010,Neurogenic bladder,398064005,1777632010
+Disorders of autonomic nervous system,N337.00,13134012,Algoneurodystrophy,128200000,206425010
+Disorders of autonomic nervous system,N337.11,84384011,Algodystrophy,128200000,3511838018
+Disorders of autonomic nervous system,N337.12,186201000006114,Reflex sympathetic dystrophy,128200000,3512095018
+Disorders of autonomic nervous system,N337100,2475469012,Posttraumatic osteoporosis,15743005,26677017
+Disorders of autonomic nervous system,N337111,194673013,Reflex sympathetic dystrophy,128200000,3512095018
+Disorders of autonomic nervous system,N337200,312220010,Algodystrophy of hand,734989004,3512279013
+Disorders of autonomic nervous system,N337300,312221014,Algodystrophy of knee,734988007,3512276018
+Disorders of autonomic nervous system,N337400,312222019,Algodystrophy of foot,734987002,3512273014
+Disorders of autonomic nervous system,N337z00,312223012,Algoneurodystrophy NOS,734947007,3512092015
+Disorders of autonomic nervous system,N33C.00,495737017,Complex regional pain syndrome type I,128200000,206425010
+Disorders of autonomic nervous system,P2x2.00,48792010,Familial dysautonomia,29159009,48792010
+Disorders of autonomic nervous system,P2x5.00,163861000006115,Riley - Day syndrome,29159009,48793017
+Disorders of autonomic nervous system,R050.12,556551000000115,Postural orthostatic tachycardia syndrome,371073003,1209781014

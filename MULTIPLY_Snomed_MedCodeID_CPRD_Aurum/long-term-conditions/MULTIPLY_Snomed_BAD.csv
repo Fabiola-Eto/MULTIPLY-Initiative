@@ -1,0 +1,109 @@
+Condition,ReadCode,MedCodeId,Term,SnomedCTConceptId,SnomedCTDescriptionId
+Bipolar affective disorder and mania,146D.00,1780205015,H/O: manic depressive disorder,400998002,1780205015
+Bipolar affective disorder and mania,1S42.00,2157096015,Manic mood,405273008,2157096015
+Bipolar affective disorder and mania,212T.00,996171000006114,"Psychosis, schizophrenia and bipolar affective disorder resolved",200951000000109,305361000000112
+Bipolar affective disorder and mania,212V.00,492761000000114,Bipolar affective disorder resolved,285491000000101,492761000000114
+Bipolar affective disorder and mania,E03y300,294714016,Postpartum psychosis,18260003,30832017
+Bipolar affective disorder and mania,E11..11,513871000006118,Bipolar disorder,13746004,23447014
+Bipolar affective disorder and mania,E11..13,223601000000119,Manic psychosis,231494001,346966018
+Bipolar affective disorder and mania,E110.00,401765010,"Manic disorder, single episode",268619003,401765010
+Bipolar affective disorder and mania,E110.11,789221000006116,Hypomanic psychoses,231496004,346969013
+Bipolar affective disorder and mania,E110000,294802018,"Single manic episode, unspecified",268619003,401765010
+Bipolar affective disorder and mania,E110100,294803011,"Single manic episode, mild",191583000,294803011
+Bipolar affective disorder and mania,E110200,294804017,"Single manic episode, moderate",191584006,294804017
+Bipolar affective disorder and mania,E110300,294805016,"Single manic episode, severe",764641000000104,1696281000000112
+Bipolar affective disorder and mania,E110400,294806015,"Single manic episode, severe, with psychosis",191586008,294806015
+Bipolar affective disorder and mania,E110500,294807012,Single manic episode in partial remission,764731000000103,1696461000000116
+Bipolar affective disorder and mania,E110600,294808019,Single manic episode in full remission,191588009,294808019
+Bipolar affective disorder and mania,E110z00,294809010,"Manic disorder, single episode NOS",268619003,401765010
+Bipolar affective disorder and mania,E111.00,294810017,Recurrent manic episodes,191590005,294810017
+Bipolar affective disorder and mania,E111000,294811018,"Recurrent manic episodes, unspecified",191590005,294810017
+Bipolar affective disorder and mania,E111100,294812013,"Recurrent manic episodes, mild",191592002,294812013
+Bipolar affective disorder and mania,E111200,294813015,"Recurrent manic episodes, moderate",191593007,294813015
+Bipolar affective disorder and mania,E111300,182871000006115,"Recurrent manic episodes, severe",764621000000106,1696241000000116
+Bipolar affective disorder and mania,E111400,294815010,"Recurrent manic episodes, severe, with psychosis",191595000,294815010
+Bipolar affective disorder and mania,E111500,182861000006110,"Recurrent manic episodes, in partial remission",764671000000105,1696341000000111
+Bipolar affective disorder and mania,E111600,294817019,"Recurrent manic episodes, in full remission",191597008,294817019
+Bipolar affective disorder and mania,E111z00,294818012,Recurrent manic episode NOS,191590005,294810017
+Bipolar affective disorder and mania,E114.00,513801000006112,"Bipolar affective disorder, current episode manic",191618007,294846014
+Bipolar affective disorder and mania,E114.11,294847017,Manic-depressive - now manic,191618007,294847017
+Bipolar affective disorder and mania,E114000,294848010,"Bipolar affective disorder, currently manic, unspecified",191618007,294846014
+Bipolar affective disorder and mania,E114100,294849019,"Bipolar affective disorder, currently manic, mild",191620005,294849019
+Bipolar affective disorder and mania,E114200,294850019,"Bipolar affective disorder, currently manic, moderate",191621009,294850019
+Bipolar affective disorder and mania,E114300,513691000006116,Severe manic bipolar I disorder without psychotic features,162004,1352013
+Bipolar affective disorder and mania,E114400,513701000006116,"Bipolar affect disord, currently manic,severe with psychosis",191623007,294852010
+Bipolar affective disorder and mania,E114500,513741000006119,Manic bipolar I disorder in partial remission,63249007,105141010
+Bipolar affective disorder and mania,E114600,513811000006110,"Bipolar affective disorder, currently manic, in full remission",191625000,294857016
+Bipolar affective disorder and mania,E114z00,294858014,"Bipolar affective disorder, currently manic, NOS",191618007,294846014
+Bipolar affective disorder and mania,E115.00,513751000006117,"Bipolar affective disorder, current episode depression",191627008,294859018
+Bipolar affective disorder and mania,E115.11,294860011,Manic-depressive - now depressed,191627008,294860011
+Bipolar affective disorder and mania,E115000,294861010,"Bipolar affective disorder, currently depressed, unspecified",191627008,294859018
+Bipolar affective disorder and mania,E115100,294862015,"Bipolar affective disorder, currently depressed, mild",191629006,294862015
+Bipolar affective disorder and mania,E115200,294863013,"Bipolar affective disorder, currently depressed, moderate",191630001,294863013
+Bipolar affective disorder and mania,E115300,513731000006112,"Bipolar affect disord, now depressed, severe, no psychosis",61403008,102016011
+Bipolar affective disorder and mania,E115400,513721000006114,"Bipolar affect disord, now depressed, severe with psychosis",765176007,3657334019
+Bipolar affective disorder and mania,E115500,513711000006118,Depressed bipolar I disorder in partial remission,49512000,82468013
+Bipolar affective disorder and mania,E115600,513861000006113,"Bipolar affective disorder, currently depressed, in full remission",191634005,294867014
+Bipolar affective disorder and mania,E115z00,294868016,"Bipolar affective disorder, currently depressed, NOS",191627008,294859018
+Bipolar affective disorder and mania,E116.00,294869012,Mixed bipolar affective disorder,191636007,294869012
+Bipolar affective disorder and mania,E116000,294870013,"Mixed bipolar affective disorder, unspecified",191636007,294869012
+Bipolar affective disorder and mania,E116100,294871012,"Mixed bipolar affective disorder, mild",191638008,294871012
+Bipolar affective disorder and mania,E116200,294872017,"Mixed bipolar affective disorder, moderate",191639000,294872017
+Bipolar affective disorder and mania,E116300,701071000006111,"Mixed bipolar affective disorder, severe",764591000000108,1696181000000118
+Bipolar affective disorder and mania,E116400,294874016,"Mixed bipolar affective disorder, severe, with psychosis",191641004,294874016
+Bipolar affective disorder and mania,E116500,701051000006118,"Mixed bipolar affective disorder, partial/unspec remission",760721000000109,1683621000000116
+Bipolar affective disorder and mania,E116600,294876019,"Mixed bipolar affective disorder, in full remission",191643001,294876019
+Bipolar affective disorder and mania,E116z00,294877011,"Mixed bipolar affective disorder, NOS",191636007,294869012
+Bipolar affective disorder and mania,E117.00,294880012,Unspecified bipolar affective disorder,13746004,2839307017
+Bipolar affective disorder and mania,E117000,294881011,"Unspecified bipolar affective disorder, unspecified",13746004,2839307017
+Bipolar affective disorder and mania,E117100,294882016,Mild bipolar disorder,13313007,22777014
+Bipolar affective disorder and mania,E117200,294883014,Moderate bipolar disorder,79584002,132034014
+Bipolar affective disorder and mania,E117300,82151000006114,Severe bipolar disorder without psychotic features,53049002,88241016
+Bipolar affective disorder and mania,E117400,82171000006116,Severe bipolar disorder with psychotic features,4441000,7545018
+Bipolar affective disorder and mania,E117500,82091000006116,Bipolar disorder in partial remission,5703000,10501015
+Bipolar affective disorder and mania,E117600,294887010,Bipolar disorder in full remission,41836007,69794013
+Bipolar affective disorder and mania,E117z00,294888017,"Unspecified bipolar affective disorder, NOS",13746004,2839307017
+Bipolar affective disorder and mania,E11y.00,294891017,Other and unspecified manic-depressive psychoses,13746004,1221011015
+Bipolar affective disorder and mania,E11y000,294892012,Unspecified manic-depressive psychoses,13746004,1221011015
+Bipolar affective disorder and mania,E11y100,294893019,Atypical manic disorder,191658009,294893019
+Bipolar affective disorder and mania,E11y300,294895014,Mixed bipolar I disorder,16506000,27929014
+Bipolar affective disorder and mania,E11yz00,294896010,Other and unspecified manic-depressive psychoses NOS,13746004,1221011015
+Bipolar affective disorder and mania,E211100,295045015,Hypomanic personality disorder,191753006,295045015
+Bipolar affective disorder and mania,Eu25000,425511000006111,"Schizoaffective disorder, manic type",271428004,406210011
+Bipolar affective disorder and mania,Eu25011,425571000006119,"[X]Schizoaffective psychosis, manic type",271428004,406210011
+Bipolar affective disorder and mania,Eu25012,425701000006119,"[X]Schizophreniform psychosis, manic type",271428004,406211010
+Bipolar affective disorder and mania,Eu30.00,396741000006113,[X]Manic episode,268619003,401765010
+Bipolar affective disorder and mania,Eu30.11,367151000006111,"[X]Bipolar disorder, single manic episode",268619003,401765010
+Bipolar affective disorder and mania,Eu30000,389401000006111,Hypomania,231496004,346969013
+Bipolar affective disorder and mania,Eu30100,296110017,Mania,231494001,346965019
+Bipolar affective disorder and mania,Eu30200,401863011,[X]Mania with psychotic symptoms,231494001,346965019
+Bipolar affective disorder and mania,Eu30211,396701000006111,[X]Mania with mood-congruent psychotic symptoms,231494001,346965019
+Bipolar affective disorder and mania,Eu30212,396711000006114,[X]Mania with mood-incongruent psychotic symptoms,231494001,346965019
+Bipolar affective disorder and mania,Eu30y00,296118012,[X]Other manic episodes,231494001,346965019
+Bipolar affective disorder and mania,Eu30z00,401864017,"[X]Manic episode, unspecified",268619003,401765010
+Bipolar affective disorder and mania,Eu30z11,396691000006111,[X]Mania NOS,268619003,401765010
+Bipolar affective disorder and mania,Eu31.00,367101000006112,Bipolar affective disorder,13746004,2839307017
+Bipolar affective disorder and mania,Eu31.11,396791000006116,Manic-depressive illness,13746004,1221012010
+Bipolar affective disorder and mania,Eu31.12,396801000006115,Manic-depressive psychosis,13746004,1221011015
+Bipolar affective disorder and mania,Eu31.13,396071000006119,[X]Manic-depressive reaction,13746004,23447014
+Bipolar affective disorder and mania,Eu31000,367111000006110,"Bipolar affective disorder, current episode hypomanic",31446002,484876019
+Bipolar affective disorder and mania,Eu31100,367081000006116,[X]Bipolar affect disorder cur epi manic wout psychotic symp,191618007,294846014
+Bipolar affective disorder and mania,Eu31200,367071000006119,"Bipolar affective disorder, currently manic, severe, with psychosis",191623007,294852010
+Bipolar affective disorder and mania,Eu31300,367091000006118,[X]Bipolar affect disorder cur epi mild or moderate depressn,191630001,294863013
+Bipolar affective disorder and mania,Eu31400,367051000006112,Severe depressed bipolar I disorder without psychotic features,61403008,102016011
+Bipolar affective disorder and mania,Eu31500,367061000006114,Psychosis and severe depression co-occurrent and due to bipolar affective disorder,765176007,3657334019
+Bipolar affective disorder and mania,Eu31600,367121000006119,"[X]Bipolar affective disorder, current episode mixed",192362008,296129011
+Bipolar affective disorder and mania,Eu31700,296130018,Bipolar disorder in remission,85248005,141328010
+Bipolar affective disorder and mania,Eu31800,1785851000006110,Bipolar I disorder,371596008,1210225015
+Bipolar affective disorder and mania,Eu31900,1785861000006112,Bipolar II disorder,83225003,138029017
+Bipolar affective disorder and mania,Eu31911,1785871000006117,[X]Bipolar II disorder,83225003,138029017
+Bipolar affective disorder and mania,Eu31y00,401865016,[X]Other bipolar affective disorders,13746004,23447014
+Bipolar affective disorder and mania,Eu31y11,367161000006113,[X]Bipolar II disorder,83225003,138029017
+Bipolar affective disorder and mania,Eu31y12,424661000006111,[X]Recurrent manic episodes,191590005,294810017
+Bipolar affective disorder and mania,Eu31z00,296135011,"[X]Bipolar affective disorder, unspecified",13746004,2839307017
+Bipolar affective disorder and mania,Eu33213,396771000006117,"[X] Manic-depressive psychosis, depressed type without psychotic symptoms",36474008,60885016
+Bipolar affective disorder and mania,Eu33312,396781000006119,"[X]Manic-depress psychosis,depressed type+psychotic symptoms",765176007,3657334019
+Bipolar affective disorder and mania,Eu53111,424281000006115,[X]Puerperal psychosis NOS,199260001,306152013
+Bipolar affective disorder and mania,ZRby100,5933701000006116,"Profile of mood states, bipolar",304757008,447145016
+Bipolar affective disorder and mania,ZV11111,345141000006111,History of mood disorder,429124005,2693532011
+Bipolar affective disorder and mania,ZV11112,1227584015,[V]Personal history of manic-depressive psychosis,429124005,2693532011

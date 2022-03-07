@@ -1,0 +1,27 @@
+Condition,ReadCode,MedCodeId,Term,SnomedCTConceptId,SnomedCTDescriptionId
+Crohn's disease,J08z900,302322010,Orofacial Crohn's disease,196578009,302322010
+Crohn's disease,J40..00,179501000006113,Crohn's regional enteritis,34000006,485713019
+Crohn's disease,J40..11,56765016,Crohn's disease,34000006,56765016
+Crohn's disease,J40..12,56770011,Granulomatous enteritis,34000006,56765016
+Crohn's disease,J400.00,179571000006119,Regional enteritis of the small bowel,56689002,94270018
+Crohn's disease,J400000,497569010,Regional enteritis of the duodenum,56287005,497569010
+Crohn's disease,J400100,302937016,Regional enteritis of the jejunum,196976000,302937016
+Crohn's disease,J400200,601091000006115,Crohn's disease of terminal ileum,196977009,302938014
+Crohn's disease,J400300,302939018,Crohn's disease of the ileum unspecified,38106008,64705019
+Crohn's disease,J400400,302940016,Crohn's disease of ileum,38106008,64705019
+Crohn's disease,J400500,2532958014,Exacerbation of Crohn's disease of small intestine,414154002,2532958014
+Crohn's disease,J400z00,302941017,Crohn's disease of small intestine,56689002,94270018
+Crohn's disease,J401.00,1495442018,Regional enteritis of the large bowel,7620006,1495442018
+Crohn's disease,J401000,179521000006115,Regional enteritis of the colon,50440006,1230866018
+Crohn's disease,J401100,488238014,Regional enteritis of the rectum,3815005,488238014
+Crohn's disease,J401200,2532950019,Exacerbation of Crohn's disease of large intestine,414153008,2532950019
+Crohn's disease,J401z00,396357012,Crohn's disease of large bowel,7620006,13585013
+Crohn's disease,J401z11,601031000006119,CC - Crohn's colitis,50440006,1230866018
+Crohn's disease,J402.00,302946010,Regional ileocolitis,196983007,302946010
+Crohn's disease,J40z.00,302947018,Regional enteritis NOS,34000006,56765016
+Crohn's disease,J40z.11,1222351011,Crohn's disease NOS,34000006,56765016
+Crohn's disease,Jyu4000,303761010,[X]Other Crohn's disease,34000006,56765016
+Crohn's disease,N031100,309744019,Arthropathy in Crohn's disease,201728006,309744019
+Crohn's disease,N045300,309833017,Juvenile arthritis in Crohn's disease,201805000,309833017
+Crohn's disease,ZR3S.00,5548921000006113,Crohn's disease activity index,273364009,408725019
+Crohn's disease,ZR3S.11,5548931000006111,CDAI - Crohn's disease activity index,273364009,408726018

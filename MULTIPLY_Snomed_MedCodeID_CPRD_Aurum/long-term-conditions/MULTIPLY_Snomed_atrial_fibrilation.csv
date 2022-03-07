@@ -1,0 +1,29 @@
+Condition,ReadCode,MedCodeId,Term,SnomedCTConceptId,SnomedCTDescriptionId
+Atrial fibrillation and flutter,14AN.00,456154015,H/O: atrial fibrillation,312442005,456154015
+Atrial fibrillation and flutter,14AR.00,2692063011,History of atrial flutter,428076002,2692063011
+Atrial fibrillation and flutter,212R.00,294601000000110,Atrial fibrillation resolved,196371000000102,294601000000110
+Atrial fibrillation and flutter,3272.00,256478018,ECG: atrial fibrillation,164889003,256478018
+Atrial fibrillation and flutter,3273.00,256479014,ECG: atrial flutter,164890007,256479014
+Atrial fibrillation and flutter,662S.00,216183015,Atrial fibrillation monitoring,134377004,216183015
+Atrial fibrillation and flutter,6A9..00,406861000000119,Atrial fibrillation annual review,248411000000105,406861000000119
+Atrial fibrillation and flutter,7936A00,783761000006118,Implantation of intravenous pacemaker for atrial fibrillation,175146007,271235013
+Atrial fibrillation and flutter,793M100,1587611000006119,Percutaneous transluminal ablation of atrial wall for atrial flutter,707832008,3032484016
+Atrial fibrillation and flutter,793M300,1587631000006113,Perc translum ablat conduct sys heart for atrial flutter NEC,707832008,3032484016
+Atrial fibrillation and flutter,8CMW200,2197581000000114,Atrial fibrillation care pathway,847611000000104,2197581000000114
+Atrial fibrillation and flutter,9hF..00,294171000000112,Exception reporting - atrial fibrillation quality indicators,716871000000101,1569421000000113
+Atrial fibrillation and flutter,9hF1.00,1000031000006118,Excepted from atrial fibrillation quality indicators - informed dissent,717381000000109,1569921000000118
+Atrial fibrillation and flutter,9Os..00,406251000000118,Atrial fibrillation monitoring administration,713801000000102,1565041000000112
+Atrial fibrillation and flutter,9Os0.00,408081000000116,Atrial fibrillation monitoring first letter,717221000000101,1569761000000112
+Atrial fibrillation and flutter,9Os1.00,408101000000110,Atrial fibrillation monitoring second letter,716981000000106,1569531000000111
+Atrial fibrillation and flutter,9Os2.00,408121000000118,Atrial fibrillation monitoring third letter,716181000000109,1568741000000115
+Atrial fibrillation and flutter,9Os3.00,408141000000113,Atrial fibrillation monitoring verbal invite,717011000000100,1570401000000119
+Atrial fibrillation and flutter,9Os4.00,408241000000115,Atrial fibrillation monitoring telephone invite,716721000000107,1570381000000119
+Atrial fibrillation and flutter,G573.00,300130013,Atrial fibrillation and flutter,195080001,300130013
+Atrial fibrillation and flutter,G573000,82343012,Atrial fibrillation,49436004,82343012
+Atrial fibrillation and flutter,G573100,9988012,Atrial flutter,5370000,9988012
+Atrial fibrillation and flutter,G573200,421235014,Paroxysmal atrial fibrillation,282825002,421235014
+Atrial fibrillation and flutter,G573300,350465014,Non-rheumatic atrial fibrillation,233911009,350465014
+Atrial fibrillation and flutter,G573400,636721000000112,Permanent atrial fibrillation,440028005,2793259018
+Atrial fibrillation and flutter,G573500,636701000000115,Persistent atrial fibrillation,440059007,2793372019
+Atrial fibrillation and flutter,G573600,2675306013,Paroxysmal atrial flutter,427665004,2675306013
+Atrial fibrillation and flutter,G573z00,300132017,Atrial fibrillation and flutter NOS,195080001,300130013

@@ -1,0 +1,28 @@
+Condition,ReadCode,MedCodeId,Term,SnomedCTConceptId,SnomedCTDescriptionId
+Eating disorders,1467.00,251631011,H/O: anorexia nervosa,161471008,251631011
+Eating disorders,1FF..00,370419010,Binge eating,248122005,370419010
+Eating disorders,8HTN.00,1780181019,Referral to eating disorders clinic,400973003,1780181019
+Eating disorders,9Nk9.00,664031000000110,Seen in eating disorder clinic,439437006,2791816014
+Eating disorders,E271.00,94597012,Anorexia nervosa,56882008,94597012
+Eating disorders,E275.00,295436010,Other and unspecified non-organic eating disorders,72366004,120239012
+Eating disorders,E275000,295437018,Unspecified non-organic eating disorder,72366004,120239012
+Eating disorders,E275100,527421000006116,Bulimia (non-organic overeating),78004001,129452012
+Eating disorders,E275111,577901000006119,Compulsive eating disorder,78004001,129452012
+Eating disorders,E275200,23968015,Pica,14077003,23968015
+Eating disorders,E275y00,295451018,Other specified non-organic eating disorder,72366004,120239012
+Eating disorders,E275z00,295452013,Non-organic eating disorder NOS,72366004,120239012
+Eating disorders,Eu50.00,296361019,Eating disorder,72366004,120239012
+Eating disorders,Eu50000,363321000006111,[X]Anorexia nervosa,56882008,94597012
+Eating disorders,Eu50100,366521000006113,Atypical anorexia nervosa,231522009,347005011
+Eating disorders,Eu50200,368051000006111,Bulimia nervosa,78004001,129452012
+Eating disorders,Eu50211,368061000006113,[X]Bulimia NOS,78004001,129452012
+Eating disorders,Eu50300,366541000006118,Atypical bulimia nervosa,231523004,347006012
+Eating disorders,Eu50400,417851000006113,Overeating associated with other psychological disturbances,270902002,405370012
+Eating disorders,Eu50411,424061000006117,[X]Psychogenic overeating,270902002,405370012
+Eating disorders,Eu50y00,401889011,[X]Other eating disorders,72366004,120239012
+Eating disorders,Eu50y11,420741000006110,[X]Pica in adults,14077003,23968015
+Eating disorders,Eu50y12,424051000006119,[X]Psychogenic loss of appetite,192017004,295444010
+Eating disorders,Eu50z00,296379015,"[X]Eating disorder, unspecified",72366004,120239012
+Eating disorders,R030.00,317233013,[D]Anorexia,496871000000107,1105981000000113
+Eating disorders,R030z00,317235018,[D]Anorexia NOS,79890006,132549012
+Eating disorders,R036011,1222496015,Bulimia,78004001,129453019

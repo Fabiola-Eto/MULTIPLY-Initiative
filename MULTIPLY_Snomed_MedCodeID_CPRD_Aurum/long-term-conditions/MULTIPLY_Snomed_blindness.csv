@@ -1,0 +1,130 @@
+Condition,ReadCode,MedCodeId,Term,SnomedCTConceptId,SnomedCTDescriptionId
+Visual impairment and blindness,1B75.00,734661000006116,Loss of vision,240311000000103,390341000000115
+Visual impairment and blindness,2B69.00,255271016,O/E -R-eye counts fingers only,163944007,255271016
+Visual impairment and blindness,2B6A.00,402527016,O/E-R-eye perceives light only,268973006,402527016
+Visual impairment and blindness,2B6A.11,255275013,O/E - blind R-eye,163946009,255275013
+Visual impairment and blindness,2B6B.00,255276014,O/E - R-eye completely blind,163946009,255276014
+Visual impairment and blindness,2B6C.00,451387013,O/E - R-eye sees hand movements,308082007,451387013
+Visual impairment and blindness,2B6P.00,2163959010,O/E - pinhole R-eye sees hand movements,408319000,2163959010
+Visual impairment and blindness,2B6Q.00,2163960017,O/E - pinhole R-eye counts fingers only,408320006,2163960017
+Visual impairment and blindness,2B6R.00,2163961018,O/E - pinhole R-eye perceives light only,408321005,2163961018
+Visual impairment and blindness,2B6S.00,2163962013,O/E - pinhole R-eye completely blind,408322003,2163962013
+Visual impairment and blindness,2B6T.00,2163963015,O/E - R-eye visual acuity (corrected) 1/60,408323008,2163963015
+Visual impairment and blindness,2B6V.00,2163964014,O/E - R-eye visual acuity (corrected) 2/60,408324002,2163964014
+Visual impairment and blindness,2B6W.00,2163965010,O/E - R-eye visual acuity (corrected) 4/60,408325001,2163965010
+Visual impairment and blindness,2B6X.00,2163966011,O/E - R-eye visual acuity (corrected) 5/60,408326000,2163966011
+Visual impairment and blindness,2B79.00,255288011,O/E -L-eye counts fingers only,163958009,255288011
+Visual impairment and blindness,2B7A.00,402528014,O/E-L-eye perceives light only,268974000,402528014
+Visual impairment and blindness,2B7A.11,255292016,O/E - blind L-eye,163960006,255292016
+Visual impairment and blindness,2B7B.00,255293014,O/E - L-eye completely blind,163960006,255293014
+Visual impairment and blindness,2B7C.00,451388015,O/E - L-eye sees hand movements,308083002,451388015
+Visual impairment and blindness,2B7P.00,2163955016,O/E - pinhole L-eye sees hand movements,408315006,2163955016
+Visual impairment and blindness,2B7Q.00,2163956015,O/E - pinhole L-eye counts fingers only,408316007,2163956015
+Visual impairment and blindness,2B7R.00,2163957012,O/E - pinhole L-eye perceives light only,408317003,2163957012
+Visual impairment and blindness,2B7S.00,2163958019,O/E - pinhole L-eye completely blind,408318008,2163958019
+Visual impairment and blindness,2B7T.00,2163968012,O/E - L-eye visual acuity (corrected) 1/60,408328004,2163968012
+Visual impairment and blindness,2B7V.00,2163969016,O/E - L-eye visual acuity (corrected) 2/60,408329007,2163969016
+Visual impairment and blindness,2B7W.00,2163970015,O/E - L-eye visual acuity (corrected) 4/60,408330002,2163970015
+Visual impairment and blindness,2B7X.00,2163971016,O/E - L-eye visual acuity (corrected) 5/60,408331003,2163971016
+Visual impairment and blindness,2BBo.00,2549896013,O/E - sight threatening diabetic retinopathy,417677008,2549896013
+Visual impairment and blindness,2BBr.00,733161000000116,Impaired vision due to diabetic retinopathy,373041000000101,733161000000116
+Visual impairment and blindness,6688.00,442202014,Registered partially sighted,300994001,442202014
+Visual impairment and blindness,6688.11,17791000000110,Registered partially blind,2531000000100,17791000000110
+Visual impairment and blindness,6689.00,264661019,Registered blind,170727003,264661019
+Visual impairment and blindness,6689.11,1564221000000111,Registered severely sight impaired,170727003,1564221000000111
+Visual impairment and blindness,668B.00,264662014,Poor visual acuity,170728008,264662014
+Visual impairment and blindness,668C.00,308101000000115,Certificate of vision impairment,727391000000102,1594641000000116
+Visual impairment and blindness,668D.00,1563201000000117,Registered sight impaired,713031000000100,1563201000000117
+Visual impairment and blindness,8F6..11,515731000006113,Blind rehabilitation,183361009,283416014
+Visual impairment and blindness,8F61.00,283416014,Blind rehabilitation,183361009,283416014
+Visual impairment and blindness,8F62.00,515711000006119,Blind lead dog rehabilitation,29960003,484447014
+Visual impairment and blindness,8HlE.00,1060061000000116,Referral to visual impairment multidisciplinary team,492361000000106,1060061000000116
+Visual impairment and blindness,9m08.00,736911000000111,Excluded from diabetic retinopathy screening as blind,374691000000100,736911000000111
+Visual impairment and blindness,9NfB.00,1779881000000115,Requires deafblind communicator guide,796201000000109,1779881000000115
+Visual impairment and blindness,9NlD.00,746431000000113,Seen by visual impairment teacher,378931000000102,746431000000113
+Visual impairment and blindness,F404100,493267010,Blind hypotensive eye,4229009,493267010
+Visual impairment and blindness,F404200,1529013,Blind hypertensive eye,264008,1529013
+Visual impairment and blindness,F49..00,515791000006112,Blindness and low vision,397540003,3011990016
+Visual impairment and blindness,F49..11,14191011,Impaired vision,397540003,3011990016
+Visual impairment and blindness,F49..12,2164154014,Low vision,7973008,2164154014
+Visual impairment and blindness,F49..13,2164158012,Partial sight,7973008,2164158012
+Visual impairment and blindness,F49..14,2164155010,Sight impaired,397540003,3011990016
+Visual impairment and blindness,F490.00,515811000006111,Blindness - both eyes,193699007,298251016
+Visual impairment and blindness,F490000,298252011,Unspecified blindness both eyes,193699007,298251016
+Visual impairment and blindness,F490100,2619503012,Both eyes total visual impairment,193699007,2619503012
+Visual impairment and blindness,F490200,510281000006111,"Better eye: near total VI, Lesser eye: unspecified",193699007,298251016
+Visual impairment and blindness,F490400,510261000006118,"Better eye: near total visual impairment, Lesser eye: near total visual impairment",193704004,298256014
+Visual impairment and blindness,F490600,510311000006113,Impairment level: better eye: profound impairment: lesser eye: total impairment,13734003,23430013
+Visual impairment and blindness,F490900,456798010,"Acquired blindness, both eyes",193709009,3670145014
+Visual impairment and blindness,F490z00,298262016,Blindness both eyes NOS,193699007,298251016
+Visual impairment and blindness,F491.00,510181000006115,"Better eye: low vision, Lesser eye: profound visual impairment",193711000,298263014
+Visual impairment and blindness,F491000,298264015,"One eye blind, one eye low vision",193712007,298264015
+Visual impairment and blindness,F491100,510331000006119,"Better eye: severe VI, Lesser eye: blind, unspecified",193711000,298263014
+Visual impairment and blindness,F491300,510351000006114,Impairment level: better eye: severe impairment: lesser eye: near-total impairment,1909000,4295011
+Visual impairment and blindness,F491400,510361000006111,"Better eye: severe visual impairment, Lesser eye: profound visual impairment",193716005,298271013
+Visual impairment and blindness,F491500,510191000006117,"Better eye: moderate VI, Lesser eye: blind, unspecified",193711000,298263014
+Visual impairment and blindness,F491700,510221000006112,"Better eye: moderate visual impairment, Lesser eye: near total visual impairment",193719003,298274017
+Visual impairment and blindness,F491z00,298276015,"One eye blind, one eye low vision NOS",193711000,298263014
+Visual impairment and blindness,F492.00,298277012,"Low vision, both eyes",193722001,298277012
+Visual impairment and blindness,F492000,298278019,"Low vision, both eyes unspecified",193722001,298277012
+Visual impairment and blindness,F492200,510371000006116,"Better eye: severe visual impairment, Lesser eye: severe visual impairment",193725004,298280013
+Visual impairment and blindness,F492300,510201000006119,"Better eye: moderate VI, Lesser eye: low vision unspecified",193722001,298277012
+Visual impairment and blindness,F492400,510241000006117,"Better eye: moderate visual impairment, Lesser eye: severe visual impairment",193727007,298282017
+Visual impairment and blindness,F492500,510211000006116,"Better eye: moderate visual impairment, Lesser eye: moderate visual impairment",193728002,298283010
+Visual impairment and blindness,F492z00,298284016,"Low vision, both eyes NOS",193722001,298277012
+Visual impairment and blindness,F493.00,298285015,Blind or low vision - both eyes,267727004,399719011
+Visual impairment and blindness,F494.00,298286019,Legal blindness USA,193731001,298286019
+Visual impairment and blindness,F495.00,298287011,"Profound impairment, one eye",193732008,298287011
+Visual impairment and blindness,F495000,298288018,Blindness of one eye,22950006,38553019
+Visual impairment and blindness,F495100,298289014,"Lesser eye: total visual impairment, Better eye: unspecified",193732008,298287011
+Visual impairment and blindness,F495200,747421000006119,"Lesser eye: total visual impairment, Better eye: near normal vision",193735005,298290017
+Visual impairment and blindness,F495300,747431000006116,"Lesser eye: total visual impairment, Better eye: normal vision",193736006,298291018
+Visual impairment and blindness,F495400,747351000006116,"Lesser eye: near total VI, Better eye: unspecified",193732008,298287011
+Visual impairment and blindness,F495500,747341000006118,"Lesser eye: near total visual impairment, Better eye: near normal vision",193738007,298293015
+Visual impairment and blindness,F495600,734951000006114,"Lesser eye: near total visual impairment, Better eye: normal vision",111519001,2618966018
+Visual impairment and blindness,F495800,747361000006119,"Lesser eye: profound visual impairment, Better eye: near normal vision",193741003,298296011
+Visual impairment and blindness,F495A00,456799019,"Acquired blindness, one eye",22950006,38553019
+Visual impairment and blindness,F495z00,298299016,Profound impairment one eye NOS,193732008,298287011
+Visual impairment and blindness,F496.00,298300012,"Low vision, one eye",193745007,298300012
+Visual impairment and blindness,F496000,298301011,"Low vision, one eye, unspecified",193745007,298300012
+Visual impairment and blindness,F496100,747411000006110,"Lesser eye: severe VI, Better eye: unspecified",193745007,298300012
+Visual impairment and blindness,F496200,747391000006110,"Lesser eye: severe visual impairment, Better eye: near normal vision",193748009,298303014
+Visual impairment and blindness,F496300,747401000006112,"Lesser eye: severe visual impairment, Better eye: normal vision",193749001,298304015
+Visual impairment and blindness,F496400,747331000006111,"Lesser eye: moderate VI, Better eye: unspecified",193745007,298300012
+Visual impairment and blindness,F496500,747311000006117,"Lesser eye: moderate visual impairment, Better eye: near normal vision",193751002,298306018
+Visual impairment and blindness,F496600,747321000006113,Impairment level: one eye: moderate impairment: other eye: normal vision,16169003,27365013
+Visual impairment and blindness,F496z00,298308017,"Low vision, one eye NOS",193745007,298300012
+Visual impairment and blindness,F497.00,2168181000000116,"Severe visual impairment, binocular",813871000000108,2168181000000116
+Visual impairment and blindness,F498.00,2168201000000117,"Moderate visual impairment, binocular",813891000000107,2168201000000117
+Visual impairment and blindness,F499.00,1816031000006118,Mild binocular visual impairment,815051000000106,2124351000000112
+Visual impairment and blindness,F49A.00,1816041000006111,"Blindness, monocular",22950006,38553019
+Visual impairment and blindness,F49B.00,2168191000000119,"Severe visual impairment, monocular",813881000000105,2168191000000119
+Visual impairment and blindness,F49C.00,2168211000000115,"Moderate visual impairment, monocular",813901000000108,2168211000000115
+Visual impairment and blindness,F49y.00,298309013,Blind or low vision - one eye only,267728009,399720017
+Visual impairment and blindness,F49z.00,399455016,Visual loss NOS,240311000000103,390341000000115
+Visual impairment and blindness,F49z.11,347842017,Acquired blindness,105597003,169718011
+Visual impairment and blindness,F49z000,298313018,Charles Bonnet syndrome,193756007,298313018
+Visual impairment and blindness,F4H6100,298763013,Visual pathway disorder due to vascular disorder,194064000,298763013
+Visual impairment and blindness,F4H6z00,298768016,Other visual pathway disorder NOS,54767005,91024017
+Visual impairment and blindness,F4H7.00,474370011,Visual cortex disorder,128329001,474370011
+Visual impairment and blindness,F4H7100,298770013,Visual cortex disorder due to vascular disorder,194069005,298770013
+Visual impairment and blindness,F4H7300,113901010,Cortical blindness,68574006,113901010
+Visual impairment and blindness,F4H7z00,298772017,Visual cortex disorder NOS,128329001,206616014
+Visual impairment and blindness,Fy1..00,2773231012,Combined visual and hearing impairment,433147009,2773231012
+Visual impairment and blindness,FyuL.00,299506011,Blindness AND/OR vision impairment level,105597003,169718011
+Visual impairment and blindness,FyuL100,299508012,[X]Other visual disturbances,63102001,104891017
+Visual impairment and blindness,SJ0..00,323622018,Optic nerve and pathway injury,212141007,323622018
+Visual impairment and blindness,SJ00.00,1230561019,Optic nerve (2nd) injury,48233004,1230561019
+Visual impairment and blindness,SJ01.00,501406017,Optic chiasm injury,69820004,501406017
+Visual impairment and blindness,SJ02.00,504441019,Optic pathway injury,80499003,504441019
+Visual impairment and blindness,SJ03.00,323623011,Visual cortex injury,212142000,323623011
+Visual impairment and blindness,SJ0z.00,403051013,Optic nerve or pathway injury NOS,212141007,323622018
+Visual impairment and blindness,SJ0z.11,515781000006114,Blindness - traumatic - NOS,212141007,323622018
+Visual impairment and blindness,Z96..00,5190941000006119,Provision for visual and hearing impairment,243748009,364553019
+Visual impairment and blindness,Z961.00,5190951000006117,Provision of guide help for visual and hearing impairment,243749001,364554013
+Visual impairment and blindness,Z962.00,5190961000006115,Provision of communicator for visual and hearing impairment,243750001,364555014
+Visual impairment and blindness,ZN56800,4926061000006119,Blind telephone user,224282001,337282017
+Visual impairment and blindness,ZN56A00,4926081000006112,Deaf-blind telephone user,224284000,337284016
+Visual impairment and blindness,ZRhO.00,5555481000006111,Reynell Zinkin language scale for the visually impaired,273756001,409361017
+Visual impairment and blindness,ZRr6.00,5557521000006115,Vineland maturity scales adapted for the blind,273893003,409574012
+Visual impairment and blindness,ZV41000,460633016,[V]Problems with sight,397540003,1777162017

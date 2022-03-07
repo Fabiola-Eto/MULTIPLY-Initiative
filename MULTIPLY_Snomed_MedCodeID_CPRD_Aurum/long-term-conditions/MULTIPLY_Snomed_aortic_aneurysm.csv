@@ -1,0 +1,75 @@
+Condition,ReadCode,MedCodeId,Term,SnomedCTConceptId,SnomedCTDescriptionId
+Aortic aneurysm,14AE.00,251699010,H/O: aortic aneurysm,161514008,251699010
+Aortic aneurysm,66f3.00,1795071000000116,Aortic aneurysm monitoring,707265005,3029507018
+Aortic aneurysm,7A11.00,173691000006116,Replacement of aneurysmal bifurcation of aorta,175282008,271419016
+Aortic aneurysm,7A11000,639641000006113,Emergency replacement of aneurysmal bifurcation of aorta by anastomosis of aorta to femoral artery,175283003,271421014
+Aortic aneurysm,7A11100,173461000006110,Replacement of aneurysmal bifurcation of aorta by anastomosis of aorta to femoral artery,175284009,271422019
+Aortic aneurysm,7A11200,639651000006110,Emergency replacement of aneurysmal bifurcation of aorta by anastomosis of aorta to iliac artery,265492000,394302013
+Aortic aneurysm,7A11211,349689013,Y graft of abdominal aortic aneurysm - emergency,233374003,2669093011
+Aortic aneurysm,7A11300,173471000006115,Replacement of aneurysmal bifurcation of aorta by anastomosis of aorta to iliac artery,265493005,394303015
+Aortic aneurysm,7A11311,410960011,Y graft abdominal Aortic aneurysm,275037003,410960011
+Aortic aneurysm,7A11y00,173711000006118,Replacement of aneurysmal bifurcation of aorta OS,175282008,271419016
+Aortic aneurysm,7A11z00,271430018,Replacement of aneurysmal bifurcation of aorta NOS,175282008,271419016
+Aortic aneurysm,7A13.00,271446014,Emergency replacement of aneurysmal segment of aorta,175297006,271446014
+Aortic aneurysm,7A13.11,271447017,Emergency repair of aortic aneurysm,175297006,271447017
+Aortic aneurysm,7A13000,639731000006112,Emergency replacement of aneurysmal segment of ascending aorta by anastomosis of aorta to aorta,175298001,271448010
+Aortic aneurysm,7A13100,639901000006118,Emergency replacement of aneurysmal segment of thoracic aorta by anastomosis of aorta to aorta,175299009,271449019
+Aortic aneurysm,7A13300,639811000006110,Emergency replacement of aneurysmal segment of infrarenal abdominal aorta by anastomosis of aorta to aorta,175301002,271451015
+Aortic aneurysm,7A13400,639721000006114,Emerg replace aneurysm abdom aorta by anast aorta/aorta NEC,123679006,192168019
+Aortic aneurysm,7A13411,349694013,Tube graft abdominal aortic aneurysm - emergency,233377005,2669005014
+Aortic aneurysm,7A13y00,640221000006110,Emergency replacement of aneurysmal segment of aorta OS,175297006,271446014
+Aortic aneurysm,7A13z00,271456013,Emergency replacement of aneurysmal segment of aorta NOS,175297006,271446014
+Aortic aneurysm,7A14.00,394307019,Other replacement of aneurysmal segment of aorta,233370007,349678018
+Aortic aneurysm,7A14.11,349678018,Aortic aneurysm repair,233370007,349678018
+Aortic aneurysm,7A14000,173451000006113,Replace aneurysm ascend aorta by anast of aorta/aorta NEC,116360008,183983017
+Aortic aneurysm,7A14100,173651000006110,Replace aneurysm thoracic aorta by anast of aorta/aorta NEC,116360008,183983017
+Aortic aneurysm,7A14200,173431000006118,Replace aneurys suprarenal aorta by anast aorta to aorta NEC,116360008,183983017
+Aortic aneurysm,7A14300,173411000006112,Replace aneurys infrarenal aorta by anast aorta to aorta NEC,116360008,183983017
+Aortic aneurysm,7A14400,173441000006111,Replace aneurysm abdominal aorta by anast aorta to aorta NEC,448122008,2899751014
+Aortic aneurysm,7A14411,349693019,Tube graft of Abdominal aortic aneurysm,233376001,349693019
+Aortic aneurysm,7A14y00,17401000006117,Other replacement of aneurysmal segment of aorta OS,450682002,2915571016
+Aortic aneurysm,7A14z00,271470013,Other replacement of aneurysmal segment of aorta NOS,450682002,2915571016
+Aortic aneurysm,7A15400,639351000006118,Emerg bypass abdominal aorta by anastom aorta to aorta NEC,448122008,2899751014
+Aortic aneurysm,7A19400,271511016,Operation on aneurysm of aorta NEC,32907006,54921017
+Aortic aneurysm,7A1B.00,356341000000113,Transluminal operations on aneurysmal segment of aorta,265499009,394309016
+Aortic aneurysm,7A1B000,1548161000006117,Repair of infrarenal abdominal aortic aneurysm with insertion of endovascular stent,441612006,2816827015
+Aortic aneurysm,7A1B100,359851000000113,Repair of suprarenal abdominal aortic aneurysm with insertion of endovascular stent,378481000000107,745431000000115
+Aortic aneurysm,7A1B200,357881000000111,Repair of thoracic aortic aneurysm with insertion of endovascular stent,378491000000109,745451000000110
+Aortic aneurysm,7A1B600,488221000000111,Abdominal aortic aneurysm stenting,307701005,451048019
+Aortic aneurysm,7A1B800,1701691000006119,Endovascular insertion of stent for infrarenal abdominal aortic aneurysm,441612006,1650871000000115
+Aortic aneurysm,7A1B900,1701701000006119,Endovascular insertion of stent for suprarenal aortic aneurysm,378481000000107,745431000000115
+Aortic aneurysm,7A1BA00,745471000000118,Endovascular insertion of stent for thoracic aortic aneurysm,378491000000109,745471000000118
+Aortic aneurysm,7A1BC00,1701731000006110,Endovas insert stent for aortic aneurysm of bifurcation NEC,307701005,451048019
+Aortic aneurysm,7A1Bz00,384321000000116,Transluminal operations on aneurysmal segment of aorta NOS,265499009,394309016
+Aortic aneurysm,7A1C.00,1587731000006116,Transluminal insertion of stent graft for aneurysmal segment of aorta,281261000000105,483781000000113
+Aortic aneurysm,7A1C000,1587741000006114,Repair of aorto-uniiliac aneurysm with insertion of endovascular stent graft,428809009,2695287013
+Aortic aneurysm,7A1C100,1587751000006111,Endovascular insertion of stent graft for suprarenal aortic aneurysm,281281000000101,483821000000117
+Aortic aneurysm,7A1C200,1587761000006113,Repair of thoracic aortic aneurysm with insertion of endovascular stent graft,429679003,2695281014
+Aortic aneurysm,7A1Cy00,1587801000006116,OS translum ins stent graft for aneurysmal segment of aorta,233404000,349735017
+Aortic aneurysm,7A1Cz00,1587811000006118,Translum ins stent graft for aneurysmal segment of aorta NOS,233404000,349735017
+Aortic aneurysm,7A34K00,46601000006110,Operation on aneurysm visceral branch of abdominal aorta NEC,392242000,1486224017
+Aortic aneurysm,A930.00,470121011,Syphilitic aortic aneurysm,12232008,470121011
+Aortic aneurysm,G71..00,111949011,Aortic aneurysm,67362008,111949011
+Aortic aneurysm,G710.00,2536174018,Dissecting aortic aneurysm,308546005,2536174018
+Aortic aneurysm,G711.00,300437018,Thoracic aortic aneurysm which has ruptured,195258006,300437018
+Aortic aneurysm,G711.11,300438011,Ruptured thoracic aortic aneurysm,195258006,300438011
+Aortic aneurysm,G712.00,124373014,Thoracic aortic aneurysm without mention of rupture,74883004,124373014
+Aortic aneurysm,G713.00,1221083011,Abdominal aortic aneurysm which has ruptured,14336007,1221083011
+Aortic aneurysm,G713.11,24379014,Ruptured abdominal aortic aneurysm,14336007,24379014
+Aortic aneurysm,G713000,458502011,Ruptured suprarenal aortic aneurysm,314184006,458502011
+Aortic aneurysm,G714.00,300441019,Abdominal aortic aneurysm,233985008,350580017
+Aortic aneurysm,G714.11,300442014,AAA - Abdominal aortic aneurysm without mention of rupture,233985008,350580017
+Aortic aneurysm,G714000,458503018,Juxtarenal aortic aneurysm,314185007,458503018
+Aortic aneurysm,G714100,458504012,Inflammatory abdominal aortic aneurysm,314186008,458504012
+Aortic aneurysm,G714200,1756091000006111,Aneurysm of infrarenal abdominal aorta,444569004,2871141013
+Aortic aneurysm,G714300,2674096019,Aneurysm of suprarenal aorta,426270006,2674096019
+Aortic aneurysm,G715.00,300445011,Ruptured aortic aneurysm,73067008,121362018
+Aortic aneurysm,G715000,300446012,"Thoracoabdominal aortic aneurysm, ruptured",195265003,300446012
+Aortic aneurysm,G716.00,300447015,Aortic aneurysm without mention of rupture NOS,67362008,111949011
+Aortic aneurysm,G716000,300448013,Thoracoabdominal aortic aneurysm,233984007,350579015
+Aortic aneurysm,G717.00,488301000006118,Aortic aneurysm - syphilitic,12232008,470121011
+Aortic aneurysm,G718.00,300449017,Leaking abdominal aortic aneurysm,195268001,300449017
+Aortic aneurysm,G71z.00,300450017,Aortic aneurysm NOS,67362008,111949011
+Aortic aneurysm,Gyu7100,300960019,"[X]Aortic aneurysm of unspecified site, ruptured",67362008,111949011
+Aortic aneurysm,Gyu7200,300961015,"[X]Aortic aneurysm of unspecified site, nonruptured",67362008,111949011
+Aortic aneurysm,Gyu7800,300968014,[X]Aneurysm of aorta in diseases classified elsewhere,67362008,111949011

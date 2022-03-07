@@ -1,0 +1,23 @@
+Condition,ReadCode,MedCodeId,Term,SnomedCTConceptId,SnomedCTDescriptionId
+Blistering autoimmune skin conditions,F4Cy100,267631000006119,Ocular pemphigoid,34250006,485794012
+Blistering autoimmune skin conditions,M140.00,178429018,Dermatitis herpetiformis,111196000,178429018
+Blistering autoimmune skin conditions,M142.00,10833016,Juvenile dermatitis herpetiformis,5906000,10833016
+Blistering autoimmune skin conditions,M142.11,358098014,Juvenile pemphigoid,238941009,358098014
+Blistering autoimmune skin conditions,M144.00,108297019,Pemphigus,65172003,108297019
+Blistering autoimmune skin conditions,M144300,763291000006118,Pemphigus foliaceous,35154004,1228251016
+Blistering autoimmune skin conditions,M144500,476760014,Pemphigus vegetans,14800001,476759016
+Blistering autoimmune skin conditions,M144600,82318018,Pemphigus vulgaris,49420001,82318018
+Blistering autoimmune skin conditions,M144700,77439010,Wildfire pemphigus,46459009,77439010
+Blistering autoimmune skin conditions,M144800,308659013,Drug-induced pemphigus,200907003,308659013
+Blistering autoimmune skin conditions,M144z00,308660015,Pemphigus NOS,65172003,108297019
+Blistering autoimmune skin conditions,M145.00,142845014,Pemphigoid,86142006,142845014
+Blistering autoimmune skin conditions,M145000,127980014,Bullous pemphigoid,77090002,127980014
+Blistering autoimmune skin conditions,M145200,13128017,Senile dermatitis herpetiformis,7354003,13128017
+Blistering autoimmune skin conditions,M145z00,308664012,Pemphigoid NOS,86142006,142845014
+Blistering autoimmune skin conditions,M146.00,57191017,Mucous membrane pemphigoid,34250006,485796014
+Blistering autoimmune skin conditions,M146000,399920011,Benign mucous membrane pemphigoid with no eye involvement,267800008,399920011
+Blistering autoimmune skin conditions,M146011,57192012,Cicatricial pemphigoid,34250006,57192012
+Blistering autoimmune skin conditions,M146100,485794012,Ocular pemphigoid,34250006,485794012
+Blistering autoimmune skin conditions,M146z00,308669019,Benign mucous membrane pemphigoid,34250006,57191017
+Blistering autoimmune skin conditions,Myu1000,309309018,[X]Other pemphigus,65172003,108297019
+Blistering autoimmune skin conditions,Myu1200,309311010,[X]Other pemphigoid,86142006,142845014

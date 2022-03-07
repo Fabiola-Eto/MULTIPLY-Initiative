@@ -1,0 +1,81 @@
+Condition,ReadCode,MedCodeId,Term,SnomedCTConceptId,SnomedCTDescriptionId
+Heart failure,14A6.00,251680018,H/O: heart failure,161505003,251680018
+Heart failure,14AM.00,453099015,H/O: Heart failure in last year,309634009,453099015
+Heart failure,1O1..00,1488804017,Heart failure confirmed,395105005,1488804017
+Heart failure,2126400,1165041000000115,Heart failure resolved,521691000000100,1165041000000115
+Heart failure,388D.00,833381000006119,New York Heart Association Classification class,762994006,3637504017
+Heart failure,661M500,2117931000000116,Heart failure self-management plan agreed,812001000000102,2117931000000116
+Heart failure,662f.00,2616470012,New York Heart Association Classification - Class I,420300004,2616470012
+Heart failure,662g.00,2616471011,New York Heart Association Classification - Class II,421704003,2616471011
+Heart failure,662h.00,2616472016,New York Heart Association Classification - Class III,420913000,2616472016
+Heart failure,662i.00,2616473014,New York Heart Association Classification - Class IV,422293003,2616473014
+Heart failure,662p.00,404741000000119,Heart failure 6 month review,247361000000100,404741000000119
+Heart failure,662T.00,216184014,Congestive heart failure monitoring,134378009,216184014
+Heart failure,662W.00,1484918019,Heart failure annual review,390885007,1484918019
+Heart failure,679W100,2122191000000110,Education about deteriorating heart failure,813991000000101,2122191000000110
+Heart failure,679X.00,2645623019,Heart failure education,423475008,2645623019
+Heart failure,8B29.00,451426015,Cardiac failure therapy,308118002,451426015
+Heart failure,8CeC.00,1784061000006118,Preferred place of care for next exacerbation of heart failure,789621000000105,1765351000000114
+Heart failure,8CL3.00,308301000000118,Discussion about heart failure care plan,872361000000105,2253411000000117
+Heart failure,8CMK.00,1746171000000119,Has heart failure management plan,781051000000108,1746171000000119
+Heart failure,8CMW800,2205951000000117,Heart failure clinical pathway,851521000000102,2205951000000117
+Heart failure,8H2S.00,2549208013,Emergency hospital admission for heart failure,416683003,3082850014
+Heart failure,8HBE.00,1484917012,Heart failure follow-up,390884006,1484917012
+Heart failure,8HHz.00,308041000000118,Referral to heart failure exercise programme,704095000,3011242019
+Heart failure,8Hk0.00,311561000000117,Referred to heart failure education group,203791000000106,311561000000117
+Heart failure,9h1..00,138971000000111,Exception reporting - LVD quality indicators,716551000000107,1569101000000112
+Heart failure,9h11.00,139061000000114,Excepted from LVD quality indicators - patient unsuitable,717181000000106,1569721000000116
+Heart failure,9h12.00,139071000000119,Excepted from LVD quality indicators - informed dissent,717281000000100,1569821000000111
+Heart failure,9hH..00,407441000000115,Exception reporting - heart failure quality indicators,715951000000107,1568511000000111
+Heart failure,9hH0.00,1561941000006119,Excepted from heart failure quality indicators - patient unsuitable,717481000000104,1570021000000117
+Heart failure,9hH1.00,1561951000006117,Excepted from heart failure quality indicators - informed dissent,717491000000102,1570031000000115
+Heart failure,9N2p.00,2548316014,Seen by community heart failure nurse,417359009,2548316014
+Heart failure,9N6T.00,303361000000111,Referred by heart failure nurse specialist,200171000000102,303361000000111
+Heart failure,9On..00,226181000000110,Left ventricular dysfunction monitoring administration,713781000000103,1565021000000117
+Heart failure,9On0.00,2533628012,Left ventricular dysfunction monitoring first letter,414586001,2533628012
+Heart failure,9On1.00,2533629016,Left ventricular dysfunction monitoring second letter,414588000,2533629016
+Heart failure,9On2.00,2533630014,Left ventricular dysfunction monitoring third letter,414589008,2533630014
+Heart failure,9On3.00,2549089012,Left ventricular dysfunction monitoring verbal invite,416573008,2549089012
+Heart failure,9On4.00,407001000000113,Left ventricular dysfunction monitoring telephone invitation,716411000000109,1568961000000117
+Heart failure,9Or..00,308231000000118,Heart failure monitoring administration,713791000000101,1565031000000115
+Heart failure,9Or0.00,308261000000111,Heart failure review completed,202231000000106,308261000000111
+Heart failure,9Or1.00,406801000000118,Heart failure monitoring telephone invitation,717531000000102,1570071000000118
+Heart failure,9Or2.00,407041000000111,Heart failure monitoring verbal invitation,717501000000108,1570041000000112
+Heart failure,9Or3.00,407061000000112,Heart failure monitoring first letter,716971000000109,1569521000000114
+Heart failure,9Or4.00,407081000000115,Heart failure monitoring second letter,717191000000108,1569731000000119
+Heart failure,9Or5.00,407101000000114,Heart failure monitoring third letter,716621000000101,1569171000000116
+Heart failure,G1yz100,72934016,Rheumatic left ventricular failure,43736008,72934016
+Heart failure,G210100,728671000006119,Malignant hypertensive heart disease with congestive cardiac failure,83105008,1236017010
+Heart failure,G211100,504901000006118,Benign hypertensive heart disease with congestive cardiac failure,194767001,299653017
+Heart failure,G21z100,741681000006111,Hypertensive heart disease NOS with CCF,64715009,107545013
+Heart failure,G232.00,741701000006114,Hypertensive heart and renal disease with (congestive) heart failure,194779001,299672017
+Heart failure,G234.00,789941000006117,Hypertensive heart and renal disease with both (congestive) heart failure and renal failure,194781004,299674016
+Heart failure,G400.00,82584011,Acute cor pulmonale,49584005,82584011
+Heart failure,G41z.11,132655012,Chronic cor pulmonale,79955004,132655012
+Heart failure,G554000,1778488011,Congestive cardiomyopathy,399020009,1778488011
+Heart failure,G554011,350413012,Congestive obstructive cardiomyopathy,233871002,350413012
+Heart failure,G58..00,139475013,Heart failure,84114007,139475013
+Heart failure,G58..11,139482012,Cardiac failure,84114007,139482012
+Heart failure,G580.00,70653017,Congestive heart failure,42343007,70653017
+Heart failure,G580.11,493287011,Congestive cardiac failure,42343007,70653017
+Heart failure,G580.12,206703015,Right heart failure,128404006,206703015
+Heart failure,G580.13,490972013,Right ventricular failure,367363000,490972013
+Heart failure,G580.14,510016018,Biventricular congestive heart failure,92506005,153058012
+Heart failure,G580000,18472010,Acute congestive heart failure,10633002,18472010
+Heart failure,G580100,147247018,Chronic congestive heart failure,88805009,147247018
+Heart failure,G580200,300179017,Decompensated cardiac failure,195111005,300179017
+Heart failure,G580300,300180019,Compensated cardiac failure,195112003,300180019
+Heart failure,G580400,2675255018,Congestive heart failure due to valvular disease,426611007,2675255018
+Heart failure,G581.00,141306010,Left ventricular failure,85232009,141306010
+Heart failure,G581.11,1495417010,Cardiac asthma,71892000,119456014
+Heart failure,G581.12,1490256017,Acute pulmonary oedema,40541001,492666016
+Heart failure,G581.13,411506018,Impaired left ventricular function,275514001,411506018
+Heart failure,G581000,300190010,Acute left ventricular failure,195114002,300190010
+Heart failure,G582.00,94251011,Acute heart failure,56675007,94251011
+Heart failure,G584.00,1816101000006113,Right ventricular failure,367363000,490972013
+Heart failure,G58z.00,395772015,Heart failure NOS,84114007,139475013
+Heart failure,G58z.12,223981000000118,Cardiac failure NOS,84114007,139482012
+Heart failure,G5yy900,216207010,Left ventricular systolic dysfunction,134401001,216207010
+Heart failure,G5yyA00,1489358014,Left ventricular diastolic dysfunction,395704004,1489358014
+Heart failure,Q48y100,316833010,Congenital cardiac failure,206586007,316833010
+Heart failure,Q490.00,412678013,Neonatal cardiac failure,276514007,412678013

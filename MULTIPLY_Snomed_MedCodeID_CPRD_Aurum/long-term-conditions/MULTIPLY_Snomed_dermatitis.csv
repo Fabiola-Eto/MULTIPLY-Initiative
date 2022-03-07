@@ -1,0 +1,183 @@
+Condition,ReadCode,MedCodeId,Term,SnomedCTConceptId,SnomedCTDescriptionId
+Dermatitis (atopc/contact/other/unspecified),14F1.00,251783011,H/O: eczema,161561009,251783011
+Dermatitis (atopc/contact/other/unspecified),26C4.00,674301000006118,Eczema of nipple,237463009,355885017
+Dermatitis (atopc/contact/other/unspecified),A540.00,286729018,Eczema herpeticum - Kaposi's varicelliform eruption,186535001,286729018
+Dermatitis (atopc/contact/other/unspecified),C391211,100341000006117,Thrombocytopenic eczema with immunodeficiency,36070007,60191017
+Dermatitis (atopc/contact/other/unspecified),F4D3000,636491000006112,Dermatitis of eyelid,93423006,154630014
+Dermatitis (atopc/contact/other/unspecified),F4D3100,399476014,Contact or allergic eyelid dermatitis,93423006,154630014
+Dermatitis (atopc/contact/other/unspecified),F4D3111,223901000000111,Contact dermatitis of eyelid,68670009,114057013
+Dermatitis (atopc/contact/other/unspecified),F4D3112,219361000000115,Contact eczema - eyelids,93423006,154630014
+Dermatitis (atopc/contact/other/unspecified),F4D4.00,779631000006110,Infective dermatitis of eyelid resulting in deformity,71577007,118911017
+Dermatitis (atopc/contact/other/unspecified),F4D5.00,298564016,Infective dermatitis of eyelid,27023008,45197011
+Dermatitis (atopc/contact/other/unspecified),F500211,552351000006115,Chondrodermatitis nodularis helicis,76583009,127176015
+Dermatitis (atopc/contact/other/unspecified),F500300,127176015,Chondrodermatitis nodularis helicis,76583009,127176015
+Dermatitis (atopc/contact/other/unspecified),F502400,1788053014,Acute eczematoid otitis extern,54272002,1788053014
+Dermatitis (atopc/contact/other/unspecified),F502411,512310013,Eczema of external ear,95812002,512310013
+Dermatitis (atopc/contact/other/unspecified),H330.00,660351000006118,Allergic atopic asthma,389145006,1493645010
+Dermatitis (atopc/contact/other/unspecified),M07y.11,195021000006118,Pustular eczema,123700004,192189011
+Dermatitis (atopc/contact/other/unspecified),M07z.14,740221000006117,Dermatitis,703938007,3039229010
+Dermatitis (atopc/contact/other/unspecified),M1...11,614361000006113,Dermatitis/dermatoses,703938007,3012078018
+Dermatitis (atopc/contact/other/unspecified),M102.00,492621013,Infectious eczematoid dermatitis,414492009,3317202015
+Dermatitis (atopc/contact/other/unspecified),M102.11,192189011,Pustular eczema,123700004,192189011
+Dermatitis (atopc/contact/other/unspecified),M104.00,308483011,Pityriasis simplex,200767005,308483011
+Dermatitis (atopc/contact/other/unspecified),M11..00,308485016,Atopic dermatitis,24079001,40423010
+Dermatitis (atopc/contact/other/unspecified),M110.11,1787545010,Ammonia dermatitis,91487003,151557016
+Dermatitis (atopc/contact/other/unspecified),M111.00,497341000006116,Atopic dermatitis/eczema,24079001,40423010
+Dermatitis (atopc/contact/other/unspecified),M112.00,150503015,Infantile eczema,90823000,150503015
+Dermatitis (atopc/contact/other/unspecified),M113.00,94953018,Flexural eczema,57092006,94953018
+Dermatitis (atopc/contact/other/unspecified),M114.00,477121000006119,Allergic (intrinsic) eczema,24079001,40423010
+Dermatitis (atopc/contact/other/unspecified),M115.00,308489010,Besnier's prurigo,200773006,308489010
+Dermatitis (atopc/contact/other/unspecified),M116.00,357583018,Neurodermatitis - diffuse,238585003,357583018
+Dermatitis (atopc/contact/other/unspecified),M116.11,357584012,Brocq's neurodermatitis,238585003,357584012
+Dermatitis (atopc/contact/other/unspecified),M117.00,676461000006118,Atopic neurodermatitis,200775004,308491019
+Dermatitis (atopc/contact/other/unspecified),M119.00,622951000006114,Discoid eczema,81418003,3302693013
+Dermatitis (atopc/contact/other/unspecified),M11A.00,585903012,Asteatotic eczema,201077008,308910012
+Dermatitis (atopc/contact/other/unspecified),M11z.00,308497015,Atopic dermatitis NOS,24079001,40423010
+Dermatitis (atopc/contact/other/unspecified),M12..00,399912014,Contact dermatitis and other eczemas,40275004,63652013
+Dermatitis (atopc/contact/other/unspecified),M12..11,63652013,Contact dermatitis,40275004,63652013
+Dermatitis (atopc/contact/other/unspecified),M12..12,1494721011,Contact eczema,40275004,63652013
+Dermatitis (atopc/contact/other/unspecified),M12..13,1781705012,Occupational allergic contact dermatitis,238578002,357570019
+Dermatitis (atopc/contact/other/unspecified),M120.00,50967012,Contact dermatitis due to detergents,30451004,50967012
+Dermatitis (atopc/contact/other/unspecified),M121.00,399913016,Contact dermatitis due to oils and greases,267793005,399913016
+Dermatitis (atopc/contact/other/unspecified),M121.11,357558018,Grease contact dermatitis,238568000,357558018
+Dermatitis (atopc/contact/other/unspecified),M121.12,357559014,Oil contact dermatitis,238569008,357559014
+Dermatitis (atopc/contact/other/unspecified),M122.00,38664014,Contact dermatitis due to solvents,23012005,38664014
+Dermatitis (atopc/contact/other/unspecified),M122000,308509010,Contact dermatitis due to chlorocompound,200784004,308509010
+Dermatitis (atopc/contact/other/unspecified),M122100,308510017,Contact dermatitis due to cyclohexane,200785003,308510017
+Dermatitis (atopc/contact/other/unspecified),M122300,308512013,Contact dermatitis due to glycol,200787006,308512013
+Dermatitis (atopc/contact/other/unspecified),M122400,308513015,Contact dermatitis due to hydrocarbon,200788001,308513015
+Dermatitis (atopc/contact/other/unspecified),M122500,308514014,Contact dermatitis due to ketone,200789009,308514014
+Dermatitis (atopc/contact/other/unspecified),M122z00,308515010,Contact dermatitis due to solvent NOS,23012005,38664014
+Dermatitis (atopc/contact/other/unspecified),M123.00,590701000006112,Contact dermatitis due to drugs AND/OR medicine,86062001,142690019
+Dermatitis (atopc/contact/other/unspecified),M123000,67908018,Contact dermatitis due to arnica,40712008,67908018
+Dermatitis (atopc/contact/other/unspecified),M123100,590781000006115,Contact dermatitis due to fungicide,17946007,30306019
+Dermatitis (atopc/contact/other/unspecified),M123200,137914019,Contact dermatitis due to iodine,83150005,137914019
+Dermatitis (atopc/contact/other/unspecified),M123300,308519016,Contact dermatitis due to keratolytics,200794009,308519016
+Dermatitis (atopc/contact/other/unspecified),M123400,590931000006119,Contact dermatitis due to mercurial,81581001,135333017
+Dermatitis (atopc/contact/other/unspecified),M123500,54060018,Contact dermatitis due to neomycin,32371003,54060018
+Dermatitis (atopc/contact/other/unspecified),M123600,591011000006116,Contact dermatitis due to pediculicide,72057009,119732011
+Dermatitis (atopc/contact/other/unspecified),M123700,591021000006112,Contact dermatitis due to phenol,111190006,178426013
+Dermatitis (atopc/contact/other/unspecified),M123800,591151000006116,Contact dermatitis due to scabicide,26532007,44428014
+Dermatitis (atopc/contact/other/unspecified),M123z00,308526016,Contact dermatitis due to medicament NOS,86062001,142690019
+Dermatitis (atopc/contact/other/unspecified),M124.00,308527013,Contact dermatitis caused by chemical,291000119100,3043712018
+Dermatitis (atopc/contact/other/unspecified),M124000,308528015,Contact dermatitis due to acids,200802008,308528015
+Dermatitis (atopc/contact/other/unspecified),M124100,128743013,Contact dermatitis due to adhesive plaster,77560002,128743013
+Dermatitis (atopc/contact/other/unspecified),M124111,357560016,Elastoplast contact dermatitis,238570009,357560016
+Dermatitis (atopc/contact/other/unspecified),M124200,308532014,Contact dermatitis due to alkalis,200804009,308532014
+Dermatitis (atopc/contact/other/unspecified),M124300,308533016,Contact dermatitis due to caustics,200805005,308533016
+Dermatitis (atopc/contact/other/unspecified),M124400,71306016,Contact dermatitis due to dichromate,42733007,71306016
+Dermatitis (atopc/contact/other/unspecified),M124500,178428014,Contact dermatitis due to insecticide,111192003,178428014
+Dermatitis (atopc/contact/other/unspecified),M124600,138508015,Contact dermatitis due to nylon,83508001,138508015
+Dermatitis (atopc/contact/other/unspecified),M124700,53389017,Contact dermatitis due to plastic,31948006,53389017
+Dermatitis (atopc/contact/other/unspecified),M124800,77108018,Contact dermatitis due to rubber,46240005,77108018
+Dermatitis (atopc/contact/other/unspecified),M124z00,308539017,Contact dermatitis: other chemicals NOS,291000119100,3043712018
+Dermatitis (atopc/contact/other/unspecified),M125.00,112091013,Contact dermatitis due to food in contact with skin,67445002,112091013
+Dermatitis (atopc/contact/other/unspecified),M125000,590631000006113,Contact dermatitis due to cereal,49186001,81932013
+Dermatitis (atopc/contact/other/unspecified),M125100,60975016,Contact dermatitis due to fish,36530008,60975016
+Dermatitis (atopc/contact/other/unspecified),M125200,93035017,Contact dermatitis due to flour,55934006,93035017
+Dermatitis (atopc/contact/other/unspecified),M125300,31691015,Contact dermatitis due to fruit,18793008,31691015
+Dermatitis (atopc/contact/other/unspecified),M125400,121124014,Contact dermatitis due to meat,72921001,121124014
+Dermatitis (atopc/contact/other/unspecified),M125500,108236013,Contact dermatitis due to milk,65129009,108236013
+Dermatitis (atopc/contact/other/unspecified),M125z00,399914010,Contact dermatitis due to food NOS,67445002,112091013
+Dermatitis (atopc/contact/other/unspecified),M125z11,357561017,Egg contact dermatitis,238571008,357561017
+Dermatitis (atopc/contact/other/unspecified),M126.00,308552010,Contact dermatitis due to plants,200821000,308552010
+Dermatitis (atopc/contact/other/unspecified),M126000,108646019,Contact dermatitis due to lacquer tree,65394002,108646019
+Dermatitis (atopc/contact/other/unspecified),M126100,308554011,Contact dermatitis due to poison-ivy,200823002,308554011
+Dermatitis (atopc/contact/other/unspecified),M126200,308555012,Contact dermatitis due to poison-oak,200824008,308555012
+Dermatitis (atopc/contact/other/unspecified),M126300,591081000006111,Contact dermatitis due to poison sumac,10901008,18920010
+Dermatitis (atopc/contact/other/unspecified),M126500,2050012,Contact dermatitis due to primrose,586008,2050012
+Dermatitis (atopc/contact/other/unspecified),M126600,89646013,Contact dermatitis due to ragweed,53930004,89646013
+Dermatitis (atopc/contact/other/unspecified),M126z00,308560011,Contact dermatitis due to plants NOS,200821000,308552010
+Dermatitis (atopc/contact/other/unspecified),M127.00,20373018,Contact dermatitis due to solar radiation,11804009,20373018
+Dermatitis (atopc/contact/other/unspecified),M127000,308562015,Unspecified contact dermatitis due to solar radiation,11804009,20373018
+Dermatitis (atopc/contact/other/unspecified),M127300,38016018,Photodermatitis,22649008,38016018
+Dermatitis (atopc/contact/other/unspecified),M127800,308568016,Photocontact dermatitis [berloque dermatitis],200836002,3533639014
+Dermatitis (atopc/contact/other/unspecified),M127z00,308573010,Contact dermatitis due to solar radn NOS,11804009,20373018
+Dermatitis (atopc/contact/other/unspecified),M128.00,357566010,Allergic contact dermatitis,238575004,357566010
+Dermatitis (atopc/contact/other/unspecified),M128000,308575015,Allergic contact dermatitis due to adhesives,200842003,308575015
+Dermatitis (atopc/contact/other/unspecified),M128100,308576019,Allergic contact dermatitis due to cosmetics,200843008,308576019
+Dermatitis (atopc/contact/other/unspecified),M128200,477331000006119,Allergic contact dermatitis due to drugs in contact with the skin,200844002,308577011
+Dermatitis (atopc/contact/other/unspecified),M128300,308578018,Allergic contact dermatitis due to dyes,200845001,308578018
+Dermatitis (atopc/contact/other/unspecified),M128400,308579014,Allergic contact dermatitis due to other chemical products,10676871000119104,3043986018
+Dermatitis (atopc/contact/other/unspecified),M128500,477371000006116,Allergic contact dermatitis due to food in contact with the skin,200847009,308580012
+Dermatitis (atopc/contact/other/unspecified),M128600,308581011,"Allergic contact dermatitis due to plants, except food",10628711000119100,3028353019
+Dermatitis (atopc/contact/other/unspecified),M129.00,1775284012,Irritant contact dermatitis,110979008,1775284012
+Dermatitis (atopc/contact/other/unspecified),M129000,308585019,Irritant contact dermatitis due to cosmetics,200851006,308585019
+Dermatitis (atopc/contact/other/unspecified),M129100,745631000006113,Irritant contact dermatitis due to drugs in contact with the skin,200852004,308586018
+Dermatitis (atopc/contact/other/unspecified),M129200,308587010,Irritant contact dermatitis caused by chemical,10628591000119104,3043226014
+Dermatitis (atopc/contact/other/unspecified),M129300,745641000006115,Irritant contact dermatitis due to food in contact with the skin,200854003,308588017
+Dermatitis (atopc/contact/other/unspecified),M129400,308589013,"Irritant contact dermatitis due to plants, except food",200855002,308589013
+Dermatitis (atopc/contact/other/unspecified),M12y.00,308602013,Contact dermatitis due to other specified agents,40275004,63652013
+Dermatitis (atopc/contact/other/unspecified),M12y000,130689015,Contact dermatitis due to cosmetics,78755001,130689015
+Dermatitis (atopc/contact/other/unspecified),M12y011,357562012,Lanolin contact dermatitis,238572001,357562012
+Dermatitis (atopc/contact/other/unspecified),M12y012,357563019,Perfume contact dermatitis,238573006,357563019
+Dermatitis (atopc/contact/other/unspecified),M12y100,98560010,Contact dermatitis due to cold weather,238506004,357457014
+Dermatitis (atopc/contact/other/unspecified),M12y200,590711000006110,Contact dermatitis due to dye,6888008,12391017
+Dermatitis (atopc/contact/other/unspecified),M12y300,308609016,Contact dermatitis due to furs,200871002,308609016
+Dermatitis (atopc/contact/other/unspecified),M12y400,81109013,Contact dermatitis due to hot weather,279334008,416565015
+Dermatitis (atopc/contact/other/unspecified),M12y500,590831000006112,Contact dermatitis due to infra-red rays,279334008,416565015
+Dermatitis (atopc/contact/other/unspecified),M12y600,506552014,Contact dermatitis due to jewellery,85512009,506552014
+Dermatitis (atopc/contact/other/unspecified),M12y700,590901000006110,"Contact dermatitis due to light, except sun",46787004,77991017
+Dermatitis (atopc/contact/other/unspecified),M12y800,399916012,Allergic contact dermatitis due to metal,16228891000119104,3079164017
+Dermatitis (atopc/contact/other/unspecified),M12y811,674911000006116,Contact dermatitis due to nickel,93419003,154625010
+Dermatitis (atopc/contact/other/unspecified),M12y900,308618019,Contact dermatitis due to preservatives,200877003,308618019
+Dermatitis (atopc/contact/other/unspecified),M12yA00,308619010,Contact dermatitis due to radiation,81351008,134948013
+Dermatitis (atopc/contact/other/unspecified),M12yB00,591201000006113,Contact dermatitis due to ultra-violet rays (excluding sun),200879000,308620016
+Dermatitis (atopc/contact/other/unspecified),M12yC00,115978018,Contact dermatitis due to X-rays,69827001,115978018
+Dermatitis (atopc/contact/other/unspecified),M12yD00,308622012,Contact dermatitis due to casting materials,200881003,308622012
+Dermatitis (atopc/contact/other/unspecified),M12yz00,308623019,Contact dermatitis: specified agent NOS,40275004,63652013
+Dermatitis (atopc/contact/other/unspecified),M12z.00,591221000006115,Contact dermatitis NOS,40275004,63652013
+Dermatitis (atopc/contact/other/unspecified),M12z000,308625014,Inflammatory dermatosis,703938007,3012078018
+Dermatitis (atopc/contact/other/unspecified),M12z100,399917015,Eczema,43116000,71923017
+Dermatitis (atopc/contact/other/unspecified),M12z111,622961000006111,Discoid eczema,81418003,3302693013
+Dermatitis (atopc/contact/other/unspecified),M12z200,1779345010,Infected eczema,400079002,1779345010
+Dermatitis (atopc/contact/other/unspecified),M12z300,357504010,Hand eczema,238539001,357504010
+Dermatitis (atopc/contact/other/unspecified),M12z400,1779279014,Erythrodermic eczema,400005007,1779279014
+Dermatitis (atopc/contact/other/unspecified),M12zz00,308624013,Contact dermatitis NOS,40275004,63652013
+Dermatitis (atopc/contact/other/unspecified),M13..00,308633010,Ingestion dermatitis,200890005,308633010
+Dermatitis (atopc/contact/other/unspecified),M130.00,399918013,Ingestion dermatitis due to drugs,267798001,399918013
+Dermatitis (atopc/contact/other/unspecified),M130.11,220921000000114,Drug-induced rash,28926001,1226128015
+Dermatitis (atopc/contact/other/unspecified),M130000,308637011,Generalised skin eruption due to drugs and medicaments,200892002,308638018
+Dermatitis (atopc/contact/other/unspecified),M130100,308640011,Localised skin eruption due to drugs and medicaments,200893007,308639014
+Dermatitis (atopc/contact/other/unspecified),M130200,358163013,Drug-induced erythroderma,238992001,358163013
+Dermatitis (atopc/contact/other/unspecified),M131.00,308642015,Ingestion dermatitis due to food,200895000,308642015
+Dermatitis (atopc/contact/other/unspecified),M13y.00,308643013,Ingestion dermatitis due to other specified substance,200890005,308633010
+Dermatitis (atopc/contact/other/unspecified),M13z.00,308644019,Ingestion dermatitis NOS,200890005,308633010
+Dermatitis (atopc/contact/other/unspecified),M153500,357830017,Perioral dermatitis,238751002,357830017
+Dermatitis (atopc/contact/other/unspecified),M153511,557651000006114,Circumoral dermatitis,238751002,357830017
+Dermatitis (atopc/contact/other/unspecified),M153600,2645974013,Periocular dermatitis,425267003,2645974013
+Dermatitis (atopc/contact/other/unspecified),M15y200,308716014,Pityriasis rubra (Hebra),200948000,308716014
+Dermatitis (atopc/contact/other/unspecified),M165000,1781460018,Pityriasis alba,402296004,1781460018
+Dermatitis (atopc/contact/other/unspecified),M173.00,744321000006117,Lichen simplex,53891004,496798019
+Dermatitis (atopc/contact/other/unspecified),M182.00,106630017,Prurigo,64144002,106630017
+Dermatitis (atopc/contact/other/unspecified),M182000,198001000006115,Prurigo aestivalis,201015007,308805012
+Dermatitis (atopc/contact/other/unspecified),M182200,308807016,Prurigo mitis,201017004,308807016
+Dermatitis (atopc/contact/other/unspecified),M182300,92436015,Prurigo simplex,55608001,92436015
+Dermatitis (atopc/contact/other/unspecified),M182z00,308809018,Prurigo NOS,64144002,106630017
+Dermatitis (atopc/contact/other/unspecified),M183.00,308810011,Lichenification and lichen simplex chronicus,201020007,308810011
+Dermatitis (atopc/contact/other/unspecified),M183000,198021000006113,Prurigo nodularis,63501000,105551016
+Dermatitis (atopc/contact/other/unspecified),M183100,89586012,Neurodermatitis,267854005,400074011
+Dermatitis (atopc/contact/other/unspecified),M183200,496798019,Lichen simplex,53891004,496798019
+Dermatitis (atopc/contact/other/unspecified),M183z00,308812015,Lichenification,402237006,1781404012
+Dermatitis (atopc/contact/other/unspecified),M1B..11,755361000006114,Juvenile plantar dermatitis,238590000,357589019
+Dermatitis (atopc/contact/other/unspecified),M1y0.00,135069015,Nummular dermatitis,81418003,135069015
+Dermatitis (atopc/contact/other/unspecified),M1y1.00,484504011,Cutaneous autosensitisation,3014005,484501015
+Dermatitis (atopc/contact/other/unspecified),M252.00,633041000006119,Vesicular eczema of hands and/or feet,402567004,1781685019
+Dermatitis (atopc/contact/other/unspecified),M252000,309090018,Dyshidrosis unspecified,402567004,1781685019
+Dermatitis (atopc/contact/other/unspecified),M252100,309091019,Pompholyx,402567004,2536677012
+Dermatitis (atopc/contact/other/unspecified),M252200,545831000006111,Vesicular hand eczema,402222007,1781389017
+Dermatitis (atopc/contact/other/unspecified),M252300,309092014,Podopompholyx,201201000,309092014
+Dermatitis (atopc/contact/other/unspecified),M252z00,309094010,Dyshidrosis NOS,402567004,1781685019
+Dermatitis (atopc/contact/other/unspecified),M2y4100,1787071017,Menstrual dermatosis,400028008,1787071017
+Dermatitis (atopc/contact/other/unspecified),M2y4811,755371000006119,Juvenile plantar dermatitis,238590000,357589019
+Dermatitis (atopc/contact/other/unspecified),Myu2.00,309315018,[X]Dermatitis and eczema,43116000,71923017
+Dermatitis (atopc/contact/other/unspecified),Myu2100,362991000006116,Allergic contact dermatitis caused by chemical,10676871000119104,3043986018
+Dermatitis (atopc/contact/other/unspecified),Myu2200,980491000006115,Exacerbation of eczema,135843006,216603019
+Dermatitis (atopc/contact/other/unspecified),Myu2300,309319012,[X]Allergic contact dermatitis due to other agents,238575004,357566010
+Dermatitis (atopc/contact/other/unspecified),Myu2400,394521000006117,[X]Irritant contact dermatitis due to oth chemical products,110979008,1775284012
+Dermatitis (atopc/contact/other/unspecified),Myu2500,309321019,[X]Irritant contact dermatitis due to other agents,110979008,1775284012
+Dermatitis (atopc/contact/other/unspecified),Myu2600,430281000006110,[X]Unspcfd contact dermatitis due to other chemical products,40275004,63652013
+Dermatitis (atopc/contact/other/unspecified),Myu2700,309323016,[X]Unspecified contact dermatitis due to other agents,40275004,63652013
+Dermatitis (atopc/contact/other/unspecified),Myu2800,309324010,[X]Dermatitis due to other substances taken internally,43116000,71923017
+Dermatitis (atopc/contact/other/unspecified),Myu2A00,309326012,[X]Other prurigo,64144002,106630017
+Dermatitis (atopc/contact/other/unspecified),Myu2C00,309328013,[X]Other specified dermatitis,703938007,3039229010

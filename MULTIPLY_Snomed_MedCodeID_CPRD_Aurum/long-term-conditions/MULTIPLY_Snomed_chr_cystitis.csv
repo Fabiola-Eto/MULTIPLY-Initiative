@@ -1,0 +1,12 @@
+Condition,ReadCode,MedCodeId,Term,SnomedCTConceptId,SnomedCTDescriptionId
+Non-acute cystitis,K151.00,304177012,Chronic interstitial cystitis,197834003,304177012
+Non-acute cystitis,K151000,131354016,Hunner's ulcer,79160001,131354016
+Non-acute cystitis,K151200,304182017,Submucous cystitis,197837005,304182017
+Non-acute cystitis,K151z00,304183010,Chronic interstitial cystitis NOS,197834003,304177012
+Non-acute cystitis,K152.00,304184016,Other chronic cystitis,33655002,56180018
+Non-acute cystitis,K152000,8285011,Subacute cystitis,4324001,8285011
+Non-acute cystitis,K152y00,304186019,Chronic cystitis,33655002,56180018
+Non-acute cystitis,K152z00,304187011,Other chronic cystitis NOS,33655002,56180018
+Non-acute cystitis,K153.11,107972012,Follicular cystitis,64956000,107972012
+Non-acute cystitis,K15y000,22733019,Cystitis cystica,13285005,22733019
+Non-acute cystitis,Kyu5000,305202016,[X]Other chronic cystitis,33655002,56180018

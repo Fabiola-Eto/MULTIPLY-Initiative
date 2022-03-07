@@ -1,0 +1,8 @@
+Condition,ReadCode,MedCodeId,Term,SnomedCTConceptId,SnomedCTDescriptionId
+Secondary polycythaemia,D410.00,494050018,Secondary polycythaemia,44865000,494050018
+Secondary polycythaemia,D410000,486571018,Stress polycythaemia,36874002,486571018
+Secondary polycythaemia,D410100,483065013,High altitude polycythaemia,25881005,483065013
+Secondary polycythaemia,D410200,294491014,Polycythaemia due to cyanotic heart disease,191372008,294491014
+Secondary polycythaemia,D410300,294492019,Polycythaemia due to cyanotic respiratory disease,191373003,294492019
+Secondary polycythaemia,D410400,1216509016,Renal polycythaemia,367328005,1216509016
+Secondary polycythaemia,D410z00,294495017,Secondary polycythaemia NOS,44865000,494050018

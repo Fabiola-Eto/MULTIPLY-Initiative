@@ -1,0 +1,33 @@
+Condition,ReadCode,MedCodeId,Term,SnomedCTConceptId,SnomedCTDescriptionId
+ADHD and hyperkinetic disorders,6A61.00,1551611000000112,Attention deficit hyperactivity disorder annual review,710071000000106,1551611000000112
+ADHD and hyperkinetic disorders,8BPT.00,1885221000006117,Drug therapy for ADHD (attention deficit hyperactivity disorder),702538008,3004359016
+ADHD and hyperkinetic disorders,8BPT000,1885231000006119,Stimulant drug therapy for ADHD (attention deficit hyperactivity disorder),702536007,3004379012
+ADHD and hyperkinetic disorders,8BPT100,1885241000006112,Non-stimulant drug therapy for ADHD (attention deficit hyperactivity disorder),703314001,3008276010
+ADHD and hyperkinetic disorders,9Ngp.00,1886751000006113,On drug therapy for ADHD (attention deficit hyperactivity disorder),886371000000105,2284251000000114
+ADHD and hyperkinetic disorders,9Ngp000,1886761000006110,On stimulant drug therapy for ADHD (attention deficit hyperactivity disorder),886391000000109,2284291000000118
+ADHD and hyperkinetic disorders,9Ngp100,1886771000006115,On non-stimulant drug therapy for ADHD (attention deficit hyperactivity disorder),886411000000109,2284331000000113
+ADHD and hyperkinetic disorders,9Ol8.00,1742541000006113,Attention deficit hyperactivity disorder monitoring invitation first letter,516401000000106,1149891000000114
+ADHD and hyperkinetic disorders,9Ol9.00,1742551000006110,Attention deficit hyperactivity disorder monitoring invitation second letter,516891000000101,1151111000000113
+ADHD and hyperkinetic disorders,9OlA.00,1742561000006112,Attention deficit hyperactivity disorder monitoring invitation third letter,516911000000103,1151151000000112
+ADHD and hyperkinetic disorders,E2E..00,550441000006114,Childhood hyperkinetic syndrome,406506008,2158158016
+ADHD and hyperkinetic disorders,E2E..11,2163264017,Overactive child syndrome,406506008,2163264017
+ADHD and hyperkinetic disorders,E2E0.00,295618015,Child attention deficit disorder,192127007,295618015
+ADHD and hyperkinetic disorders,E2E0100,498881000006117,Attention deficit with hyperactivity,406506008,2158158016
+ADHD and hyperkinetic disorders,E2E0z00,295621018,Child attention deficit disorder NOS,192127007,295618015
+ADHD and hyperkinetic disorders,E2E1.00,295622013,Hyperkinesis with developmental delay,192131001,295622013
+ADHD and hyperkinetic disorders,E2E2.00,295623015,Hyperkinetic conduct disorder,192132008,295623015
+ADHD and hyperkinetic disorders,E2Ey.00,295624014,Other hyperkinetic manifestation,406506008,2158158016
+ADHD and hyperkinetic disorders,E2Ez.00,295625010,Hyperkinetic syndrome NOS,406506008,2158158016
+ADHD and hyperkinetic disorders,Eu84400,417681000006116,[X]Overactive disorder assoc mental retard/stereotype movts,35919005,59939011
+ADHD and hyperkinetic disorders,Eu90.00,389281000006118,[X]Hyperkinetic disorders,406506008,2158158016
+ADHD and hyperkinetic disorders,Eu90000,296687014,[X]Disturbance of activity and attention,464511000000105,947331000000110
+ADHD and hyperkinetic disorders,Eu90011,366481000006113,Attention deficit hyperactivity disorder,406506008,2158158016
+ADHD and hyperkinetic disorders,Eu90100,389251000006114,[X]Hyperkinetic conduct disorder,192132008,295623015
+ADHD and hyperkinetic disorders,Eu90111,389261000006111,[X]Hyperkinetic disorder associated with conduct disorder,192132008,295623015
+ADHD and hyperkinetic disorders,Eu90y00,296689012,[X]Other hyperkinetic disorders,406506008,2158158016
+ADHD and hyperkinetic disorders,Eu90z00,296690015,"[X]Hyperkinetic disorder, unspecified",406506008,2158158016
+ADHD and hyperkinetic disorders,Eu90z11,389291000006115,[X]Hyperkinetic reaction of childhood or adolescence NOS,406506008,2158158016
+ADHD and hyperkinetic disorders,Eu90z12,389301000006119,[X]Hyperkinetic syndrome NOS,406506008,2158158016
+ADHD and hyperkinetic disorders,Eu9y700,486106015,Attention deficit disorder,35253001,486108019
+ADHD and hyperkinetic disorders,ZS91.00,486106015,Attention deficit disorder,35253001,486108019
+ADHD and hyperkinetic disorders,ZS91.11,3068161000006118,ADD - Attention deficit disorder,35253001,486104017

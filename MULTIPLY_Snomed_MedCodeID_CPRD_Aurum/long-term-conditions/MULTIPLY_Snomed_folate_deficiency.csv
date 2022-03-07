@@ -1,0 +1,16 @@
+Condition,ReadCode,MedCodeId,Term,SnomedCTConceptId,SnomedCTDescriptionId
+"Folate deficiency, with and without anaemia",42U2.00,257560017,Serum folate low,165650003,257560017
+"Folate deficiency, with and without anaemia",42U8.00,257565010,RBC folate low,165656009,257565010
+"Folate deficiency, with and without anaemia",42UB.00,257568012,Whole blood folate low,165659002,257568012
+"Folate deficiency, with and without anaemia",C262000,293006011,Folic acid deficiency,190633005,293006011
+"Folate deficiency, with and without anaemia",D012.00,763221000006115,Megaloblastic anaemia due to folate deficiency,85649008,506649011
+"Folate deficiency, with and without anaemia",D012.11,506651010,Folic acid deficiency anaemia,85649008,506649011
+"Folate deficiency, with and without anaemia",D012000,293925011,Congenital folate malabsorption anaemia,191146005,293925011
+"Folate deficiency, with and without anaemia",D012100,763231000006117,Folate deficiency anaemia due to dietary causes,267518003,399202013
+"Folate deficiency, with and without anaemia",D012111,804971000006111,Goat's milk anaemia,15332004,26006014
+"Folate deficiency, with and without anaemia",D012200,763271000006119,"Folate-deficiency anaemia, drug induced",191148006,293935017
+"Folate deficiency, with and without anaemia",D012300,763251000006112,Folate-deficiency anaemia due to malabsorption,191149003,293938015
+"Folate deficiency, with and without anaemia",D012400,763241000006110,Folate-deficiency anaemia due to liver disorders,191150003,293939011
+"Folate deficiency, with and without anaemia",D012z00,763261000006114,Folate-deficiency anaemia NOS,85649008,506650011
+"Folate deficiency, with and without anaemia",D013000,293948018,Combined B12 and folate deficiency anaemia,191154007,293948018
+"Folate deficiency, with and without anaemia",Dyu0300,294572011,Folate deficiency anaemia,85649008,506650011

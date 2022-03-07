@@ -1,0 +1,28 @@
+Condition,ReadCode,MedCodeId,Term,SnomedCTConceptId,SnomedCTDescriptionId
+Collapsed vertebra,7J41300,370001000000111,Vertebroplasty of fracture of spine,230411000000106,370001000000111
+Collapsed vertebra,7J41500,2674037014,Balloon kyphoplasty of fracture of spine,426243004,2674037014
+Collapsed vertebra,7J48M00,1780420012,Vertebroplasty,401226007,1780420012
+Collapsed vertebra,N331.11,359835018,Collapse of spine NOS,268029009,400338014
+Collapsed vertebra,N331.12,359834019,Collapse of vertebra,84138006,139537010
+Collapsed vertebra,N331.14,359833013,Osteoporotic vertebral collapse,240198002,359833013
+Collapsed vertebra,N331000,405143010,Pathological fracture of thoracic vertebra,270507001,405143010
+Collapsed vertebra,N331011,572221000006119,Collapse of thoracic vertebra,308756007,452079017
+Collapsed vertebra,N331100,405144016,Pathological fracture of lumbar vertebra,270508006,405144016
+Collapsed vertebra,N331111,572171000006113,Collapse of lumbar vertebra,308758008,452081015
+Collapsed vertebra,N331800,40881000006116,Osteoporosis with pathological fracture of lumbar vertebrae,203450003,312162011
+Collapsed vertebra,N331900,40891000006118,Osteoporosis with pathological fracture of thoracic vertebrae,203451004,312163018
+Collapsed vertebra,N331A00,40871000006119,Osteoporosis with pathological fracture of cervical vertebrae,203452006,312164012
+Collapsed vertebra,N331C00,451463012,Pathological fracture of cervical vertebra,308145001,451463012
+Collapsed vertebra,N331D00,451464018,Collapsed vertebra NOS,84138006,139537010
+Collapsed vertebra,N331E00,452080019,Collapse of cervical vertebra,308757003,452080019
+Collapsed vertebra,N331F00,452079017,Collapse of thoracic vertebra,308756007,452079017
+Collapsed vertebra,N331G00,452081015,Collapse of lumbar vertebra,308758008,452081015
+Collapsed vertebra,N331H00,455433012,Collapse of cervical vertebra due to osteoporosis,311806008,455433012
+Collapsed vertebra,N331J00,455534015,Collapse of lumbar vertebra due to osteoporosis,311890007,455534015
+Collapsed vertebra,N331K00,455535019,Collapse of thoracic vertebra due to osteoporosis,311891006,455535019
+Collapsed vertebra,N331L00,455536018,Collapse of vertebra due to osteoporosis,240198002,2920899019
+Collapsed vertebra,Nyu6700,312617013,Fracture of vertebral column,50448004,84047017
+Collapsed vertebra,S100H00,318384010,"Closed fracture cervical vertebra, wedge",207904007,318384010
+Collapsed vertebra,S102100,318437014,"Closed fracture thoracic vertebra, wedge",207940009,318437014
+Collapsed vertebra,S104100,318456016,"Closed fracture lumbar vertebra, wedge",207959006,318456016
+Collapsed vertebra,S106000,318474013,Closed compression fracture sacrum,207975009,318474013

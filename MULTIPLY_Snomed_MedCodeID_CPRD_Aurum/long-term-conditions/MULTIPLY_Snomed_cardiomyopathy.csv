@@ -1,0 +1,40 @@
+Condition,ReadCode,MedCodeId,Term,SnomedCTConceptId,SnomedCTDescriptionId
+Cardiomyopathy other,C373300,666221000006118,Familial cardiac amyloid,27097002,483430019
+Cardiomyopathy other,C373G00,28038011,Senile cardiac amyloidosis,16573007,28038011
+Cardiomyopathy other,F391B00,460126017,Cardiomyopathy in Duchenne muscular dystrophy,315608004,460126017
+Cardiomyopathy other,G343.00,299796018,Ischaemic cardiomyopathy,194849004,299796018
+Cardiomyopathy other,G55..00,142397010,Cardiomyopathy,85898001,142397010
+Cardiomyopathy other,G550.00,1778232017,Endomyocardial fibrosis,398754006,1778261016
+Cardiomyopathy other,G552.00,395766015,Obscure African cardiomyopathy,398754006,3448072015
+Cardiomyopathy other,G554.00,300032019,Other primary cardiomyopathies,85898001,142397010
+Cardiomyopathy other,G554000,1778488011,Congestive cardiomyopathy,399020009,1778488011
+Cardiomyopathy other,G554100,150511013,Constrictive cardiomyopathy,415295002,2532896011
+Cardiomyopathy other,G554200,59588016,Familial cardiomyopathy,35728003,59588016
+Cardiomyopathy other,G554400,300040013,Primary dilated cardiomyopathy,195021004,300040013
+Cardiomyopathy other,G554500,2816932015,Takotsubo cardiomyopathy,441541008,2816932015
+Cardiomyopathy other,G554511,2816931010,Stress cardiomyopathy,441541008,2816931010
+Cardiomyopathy other,G554z00,300041012,Other primary cardiomyopathy NOS,85898001,142397010
+Cardiomyopathy other,G555.00,138527014,Alcoholic cardiomyopathy,83521008,138527014
+Cardiomyopathy other,G556.00,537931000006112,Cardiomyopathy in Chagas's disease,998008,2754013
+Cardiomyopathy other,G557.00,300042017,Nutritional and metabolic cardiomyopathies,195023001,300042017
+Cardiomyopathy other,G557000,480631000006119,Amyloid heart muscle disease,16573007,477841018
+Cardiomyopathy other,G557011,28040018,Cardiac amyloidosis,16573007,28040018
+Cardiomyopathy other,G557100,498953012,Beriberi heart disease,61179004,498953012
+Cardiomyopathy other,G557500,100438013,Thyrotoxic heart disease,60446003,100438013
+Cardiomyopathy other,G557z00,395767012,Nutritional and metabolic cardiomyopathy NOS,195023001,300042017
+Cardiomyopathy other,G558.00,300052018,Cardiomyopathy in disease EC,195029002,300052018
+Cardiomyopathy other,G558000,300053011,Cardiomyopathy in Friedreich's ataxia,195030007,300053011
+Cardiomyopathy other,G558100,300054017,Cardiomyopathy in myotonic dystrophy,195031006,300054017
+Cardiomyopathy other,G558200,300055016,Dystrophic cardiomyopathy,195032004,300055016
+Cardiomyopathy other,G558400,2196311000000112,Amyloid cardiomyopathy,847041000000109,2196311000000112
+Cardiomyopathy other,G558z00,300057012,Cardiomyopathy associated with another disorder,195029002,2575702014
+Cardiomyopathy other,G559.00,419130013,Arrhythmogenic right ventricular cardiomyopathy,281170005,419130013
+Cardiomyopathy other,G55A.00,1705371000000116,Tachycardiomyopathy,426300009,1705371000000116
+Cardiomyopathy other,G55A.11,2674238014,Tachycardia-induced cardiomyopathy,426300009,2674238014
+Cardiomyopathy other,G55y.00,395768019,Cardiomyopathy associated with another disorder,195029002,300052018
+Cardiomyopathy other,G55y.11,34556015,Secondary dilated cardiomyopathy,20529002,34556015
+Cardiomyopathy other,G55y000,300061018,Chronic myocardial disorder due to chemical or external agent,233880002,350426011
+Cardiomyopathy other,G55z.00,300062013,Cardiomyopathy NOS,85898001,142397010
+Cardiomyopathy other,Gyu5N00,300911012,Primary restrictive cardiomyopathy,90828009,150509016
+Cardiomyopathy other,Gyu5P00,300912017,[X]Other cardiomyopathies,85898001,142397010
+Cardiomyopathy other,Gyu5R00,370271000006116,[X]Cardiomyopathy in metabolic diseases CE,195023001,300042017

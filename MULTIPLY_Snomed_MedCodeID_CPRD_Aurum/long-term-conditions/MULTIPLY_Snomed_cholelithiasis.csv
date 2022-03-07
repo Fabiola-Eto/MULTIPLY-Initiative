@@ -1,0 +1,55 @@
+Condition,ReadCode,MedCodeId,Term,SnomedCTConceptId,SnomedCTDescriptionId
+Cholelithiasis,14CE.00,2159237010,H/O: gallstones,407637009,2548150013
+Cholelithiasis,1965.00,511901000006117,Biliary colic,37389005,62377013
+Cholelithiasis,1965.11,486708013,Biliary colic symptom,37389005,486708013
+Cholelithiasis,4775.00,662491000006118,Faeces: gall stones present,167642008,260439014
+Cholelithiasis,4G2..00,270901000006111,O/E: gallstone,168036006,261011011
+Cholelithiasis,4G21.00,270801000006117,O/E: cholesterol gall stone,168037002,261012016
+Cholelithiasis,4G22.00,271011000006117,O/E: pigment gall stone,168038007,261013014
+Cholelithiasis,4G2Z.00,270911000006114,O/E: gall stone NOS,168036006,261011011
+Cholelithiasis,7648700,450846014,Enterotomy and removal of gallstone,307555006,450846014
+Cholelithiasis,8CMWD00,2247781000000110,On gallstone care pathway,869671000000109,2247781000000110
+Cholelithiasis,J503000,63341012,Gallstone ileus,37976006,63341012
+Cholelithiasis,J64..00,396396018,Cholelithiasis,266474003,396396018
+Cholelithiasis,J64..11,221141000000110,Bile duct calculus,30093007,50351011
+Cholelithiasis,J64..12,396399013,Calculus - biliary,266474003,396399013
+Cholelithiasis,J64..13,221151000000113,Calculus of cystic duct,65082000,108158018
+Cholelithiasis,J64..14,353659015,Gallbladder calculus,235919008,353659015
+Cholelithiasis,J64..15,353657018,Gallstones,235919008,353657018
+Cholelithiasis,J64..16,396398017,Stone - biliary,266474003,396398017
+Cholelithiasis,J640.00,1231999012,Gallbladder calculus with acute cholecystitis,59771005,1231999012
+Cholelithiasis,J640000,797961000006111,Gallbladder calculus with acute cholecystitis and no obstruction,197377009,303541018
+Cholelithiasis,J640100,797951000006114,Gallbladder calculus with acute cholecystitis and obstruction,197378004,303542013
+Cholelithiasis,J640z00,797971000006116,Gallbladder calculus with acute cholecystitis - obst NOS,59771005,99287019
+Cholelithiasis,J641.00,303544014,Calculus of gallbladder with cholecystitis,25924004,43438012
+Cholelithiasis,J641000,798001000006113,Gallbladder calculus with other cholecystitis +no obstruct,235919008,353656010
+Cholelithiasis,J641100,797991000006115,Gallbladder calculus with other cholecystitis + obstruct,235919008,353656010
+Cholelithiasis,J641z00,798011000006111,Gallbladder calculus with other cholecystitis - obstruct NOS,235919008,353656010
+Cholelithiasis,J642.00,798051000006112,Gallstone,235919008,353661012
+Cholelithiasis,J642.11,303548012,Gallbladder calculus without mention of cholecystitis,235919008,353661012
+Cholelithiasis,J642000,798041000006110,Gallbladder calculus without mention cholecystitis +no obstr,70342003,116838015
+Cholelithiasis,J642100,798031000006117,Cholecystolithiasis with obstruction,711564007,3079032010
+Cholelithiasis,J642200,62377013,Biliary colic,37389005,62377013
+Cholelithiasis,J642z00,798021000006115,Gallbladder calculus without cholecystitis and obstruct NOS,235919008,353661012
+Cholelithiasis,J643.00,303553019,Bile duct calculus with acute cholecystitis,197389006,303553019
+Cholelithiasis,J643000,511641000006112,Bile duct calculus with acute cholecystitis and no obstruction,197390002,303554013
+Cholelithiasis,J643100,511651000006114,Bile duct calculus + acute cholecystitis and obstruction,197391003,303555014
+Cholelithiasis,J643z00,511631000006119,Bile duct calculus + acute cholecystitis - obstruct NOS,197389006,303553019
+Cholelithiasis,J644.00,303557018,Bile duct calculus with other cholecystitis,30093007,50351011
+Cholelithiasis,J644000,511671000006116,Bile duct calculus + other cholecystitis and no obstruction,30093007,50351011
+Cholelithiasis,J644100,511681000006118,Bile duct calculus + other cholecystitis and obstruction,30093007,50351011
+Cholelithiasis,J644z00,511661000006111,Bile duct calculus + other cholecystitis - obstruction NOS,30093007,50351011
+Cholelithiasis,J645.00,396401019,Bile duct calculus without mention of cholecystitis,30093007,50351011
+Cholelithiasis,J645.11,551551000006117,Calculus of bile duct,30093007,50351011
+Cholelithiasis,J645000,511741000006118,"Bile duct calculus without cholecystitis, no obstruction",30093007,50351011
+Cholelithiasis,J645100,511731000006111,Calculus of bile duct with obstruction,4661003,8789018
+Cholelithiasis,J645200,456802011,Bile duct calculus NOS,30093007,50351011
+Cholelithiasis,J645z00,511721000006113,Bile duct calculus without cholecystitis NOS,30093007,50351011
+Cholelithiasis,J646.00,303568018,Calculus of bile duct with cholangitis,197402000,303568018
+Cholelithiasis,J64z.00,551611000006117,Cholelithiasis NOS,266474003,396396018
+Cholelithiasis,J64z000,303570010,Cholelithiasis without obstruction,70342003,116838015
+Cholelithiasis,J64z100,303571014,Cholelithiasis with obstruction,77528005,128698014
+Cholelithiasis,J64zz00,303569014,Cholelithiasis NOS,266474003,396396018
+Cholelithiasis,J670500,353686015,Gallstone acute pancreatitis,235941008,353686015
+Cholelithiasis,J671100,353697015,Gallstone chronic pancreatitis,235951009,353697015
+Cholelithiasis,Jyu8000,303789013,[X]Other cholelithiasis,266474003,396395019

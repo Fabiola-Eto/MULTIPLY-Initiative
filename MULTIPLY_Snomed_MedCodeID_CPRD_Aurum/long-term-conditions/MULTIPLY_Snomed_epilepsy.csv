@@ -1,0 +1,137 @@
+Condition,ReadCode,MedCodeId,Term,SnomedCTConceptId,SnomedCTDescriptionId
+Epilepsy,1473.00,251644018,H/O: epilepsy,161480008,251644018
+Epilepsy,14On.00,2466801000000118,At risk of sudden unexpected death in epilepsy,968661000000102,2466801000000118
+Epilepsy,1B1W.00,1489345013,Transient epileptic amnesia,395689002,1489345013
+Epilepsy,1O30.00,2159227017,Epilepsy confirmed,407627004,2159227017
+Epilepsy,2126000,647261000006115,Epilepsy resolved,162658001,253531010
+Epilepsy,212J.00,253531010,Epilepsy resolved,162658001,253531010
+Epilepsy,6110.00,1175991000000119,Contraceptive advice for patients with epilepsy,526921000000102,1175991000000119
+Epilepsy,667..00,264629018,Epilepsy monitoring,170702005,264629018
+Epilepsy,6672.00,264631010,Follow-up epilepsy assessment,170704006,264631010
+Epilepsy,6674.00,264634019,Epilepsy associated problems,170706008,264634019
+Epilepsy,6675.00,264635018,Fit frequency,170707004,264635018
+Epilepsy,6676.00,264636017,Last fit,712814005,3285595019
+Epilepsy,6677.00,264637014,Epilepsy drug side effect,170709001,2668002018
+Epilepsy,6678.00,264638016,Epilepsy treatment changed,170710006,264638016
+Epilepsy,6679.00,264639012,Epilepsy treatment started,170711005,264639012
+Epilepsy,667A.00,264640014,Epilepsy treatment stopped,170712003,264640014
+Epilepsy,667B.00,345323014,Nocturnal epilepsy,230445007,345323014
+Epilepsy,667C.00,459233015,Epilepsy control good,314827004,459233015
+Epilepsy,667D.00,459234014,Epilepsy control poor,314828009,459234014
+Epilepsy,667E.00,1780375016,Epilepsy care arrangement,401178003,1780375016
+Epilepsy,667F.00,930341000006113,Seizure free > 12 months,407585000,2159186017
+Epilepsy,667G.00,141981000000118,Epilepsy restricts employment,93141000000105,141981000000118
+Epilepsy,667H.00,141991000000116,Epilepsy prevents employment,93151000000108,141991000000116
+Epilepsy,667J.00,154851000000115,Epilepsy impairs education,108211000000104,154851000000115
+Epilepsy,667K.00,137801000000112,Epilepsy limits activities,88491000000102,137801000000112
+Epilepsy,667L.00,142041000000115,Epilepsy does not limit activities,93211000000101,142041000000115
+Epilepsy,667M.00,142051000000117,Epilepsy management plan given,840261000000103,2180511000000117
+Epilepsy,667N.00,2159216019,Epilepsy severity,407616001,2159216019
+Epilepsy,667P.00,2159217011,No seizures on treatment,407617005,2159217011
+Epilepsy,667Q.00,2159218018,1 to 12 seizures a year,407618000,2159218018
+Epilepsy,667R.00,2159219014,2 to 4 seizures a month,407619008,2159219014
+Epilepsy,667S.00,2159220015,1 to 7 seizures a week,407620002,2159220015
+Epilepsy,667T.00,2159221016,Daily seizures,407621003,2159221016
+Epilepsy,667V.00,2159222011,Many seizures a day,407622005,2159222011
+Epilepsy,667W.00,2159223018,Emergency epilepsy treatment since last appointment,407623000,2159223018
+Epilepsy,667X.00,2533403014,No epilepsy drug side effects,414860000,2533403014
+Epilepsy,667Z.00,264645016,Epilepsy monitoring NOS,170702005,264629018
+Epilepsy,67AF.00,1176071000000111,Pregnancy advice for patients with epilepsy,526961000000105,1176071000000111
+Epilepsy,67IJ000,1176031000000114,Pre-conception advice for patients with epilepsy,526941000000109,1176031000000114
+Epilepsy,8BIF.00,1780267013,Epilepsy medication review,401062003,1780267013
+Epilepsy,8BL3.00,2159171011,Patient on maximal tolerated anticonvulsant therapy,407570006,2159171011
+Epilepsy,9N0r.00,2692343011,Seen in epilepsy clinic,429279006,2692343011
+Epilepsy,9N4V.00,166001000000113,Did not attend epilepsy clinic,93401000000104,142221000000117
+Epilepsy,9Of3.00,2548491016,Epilepsy monitoring verbal invite,416090009,2548491016
+Epilepsy,9Of4.00,406781000000119,Epilepsy monitoring telephone invite,248371000000106,406781000000119
+Epilepsy,9Of5.00,307861000000113,Epilepsy monitoring call first letter,202061000000107,307861000000113
+Epilepsy,9Of6.00,307881000000116,Epilepsy monitoring call second letter,202071000000100,307881000000116
+Epilepsy,9Of7.00,307901000000118,Epilepsy monitoring call third letter,202081000000103,307901000000118
+Epilepsy,Eu05212,425631000006118,[X]Schizophrenia-like psychosis in epilepsy,5510009,10196013
+Epilepsy,Eu05y11,379901000006113,[X]Epileptic psychosis NOS,111479008,178719012
+Epilepsy,Eu06013,395221000006119,[X]Limbic epilepsy personality,36217008,60439011
+Epilepsy,Eu80300,362161000006110,Acquired epileptic aphasia,230438007,345312010
+Epilepsy,F132100,399395015,Progressive myoclonic epilepsy,267581004,399395015
+Epilepsy,F132111,72751000006116,Unverricht - Lundborg disease,230423006,345289013
+Epilepsy,F132200,297060016,Myoclonic encephalopathy,192845009,297060016
+Epilepsy,F142200,297107018,Dyssynergia cerebellaris myoclonica,73495003,122038018
+Epilepsy,F25..00,178739011,Epilepsy,84757009,178739011
+Epilepsy,F250.00,2550890017,Generalised non-convulsive epilepsy,192979009,297264018
+Epilepsy,F250000,230321000006117,Petit mal (minor) epilepsy,509341000000107,1132511000000113
+Epilepsy,F250011,647301000006112,Epileptic absences,509341000000107,1132511000000113
+Epilepsy,F250100,495804010,Pykno-epilepsy,50866000,495804010
+Epilepsy,F250200,297266016,Epileptic seizures - atonic,192981006,297266016
+Epilepsy,F250300,297267013,Epileptic seizures - akinetic,192982004,297267013
+Epilepsy,F250400,345275015,Juvenile absence epilepsy,230413002,345275015
+Epilepsy,F250500,345281011,Lennox-Gastaut syndrome,230418006,345281011
+Epilepsy,F250y00,10791000006116,Other specified generalised nonconvulsive epilepsy,192979009,297263012
+Epilepsy,F250z00,800721000006115,Generalised nonconvulsive epilepsy NOS,192979009,297264018
+Epilepsy,F251.00,500033015,Generalised convulsive epilepsy,65120008,500033015
+Epilepsy,F251000,223811000000118,Generalised epilepsy,19598007,479713017
+Epilepsy,F251011,103531000006110,Tonic-clonic epilepsy,352818000,472410017
+Epilepsy,F251100,297281010,Neonatal myoclonic epilepsy,192990004,297281010
+Epilepsy,F251111,253231000006116,Otohara syndrome,192990004,297280011
+Epilepsy,F251200,297282015,Epileptic seizures - clonic,192991000,297282015
+Epilepsy,F251300,297283013,Epileptic seizures - myoclonic,192992007,297283013
+Epilepsy,F251400,297284019,Epileptic seizures - tonic,192993002,297284019
+Epilepsy,F251500,472410017,Tonic-clonic epilepsy,352818000,472410017
+Epilepsy,F251y00,297289012,Other specified generalised convulsive epilepsy,65120008,108213016
+Epilepsy,F251z00,297290015,Generalised convulsive epilepsy NOS,65120008,500033015
+Epilepsy,F252.00,12602012,Petit-mal status,7033004,501555012
+Epilepsy,F253.00,23819016,Grand mal status,13973009,23819016
+Epilepsy,F253.11,23820010,Status epilepticus,230456007,345339019
+Epilepsy,F254.00,297295013,Partial epilepsy with impairment of consciousness,192999003,297295013
+Epilepsy,F254000,297296014,Temporal lobe epilepsy,193000002,297296014
+Epilepsy,F254100,477355017,Psychomotor epilepsy,361123003,477355017
+Epilepsy,F254200,297300010,Psychosensory epilepsy,193002005,297300010
+Epilepsy,F254300,743461000006119,Limbic system epilepsy,193003000,297301014
+Epilepsy,F254400,297302019,Epileptic automatism,193004006,297302019
+Epilepsy,F254500,2159274014,Complex partial epileptic seizure,407675009,2159274014
+Epilepsy,F254z00,297303012,Partial epilepsy with impairment of consciousness NOS,192999003,297295013
+Epilepsy,F255.00,245341000006117,Localisation-related epilepsy,230381009,345224018
+Epilepsy,F255000,450603013,"Jacksonian, focal or motor epilepsy",307357004,450603013
+Epilepsy,F255011,345225017,Focal epilepsy,230381009,345225017
+Epilepsy,F255012,450602015,Motor epilepsy,307356008,450602015
+Epilepsy,F255100,148591000006114,Sensory induced epilepsy,79745005,1234392012
+Epilepsy,F255200,297311019,Somatosensory epilepsy,193008009,297311019
+Epilepsy,F255300,297313016,Visceral reflex epilepsy,193009001,297313016
+Epilepsy,F255311,297312014,Partial epilepsy with autonomic symptoms,193009001,297312014
+Epilepsy,F255400,297314010,Visual reflex epilepsy,193010006,297314010
+Epilepsy,F255500,297315011,Unilateral epilepsy,193011005,297315011
+Epilepsy,F255600,301541000000116,Simple partial epileptic seizure,199451000000106,301541000000116
+Epilepsy,F255y00,245361000006118,Partial epilepsy without impairment of consciousness OS,230381009,345227013
+Epilepsy,F255z00,245351000006115,Partial epilepsy,230381009,345227013
+Epilepsy,F256.00,46969011,Infantile spasms,28055006,46968015
+Epilepsy,F256.11,46972016,Lightning spasms,28055006,46972016
+Epilepsy,F256.12,46968015,West syndrome,28055006,46968015
+Epilepsy,F256000,46970012,Hypsarrhythmia,28055006,46970012
+Epilepsy,F256100,46971011,Salaam attacks,28055006,1225766016
+Epilepsy,F256z00,297320011,Infantile spasms,28055006,46968015
+Epilepsy,F257.00,297321010,Kojevnikov's epilepsy,241006,1498010
+Epilepsy,F258.00,485041012,Post-ictal state,31758001,485041012
+Epilepsy,F259.00,931711000006118,Early infantile epileptic encephalopathy with suppression bursts,230429005,345301010
+Epilepsy,F259.11,345302015,Ohtahara syndrome,230429005,345302015
+Epilepsy,F25A.00,11300012,Juvenile myoclonic epilepsy,6204001,11300012
+Epilepsy,F25B.00,478024019,Alcohol-induced epilepsy,361268000,478024019
+Epilepsy,F25C.00,345318014,Drug-induced epilepsy,230441003,345318014
+Epilepsy,F25D.00,345321011,Menstrual epilepsy,230444006,345321011
+Epilepsy,F25E.00,2474650018,Stress-induced epilepsy,413101007,2474650018
+Epilepsy,F25F.00,512000013,Photosensitive epilepsy,95208000,512000013
+Epilepsy,F25G.00,345311015,Severe myoclonic epilepsy in infancy,230437002,345311015
+Epilepsy,F25G.11,2193821000000118,Dravet syndrome,230437002,2193821000000118
+Epilepsy,F25X.00,125721000006111,"Status epilepticus, unspecified",230456007,345339019
+Epilepsy,F25y.00,297324019,Other forms of epilepsy,84757009,178739011
+Epilepsy,F25y000,297325018,Cursive (running) epilepsy,193021002,297325018
+Epilepsy,F25y100,148427014,Gelastic epilepsy,89525009,148427014
+Epilepsy,F25y200,736371000006112,Localization-related(focal)(partial)idiopathic epilepsy and epileptic syndromes with seizures of localised onset,193022009,297327014
+Epilepsy,F25y300,345345010,Complex partial status epilepticus,230460005,345345010
+Epilepsy,F25y400,73622018,Benign Rolandic epilepsy,44145005,73622018
+Epilepsy,F25y500,632721000000111,Panayiotopoulos syndrome,230387008,2793363010
+Epilepsy,F25yz00,297330019,Other forms of epilepsy NOS,84757009,178739011
+Epilepsy,F25z.00,399408014,Epilepsy NOS,84757009,178739011
+Epilepsy,F25z.11,453344019,Epileptic seizure,313307000,457182017
+Epilepsy,Fyu5000,299334015,[X]Other generalized epilepsy and epileptic syndromes,84757009,178739011
+Epilepsy,Fyu5100,299336018,[X]Other epilepsy,84757009,178739011
+Epilepsy,Fyu5200,299337010,[X]Other status epilepticus,230456007,345339019
+Epilepsy,Fyu5900,299345017,"[X]Status epilepticus, unspecified",230456007,345339019
+Epilepsy,SC20000,2478828012,Traumatic epilepsy,75023009,2478828012

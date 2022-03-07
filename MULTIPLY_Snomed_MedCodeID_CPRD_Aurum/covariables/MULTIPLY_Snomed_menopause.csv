@@ -1,0 +1,75 @@
+Condition,ReadCode,MedCodeId,Term,SnomedCTConceptId,SnomedCTDescriptionId
+Menopause,12F9.00,250055010,FH: Late menopause,160398001,250055010
+Menopause,14P6.00,251895018,H/O: hormone replacement (HRT),161652003,251895018
+Menopause,1512.00,251993014,Menopause,289903006,2921079019
+Menopause,151J.00,37994016,Premenopausal state,20016009,33691013
+Menopause,151K.00,127040019,Postmenopausal state,76498008,127040019
+Menopause,1583.00,811301000006115,H/O: postmenopausal bleeding,161788002,252102013
+Menopause,44x2.00,2474450014,Menopausal profile,412894004,2474450014
+Menopause,66U..00,401545018,Menopause monitoring,268530007,401545018
+Menopause,66U..11,397164010,Hormone replacement therapy,266717002,397164010
+Menopause,66U1.00,264954016,Menopause initial assessment,170949004,264954016
+Menopause,66U2.00,264955015,Menopause follow-up assessment,170950004,264955015
+Menopause,66U3.00,264956019,Menopause symptoms present,170951000,264956019
+Menopause,66U4.00,264957011,Luteinising hormone and follicle stimulating hormone checked,148176006,3039281010
+Menopause,66U5.00,264958018,Menopause: bone density check,170953002,264958018
+Menopause,66U6.00,264959014,HRT contraindicated,170954008,264959014
+Menopause,66U7.00,264960016,HRT started,170955009,264960016
+Menopause,66U8.00,264961017,HRT side-effects,170956005,264961017
+Menopause,66U9.00,264962012,HRT changed,170957001,264962012
+Menopause,66UA.00,264963019,HRT stopped,170958006,264963019
+Menopause,66UB.00,264965014,HRT: unopposed oestrogen,170959003,264965014
+Menopause,66UC.00,829001000006113,HRT: combined oestrogen/progestogen,170960008,264966010
+Menopause,66UD.00,264968011,Menopause: dietary advice,170961007,264968011
+Menopause,66UE.00,264969015,Menopause sexual education,170962000,2575669011
+Menopause,66UF.00,706231000006111,Menopause education,313207002,2575999016
+Menopause,66UG.00,458709016,Hormone replacement therapy refused,763323007,3638552012
+Menopause,66UH.00,1485017016,Hormone replacement therapy bleed pattern - normal,390988005,1485017016
+Menopause,66UI.00,1485018014,Hormone replacement therapy bleed pattern - abnormal,390989002,1485018014
+Menopause,66UJ.00,1485019018,Hormone replacement therapy bleed pattern - not relevant,390990006,1485019018
+Menopause,66UK.00,1485020012,Hormone replacement therapy bleed pattern - no bleeding,390991005,1485020012
+Menopause,66UL.00,1485021011,Years on hormone replacement therapy,390992003,1485021011
+Menopause,66UZ.00,264973017,Menopause monitoring NOS,268530007,401545018
+Menopause,67I1.00,457065017,Advice about the menopause,313207002,457065017
+Menopause,8B64.11,827831000006115,Hormone implant replacement therapy,278856006,415880010
+Menopause,8B64.12,828961000006117,HRT prophylaxis,266717002,397164010
+Menopause,C163111,214501000006117,Premature menopause,373717006,1212173013
+Menopause,C163400,587831000000117,Early menopause,373717006,1212173013
+Menopause,K171.00,216381000006114,Postmenopausal atrophic urethritis,21237001,480963019
+Menopause,K171.11,216391000006112,Post menopausal urethritis,21237001,480961017
+Menopause,K59B.00,2534105016,Postmenopausal postcoital bleeding,415149004,2534105016
+Menopause,K5A..00,397100015,Menopausal and postmenopausal disorders,266677000,397100015
+Menopause,K5A..11,221331000000115,Postmenopausal disorders,266677000,397100015
+Menopause,K5A0.00,146604018,Premenopausal menorrhagia,386692008,1480833015
+Menopause,K5A0.11,146606016,Climacteric menorrhagia,386692008,1480833015
+Menopause,K5A1.00,127423017,Postmenopausal bleeding,76742009,127423017
+Menopause,K5A2.00,706121000006115,Female climacteric state,198435007,305089018
+Menopause,K5A2000,305090010,Menopausal flushing,198436008,305090010
+Menopause,K5A2011,828351000006118,Menopausal hot flushes,198436008,305091014
+Menopause,K5A2100,305092019,Menopausal sleeplessness,198437004,305092019
+Menopause,K5A2200,305093012,Menopausal headache,198438009,305093012
+Menopause,K5A2300,305094018,Menopausal concentration lack,198439001,305094018
+Menopause,K5A2z00,305095017,Menopausal symptoms NOS,170951000,264956019
+Menopause,K5A3.00,87265016,Postmenopausal atrophic vaginitis,52441000,87265016
+Menopause,K5A4.00,484851015,Artificial menopause state,31351009,484851015
+Menopause,K5A5.00,2159950019,Perimenopausal atrophic vaginitis,408386002,2159950019
+Menopause,K5A6.00,1629301000006115,Perimenopausal menorrhagia,386692008,1480833015
+Menopause,K5Ay.00,305097013,Other menopausal and postmenopausal states,266607004,396793012
+Menopause,K5Az.00,305098015,Menopausal and postmenopausal disorder NOS,266677000,397100015
+Menopause,Kyu9F00,305262018,Perimenopausal disorder,266607004,396793012
+Menopause,M211000,559061000006114,Climacteric keratoderma,201054008,308878010
+Menopause,N063.00,129259017,Climacteric arthritis,77888002,129259017
+Menopause,N063.11,129260010,Menopausal arthritis,77888002,129260010
+Menopause,N063000,310095012,Climacteric arthritis of unspecified site,77888002,129259017
+Menopause,N063100,310096013,Climacteric arthritis of the shoulder region,201977006,310096013
+Menopause,N063200,310097016,Climacteric arthritis of the upper arm,201977006,310096013
+Menopause,N063300,310098014,Climacteric arthritis of the forearm,77888002,129259017
+Menopause,N063400,310099018,Climacteric arthritis of the hand,201980007,310099018
+Menopause,N063500,310100014,Climacteric arthritis of the pelvic region and thigh,201981006,310100014
+Menopause,N063700,310102018,Climacteric arthritis of the ankle and foot,201983009,310102018
+Menopause,N063800,310103011,Climacteric arthritis of other specified site,77888002,129259017
+Menopause,N063900,310104017,Climacteric arthritis of multiple sites,201985002,310104017
+Menopause,N063z00,310105016,Climacteric arthritis NOS,77888002,129259017
+Menopause,N330200,54058015,Postmenopausal osteoporosis,102447009,165682016
+Menopause,N331B00,312165013,Postmenopausal osteoporosis with pathological fracture,203453001,312165013
+Menopause,ZG61.00,457065017,Advice about the menopause,313207002,457065017

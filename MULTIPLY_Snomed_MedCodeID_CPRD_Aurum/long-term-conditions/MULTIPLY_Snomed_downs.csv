@@ -1,0 +1,13 @@
+Condition,ReadCode,MedCodeId,Term,SnomedCTConceptId,SnomedCTDescriptionId
+Down's syndrome,64j..00,2376321000000116,Down's syndrome height centile,926081000000108,2376321000000116
+Down's syndrome,64k..00,2376331000000119,Down's syndrome weight centile,926111000000100,2376331000000119
+Down's syndrome,PJ0..00,628281000006114,Down's syndrome,41040004,598021000000114
+Down's syndrome,PJ0..11,68472012,Mongolism,41040004,598021000000114
+Down's syndrome,PJ0..12,222121000000113,Trisomy 21,41040004,68470016
+Down's syndrome,PJ00.00,88351000006114,"Trisomy 21, meiotic nondisjunction",205615000,315346017
+Down's syndrome,PJ01.00,88371000006116,Trisomy 21- mitotic nondisjunction mosaicism,205616004,315347014
+Down's syndrome,PJ01.11,88361000006111,"Trisomy 21, mitotic nondisjunction",205616004,315347014
+Down's syndrome,PJ02.00,88381000006118,"Trisomy 21, translocation",254264002,378495018
+Down's syndrome,PJ02.11,378494019,Partial trisomy 21 in Down's syndrome,254264002,378494019
+Down's syndrome,PJ0z.00,378493013,Down's syndrome NOS,41040004,598021000000114
+Down's syndrome,PJ0z.11,1224878018,Trisomy 21 NOS,41040004,222121000000113

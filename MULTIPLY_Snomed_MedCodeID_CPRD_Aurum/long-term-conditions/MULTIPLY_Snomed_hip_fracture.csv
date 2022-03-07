@@ -1,0 +1,107 @@
+Condition,ReadCode,MedCodeId,Term,SnomedCTConceptId,SnomedCTDescriptionId
+Fracture of hip,14G7.00,1485120014,H/O: hip fracture,391093004,1485120014
+Fracture of hip,7K1D000,207611000006114,Primary open reduction and internal fixation of proximal femoral fracture with screw/nail and plate device,265132005,393775016
+Fracture of hip,7K1D011,208671000006118,Prim open reduct # neck femur & op fix - Blount nail plate,265132005,393775016
+Fracture of hip,7K1D012,208601000006112,Primary open reduction of fracture of neck of femur and open fixation using Charnley compression screw,239284006,358598019
+Fracture of hip,7K1D013,208591000006116,Primary open reduction of fracture of neck of femur and open fixation using Deyerle multiple hip pinning,239281003,358595016
+Fracture of hip,7K1D014,208681000006115,Primary open reduction of fracture of neck of femur and open fixation using Holt nail,239291009,358607011
+Fracture of hip,7K1D015,208691000006117,Prim open reduct # neck femur & op fix - Jewett nail plate,265132005,393775016
+Fracture of hip,7K1D016,208701000006117,Prim open reduct # neck femur & op fix - Massie nail plate,265132005,393775016
+Fracture of hip,7K1D017,208641000006114,Prim open red # neck femur & op fix - McLaughlin nail plate,265132005,393775016
+Fracture of hip,7K1D018,208711000006119,Prim open reduct # neck femur & op fix - Neufield nail plate,265132005,393775016
+Fracture of hip,7K1D019,208721000006110,Prim open reduct # neck femur & op fix - Pugh nail plate,265132005,393775016
+Fracture of hip,7K1D01A,208731000006113,Primary open reduction of fracture of neck of femur and open fixation using Richards screw,239286008,358601012
+Fracture of hip,7K1D01B,208741000006115,Primary open reduction of fracture of neck of femur and open fixation using Ross Brown nail,239292002,358608018
+Fracture of hip,7K1D01D,208611000006110,Prim op red # nck femur & op fix- Zickel intramed nail plate,265132005,393775016
+Fracture of hip,7K1D01E,358600013,DHS - Dynamic hip screw primary fixation of neck of femur,239285007,358599010
+Fracture of hip,7K1D01F,632911000006110,Primary open reduction of fracture of neck of femur and open fixation using dynamic hip screw,239285007,358599010
+Fracture of hip,7K1D600,207601000006111,Open reduction of fracture of femur with internal fixation,57470004,95576017
+Fracture of hip,7K1D700,207591000006115,Primary open reduction and internal fixation of proximal femoral fracture with screw/nail and intramedullary device,179018001,277012013
+Fracture of hip,7K1DE00,1843951000006113,Primary open reduction of fracture of neck of femur and open fixation using proximal femoral nail antirotation,852231000000109,2207421000000112
+Fracture of hip,7K1H500,166991000006112,Revision to open reduction and external fixation of proximal femoral fracture,179064006,277077011
+Fracture of hip,7K1H600,167991000006110,Revsn to opn red+int fxtn prox fem #+screw/nail device alone,311426001,454997014
+Fracture of hip,7K1H700,159521000006117,Revision to open reduction and internal fixation of proximal femoral fracture with screw/nail and intramedullary device,179066008,277079014
+Fracture of hip,7K1H800,159511000006113,Revision to open reduction and internal fixation of proximal femoral fracture with screw/nail and plate device,179067004,277080012
+Fracture of hip,7K1J000,570621000006118,Closed reduction of fracture of proximal femur and internal fixation using bone screw,708898008,3037770015
+Fracture of hip,7K1J011,557961000006116,Cl red intracaps frac neck femur fix-Garden cannulated screw,708898008,3037770015
+Fracture of hip,7K1J012,557971000006111,Closed reduction of intracapsular fracture of neck of femur and fixation using Smith-Petersen nail,239290005,358606019
+Fracture of hip,7K1J013,570611000006114,Closed reduction and internal fixation of proximal femoral fracture with Richard's cannulated hip screw,239288009,358603010
+Fracture of hip,7K1J500,210921000006113,Internal fixation of femur without fracture reduction,11964008,20626019
+Fracture of hip,7K1J600,210941000006118,Primary internal fixation(without reduction) of proximal femoral fracture with screw/nail and intramedullary device,179097007,277117016
+Fracture of hip,7K1J700,210931000006111,Primary internal fixation(without reduction) of proximal femoral fracture with screw/nail and plate device,179098002,277118014
+Fracture of hip,7K1J800,167971000006114,Revisn to int fxn(no red) prox fem #+screw/nail device alone,179102005,277122016
+Fracture of hip,7K1J900,159501000006110,Revision to internal fixation(without reduction) of proximal femoral fracture with screw/nail and intramedullary device,179100002,277120012
+Fracture of hip,7K1JA00,167981000006112,Revision to internal fixation(without reduction) of proximal femoral fracture with screw/nail and plate device,179102005,277122016
+Fracture of hip,7K1JB00,210031000006112,Closed reduction of fracture of femur with internal fixation,272300006,407419015
+Fracture of hip,7K1JC00,208561000006112,Primary closed reduction and internal fixation of proximal femoral fracture with screw/nail and intramedullary device,179104006,277124015
+Fracture of hip,7K1Jd00,567461000006115,Closed reduction of intracapsular fracture of neck of femur and internal fixation using a dynamic hip screw,313330006,457218015
+Fracture of hip,7K1JD00,210041000006119,Primary closed reduction and internal fixation of proximal femoral fracture with screw/nail and plate device,179105007,277125019
+Fracture of hip,7K1JE00,159481000006117,Rvsn to cls red+int fxn prox fem #+screw/nail device alone,179106008,277126018
+Fracture of hip,7K1JF00,159351000006118,Revision to closed reduction and internal fixation of proximal femoral fracture with screw/nail and intramedullary device,179107004,277127010
+Fracture of hip,7K1JG00,159491000006119,Revision to closed reduction and internal fixation of proximal femoral fracture with screw/nail and plate device,179108009,277128017
+Fracture of hip,7K1K300,210531000006116,Primary external fixation(without reduction) of proximal femoral fracture,179136004,277156010
+Fracture of hip,7K1K400,166821000006118,Revision to external fixation(without reduction) of proximal femoral fracture,179137008,277157018
+Fracture of hip,7K1K500,210151000006118,Primary closed reduction and external fixation of proximal femoral fracture,179138003,277158011
+Fracture of hip,7K1L400,277185016,Closed reduction of fracture of hip,179159005,277185016
+Fracture of hip,7K1Y000,1702401000006118,Revision to closed reduction and internal fixation of proximal femoral fracture with screw/nail device alone,179106008,277126018
+Fracture of hip,7P20100,370861000000115,Delivery of rehabilitation for hip fracture,230841000000109,370861000000115
+Fracture of hip,S30..00,10843018,Fracture of neck of femur,5913000,10843018
+Fracture of hip,S30..11,391384012,Hip fracture,263225007,391384012
+Fracture of hip,S300.00,319084014,"Closed fracture proximal femur, transcervical",208521006,319084014
+Fracture of hip,S300000,570541000006112,Closed fracture of intracapsular section of femur,20100009,33823015
+Fracture of hip,S300100,319086011,"Closed fracture proximal femur, transepiphyseal",208523009,319086011
+Fracture of hip,S300200,319087019,"Closed fracture proximal femur, midcervical section",208524003,319087019
+Fracture of hip,S300300,564391000006113,Closed fracture of base of neck of femur,1705000,3954014
+Fracture of hip,S300311,565211000006111,"Closed fracture, base of neck of femur",1705000,3954014
+Fracture of hip,S300400,319090013,Closed fracture head of femur,208526001,319090013
+Fracture of hip,S300500,570551000006114,"Cls # prox femur, subcapital, Garden grade unspec.",275338001,411305015
+Fracture of hip,S300600,319092017,"Closed fracture proximal femur, subcapital, Garden grade I",208528000,319092017
+Fracture of hip,S300700,319093010,"Closed fracture proximal femur, subcapital, Garden grade II",208529008,319093010
+Fracture of hip,S300800,319094016,"Closed fracture proximal femur, subcapital, Garden grade III",208530003,319094016
+Fracture of hip,S300900,319095015,"Closed fracture proximal femur, subcapital, Garden grade IV",208531004,319095015
+Fracture of hip,S300A00,299771000000110,"Closed fracture of femur, upper epiphysis",198741000000106,299771000000110
+Fracture of hip,S300y00,402869013,"Closed fracture proximal femur, other transcervical",208521006,319084014
+Fracture of hip,S300y11,411305015,"Closed fracture of femur, subcapital",275338001,411305015
+Fracture of hip,S300z00,564491000006115,"Closed fracture proximal femur, transcervical, NOS",208521006,319084014
+Fracture of hip,S301.00,319100018,"Open fracture proximal femur, transcervical",12746007,3043023014
+Fracture of hip,S301000,44341000006111,"Opn # proximal femur, intracapsular section, unspecified",5913000,10843018
+Fracture of hip,S301100,319102014,"Open fracture proximal femur, transepiphyseal",208536009,319102014
+Fracture of hip,S301311,391394019,Open fracture base of neck of femur,263231005,391394019
+Fracture of hip,S301400,259461000006112,Open fracture of head of femur,41191003,68712015
+Fracture of hip,S301500,319108013,"Open fracture proximal femur,subcapital, Garden grade unspec",208540000,319108013
+Fracture of hip,S301600,319109017,"Open fracture proximal femur,subcapital, Garden grade I",208541001,319109017
+Fracture of hip,S301700,319110010,"Open fracture proximal femur,subcapital, Garden grade II",208542008,319110010
+Fracture of hip,S301800,319111014,"Open fracture proximal femur,subcapital, Garden grade III",208543003,319111014
+Fracture of hip,S301900,319112019,"Open fracture proximal femur,subcapital, Garden grade IV",208544009,319112019
+Fracture of hip,S301A00,299791000000114,"Open fracture of femur, upper epiphysis",198751000000109,299791000000114
+Fracture of hip,S301y00,402871013,"Open fracture proximal femur, other transcervical",12746007,21881015
+Fracture of hip,S301y11,411306019,"Open fracture of femur, subcapital",275339009,411306019
+Fracture of hip,S302.00,319118015,"Closed fracture of proximal femur, pertrochanteric",208548007,319118015
+Fracture of hip,S302000,570571000006116,"Cls # proximal femur, trochanteric section, unspecified",208548007,319118015
+Fracture of hip,S302011,411307011,"Closed fracture of femur, greater trochanter",275340006,411307011
+Fracture of hip,S302012,411308018,"Closed fracture of femur, lesser trochanter",275341005,411308018
+Fracture of hip,S302100,319123015,"Closed fracture proximal femur, intertrochanteric, two part",208550004,319123015
+Fracture of hip,S302200,319124014,"Closed fracture proximal femur, subtrochanteric",208551000,319124014
+Fracture of hip,S302300,570561000006111,"Closed fracture proximal femur, intertrochanteric, comminuted",208552007,319125010
+Fracture of hip,S302400,562981000006117,Closed intertrochanteric fracture,89820008,148902010
+Fracture of hip,S302z00,570531000006119,"Cls # of proximal femur, pertrochanteric section, NOS",208548007,319118015
+Fracture of hip,S303.00,319128012,"Open fracture of proximal femur, pertrochanteric",208555009,319128012
+Fracture of hip,S303000,265421000006113,"Open # of proximal femur, trochanteric section, unspecified",5913000,10843018
+Fracture of hip,S303011,411310016,"Open fracture of femur, greater trochanter",275343008,411310016
+Fracture of hip,S303100,319133011,"Open fracture proximal femur, intertrochanteric, two part",208557001,319133011
+Fracture of hip,S303200,319134017,"Open fracture proximal femur, subtrochanteric",208558006,319134017
+Fracture of hip,S303300,319135016,"Open fracture proximal femur, intertrochanteric, comminuted",208559003,319135016
+Fracture of hip,S303400,258471000006114,Open intertrochanteric fracture,26938002,45058017
+Fracture of hip,S303z00,258191000006119,"Open fracture of proximal femur, pertrochanteric, NOS",208555009,319128012
+Fracture of hip,S304.00,319138019,Pertrochanteric fracture,208562000,319138019
+Fracture of hip,S305.00,391392015,Subtrochanteric fracture,263229001,391392015
+Fracture of hip,S30w.00,319140012,Closed fracture of femur,25415003,42617018
+Fracture of hip,S30x.00,319141011,Open fracture of femur,28576007,47832017
+Fracture of hip,S30y.00,402874017,Closed fracture of neck of femur,359820003,475220015
+Fracture of hip,S30y.11,391393013,Hip fracture NOS,263225007,391384012
+Fracture of hip,S30z.00,319145019,Open fracture of neck of femur,361119006,477343011
+Fracture of hip,S4E..00,793901000006115,Fracture dislocation or subluxation hip,209334003,320032013
+Fracture of hip,S4E0.00,565451000006113,"Closed fracture dislocation, hip joint",209335002,320033015
+Fracture of hip,S4E1.00,256101000006113,"Open fracture-dislocation, hip joint",209336001,320034014
+Fracture of hip,S4E2.00,565801000006112,"Closed fracture-subluxation, hip joint",209337005,320035010
+Fracture of hip,SC03.00,750551000006113,Late effect of fracture neck of femur,210967007,322038016

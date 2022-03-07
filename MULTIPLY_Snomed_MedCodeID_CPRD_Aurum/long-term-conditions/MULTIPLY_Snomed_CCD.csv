@@ -1,0 +1,25 @@
+Condition,ReadCode,MedCodeId,Term,SnomedCTConceptId,SnomedCTDescriptionId
+Cardiac conduction defects,3293.00,635591000006118,ECG:complete sinu-atrial block,164901004,256490016
+Cardiac conduction defects,3295.00,634991000006112,ECG: partial atrioventricular block - 2:1,164903001,256492012
+Cardiac conduction defects,3296.00,635001000006117,ECG: partial A-V block - 3:1,164904007,256493019
+Cardiac conduction defects,3297.00,256494013,ECG: Wenckebach phenomenon,164905008,256494013
+Cardiac conduction defects,3297.11,1765921000006112,Electrocardiogram: Mobitz type 1 second degree atrioventricular block,164905008,1739491000000118
+Cardiac conduction defects,3298.00,634591000006119,ECG: complete atrioventricular block,164906009,256495014
+Cardiac conduction defects,3299.00,256496010,ECG: right bundle branch block,164907000,256496010
+Cardiac conduction defects,329A.00,256500012,ECG: left bundle branch block,164909002,256500012
+Cardiac conduction defects,329B.00,1738951000006119,Trifascicular block on electrocardiogram,445309007,2871902010
+Cardiac conduction defects,329H.00,1765931000006110,Electrocardiogram: Mobitz type 2 second degree atrioventricular block,426183003,1689181000000114
+Cardiac conduction defects,G560.00,46670010,Complete atrioventricular block,27885002,46670010
+Cardiac conduction defects,G560.11,46671014,Third degree atrioventricular block,27885002,46671014
+Cardiac conduction defects,G561200,47191011,Mobitz type II atrioventricular block,28189009,47191011
+Cardiac conduction defects,G561300,699951000006113,Mobitz type I Wenckebach atrioventricular block,54016002,1231274018
+Cardiac conduction defects,G561311,1231273012,Mobitz type 1 second degree atrioventricular block,54016002,1231273012
+Cardiac conduction defects,G561400,300073018,Second degree atrioventricular block,195042002,300073018
+Cardiac conduction defects,G562.11,105498014,Left bundle branch block,63467002,105498014
+Cardiac conduction defects,G563.00,300079019,Left main stem bundle branch block,195046004,300079019
+Cardiac conduction defects,G564.00,98239015,Right bundle branch block,59118001,98239015
+Cardiac conduction defects,G565.00,300080016,Bundle branch block,6374002,11568018
+Cardiac conduction defects,G565000,300081017,Bundle branch block unspecified,6374002,11568018
+Cardiac conduction defects,G565300,300084013,Bilateral bundle branch block,20143001,33890011
+Cardiac conduction defects,G565400,142607010,Trifascicular block,86014007,142607010
+Cardiac conduction defects,G565z00,300086010,Other bundle branch block NOS,6374002,11568018

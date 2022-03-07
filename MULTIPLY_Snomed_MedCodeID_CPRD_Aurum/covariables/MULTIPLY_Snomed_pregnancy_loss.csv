@@ -1,0 +1,5 @@
+Condition,ReadCode,MedCodeId,Term,SnomedCTConceptId,SnomedCTDescriptionId
+Early pregnancy loss,6776.12,1215839013,TOP counselling,10383002,1215839013
+Early pregnancy loss,6776.13,1215840010,Termination counselling,10383002,1215840010
+Early pregnancy loss,6776000,338611012,Post-termination counselling,225326008,338611012
+Early pregnancy loss,6776100,338612017,Pre-termination counselling,225327004,338612017

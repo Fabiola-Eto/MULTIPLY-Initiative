@@ -1,0 +1,74 @@
+Condition,ReadCode,MedCodeId,Term,SnomedCTConceptId,SnomedCTDescriptionId
+HIV,43C3.11,257855012,HIV positive,165816005,257855012
+HIV,43w3.00,1540131000006112,HIV (human immunodeficiency virus) ribonucleic acid/deoxyribonucleic acid ratio,996081000000100,2559671000000116
+HIV,4J34.00,459601018,HIV (human immunodeficiency virus) viral load,998701000000106,2581941000000113
+HIV,4J3F.00,603931000000114,Human immunodeficiency virus viral load by log rank,998171000000102,2571361000000118
+HIV,4J3N.00,2376041000000113,HIV (human immunodeficiency virus) drug resistance test,1010871000000101,2578551000000117
+HIV,4J3P.00,1924211000006112,Human immunodeficiency virus type 1 subtype identification,1007761000000101,2551581000000119
+HIV,65QA.00,264371011,Human immunodeficiency virus carrier,699433000,2984517011
+HIV,65VE.00,264418012,Notification of AIDS,170530008,264418012
+HIV,66j..00,1121571000000111,Human immunodeficiency virus monitoring,504871000000109,1121571000000111
+HIV,66j0.00,1121631000000110,Human immunodeficiency virus annual review,504901000000109,1121631000000110
+HIV,7Q05600,749871000000118,Antiretroviral drugs Band 1,380571000000104,749871000000118
+HIV,8Hle.00,1812841000006118,Referral to community human immunodeficiency virus nurse specialist,817381000000107,2129421000000111
+HIV,9kl..00,1715721000006111,Human immunodeficiency virus positive general health check service declined,504931000000103,1154521000000111
+HIV,9kl..11,1741791000006119,HIV positive general health check service declined,504931000000103,1154521000000111
+HIV,9mN..00,2302501000000114,Human immunodeficiency virus infection monitoring invitation,894621000000106,2302501000000114
+HIV,9mN0.00,1907831000006117,Human immunodeficiency virus infection monitoring telephone invitation,894641000000104,2302541000000112
+HIV,9mN0000,1907841000006110,Human immunodeficiency virus infection monitoring first telephone invitation,894661000000103,2302581000000116
+HIV,9mN0100,1907851000006112,Human immunodeficiency virus infection monitoring second telephone invitation,894781000000104,2302841000000110
+HIV,9mN0200,1907861000006114,Human immunodeficiency virus infection monitoring third telephone invitation,894801000000103,2302881000000119
+HIV,9Nt1000,2229631000000112,Seen by community HIV (human immunodeficiency virus) nurse,862191000000107,2229631000000112
+HIV,A788.00,103844015,Acquired immune deficiency syndrome,62479008,103844015
+HIV,A788.11,143288017,Human immunodeficiency virus infection,86406008,143288017
+HIV,A788000,365853018,Acute HIV infection,111880001,179043011
+HIV,A788100,152322017,Asymptomatic human immunodeficiency virus infection,91947003,152322017
+HIV,A788200,825871000006111,Human immunodeficiency virus infection with persistent generalised lymphadenopathy,95892003,512343012
+HIV,A788300,829181000006115,Human immunodeficiency virus with constitutional disease,186706006,287010012
+HIV,A788400,287012016,Human immunodeficiency virus with neurological disease,186707002,287012016
+HIV,A788500,829221000006112,Human immunodeficiency virus infection with secondary clinical infectious disease,186708007,287013014
+HIV,A788600,287014015,Malignant neoplastic disease co-occurrent with human immunodeficiency virus infection,713572001,3290189011
+HIV,A788U00,825731000006117,"HIV disease result/haematological+immunologic abnorms,NEC",943041000000105,2412691000000112
+HIV,A788V00,825791000006118,HIV disease resulting in multiple diseases CE,86406008,143288017
+HIV,A788W00,825841000006115,HIV disease resulting in unspecified malignant neoplasm,86406008,143288017
+HIV,A788X00,825861000006116,HIV disease resulting/unspcf infectious+parasitic disease,186708007,287013014
+HIV,A788y00,287020019,Human immunodeficiency virus with other clinical findings,86406008,143288017
+HIV,A788z00,287021015,Acquired human immunodeficiency virus infection syndrome NOS,86406008,143288017
+HIV,A789.00,287022010,Symptomatic human immunodeficiency virus infection,81000119104,2967570018
+HIV,A789000,287023017,Mycobacteriosis associated with AIDS,420818005,2617389018
+HIV,A789100,287024011,HIV disease resulting in cytomegaloviral disease,81000119104,2967570018
+HIV,A789200,287025012,HIV disease resulting in candidiasis,81000119104,2967570018
+HIV,A789300,825831000006113,Pneumocystosis associated with AIDS,420403001,2617400016
+HIV,A789311,1814921000006112,HIV disease resulting in Pneumocystis jirovecii pneumonia,420403001,2617400016
+HIV,A789400,287027016,HIV disease resulting in multiple infections,186708007,287013014
+HIV,A789500,825771000006119,Kaposi's sarcoma associated with AIDS,420524008,2617386013
+HIV,A789511,1814931000006110,HIV disease resulting in Kaposi sarcoma,420524008,2614767011
+HIV,A789600,287029018,Burkitt lymphoma co-occurrent with human immunodeficiency virus infection,713897006,3297968018
+HIV,A789611,2168331000000117,HIV disease resulting in Burkitt lymphoma,713897006,3297968018
+HIV,A789700,825721000006115,Non-Hodgkin lymphoma associated with Human immunodeficiency virus infection,442537007,2816358010
+HIV,A789711,1814951000006115,HIV disease resulting in other types of non-Hodgkin lymphoma,442537007,2816358010
+HIV,A789800,287031010,HIV disease resulting in multiple malignant neoplasms,713572001,3290189011
+HIV,A789900,287032015,HIV disease resulting in lymphoid interstitial pneumonitis,421671002,2614782018
+HIV,A789A00,2622348012,HIV disease resulting in wasting syndrome,422003001,2622348012
+HIV,A789X00,825711000006111,"HIV dis reslt/oth mal neopl/lymph,h'matopoetc+reltd tissu",86406008,143288017
+HIV,AyuC.00,288173019,[X]Human immunodeficiency virus disease,86406008,143288017
+HIV,AyuC000,288174013,[X]HIV disease resulting in other bacterial infections,86406008,143288017
+HIV,AyuC100,288177018,[X]HIV disease resulting in other viral infections,186708007,287013014
+HIV,AyuC200,288178011,[X]HIV disease resulting in other mycoses,86406008,143288017
+HIV,AyuC300,389021000006114,[X]HIV disease resulting in multiple infections,186708007,287013014
+HIV,AyuC400,389101000006117,[X]HIV disease resulting/other infectious+parasitic diseases,186708007,287013014
+HIV,AyuC500,389111000006119,[X]HIV disease resulting/unspcf infectious+parasitic disease,186708007,287013014
+HIV,AyuC600,288182013,[X]HIV disease resulting in other non-Hodgkin's lymphoma,442537007,2816358010
+HIV,AyuC611,1815001000006119,[X]HIV disease resulting in other non-Hodgkin lymphoma,442537007,2816358010
+HIV,AyuC700,388991000006116,"[X]HIV dis reslt/oth mal neopl/lymph,h'matopoetc+reltd tissu",86406008,143288017
+HIV,AyuC800,288185010,Malignant neoplastic disease co-occurrent with human immunodeficiency virus infection,713572001,3290189011
+HIV,AyuC900,288186011,[X]HIV disease resulting in unspecified malignant neoplasm,86406008,143288017
+HIV,AyuCA00,389011000006118,[X]HIV disease resulting in multiple diseases classified elsewhere,86406008,143288017
+HIV,AyuCB00,389001000006116,HIV (human immunodeficiency virus) disease resulting in haematological and immunological abnormalities,943041000000105,2412691000000112
+HIV,AyuCC00,288190013,[X]HIV disease resulting in other specified conditions,86406008,143288017
+HIV,AyuCD00,288191012,[X]Unspecified human immunodeficiency virus [HIV] disease,86406008,143288017
+HIV,Eu02400,376571000006116,[X]Dementia in human immunodef virus [HIV] disease,421529006,2622767013
+HIV,L179.00,1816791000006117,HIV disease complicating pregnancy childbirth puerperium,198609003,305277014
+HIV,R109.00,317670010,[D]Laboratory evidence of human immunodeficiency virus [HIV],165816005,257855012
+HIV,ZV01A00,337231000006117,[V]Asymptomatic human immunodeficiency virus infection status,427921000000108,938141000000118
+HIV,ZV6D400,461110013,Human immunodeficiency virus counselling,313077009,2771170017

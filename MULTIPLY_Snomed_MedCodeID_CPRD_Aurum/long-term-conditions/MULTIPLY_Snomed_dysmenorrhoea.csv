@@ -1,0 +1,11 @@
+Condition,ReadCode,MedCodeId,Term,SnomedCTConceptId,SnomedCTDescriptionId
+Dysmenorrhoea,1574.00,252091011,H/O: dysmenorrhoea,161783006,252091011
+Dysmenorrhoea,1574.11,252090012,H/O: painful periods,161783006,252090012
+Dysmenorrhoea,Eu45y11,215921000000112,[X]Psychogenic dysmenorrhoea,191977008,295387012
+Dysmenorrhoea,K583.00,396783017,Dysmenorrhoea,266599000,396783017
+Dysmenorrhoea,K583.11,221261000000116,Dysmenorrhea,266599000,396783017
+Dysmenorrhoea,K583.12,396781015,Painful menstruation,289900009,429848015
+Dysmenorrhoea,K583.13,221271000000111,Period pain,266599000,396779017
+Dysmenorrhoea,K583.14,478075016,Spasmodic dysmenorrhoea,65754002,500210010
+Dysmenorrhoea,K583000,199615011,Primary dysmenorrhoea,65754002,199615011
+Dysmenorrhoea,K583100,196901010,Secondary dysmenorrhoea,32096006,196901010

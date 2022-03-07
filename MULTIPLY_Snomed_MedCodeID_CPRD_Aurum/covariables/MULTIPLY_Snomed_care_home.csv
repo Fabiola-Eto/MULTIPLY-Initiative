@@ -1,0 +1,55 @@
+Condition,ReadCode,MedCodeId,Term,SnomedCTConceptId,SnomedCTDescriptionId
+Care home residence,13F6100,250560019,Lives in a nursing home,160734000,250560019
+Care home residence,13F7.00,1219123014,Residential institution,419955002,2576619011
+Care home residence,13FK.00,1488625019,Lives in a residential home,394923006,1488625019
+Care home residence,13FX.00,406371000000117,Lives in care home,248171000000108,406371000000117
+Care home residence,13Zo.00,1063191000000117,Previously lived in care home,493751000000104,1063191000000117
+Care home residence,8Ce4.00,1123481000000113,Preferred place of care - nursing home,505551000000102,1123481000000113
+Care home residence,8Ce5.00,1158071000000114,Preferred place of care - residential home,883161000000106,2292021000000118
+Care home residence,8Ce5.11,2277291000000116,Preferred place of care - care home,883161000000106,2277291000000116
+Care home residence,8HE6.00,283813014,Delayed discharge to nursing home,183672007,283813014
+Care home residence,8Hs..00,449801010,Discharge to nursing home,306694006,449801010
+Care home residence,8Ht..00,1692851000000118,Admission to nursing home,763301000000108,1692851000000118
+Care home residence,8O24.00,530521000000114,Provision of continuing care in nursing home,299701000000103,530521000000114
+Care home residence,9493.00,284635010,Patient died in nursing home,184295002,284635010
+Care home residence,949D.00,1552711000000110,Patient died in care home,698747008,2981330012
+Care home residence,94Z5.00,138931000000114,Preferred place of death: nursing home,89761000000106,138931000000114
+Care home residence,94ZC.00,1552771000000117,Preferred place of death: care home,710571000000101,1552771000000117
+Care home residence,94ZE.00,1138771000000113,Preferred place of death: residential home,512071000000106,1138771000000113
+Care home residence,9b0i.00,62101000000117,Residential home visit note,24631000000103,62101000000117
+Care home residence,9b0Y.00,62241000000112,Nursing home visit note,24751000000101,62241000000112
+Care home residence,9b1P.00,71184010,Nursing home,42665001,71184010
+Care home residence,9b75.00,1488495017,Other voluntary or private hospital or nursing home,288573005,428253010
+Care home residence,9b79.00,1488499011,Other residential care homes managed by local authority,288573005,428253010
+Care home residence,9b7A.00,1488500019,Other residential care home man voluntary/private agents,288573005,428253010
+Care home residence,9kw..00,2340151000000110,Care home enhanced services administration,910361000000105,2340151000000110
+Care home residence,9N1G.00,285209012,Seen in nursing home,185218006,285209012
+Care home residence,9NFR.00,1654061000000111,Home visit request by residential institution,751801000000106,1654061000000111
+Care home residence,9NFW.00,2290511000000115,Care home visit,889311000000109,2290511000000115
+Care home residence,9NFW000,2290551000000116,Care home visit for initial patient assessment,889331000000101,2290551000000116
+Care home residence,9NFW100,2290591000000112,Care home visit for follow-up patient review,889351000000108,2290591000000112
+Care home residence,M270100,1647741000000115,Nursing home acquired pressure ulcer,446262006,2883911013
+Care home residence,T704.00,228041000006111,"Place of occurrence of accident or poisoning, residential house",216318008,328386013
+Care home residence,T77..00,226751000006110,"Place of occurrence of accident or poisoning, residential institution",216422004,328499010
+Care home residence,T77z.00,445801000006113,Accident/poisoning occurred in residential institution NOS,216422004,328499010
+Care home residence,U105100,385631000006115,[X]Fall involvng wheelchair occurrence residential instit'n,17886000,30221011
+Care home residence,U106100,385351000006118,[X]Fall involving bed occurrence in residential institution,20902002,35150012
+Care home residence,U10B100,385831000006116,[X]Fall on + from ladder occurrn in residential institution,86591008,143597019
+Care home residence,U10F100,332995014,"[X]Fall from cliff, occurrence in residential institution",4521008,7785014
+Care home residence,U10z100,333042017,"[X]Unspecified fall, occurrence in residential institution",1912002,4301012
+Care home residence,U124100,367771000006117,[X]Bitten/struck by dog occurrnce in residential institut'n,37383006,62367011
+Care home residence,U193100,432191000006117,"[X]Victim of lightning, occurrence in residential institution",217722008,329986014
+Care home residence,U198100,334315019,"[X]Victim of flood, occurrence in residential institution",420101009,2576643014
+Care home residence,U1B3100,334550011,"[X]Lack of food, occurrence in residential institution",217640002,329875011
+Care home residence,U1B4100,334562010,"[X]Lack of water, occurrence in residential institution",269703005,404239014
+Care home residence,U321.00,365291000006115,"[X]Assault by pesticides, occurrence in residential institution",420911000000103,804091000000118
+Care home residence,U3K1.00,364141000006116,[X]Assault by bodily force occurrn in residential institut'n,52684005,87673015
+Care home residence,Z177C00,8220191000006110,Residential care,719101000000105,1576961000000110
+Care home residence,ZK63100,8115311000006118,Provision of residential social services care package,361711000000109,681701000000119
+Care home residence,ZLG3.00,449798016,Discharge to residential home,306691003,449798016
+Care home residence,ZLG3100,5959521000006119,Discharge to private residential home,306692005,449799012
+Care home residence,ZLG3200,5959531000006116,Discharge to part III residential home,306693000,449800011
+Care home residence,ZLG4.00,449801010,Discharge to nursing home,306694006,449801010
+Care home residence,ZLG4100,5959551000006111,Discharge to private nursing home,306695007,449802015
+Care home residence,ZV63212,1227760014,[V]Delayed discharge - nursing home vacancy awaited,183930009,284147017
+Care home residence,ZV70H00,461172013,[V]Examination for admission to residential institutions,171390000,265575010

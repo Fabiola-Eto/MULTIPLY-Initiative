@@ -1,0 +1,21 @@
+Condition,ReadCode,MedCodeId,Term,SnomedCTConceptId,SnomedCTDescriptionId
+Cystic renal disease,7B03300,272357017,Rovsing's operation for polycystic kidney,175925004,272357017
+Cystic renal disease,PD1..00,136885015,Congenital cystic disease of kidney,82525005,505127011
+Cystic renal disease,PD1..11,581531000006115,Congenital cystic renal disease,82525005,505127011
+Cystic renal disease,PD1..12,505130016,Fibrocystic kidney,82525005,505130016
+Cystic renal disease,PD1..13,221721000006111,Polycystic kidney,82525005,505126019
+Cystic renal disease,PD11.00,505126019,Polycystic kidney disease,82525005,505126019
+Cystic renal disease,PD11000,221761000006117,"Polycystic kidneys, infantile type",28770003,1226060014
+Cystic renal disease,PD11011,1226060014,Autosomal recessive polycystic kidney disease,28770003,1226060014
+Cystic renal disease,PD11100,221751000006119,Polycystic kidneys - adult type,765330003,3657945014
+Cystic renal disease,PD11111,483965010,Autosomal dominant polycystic kidney disease,765330003,3657945014
+Cystic renal disease,PD11z00,400870015,Polycystic kidney disease NOS,82525005,505126019
+Cystic renal disease,PD11z11,377976016,Cystic disease of kidney,236439005,354423013
+Cystic renal disease,PD13.00,314300010,Multicystic renal dysplasia,737562008,3528306010
+Cystic renal disease,PD13.11,314299019,Multicystic kidney,737562008,3528306010
+Cystic renal disease,PD1y.00,314302019,Congenital cystic kidney disease,82525005,136885015
+Cystic renal disease,PD1y000,400871016,Fibrocystic kidney disease,268234004,400871016
+Cystic renal disease,PD1y011,377975017,Fibrocystic renal degeneration,253876004,377975017
+Cystic renal disease,PD1yz00,314306016,Other congenital cystic kidney disease NOS,82525005,136885015
+Cystic renal disease,PD1z.00,314307013,Congenital cystic kidney disease NOS,82525005,136885015
+Cystic renal disease,Pyu7000,315750010,Cystic kidney disease,236439005,3037469017

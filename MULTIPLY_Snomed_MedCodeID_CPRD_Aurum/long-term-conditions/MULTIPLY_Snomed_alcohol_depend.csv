@@ -1,0 +1,128 @@
+Condition,ReadCode,MedCodeId,Term,SnomedCTConceptId,SnomedCTDescriptionId
+Alcohol dependence and related disease,136a.00,1738341000000110,Increasing risk drinking,777631000000108,1738341000000110
+Alcohol dependence and related disease,136K.00,250335018,Alcohol intake above recommended sensible limits,160592001,250335018
+Alcohol dependence and related disease,136S.00,299061000000117,Hazardous alcohol use,198421000000108,299061000000117
+Alcohol dependence and related disease,136T.00,299081000000114,Harmful alcohol use,198431000000105,299081000000114
+Alcohol dependence and related disease,136W.00,606991000000117,Alcohol misuse,15167005,606991000000117
+Alcohol dependence and related disease,13Y8.00,251195015,Alcoholics anonymous,1099951000000107,2753901000000119
+Alcohol dependence and related disease,1462.00,251626014,H/O: alcoholism,161466001,251626014
+Alcohol dependence and related disease,1B1c.00,2549849017,Alcohol induced hallucinations,417633001,2549849017
+Alcohol dependence and related disease,2126C00,2358251000000115,Alcohol dependence resolved,918321000000104,2358251000000115
+Alcohol dependence and related disease,66e..00,2474678017,Alcohol disorder monitoring,413130000,2474678017
+Alcohol dependence and related disease,66e0.00,405461000000114,Alcohol abuse monitoring,247721000000109,405461000000114
+Alcohol dependence and related disease,7P22100,371501000000110,Delivery of rehabilitation for alcohol addiction,231161000000109,371501000000110
+Alcohol dependence and related disease,8BA8.00,106878015,Alcohol detoxification,64297001,106878015
+Alcohol dependence and related disease,8BAs.00,2467301000000111,Alcohol relapse prevention,968891000000109,2467301000000111
+Alcohol dependence and related disease,8BAu.00,2475831000000114,Alcohol harm reduction programme,720175009,3319643016
+Alcohol dependence and related disease,8CAv.00,739501000000112,Advised to contact primary care alcohol worker,375941000000101,739501000000112
+Alcohol dependence and related disease,8CdK.00,2419601000000110,Specialist alcohol treatment service signposted,946101000000100,2419601000000110
+Alcohol dependence and related disease,8G32.00,283451018,Aversion therapy - alcoholism,183388004,283451018
+Alcohol dependence and related disease,8H35.00,283559019,Admitted to alcohol detoxification centre,183486001,283559019
+Alcohol dependence and related disease,8H7p.00,1484890014,Referral to community alcohol team,390857005,1484890014
+Alcohol dependence and related disease,8HHe.00,2549646014,Referral to community drug and alcohol team,417096006,2549646014
+Alcohol dependence and related disease,8HkG.00,622961000000116,Referral to specialist alcohol treatment service,431260004,2768649019
+Alcohol dependence and related disease,8HkJ.00,740641000000115,Referral to alcohol brief intervention service,376401000000103,740641000000115
+Alcohol dependence and related disease,8IAF.00,1704281000006117,Brief intervention for excessive alcohol consumption declined,379411000000105,747421000000114
+Alcohol dependence and related disease,8IAJ.00,750531000000113,Declined referral to specialist alcohol treatment service,380861000000109,750531000000113
+Alcohol dependence and related disease,8IAt.00,1754191000006119,Extended intervention for excessive alcohol consumption declined,754831000000102,1660641000000118
+Alcohol dependence and related disease,8IEA.00,1746481000000112,Referral to community alcohol team declined,781191000000101,1746481000000112
+Alcohol dependence and related disease,8W2..00,1926131000006117,Referral to mental health services deferred until alcohol misuse resolved,933641000000103,2391941000000114
+Alcohol dependence and related disease,9k1..00,236441000000113,Alcohol misuse enhanced services administration,166251000000100,1153251000000119
+Alcohol dependence and related disease,9k10.00,2532946014,Community detoxification registered,413897002,2532946014
+Alcohol dependence and related disease,9k11.00,2532939017,Alcohol consumption counselling,413473000,2532939017
+Alcohol dependence and related disease,9k12.00,226571000000116,Alcohol misuse enhanced service completed,166471000000105,1154571000000110
+Alcohol dependence and related disease,9k1A.00,1680121000006110,Brief intervention for excessive alcohol consumption completed,366371000000105,691601000000110
+Alcohol dependence and related disease,9k1B.00,1680131000006113,Extended intervention for excessive alcohol consumption completed,366421000000103,691701000000115
+Alcohol dependence and related disease,9NgzH00,2462911000000112,Withdrawn from alcohol detoxification programme,719340007,3316032010
+Alcohol dependence and related disease,9NJz.00,2298341000000114,In-house alcohol detoxification,892631000000102,2298341000000114
+Alcohol dependence and related disease,9NN2.00,216585018,Under care of community alcohol team,135827004,216585018
+Alcohol dependence and related disease,C150500,356292013,Alcohol-induced pseudo-Cushing's syndrome,237738005,356292013
+Alcohol dependence and related disease,C251.11,59951000006113,Wernicke's encephalopathy,21007002,35314011
+Alcohol dependence and related disease,C253.00,35314011,Wernicke's encephalopathy,21007002,35314011
+Alcohol dependence and related disease,E01..00,476741000006111,Alcohol-induced psychosis,42344001,70655012
+Alcohol dependence and related disease,E010.00,15243013,Alcohol withdrawal delirium,8635005,15243013
+Alcohol dependence and related disease,E010.11,507053019,DTs - delirium tremens,8635005,507053019
+Alcohol dependence and related disease,E010.12,15244019,Delirium tremens,8635005,15244019
+Alcohol dependence and related disease,E011.00,476361000006114,Alcohol amnestic syndrome,69482004,501300010
+Alcohol dependence and related disease,E011000,753331000006118,Korsakov alcoholic psychosis,69482004,501296014
+Alcohol dependence and related disease,E011100,294662017,Korsakov's alcoholic psychosis with peripheral neuritis,191471000,294662017
+Alcohol dependence and related disease,E011200,501294012,Wernicke-Korsakov syndrome,69482004,501294012
+Alcohol dependence and related disease,E011z00,294664016,Alcohol amnestic syndrome NOS,73097000,121405015
+Alcohol dependence and related disease,E012.00,401760017,Other alcoholic dementia,281004,1225776018
+Alcohol dependence and related disease,E012.11,346929012,Alcoholic dementia,281004,1225776018
+Alcohol dependence and related disease,E012000,294668018,Chronic alcoholic brain syndrome,191475009,294668018
+Alcohol dependence and related disease,E013.00,294669014,Alcohol withdrawal hallucinosis,191476005,294669014
+Alcohol dependence and related disease,E014.00,294671014,Pathological alcohol intoxication,191477001,294671014
+Alcohol dependence and related disease,E015.00,294672019,Alcoholic paranoia,191478006,294672019
+Alcohol dependence and related disease,E01y.00,294673012,Other alcoholic psychosis,42344001,70655012
+Alcohol dependence and related disease,E01y000,294674018,Alcohol withdrawal syndrome,191480000,294674018
+Alcohol dependence and related disease,E01yz00,294675017,Other alcoholic psychosis NOS,42344001,70655012
+Alcohol dependence and related disease,E01z.00,294676016,Alcoholic psychosis NOS,42344001,70655012
+Alcohol dependence and related disease,E23..00,500478011,Alcohol dependence syndrome,66590003,500478011
+Alcohol dependence and related disease,E23..11,12878014,Alcoholism,66590003,110629012
+Alcohol dependence and related disease,E23..12,502017010,Alcohol problem drinking,7200002,502017010
+Alcohol dependence and related disease,E230.00,295127018,Acute alcoholic intoxication in alcoholism,191802004,295127018
+Alcohol dependence and related disease,E230.11,295126010,Alcohol dependence with acute alcoholic intoxication,191802004,295126010
+Alcohol dependence and related disease,E230000,295128011,"Acute alcoholic intoxication, unspecified, in alcoholism",191802004,295127018
+Alcohol dependence and related disease,E230100,295129015,Continuous acute alcoholic intoxication in alcoholism,191804003,295129015
+Alcohol dependence and related disease,E230200,295130013,Episodic acute alcoholic intoxication in alcoholism,191805002,295130013
+Alcohol dependence and related disease,E230300,295131012,"Acute alcoholic intoxication in remission, in alcoholism",191806001,295131012
+Alcohol dependence and related disease,E230z00,295132017,Acute alcoholic intoxication in alcoholism NOS,191802004,295127018
+Alcohol dependence and related disease,E231.00,110629012,Chronic alcoholism,66590003,110629012
+Alcohol dependence and related disease,E231.11,502016018,Dipsomania,7200002,502016018
+Alcohol dependence and related disease,E231000,295136019,Alcohol dependence,66590003,110628016
+Alcohol dependence and related disease,E231100,295139014,Continuous chronic alcoholism,191811004,295139014
+Alcohol dependence and related disease,E231200,295141010,Episodic chronic alcoholism,191812006,295141010
+Alcohol dependence and related disease,E231300,295142015,Chronic alcoholism in remission,191813001,295142015
+Alcohol dependence and related disease,E231z00,295143013,Chronic alcoholism NOS,66590003,110629012
+Alcohol dependence and related disease,E23z.00,295144019,Alcohol dependence syndrome NOS,66590003,500478011
+Alcohol dependence and related disease,E250100,295252010,"Nondependent alcohol abuse, continuous",191882002,295252010
+Alcohol dependence and related disease,E250200,295253017,"Nondependent alcohol abuse, episodic",191883007,295253017
+Alcohol dependence and related disease,Eu10.00,295765017,Alcohol-induced organic mental disorder,29212009,48886010
+Alcohol dependence and related disease,Eu10100,397881000006114,Alcohol abuse,15167005,25750014
+Alcohol dependence and related disease,Eu10200,397801000006117,[X]Mental and behav dis due to use alcohol: dependence syndr,66590003,500478011
+Alcohol dependence and related disease,Eu10211,362921000006118,[X]Alcohol addiction,66590003,500478011
+Alcohol dependence and related disease,Eu10212,370971000006114,[X]Chronic alcoholism,66590003,110629012
+Alcohol dependence and related disease,Eu10213,377081000006114,[X]Dipsomania,66590003,500478011
+Alcohol dependence and related disease,Eu10300,397811000006119,[X]Mental and behav dis due to use alcohol: withdrawal state,191480000,294674018
+Alcohol dependence and related disease,Eu10400,397211000006118,[X]Men & behav dis due alcohl: withdrawl state with delirium,8635005,15243013
+Alcohol dependence and related disease,Eu10411,376451000006113,"[X]Delirium tremens, alcohol induced",8635005,15243013
+Alcohol dependence and related disease,Eu10500,397621000006111,Alcohol-induced psychosis,42344001,70655012
+Alcohol dependence and related disease,Eu10511,362951000006110,Alcoholic hallucinosis,7052005,1233279015
+Alcohol dependence and related disease,Eu10512,362961000006112,[X]Alcoholic jealousy,42344001,70655012
+Alcohol dependence and related disease,Eu10513,362971000006117,[X]Alcoholic paranoia,42344001,70655012
+Alcohol dependence and related disease,Eu10514,362981000006119,[X]Alcoholic psychosis NOS,42344001,70655012
+Alcohol dependence and related disease,Eu10600,397791000006118,Alcohol amnestic disorder,73097000,121405015
+Alcohol dependence and related disease,Eu10611,394681000006119,Korsakoff's psychosis,69482004,115434017
+Alcohol dependence and related disease,Eu10700,397201000006116,[X]Men & behav dis due alcoh: resid & late-onset psychot dis,42344001,70655012
+Alcohol dependence and related disease,Eu10711,362941000006113,[X]Alcoholic dementia NOS,281004,1225776018
+Alcohol dependence and related disease,Eu10712,370961000006119,[X]Chronic alcoholic brain syndrome,191475009,294668018
+Alcohol dependence and related disease,Eu10800,315091000000117,Alcohol withdrawal-induced seizure,308742005,452061016
+Alcohol dependence and related disease,Eu10y00,397241000006119,[X]Men & behav dis due to use alcohol: oth men & behav dis,29212009,48886010
+Alcohol dependence and related disease,Eu10z00,397431000006111,[X]Ment & behav dis due use alcohol: unsp ment & behav dis,91388009,151411015
+Alcohol dependence and related disease,F11x000,542611000006114,Cerebral degeneration due to alcoholism,192811002,297011014
+Alcohol dependence and related disease,F11x011,297011014,Alcoholic encephalopathy,192811002,297011014
+Alcohol dependence and related disease,F144000,478046010,Cerebellar ataxia due to alcoholism,361272001,478046010
+Alcohol dependence and related disease,F25B.00,478024019,Alcohol-induced epilepsy,361268000,478024019
+Alcohol dependence and related disease,F375.00,14103017,Alcohol-induced polyneuropathy,7916009,14104011
+Alcohol dependence and related disease,F394100,476701000006114,Alcohol myopathy,19303008,32551012
+Alcohol dependence and related disease,G555.00,138527014,Alcoholic cardiomyopathy,83521008,138527014
+Alcohol dependence and related disease,G852300,453265010,Oesophageal varices in alcoholic cirrhosis of the liver,309783001,453265010
+Alcohol dependence and related disease,J153.00,4525015,Alcoholic gastritis,2043009,4525015
+Alcohol dependence and related disease,J610.00,83834016,Alcoholic fatty liver,50325005,83834016
+Alcohol dependence and related disease,J611.00,17390014,Acute alcoholic hepatitis,9953008,17390014
+Alcohol dependence and related disease,J612.00,476611000006116,Alcoholic cirrhosis of liver,420054005,2920441014
+Alcohol dependence and related disease,J612000,353594015,Alcoholic fibrosis and sclerosis of liver,235880004,353594015
+Alcohol dependence and related disease,J613.00,303399018,Alcoholic liver damage,41309000,68906017
+Alcohol dependence and related disease,J613000,353595019,Alcoholic hepatic failure,235881000,353595019
+Alcohol dependence and related disease,J617.00,353587018,Alcoholic hepatitis,235875008,353587018
+Alcohol dependence and related disease,J617000,451124014,Chronic alcoholic hepatitis,307757001,451124014
+Alcohol dependence and related disease,J670800,353687012,Alcohol-induced acute pancreatitis,235942001,353687012
+Alcohol dependence and related disease,J671000,353698013,Alcohol-induced chronic pancreatitis,235952002,353698013
+Alcohol dependence and related disease,Z191.00,106878015,Alcohol detoxification,64297001,106878015
+Alcohol dependence and related disease,Z191211,7613321000006119,Alcohol reduction programme,707166002,3028954019
+Alcohol dependence and related disease,Z4B1.00,461112017,Alcoholism counselling,24165007,1206287010
+Alcohol dependence and related disease,ZV11300,460276013,[V]Personal history of alcoholism,371422002,1196720012
+Alcohol dependence and related disease,ZV11311,346501000006111,History of substance abuse,371422002,1196720012
+Alcohol dependence and related disease,ZV57A00,460926018,[V]Alcohol rehabilitation,471691000000107,1001331000000118
+Alcohol dependence and related disease,ZV6D600,461112017,Alcoholism counselling,24165007,1206287010

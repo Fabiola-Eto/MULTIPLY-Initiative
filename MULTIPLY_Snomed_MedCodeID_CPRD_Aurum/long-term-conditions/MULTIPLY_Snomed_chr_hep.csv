@@ -1,0 +1,40 @@
+Condition,ReadCode,MedCodeId,Term,SnomedCTConceptId,SnomedCTDescriptionId
+Chronic viral hepatitis,141E.00,2693857014,History of hepatitis B,429721005,2693857014
+Chronic viral hepatitis,14i..00,2156971000000110,H/O hepatitis C antiviral drug therapy,829691000000100,2156971000000110
+Chronic viral hepatitis,2126700,1686831000000111,Hepatitis C resolved,761381000000102,1686831000000111
+Chronic viral hepatitis,43B4.00,820791000006114,Hepatitis B surface antigen positive,165806002,257840015
+Chronic viral hepatitis,43B5.00,257841016,Hepatitis e antigen present,165807006,257841016
+Chronic viral hepatitis,43j5.00,1786403019,Hepatitis C nucleic acid detection,1030511000000102,2595451000000116
+Chronic viral hepatitis,43jG.00,1786360015,Hepatitis B nucleic acid detection,1031571000000101,2595441000000119
+Chronic viral hepatitis,43X3.00,459095018,Hepatitis C antibody test positive,314706002,459095018
+Chronic viral hepatitis,4J3B.00,1488891017,Hepatitis C viral load,992751000000109,2576171000000118
+Chronic viral hepatitis,4J3D.00,354081000000114,Hepatitis B viral load,222531000000101,354081000000114
+Chronic viral hepatitis,4JQ3.00,1783609017,Hepatitis C virus genotype,992771000000100,2581311000000111
+Chronic viral hepatitis,4JQD.00,1766481000006112,Hepatitis C viral ribonucleic acid polymerase chain reaction positive,760421000000100,1681741000000116
+Chronic viral hepatitis,4JQD.11,1739601000000111,Hepatitis C PCR positive,760421000000100,1739601000000111
+Chronic viral hepatitis,4JQF.00,2118321000000118,Hepatitis C antigen positive,812181000000106,2118321000000118
+Chronic viral hepatitis,7Q05200,350841000000119,Hepatitis B treatment drugs Band 1,221021000000103,350841000000119
+Chronic viral hepatitis,8BB5.00,2155841000000118,12 week virologic response to hepatitis C treatment,829241000000108,2155841000000118
+Chronic viral hepatitis,9kR..00,1680591000006117,Chronic hepatitis annual review - enhanced services admin,362421000000102,683201000000111
+Chronic viral hepatitis,9kV..00,1680661000006114,Hepatitis C screening positive - enhanced services admin,362751000000101,683911000000119
+Chronic viral hepatitis,9kV..11,683911000000119,Hepatitis C screening positive,362751000000101,683911000000119
+Chronic viral hepatitis,9kX..00,1680701000006118,Hepatitis status 6 months post treatment - enhanced serv adm,355741000000101,1154311000000113
+Chronic viral hepatitis,9kZ..00,1680731000006114,Hepatitis B screening positive - enhanced services administration,356121000000100,728581000000110
+Chronic viral hepatitis,9kZ..11,669601000000113,Hepatitis B screening positive,356121000000100,669601000000113
+Chronic viral hepatitis,9NgR.00,2157051000000119,On hepatitis C treatment plan,829731000000106,2157051000000119
+Chronic viral hepatitis,A703.00,61061000006116,Serum hepatitis,66071002,109733012
+Chronic viral hepatitis,A705000,286871011,Viral hepatitis C,50711007,84513012
+Chronic viral hepatitis,A705100,353575013,Acute delta-(super)infection of hepatitis B carrier,235865005,353575013
+Chronic viral hepatitis,A707.00,17930015,Chronic viral hepatitis,10295004,17930015
+Chronic viral hepatitis,A707000,353580016,Chronic viral hepatitis B with delta-agent,235869004,353580016
+Chronic viral hepatitis,A707100,286879013,Chronic viral hepatitis B without delta-agent,186639003,286879013
+Chronic viral hepatitis,A707200,557071000006112,Chronic hepatitis C,128302006,206586011
+Chronic viral hepatitis,A707300,1232261014,Chronic viral hepatitis B,61977001,1232261014
+Chronic viral hepatitis,A707X00,557081000006110,"Chronic viral hepatitis, unspecified",10295004,17930015
+Chronic viral hepatitis,A70A.00,2146441000000113,Hepatitis C genotype 1,824841000000105,2146441000000113
+Chronic viral hepatitis,A70B.00,2146461000000114,Hepatitis C genotype 2,824851000000108,2146461000000114
+Chronic viral hepatitis,A70C.00,2146501000000114,Hepatitis C genotype 3,824871000000104,2146501000000114
+Chronic viral hepatitis,A70D.00,2146521000000117,Hepatitis C genotype 4,824881000000102,2146521000000117
+Chronic viral hepatitis,A70z000,84516016,Hepatitis C,50711007,84516016
+Chronic viral hepatitis,AyuB100,288169017,[X]Other chronic viral hepatitis,10295004,17930015
+Chronic viral hepatitis,AyuB200,288170016,"[X]Chronic viral hepatitis, unspecified",10295004,17930015

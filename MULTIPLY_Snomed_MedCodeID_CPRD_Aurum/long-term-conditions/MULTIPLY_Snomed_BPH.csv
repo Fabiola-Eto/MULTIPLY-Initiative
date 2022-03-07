@@ -1,0 +1,11 @@
+Condition,ReadCode,MedCodeId,Term,SnomedCTConceptId,SnomedCTDescriptionId
+Hyperplasia of prostate,14E1.00,251774018,H/O: prostatism,161555006,251774018
+Hyperplasia of prostate,1AA..00,203421000006110,Prostatism,11441004,19794011
+Hyperplasia of prostate,K20..00,396738018,Benign prostatic hypertrophy,266569009,396738018
+Hyperplasia of prostate,K20..14,645331000006112,Benign prostatic hyperplasia,266569009,396731012
+Hyperplasia of prostate,K20..15,396742015,BPH - Benign prostatic hypertrophy,266569009,396738018
+Hyperplasia of prostate,K20..16,19794011,Prostatism,11441004,19794011
+Hyperplasia of prostate,K200.00,304382014,Hyperplasia of prostate,433234005,2769992019
+Hyperplasia of prostate,K201.00,304383016,Prostatic hyperplasia of the lateral lobe,197959008,304383016
+Hyperplasia of prostate,K202.00,304384010,Prostatic hyperplasia of the medial lobe,197960003,304384010
+Hyperplasia of prostate,K20z.00,304385011,Prostatic hyperplasia NOS,433234005,2769992019

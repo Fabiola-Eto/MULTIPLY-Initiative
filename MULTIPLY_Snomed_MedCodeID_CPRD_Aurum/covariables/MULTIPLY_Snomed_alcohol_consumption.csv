@@ -1,0 +1,112 @@
+Condition,ReadCode,MedCodeId,Term,SnomedCTConceptId,SnomedCTDescriptionId
+Alcohol consumption,136..00,1221271018,Alcohol consumption,160573003,1221271018
+Alcohol consumption,1361.00,291355016,Teetotaller,105542008,291355016
+Alcohol consumption,1361.11,587231000006111,Non drinker alcohol,105542008,291352018
+Alcohol consumption,1361.11,587231000006111,Non drinker alcohol,105542008,291352018
+Alcohol consumption,1361.12,291352018,Non-drinker alcohol,105542008,291352018
+Alcohol consumption,1361.12,291352018,Non-drinker alcohol,105542008,291352018
+Alcohol consumption,1362.00,397729013,Trivial drinker - <1u/day,266917007,397729013
+Alcohol consumption,1362.11,629821000006117,Drinks rarely,266917007,397729013
+Alcohol consumption,1362.11,629821000006117,Drinks rarely,266917007,397729013
+Alcohol consumption,1362.12,629811000006113,Occasional drinker,228276006,342318019
+Alcohol consumption,1362.12,629811000006113,Occasional drinker,228276006,342318019
+Alcohol consumption,1363.00,250312016,Light drinker - 1-2u/day,160575005,250312016
+Alcohol consumption,1364.00,250313014,Moderate drinker - 3-6u/day,160576006,250313014
+Alcohol consumption,1365.00,250314015,Heavy drinker - 7-9u/day,160577002,250314015
+Alcohol consumption,1366.00,250316018,Very heavy drinker - >9u/day,160578007,250316018
+Alcohol consumption,1367.00,250317010,Stopped drinking alcohol,160579004,250317010
+Alcohol consumption,136a.00,1738341000000110,Increasing risk drinking,777631000000108,1738341000000110
+Alcohol consumption,136b.00,342421016,Feels should cut down drinking,228362008,342421016
+Alcohol consumption,136c.00,1738381000000119,Higher risk drinking,777651000000101,1738381000000119
+Alcohol consumption,136d.00,1738421000000111,Lower risk drinking,777671000000105,1738421000000111
+Alcohol consumption,136F.00,250331010,Spirit drinker,160588008,250331010
+Alcohol consumption,136G.00,250332015,Beer drinker,160589000,250332015
+Alcohol consumption,136H.00,250333013,Drinks beer and spirits,160590009,250333013
+Alcohol consumption,136I.00,250334019,Drinks wine,160591008,250334019
+Alcohol consumption,136J.00,47085011,Social drinker,28127009,47085011
+Alcohol consumption,136K.00,250335018,Alcohol intake above recommended sensible limits,160592001,250335018
+Alcohol consumption,136L.00,250340014,Alcohol intake within recommended sensible limits,160593006,250340014
+Alcohol consumption,136M.00,217461000000118,Non - drinker,105542008,2659856015
+Alcohol consumption,136N.00,342320016,Light drinker,228277002,342320016
+Alcohol consumption,136O.00,73012011,Moderate drinker,43783005,73012011
+Alcohol consumption,136P.00,144179014,Heavy drinker,86933000,144179014
+Alcohol consumption,136Q.00,342322012,Very heavy drinker,228279004,342322012
+Alcohol consumption,136R.00,342366014,Binge drinker,228315001,342366014
+Alcohol consumption,136S.00,299061000000117,Hazardous alcohol use,198421000000108,299061000000117
+Alcohol consumption,136T.00,299081000000114,Harmful alcohol use,198431000000105,299081000000114
+Alcohol consumption,136W.00,606991000000117,Alcohol misuse,15167005,606991000000117
+Alcohol consumption,136Y.00,342361016,Drinks in morning to get rid of hangover,228310006,342361016
+Alcohol consumption,136Z.00,476411000006118,Alcohol consumption NOS,160573003,1221271018
+Alcohol consumption,1B1c.00,2549849017,Alcohol induced hallucinations,417633001,2549849017
+Alcohol consumption,2577.00,254305017,O/E - breath - alcohol smell,163184002,254305017
+Alcohol consumption,2577.11,254306016,O/E - alcoholic breath,163184002,254306016
+Alcohol consumption,388u.00,538891000000111,FAST (Fast Alcohol Screening Test) score,1084601000000102,2717721000000114
+Alcohol consumption,38D3.00,408548014,Alcohol use disorders identification test score,443280005,2837707014
+Alcohol consumption,38D4.00,1660411000006112,AUDIT-C (Alcohol Use Disorders Identification Test - Consumption) score,763256006,3638304015
+Alcohol consumption,38D5.00,1659811000006114,Alcohol Use Disorders Identification Test - Piccinelli Consumption score,1087301000000103,2730501000000119
+Alcohol consumption,66e..00,2474678017,Alcohol disorder monitoring,413130000,2474678017
+Alcohol consumption,6892.00,476421000006114,Alcohol consumption screen,171208001,265301016
+Alcohol consumption,68S..00,476431000006112,Alcohol consumption screening,171208001,265301016
+Alcohol consumption,8CAv.00,739501000000112,Advised to contact primary care alcohol worker,375941000000101,739501000000112
+Alcohol consumption,8IAF.00,1704281000006117,Brief intervention for excessive alcohol consumption declined,379411000000105,747421000000114
+Alcohol consumption,8IAJ.00,750531000000113,Declined referral to specialist alcohol treatment service,380861000000109,750531000000113
+Alcohol consumption,8IAt.00,1754191000006119,Extended intervention for excessive alcohol consumption declined,754831000000102,1660641000000118
+Alcohol consumption,8IEA.00,1746481000000112,Referral to community alcohol team declined,781191000000101,1746481000000112
+Alcohol consumption,9k1..00,236441000000113,Alcohol misuse enhanced services administration,166251000000100,1153251000000119
+Alcohol consumption,9k11.00,2532939017,Alcohol consumption counselling,413473000,2532939017
+Alcohol consumption,9k15.00,1590881000006113,Alcohol screen - alcohol use disorder identification test completed,285381000000108,492531000000113
+Alcohol consumption,9k16.00,492591000000114,Alcohol screen - fast alcohol screening test completed,285411000000105,492591000000114
+Alcohol consumption,9k17.00,1590901000006110,Alcohol screen - alcohol use disorder identification test consumption questions completed,285441000000106,492651000000119
+Alcohol consumption,9k18.00,1590911000006113,Alcohol screen - alcohol use disorder identification test Piccinelli consumption questions completed,285991000000109,493841000000113
+Alcohol consumption,E010.00,15243013,Alcohol withdrawal delirium,8635005,15243013
+Alcohol consumption,E010.11,507053019,DTs - delirium tremens,8635005,507053019
+Alcohol consumption,E010.12,15244019,Delirium tremens,8635005,15244019
+Alcohol consumption,E013.00,294669014,Alcohol withdrawal hallucinosis,191476005,294669014
+Alcohol consumption,E014.00,294671014,Pathological alcohol intoxication,191477001,294671014
+Alcohol consumption,E014.11,294670010,Drunkenness - pathological,191477001,294670010
+Alcohol consumption,E015.00,294672019,Alcoholic paranoia,191478006,294672019
+Alcohol consumption,E01y000,294674018,Alcohol withdrawal syndrome,191480000,294674018
+Alcohol consumption,E23..00,500478011,Alcohol dependence syndrome,66590003,500478011
+Alcohol consumption,E23..11,12878014,Alcoholism,66590003,110629012
+Alcohol consumption,E23..12,502017010,Alcohol problem drinking,7200002,502017010
+Alcohol consumption,E230.00,295127018,Acute alcoholic intoxication in alcoholism,191802004,295127018
+Alcohol consumption,E230.11,295126010,Alcohol dependence with acute alcoholic intoxication,191802004,295126010
+Alcohol consumption,E230000,295128011,"Acute alcoholic intoxication, unspecified, in alcoholism",191802004,295127018
+Alcohol consumption,E230100,295129015,Continuous acute alcoholic intoxication in alcoholism,191804003,295129015
+Alcohol consumption,E230200,295130013,Episodic acute alcoholic intoxication in alcoholism,191805002,295130013
+Alcohol consumption,E230z00,295132017,Acute alcoholic intoxication in alcoholism NOS,191802004,295127018
+Alcohol consumption,E231.00,110629012,Chronic alcoholism,66590003,110629012
+Alcohol consumption,E231.11,502016018,Dipsomania,7200002,502016018
+Alcohol consumption,E231000,295136019,Alcohol dependence,66590003,110628016
+Alcohol consumption,E231100,295139014,Continuous chronic alcoholism,191811004,295139014
+Alcohol consumption,E231200,295141010,Episodic chronic alcoholism,191812006,295141010
+Alcohol consumption,E231z00,295143013,Chronic alcoholism NOS,66590003,110629012
+Alcohol consumption,E23z.00,295144019,Alcohol dependence syndrome NOS,66590003,500478011
+Alcohol consumption,E250.00,401797010,Nondependent alcohol abuse,268645007,401797010
+Alcohol consumption,E250.11,346931015,Drunkenness,25702006,43083015
+Alcohol consumption,E250.12,223671000000110,Hangover from alcohol,32553006,485256013
+Alcohol consumption,E250.13,346930019,Inebriety NOS,25702006,43081018
+Alcohol consumption,E250.14,769451000006111,Intoxication - alcohol,25702006,43083015
+Alcohol consumption,E250000,295251015,"Nondependent alcohol abuse, unspecified",268645007,401797010
+Alcohol consumption,E250100,295252010,"Nondependent alcohol abuse, continuous",191882002,295252010
+Alcohol consumption,E250200,295253017,"Nondependent alcohol abuse, episodic",191883007,295253017
+Alcohol consumption,E250z00,295255012,Nondependent alcohol abuse NOS,268645007,401797010
+Alcohol consumption,Eu10000,397611000006115,[X]Mental & behav dis due to use alcohol: acute intoxication,25702006,43081018
+Alcohol consumption,Eu10011,362251000006117,Alcohol intoxication,25702006,43081018
+Alcohol consumption,Eu10100,397881000006114,Alcohol abuse,15167005,25750014
+Alcohol consumption,Eu10200,397801000006117,[X]Mental and behav dis due to use alcohol: dependence syndr,66590003,500478011
+Alcohol consumption,Eu10211,362921000006118,[X]Alcohol addiction,66590003,500478011
+Alcohol consumption,Eu10212,370971000006114,[X]Chronic alcoholism,66590003,110629012
+Alcohol consumption,Eu10300,397811000006119,[X]Mental and behav dis due to use alcohol: withdrawal state,191480000,294674018
+Alcohol consumption,Eu10400,397211000006118,[X]Men & behav dis due alcohl: withdrawl state with delirium,8635005,15243013
+Alcohol consumption,Eu10411,376451000006113,"[X]Delirium tremens, alcohol induced",8635005,15243013
+Alcohol consumption,Eu10511,362951000006110,Alcoholic hallucinosis,7052005,1233279015
+Alcohol consumption,Eu10512,362961000006112,[X]Alcoholic jealousy,42344001,70655012
+Alcohol consumption,Eu10513,362971000006117,[X]Alcoholic paranoia,42344001,70655012
+Alcohol consumption,Eu10800,315091000000117,Alcohol withdrawal-induced seizure,308742005,452061016
+Alcohol consumption,Z191211,7613321000006119,Alcohol reduction programme,707166002,3028954019
+Alcohol consumption,Z4B1.00,461112017,Alcoholism counselling,24165007,1206287010
+Alcohol consumption,ZR1F.00,11928741000006114,Alcohol use disorders identification test,273265007,408548014
+Alcohol consumption,ZR1F.11,5547231000006118,AUDIT - Alcohol use disorders identification test,273265007,408549018
+Alcohol consumption,ZV11311,346501000006111,History of substance abuse,371422002,1196720012
+Alcohol consumption,ZV6D600,461112017,Alcoholism counselling,24165007,1206287010
