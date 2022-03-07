@@ -1,0 +1,46 @@
+Condition,ReadCode,MedCodeId,Term,SnomedCTConceptId,SnomedCTDescriptionId
+Liver failure and transplant,7800.00,30458014,Transplantation of liver,18027006,30458014
+Liver failure and transplant,7800100,822591000006117,Heterotopic liver transplant,174426002,270229019
+Liver failure and transplant,7800111,500401000006116,Auxillary liver transplant,174426002,270230012
+Liver failure and transplant,7800112,225661000006111,Piggy back liver transplant,174426002,270231011
+Liver failure and transplant,7800200,270232016,Replacement of previous liver transplant,174427006,270232016
+Liver failure and transplant,7800400,2676200013,Orthotopic transplantation of whole liver,426356008,2676200013
+Liver failure and transplant,7800y00,270233014,Other specified transplantation of liver,18027006,30458014
+Liver failure and transplant,7800z00,270234015,Transplantation of liver NOS,18027006,30458014
+Liver failure and transplant,7805211,352929018,Exploration of liver transplant,235458006,352929018
+Liver failure and transplant,7L1f.00,538081000000115,Compensation for liver failure,773411000000107,1726971000000115
+Liver failure and transplant,7L1fz00,538101000000114,Liver failure support management,773411000000107,1726971000000115
+Liver failure and transplant,8LH..00,1753501000000111,Liver transplant planned,704201006,3011001010
+Liver failure and transplant,A700.00,286858013,Hepatic coma due to viral hepatitis A,16060001,3008400017
+Liver failure and transplant,A702.00,286862019,Hepatic coma due to viral hepatitis B,26206000,3008554017
+Liver failure and transplant,A704.00,286867013,Other specified viral hepatitis with coma,3738000,7302012
+Liver failure and transplant,A704000,286868015,Viral hepatitis C with coma,186628001,286868015
+Liver failure and transplant,A704z00,286869011,Other specified viral hepatitis with hepatic coma NOS,3738000,7302012
+Liver failure and transplant,J60..00,303376017,Acute and subacute liver necrosis,197268000,303376017
+Liver failure and transplant,J600.00,303377014,Acute necrosis of liver,197269008,303377014
+Liver failure and transplant,J600000,303381014,Acute hepatic failure,197270009,303381014
+Liver failure and transplant,J600011,303379012,Acute liver failure,197270009,303379012
+Liver failure and transplant,J600200,2619492010,Acute yellow atrophy,197269008,2619492010
+Liver failure and transplant,J600z00,303385017,Acute necrosis of liver NOS,197269008,303377014
+Liver failure and transplant,J601.00,303387013,Subacute necrosis of liver,197274000,303387013
+Liver failure and transplant,J601000,303388015,Subacute hepatic failure,197275004,303388015
+Liver failure and transplant,J601200,303389011,Subacute yellow atrophy,197276003,303389011
+Liver failure and transplant,J601z00,303391015,Subacute necrosis of liver NOS,235856003,353559010
+Liver failure and transplant,J60z.00,303392010,Acute and subacute liver necrosis NOS,197268000,303376017
+Liver failure and transplant,J613000,353595019,Alcoholic hepatic failure,235881000,353595019
+Liver failure and transplant,J622.00,120980011,Hepatic coma,72836002,120980011
+Liver failure and transplant,J622.11,221131000000118,Hepatic encephalopathy,13920009,23734015
+Liver failure and transplant,J625.00,358961000006119,[X] Hepatic failure,59927004,99549014
+Liver failure and transplant,J625.11,359011000006113,[X] Liver failure,59927004,498583014
+Liver failure and transplant,J62y.11,353597010,Hepatic failure NOS,59927004,99549014
+Liver failure and transplant,J62y.12,353596018,Liver failure,59927004,498583014
+Liver failure and transplant,J62y.13,99549014,Hepatic failure,59927004,99549014
+Liver failure and transplant,J634.00,30226018,Hepatic infarction,17890003,30226018
+Liver failure and transplant,J635100,303512010,Toxic liver disease with hepatic necrosis,197356006,303512010
+Liver failure and transplant,J635700,2534188017,Acute hepatic failure due to drugs,413438002,2534188017
+Liver failure and transplant,J636.00,303521011,Central haemorrhagic necrosis of liver,197364000,303521011
+Liver failure and transplant,SP08600,324976011,Liver transplant failure and rejection,213153001,324976011
+Liver failure and transplant,SP14200,325080013,Hepatic failure as a complication of care,213230009,325080013
+Liver failure and transplant,SP14211,325079010,Liver failure as a complication of care,213230009,325079010
+Liver failure and transplant,TB00200,739931000006118,"Liver transplant with complication, without blame",88797001,147234011
+Liver failure and transplant,ZV42700,460651015,Transplanted liver present,737297006,3527364013

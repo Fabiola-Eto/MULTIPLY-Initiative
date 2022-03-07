@@ -1,0 +1,15 @@
+Condition,ReadCode,MedCodeId,Term,SnomedCTConceptId,SnomedCTDescriptionId
+Primary malignancy mesothelioma,B181.00,174532014,Mesothelioma of peritoneum,109853004,174532014
+Primary malignancy mesothelioma,B226.00,103180017,Mesothelial neoplasm,115232000,175988015
+Primary malignancy mesothelioma,B232.00,705211000006111,Malignant mesothelioma of pleura,254645002,379214013
+Primary malignancy mesothelioma,B241400,173941016,Mesothelioma of pericardium,109383000,173941016
+Primary malignancy mesothelioma,BBP1.00,312601000006119,"Mesothelioma, malignant",62064005,103178011
+Primary malignancy mesothelioma,BBP3.00,308701000006114,"[M]Fibrous mesothelioma, malignant",54443001,90491019
+Primary malignancy mesothelioma,BBP3.11,1785811000006114,"Fibrous mesothelioma, malignant",54443001,90491019
+Primary malignancy mesothelioma,BBP5.00,308261000006116,Malignant epithelioid mesothelioma,65278006,1232663018
+Primary malignancy mesothelioma,BBP7.00,312591000006110,Malignant biphasic mesothelioma,30383009,1227226015
+Primary malignancy mesothelioma,BBP9.00,1235152011,[M]Cystic mesothelioma,86562005,143548011
+Primary malignancy mesothelioma,BBPX.00,291711013,"[M]Mesothelioma, unspecified",115232000,175988015
+Primary malignancy mesothelioma,Byu5000,403762019,"Mesothelioma (malignant, clinical disorder)",109378008,2660053016
+Primary malignancy mesothelioma,Byu5011,398291000006110,[X]Mesothelioma of lung,109378008,2660053016
+Primary malignancy mesothelioma,Byu5100,292126018,"Cancer, mesothelioma",109378008,3036244012

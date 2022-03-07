@@ -1,0 +1,27 @@
+Condition,ReadCode,MedCodeId,Term,SnomedCTConceptId,SnomedCTDescriptionId
+Oesophagitis and oesophageal ulcer,AB20.00,395435013,Candidiasis of mouth and oesophagus,266154004,395435013
+Oesophagitis and oesophageal ulcer,AB20100,1216106016,Candidiasis of oesophagus,20639004,1216106016
+Oesophagitis and oesophageal ulcer,AB20z00,287542013,Candidiasis of mouth and oesophagus NOS,266154004,395435013
+Oesophagitis and oesophageal ulcer,AB2yz14,267071000006112,Candidiasis of the oesophagus,20639004,196074015
+Oesophagitis and oesophageal ulcer,J101.00,28383015,Oesophagitis,16761005,28383015
+Oesophagitis and oesophageal ulcer,J101000,201241013,Abscess of oesophagus,85833008,201241013
+Oesophagitis and oesophageal ulcer,J101100,396340013,Reflux oesophagitis,266433003,396340013
+Oesophagitis and oesophageal ulcer,J101112,799341000006115,Gastro-oesophageal reflux with oesophagitis,266433003,396339011
+Oesophagitis and oesophageal ulcer,J101113,396339011,Oesophageal reflux with oesophagitis,266433003,396339011
+Oesophagitis and oesophageal ulcer,J101114,497946018,Peptic oesophagitis,266433003,3517222014
+Oesophagitis and oesophageal ulcer,J101115,198466017,Gastro-oesophageal reflux disease with oesophagitis,266433003,396338015
+Oesophagitis and oesophageal ulcer,J101200,486377018,Chemical oesophagitis,36151004,486377018
+Oesophagitis and oesophageal ulcer,J101300,194802019,Postoperative oesophagitis,3482005,194802019
+Oesophagitis and oesophageal ulcer,J101400,302369017,Gangrenous oesophagitis,196601009,302369017
+Oesophagitis and oesophageal ulcer,J101500,302370016,Phlegmonous oesophagitis,196602002,302370016
+Oesophagitis and oesophageal ulcer,J101600,498970016,Ulcerative oesophagitis,439955006,2792529018
+Oesophagitis and oesophageal ulcer,J101y00,302378011,Other specified oesophagitis,16761005,28383015
+Oesophagitis and oesophageal ulcer,J101z00,302381018,Oesophagitis NOS,16761005,28383015
+Oesophagitis and oesophageal ulcer,J102.00,196816014,Ulcer of oesophagus,30811009,196816014
+Oesophagitis and oesophageal ulcer,J102000,498969017,Peptic ulcer of oesophagus,6129004,498969017
+Oesophagitis and oesophageal ulcer,J102100,201417012,Fungal ulcer of oesophagus,88700009,201417012
+Oesophagitis and oesophageal ulcer,J102200,302384014,Oesophageal ulcer due to aspirin,196607008,302384014
+Oesophagitis and oesophageal ulcer,J102300,267181000006111,Oesophageal ulcer due to chemicals,62465000,499294017
+Oesophagitis and oesophageal ulcer,J102400,267191000006114,Drug-induced ulcer of oesophagus,64595005,1216821012
+Oesophagitis and oesophageal ulcer,J102z00,302393010,Ulcer of oesophagus NOS,30811009,196816014
+Oesophagitis and oesophageal ulcer,J10y300,302442017,Oesophageal erosions,196623008,302442017

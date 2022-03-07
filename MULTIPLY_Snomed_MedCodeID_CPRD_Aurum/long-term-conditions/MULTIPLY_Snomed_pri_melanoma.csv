@@ -1,0 +1,116 @@
+Condition,ReadCode,MedCodeId,Term,SnomedCTConceptId,SnomedCTDescriptionId
+Primary malignancy malignant melanoma,1425000,251569011,H/O Malignant melanoma,161432005,251569011
+Primary malignancy malignant melanoma,4M3..00,170673014,Breslow depth staging for melanoma,106243009,170673014
+Primary malignancy malignant melanoma,4M70.00,138122012,Clark melanoma level 1,83284001,138122012
+Primary malignancy malignant melanoma,4M71.00,84190018,Clark melanoma level 2,50542000,84190018
+Primary malignancy malignant melanoma,4M72.00,35572018,Clark melanoma level 3,21165006,35572018
+Primary malignancy malignant melanoma,4M73.00,3704012,Clark melanoma level 4,1556006,3704012
+Primary malignancy malignant melanoma,4M74.00,27148012,Clark melanoma level 5,16034002,27148012
+Primary malignancy malignant melanoma,7G03J00,274480013,Excision of melanoma,177281002,274480013
+Primary malignancy malignant melanoma,B32..00,155060012,Malignant melanoma of skin,93655004,155060012
+Primary malignancy malignant melanoma,B320.00,289009011,Malignant melanoma of lip,188030005,289009011
+Primary malignancy malignant melanoma,B321.00,728201000006110,Malignant melanoma of eyelid,231834005,347406017
+Primary malignancy malignant melanoma,B322.00,289011019,Malignant melanoma of ear and external auricular canal,188032002,289011019
+Primary malignancy malignant melanoma,B322000,289012014,Malignant melanoma of auricle (ear),188033007,289012014
+Primary malignancy malignant melanoma,B322100,289013016,Malignant melanoma of external auditory meatus,188034001,289013016
+Primary malignancy malignant melanoma,B322z00,289014010,Malignant melanoma of ear and external auricular canal NOS,188032002,289011019
+Primary malignancy malignant melanoma,B323.00,289015011,Malignant melanoma of skin of face,93225001,154247017
+Primary malignancy malignant melanoma,B323000,1235785014,Malignant melanoma of external surface of cheek,93217003,1235785014
+Primary malignancy malignant melanoma,B323100,289017015,Malignant melanoma of chin,188038003,289017015
+Primary malignancy malignant melanoma,B323200,1235786010,Malignant melanoma of eyebrow,93223008,1235786010
+Primary malignancy malignant melanoma,B323300,289019017,Malignant melanoma of forehead,188040008,289019017
+Primary malignancy malignant melanoma,B323400,1235798017,Malignant melanoma of external surface of nose,93643005,1235798017
+Primary malignancy malignant melanoma,B323500,289021010,Malignant melanoma of temple,188042000,289021010
+Primary malignancy malignant melanoma,B323z00,289022015,Malignant melanoma of skin of face,93225001,154247017
+Primary malignancy malignant melanoma,B324.00,289023013,Malignant melanoma of scalp and neck,188044004,289023013
+Primary malignancy malignant melanoma,B324000,289024019,Malignant melanoma of scalp,188045003,289024019
+Primary malignancy malignant melanoma,B324100,289025018,Malignant melanoma of neck,188046002,289025018
+Primary malignancy malignant melanoma,B324z00,289026017,Malignant melanoma of scalp and/or neck,188044004,1775484014
+Primary malignancy malignant melanoma,B325.00,289027014,Malignant melanoma of skin of trunk,93651008,155054012
+Primary malignancy malignant melanoma,B325000,289028016,Malignant melanoma of axilla,188049009,289028016
+Primary malignancy malignant melanoma,B325100,289029012,Malignant melanoma of breast,188050009,289029012
+Primary malignancy malignant melanoma,B325200,289030019,Malignant melanoma of buttock,188051008,289030019
+Primary malignancy malignant melanoma,B325300,289031015,Malignant melanoma of groin,188052001,289031015
+Primary malignancy malignant melanoma,B325400,154231019,Malignant melanoma of perianal skin,93209006,154231019
+Primary malignancy malignant melanoma,B325500,289033017,Malignant melanoma of perineum,188054000,289033017
+Primary malignancy malignant melanoma,B325600,289034011,Malignant melanoma of umbilicus,188055004,289034011
+Primary malignancy malignant melanoma,B325700,454085011,Malignant melanoma of back,310498001,454085011
+Primary malignancy malignant melanoma,B325800,457109011,Malignant melanoma of chest wall,313248004,457109011
+Primary malignancy malignant melanoma,B325z00,289037016,Malignant melanoma of trunk,269579005,403893010
+Primary malignancy malignant melanoma,B326.00,727731000006113,Malignant melanoma of upper limb,269580008,403894016
+Primary malignancy malignant melanoma,B326000,289039018,Malignant melanoma of shoulder,188060000,289039018
+Primary malignancy malignant melanoma,B326100,289040016,Malignant melanoma of upper arm,188061001,289040016
+Primary malignancy malignant melanoma,B326200,289041017,Malignant melanoma of fore-arm,188062008,289041017
+Primary malignancy malignant melanoma,B326300,289042012,Malignant melanoma of hand,188063003,289042012
+Primary malignancy malignant melanoma,B326400,289043019,Malignant melanoma of finger,188064009,289043019
+Primary malignancy malignant melanoma,B326500,289044013,Malignant melanoma of thumb,188065005,289044013
+Primary malignancy malignant melanoma,B326z00,289045014,Malignant melanoma of upper limb or shoulder NOS,269580008,403894016
+Primary malignancy malignant melanoma,B327.00,289046010,Malignant melanoma of lower limb and hip,188067002,289046010
+Primary malignancy malignant melanoma,B327000,289047018,Malignant melanoma of hip,188068007,289047018
+Primary malignancy malignant melanoma,B327100,289048011,Malignant melanoma of thigh,188069004,289048011
+Primary malignancy malignant melanoma,B327200,289049015,Malignant melanoma of knee,188070003,289049015
+Primary malignancy malignant melanoma,B327300,289050015,Malignant melanoma of popliteal fossa area,188071004,289050015
+Primary malignancy malignant melanoma,B327400,289051016,Malignant melanoma of lower leg,188072006,289051016
+Primary malignancy malignant melanoma,B327500,289052011,Malignant melanoma of ankle,188073001,289052011
+Primary malignancy malignant melanoma,B327600,289053018,Malignant melanoma of heel,188074007,289053018
+Primary malignancy malignant melanoma,B327700,289054012,Malignant melanoma of foot,188075008,289054012
+Primary malignancy malignant melanoma,B327800,289055013,Malignant melanoma of toe,188076009,289055013
+Primary malignancy malignant melanoma,B327900,289056014,Malignant melanoma of great toe,188077000,289056014
+Primary malignancy malignant melanoma,B327z00,289057017,Malignant melanoma of lower limb or hip NOS,188067002,289046010
+Primary malignancy malignant melanoma,B328.00,2438511000000112,Malignant melanoma stage IA,956331000000107,2438511000000112
+Primary malignancy malignant melanoma,B329.00,2438551000000111,Malignant melanoma stage IB,956351000000100,2438551000000111
+Primary malignancy malignant melanoma,B32A.00,2438591000000115,Malignant melanoma stage IIA,956371000000109,2438591000000115
+Primary malignancy malignant melanoma,B32B.00,2438631000000115,Malignant melanoma stage IIB,956391000000108,2438631000000115
+Primary malignancy malignant melanoma,B32C.00,2438671000000118,Malignant melanoma stage IIC,956411000000108,2438671000000118
+Primary malignancy malignant melanoma,B32D.00,2438711000000117,Malignant melanoma stage IIIA,956431000000100,2438711000000117
+Primary malignancy malignant melanoma,B32E.00,2438751000000118,Malignant melanoma stage IIIB,956451000000107,2438751000000118
+Primary malignancy malignant melanoma,B32F.00,2438791000000114,Malignant melanoma stage IIIC,956471000000103,2438791000000114
+Primary malignancy malignant melanoma,B32G.00,2438871000000117,Malignant melanoma stage IV M1a,956511000000107,2438871000000117
+Primary malignancy malignant melanoma,B32H.00,2438911000000115,Malignant melanoma stage IV M1b,956531000000104,2438911000000115
+Primary malignancy malignant melanoma,B32J.00,2438951000000116,Malignant melanoma stage IV M1c,956551000000106,2438951000000116
+Primary malignancy malignant melanoma,B32y.00,289060012,Malignant melanoma of other specified skin site,93655004,155060012
+Primary malignancy malignant melanoma,B32y000,173816012,Overlapping malignant melanoma of skin,109267002,173816012
+Primary malignancy malignant melanoma,B32z.00,289063014,Malignant melanoma of skin NOS,93655004,155060012
+Primary malignancy malignant melanoma,B509.00,409844012,Malignant melanoma of eye,274087000,409844012
+Primary malignancy malignant melanoma,B828.00,335843013,Melanoma in situ of skin,109266006,335843013
+Primary malignancy malignant melanoma,B828000,173821010,Melanoma in situ of lip,109272006,173821010
+Primary malignancy malignant melanoma,B828100,173823013,"Melanoma in situ of eyelid, including canthus",109274007,173823013
+Primary malignancy malignant melanoma,B828200,711081000006111,Melanoma in situ of ear and external auricular canal,109278005,173827014
+Primary malignancy malignant melanoma,B828300,290856018,Melanoma in situ of scalp and neck,189324006,3526664010
+Primary malignancy malignant melanoma,B828400,173833017,Melanoma in situ of trunk,109284008,173833017
+Primary malignancy malignant melanoma,B828500,711171000006114,Melanoma in situ of upper limb,109290007,173839018
+Primary malignancy malignant melanoma,B828600,711111000006117,Melanoma in situ of lower limb,109294003,173843019
+Primary malignancy malignant melanoma,B828700,173825018,Melanoma in situ of scalp,109276009,173825018
+Primary malignancy malignant melanoma,B828800,459501013,Melanoma in situ of back of hand,315036008,459501013
+Primary malignancy malignant melanoma,B828900,459719019,Melanoma in situ of back,315230006,459719019
+Primary malignancy malignant melanoma,B828W00,711181000006112,Melanoma in situ by body site,127330008,2773592018
+Primary malignancy malignant melanoma,B828X00,711121000006113,Melanoma in situ of other and unspecified parts of face,109270003,173819017
+Primary malignancy malignant melanoma,BBE1.00,403754010,Malignant melanoma,2092003,4601016
+Primary malignancy malignant melanoma,BBE1.11,312251000006118,[M]Melanocarcinoma,2092003,4601016
+Primary malignancy malignant melanoma,BBE1.12,312281000006114,Melanocytic lesion morphology,115223002,1784646013
+Primary malignancy malignant melanoma,BBE1.13,312291000006112,[M]Melanosarcoma NOS,2092003,4601016
+Primary malignancy malignant melanoma,BBE1000,1229572014,"[M]Malignant melanoma, regressing",39896009,1229573016
+Primary malignancy malignant melanoma,BBE1100,1231028010,"[M]Desmoplastic melanoma, malignant",51757004,1231030012
+Primary malignancy malignant melanoma,BBE2.00,314051000006119,Nodular melanoma,2142002,4703012
+Primary malignancy malignant melanoma,BBE4.00,305741000006115,[M]Balloon cell melanoma,39274007,65865017
+Primary malignancy malignant melanoma,BBEA.00,305231000006118,Amelanotic melanoma,70594002,117272014
+Primary malignancy malignant melanoma,BBEC.00,311971000006113,[M]Malignant melanoma in junctional naevus,915007,199323019
+Primary malignancy malignant melanoma,BBEE.00,311981000006111,[M]Malignant melanoma in precancerous melanosis,18450009,1222124015
+Primary malignancy malignant melanoma,BBEF.00,1232189017,[M]Hutchinson's melanotic freckle,61217001,1232189017
+Primary malignancy malignant melanoma,BBEF.11,310951000006110,Lentigo maligna,302836005,444775014
+Primary malignancy malignant melanoma,BBEG.00,1230100013,[M]Malignant melanoma in Hutchinson's melanotic freckle,44474009,1230099017
+Primary malignancy malignant melanoma,BBEG.11,310961000006112,[M]Lentigo maligna melanoma,302836005,444775014
+Primary malignancy malignant melanoma,BBEG000,1221446018,"[M]Acral lentiginous melanoma, malignant",16974005,1221445019
+Primary malignancy malignant melanoma,BBEH.00,317201000006115,Superficial spreading melanoma,55320002,91969014
+Primary malignancy malignant melanoma,BBEM.00,311951000006115,[M]Malignant melanoma in giant pigmented naevus,75931002,200557018
+Primary malignancy malignant melanoma,BBEN.11,1235301017,[M]Juvenila melanoma,88082008,1235301017
+Primary malignancy malignant melanoma,BBEP.00,308181000006118,[M]Epithelioid cell melanoma,37138001,61959010
+Primary malignancy malignant melanoma,BBEQ.00,291607010,Spindle cell melanoma,68827007,114326019
+Primary malignancy malignant melanoma,BBES.00,316801000006119,"[M]Spindle cell melanoma, type B",40244008,1229623012
+Primary malignancy malignant melanoma,BBET.00,312851000006119,[M]Mixed epithelioid and spindle melanoma,50813003,84682017
+Primary malignancy malignant melanoma,Byu4.00,292116013,[X]Melanoma and other malignant neoplasms of skin,372130007,1210707014
+Primary malignancy malignant melanoma,Byu4000,396171000006118,[X]Malignant melanoma of other+unspecified parts of face,93225001,154247017
+Primary malignancy malignant melanoma,Byu4100,292118014,"[X]Malignant melanoma of skin, unspecified",93655004,155060012
+Primary malignancy malignant melanoma,ByuF500,292203017,Melanoma in situ of face,109270003,173819017
+Primary malignancy malignant melanoma,ByuF600,292204011,[X]Melanoma in situ of other sites,127330008,2773592018
+Primary malignancy malignant melanoma,ByuFF00,292213013,"[X]Melanoma in situ, unspecified",127330008,2773592018

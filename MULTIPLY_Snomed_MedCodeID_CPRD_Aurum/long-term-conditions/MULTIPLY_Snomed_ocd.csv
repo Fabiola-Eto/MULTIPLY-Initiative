@@ -1,0 +1,32 @@
+Condition,ReadCode,MedCodeId,Term,SnomedCTConceptId,SnomedCTDescriptionId
+Obsessive-compulsive disorder,1Ba0.00,500817017,Obsessional thoughts,67698009,500817017
+Obsessive-compulsive disorder,1P3..00,473423017,Compulsive behaviour,12479006,473423017
+Obsessive-compulsive disorder,E203.00,269821000006113,Obsessive-compulsive disorder,191736004,295014019
+Obsessive-compulsive disorder,E203.11,295011010,Anancastic neurosis,191736004,295011010
+Obsessive-compulsive disorder,E203000,295015018,Compulsive neurosis,191737008,295015018
+Obsessive-compulsive disorder,E203100,295016017,Obsessional neurosis,191738003,295016017
+Obsessive-compulsive disorder,E203z00,295017014,Obsessive-compulsive disorder NOS,191736004,295014019
+Obsessive-compulsive disorder,E214.00,577931000006110,Compulsive personality disorder,473456000,2957161013
+Obsessive-compulsive disorder,E214100,475487017,Obsessional personality,1376001,475487017
+Obsessive-compulsive disorder,E214z00,295063015,Compulsive personality disorder NOS,473456000,2957161013
+Obsessive-compulsive disorder,E275711,346989014,Compulsive water drinking,231511005,346989014
+Obsessive-compulsive disorder,Eu42.00,400321000006113,[X]Obsessive - compulsive disorder,191736004,295014019
+Obsessive-compulsive disorder,Eu42.11,363211000006112,[X]Anankastic neurosis,191736004,295012015
+Obsessive-compulsive disorder,Eu42.12,400341000006118,[X]Obsessive-compulsive neurosis,191736004,295014019
+Obsessive-compulsive disorder,Eu42000,296251011,[X]Predominantly obsessional thoughts or ruminations,67698009,500817017
+Obsessive-compulsive disorder,Eu42100,296252016,Compulsion expressed as ritual,67431008,500730010
+Obsessive-compulsive disorder,Eu42200,296253014,[X]Mixed obsessional thoughts and acts,191736004,295011010
+Obsessive-compulsive disorder,Eu42y00,296254015,[X]Other obsessive-compulsive disorders,191736004,295014019
+Obsessive-compulsive disorder,Eu42z00,296255019,"[X]Obsessive-compulsive disorder, unspecified",191736004,295014019
+Obsessive-compulsive disorder,Eu45211,367931000006118,Body dysmorphic disorder,83482000,138466015
+Obsessive-compulsive disorder,Eu45212,379411000006119,[X]Dysmorphophobia nondelusional,18193002,30729012
+Obsessive-compulsive disorder,Eu60512,400311000006117,[X]Obsessional personality disorder,473457009,2957127011
+Obsessive-compulsive disorder,Eu60513,400351000006116,[X]Obsessive-compulsive personality disorder,1376001,475488010
+Obsessive-compulsive disorder,Eu63300,429561000006111,Trichotillomania,17155009,29010011
+Obsessive-compulsive disorder,Eu63y00,296513010,[X]Other habit and impulse disorders,66347000,110190018
+Obsessive-compulsive disorder,Eu63z00,296514016,"[X]Habit and impulse disorder, unspecified",66347000,110190018
+Obsessive-compulsive disorder,J085900,174480014,Factitious cheilitis,109805003,174480014
+Obsessive-compulsive disorder,M184.00,46407019,Dermatitis artefacta,27720003,46407019
+Obsessive-compulsive disorder,M184.11,46406011,Dermatitis factitia,27720003,46406011
+Obsessive-compulsive disorder,M184.12,46409016,Neurotic excoriation,27720003,46409016
+Obsessive-compulsive disorder,M283.11,13608015,Factitial urticaria,402410006,1781553014

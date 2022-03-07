@@ -1,0 +1,17 @@
+Condition,ReadCode,MedCodeId,Term,SnomedCTConceptId,SnomedCTDescriptionId
+Primary malignancy kidney and ureter,B4A..00,729481000006112,Malignant tumour of urinary system,419052002,2577717014
+Primary malignancy kidney and ureter,B4A..11,177051000006111,Malignant tumour of kidney,363518003,482823011
+Primary malignancy kidney and ureter,B4A0.00,289285010,Malignant neoplasm of kidney parenchyma,188250002,289285010
+Primary malignancy kidney and ureter,B4A0000,289288012,Hypernephroma,702391001,3648998018
+Primary malignancy kidney and ureter,B4A1.00,722481000006116,Malignant tumour of renal pelvis,363457009,482710012
+Primary malignancy kidney and ureter,B4A1000,722471000006119,Malignant neoplasm of renal calyces,188252005,289289016
+Primary malignancy kidney and ureter,B4A1100,289294016,Malignant neoplasm of ureteropelvic junction,188253000,289294016
+Primary malignancy kidney and ureter,B4A1z00,289296019,Malignant neoplasm of renal pelvis NOS,363457009,482710012
+Primary malignancy kidney and ureter,B4A2.00,720961000006117,Malignant tumour of ureter,363458004,482713014
+Primary malignancy kidney and ureter,B4Az.00,289299014,Malignant tumour of urinary system,419052002,2577717014
+Primary malignancy kidney and ureter,B91z100,511615012,Neoplasm of uncertain behaviour of kidney,94889006,511615012
+Primary malignancy kidney and ureter,BB5a000,315861000006111,Renal cell carcinoma - morphology,41607009,1229779019
+Primary malignancy kidney and ureter,BB5a011,309571000006119,[M]Grawitz tumour,41607009,1229779019
+Primary malignancy kidney and ureter,BB5a012,310241000006119,[M]Hypernephroma,41607009,1229779019
+Primary malignancy kidney and ureter,ZV10512,344931000006119,[V]Personal history of malignant neoplasm of kidney,415087005,2531443011
+Primary malignancy kidney and ureter,ZV10513,1227574016,[V]Personal history of malignant neoplasm of kidney,415087005,2531443011

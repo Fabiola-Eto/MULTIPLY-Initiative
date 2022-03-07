@@ -1,0 +1,96 @@
+Condition,ReadCode,MedCodeId,Term,SnomedCTConceptId,SnomedCTDescriptionId
+"Primary malignancy brain, other CNS and intracranial",B51..00,2692069010,Malignant neoplasm of brain,428061005,2692069010
+"Primary malignancy brain, other CNS and intracranial",B51..11,543111000006111,Cerebral tumour - malignant,428061005,2692069010
+"Primary malignancy brain, other CNS and intracranial",B510.00,727771000006111,Malignant neoplasm of cerebrum (excluding lobes and ventricles),188280007,289336015
+"Primary malignancy brain, other CNS and intracranial",B510000,289337012,Malignant neoplasm of basal ganglia,188281006,289337012
+"Primary malignancy brain, other CNS and intracranial",B510100,289338019,Malignant neoplasm of cerebral cortex,188282004,289338019
+"Primary malignancy brain, other CNS and intracranial",B510300,289341011,Malignant neoplasm of globus pallidus,188285002,289341011
+"Primary malignancy brain, other CNS and intracranial",B510400,289343014,Malignant neoplasm of hypothalamus,188286001,289343014
+"Primary malignancy brain, other CNS and intracranial",B510500,289345019,Malignant neoplasm of thalamus,188287005,289345019
+"Primary malignancy brain, other CNS and intracranial",B510z00,289346018,Malignant neoplasm of cerebrum NOS,188280007,289336015
+"Primary malignancy brain, other CNS and intracranial",B511.00,482730011,Malignant neoplasm of frontal lobe,363467004,482730011
+"Primary malignancy brain, other CNS and intracranial",B512.00,482731010,Malignant neoplasm of temporal lobe,363468009,482731010
+"Primary malignancy brain, other CNS and intracranial",B512000,289347010,Malignant neoplasm of hippocampus,188289008,289347010
+"Primary malignancy brain, other CNS and intracranial",B512z00,289349013,Malignant neoplasm of temporal lobe NOS,363468009,482731010
+"Primary malignancy brain, other CNS and intracranial",B513.00,482732015,Malignant neoplasm of parietal lobe,363469001,482732015
+"Primary malignancy brain, other CNS and intracranial",B514.00,482733013,Malignant neoplasm of occipital lobe,363470000,482733013
+"Primary malignancy brain, other CNS and intracranial",B515.00,482734019,Malignant neoplasm of cerebral ventricles,363471001,482734019
+"Primary malignancy brain, other CNS and intracranial",B515000,289352017,Malignant neoplasm of choroid plexus,188292007,289352017
+"Primary malignancy brain, other CNS and intracranial",B516.00,155175018,Malignant neoplasm of cerebellum,449420002,2899889012
+"Primary malignancy brain, other CNS and intracranial",B517.00,727511000006114,Malignant neoplasm of brainstem,363473003,482736017
+"Primary malignancy brain, other CNS and intracranial",B517000,289355015,Malignant neoplasm of cerebral peduncle,188295009,289355015
+"Primary malignancy brain, other CNS and intracranial",B517100,289356019,Malignant neoplasm of medulla oblongata,188296005,289356019
+"Primary malignancy brain, other CNS and intracranial",B517200,289357011,Malignant neoplasm of midbrain,188297001,289357011
+"Primary malignancy brain, other CNS and intracranial",B517300,289358018,Malignant neoplasm of pons,188298006,289358018
+"Primary malignancy brain, other CNS and intracranial",B517z00,727521000006118,Malignant neoplasm of brain stem NOS,363473003,482736017
+"Primary malignancy brain, other CNS and intracranial",B51y.00,289360016,Malignant neoplasm of other parts of brain,428061005,2692069010
+"Primary malignancy brain, other CNS and intracranial",B51y000,289361017,Malignant neoplasm of corpus callosum,188301005,289361017
+"Primary malignancy brain, other CNS and intracranial",B51y200,720631000006115,Overlapping malignant neoplasm of brain,109912006,174605010
+"Primary malignancy brain, other CNS and intracranial",B51yz00,289364013,Malignant neoplasm of other part of brain NOS,428061005,2692069010
+"Primary malignancy brain, other CNS and intracranial",B51z.00,289365014,Malignant neoplasm of brain NOS,428061005,2692069010
+"Primary malignancy brain, other CNS and intracranial",B520.00,726641000006111,Malignant neoplasm of cranial nerves,188307009,289367018
+"Primary malignancy brain, other CNS and intracranial",B520000,289369015,Malignant neoplasm of olfactory bulb,188308004,289369015
+"Primary malignancy brain, other CNS and intracranial",B520100,155425014,Malignant neoplasm of optic nerve,363498002,482783015
+"Primary malignancy brain, other CNS and intracranial",B520200,727841000006110,Malignant neoplasm of acoustic nerve,254980001,379934019
+"Primary malignancy brain, other CNS and intracranial",B520z00,289374011,Malignant neoplasm of cranial nerves NOS,188307009,289367018
+"Primary malignancy brain, other CNS and intracranial",B521.00,482737014,Malignant neoplasm of cerebral meninges,363474009,482737014
+"Primary malignancy brain, other CNS and intracranial",B521200,289378014,Malignant neoplasm of cerebral pia mater,188315007,289378014
+"Primary malignancy brain, other CNS and intracranial",B521z00,289379018,Malignant neoplasm of cerebral meninges NOS,363474009,482737014
+"Primary malignancy brain, other CNS and intracranial",B522.00,721751000006111,Malignant neoplasm of spinal cord,363475005,482738016
+"Primary malignancy brain, other CNS and intracranial",B523.00,482740014,Malignant neoplasm of spinal meninges,363476006,482740014
+"Primary malignancy brain, other CNS and intracranial",B523z00,289383018,Malignant neoplasm of spinal meninges NOS,363497007,482781018
+"Primary malignancy brain, other CNS and intracranial",B525.00,482741013,Malignant neoplasm of cauda equina,363477002,482741013
+"Primary malignancy brain, other CNS and intracranial",B52W.00,728471000006117,"Malig neopl, overlap lesion brain & other part of CNS",109911004,174604014
+"Primary malignancy brain, other CNS and intracranial",B52X.00,724681000006111,"Malignant neoplasm of meninges, unspecified",363497007,482781018
+"Primary malignancy brain, other CNS and intracranial",B542.00,720481000006117,Malignant neoplasm of pituitary gland and craniopharyngeal duct,188339002,289407019
+"Primary malignancy brain, other CNS and intracranial",B542000,722981000006114,Malignant neoplasm of pituitary gland,363482009,482750010
+"Primary malignancy brain, other CNS and intracranial",B542100,289409016,Malignant neoplasm of craniopharyngeal duct,188340000,289409016
+"Primary malignancy brain, other CNS and intracranial",B542z00,730041000006115,Malig neop pituitary gland or craniopharyngeal duct NOS,188339002,289407019
+"Primary malignancy brain, other CNS and intracranial",B543.00,722961000006116,Malignant neoplasm of pineal gland,363483004,482752019
+"Primary malignancy brain, other CNS and intracranial",B544.00,155168019,Malignant neoplasm of carotid body,447883002,2900052019
+"Primary malignancy brain, other CNS and intracranial",B545.00,289413011,Primary malignant neoplasm of paraganglion,93941005,510894017
+"Primary malignancy brain, other CNS and intracranial",B545000,155269017,Malignant neoplasm of glomus jugulare,93814004,155269017
+"Primary malignancy brain, other CNS and intracranial",B545100,155085015,Malignant neoplasm of aortic body,93677000,155085015
+"Primary malignancy brain, other CNS and intracranial",B545200,155193017,Malignant neoplasm of coccygeal body,93759001,155193017
+"Primary malignancy brain, other CNS and intracranial",B545z00,289419010,Malignant neoplasm of aortic body or paraganglia NOS,93941005,510894017
+"Primary malignancy brain, other CNS and intracranial",B925.00,291179013,Neoplasm of uncertain behaviour of brain and spinal cord,189484008,291179013
+"Primary malignancy brain, other CNS and intracranial",B925000,511458017,Neoplasm of uncertain behaviour of brain,94767002,511458017
+"Primary malignancy brain, other CNS and intracranial",B925200,678471000006114,"Neoplasm of uncertain or unknown behaviour of brain, supratentorial",189487001,291186017
+"Primary malignancy brain, other CNS and intracranial",B925300,677871000006112,"Neoplasm of uncertain or unknown behaviour of brain, infratentorial",189488006,291187014
+"Primary malignancy brain, other CNS and intracranial",B925z00,291190015,Neoplasm of uncertain behaviour of brain or spinal cord NOS,189484008,291179013
+"Primary malignancy brain, other CNS and intracranial",BA06.00,291302010,Neoplasm of brain,126952004,240011
+"Primary malignancy brain, other CNS and intracranial",BBbB.00,1229453012,[M]Astrocytoma NOS,38713004,1229453012
+"Primary malignancy brain, other CNS and intracranial",BBbB.11,305681000006115,Astrocytoma,38713004,64413017
+"Primary malignancy brain, other CNS and intracranial",BBbC.00,305701000006117,Anaplastic astrocytoma,55353007,1231460011
+"Primary malignancy brain, other CNS and intracranial",BBbE.00,308961000006113,Gemistocytic astrocytoma,73982001,122858018
+"Primary malignancy brain, other CNS and intracranial",BBbF.00,308461000006115,[M]Fibrillary astrocytoma,71314006,118456018
+"Primary malignancy brain, other CNS and intracranial",BBbG.00,315291000006116,Pilocytic astrocytoma,128854008,207484016
+"Primary malignancy brain, other CNS and intracranial",BBbG.11,310731000006117,[M]Juvenile astrocytoma,128854008,207484016
+"Primary malignancy brain, other CNS and intracranial",BBbG.12,315301000006115,[M]Piloid astrocytoma,128854008,207484016
+"Primary malignancy brain, other CNS and intracranial",BBbH.00,291828016,[M]Spongioblastoma NOS,63634009,105759017
+"Primary malignancy brain, other CNS and intracranial",BBbK.00,305671000006118,[M]Astroblastoma,48952003,81561018
+"Primary malignancy brain, other CNS and intracranial",BBbL.00,403757015,Glioblastoma,63634009,105759017
+"Primary malignancy brain, other CNS and intracranial",BBbL.11,309231000006115,Glioblastoma multiforme,63634009,105761014
+"Primary malignancy brain, other CNS and intracranial",BBbM.00,309091000006112,[M]Giant cell glioblastoma,44529004,74269012
+"Primary malignancy brain, other CNS and intracranial",BBbQ.00,291835012,Oligodendroglioma - category,443565000,2840882012
+"Primary malignancy brain, other CNS and intracranial",BBbR.00,314281000006115,Anaplastic oligodendroglioma,3102004,1227417016
+"Primary malignancy brain, other CNS and intracranial",BBbS.00,314261000006113,[M]Oligodendroblastoma,80061003,132826019
+"Primary malignancy brain, other CNS and intracranial",BBbT.00,291836013,Medulloblastoma,83217000,138016017
+"Primary malignancy brain, other CNS and intracranial",BBbU.00,307571000006110,[M]Desmoplastic medulloblastoma,32456001,54190011
+"Primary malignancy brain, other CNS and intracranial",BBbV.00,312201000006117,[M]Medullomyoblastoma,24604009,41255016
+"Primary malignancy brain, other CNS and intracranial",BBbW.00,291837016,Cerebellar sarcoma,17302008,29245013
+"Primary malignancy brain, other CNS and intracranial",BBbz.00,2552865010,[M]Glioma NOS,74532006,2552865010
+"Primary malignancy brain, other CNS and intracranial",BBbZ.00,1234296013,[M]Pleomorphic xanthoastrocytoma,78838008,1234295012
+"Primary malignancy brain, other CNS and intracranial",BBc2.00,291852011,Medulloepithelioma,39005004,65429019
+"Primary malignancy brain, other CNS and intracranial",BBc6.11,309311000006117,[M]Glioneuroma,89880005,148993014
+"Primary malignancy brain, other CNS and intracranial",BBc7.11,313831000006118,[M]Neuroastrocytoma,128858006,207494014
+"Primary malignancy brain, other CNS and intracranial",BBcA.00,314251000006111,[M]Olfactory neurogenic tumour,53968002,198477011
+"Primary malignancy brain, other CNS and intracranial",BBd2.00,312361000006114,"[M]Meningioma, malignant",78303004,129936017
+"Primary malignancy brain, other CNS and intracranial",BBd2.12,312391000006118,[M]Meningothelial sarcoma,78303004,129936017
+"Primary malignancy brain, other CNS and intracranial",BBdA.00,314911000006119,[M]Papillary meningioma,57606003,95785015
+"Primary malignancy brain, other CNS and intracranial",ByuA.00,396251000006115,Malignant neoplasm of central nervous system,372062007,1210640010
+"Primary malignancy brain, other CNS and intracranial",ByuA000,396521000006110,Malignant tumour of cranial nerve,188307009,289367018
+"Primary malignancy brain, other CNS and intracranial",ByuA100,396491000006113,Malignant neoplasm of central nervous system,372062007,1210640010
+"Primary malignancy brain, other CNS and intracranial",ByuA200,292152012,Malignant tumour of meninges,363497007,482781018
+"Primary malignancy brain, other CNS and intracranial",ByuA300,396161000006113,Overlapping malignant neoplasm of brain and other parts of the central nervous system,109911004,174604014
+"Primary malignancy brain, other CNS and intracranial",ZV10y12,1227581011,[V]Personal history of malignant neoplasm of brain,266987004,397818015

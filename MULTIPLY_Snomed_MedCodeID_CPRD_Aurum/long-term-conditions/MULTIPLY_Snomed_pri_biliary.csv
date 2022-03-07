@@ -1,0 +1,26 @@
+Condition,ReadCode,MedCodeId,Term,SnomedCTConceptId,SnomedCTDescriptionId
+Primary malignancy biliary tract,B151.00,155305011,Malignant neoplasm of intrahepatic bile ducts,187777008,288698019
+Primary malignancy biliary tract,B151000,288694017,Malignant neoplasm of interlobular bile ducts,187773007,288694017
+Primary malignancy biliary tract,B151200,2619456011,Malignant neoplasm of intrahepatic biliary passages,187777008,2619456011
+Primary malignancy biliary tract,B151400,288698019,Malignant neoplasm of intrahepatic gall duct,187777008,288698019
+Primary malignancy biliary tract,B151z00,288699010,Malignant neoplasm of intrahepatic bile ducts NOS,187777008,288698019
+Primary malignancy biliary tract,B161.00,726201000006111,Malignant tumour of extrahepatic bile duct,363416002,482631015
+Primary malignancy biliary tract,B161000,155207017,Malignant neoplasm of cystic duct,93770008,155207017
+Primary malignancy biliary tract,B161100,288707014,Malignant neoplasm of hepatic duct,187784000,288707014
+Primary malignancy biliary tract,B161200,726361000006119,Malignant neoplasm of common bile duct,93763008,155198014
+Primary malignancy biliary tract,B161211,380139012,Carcinoma common bile duct,255086002,380139012
+Primary malignancy biliary tract,B161300,288711015,Malignant neoplasm of sphincter of Oddi,187786003,288711015
+Primary malignancy biliary tract,B161z00,288712010,Malignant neoplasm of extrahepatic bile ducts NOS,363416002,482631015
+Primary malignancy biliary tract,B162.00,727911000006116,Malignant neoplasm of ampulla of Vater,363417006,482633017
+Primary malignancy biliary tract,B163.00,1219537012,"Malignant neoplasm, overlapping lesion of biliary tract",109847004,1219537012
+Primary malignancy biliary tract,B808100,153200017,Carcinoma in situ of intrahepatic bile ducts,92618006,153200017
+Primary malignancy biliary tract,B808500,153136012,Carcinoma in situ of common bile duct,92570000,153136012
+Primary malignancy biliary tract,B903100,679211000006113,Neoplasm of uncertain behaviour of intra-hepatic bile ducts,94880005,511606017
+Primary malignancy biliary tract,B903500,511503017,Neoplasm of uncertain behaviour of common bile duct,94803009,511503017
+Primary malignancy biliary tract,BB5D.00,291380016,[M]Hepatobiliary tract adenomas and carcinomas,126853008,141016
+Primary malignancy biliary tract,BB5D.11,305971000006113,[M]Biliary tract adenomas and adenocarcinomas,126853008,141016
+Primary malignancy biliary tract,BB5D100,306641000006116,Cholangiocarcinoma,70179006,116557016
+Primary malignancy biliary tract,BB5D111,305941000006117,Bile duct carcinoma,70179006,116558014
+Primary malignancy biliary tract,BB5D300,305951000006115,[M]Bile duct cystadenocarcinoma,50422007,84004017
+Primary malignancy biliary tract,BB5D700,1231089017,[M]Combined hepatocellular carcinoma and cholangiocarcinoma,52178006,1231089017
+Primary malignancy biliary tract,BB5D711,309851000006114,[M]Hepatocholangiocarcinoma,52178006,1231089017

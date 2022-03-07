@@ -1,0 +1,14 @@
+Condition,ReadCode,MedCodeId,Term,SnomedCTConceptId,SnomedCTDescriptionId
+Sickle-cell anaemia,1458.00,2816277010,History of sickle cell anaemia,441482006,2816277010
+Sickle-cell anaemia,D104211,141261000006112,Haemoglobin S/beta thalassaemia,127041004,474028014
+Sickle-cell anaemia,D106.00,141181000006110,Sickle cell anaemia,127040003,474022010
+Sickle-cell anaemia,D106000,141201000006111,Sickle-cell anaemia of unspecified type,127040003,328014
+Sickle-cell anaemia,D106100,141251000006110,Hemoglobin SS disease without crisis,416180004,2548681017
+Sickle-cell anaemia,D106200,141211000006114,Sickle cell anaemia with crisis,417425009,2553636014
+Sickle-cell anaemia,D106300,141221000006118,Sickle cell anaemia with haemoglobin C disease,35434009,486160011
+Sickle-cell anaemia,D106400,141231000006115,Sickle-cell anaemia with haemoglobin D disease,25472008,482949017
+Sickle-cell anaemia,D106500,141241000006113,Sickle-cell anaemia with haemoglobin E disease,47024008,494719012
+Sickle-cell anaemia,D106z00,141191000006113,Sickle-cell anaemia NOS,127040003,328014
+Sickle-cell anaemia,Dyu1200,413591000006113,[X]Other sickle-cell disorders,417357006,2553616013
+Sickle-cell anaemia,F422100,297780010,Proliferative retinopathy due to sickle cell disease,193370005,297780010
+Sickle-cell anaemia,K0G..00,23676016,Sickle cell nephropathy,13886001,23676016

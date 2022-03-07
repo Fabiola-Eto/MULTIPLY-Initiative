@@ -1,0 +1,17 @@
+Condition,ReadCode,MedCodeId,Term,SnomedCTConceptId,SnomedCTDescriptionId
+Primary malignancy oesophageal,B10..00,1216488012,Malignant neoplasm of oesophagus,363402007,1216488012
+Primary malignancy oesophageal,B100.00,288589012,Malignant neoplasm of cervical oesophagus,187722004,288589012
+Primary malignancy oesophageal,B101.00,288594012,Malignant neoplasm of thoracic oesophagus,187723009,288594012
+Primary malignancy oesophageal,B102.00,288597017,Malignant neoplasm of abdominal oesophagus,187724003,288597017
+Primary malignancy oesophageal,B103.00,288602012,Malignant neoplasm of upper third of oesophagus,187725002,288602012
+Primary malignancy oesophageal,B104.00,288607018,Malignant neoplasm of middle third of oesophagus,187726001,288607018
+Primary malignancy oesophageal,B105.00,288608011,Malignant neoplasm of lower third of oesophagus,187727005,288608011
+Primary malignancy oesophageal,B106.00,1215862010,"Malignant neoplasm, overlapping lesion of oesophagus",109835005,1215862010
+Primary malignancy oesophageal,B107.00,638841000000113,Siewert type I adenocarcinoma,342571000000109,638841000000113
+Primary malignancy oesophageal,B10y.00,288614016,Malignant neoplasm of other specified part of oesophagus,363402007,482603012
+Primary malignancy oesophageal,B10z.00,403674011,Malignant neoplasm of oesophagus NOS,363402007,1216488012
+Primary malignancy oesophageal,B10z.11,1216486011,Oesophageal cancer,363402007,1216486011
+Primary malignancy oesophageal,B110100,288632016,Malignant neoplasm of cardio-oesophageal junction of stomach,187734007,288632016
+Primary malignancy oesophageal,B110111,288631011,Malignant neoplasm of gastro-oesophageal junction,187734007,288631011
+Primary malignancy oesophageal,B905000,511535017,Neoplasm of uncertain behaviour of oesophagus,94825003,511535017
+Primary malignancy oesophageal,ZV10016,1216359012,[V]Personal history of malignant neoplasm of oesophagus,415080007,2531431010

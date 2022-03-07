@@ -1,0 +1,21 @@
+Condition,ReadCode,MedCodeId,Term,SnomedCTConceptId,SnomedCTDescriptionId
+Ptosis of eyelid,2BE..00,255369019,O/E - ptosis,164015000,255369019
+Ptosis of eyelid,2BE2.00,255371019,O/E - ptosis present,164017008,255371019
+Ptosis of eyelid,2BE3.00,255372014,O/E - Horner's syndrome,164018003,255372014
+Ptosis of eyelid,2BEZ.00,255373016,O/E - ptosis NOS,164015000,255369019
+Ptosis of eyelid,7218.00,596931000006116,Correction of ptosis,69769008,501382017
+Ptosis of eyelid,7218000,596641000006117,Levator palpebrae resection,265278009,394004017
+Ptosis of eyelid,7218100,596631000006110,Correction of eyelid ptosis using frontalis muscle technique,172254007,266714013
+Ptosis of eyelid,7218200,394005016,Correction of ptosis of eyelid using sling of fascia,265279001,394005016
+Ptosis of eyelid,7218300,596651000006115,Correction of eyelid ptosis using superior rectus technique,112958002,378631017
+Ptosis of eyelid,7218500,266723011,Correction of eyelid ptosis using aponeurosis technique,172257000,266723011
+Ptosis of eyelid,7218y00,266725016,Other specified correction of ptosis of eyelid,69769008,115888018
+Ptosis of eyelid,7218z00,266726015,Repair of blepharoptosis,69769008,115888018
+Ptosis of eyelid,F4E3.00,20576010,Ptosis of eyelid,11934000,20576010
+Ptosis of eyelid,F4E3000,298592014,Unspecified ptosis of eyelid,11934000,20576010
+Ptosis of eyelid,F4E3100,50902016,Paralytic ptosis,30410001,50902016
+Ptosis of eyelid,F4E3200,88600018,Myogenic ptosis,53279002,88600018
+Ptosis of eyelid,F4E3300,126555013,Mechanical ptosis,76201007,126555013
+Ptosis of eyelid,F4E3z00,298596012,Ptosis of eyelid NOS,11934000,20576010
+Ptosis of eyelid,P360.00,400783012,Congenital ptosis,268163008,400783012
+Ptosis of eyelid,P360.11,1495602018,Ptosis,11934000,2162086018

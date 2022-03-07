@@ -1,0 +1,8 @@
+Condition,ReadCode,MedCodeId,Term,SnomedCTConceptId,SnomedCTDescriptionId
+Polycythaemia vera,B671.00,554151000006112,Polycythaemia vera (clinical),109992005,174698015
+Polycythaemia vera,B671.11,819461000006112,Heilmeyer - Schoner disease,109992005,174698015
+Polycythaemia vera,B934.00,344860011,Polycythaemia vera,109992005,344860011
+Polycythaemia vera,B934.11,344859018,Polycythaemia rubra vera,109992005,344859018
+Polycythaemia vera,B934.12,2535663016,Primary polycythaemia,109992005,2535663016
+Polycythaemia vera,BBs0.00,215919015,Polycythaemia vera,128841001,474628013
+Polycythaemia vera,BBs0.11,215920014,[M]Polycythaemia rubra vera,128841001,207439018

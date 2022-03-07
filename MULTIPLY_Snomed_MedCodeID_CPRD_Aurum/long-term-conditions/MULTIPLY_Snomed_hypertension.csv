@@ -1,0 +1,93 @@
+Condition,ReadCode,MedCodeId,Term,SnomedCTConceptId,SnomedCTDescriptionId
+Hypertension,14A2.00,251674014,H/O: hypertension,161501007,251674014
+Hypertension,2126100,790131000006118,Hypertension resolved,162659009,253532015
+Hypertension,212K.00,253532015,Hypertension resolved,162659009,253532015
+Hypertension,6146200,262960017,Hypertension induced by oral contraceptive pill,169465000,262960017
+Hypertension,6624.00,264467014,Yearly observation of borderline hypertension,170574005,2692347012
+Hypertension,6627.00,264471012,Good hypertension control,170577003,264471012
+Hypertension,6628.00,264472017,Poor hypertension control,170578008,264472017
+Hypertension,662b.00,1780318013,Moderate hypertension control,401117004,1780318013
+Hypertension,662c.00,1780253016,Hypertension six month review,401048005,1780253016
+Hypertension,662d.00,1780319017,Hypertension annual review,401118009,1780319017
+Hypertension,662F.00,264485019,Treatment for hypertension started,170586008,2694699015
+Hypertension,662G.00,264486018,Hypertensive treatment changed,170587004,2871342011
+Hypertension,662O.00,443764015,On treatment for hypertension,302192008,443764015
+Hypertension,662r.00,530221000000112,Trial withdrawal of antihypertensive therapy,299561000000105,530221000000112
+Hypertension,7Q01.00,350601000000116,High cost hypertension drugs,220901000000101,350601000000116
+Hypertension,8B26.00,451424017,Antihypertensive therapy,308116003,451424017
+Hypertension,8BL0.00,2159168015,Patient on maximal tolerated antihypertensive therapy,407567007,2159168015
+Hypertension,8I3N.00,1780252014,Hypertension treatment refused,401047000,1780252014
+Hypertension,9OI9.00,789981000006111,Hypertens.monitor deleted,185724004,285723013
+Hypertension,C151.13,589601000006111,Conn's syndrome,190507007,292776010
+Hypertension,C151011,292776010,Conn's syndrome,190507007,292776010
+Hypertension,F404200,1529013,Blind hypertensive eye,264008,1529013
+Hypertension,F421300,12496011,Hypertensive retinopathy,6962006,12496011
+Hypertension,G2...00,64168014,Hypertensive disease,38341003,64168014
+Hypertension,G2...11,523801000006119,BP - hypertensive disease,38341003,64168014
+Hypertension,G20..00,99042012,Essential hypertension,59621000,99042012
+Hypertension,G20..11,64172013,Elevated blood pressure,24184005,196353013
+Hypertension,G200.00,131046010,Malignant essential hypertension,78975002,131046010
+Hypertension,G201.00,3135013,Benign essential hypertension,1201005,3135013
+Hypertension,G202.00,93494011,Systolic hypertension,56218007,93494011
+Hypertension,G203.00,80224019,Diastolic hypertension,48146000,80224019
+Hypertension,G20z.00,395751018,Essential hypertension NOS,59621000,99042012
+Hypertension,G20z.11,790121000006116,Hypertension,38341003,64176011
+Hypertension,G21..00,107545013,Hypertensive heart disease,64715009,107545013
+Hypertension,G210.00,90135019,Malignant hypertensive heart disease,54225002,90135019
+Hypertension,G210000,728681000006116,Malignant hypertensive heart disease without congestive heart failure,36315003,60617018
+Hypertension,G210100,728671000006119,Malignant hypertensive heart disease with congestive cardiac failure,83105008,1236017010
+Hypertension,G211.00,60444016,Benign hypertensive heart disease,36221001,60444016
+Hypertension,G211000,504911000006115,Benign hypertensive heart disease without CCF,77970009,129404019
+Hypertension,G211100,504901000006118,Benign hypertensive heart disease with congestive cardiac failure,194767001,299653017
+Hypertension,G21z.00,741661000006118,Hypertensive heart disease NOS,64715009,107545013
+Hypertension,G21z000,741691000006114,Hypertensive heart disease NOS without CCF,64715009,107545013
+Hypertension,G21z011,411508017,Cardiomegaly - hypertensive,275516004,411508017
+Hypertension,G21z100,741681000006111,Hypertensive heart disease NOS with CCF,64715009,107545013
+Hypertension,G21zz00,299655012,Hypertensive heart disease NOS,64715009,107545013
+Hypertension,G22..00,64282015,Hypertensive renal disease,38481006,64282015
+Hypertension,G220.00,108730018,Malignant hypertensive renal disease,65443008,108730018
+Hypertension,G221.00,1409014,Benign hypertensive renal disease,193003,1409014
+Hypertension,G222.00,299665018,Hypertensive renal disease with renal failure,49220004,81984019
+Hypertension,G22z.00,395753015,Hypertensive renal disease NOS,38481006,64282015
+Hypertension,G22z.11,47076011,Renal hypertension,38481006,64282015
+Hypertension,G23..00,143003017,Hypertensive heart AND renal disease,86234004,143003017
+Hypertension,G230.00,110659019,Malignant hypertensive heart AND renal disease,66610008,110659019
+Hypertension,G231.00,109700019,Benign hypertensive heart AND renal disease,66052004,109700019
+Hypertension,G232.00,741701000006114,Hypertensive heart and renal disease with (congestive) heart failure,194779001,299672017
+Hypertension,G233.00,299673010,Hypertensive heart and renal disease with renal failure,194780003,299673010
+Hypertension,G234.00,789941000006117,Hypertensive heart and renal disease with both (congestive) heart failure and renal failure,194781004,299674016
+Hypertension,G23z.00,299675015,Hypertensive heart and renal disease NOS,86234004,143003017
+Hypertension,G24..00,53452019,Secondary hypertension,31992008,53452019
+Hypertension,G240.00,151161000006115,Malignant secondary hypertension,89242004,147988014
+Hypertension,G240000,299676019,Secondary malignant renovascular hypertension,194783001,299676019
+Hypertension,G240z00,299677011,Secondary malignant hypertension NOS,89242004,147988014
+Hypertension,G241.00,299678018,Secondary benign hypertension,194785008,299678018
+Hypertension,G241000,2478822013,Secondary benign renovascular hypertension,73410007,2478822013
+Hypertension,G241z00,299680012,Benign secondary hypertension,194785008,2470031013
+Hypertension,G244.00,299681011,Hypertension secondary to endocrine disorders,194788005,299681011
+Hypertension,G24z.00,158241000006117,Secondary hypertension NOS,31992008,53452019
+Hypertension,G24z000,299683014,Renovascular hypertension,123799005,192288012
+Hypertension,G24z100,299684015,Hypertension secondary to drug,194791005,299684015
+Hypertension,G24zz00,299682016,Secondary hypertension NOS,31992008,53452019
+Hypertension,G2y..00,299686018,Other specified hypertensive disease,38341003,1215744012
+Hypertension,G2z..00,299687010,Hypertensive disorder,38341003,1215744012
+Hypertension,G672.00,84111015,Hypertensive encephalopathy,50490005,84111015
+Hypertension,G672.11,84112010,Hypertensive crisis,50490005,84111015
+Hypertension,Gyu2.00,300869017,[X]Hypertensive diseases,38341003,1215744012
+Hypertension,Gyu2000,300870016,[X]Other secondary hypertension,31992008,53452019
+Hypertension,Gyu2100,300871017,[X]Hypertension secondary to other renal disorders,31992008,53452019
+Hypertension,L122.00,305764016,Other pre-existing hypertension in preg/childbirth/puerp,86041002,142647015
+Hypertension,L122000,19451000006111,Other pre-existing hypertension in preg/childb/puerp unspec,86041002,142647015
+Hypertension,L122100,19431000006116,Other pre-existing hypertension in preg/childb/puerp - deliv,86041002,142647015
+Hypertension,L122300,19421000006119,Other pre-exist hypertension in preg/childb/puerp-not deliv,86041002,142647015
+Hypertension,L122z00,19441000006114,Other pre-existing hypertension in preg/childb/puerp NOS,86041002,142647015
+Hypertension,L127.00,305818015,Pre-eclampsia or eclampsia with pre-existing hypertension,198997005,305818015
+Hypertension,L127z00,212961000006118,Pre-eclampsia or eclampsia + pre-existing hypertension NOS,198997005,305818015
+Hypertension,L128.00,213111000006112,"Pre-existing hypertension complicating pregnancy, childbirth and puerperium",199005000,305826011
+Hypertension,L128000,213091000006115,"Pre-existing hypertensive heart disease complicating pregnancy, childbirth and the puerperium",199006004,305827019
+Hypertension,L128200,213081000006118,"Pre-existing secondary hypertension complicating pregnancy, childbirth and puerperium",199008003,305829016
+Hypertension,TJC7.00,331291010,Adverse reaction to other antihypertensives,293495006,433712011
+Hypertension,TJC7z00,331302012,Antihypertensive adverse reaction,293495006,433712011
+Hypertension,U60C500,404471000006113,"[X]Oth antihyperten drug caus advers eff in therap use, NEC",293495006,433712011
+Hypertension,U60C511,356121000006111,[X] Adverse reaction to other antihypertensives,293495006,433712011
+Hypertension,U60C51A,351481000006111,[X] Adverse reaction to antihypertensives NOS,293495006,433712011

@@ -1,0 +1,70 @@
+Condition,ReadCode,MedCodeId,Term,SnomedCTConceptId,SnomedCTDescriptionId
+Other haemolytic anaemias,1453.00,251615015,H/O: haemolytic anaemia,161458005,251615015
+Other haemolytic anaemias,D1...00,813861000006112,Haemolytic anaemia,61261009,498963016
+Other haemolytic anaemias,D10..00,821381000006117,Hereditary haemolytic anaemia,38911009,491833015
+Other haemolytic anaemias,D100.00,93126010,Hereditary spherocytosis,55995005,93126010
+Other haemolytic anaemias,D100.11,452811000006116,Acholuric familial jaundice,55995005,93126010
+Other haemolytic anaemias,D100.12,701811000006113,Minkowski - Chauffard syndrome,55995005,93126010
+Other haemolytic anaemias,D101.00,293984013,Hereditary elliptocytosis,191169008,293984013
+Other haemolytic anaemias,D101.11,253601000006110,Ovalocytosis - hereditary,191169008,293984013
+Other haemolytic anaemias,D102.00,293986010,Haemolytic anaemia due to glutathione metabolism disorder,191170009,293986010
+Other haemolytic anaemias,D102000,499268014,Glucose-6-phosphate dehydrogenase deficiency anaemia,62403005,499268014
+Other haemolytic anaemias,D102100,293989015,Favism,191172001,293989015
+Other haemolytic anaemias,D102200,477268010,Drug-induced enzyme deficiency anaemia,15276008,477268010
+Other haemolytic anaemias,D103000,293999013,Haemolytic anaemia due to hexokinase deficiency,191177007,293999013
+Other haemolytic anaemias,D103100,294000010,Haemolytic anaemia due to pyruvate kinase deficiency,191178002,294000010
+Other haemolytic anaemias,D103300,294004018,Anaemia due to disorders of nucleotide metabolism,191180008,294004018
+Other haemolytic anaemias,D103z00,294007013,Enzyme deficiency haemolytic anaemia NOS,38911009,65264014
+Other haemolytic anaemias,D107.00,294066018,Haemoglobinopathy,80141007,504350016
+Other haemolytic anaemias,D107000,582791000006119,Congenital Heinz-body anaemia,18273004,478541012
+Other haemolytic anaemias,D107100,821561000006115,Hereditary persistence of fetal haemoglobin,191201002,294072018
+Other haemolytic anaemias,D107111,294068017,Hb F disease,191201002,294068017
+Other haemolytic anaemias,D107200,496520018,Haemoglobin Bart's disease,5300004,496520018
+Other haemolytic anaemias,D107300,813711000006117,Haemoglobin C disease,51053007,495889019
+Other haemolytic anaemias,D107400,813721000006113,Haemoglobin D disease,66729008,500509016
+Other haemolytic anaemias,D107500,813731000006111,Haemoglobin E disease,25065001,482565014
+Other haemolytic anaemias,D107600,294074017,Haemoglobin Zurich disease,191202009,294074017
+Other haemolytic anaemias,D107700,813741000006118,Haemoglobin H disease,48553001,495133013
+Other haemolytic anaemias,D107y00,294075016,Other specified other haemoglobinopathy,80141007,504350016
+Other haemolytic anaemias,D107z00,294078019,Haemoglobinopathy,80141007,504350016
+Other haemolytic anaemias,D10y.00,294079010,Other specified hereditary haemolytic anaemias,38911009,65264014
+Other haemolytic anaemias,D10y000,6528016,Stomatocytosis,3272007,6528016
+Other haemolytic anaemias,D10yz00,294082017,Other specified hereditary haemolytic anaemia NOS,38911009,491833015
+Other haemolytic anaemias,D10z.00,294085015,Hereditary haemolytic anaemia NOS,38911009,491833015
+Other haemolytic anaemias,D11..00,454071000006113,Acquired haemolytic anaemia,4854004,495128014
+Other haemolytic anaemias,D110.00,500191000006115,Autoimmune haemolytic anaemia,413603009,2533078010
+Other haemolytic anaemias,D110.11,594781000006111,Coombs positive haemolysis,413603009,2533078010
+Other haemolytic anaemias,D110000,294093015,Primary cold-type haemolytic anaemia,191210005,294093015
+Other haemolytic anaemias,D110100,294094014,Primary warm-type haemolytic anaemia,191211009,294094014
+Other haemolytic anaemias,D110200,294097019,Secondary cold-type haemolytic anaemia,191212002,294097019
+Other haemolytic anaemias,D110400,453221019,Drug-induced autoimmune haemolytic anaemia,309742004,453221019
+Other haemolytic anaemias,D110z00,294102016,Autoimmune haemolytic anaemia NOS,413603009,2533078010
+Other haemolytic anaemias,D111.00,294105019,Non-autoimmune haemolytic anaemia,191216004,294105019
+Other haemolytic anaemias,D111000,294106018,Mechanical haemolytic anaemia,191217008,294106018
+Other haemolytic anaemias,D111100,495896017,Microangiopathic haemolytic anaemia,51071000,495896017
+Other haemolytic anaemias,D111300,813941000006115,Haemolytic uraemic syndrome,111407006,362056017
+Other haemolytic anaemias,D111400,504771011,Drug-induced haemolytic anaemia,81711008,504771011
+Other haemolytic anaemias,D111500,294111016,Haemolytic anaemia due to infection,38689004,491727016
+Other haemolytic anaemias,D111y00,294112011,Other specified non-autoimmune haemolytic anaemia,191216004,294104015
+Other haemolytic anaemias,D111z00,294115013,Non-autoimmune haemolytic anaemia NOS,191216004,294105019
+Other haemolytic anaemias,D112.00,294116014,Haemoglobinuria due to haemolysis from external causes,191222008,294116014
+Other haemolytic anaemias,D112000,1490208011,Haemoglobinuria from exertion,387744007,1490208011
+Other haemolytic anaemias,D112011,1476204014,March haemoglobinuria,387744007,1476204014
+Other haemolytic anaemias,D112012,717901000006114,Marchiafava - Micheli syndrome,387744007,1476204014
+Other haemolytic anaemias,D112100,479750016,Paroxysmal nocturnal haemoglobinuria,1963002,479750016
+Other haemolytic anaemias,D112200,474048019,Paroxysmal cold haemoglobinuria,127057004,474048019
+Other haemolytic anaemias,D112z00,399210014,Haemoglobinuria due to haemolysis from external cause NOS,191222008,294116014
+Other haemolytic anaemias,D112z11,571901000006110,Cold haemoglobinuria,127057004,345016
+Other haemolytic anaemias,D112z12,351137013,Acquired haemolytic anaemia with haemoglobinuria NEC,191222008,294116014
+Other haemolytic anaemias,D112z13,351136016,Paroxysmal haemoglobinuria NOS,191222008,294116014
+Other haemolytic anaemias,D11z.00,294139015,Acquired haemolytic anaemia NOS,4854004,495128014
+Other haemolytic anaemias,D11z000,294141019,Acquired spherocytosis,191228007,294141019
+Other haemolytic anaemias,D11z100,294142014,"Pyknocytosis, infantile",191229004,294142014
+Other haemolytic anaemias,D1y..00,294144010,Other specified haemolytic anaemias,61261009,101791014
+Other haemolytic anaemias,D1z..00,294145011,Haemolytic anaemias NOS,61261009,498963016
+Other haemolytic anaemias,Dyu1.00,294582012,[X]Haemolytic anaemias,61261009,498963016
+Other haemolytic anaemias,Dyu1300,294589015,Haemoglobinopathy,80141007,178831017
+Other haemolytic anaemias,Dyu1500,294593014,[X]Other autoimmune haemolytic anaemias,413603009,2533077017
+Other haemolytic anaemias,Q430.00,1216755016,Perinatal jaundice from hereditary haemolytic anaemias,56921004,1216755016
+Other haemolytic anaemias,Q430000,679701000006118,Neonatal jaundice with glucose-6-phosphate dehydrogenase deficiency,206439006,316602011
+Other haemolytic anaemias,Q430z00,316603018,Perinatal jaundice from hereditary haemolytic anaemia,56921004,497721010

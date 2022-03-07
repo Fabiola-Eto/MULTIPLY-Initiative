@@ -1,0 +1,52 @@
+Condition,ReadCode,MedCodeId,Term,SnomedCTConceptId,SnomedCTDescriptionId
+Immunodeficiencies,C390.00,398902012,Deficiencies of humoral immunity,267459007,398902012
+Immunodeficiencies,C390.11,452781013,Agammaglobulinaemia,119249001,452781013
+Immunodeficiencies,C390000,293658016,Hypogammaglobulinaemia,119250001,452792014
+Immunodeficiencies,C390100,293660019,Selective IgA immunodeficiency,190979003,293660019
+Immunodeficiencies,C390200,293662010,Selective IgM immunodeficiency,190980000,293662010
+Immunodeficiencies,C390300,293665012,Selective IgG immunodeficiency,190981001,293665012
+Immunodeficiencies,C390400,293666013,Selective immunoglobulin dysfunction,234535004,351402018
+Immunodeficiencies,C390500,398903019,Congenital hypogammaglobulinaemia,267460002,398903019
+Immunodeficiencies,C390511,500241011,Bruton's agammaglobulinaemia,65880007,500241011
+Immunodeficiencies,C390512,589121000006113,X-linked agammaglobulinaemia,65880007,500240012
+Immunodeficiencies,C390600,1216993016,Immunodeficiency with IgM hypergammaglobulinaemia,82286005,1216993016
+Immunodeficiencies,C390700,574941000006114,Common variable immunodeficiency,23238000,481559011
+Immunodeficiencies,C390800,96071000006117,Transient infant hypogammaglobulinaemia,88714009,508154013
+Immunodeficiencies,C390900,293678012,Agammaglobulinaemia NEC,119249001,452781013
+Immunodeficiencies,C390A00,293679016,Dysimmunoglobulinaemia NEC,103075007,166572019
+Immunodeficiencies,C390A11,633031000006112,Dysgammaglobulinaemia NEC,103075007,166572019
+Immunodeficiencies,C390B00,487321000006110,Antibody deficiency with near-normal immunoglobulins or with hyperimmunoglobulinaemia,190986006,293682014
+Immunodeficiencies,C390y00,293683016,Other specified deficiency of humoral immunity,103075007,166572019
+Immunodeficiencies,C390z00,293684010,Deficiency of humoral immunity NOS,103075007,166572019
+Immunodeficiencies,C391.00,1786202010,Deficiencies of cell-mediated immunity,398293003,1786202010
+Immunodeficiencies,C391000,398905014,Predominantly T-cell immuno-deficiency NOS,398293003,1777833015
+Immunodeficiencies,C391011,1777625018,T-lymphocyte deficiency,398055000,1777625018
+Immunodeficiencies,C391012,540601000006112,Cellular immunity syndrome,398271008,1777815014
+Immunodeficiencies,C391100,616061000006115,DiGeorge syndrome,767263007,3670122015
+Immunodeficiencies,C391200,53821000006111,Wiskott-Aldrich syndrome,36070007,60191017
+Immunodeficiencies,C391211,100341000006117,Thrombocytopenic eczema with immunodeficiency,36070007,60191017
+Immunodeficiencies,C392.00,574381000006116,Combined immunity deficiency,31323000,484843018
+Immunodeficiencies,C392100,484842011,Severe combined immunodeficiency,31323000,484842011
+Immunodeficiencies,C392111,111721000006119,Swiss type agammaglobulinaemia,765145001,3657185019
+Immunodeficiencies,C392200,293703013,Thymic aplasia or dysplasia with immunodeficiency,190995003,293703013
+Immunodeficiencies,C392300,293704019,Severe combined immunodefiency with reticular dysgenesis,190996002,293704019
+Immunodeficiencies,C392400,146011000006112,Severe combined immunodeficiency with low T- and B-cell numbers,190997006,293705018
+Immunodeficiencies,C392500,146001000006114,Severe combined immunodeficiency with low or normal B-cell numbers,190998001,293706017
+Immunodeficiencies,C392600,74969018,Adenosine deaminase deficiency,44940001,74969018
+Immunodeficiencies,C392700,198990011,Purine nucleoside phosphorylase deficiency,60743005,198990011
+Immunodeficiencies,C392800,293709012,Major histocompatibility complex class I deficiency,191001007,293709012
+Immunodeficiencies,C392900,293710019,Major histocompatibility complex class II deficiency,191002000,293710019
+Immunodeficiencies,C392z00,293711015,Combined immunity deficiency NOS,31323000,52382015
+Immunodeficiencies,C393.00,293714011,Immunodeficiency disorder,234532001,351393018
+Immunodeficiencies,C395.00,482838012,Immunodeficiency with short-limbed stature,25109007,482838012
+Immunodeficiencies,C396.00,784721000006114,Immunodeficiency following hereditary defective response to Epstein-Barr virus,191008001,293717016
+Immunodeficiencies,C397.00,495839010,Hyperimmunoglobulin E syndrome,50926003,495839010
+Immunodeficiencies,C398.00,481559011,Common variable immunodeficiency,23238000,481559011
+Immunodeficiencies,C398000,574181000006118,Common variable immunodeficiency with predominant abnormalities of B-cell numbers and functions,191011000,293720012
+Immunodeficiencies,C398200,574931000006116,Common variable immunodeficiency with autoantibodies to B- or T-cells,191013002,293722016
+Immunodeficiencies,C39X.00,784731000006112,"Immunodeficiency associated+major defect, unspecified",234631003,351566015
+Immunodeficiencies,C39y000,293727010,Lymphocyte function antigen-1 defect,191018006,293727010
+Immunodeficiencies,Cyu0000,411031000006119,[X]Other immunodeficiencies+predominantly antibody defects,234532001,351393018
+Immunodeficiencies,Cyu0100,293737017,[X]Other combined immunodeficiency disorders,234532001,351393018
+Immunodeficiencies,Cyu0400,293740017,[X]Other common variable immunodeficiencies,234532001,351393018
+Immunodeficiencies,Cyu0500,293741018,[X]Other specified immunodeficiency disorders,234532001,351393018

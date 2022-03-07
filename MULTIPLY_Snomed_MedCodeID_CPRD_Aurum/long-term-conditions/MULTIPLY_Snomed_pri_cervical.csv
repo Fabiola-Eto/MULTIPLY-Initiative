@@ -1,0 +1,18 @@
+Condition,ReadCode,MedCodeId,Term,SnomedCTConceptId,SnomedCTDescriptionId
+Primary malignancy cervical,B41..00,1228493018,Malignant neoplasm of cervix uteri,363354003,1228493018
+Primary malignancy cervical,B41..11,543481000006111,Malignant tumour of cervix,363354003,482507015
+Primary malignancy cervical,B410.00,155218017,Malignant neoplasm of endocervix,372097009,1210675010
+Primary malignancy cervical,B410000,289171010,Malignant neoplasm of endocervical canal,188176007,289171010
+Primary malignancy cervical,B410100,289172015,Malignant neoplasm of endocervical gland,188177003,289172015
+Primary malignancy cervical,B410z00,289173013,Malignant neoplasm of endocervix NOS,372097009,1210675010
+Primary malignancy cervical,B411.00,155231010,Malignant neoplasm of exocervix,372099007,1210677019
+Primary malignancy cervical,B412.00,289175018,"Malignant neoplasm, overlapping lesion of cervix uteri",188180002,289175018
+Primary malignancy cervical,B41y.00,289178016,Malignant neoplasm of other site of cervix,363354003,482507015
+Primary malignancy cervical,B41y000,289179012,Malignant neoplasm of cervical stump,188183000,289179012
+Primary malignancy cervical,B41y100,289180010,Malignant neoplasm of squamocolumnar junction of cervix,188184006,289180010
+Primary malignancy cervical,B41yz00,289181014,Malignant neoplasm of other site of cervix NOS,363354003,482507015
+Primary malignancy cervical,B41z.00,289182019,Malignant neoplasm of cervix uteri NOS,363354003,1228493018
+Primary malignancy cervical,B831.00,153129011,CIS - Carcinoma in situ of cervix,92564006,1235742017
+Primary malignancy cervical,B831000,153146014,Carcinoma in situ of endocervix,92580001,153146014
+Primary malignancy cervical,B831100,153157016,Carcinoma in situ of exocervix,92588008,153157016
+Primary malignancy cervical,ZV10411,1227572017,[V]Personal history of malignant neoplasm of cervix uteri,429484003,2694573016

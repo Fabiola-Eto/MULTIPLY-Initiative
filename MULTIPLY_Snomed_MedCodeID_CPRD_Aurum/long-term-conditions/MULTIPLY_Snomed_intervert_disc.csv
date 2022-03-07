@@ -1,0 +1,174 @@
+Condition,ReadCode,MedCodeId,Term,SnomedCTConceptId,SnomedCTDescriptionId
+Intervertebral disc disorders,7J20.00,276261011,Primary excision of cervical intervertebral disc,178517008,276261011
+Intervertebral disc disorders,7J20000,204651000006119,Primary laminectomy excision of cervical intervertebral disc,178518003,276263014
+Intervertebral disc disorders,7J20100,210761000006117,Primary hemilaminectomy excision of cervical intervertebral disc,178520000,276265019
+Intervertebral disc disorders,7J20200,210631000006117,Primary fenestration excision of cervical intervertebral disc,31694007,484975019
+Intervertebral disc disorders,7J20300,209131000006117,Primary anterior excision of cervical intervertebral disc and interbody fusion of joint of cervical spine,265709001,394575012
+Intervertebral disc disorders,7J20400,276274017,Primary posterior excision of cervical intervertebral disc,178523003,276274017
+Intervertebral disc disorders,7J20600,209141000006110,Primary anterior excision of cervical intervertebral disc,448206004,1780431000000117
+Intervertebral disc disorders,7J20700,276277012,Primary microdiscectomy of cervical intervertebral disc,178526006,276277012
+Intervertebral disc disorders,7J20800,451070016,Primary laser excision of cervical intervertebral disc,307721006,451070016
+Intervertebral disc disorders,7J20y00,210441000006113,Primary excision of cervical intervertebral disc OS,178517008,276261011
+Intervertebral disc disorders,7J20z00,276281012,Primary excision of cervical intervertebral disc NOS,178517008,276261011
+Intervertebral disc disorders,7J21.00,167621000006115,Revisional excision of cervical intervertebral disc operations,178530009,276283010
+Intervertebral disc disorders,7J21000,167781000006110,Revisional laminectomy excision of cervical intervertebral disc,178531008,276284016
+Intervertebral disc disorders,7J21100,167771000006112,Revisional hemilaminectomy excision of cervical intervertebral disc,178532001,276285015
+Intervertebral disc disorders,7J21200,167701000006118,Revisional fenestration excision of cervical intervertebral disc,178533006,276286019
+Intervertebral disc disorders,7J21300,276287011,Revision anterior excision cervical disc and fusion,178534000,276287011
+Intervertebral disc disorders,7J21400,167881000006117,Revisional posterior excision of cervical intervert disc NEC,178530009,276282017
+Intervertebral disc disorders,7J21600,167461000006112,Revisional anterior excision cervical intervert disc NEC,178530009,276282017
+Intervertebral disc disorders,7J21700,276291018,Revisional microdiscectomy of cervical intervertebral disc,178538002,276291018
+Intervertebral disc disorders,7J21y00,167631000006117,Revisional excision of cervical intervertebral disc OS,178530009,276282017
+Intervertebral disc disorders,7J21z00,276293015,Revisional excision of cervical intervertebral disc NOS,178530009,276282017
+Intervertebral disc disorders,7J23000,276310015,Primary anterior excision thoracic disc and fusion,178551007,276310015
+Intervertebral disc disorders,7J23100,209201000006115,Primary anterolateral excision thoracic intervert disc NEC,273995009,409725013
+Intervertebral disc disorders,7J23200,276312011,Primary costotransversectomy of thoracic intervertebral disc,178553005,276312011
+Intervertebral disc disorders,7J23300,276313018,Primary posterior decompression of thoracic disc,178554004,276313018
+Intervertebral disc disorders,7J23400,276314012,Primary anterolateral biopsy of thoracic intervertebral disc,178555003,276314012
+Intervertebral disc disorders,7J23900,276319019,Excision of thoracic intervertebral disc,302481001,444174018
+Intervertebral disc disorders,7J23w00,210491000006116,Primary excision of thoracic intervertebral disc OS,273995009,409725013
+Intervertebral disc disorders,7J23x00,276323010,Primary excision thoracic intervertebral disc,273995009,409725013
+Intervertebral disc disorders,7J24200,167541000006114,Revisional costotransversectomy of thoracic intervertebral disc,178570002,276329014
+Intervertebral disc disorders,7J24300,276330016,Revisional posterior decompression of thoracic disc,178571003,276330016
+Intervertebral disc disorders,7J24600,276333019,Revision excision thoracic intervertebral disc,273996005,409726014
+Intervertebral disc disorders,7J24A00,1552401000006111,Revis anterol exc thoracic intervertebral disc graft HFQ,273996005,409726014
+Intervertebral disc disorders,7J24B00,1552411000006114,Revisional percutaneous endoscopic excision of thoracic intervertebral disc,230601000000107,370381000000116
+Intervertebral disc disorders,7J24x00,276340018,Revisional excision thoracic intervertebral disc NOS,273996005,409726014
+Intervertebral disc disorders,7J27.00,2674374019,Prosthetic replacement of intervertebral disc,425809005,2674374019
+Intervertebral disc disorders,7J27000,2674324016,Prosthetic replacement of cervical intervertebral disc,427424009,2674324016
+Intervertebral disc disorders,7J27100,2675990016,Prosthetic replacement of thoracic intervertebral disc,426632004,2675990016
+Intervertebral disc disorders,7J27200,2674323010,Prosthetic replacement of lumbar intervertebral disc,425594003,2674323010
+Intervertebral disc disorders,7J27z00,381261000000117,Prosthetic replacement of intervertebral disc NOS,425809005,2674374019
+Intervertebral disc disorders,7J32.00,276388015,Primary lumbar discectomy,178618008,276388015
+Intervertebral disc disorders,7J32.11,276390019,Primary excision of lumbar intervertebral disc,178618008,276390019
+Intervertebral disc disorders,7J32.12,276389011,Primary removal of lumbar intervertebral disc,178618008,276389011
+Intervertebral disc disorders,7J32000,276391015,Primary laminectomy excision of lumbar intervertebral disc,178619000,276391015
+Intervertebral disc disorders,7J32100,276392010,Primary fenestration excision of lumbar disc,178620006,276392010
+Intervertebral disc disorders,7J32111,276393017,Primary fenestration of lumbar intervertebral disc,178620006,276393017
+Intervertebral disc disorders,7J32200,394580015,Primary anterior excision of lumbar disc and fusion,265714002,394580015
+Intervertebral disc disorders,7J32211,794381000006113,Freebody anterior excision lumbar IV disc & interbody fusion,265714002,394580015
+Intervertebral disc disorders,7J32300,276397016,Primary anterior excision of lumbar disc NEC,178618008,276388015
+Intervertebral disc disorders,7J32400,209161000006114,Primary anterior excision of lumbar disc and posterior fusion,178623008,276398014
+Intervertebral disc disorders,7J32500,209111000006111,Primary anterior excision of lumbar disc and posterior instrumentation,178624002,276399018
+Intervertebral disc disorders,7J32600,276400013,Primary lumbar microdiscectomy,178625001,276400013
+Intervertebral disc disorders,7J32700,276401012,Primary posterior excision of lumbar disc,178626000,276401012
+Intervertebral disc disorders,7J32800,451069017,Primary laser excision of lumbar intervertebral disc,307720007,451069017
+Intervertebral disc disorders,7J32900,453172019,Primary percutaneous intradiscal lumbar discectomy,309702009,453172019
+Intervertebral disc disorders,7J32y00,276404016,Other specified primary lumbar discectomy,178618008,276388015
+Intervertebral disc disorders,7J32z00,276405015,Primary excision of lumbar intervertebral disc NOS,178618008,276388015
+Intervertebral disc disorders,7J33.00,276406019,Revisional lumbar discectomy,178631003,276406019
+Intervertebral disc disorders,7J33.11,276407011,Revisional excision of lumbar intervertebral disc,178631003,276407011
+Intervertebral disc disorders,7J33.12,276408018,Revisional removal of lumbar intervertebral disc,178631003,276408018
+Intervertebral disc disorders,7J33000,167791000006113,Revisional laminectomy excision of lumbar intervertebral disc,178632005,276409014
+Intervertebral disc disorders,7J33100,167711000006115,Revisional fenestration excision of lumbar intervertebral disc,178633000,276410016
+Intervertebral disc disorders,7J33200,276411017,Revisional anterior excision of lumbar disc and fusion,178634006,276411017
+Intervertebral disc disorders,7J33300,276412012,Revisional anterior excision of lumbar disc NEC,178631003,276406019
+Intervertebral disc disorders,7J33400,167491000006116,Revisional anterior excision of lumbar disc and posterior fusion,265715001,394581016
+Intervertebral disc disorders,7J33411,167501000006112,Revisional anterior excision of lumbar disc and post fusion,265715001,394581016
+Intervertebral disc disorders,7J33600,276417018,Revisional lumbar microdiscectomy,178638009,276417018
+Intervertebral disc disorders,7J33700,276418011,Revisional posterior excision of lumbar disc,178639001,276418011
+Intervertebral disc disorders,7J33y00,276419015,Other specified revisional lumbar discectomy,178631003,276406019
+Intervertebral disc disorders,7J33z00,276420014,Revisional excision of lumbar intervertebral disc NOS,178631003,276406019
+Intervertebral disc disorders,7J40.00,276454010,Operation on intervertebral disc,239540005,358953018
+Intervertebral disc disorders,7J40000,1231336011,Enzyme destruction of intervertebral disc,54460006,1231336011
+Intervertebral disc disorders,7J40300,276457015,Destruction of intervertebral disc,112725002,183722019
+Intervertebral disc disorders,7J40400,276458013,Excision of intervertebral disc,3418002,6764018
+Intervertebral disc disorders,7J40500,276459017,Primary excision of intervertebral disc,450782005,2916984013
+Intervertebral disc disorders,7J40600,276460010,Revisional excision of intervertebral disc NEC,3418002,6760010
+Intervertebral disc disorders,7J40700,276461014,Percutaneous discectomy,178668000,276461014
+Intervertebral disc disorders,7J40A00,276462019,Laser discectomy,178669008,276462019
+Intervertebral disc disorders,7J40w00,276463012,Other specified excision of intervertebral disc,3418002,6760010
+Intervertebral disc disorders,7J40x00,276464018,Excision of intervertebral disc NOS,3418002,6760010
+Intervertebral disc disorders,7J40y00,276465017,Other specified operation on intervertebral disc,239540005,358953018
+Intervertebral disc disorders,7J40z00,276466016,Operation on intervertebral disc NOS,239540005,358953018
+Intervertebral disc disorders,7J4H.00,1552951000006116,Primary automated percutaneous mechanical excision of intervertebral disc,231301000000107,371781000000112
+Intervertebral disc disorders,7J4H000,1552961000006119,Primary automated percutaneous mechanical excision of cervical intervertebral disc,238001000000100,385661000000117
+Intervertebral disc disorders,7J4H200,1552981000006112,Primary automated percutaneous mechanical excision of lumbar intervertebral disc,235051000000107,379581000000118
+Intervertebral disc disorders,7J4J.00,1553011000006114,Revisional automated percutaneous mechanical excision of intervertebral disc,707839004,3032500013
+Intervertebral disc disorders,7J4J000,1553021000006118,Revisional automated percutaneous mechanical excision of cervical intervertebral disc,707838007,3032498012
+Intervertebral disc disorders,7J4J200,1553041000006113,Revisional automated percutaneous mechanical excision of lumbar intervertebral disc,707841003,3032504016
+Intervertebral disc disorders,7J4K.00,1553071000006117,Primary percutaneous decompression using coblation to intervertebral disc,232481000000100,374361000000116
+Intervertebral disc disorders,7J4K000,1553081000006119,Primary percutaneous decompression using coblation to cervical intervertebral disc,238281000000103,386251000000111
+Intervertebral disc disorders,7J4K100,1553091000006116,Primary percutaneous decompression using coblation to thoracic intervertebral disc,238291000000101,386281000000117
+Intervertebral disc disorders,7J4Kz00,1553121000006117,Primary percutaneous decompres coblation intervert disc NOS,232481000000100,374351000000119
+Intervertebral disc disorders,7J4L.00,1553131000006119,Revisional percutaneous decompression using coblation to intervertebral disc,232491000000103,374391000000110
+Intervertebral disc disorders,7J4L000,1553141000006112,Revisional percutaneous decompression using coblation to cervical intervertebral disc,236631000000103,382871000000119
+Intervertebral disc disorders,7J4L100,1553151000006114,Revisional percutaneous decompression using coblation to thoracic intervertebral disc,236641000000107,382901000000119
+Intervertebral disc disorders,7J4L200,1553161000006111,Revisional percutaneous decompression using coblation to lumbar intervertebral disc,236651000000105,382931000000113
+Intervertebral disc disorders,7J4M000,1553201000006117,Primary percutaneous intradiscal thermocoagulation of cervical intervertebral disc using radiofrequency probe,429558007,2772706015
+Intervertebral disc disorders,7J4M200,1553221000006110,Primary percutaneous intradiscal thermocoagulation of lumbar intervertebral disc using radiofrequency probe,429617005,2693452014
+Intervertebral disc disorders,7J4My00,1553231000006113,OS pri perc intrad radiofreq thermocoag lumb intervert disc,239540005,358953018
+Intervertebral disc disorders,7J4Mz00,1553241000006115,Prim per intrad radiofreq thermocoag lumb intervert disc NOS,239540005,358953018
+Intervertebral disc disorders,7J4N.00,1553251000006118,Revision of percutaneous intradiscal thermocoagulation of intervertebral disc using radiofrequency probe,441589004,2816945016
+Intervertebral disc disorders,F163000,297148015,Myelopathy due to intervertebral disc disease,192905004,297148015
+Intervertebral disc disorders,F337100,677791000006119,Nerve root and plexus compressions in intervertebral disc disorders,193119005,297464016
+Intervertebral disc disorders,N12..00,219621000000118,Disorder of intervertebral disc,36427004,1228648018
+Intervertebral disc disorders,N12..11,502479013,Displacement of intervertebral disc,73589001,502479013
+Intervertebral disc disorders,N12..12,502473014,Slipped intervertebral disc,73589001,502473014
+Intervertebral disc disorders,N120.00,400273014,Cervical disc displacement without myelopathy,267974002,400273014
+Intervertebral disc disorders,N120.11,400272016,Prolapsed cervical intervertebral disc without myelopathy,267974002,400272016
+Intervertebral disc disorders,N120.12,543591000006113,Prolapsed cervical intervertebral disc,240215009,359856016
+Intervertebral disc disorders,N121.00,311131010,Thoracic disc displacement without myelopathy,202707000,311131010
+Intervertebral disc disorders,N121.11,311130011,Prolapsed thoracic intervertebral disc without myelopathy,202707000,311130011
+Intervertebral disc disorders,N122.00,733681000006111,Lumbar disc displacement,202708005,311132015
+Intervertebral disc disorders,N122.11,311132015,Prolapsed lumbar intervertebral disc,202708005,311132015
+Intervertebral disc disorders,N122.12,2402821000000112,Lumber disc bulge,202708005,2402821000000112
+Intervertebral disc disorders,N123.00,400274015,"Disc displacement, site unspecified, without myelopathy",240213002,359854018
+Intervertebral disc disorders,N123.11,359855017,Intervertebral disc prolapse,73589001,122194016
+Intervertebral disc disorders,N123.12,359854018,Prolapsed intervertebral disc without myelopathy,240213002,359854018
+Intervertebral disc disorders,N124.00,75341011,Schmorl's nodes,45181002,75341011
+Intervertebral disc disorders,N124000,311137014,Schmorl's nodes of unspecified region,45181002,75341011
+Intervertebral disc disorders,N124100,155341000006118,Schmorl's nodes of thoracic region,86804002,143963017
+Intervertebral disc disorders,N124200,155331000006111,Schmorl's nodes of lumbar region,29574001,49481016
+Intervertebral disc disorders,N124z00,311140014,"Schmorl's nodes, region NOS",45181002,75341011
+Intervertebral disc disorders,N125.00,543561000006117,Degeneration of cervical intervertebral disc,69195002,114931012
+Intervertebral disc disorders,N126.00,106481000006117,Degeneration of thoracic intervertebral disc,68675004,114066012
+Intervertebral disc disorders,N127.00,733661000006118,Degeneration of lumbar intervertebral disc,26538006,44436017
+Intervertebral disc disorders,N128.00,311141013,Degenerative disc disease,77547008,128728011
+Intervertebral disc disorders,N129.00,400275019,Disc disorder with myelopathy,267976000,400275019
+Intervertebral disc disorders,N129.11,202401000006112,Prolapsed intervertebral disc with associated myelopathy,202728009,311159011
+Intervertebral disc disorders,N129000,311145016,Unspecified disc disorder with myelopathy,267976000,400275019
+Intervertebral disc disorders,N129100,311146015,Cervical disc disorder with myelopathy,202717005,311146015
+Intervertebral disc disorders,N129200,311147012,Thoracic disc disorder with myelopathy,202718000,311147012
+Intervertebral disc disorders,N129300,311148019,Lumbar disc disorder with myelopathy,202719008,311148019
+Intervertebral disc disorders,N129z00,311149010,Disc disorder with myelopathy NOS,267976000,400275019
+Intervertebral disc disorders,N12B.00,311159011,Disc prolapse with myelopathy,202728009,311159011
+Intervertebral disc disorders,N12B000,311160018,Cervical disc prolapse with myelopathy,202729001,311160018
+Intervertebral disc disorders,N12B100,311161019,Thoracic disc prolapse with myelopathy,202730006,311161019
+Intervertebral disc disorders,N12B200,311162014,Lumbar disc prolapse with myelopathy,202731005,311162014
+Intervertebral disc disorders,N12C.00,311163016,Disc prolapse with radiculopathy,202732003,311163016
+Intervertebral disc disorders,N12C000,311164010,Cervical disc prolapse with radiculopathy,202733008,311164010
+Intervertebral disc disorders,N12C100,311167015,Thoracic disc prolapse with radiculopathy,202734002,311167015
+Intervertebral disc disorders,N12C200,311168013,Lumbar disc prolapse with radiculopathy,202735001,311168013
+Intervertebral disc disorders,N12C300,311170016,Lumbar disc prolapse with cauda equina compression,202736000,311170016
+Intervertebral disc disorders,N12C400,455431014,Prolapsed lumbar intervertebral disc with sciatica,311804006,455431014
+Intervertebral disc disorders,N12D.00,1219811017,Narrowing intervertebral disc space,11301007,1219811017
+Intervertebral disc disorders,N12z.00,311173019,Other and unspecified disc disorders,36427004,60784012
+Intervertebral disc disorders,N12z000,311174013,Other disc disorders of unspecified site,36427004,60784012
+Intervertebral disc disorders,N12z100,311175014,Cervical disc disorder,425878001,2674166010
+Intervertebral disc disorders,N12z200,311176010,Other thoracic disc disorders,36427004,60784012
+Intervertebral disc disorders,N12z300,311177018,Disorder of lumbar disc,443700006,2840290015
+Intervertebral disc disorders,N12z500,311179015,Annular tear of cervical disc,202745004,311179015
+Intervertebral disc disorders,N12z600,311180017,Resorption of cervical disc,202746003,311180017
+Intervertebral disc disorders,N12z700,311181018,Calcification of cervical disc,202747007,311181018
+Intervertebral disc disorders,N12z900,311183015,Annular tear of thoracic disc,202749005,311183015
+Intervertebral disc disorders,N12zB00,311185010,Calcification of thoracic disc,202751009,311185010
+Intervertebral disc disorders,N12zD00,311187019,Annular tear of lumbar disc,202753007,311187019
+Intervertebral disc disorders,N12zE00,311188012,Resorption of lumbar disc,202754001,311188012
+Intervertebral disc disorders,N12zF00,311189016,Calcification of lumbar disc,202755000,311189016
+Intervertebral disc disorders,N12zH00,311191012,Cervical disc disorder with radiculopathy,202757008,311191012
+Intervertebral disc disorders,N12zz00,311192017,Intervertebral disc disorder,36427004,60784012
+Intervertebral disc disorders,N3y0500,312501014,Intervertebral disc stenosis of neural canal,203713000,312501014
+Intervertebral disc disorders,N3y0700,589881000006115,Connective tissue and disc stenosis of intervertebral foramina,203715007,312503012
+Intervertebral disc disorders,Nyu7000,312620017,[X]Other cervical disc displacement,73589001,122194016
+Intervertebral disc disorders,Nyu7100,312621018,[X]Other cervical disc degeneration,69195002,114931012
+Intervertebral disc disorders,Nyu7200,312622013,[X]Other cervical disc disorders,425878001,2674166010
+Intervertebral disc disorders,Nyu7300,395361000006115,[X]Lumbar+other intervertebral disc disordrs with myelopathy,36427004,60784012
+Intervertebral disc disorders,Nyu7400,395351000006117,[X]Lumbar+other intervertbrl disc disordrs with radiculopthy,202732003,311163016
+Intervertebral disc disorders,Nyu7500,312625010,[X]Other specified intervertebral disc displacement,73589001,122194016
+Intervertebral disc disorders,Nyu7600,312626011,Degeneration of intervertebral disc,77547008,128725014
+Intervertebral disc disorders,Nyu7700,312627019,[X]Other specified intervertebral disc disorders,36427004,60784012
+Intervertebral disc disorders,Nyu7B00,312631013,"[X]Cervical disc disorder, unspecified",425878001,2674166010
+Intervertebral disc disorders,Zw04000,461573010,[Q] Central disc prolapse,73589001,122194016
+Intervertebral disc disorders,Zw04100,461574016,[Q] Posterolateral disc prolapse,73589001,122194016
+Intervertebral disc disorders,Zw04200,461575015,[Q] Sequestrated disc prolapse,73589001,122194016

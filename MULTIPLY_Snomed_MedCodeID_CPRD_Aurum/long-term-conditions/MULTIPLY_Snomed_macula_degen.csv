@@ -1,0 +1,11 @@
+Condition,ReadCode,MedCodeId,Term,SnomedCTConceptId,SnomedCTDescriptionId
+Macular degeneration,F424200,1231068014,Retinal pigment epithelium serous detachment,52002008,1231068014
+Macular degeneration,F424300,1216693019,Retinal pigment epithelium haemorrhagic detachment,50165004,1216693019
+Macular degeneration,F424400,347719019,Retinal pigment epithelial detachment,232067008,347719019
+Macular degeneration,F425.00,399433012,Degeneration of macula and posterior pole,267611002,399433012
+Macular degeneration,F425.11,399676018,Senile macular degeneration,267718000,399676018
+Macular degeneration,F425000,78571000006118,Age related macular degeneration,267718000,399670012
+Macular degeneration,F425100,2537365016,Dry senile macular degeneration,414875008,2537365016
+Macular degeneration,F425200,2538088014,Wet senile macular degeneration,414173003,2538088014
+Macular degeneration,F425211,753461000006116,Kuhnt - Junius degeneration,414173003,2538090010
+Macular degeneration,F425z00,297816017,Degeneration of macula or posterior pole NOS,267611002,399433012

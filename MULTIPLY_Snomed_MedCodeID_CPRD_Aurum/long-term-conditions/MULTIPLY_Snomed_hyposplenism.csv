@@ -1,0 +1,20 @@
+Condition,ReadCode,MedCodeId,Term,SnomedCTConceptId,SnomedCTDescriptionId
+Hyposplenism,14N7.00,811751000006115,H/O splenectomy,161626009,251865014
+Hyposplenism,7840.00,270732017,Total excision of spleen,174776001,270732017
+Hyposplenism,7840.11,98381000006117,Total splenectomy,174776001,270731012
+Hyposplenism,7840100,270731012,Total splenectomy,174776001,270731012
+Hyposplenism,7840300,270738018,Splenectomy,234319005,351029019
+Hyposplenism,7840400,458412019,Laparoscopic total splenectomy,314118002,458412019
+Hyposplenism,7840y00,270740011,Other specified total excision of spleen,174776001,270731012
+Hyposplenism,7840z00,270741010,Total excision of spleen NOS,174776001,270731012
+Hyposplenism,7841.00,270742015,Other excision of spleen,234319005,351029019
+Hyposplenism,7841y00,270743013,Other specified other excision of spleen,234319005,351029019
+Hyposplenism,7841z00,270744019,Other excision of spleen NOS,234319005,351029019
+Hyposplenism,D415400,137496011,Splenic atrophy,82893001,1234749016
+Hyposplenism,D415600,93688010,Splenic fibrosis,56338005,93688010
+Hyposplenism,D415700,38632019,Infarction of spleen,22996003,1223010014
+Hyposplenism,D415800,1229978015,Non-traumatic rupture of spleen,43325004,1229978015
+Hyposplenism,D415A00,39894011,Hyposplenism,23761004,39894011
+Hyposplenism,PK01.00,222151000000115,Spleen absent,300564004,441642013
+Hyposplenism,PK01.11,215631000000118,Asplenia,707147002,3028874013
+Hyposplenism,PK06.00,315505011,Hypoplasia of spleen,205735005,315505011

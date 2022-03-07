@@ -1,0 +1,27 @@
+Condition,ReadCode,MedCodeId,Term,SnomedCTConceptId,SnomedCTDescriptionId
+Scoliosis,2376.00,253939017,O/E - kyphoscoliotic chest deformity,162929002,2899308012
+Scoliosis,7J44111,632801000006118,Dwyer anterior wiring of spine for scoliosis,265724005,394590011
+Scoliosis,G411.00,76126013,Kyphoscoliotic heart disease,45650007,76126013
+Scoliosis,N373.00,312419019,Kyphoscoliosis and scoliosis,203638000,312419019
+Scoliosis,N373000,312420013,Idiopathic scoliosis,203639008,312420013
+Scoliosis,N373100,312421012,Idiopathic kyphoscoliosis,203640005,312421012
+Scoliosis,N373200,48227012,Resolving infantile idiopathic scoliosis,28801006,48227012
+Scoliosis,N373300,35274016,Progressive infantile idiopathic scoliosis,20980008,35274016
+Scoliosis,N373500,121239018,Thoracogenic scoliosis,72992003,121239018
+Scoliosis,N373600,312426019,Postural scoliosis,203645000,312426019
+Scoliosis,N373700,312428018,Adolescent idiopathic scoliosis,203646004,312428018
+Scoliosis,N373800,312429014,Post-surgical scoliosis,203647008,312429014
+Scoliosis,N373900,312430016,Scoliosis secondary to other treatment,64217002,106745019
+Scoliosis,N373z00,312431017,Kyphoscoliosis or scoliosis NOS,64217002,106745019
+Scoliosis,N374.11,752841000006112,Kyphoscoliosis deformity of spine,405773007,2157549017
+Scoliosis,N374300,312438011,Scoliosis associated with other condition,64217002,106745019
+Scoliosis,N374A00,312445011,Scoliosis in skeletal dysplasia,203661003,312445011
+Scoliosis,N374B00,312446012,Neuromuscular scoliosis,203662005,312446012
+Scoliosis,N374C00,312447015,Scoliosis in neurofibromatosis,203663000,312447015
+Scoliosis,N374D00,312448013,Scoliosis in connective tissue anomalies,203664006,312448013
+Scoliosis,Nyu5300,312596011,[X]Other idiopathic scoliosis,203639008,312420013
+Scoliosis,Nyu5400,312597019,Acquired scoliosis,111266001,178485010
+Scoliosis,Nyu5500,312598012,Scoliosis deformity of spine,298382003,439061010
+Scoliosis,PE22.00,35209010,Congenital postural scoliosis,20944008,35209010
+Scoliosis,PE23.00,585051000006118,Congenital scoliosis due to bony malformation,205045003,314425019
+Scoliosis,PG18.11,2157548013,Congenital kyphoscoliosis,405772002,2157548013

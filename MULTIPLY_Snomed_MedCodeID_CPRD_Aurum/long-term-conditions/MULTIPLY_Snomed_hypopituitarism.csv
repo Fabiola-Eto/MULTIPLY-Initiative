@@ -1,0 +1,36 @@
+Condition,ReadCode,MedCodeId,Term,SnomedCTConceptId,SnomedCTDescriptionId
+Hypopituitarism,7100.00,496407019,Excision of pituitary gland,52699005,496407019
+Hypopituitarism,7100y00,266290016,Other specified excision of pituitary gland,52699005,87695016
+Hypopituitarism,7100z00,410873011,Excision of pituitary gland NOS,52699005,87695016
+Hypopituitarism,7101.00,505703019,Destruction of pituitary gland,83646004,505703019
+Hypopituitarism,C132.00,54086011,Panhypopituitarism,32390006,54086011
+Hypopituitarism,C132.11,356224019,Hypopituitarism,74728003,124098019
+Hypopituitarism,C132.12,356227014,Sheehan's syndrome,237684005,356227014
+Hypopituitarism,C132000,292709019,Idiopathic panhypopituitarism,190470005,292709019
+Hypopituitarism,C132100,292710012,Post-birth injury panhypopituitarism,190471009,292710012
+Hypopituitarism,C132200,211291000006112,Postinfarction panhypopituitarism,190472002,292711011
+Hypopituitarism,C132300,211361000006114,Postinfective panhypopituitarism,271386001,406156010
+Hypopituitarism,C132y00,292713014,Other specified panhypopituitarism,32390006,54086011
+Hypopituitarism,C132z00,292714015,Panhypopituitarism NOS,32390006,54086011
+Hypopituitarism,C133.00,492180012,Pituitary dwarfism,367460001,492180012
+Hypopituitarism,C133000,721901000006110,Isolated growth hormone deficiency,2109003,4651014
+Hypopituitarism,C133y00,398800015,Other specified pituitary dwarfism,367460001,492180012
+Hypopituitarism,C133z00,292723017,Pituitary dwarfism NOS,367460001,492180012
+Hypopituitarism,C134.00,292724011,Disorder of anterior pituitary,51742006,86162019
+Hypopituitarism,C134300,88781000006119,TSH deficiency,82598004,505169010
+Hypopituitarism,C134400,133724019,Isolated ACTH deficiency,80599001,133724019
+Hypopituitarism,C134411,356242012,ACTH deficiency,237692001,356242012
+Hypopituitarism,C134z11,356286019,Anterior pituitary hormone deficiency,2851000119101,3012752019
+Hypopituitarism,C135.12,494186019,Diabetes insipidus - pituitary,45369008,494186019
+Hypopituitarism,C137.00,223331000000116,Iatrogenic pituitary disorder,86842008,144020013
+Hypopituitarism,C137.11,356248011,Iatrogenic hypopituitarism,237698002,356248011
+Hypopituitarism,C137000,6203011,Hormone-induced hypopituitarism,3072001,6203011
+Hypopituitarism,C137100,508884019,Post-hypophysectomy hypopituitarism,90182005,508884019
+Hypopituitarism,C137111,508883013,Surgically-induced hypopituitarism,90182005,508883013
+Hypopituitarism,C137200,1221143017,Post-radiotherapy hypopituitarism,14900002,1221143017
+Hypopituitarism,C138.00,356276015,Empty sella syndrome,237722004,356276015
+Hypopituitarism,C139.00,56637011,Hypogonadotropic hypogonadism,33927004,56637011
+Hypopituitarism,C13A.00,356251016,Pituitary apoplexy,237701005,356251016
+Hypopituitarism,C172111,510382019,Kallman's syndrome,93559003,510382019
+Hypopituitarism,F395200,682681000006115,Myopathy due to hypopituitarism,14289006,24295012
+Hypopituitarism,PK24100,315521018,Congenital absence of pituitary gland,205749001,315521018

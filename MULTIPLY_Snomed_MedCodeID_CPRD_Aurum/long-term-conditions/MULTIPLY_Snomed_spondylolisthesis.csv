@@ -1,0 +1,15 @@
+Condition,ReadCode,MedCodeId,Term,SnomedCTConceptId,SnomedCTDescriptionId
+Spondylolisthesis,7J34112,527151000006116,Buck fusion of lumbar spine for spondylolisthesis,265717009,394583018
+Spondylolisthesis,7J48500,394592015,Spondylolisthesis operation,265726007,394592015
+Spondylolisthesis,7J48511,802211000006119,Gill excision of spondylolisthesis,265726007,394592015
+Spondylolisthesis,7J48K00,276668012,Reduction of spondylolisthesis and fusion,178805003,276668012
+Spondylolisthesis,7J48L00,276669016,Fusion spondylolisthesis in situ,178806002,276669016
+Spondylolisthesis,N384.00,312465016,Acquired spondylolisthesis,203681002,312465016
+Spondylolisthesis,N384000,312466015,Dysplastic spondylolisthesis,203682009,312466015
+Spondylolisthesis,N384100,312467012,Isthmic spondylolisthesis,203683004,312467012
+Spondylolisthesis,N384200,7967011,Degenerative spondylolisthesis,4046000,7967011
+Spondylolisthesis,N384300,312469010,Pedicular spondylolisthesis,203685006,312469010
+Spondylolisthesis,Zw04600,461579014,"Spondylolisthesis, grade 1",44494000,74198015
+Spondylolisthesis,Zw04700,461580012,"Spondylolisthesis, grade 2",62620001,104078019
+Spondylolisthesis,Zw04800,461581011,"Spondylolisthesis, grade 3",13131000,22470010
+Spondylolisthesis,Zw04900,461582016,"Spondylolisthesis, grade 4",3472009,6855017

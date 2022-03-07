@@ -1,0 +1,17 @@
+Condition,ReadCode,MedCodeId,Term,SnomedCTConceptId,SnomedCTDescriptionId
+Primary malignancy uterine,B40..00,289166015,Malignant neoplasm of uterus,371973000,1210562019
+Primary malignancy uterine,B43..00,1210561014,Malignant neoplasm of body of uterus,371972005,1210561014
+Primary malignancy uterine,B430.00,289187013,"Malignant neoplasm of corpus uteri, excluding isthmus",188189001,289187013
+Primary malignancy uterine,B430000,289188015,Malignant neoplasm of cornu of corpus uteri,188190005,289188015
+Primary malignancy uterine,B430100,289189011,Malignant neoplasm of fundus of corpus uteri,188191009,289189011
+Primary malignancy uterine,B430200,289190019,Malignant neoplasm of endometrium of corpus uteri,188192002,289190019
+Primary malignancy uterine,B430211,980021000006113,Malignant neoplasm of endometrium,188192002,289190019
+Primary malignancy uterine,B430300,289191015,Malignant neoplasm of myometrium of corpus uteri,188193007,289191015
+Primary malignancy uterine,B430z00,289192010,Malignant neoplasm of corpus uteri NOS,188189001,289187013
+Primary malignancy uterine,B431.00,289193017,Malignant neoplasm of isthmus of uterine body,188195000,289193017
+Primary malignancy uterine,B431000,289194011,Malignant neoplasm of lower uterine segment,188195000,3491683016
+Primary malignancy uterine,B431z00,289195012,Malignant neoplasm of isthmus of uterine body NOS,188195000,289193017
+Primary malignancy uterine,B432.00,289196013,Malignant neoplasm of overlapping lesion of corpus uteri,188198003,289196013
+Primary malignancy uterine,B43y.00,289197016,Malignant neoplasm of other site of uterine body,371972005,1210561014
+Primary malignancy uterine,B43z.00,289198014,Malignant neoplasm of body of uterus NOS,371972005,1210561014
+Primary malignancy uterine,ZV10417,1227568016,[V]Personal history of malignant neoplasm of uterine body,672281000119109,2995886011

@@ -1,0 +1,24 @@
+Condition,ReadCode,MedCodeId,Term,SnomedCTConceptId,SnomedCTDescriptionId
+Intracerebral haemorrhage,662o.00,2548554013,Haemorrhagic stroke monitoring,417506008,2548554013
+Intracerebral haemorrhage,7004300,265692011,Evacuation of intracerebral haematoma,10458001,279429014
+Intracerebral haemorrhage,G61..00,744901000006114,Intracerebral haemorrhage (ICH),274100004,2819959010
+Intracerebral haemorrhage,G61..11,605471000006112,Cerebral hemorrhage,274100004,409859018
+Intracerebral haemorrhage,G61..12,122371000006118,Cerebral haemorrhage,274100004,409860011
+Intracerebral haemorrhage,G610.00,495394013,Cortical haemorrhage,49422009,495394013
+Intracerebral haemorrhage,G611.00,496232015,Internal capsule haemorrhage,52201006,496232015
+Intracerebral haemorrhage,G612.00,503791000006114,Basal ganglia haemorrhage,195165005,300272017
+Intracerebral haemorrhage,G613.00,502878012,Cerebellar haemorrhage,75038005,502878012
+Intracerebral haemorrhage,G614.00,503469016,Pontine haemorrhage,7713009,503469016
+Intracerebral haemorrhage,G615.00,483988011,Bulbar haemorrhage,732923001,3467313018
+Intracerebral haemorrhage,G616.00,300276019,External capsule haemorrhage,195167002,300276019
+Intracerebral haemorrhage,G617.00,300277011,"Intracerebral haemorrhage, intraventricular",195168007,300277011
+Intracerebral haemorrhage,G618.00,746571000006116,"Intracerebral haemorrhage, multiple localized",195169004,300280012
+Intracerebral haemorrhage,G619.00,345675012,Lobar cerebral haemorrhage,230710000,345675012
+Intracerebral haemorrhage,G61X.00,744921000006116,"Intracerebral haemorrhage in hemisphere, unspecified",274100004,409860011
+Intracerebral haemorrhage,G61X000,748941000006115,"Left sided intracerebral haemorrhage, unspecified",274100004,409859018
+Intracerebral haemorrhage,G61X100,163261000006119,"Right sided intracerebral haemorrhage, unspecified",195168007,300277011
+Intracerebral haemorrhage,G61z.00,300287010,Intracerebral haemorrhage NOS,274100004,2819959010
+Intracerebral haemorrhage,G681.00,300407010,Sequelae of intracerebral haemorrhage,195241001,300407010
+Intracerebral haemorrhage,G682.00,149551000006111,Sequelae of other nontraumatic intracranial haemorrhage,363302008,482447013
+Intracerebral haemorrhage,Gyu6200,300939013,Cerebral haemorrhage,274100004,409860011
+Intracerebral haemorrhage,Gyu6F00,300956017,"[X]Intracerebral haemorrhage in hemisphere, unspecified",274100004,409860011

@@ -1,0 +1,66 @@
+Condition,ReadCode,MedCodeId,Term,SnomedCTConceptId,SnomedCTDescriptionId
+Osteoporosis,14G6.00,1485119015,H/O: fragility fracture,391092009,1485119015
+Osteoporosis,14GB.00,1137811000000114,History of osteoporosis,473120007,2955852014
+Osteoporosis,2126500,1555521000000117,Osteoporosis resolved,711341000000106,1555521000000117
+Osteoporosis,2126600,1555811000000114,Osteopenia resolved,711391000000101,1555811000000114
+Osteoporosis,585O.00,1485109014,Quantitative ultrasound scan of heel - result osteoporotic,391081008,1485109014
+Osteoporosis,58E4.00,1485088019,Forearm DXA scan result osteoporotic,391060008,1485088019
+Osteoporosis,58EA.00,1485093016,Heel DXA scan result osteoporotic,391065003,1485093016
+Osteoporosis,58EG.00,1485098013,Hip DXA scan result osteoporotic,391070005,1485098013
+Osteoporosis,58EM.00,1485103010,Lumbar DXA scan result osteoporotic,391075000,1485103010
+Osteoporosis,58EV.00,668551000000116,Femoral neck DXA scan result osteoporotic,440100002,3013373010
+Osteoporosis,66a..00,1485046011,Osteoporosis monitoring,391017004,1485046011
+Osteoporosis,66a2.00,1485049016,Osteoporosis treatment started,391020007,1485049016
+Osteoporosis,66a4.00,1485051017,Osteoporosis treatment changed,391022004,1485051017
+Osteoporosis,66a5.00,1485052012,Osteoporosis - no treatment,391023009,1485052012
+Osteoporosis,66aB.00,1485059015,Osteoporosis - no treatment response,391030003,1485059015
+Osteoporosis,8B31E00,2460011000000114,Osteoporosis medication compliance review,965871000000101,2460011000000114
+Osteoporosis,9kj..00,1122231000000117,Osteoporosis enhanced services administration,505141000000108,1152181000000113
+Osteoporosis,9kj0.00,1715131000006113,Bone sparing drug treatment offered for osteoporosis,505171000000102,1152201000000112
+Osteoporosis,9Od..00,1485032011,Osteoporosis monitoring administration,391003008,1485032011
+Osteoporosis,9Od0.00,1485033018,Attends osteoporosis monitoring,391004002,1485033018
+Osteoporosis,9Od2.00,1485035013,Osteoporosis monitoring default,391006000,1485035013
+Osteoporosis,9Od3.00,1485036014,Osteoporosis monitoring first letter,391007009,1485036014
+Osteoporosis,9Od4.00,1485037017,Osteoporosis monitoring second letter,391008004,1485037017
+Osteoporosis,9Od5.00,1485038010,Osteoporosis monitoring third letter,391009007,1485038010
+Osteoporosis,9Od6.00,1485039019,Osteoporosis monitoring verbal invitation,391010002,1485039019
+Osteoporosis,9Od7.00,1485040017,Osteoporosis monitoring telephone invitation,391011003,1485040017
+Osteoporosis,9Od8.00,1485041018,Osteoporosis monitoring deleted,391012005,1485041018
+Osteoporosis,9Od9.00,1485042013,Osteoporosis monitoring check done,391013000,1485042013
+Osteoporosis,N330.00,107806013,Osteoporosis,64859006,107806013
+Osteoporosis,N330000,312124013,"Osteoporosis, unspecified",64859006,107806013
+Osteoporosis,N330100,30475015,Senile osteoporosis,18040001,30475015
+Osteoporosis,N330200,54058015,Postmenopausal osteoporosis,102447009,165682016
+Osteoporosis,N330300,786501000006117,Idiopathic generalised osteoporosis,203429007,312126010
+Osteoporosis,N330400,625381000006110,Dissuse osteoporosis,53174001,88440018
+Osteoporosis,N330500,24883018,Drug-induced osteoporosis,14651005,24883018
+Osteoporosis,N330600,312133010,Postoophorectomy osteoporosis,203433000,312133010
+Osteoporosis,N330700,212431000006119,Postsurgical malabsorption osteoporosis,203434006,312134016
+Osteoporosis,N330A00,312138018,Osteoporosis in endocrine disorders,203437004,312138018
+Osteoporosis,N330B00,312139014,Vertebral osteoporosis,203438009,312139014
+Osteoporosis,N330C00,453226012,Osteoporosis localised to spine,309745002,453225011
+Osteoporosis,N330D00,1484866013,Osteoporosis due to corticosteroids,390833005,1484866013
+Osteoporosis,N330z00,312142015,Osteoporosis NOS,64859006,107806013
+Osteoporosis,N331.14,359833013,Osteoporotic vertebral collapse,240198002,359833013
+Osteoporosis,N331200,312156018,Postoophorectomy osteoporosis with pathological fracture,203444008,312156018
+Osteoporosis,N331300,312157010,Osteoporosis of disuse with pathological fracture,203445009,312157010
+Osteoporosis,N331400,212441000006112,Post-surgical malabsorption osteoporosis with pathological fracture,203446005,312158017
+Osteoporosis,N331500,312159013,Drug-induced osteoporosis with pathological fracture,203447001,312159013
+Osteoporosis,N331600,312160015,Idiopathic osteoporosis with pathological fracture,203448006,312160015
+Osteoporosis,N331800,40881000006116,Osteoporosis with pathological fracture of lumbar vertebrae,203450003,312162011
+Osteoporosis,N331900,40891000006118,Osteoporosis with pathological fracture of thoracic vertebrae,203451004,312163018
+Osteoporosis,N331A00,40871000006119,Osteoporosis with pathological fracture of cervical vertebrae,203452006,312164012
+Osteoporosis,N331B00,312165013,Postmenopausal osteoporosis with pathological fracture,203453001,312165013
+Osteoporosis,N331H00,455433012,Collapse of cervical vertebra due to osteoporosis,311806008,455433012
+Osteoporosis,N331J00,455534015,Collapse of lumbar vertebra due to osteoporosis,311890007,455534015
+Osteoporosis,N331K00,455535019,Collapse of thoracic vertebra due to osteoporosis,311891006,455535019
+Osteoporosis,N331L00,455536018,Collapse of vertebra due to osteoporosis,240198002,2920899019
+Osteoporosis,N331M00,216206018,Pathological fracture due to osteoporosis,443165006,2837900019
+Osteoporosis,N331M11,556881000000111,Minimal trauma fracture due to unspecified osteoporosis,443165006,2837900019
+Osteoporosis,N331N00,545121000000114,Fragility fracture,306171000000106,545121000000114
+Osteoporosis,N331N11,557111000000111,Minimal trauma fracture,306171000000106,557111000000111
+Osteoporosis,N374600,312441019,Osteoporotic kyphosis,203657009,312441019
+Osteoporosis,NyuB000,312681016,[X]Other osteoporosis with pathological fracture,443165006,2837900019
+Osteoporosis,NyuB100,312682011,[X]Other osteoporosis,64859006,107806013
+Osteoporosis,NyuB200,312683018,[X]Osteoporosis in other disorders classified elsewhere,64859006,107806013
+Osteoporosis,NyuB800,312689019,[X]Unspecified osteoporosis with pathological fracture,443165006,2837900019

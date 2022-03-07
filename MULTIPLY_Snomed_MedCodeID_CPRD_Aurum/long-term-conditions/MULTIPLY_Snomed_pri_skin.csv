@@ -1,0 +1,95 @@
+Condition,ReadCode,MedCodeId,Term,SnomedCTConceptId,SnomedCTDescriptionId
+Primary malignancy other Skin and subcutaneous tissue,7G03K00,651081000006111,Excision of malignant skin tumour,301889008,443391016
+Primary malignancy other Skin and subcutaneous tissue,7G05600,598801000000114,Excision biopsy of rodent ulcer,428796002,598801000000114
+Primary malignancy other Skin and subcutaneous tissue,7G05D00,598561000000110,Excision biopsy of basal cell carcinoma,428796002,598561000000110
+Primary malignancy other Skin and subcutaneous tissue,B33..00,403700013,Malignant neoplasm of skin,372130007,1210707014
+Primary malignancy other Skin and subcutaneous tissue,B33..11,215751000000116,Basal cell carcinoma of skin,254701007,379314010
+Primary malignancy other Skin and subcutaneous tissue,B33..13,379315011,Rodent ulcer,254701007,379315011
+Primary malignancy other Skin and subcutaneous tissue,B33..14,289066018,Malignant neoplasm of sebaceous gland,94000008,155506013
+Primary malignancy other Skin and subcutaneous tissue,B33..15,721091000006119,Malignant neoplasm of sweat gland,94081005,155602015
+Primary malignancy other Skin and subcutaneous tissue,B33..16,411225019,Epithelioma basal cell,275265005,411225019
+Primary malignancy other Skin and subcutaneous tissue,B330.00,155542017,Malignant neoplasm of skin of lip,94032008,155542017
+Primary malignancy other Skin and subcutaneous tissue,B331.00,726261000006112,Malignant tumour of eyelid,231829006,347398012
+Primary malignancy other Skin and subcutaneous tissue,B331000,454201010,Malignant neoplasm of canthus,310599006,454201010
+Primary malignancy other Skin and subcutaneous tissue,B331100,457110018,Malignant neoplasm of upper eyelid,313249007,457110018
+Primary malignancy other Skin and subcutaneous tissue,B331200,457111019,Malignant neoplasm of lower eyelid,313250007,457111019
+Primary malignancy other Skin and subcutaneous tissue,B332.00,720511000006113,Malignant neoplasm of skin of ear and external auricular canal,188089003,289077012
+Primary malignancy other Skin and subcutaneous tissue,B332000,289079010,Malignant neoplasm of skin of auricle (ear),188090007,289079010
+Primary malignancy other Skin and subcutaneous tissue,B332100,289080013,Malignant neoplasm of skin of external auditory meatus,188091006,289080013
+Primary malignancy other Skin and subcutaneous tissue,B332200,455404011,Malignant neoplasm of pinna NEC,277156006,413589015
+Primary malignancy other Skin and subcutaneous tissue,B332z00,729611000006115,Malig neop skin of ear and external auricular canal NOS,126488004,82493010
+Primary malignancy other Skin and subcutaneous tissue,B333.00,720521000006117,Malignant neoplasm of skin of face,443136000,2838688010
+Primary malignancy other Skin and subcutaneous tissue,B333000,289084016,"Malignant neoplasm of skin of cheek, external",188095002,289084016
+Primary malignancy other Skin and subcutaneous tissue,B333100,155525011,Malignant neoplasm of skin of chin,94016005,155525011
+Primary malignancy other Skin and subcutaneous tissue,B333200,155529017,Malignant neoplasm of skin of eyebrow,94020009,155529017
+Primary malignancy other Skin and subcutaneous tissue,B333300,155536016,Malignant neoplasm of skin of forehead,94026003,155536016
+Primary malignancy other Skin and subcutaneous tissue,B333400,289088018,Malignant neoplasm of skin of nose (external),188099008,289088018
+Primary malignancy other Skin and subcutaneous tissue,B333500,289089014,Malignant neoplasm of skin of temple,188100000,289089014
+Primary malignancy other Skin and subcutaneous tissue,B333z00,720531000006119,Malignant neoplasm skin other and unspec part of face NOS,443136000,2838688010
+Primary malignancy other Skin and subcutaneous tissue,B334.00,289091018,Malignant neoplasm of scalp and skin of neck,188102008,289091018
+Primary malignancy other Skin and subcutaneous tissue,B334000,289092013,Malignant neoplasm of scalp,188103003,289092013
+Primary malignancy other Skin and subcutaneous tissue,B334100,155545015,Malignant neoplasm of skin of neck,94034009,155545015
+Primary malignancy other Skin and subcutaneous tissue,B334z00,289094014,Malignant neoplasm of scalp and/or skin of neck,188102008,1775486011
+Primary malignancy other Skin and subcutaneous tissue,B335.00,289095010,Malignant neoplasm of skin of trunk,372126009,1210703013
+Primary malignancy other Skin and subcutaneous tissue,B335000,289096011,Malignant neoplasm of skin of axillary fold,188107002,289096011
+Primary malignancy other Skin and subcutaneous tissue,B335100,289097019,"Malignant neoplasm of skin of chest, excluding breast",372126009,1210703013
+Primary malignancy other Skin and subcutaneous tissue,B335200,155521019,Malignant neoplasm of skin of breast,94012007,155521019
+Primary malignancy other Skin and subcutaneous tissue,B335300,289099016,Malignant neoplasm of skin of abdominal wall,188110009,289099016
+Primary malignancy other Skin and subcutaneous tissue,B335400,155556015,Malignant neoplasm of skin of umbilicus,94044006,155556015
+Primary malignancy other Skin and subcutaneous tissue,B335500,155537013,Malignant neoplasm of skin of groin,94027007,155537013
+Primary malignancy other Skin and subcutaneous tissue,B335600,155547011,Malignant neoplasm of skin of perineum,94036006,155547011
+Primary malignancy other Skin and subcutaneous tissue,B335700,155520018,Malignant neoplasm of skin of back,94011000,155520018
+Primary malignancy other Skin and subcutaneous tissue,B335800,155522014,Malignant neoplasm of skin of buttock,94013002,155522014
+Primary malignancy other Skin and subcutaneous tissue,B335900,155458017,Malignant neoplasm of perianal skin,93956001,155458017
+Primary malignancy other Skin and subcutaneous tissue,B335A00,455405012,Malignant neoplasm of skin of scapular region,311779007,455405012
+Primary malignancy other Skin and subcutaneous tissue,B335z00,289107010,"Malignant neoplasm of skin of trunk, excluding scrotum, NOS",372126009,1210703013
+Primary malignancy other Skin and subcutaneous tissue,B336.00,289108017,Malignant neoplasm of skin of upper limb and shoulder,188119005,289108017
+Primary malignancy other Skin and subcutaneous tissue,B336000,155550014,Malignant neoplasm of skin of shoulder,94039004,155550014
+Primary malignancy other Skin and subcutaneous tissue,B336100,289110015,Malignant neoplasm of skin of upper arm,188121000,289110015
+Primary malignancy other Skin and subcutaneous tissue,B336200,289111016,Malignant neoplasm of skin of fore-arm,188122007,289111016
+Primary malignancy other Skin and subcutaneous tissue,B336300,155538015,Malignant neoplasm of skin of hand,94028002,155538015
+Primary malignancy other Skin and subcutaneous tissue,B336400,155533012,Malignant neoplasm of skin of finger,94023006,155533012
+Primary malignancy other Skin and subcutaneous tissue,B336500,289114012,Malignant neoplasm of skin of thumb,188125009,289114012
+Primary malignancy other Skin and subcutaneous tissue,B336z00,289115013,Malignant neoplasm of skin of upper limb or shoulder NOS,188119005,289108017
+Primary malignancy other Skin and subcutaneous tissue,B337.00,289116014,Malignant neoplasm of skin of lower limb and hip,188127001,289116014
+Primary malignancy other Skin and subcutaneous tissue,B337000,155539011,Malignant neoplasm of skin of hip,94029005,155539011
+Primary malignancy other Skin and subcutaneous tissue,B337100,155552018,Malignant neoplasm of skin of thigh,94041003,155552018
+Primary malignancy other Skin and subcutaneous tissue,B337200,155540013,Malignant neoplasm of skin of knee,94030000,155540013
+Primary malignancy other Skin and subcutaneous tissue,B337300,289121012,Malignant neoplasm of skin of popliteal fossa area,188132000,289121012
+Primary malignancy other Skin and subcutaneous tissue,B337400,289122017,Malignant neoplasm of skin of lower leg,188133005,289122017
+Primary malignancy other Skin and subcutaneous tissue,B337500,155517014,Malignant neoplasm of skin of ankle,94008001,155517014
+Primary malignancy other Skin and subcutaneous tissue,B337600,289124016,Malignant neoplasm of skin of heel,188135003,289124016
+Primary malignancy other Skin and subcutaneous tissue,B337700,155534018,Malignant neoplasm of skin of foot,94024000,155534018
+Primary malignancy other Skin and subcutaneous tissue,B337800,155553011,Malignant neoplasm of skin of toe,94042005,155553011
+Primary malignancy other Skin and subcutaneous tissue,B337900,289127011,Malignant neoplasm of skin of great toe,188138001,289127011
+Primary malignancy other Skin and subcutaneous tissue,B337z00,289128018,Malignant neoplasm of skin of lower limb or hip NOS,188127001,289116014
+Primary malignancy other Skin and subcutaneous tissue,B338.00,379223011,Squamous cell carcinoma of skin,254651007,379223011
+Primary malignancy other Skin and subcutaneous tissue,B339.00,413089014,Dermatofibrosarcoma protuberans,276799004,413089014
+Primary malignancy other Skin and subcutaneous tissue,B33X.00,720471000006115,Malignant neoplasm overlapping lesion of skin,109264009,173812014
+Primary malignancy other Skin and subcutaneous tissue,B33y.00,289131017,Malignant neoplasm of other specified skin sites,372130007,1210707014
+Primary malignancy other Skin and subcutaneous tissue,B33z.00,289132012,Malignant neoplasm of skin NOS,372130007,1210707014
+Primary malignancy other Skin and subcutaneous tissue,B33z.11,556501000000116,Squamous cell carcinoma of skin NOS,254651007,379223011
+Primary malignancy other Skin and subcutaneous tissue,BB2A.13,556511000000119,[M]Squamous cell carcinoma of skin NOS,400155002,1779409013
+Primary malignancy other Skin and subcutaneous tissue,BB3..00,291359010,Basal cell neoplasm,127570002,2664014019
+Primary malignancy other Skin and subcutaneous tissue,BB30.00,305831000006117,Basal cell tumour,30649006,196804015
+Primary malignancy other Skin and subcutaneous tissue,BB31.00,291360017,Basal cell carcinoma,1338007,3345018
+Primary malignancy other Skin and subcutaneous tissue,BB32.00,313221000006117,[M]Multicentric basal cell carcinoma,61098004,101531010
+Primary malignancy other Skin and subcutaneous tissue,BB33.00,305801000006113,Basal cell carcinoma - morphoeic,134152008,215881011
+Primary malignancy other Skin and subcutaneous tissue,BB34.00,305791000006112,Fibroepithelial basal cell carcinoma,43369006,1229982018
+Primary malignancy other Skin and subcutaneous tissue,BB35.00,305901000006119,Basosquamous carcinoma,37304002,62234010
+Primary malignancy other Skin and subcutaneous tissue,BB36.00,312631000006110,[M]Metatypical carcinoma,6641007,12009016
+Primary malignancy other Skin and subcutaneous tissue,BB3C.00,1770481000006118,Multifocal superficial basal cell carcinoma,61098004,199020010
+Primary malignancy other Skin and subcutaneous tissue,BB3D.00,1770491000006115,"Basal cell carcinoma, nodular",128636006,207028011
+Primary malignancy other Skin and subcutaneous tissue,BB3E.00,1770501000006111,Basal cell carcinoma - micronodular,402529002,1781655012
+Primary malignancy other Skin and subcutaneous tissue,BB3F.00,1770511000006114,Infiltrating basal cell carcinoma,56665009,198684014
+Primary malignancy other Skin and subcutaneous tissue,BB3G.00,1770521000006118,Pigmented basal cell carcinoma,403909004,1782913015
+Primary malignancy other Skin and subcutaneous tissue,BB3z.00,291361018,[M]Basal cell neoplasm NOS,127570002,857018
+Primary malignancy other Skin and subcutaneous tissue,BB60100,291474011,Skin appendage carcinoma,64000002,106379015
+Primary malignancy other Skin and subcutaneous tissue,BB61200,291480015,Sweat gland adenocarcinoma,32272007,53910019
+Primary malignancy other Skin and subcutaneous tissue,BB62100,305571000006117,[M]Apocrine adenocarcinoma,57141000,95032016
+Primary malignancy other Skin and subcutaneous tissue,BB69100,1231370012,[M]Sebaceous adenocarcinoma,54734006,1231370012
+Primary malignancy other Skin and subcutaneous tissue,Byu4.00,292116013,[X]Melanoma and other malignant neoplasms of skin,372130007,1210707014
+Primary malignancy other Skin and subcutaneous tissue,Byu4200,404801000006116,[X]Oth malignant neoplasm/skin of oth+unspecfd parts of face,94047004,155560017
+Primary malignancy other Skin and subcutaneous tissue,Byu4300,292120012,"[X]Malignant neoplasm of skin, unspecified",372130007,1210707014
+Primary malignancy other Skin and subcutaneous tissue,Byu5A00,292135013,Overlapping malignant neoplasm of skin,109264009,173812014
+Primary malignancy other Skin and subcutaneous tissue,ZV10y14,1227579014,[V]Personal history of malignant neoplasm of skin,266987004,397818015

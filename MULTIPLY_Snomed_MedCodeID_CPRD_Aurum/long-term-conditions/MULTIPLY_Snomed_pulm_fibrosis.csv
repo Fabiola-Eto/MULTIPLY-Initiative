@@ -1,0 +1,21 @@
+Condition,ReadCode,MedCodeId,Term,SnomedCTConceptId,SnomedCTDescriptionId
+Other interstitial pulmonary diseases with fibrosis,23E5.00,254003016,O/E - fibrosis of lung present,162974009,254003016
+Other interstitial pulmonary diseases with fibrosis,23E5.11,254002014,O/E - fibrosis of lung,162974009,254002014
+Other interstitial pulmonary diseases with fibrosis,A114.00,149374011,Tuberculous fibrosis of lung,90117007,149374011
+Other interstitial pulmonary diseases with fibrosis,H431.00,24973018,Bauxite fibrosis of lung,14700006,24975013
+Other interstitial pulmonary diseases with fibrosis,H433.00,29395011,Graphite fibrosis of lung,17385007,29397015
+Other interstitial pulmonary diseases with fibrosis,H464200,301575012,Chronic pulmonary fibrosis due to chemical fumes,196028003,301575012
+Other interstitial pulmonary diseases with fibrosis,H4y1000,556271000006115,Chronic radiation pulmonary fibrosis,71193007,1233362012
+Other interstitial pulmonary diseases with fibrosis,H4y2100,301613016,Chronic drug-induced interstitial lung disorders,196053000,301613016
+Other interstitial pulmonary diseases with fibrosis,H55..00,211391000006118,Post-inflammatory pulmonary fibrosis,266368002,396123011
+Other interstitial pulmonary diseases with fibrosis,H55..11,85961019,Cirrhosis of lung,266368002,396123011
+Other interstitial pulmonary diseases with fibrosis,H563.00,75302014,Idiopathic fibrosing alveolitis,700250006,2989716019
+Other interstitial pulmonary diseases with fibrosis,H563.11,815341000006115,Hamman Rich syndrome,236302005,2579204016
+Other interstitial pulmonary diseases with fibrosis,H563.12,196654011,Cryptogenic fibrosing alveolitis,700250006,2989718018
+Other interstitial pulmonary diseases with fibrosis,H563.13,1786131000006116,Idiopathic pulmonary fibrosis,700250006,2989760019
+Other interstitial pulmonary diseases with fibrosis,H563100,621121000006112,Diffuse interstitial pulmonary fibrosis,196125002,301706014
+Other interstitial pulmonary diseases with fibrosis,H563200,85960018,Pulmonary fibrosis,51615001,85960018
+Other interstitial pulmonary diseases with fibrosis,H563300,2475606014,Usual interstitial pneumonitis,196125002,2475606014
+Other interstitial pulmonary diseases with fibrosis,H563z00,301709019,Idiopathic fibrosing alveolitis NOS,700250006,2989716019
+Other interstitial pulmonary diseases with fibrosis,Hyu5000,301852014,[X]Other interstitial pulmonary diseases with fibrosis,233703007,350185018
+Other interstitial pulmonary diseases with fibrosis,N04y012,311496011,Fibrosing alveolitis associated with rheumatoid arthritis,10713006,311496011

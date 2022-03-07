@@ -1,0 +1,4 @@
+Condition,ReadCode,MedCodeId,Term,SnomedCTConceptId,SnomedCTDescriptionId
+Polymyalgia Rheumatica,N20..00,108529013,Polymyalgia rheumatica,65323003,108529013
+Polymyalgia Rheumatica,N20..11,158050019,Polymyalgia,65323003,108529013
+Polymyalgia Rheumatica,N200.00,359513016,Giant cell arteritis with polymyalgia rheumatica,239938009,359513016

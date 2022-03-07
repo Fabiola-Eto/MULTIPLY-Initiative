@@ -1,0 +1,48 @@
+Condition,ReadCode,MedCodeId,Term,SnomedCTConceptId,SnomedCTDescriptionId
+Primary malignancy breast,B34..00,1210642019,Malignant neoplasm of female breast,372064008,1210642019
+Primary malignancy breast,B34..11,531851000006119,Ca female breast,372064008,1210642019
+Primary malignancy breast,B340.00,289137018,Malignant neoplasm of nipple and areola of female breast,188147009,289137018
+Primary malignancy breast,B340000,155417012,Malignant neoplasm of nipple of female breast,93924008,155417012
+Primary malignancy breast,B340100,155089014,Malignant neoplasm of areola of female breast,93680004,155089014
+Primary malignancy breast,B340z00,289140018,Malignant neoplasm of nipple or areola of female breast NOS,188147009,289137018
+Primary malignancy breast,B341.00,289141019,Malignant neoplasm of central part of female breast,188151006,289141019
+Primary malignancy breast,B342.00,289142014,Malignant neoplasm of upper-inner quadrant of female breast,188152004,289142014
+Primary malignancy breast,B343.00,289143016,Malignant neoplasm of lower-inner quadrant of female breast,188153009,289143016
+Primary malignancy breast,B344.00,289144010,Malignant neoplasm of upper-outer quadrant of female breast,188154003,289144010
+Primary malignancy breast,B345.00,289145011,Malignant neoplasm of lower-outer quadrant of female breast,188155002,289145011
+Primary malignancy breast,B346.00,289146012,Malignant neoplasm of axillary tail of female breast,188156001,289146012
+Primary malignancy breast,B347.00,289147015,"Malignant neoplasm, overlapping lesion of breast",188157005,289147015
+Primary malignancy breast,B34y.00,289148013,Malignant neoplasm of other site of female breast,372064008,1210642019
+Primary malignancy breast,B34y000,289149017,Malignant neoplasm of ectopic site of female breast,188159008,289149017
+Primary malignancy breast,B34yz00,289150017,Malignant neoplasm of other site of female breast NOS,372064008,1210642019
+Primary malignancy breast,B34z.00,289151018,Malignant neoplasm of female breast NOS,372064008,1210642019
+Primary malignancy breast,B35..00,155364013,Malignant neoplasm of male breast,372095001,1210673015
+Primary malignancy breast,B350.00,289153015,Malignant neoplasm of nipple and areola of male breast,188163001,289153015
+Primary malignancy breast,B350000,155418019,Malignant neoplasm of nipple of male breast,93925009,155418019
+Primary malignancy breast,B350100,155090017,Malignant neoplasm of areola of male breast,93681000,155090017
+Primary malignancy breast,B35z.00,289157019,Malignant neoplasm of other site of male breast,372095001,1210673015
+Primary malignancy breast,B35z000,289158012,Malignant neoplasm of ectopic site of male breast,188168005,289158012
+Primary malignancy breast,B35zz00,289159016,Malignant neoplasm of male breast NOS,372095001,1210673015
+Primary malignancy breast,B36..00,459378019,Local recurrence of malignant tumour of breast,314955001,459378019
+Primary malignancy breast,B830.00,290868010,Carcinoma in situ of breast,189336000,290868010
+Primary malignancy breast,B830000,174576019,Lobular carcinoma in situ of breast,109888004,174576019
+Primary malignancy breast,B830100,174577011,Intraductal carcinoma in situ of breast,109889007,174577011
+Primary malignancy breast,B933.00,403744011,Neoplasm of uncertain behaviour of breast,269497004,403744011
+Primary malignancy breast,BA03.00,291299010,Neoplasm of breast,126926005,214017
+Primary malignancy breast,BB91.00,310311000006110,Infiltrating duct carcinoma,82711006,137203014
+Primary malignancy breast,BB91.11,307631000006111,Duct carcinoma,82711006,137210015
+Primary malignancy breast,BB91000,1232564019,[M]Intraductal papillary adenocarcinoma with invasion,64524002,1232565018
+Primary malignancy breast,BB91100,1228259019,[M]Infiltrating duct and lobular carcinoma,35232005,1228260012
+Primary malignancy breast,BB92.00,307131000006115,"[M]Comedocarcinoma, noninfiltrating",78197004,1234227011
+Primary malignancy breast,BB93.00,291536017,[M]Comedocarcinoma NOS,722237009,3331293018
+Primary malignancy breast,BB94.00,310741000006110,Juvenile carcinoma of the breast,41919003,69948016
+Primary malignancy breast,BB94.11,316311000006112,[M]Secretory breast carcinoma,41919003,69948016
+Primary malignancy breast,BB96.00,314091000006113,[M]Noninfiltrating intraductal papillary adenocarcinoma,30566004,1227274015
+Primary malignancy breast,BB9J.00,314711000006117,Mammary Paget's disease,2985005,1226519014
+Primary malignancy breast,BB9J.11,314691000006115,Paget's disease of breast,2985005,6068012
+Primary malignancy breast,BB9K.00,314671000006116,Paget's disease and infiltrating duct carcinoma of breast,82591005,137011013
+Primary malignancy breast,BB9K000,1231363012,[M]Paget's disease and intraductal carcinoma of breast,54666007,1231364018
+Primary malignancy breast,BB9M.00,310411000006117,[M]Intracystic carcinoma NOS,703545003,3008905015
+Primary malignancy breast,Byu6.00,292137017,Malignant tumour of breast,254837009,379664012
+Primary malignancy breast,ByuFG00,292214019,[X]Other carcinoma in situ of breast,189336000,290868010
+Primary malignancy breast,ZV10300,460263019,History of malignant neoplasm of breast,429087003,2693667019

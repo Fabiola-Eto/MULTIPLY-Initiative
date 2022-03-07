@@ -1,0 +1,14 @@
+Condition,ReadCode,MedCodeId,Term,SnomedCTConceptId,SnomedCTDescriptionId
+Lichen planus,M170.00,8963013,Lichen planus,4776004,8963013
+Lichen planus,M170000,308780010,Lichen planus actinicus,200999007,308780010
+Lichen planus,M170100,308783012,Lichen planus annularis,201000006,308783012
+Lichen planus,M170200,1224932013,Lichen planus atrophicus,25858008,1224932013
+Lichen planus,M170300,1232173015,Lichen planus bullosus,6111009,1232173015
+Lichen planus,M170400,1233028016,Lichen planus hypertrophicus,68266006,1233028016
+Lichen planus,M170500,1230103010,Lichen planus linearis,44509000,1230103010
+Lichen planus,M170700,308784018,Lichen planus obtusus,201001005,308784018
+Lichen planus,M170800,308785017,Subacute active lichen planus,201002003,308785017
+Lichen planus,M170900,763411000006112,Follicular lichen planus,64540004,107259017
+Lichen planus,M170z00,308787013,Lichen planus NOS,4776004,8963013
+Lichen planus,M240R00,107259017,Lichen planopilaris,64540004,107259017
+Lichen planus,Myu3200,309333012,[X]Other lichen planus,4776004,8963013

@@ -1,0 +1,28 @@
+Condition,ReadCode,MedCodeId,Term,SnomedCTConceptId,SnomedCTDescriptionId
+Neuromuscular dysfunction of bladder,F246111,497251000006113,Atonic bladder,197870000,304231013
+Neuromuscular dysfunction of bladder,F246112,676521000006111,Neurogenic bladder,398064005,1777632010
+Neuromuscular dysfunction of bladder,F246113,675651000006110,Neuropathic bladder,398064005,1786083014
+Neuromuscular dysfunction of bladder,K164.00,304232018,Atony of bladder,197870000,304232018
+Neuromuscular dysfunction of bladder,K164.11,304231013,Atonic bladder,197870000,304231013
+Neuromuscular dysfunction of bladder,K164000,304235016,Hypotonic bladder,197871001,304235016
+Neuromuscular dysfunction of bladder,K164100,304236015,Bladder inertia,197872008,304236015
+Neuromuscular dysfunction of bladder,K164z00,304237012,Atony of bladder NOS,197870000,304232018
+Neuromuscular dysfunction of bladder,K165.00,304238019,Other functional disorder of bladder,236632007,354696015
+Neuromuscular dysfunction of bladder,K165000,726691000006119,Hypertonic bladder sphincter,9009001,15876016
+Neuromuscular dysfunction of bladder,K165100,304240012,Bladder sphincter paralysis,197876006,304240012
+Neuromuscular dysfunction of bladder,K165300,615711000006112,Detrusor instability,61033006,2164085015
+Neuromuscular dysfunction of bladder,K165400,72601000006110,Unstable bladder,61033006,101427019
+Neuromuscular dysfunction of bladder,K165z00,304244015,Other bladder function disorder NOS,236632007,354695016
+Neuromuscular dysfunction of bladder,K16V.00,676861000006115,"Neuromuscular dysfunction of bladder, unspecified",236632007,354696015
+Neuromuscular dysfunction of bladder,K16V000,1786083014,Neuropathic bladder,398064005,1786083014
+Neuromuscular dysfunction of bladder,K16V011,1777632010,Neurogenic bladder,398064005,1777632010
+Neuromuscular dysfunction of bladder,K16V100,2579202017,Overactive bladder,236633002,2579202017
+Neuromuscular dysfunction of bladder,K16W.00,186191000006111,"Reflex neuropathic bladder, not elsewhere classified",368311000119105,3013158015
+Neuromuscular dysfunction of bladder,K16X.00,81021000006113,"Uninhibited neuropathic bladder, NEC",397732007,1777342015
+Neuromuscular dysfunction of bladder,K16y400,2162415015,Detrusor instability of bladder,61033006,101427019
+Neuromuscular dysfunction of bladder,K16y411,2164085015,Detrusor instability,61033006,2164085015
+Neuromuscular dysfunction of bladder,K16y412,2162416019,Unstable bladder,61033006,101427019
+Neuromuscular dysfunction of bladder,K16y800,354696015,Functional disorder of bladder,236632007,354696015
+Neuromuscular dysfunction of bladder,K16y811,354695016,Functional voiding disorder,236632007,354695016
+Neuromuscular dysfunction of bladder,Kyu5200,305204015,Neurogenic dysfunction of the urinary bladder,397732007,1777342015
+Neuromuscular dysfunction of bladder,Kyu5E00,305216014,"[X]Neuromuscular dysfunction of bladder, unspecified",236632007,354696015

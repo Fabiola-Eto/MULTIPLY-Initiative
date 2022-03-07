@@ -1,0 +1,17 @@
+Condition,ReadCode,MedCodeId,Term,SnomedCTConceptId,SnomedCTDescriptionId
+Primary malignancy testicular,B47..00,721171000006119,Malignant tumour of testis,363449006,482694014
+Primary malignancy testicular,B470.00,289223017,Malignant neoplasm of undescended testis,188219004,289223017
+Primary malignancy testicular,B470000,289224011,Malignant neoplasm of ectopic testis,188220005,289224011
+Primary malignancy testicular,B470200,457318018,Seminoma of undescended testis,313428008,457318018
+Primary malignancy testicular,B470300,109391000006119,Teratoma of undescended testis,417417007,2548377014
+Primary malignancy testicular,B470z00,289234019,Malignant neoplasm of undescended testis NOS,188219004,289220019
+Primary malignancy testicular,B471.00,174562015,Malignant neoplasm of descended testis,109876001,174562015
+Primary malignancy testicular,B471000,457319014,Seminoma of descended testis,313429000,457319014
+Primary malignancy testicular,B471100,109371000006115,Malignant teratoma of descended testis,417554000,2548606013
+Primary malignancy testicular,B471z00,473991000000119,Malignant neoplasm of descended testis,1090261000000108,2731381000000113
+Primary malignancy testicular,B47z.00,403702017,Malignant neoplasm of testis NOS,363449006,482694014
+Primary malignancy testicular,B47z.11,380180017,Seminoma of testis,255107005,380180017
+Primary malignancy testicular,B47z.12,109381000006117,Malignant teratoma of testis,416769008,2549298016
+Primary malignancy testicular,B836000,153376010,Carcinoma in situ of testis,92764008,153376010
+Primary malignancy testicular,B914.00,511918011,Neoplasm of uncertain behaviour of testis,95127004,511918011
+Primary malignancy testicular,ZV10416,1227566017,[V]Personal history of malignant neoplasm of testis,1301000119100,2966872012

@@ -1,0 +1,55 @@
+Condition,ReadCode,MedCodeId,Term,SnomedCTConceptId,SnomedCTDescriptionId
+Chronic ulcer of the skin,14F3.00,251785016,H/O: chronic skin ulcer,161563007,251785016
+Chronic ulcer of the skin,2924.00,254880016,O/E - trophic skin ulceration,163634008,254880016
+Chronic ulcer of the skin,2FF..00,255854010,O/E - skin ulcer,46742003,77912013
+Chronic ulcer of the skin,2FF2.00,255856012,O/E - skin ulcer present,164397002,255856012
+Chronic ulcer of the skin,2FFZ.00,255857015,O/E - skin ulcer NOS,46742003,77912013
+Chronic ulcer of the skin,4JG3.00,261398014,Skin ulcer swab taken,168307001,261398014
+Chronic ulcer of the skin,4JG3.00,1864241000006110,Test request : Skin ulcer swab taken,1864241000006106,1864241000006110
+Chronic ulcer of the skin,7G2E500,275047016,Dressing of skin ulcer,302434002,444109012
+Chronic ulcer of the skin,7G2EA00,456401011,Two layer compression bandage for skin ulcer,312647006,456401011
+Chronic ulcer of the skin,7G2EB00,456402016,Four layer compression bandaging for skin ulcer,312648001,456402016
+Chronic ulcer of the skin,7G2EC00,458425010,Three layer compression bandage for skin ulcer,314129003,458425010
+Chronic ulcer of the skin,9ks..00,2127541000000111,Complex skin ulcer care enhanced services administration,816441000000108,2127541000000111
+Chronic ulcer of the skin,A056.00,1783736011,Amoebic skin ulceration,400086005,1783736011
+Chronic ulcer of the skin,G830.00,300721013,Varicose veins of the leg with ulcer,195445008,300721013
+Chronic ulcer of the skin,G832.00,300723011,Varicose veins of the leg with ulcer and eczema,195447000,300723011
+Chronic ulcer of the skin,G833.00,300724017,Varicose veins of the leg with rupture,195448005,300724017
+Chronic ulcer of the skin,G835.00,300728019,Infected varicose ulcer,195450002,300728019
+Chronic ulcer of the skin,G837.00,914591000006113,Venous ulcer of leg,402863005,1781953019
+Chronic ulcer of the skin,M07z.12,5466011,Infected skin ulcer,2622007,5466011
+Chronic ulcer of the skin,M22..00,308932015,Dermatosis,95320005,157887011
+Chronic ulcer of the skin,M27..00,479493015,Chronic skin ulcer,19429009,479493015
+Chronic ulcer of the skin,M270.00,608941000006119,Pressure ulcer,399912005,1787031010
+Chronic ulcer of the skin,M270.11,1787140012,Bed sore,399912005,1787031010
+Chronic ulcer of the skin,M270.12,1628013,Plaster ulcer,324007,1628013
+Chronic ulcer of the skin,M270.13,1779199011,Pressure sore,399912005,1779199011
+Chronic ulcer of the skin,M270.14,1816831000006112,Decubitus ulcer and pressure area,399912005,1787031010
+Chronic ulcer of the skin,M270000,1647721000000110,Hospital acquired pressure ulcer,446261004,2883380010
+Chronic ulcer of the skin,M270100,1647741000000115,Nursing home acquired pressure ulcer,446262006,2883911013
+Chronic ulcer of the skin,M270200,1647761000000119,Community hospital acquired pressure ulcer,447471009,2883282017
+Chronic ulcer of the skin,M270300,1647781000000111,Hospice acquired pressure ulcer,446260003,2883283010
+Chronic ulcer of the skin,M270400,1816841000006119,Stage I decubitus ulcer and pressure area,376951000000105,741781000000112
+Chronic ulcer of the skin,M270500,1816851000006117,Stage II decubitus ulcer,376961000000108,741801000000113
+Chronic ulcer of the skin,M270600,1816861000006115,Stage III decubitus ulcer,376971000000101,741821000000116
+Chronic ulcer of the skin,M270700,1816871000006110,Stage IV decubitus ulcer,376981000000104,741841000000111
+Chronic ulcer of the skin,M270z00,1816881000006113,Decubitus ulcer and pressure area NOS,399912005,1787031010
+Chronic ulcer of the skin,M271.00,399941017,Non-pressure ulcer lower limb,267816005,399941017
+Chronic ulcer of the skin,M271.11,512081010,Foot ulcer,95345008,512081010
+Chronic ulcer of the skin,M271.12,357895013,Ischaemic leg ulcer,238793001,357895013
+Chronic ulcer of the skin,M271.13,357890015,Leg ulcer,95344007,512080011
+Chronic ulcer of the skin,M271.14,486094011,Neurogenic leg ulcer,35222003,486094011
+Chronic ulcer of the skin,M271.15,88521000006110,Trophic leg ulcer,35222003,486092010
+Chronic ulcer of the skin,M271300,357894012,Arterial leg ulcer,238793001,357894012
+Chronic ulcer of the skin,M271400,357893018,Mixed venous and arterial leg ulcer,238792006,357893018
+Chronic ulcer of the skin,M271500,66891000006111,Venous ulcer of leg,402863005,1781953019
+Chronic ulcer of the skin,M271600,309185018,Traumatic leg ulcer,201256000,309185018
+Chronic ulcer of the skin,M271700,498448012,Neuropathic foot ulcer,59483006,498448012
+Chronic ulcer of the skin,M272.00,77910017,Skin ulcer,46742003,77912013
+Chronic ulcer of the skin,M273.00,2152971000000114,Non-healing leg ulcer,828001000000105,2152971000000114
+Chronic ulcer of the skin,M274.00,2153151000000114,Recurrent leg ulcer,828101000000106,2153151000000114
+Chronic ulcer of the skin,M27y.00,309187014,Chronic ulcer of skin,19429009,32731010
+Chronic ulcer of the skin,M27z.00,309188016,Chronic skin ulcer NOS,19429009,479493015
+Chronic ulcer of the skin,M2y0.00,1219787019,Vascular disorders of skin,11263005,1219787019
+Chronic ulcer of the skin,Z174Q00,7237551000006115,Skin ulcer care,440461005,2790977018
+Chronic ulcer of the skin,Z1B2300,275047016,Dressing of skin ulcer,302434002,444109012

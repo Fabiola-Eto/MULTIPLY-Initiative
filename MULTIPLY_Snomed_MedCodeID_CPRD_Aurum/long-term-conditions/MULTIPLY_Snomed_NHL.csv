@@ -1,0 +1,186 @@
+Condition,ReadCode,MedCodeId,Term,SnomedCTConceptId,SnomedCTDescriptionId
+Non-Hodgkin Lymphoma,A789600,287029018,Burkitt lymphoma co-occurrent with human immunodeficiency virus infection,713897006,3297968018
+Non-Hodgkin Lymphoma,A789700,825721000006115,Non-Hodgkin lymphoma associated with Human immunodeficiency virus infection,442537007,2816358010
+Non-Hodgkin Lymphoma,AyuC600,288182013,[X]HIV disease resulting in other non-Hodgkin's lymphoma,442537007,2816358010
+Non-Hodgkin Lymphoma,B60..00,289580016,Lymphosarcoma and reticulosarcoma,188487008,289580016
+Non-Hodgkin Lymphoma,B600.00,1211679013,Reticulosarcoma,373168002,1211679013
+Non-Hodgkin Lymphoma,B600000,289581017,Reticulosarcoma of unspecified site,373168002,1211679013
+Non-Hodgkin Lymphoma,B600100,289582012,"Reticulosarcoma of lymph nodes of head, face and neck",188489006,289582012
+Non-Hodgkin Lymphoma,B600300,157745018,Reticulosarcoma of intra-abdominal lymph nodes,95224004,157745018
+Non-Hodgkin Lymphoma,B600700,157752016,Reticulosarcoma of spleen,95231000,157752016
+Non-Hodgkin Lymphoma,B600z00,289590012,Reticulosarcoma NOS,373168002,1211679013
+Non-Hodgkin Lymphoma,B601.00,289591011,Lymphosarcoma,188498009,289591011
+Non-Hodgkin Lymphoma,B601000,289592016,Lymphosarcoma of unspecified site,188498009,289591011
+Non-Hodgkin Lymphoma,B601100,289593014,"Lymphosarcoma of lymph nodes of head, face and neck",188500005,289593014
+Non-Hodgkin Lymphoma,B601200,289594015,Lymphosarcoma of intrathoracic lymph nodes,188501009,289594015
+Non-Hodgkin Lymphoma,B601300,289595019,Lymphosarcoma of intra-abdominal lymph nodes,188502002,289595019
+Non-Hodgkin Lymphoma,B601500,731691000006110,Lymphosarcoma of lymph nodes of inguinal region and lower limb,188504001,289597010
+Non-Hodgkin Lymphoma,B601700,289599013,Lymphosarcoma of spleen,188506004,289599013
+Non-Hodgkin Lymphoma,B601800,289600011,Lymphosarcoma of lymph nodes of multiple sites,188507008,289600011
+Non-Hodgkin Lymphoma,B601z00,289601010,Lymphosarcoma NOS,188498009,289591011
+Non-Hodgkin Lymphoma,B602.00,2663190016,Burkitt's lymphoma,118617000,2663190016
+Non-Hodgkin Lymphoma,B602100,289603013,"Burkitt's lymphoma of lymph nodes of head, face and neck",188510001,289603013
+Non-Hodgkin Lymphoma,B602200,289604019,Burkitt's lymphoma of intrathoracic lymph nodes,188511002,289604019
+Non-Hodgkin Lymphoma,B602300,289605018,Burkitt's lymphoma of intra-abdominal lymph nodes,188512009,289605018
+Non-Hodgkin Lymphoma,B602500,527801000006112,Burkitt's lymphoma of lymph nodes of inguinal region and lower limb,188514005,289607014
+Non-Hodgkin Lymphoma,B602z00,289612010,Burkitt's lymphoma NOS,118617000,2663190016
+Non-Hodgkin Lymphoma,B60y.00,289613017,Other specified reticulosarcoma or lymphosarcoma,188487008,289580016
+Non-Hodgkin Lymphoma,B60z.00,289614011,Reticulosarcoma or lymphosarcoma NOS,188487008,289580016
+Non-Hodgkin Lymphoma,B620.00,673611000006113,Nodular lymphoma,269476000,403709014
+Non-Hodgkin Lymphoma,B620000,289717011,Nodular lymphoma of unspecified site,269476000,403709014
+Non-Hodgkin Lymphoma,B620100,289718018,"Nodular lymphoma of lymph nodes of head, face and neck",188609000,289718018
+Non-Hodgkin Lymphoma,B620200,157688015,Nodular lymphoma of intrathoracic lymph nodes,95188007,157688015
+Non-Hodgkin Lymphoma,B620300,157686016,Nodular lymphoma of intra-abdominal lymph nodes,95186006,157686016
+Non-Hodgkin Lymphoma,B620500,673681000006118,Nodular lymphoma of lymph nodes of inguinal region and lower limb,188613007,289722011
+Non-Hodgkin Lymphoma,B620800,157692010,Nodular lymphoma of lymph nodes of multiple sites,95192000,157692010
+Non-Hodgkin Lymphoma,B620z00,289726014,Nodular lymphoma NOS,269476000,403709014
+Non-Hodgkin Lymphoma,B621.00,2663191017,Mycosis fungoides,118618005,2663191017
+Non-Hodgkin Lymphoma,B621000,289727017,Mycosis fungoides of unspecified site,118618005,177037016
+Non-Hodgkin Lymphoma,B621300,157071014,Mycosis fungoides of intra-abdominal lymph nodes,94707004,157071014
+Non-Hodgkin Lymphoma,B621400,157075017,Mycosis fungoides of lymph nodes of axilla and upper limb,94710006,157075017
+Non-Hodgkin Lymphoma,B621500,683691000006113,Mycosis fungoides of lymph nodes of inguinal region and lower limb,94712003,157079011
+Non-Hodgkin Lymphoma,B621800,289738017,Mycosis fungoides of lymph nodes of multiple sites,188627002,289738017
+Non-Hodgkin Lymphoma,B621z00,289739013,Mycosis fungoides NOS,118618005,177037016
+Non-Hodgkin Lymphoma,B622.00,146651000006118,Sezary's disease,118611004,2821061019
+Non-Hodgkin Lymphoma,B622z00,289749011,Sezary's disease NOS,118611004,177030019
+Non-Hodgkin Lymphoma,B627.00,587201000006115,Non-Hodgkin's lymphoma,118601006,2663475013
+Non-Hodgkin Lymphoma,B627.11,2839871014,Non-Hodgkin lymphoma,118601006,2663475013
+Non-Hodgkin Lymphoma,B627000,414257019,Follicular non-Hodgkin's small cleaved cell lymphoma,277625002,414257019
+Non-Hodgkin Lymphoma,B627100,763431000006118,Follicular non-Hodgkin's mixed small cleaved and large cell lymphoma,188672005,289795016
+Non-Hodgkin Lymphoma,B627200,414278016,Follicular non-Hodgkin's large cell lymphoma,277641001,414278016
+Non-Hodgkin Lymphoma,B627300,289799010,Diffuse non-Hodgkin's small cell (diffuse) lymphoma,188674006,289799010
+Non-Hodgkin Lymphoma,B627400,289801013,Diffuse non-Hodgkin's small cleaved cell (diffuse) lymphoma,188675007,289801013
+Non-Hodgkin Lymphoma,B627500,621041000006116,Diffuse non-Hodgkin's mixed small and large cell (diffuse) lymphoma,188676008,289807012
+Non-Hodgkin Lymphoma,B627600,1219545019,Diffuse non-Hodgkin's immunoblastic (diffuse) lymphoma,109966003,1219545019
+Non-Hodgkin Lymphoma,B627700,621071000006112,"Diffuse non-Hodgkin's lymphoma, lymphoblastic (clinical)",109965004,174660015
+Non-Hodgkin Lymphoma,B627800,289812013,Diffuse non-Hodgkin's lymphoma undifferentiated (diffuse),188679001,289812013
+Non-Hodgkin Lymphoma,B627900,414252013,Mucosa-associated lymphoma,277622004,414252013
+Non-Hodgkin Lymphoma,B627911,414253015,Maltoma,277622004,414253015
+Non-Hodgkin Lymphoma,B627A00,1668101000000112,Diffuse non-Hodgkin's large cell lymphoma,109969005,1668101000000112
+Non-Hodgkin Lymphoma,B627B00,289813015,Other types of follicular non-Hodgkin's lymphoma,308121000,451429010
+Non-Hodgkin Lymphoma,B627C00,451429010,Follicular non-Hodgkin's lymphoma,308121000,451429010
+Non-Hodgkin Lymphoma,B627C11,763421000006116,Follicular lymphoma NOS,308121000,451429010
+Non-Hodgkin Lymphoma,B627D00,444799014,Diffuse non-Hodgkin's centroblastic lymphoma,302842009,444799014
+Non-Hodgkin Lymphoma,B627E00,198006010,Diffuse large B-cell lymphoma,847741000000106,2197851000000117
+Non-Hodgkin Lymphoma,B627F00,1815131000006111,Extranodal marginal zone B-cell lymphoma of mucosa-associated lymphoid tissue,445269007,2913563017
+Non-Hodgkin Lymphoma,B627G00,2870725010,Mediastinal (thymic) large B-cell lymphoma,444910004,2870725010
+Non-Hodgkin Lymphoma,B627W00,82041000006113,B-cell non-Hodgkin's lymphoma,1091921000000103,2734911000000119
+Non-Hodgkin Lymphoma,B627X00,621091000006113,"Diffuse non-Hodgkin's lymphoma, unspecified",109962001,174656018
+Non-Hodgkin Lymphoma,B628.00,1815151000006116,Follicular lymphoma,308121000,451429010
+Non-Hodgkin Lymphoma,B628000,1815161000006119,Follicular lymphoma grade 1,847481000000109,2197241000000116
+Non-Hodgkin Lymphoma,B628100,1815171000006114,Follicular lymphoma grade 2,847631000000107,2197621000000114
+Non-Hodgkin Lymphoma,B628200,1815181000006112,Follicular lymphoma grade 3,847651000000100,2197671000000113
+Non-Hodgkin Lymphoma,B628300,2124491000000113,Follicular lymphoma grade 3a,847691000000108,2197741000000110
+Non-Hodgkin Lymphoma,B628400,2124511000000117,Follicular lymphoma grade 3b,847701000000108,2197761000000111
+Non-Hodgkin Lymphoma,B628500,2901912012,Diffuse follicle centre lymphoma,449220000,2901912012
+Non-Hodgkin Lymphoma,B628600,1815221000006115,"Follicular lymphoma, cutaneous follicle centre",1091861000000100,2734771000000114
+Non-Hodgkin Lymphoma,B628700,1815231000006117,Other types of follicular lymphoma,308121000,451429010
+Non-Hodgkin Lymphoma,B62E.00,207325017,T-cell lymphoma,109978004,344696012
+Non-Hodgkin Lymphoma,B62E100,2168491000000113,Anaplastic lymphoma kinase positive anaplastic large cell lymphoma,738770003,3533524018
+Non-Hodgkin Lymphoma,B62E200,1815321000006110,"Anaplastic large cell lymphoma, ALK negative",448212009,2900730018
+Non-Hodgkin Lymphoma,B62E300,1815331000006113,Cutaneous T-cell lymphoma,400122007,1787104010
+Non-Hodgkin Lymphoma,B62E400,2534467019,"Extranodal NK/T-cell lymphoma, nasal type",414166008,2534467019
+Non-Hodgkin Lymphoma,B62E500,2872841013,Hepatosplenic T-cell lymphoma,445406001,2872841013
+Non-Hodgkin Lymphoma,B62E600,414298014,Enteropathy-associated T-cell lymphoma,277654008,414298014
+Non-Hodgkin Lymphoma,B62E700,1815391000006112,Subcutaneous panniculitic T-cell lymphoma,404133000,2872133010
+Non-Hodgkin Lymphoma,B62E800,1815401000006114,Blastic plasmacytoid dendritic cell neoplasm,445105005,2872334012
+Non-Hodgkin Lymphoma,B62E900,2534468012,Angioimmunoblastic T-cell lymphoma,1090241000000107,2731341000000117
+Non-Hodgkin Lymphoma,B62EA00,1815421000006116,Primary cutaneous CD30+ large T-cell lymphoma,128875000,207526015
+Non-Hodgkin Lymphoma,B62Ew00,1815431000006118,Other mature T/NK-cell lymphoma,277613000,414240018
+Non-Hodgkin Lymphoma,B62F.00,1815451000006113,Nonfollicular lymphoma,109962001,2900154016
+Non-Hodgkin Lymphoma,B62F.11,2168861000000117,Non-follicular lymphoma,118601006,2168861000000117
+Non-Hodgkin Lymphoma,B62F000,1815461000006110,Low grade B-cell lymphoma,277615007,414243016
+Non-Hodgkin Lymphoma,B62F100,123978016,Mantle cell lymphoma,443487006,2839720017
+Non-Hodgkin Lymphoma,B62F200,2168691000000110,Lymphoblastic (diffuse) lymphoma,109965004,2168691000000110
+Non-Hodgkin Lymphoma,B62x.00,289820010,Malignant lymphoma (clinical),118600007,177019017
+Non-Hodgkin Lymphoma,B62x000,344657018,T-zone lymphoma,109975001,344657018
+Non-Hodgkin Lymphoma,B62x100,344670010,Lymphoepithelioid lymphoma,109976000,344670010
+Non-Hodgkin Lymphoma,B62x200,2659756011,Peripheral T-cell lymphoma,109977009,2659756011
+Non-Hodgkin Lymphoma,B62x400,445587010,Malignant reticulosis,118612006,445587010
+Non-Hodgkin Lymphoma,B62x500,289826016,Malignant immunoproliferative small intestinal disease,188691005,289826016
+Non-Hodgkin Lymphoma,B62xX00,39671000006114,Cutaneous/peripheral T-cell lymphoma,277613000,414240018
+Non-Hodgkin Lymphoma,B62y.00,728721000006111,Malignant lymphoma,118600007,2663474012
+Non-Hodgkin Lymphoma,B62y000,289830018,Malignant lymphoma NOS of unspecified site,118600007,2663474012
+Non-Hodgkin Lymphoma,B62y100,289831019,"Malignant lymphoma of lymph nodes of head, face AND/OR neck",93195001,154205016
+Non-Hodgkin Lymphoma,B62y200,289832014,Malignant lymphoma of intrathoracic lymph nodes,93193008,154200014
+Non-Hodgkin Lymphoma,B62y300,289842011,Malignant lymphoma of intra-abdominal lymph nodes,93191005,154196016
+Non-Hodgkin Lymphoma,B62y400,728781000006110,Malignant lymphoma of lymph nodes of axilla AND/OR upper limb,93194002,154202018
+Non-Hodgkin Lymphoma,B62y500,728771000006112,Malignant lymphoma of lymph nodes of inguinal region AND/OR lower limb,93196000,154208019
+Non-Hodgkin Lymphoma,B62y600,289845013,Malignant lymphoma of intrapelvic lymph nodes,93192003,154198015
+Non-Hodgkin Lymphoma,B62y700,289846014,Malignant lymphoma of spleen,93198004,154213015
+Non-Hodgkin Lymphoma,B62y800,289847017,Malignant lymphoma of lymph nodes of multiple sites,93197009,154211018
+Non-Hodgkin Lymphoma,B62yz00,289829011,Malignant lymphoma NOS,118600007,2663474012
+Non-Hodgkin Lymphoma,BBg..00,291887011,"[M]Lymphomas, NOS or diffuse",414628006,2535396014
+Non-Hodgkin Lymphoma,BBg1.00,311671000006118,Malignant lymphoma,21964009,36846011
+Non-Hodgkin Lymphoma,BBg1.11,311431000006119,[M]Lymphoma NOS,21964009,36846011
+Non-Hodgkin Lymphoma,BBg1000,291891018,"[M]Malignant lymphoma, diffuse NOS",115244002,202936014
+Non-Hodgkin Lymphoma,BBg2.00,311871000006119,"[M]Malignant lymphoma, non-Hodgkin's type",1929004,1222276014
+Non-Hodgkin Lymphoma,BBg2.11,314061000006117,[M]Non-Hodgkin's lymphoma,1929004,1222274012
+Non-Hodgkin Lymphoma,BBg3.00,291892013,"[M]Malignant lymphoma, undifferentiated cell type NOS",115244002,202936014
+Non-Hodgkin Lymphoma,BBg4.00,311911000006116,"[M]Malignant lymphoma, stem cell type",189962004,291893015
+Non-Hodgkin Lymphoma,BBg5.00,291894014,"[M]Malignant lymphoma, convoluted cell type NOS",115244002,202936014
+Non-Hodgkin Lymphoma,BBg6.00,311521000006118,[M]Lymphosarcoma NOS,115244002,202936014
+Non-Hodgkin Lymphoma,BBg7.00,1222289015,"[M]Malignant lymphoma, lymphoplasmacytoid type",19340000,1222289015
+Non-Hodgkin Lymphoma,BBg8.00,1234197011,"[M]Malignant lymphoma, immunoblastic type",450958009,2920534017
+Non-Hodgkin Lymphoma,BBgA.00,291900014,"[M]Malignant lymphoma, centroblastic-centrocytic, diffuse",115244002,202936014
+Non-Hodgkin Lymphoma,BBgB.00,291902018,"[M]Malignant lymphoma, follicular centre cell NOS",115244002,202936014
+Non-Hodgkin Lymphoma,BBgC.00,291903011,"[M]Malignant lymphoma, lymphocytic, well differentiated NOS",115244002,202936014
+Non-Hodgkin Lymphoma,BBgC.11,1222219012,[M]Lymphocytic lymphoma NOS,115244002,202936014
+Non-Hodgkin Lymphoma,BBgC.12,1222220018,[M]Lymphocytic lymphosarcoma NOS,115244002,202936014
+Non-Hodgkin Lymphoma,BBgD.00,311611000006110,"[M]Malignant lymphoma, lymphocytic, intermediate differentiation NOS",115244002,202936014
+Non-Hodgkin Lymphoma,BBgE.00,291905016,"[M]Malignant lymphoma, centrocytic",115244002,202936014
+Non-Hodgkin Lymphoma,BBgG.00,311811000006111,"[M]Malignant lymphoma, lymphocytic, poorly differentiated NOS",115244002,202936014
+Non-Hodgkin Lymphoma,BBgG.11,311351000006119,[M]Lymphoblastic lymphosarcoma NOS,115244002,202936014
+Non-Hodgkin Lymphoma,BBgG.12,1222221019,[M]Lymphoblastic lymphoma NOS,115244002,202936014
+Non-Hodgkin Lymphoma,BBgG.13,311361000006117,[M]Lymphoblastoma NOS,115244002,202936014
+Non-Hodgkin Lymphoma,BBgH.00,291909010,[M]Prolymphocytic lymphosarcoma,115244002,202936014
+Non-Hodgkin Lymphoma,BBgJ.00,291910017,"[M]Malignant lymphoma, centroblastic type NOS",115244002,202936014
+Non-Hodgkin Lymphoma,BBgK.00,311601000006112,"[M]Malignant lymphoma, follicular centre cell, non-cleaved NOS",115244002,202936014
+Non-Hodgkin Lymphoma,BBgL.00,1232576019,"[M]Malignant lymphoma, small lymphocytic NOS",64575004,1232576019
+Non-Hodgkin Lymphoma,BBgM.00,215912012,"[M]Malignant lymphoma, small cleaved cell, diffuse",115244002,202936014
+Non-Hodgkin Lymphoma,BBgN.00,311641000006114,"[M]Malignant lymphoma, lymphocytic, intermediate differentiation, diffuse",74654000,1233776011
+Non-Hodgkin Lymphoma,BBgP.00,1230828016,"[M]Malignant lymphoma, mixed small and large cell, diffuse",50102004,1230828016
+Non-Hodgkin Lymphoma,BBgQ.00,291913015,[M]Malignant lymphomatous polyposis,74654000,123976017
+Non-Hodgkin Lymphoma,BBgR.00,1230392016,"[M]Malignant lymphoma, large cell, diffuse NOS",46732000,1230392016
+Non-Hodgkin Lymphoma,BBgS.00,291914014,"[M]Malignant lymphoma, large cell, cleaved, diffuse",115244002,202936014
+Non-Hodgkin Lymphoma,BBgT.00,311801000006113,"[M]Malignant lymphoma, large cell, noncleaved, diffuse",115244002,202936014
+Non-Hodgkin Lymphoma,BBgV.00,311881000006116,"[M]Malignant lymphoma, small cell, noncleaved, diffuse",115244002,202936014
+Non-Hodgkin Lymphoma,BBgz.00,311441000006112,Lymphoid neoplasm,414628006,2535396014
+Non-Hodgkin Lymphoma,BBh..00,315991000006111,[M]Reticulosarcomas,189982000,291923012
+Non-Hodgkin Lymphoma,BBh0.00,315951000006117,[M]Reticulosarcoma NOS,189982000,291923012
+Non-Hodgkin Lymphoma,BBh2.00,315971000006110,"[M]Reticulosarcoma, nodular",189985003,291926016
+Non-Hodgkin Lymphoma,BBk..00,311461000006111,"Malignant lymphoma, follicular AND/OR nodular",115245001,176001017
+Non-Hodgkin Lymphoma,BBk0.00,403761014,"[M]Malignant lymphoma, nodular NOS",115244002,202936014
+Non-Hodgkin Lymphoma,BBk0.11,306111000006112,[M]Brill - Symmers' disease,115244002,202936014
+Non-Hodgkin Lymphoma,BBk0.12,308801000006118,[M]Follicular lymphosarcoma NOS,115244002,202936014
+Non-Hodgkin Lymphoma,BBk0.13,309181000006110,[M]Giant follicular lymphoma,115244002,202936014
+Non-Hodgkin Lymphoma,BBk2.00,291943018,"[M]Malignant lymphoma, centroblastic-centrocytic, follicular",115244002,202936014
+Non-Hodgkin Lymphoma,BBk3.00,311621000006119,"[M]Malignant lymphoma, lymphocytic, well differentiated, nodular",115244002,202936014
+Non-Hodgkin Lymphoma,BBk5.00,311561000006112,"[M]Malignant lymphoma, follicular centre cell, cleaved, follicular",115244002,202936014
+Non-Hodgkin Lymphoma,BBk7.00,1229648010,"[M]Malignant lymphoma, centroblastic type, follicular",40411000,1229648010
+Non-Hodgkin Lymphoma,BBk8.00,311591000006116,"[M]Malig lymp,follicular centre cell,noncleaved,follicular",115244002,202936014
+Non-Hodgkin Lymphoma,BBkz.00,291953017,"[M]Lymphoma, nodular or follicular NOS",414628006,2535396014
+Non-Hodgkin Lymphoma,BBl..00,313301000006119,Mycosis fungoides,90120004,149378014
+Non-Hodgkin Lymphoma,BBl0.00,313311000006116,[M]Mycosis fungoides,90120004,149378014
+Non-Hodgkin Lymphoma,BBl1.00,1230735015,[M]Sezary's disease,4950009,1230735015
+Non-Hodgkin Lymphoma,BBlz.00,291955012,[M]Mycosis fungoides NOS,90120004,149378014
+Non-Hodgkin Lymphoma,BBm0.00,291957016,[M]Microglioma,21964009,36846011
+Non-Hodgkin Lymphoma,BBm1.11,215916010,[M]Malignant reticulosis,128920006,207600016
+Non-Hodgkin Lymphoma,BBm5.00,291959018,Mature (peripheral) T-cell neoplasm,414655002,2535406015
+Non-Hodgkin Lymphoma,BBm8.00,1234836015,[M] Angioimmunoblastic lymphadenopathy,835009,1234836015
+Non-Hodgkin Lymphoma,BBm9.00,304151000006118,Monocytoid B-cell lymphoma,128803008,207315010
+Non-Hodgkin Lymphoma,BBmD.00,1225763012,[M] Cutaneous lymphoma,28054005,1225763012
+Non-Hodgkin Lymphoma,BBmF.00,1229774012,[M] Angiocentric immunoproliferative lesion,41556003,1229774012
+Non-Hodgkin Lymphoma,BBmH.00,291963013,Non-Hodgkin lymphoma (category),128929007,207612017
+Non-Hodgkin Lymphoma,BBmJ.00,304071000006110,[M] Angioendotheliomatosis,255102004,380165011
+Non-Hodgkin Lymphoma,BBv0.00,292083014,[M]Monocytoid B-cell lymphoma,128803008,207315010
+Non-Hodgkin Lymphoma,BBv2.00,1220814017,[M]AngiocentricT-cell lymphoma,128805001,1220814017
+Non-Hodgkin Lymphoma,ByuD100,292170010,[X]Other types of follicular non-Hodgkin's lymphoma,308121000,451429010
+Non-Hodgkin Lymphoma,ByuD200,292173012,[X]Other types of diffuse non-Hodgkin's lymphoma,109962001,174656018
+Non-Hodgkin Lymphoma,ByuD300,292174018,[X]Other specified types of non-Hodgkin's lymphoma,118601006,177020011
+Non-Hodgkin Lymphoma,ByuDC00,292191019,Diffuse non-Hodgkin's lymphoma,109962001,174656018
+Non-Hodgkin Lymphoma,ByuDD00,404441000006117,[X]Oth and unspecif peripheral & cutaneous T-cell lymphomas,277613000,414240018
+Non-Hodgkin Lymphoma,ByuDE00,292193016,[X]Unspecified B-cell non-Hodgkin's lymphoma,1091921000000103,2734911000000119
+Non-Hodgkin Lymphoma,ByuDF00,406154013,Non-Hodgkin's lymphoma (clinical),118601006,177020011
+Non-Hodgkin Lymphoma,ByuDF11,400011000006119,[X]Non-Hodgkin's lymphoma NOS,118601006,2663475013
+Non-Hodgkin Lymphoma,M162800,51959012,Lymphomatoid papulosis,31047003,51959012

@@ -1,0 +1,35 @@
+Condition,ReadCode,MedCodeId,Term,SnomedCTConceptId,SnomedCTDescriptionId
+Male infertility,14E2.00,251775017,H/O: infertility - male,161556007,251775017
+Male infertility,14E2.11,251776016,H/O: male infertility,161556007,251776016
+Male infertility,1AZ2.11,779241000006115,Infertility,8619003,15222012
+Male infertility,4914.00,260654013,Semen examination: low fertility,167764006,2666338013
+Male infertility,4915.00,260655014,Semen examination:very low fertility,167765007,2666339017
+Male infertility,4916.00,260656010,Semen examination: infertile,167766008,2666340015
+Male infertility,4917.00,260657018,Semen exam: abnormal,167767004,260657018
+Male infertility,4935.00,1230557013,Sperm absent - azoospermia,48188009,1230557013
+Male infertility,8C8..00,86791000006115,Infertility therapy,65046005,108109017
+Male infertility,8C83.00,282948010,Male infertility therapy,183037005,282948010
+Male infertility,8C8Z.00,397174013,Treatment for infertility NOS,65046005,108109017
+Male infertility,8Cf..00,1483150015,Infertility care,389094009,1483150015
+Male infertility,K26..00,5917015,Male infertility,2904007,5917015
+Male infertility,K260.00,80289014,Azoospermia,48188009,80289014
+Male infertility,K260.11,350131018,Young's syndrome,233666007,350131018
+Male infertility,K261.00,146405014,Oligospermia,88311004,146405014
+Male infertility,K261000,1726011000000114,Oligoasthenozoospermia,448532006,2899358017
+Male infertility,K262.00,1717391000000110,Aspermia,448921000,2902221018
+Male infertility,K26y.00,139715017,Infertility due to extratesticular cause,84245004,139715017
+Male infertility,K26y000,133297015,Infertility due to drug therapy,80330000,133297015
+Male infertility,K26y200,779151000006114,Infertility due to efferent duct obstruction,198014000,304460018
+Male infertility,K26y300,89449014,Infertility due to radiation,53821008,89449014
+Male infertility,K26y400,779201000006117,Secondary infertility,297121000,437580013
+Male infertility,K26yz00,304465011,Infertility due to extratesticular cause NOS,8619003,15222012
+Male infertility,K26z.00,304466012,Male infertility NOS,2904007,5917015
+Male infertility,K5B1000,305106014,Primary pituitary - hypothalamic infertility,198449003,305106014
+Male infertility,K5B1100,305107017,Secondary pituitary - hypothalamic infertility,198450003,305107017
+Male infertility,K5B6.00,2536834014,Female infertility associated with male factors,414187003,2536834014
+Male infertility,K5By000,305127016,Primary infertility,297106006,437558010
+Male infertility,K5By100,305128014,Secondary female infertility,30238006,50614010
+Male infertility,K5Byz11,457148011,Subfertility,313279000,457148011
+Male infertility,ZV26.00,460513011,Infertility care management,408966007,2470803017
+Male infertility,ZV26y00,460526010,[V]Other specified infertility management,399071000000103,1011381000000116
+Male infertility,ZV26z00,460527018,[V]Unspecified infertility management,427641000000106,1011391000000119

@@ -1,0 +1,17 @@
+Condition,ReadCode,MedCodeId,Term,SnomedCTConceptId,SnomedCTDescriptionId
+Motor neuron disease,7Q04100,351861000000110,Amyotrophic lateral sclerosis drugs Band 1,221551000000100,351861000000110
+Motor neuron disease,F15..00,142016013,Anterior horn cell disease,85672005,142016013
+Motor neuron disease,F151.00,9822014,Spinal muscular atrophy,5262007,9822014
+Motor neuron disease,F151000,297125013,Unspecified spinal muscular atrophy,5262007,9822014
+Motor neuron disease,F151200,141723016,Adult spinal muscular atrophy,85505000,1235040019
+Motor neuron disease,F151z00,297127017,Spinal muscular atrophy NOS,5262007,9822014
+Motor neuron disease,F152.00,486695013,Motor neurone disease,37340000,486695013
+Motor neuron disease,F152000,142653015,Amyotrophic lateral sclerosis,86044005,142653015
+Motor neuron disease,F152100,147444011,Progressive muscular atrophy,88923002,147444011
+Motor neuron disease,F152111,631811000006111,Duchenne Aran muscular atrophy,88923002,147444011
+Motor neuron disease,F152200,90263012,Progressive bulbar palsy,54304004,90263012
+Motor neuron disease,F152300,13165015,Pseudobulbar palsy,7379000,13165015
+Motor neuron disease,F152400,134744017,Primary lateral sclerosis,81211007,134744017
+Motor neuron disease,F152z00,297130012,Motor neurone disease NOS,37340000,486695013
+Motor neuron disease,F15y.00,297131011,Other anterior horn cell disease,85672005,142016013
+Motor neuron disease,F15z.00,297132016,Anterior horn cell disease NOS,85672005,142016013

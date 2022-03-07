@@ -1,0 +1,37 @@
+Condition,ReadCode,MedCodeId,Term,SnomedCTConceptId,SnomedCTDescriptionId
+Multiple myeloma and malignant plasma cell neoplasms,B63..00,695561000006118,Multiple myeloma and immunoproliferative neoplasms,109989006,344820010
+Multiple myeloma and malignant plasma cell neoplasms,B630.00,344820010,Multiple myeloma,109989006,344820010
+Multiple myeloma and malignant plasma cell neoplasms,B630.11,344818012,Kahler's disease,109989006,344818012
+Multiple myeloma and malignant plasma cell neoplasms,B630.12,344819016,Myelomatosis,109989006,344819016
+Multiple myeloma and malignant plasma cell neoplasms,B630000,289867014,"Malignant plasma cell neoplasm, extramedullary plasmacytoma",188718006,289867014
+Multiple myeloma and malignant plasma cell neoplasms,B630100,139571000006117,Solitary myeloma,415112005,2534490012
+Multiple myeloma and malignant plasma cell neoplasms,B630200,225051000006119,Plasmacytoma,415112005,2534490012
+Multiple myeloma and malignant plasma cell neoplasms,B630300,457317011,Lambda light chain myeloma,313427003,457317011
+Multiple myeloma and malignant plasma cell neoplasms,B630400,18484012,Plasmacytoma - disorder,415112005,2537380010
+Multiple myeloma and malignant plasma cell neoplasms,B631.00,201743012,Plasma cell leukaemia,95210003,201743012
+Multiple myeloma and malignant plasma cell neoplasms,B63z.00,289874016,Immunoproliferative neoplasm or myeloma NOS,275524009,411516014
+Multiple myeloma and malignant plasma cell neoplasms,B936.11,683191000006119,Myeloma - solitary,415112005,2534490012
+Multiple myeloma and malignant plasma cell neoplasms,B936.12,451430017,Plasmacytoma NOS,415112005,2534490012
+Multiple myeloma and malignant plasma cell neoplasms,BBm6.00,291960011,[M] Alpha heavy chain disease,6381009,11578015
+Multiple myeloma and malignant plasma cell neoplasms,BBmE.00,291962015,[M] Gamma heavy chain disease,6381009,11578015
+Multiple myeloma and malignant plasma cell neoplasms,BBmK.00,318171000006118,Waldenstrom's macroglobulinaemia,35562000,197158017
+Multiple myeloma and malignant plasma cell neoplasms,BBn..00,291969012,[M]Plasma cell tumours,127580003,867011
+Multiple myeloma and malignant plasma cell neoplasms,BBn0.00,1231541019,[M]Plasma cell myeloma,55921005,1231541019
+Multiple myeloma and malignant plasma cell neoplasms,BBn0.11,313271000006116,[M]Multiple myeloma,109989006,344820010
+Multiple myeloma and malignant plasma cell neoplasms,BBn0.12,313381000006111,[M]Myeloma NOS,55921005,1231541019
+Multiple myeloma and malignant plasma cell neoplasms,BBn0.13,313391000006114,[M]Myelomatosis,55921005,1231541019
+Multiple myeloma and malignant plasma cell neoplasms,BBn0.14,315461000006113,[M]Plasmacytic myeloma,55921005,1231541019
+Multiple myeloma and malignant plasma cell neoplasms,BBn2.00,315471000006118,Plasmacytoma,10639003,18480015
+Multiple myeloma and malignant plasma cell neoplasms,BBn2.11,313001000006116,[M]Monostotic myeloma,10639003,18480015
+Multiple myeloma and malignant plasma cell neoplasms,BBn2.12,316711000006113,[M]Solitary myeloma,10639003,18480015
+Multiple myeloma and malignant plasma cell neoplasms,BBn3.00,315441000006114,"[M]Plasma cell tumour, malignant",399456004,1778874018
+Multiple myeloma and malignant plasma cell neoplasms,BBnz.00,291974016,Plasma cell neoplasm (morphology),127580003,867011
+Multiple myeloma and malignant plasma cell neoplasms,BBr3.00,292014014,[M]Plasma cell leukaemias,128922003,207603019
+Multiple myeloma and malignant plasma cell neoplasms,BBr3z00,292017019,Plasma cell leukaemia,128922003,474671016
+Multiple myeloma and malignant plasma cell neoplasms,C333.00,293377011,Macroglobulinaemia,190817009,293377011
+Multiple myeloma and malignant plasma cell neoplasms,C333000,293380012,Waldenstrom's macroglobulinaemia,190818004,293380012
+Multiple myeloma and malignant plasma cell neoplasms,C333011,2168841000000118,Waldenstrom macroglobulinaemia,190818004,2168841000000118
+Multiple myeloma and malignant plasma cell neoplasms,C333100,2659763011,Alpha heavy chain disease,109982002,2659763011
+Multiple myeloma and malignant plasma cell neoplasms,C333200,2659693012,Gamma heavy chain disease,109984001,2659693012
+Multiple myeloma and malignant plasma cell neoplasms,C333300,114573012,Heavy chain disease,68979007,114573012
+Multiple myeloma and malignant plasma cell neoplasms,C333z00,293384015,Macroglobulinaemia NOS,190817009,293377011

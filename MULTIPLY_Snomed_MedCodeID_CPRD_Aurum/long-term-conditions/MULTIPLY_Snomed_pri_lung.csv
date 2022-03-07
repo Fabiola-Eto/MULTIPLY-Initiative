@@ -1,0 +1,37 @@
+Condition,ReadCode,MedCodeId,Term,SnomedCTConceptId,SnomedCTDescriptionId
+Primary malignancy lung and trachea,B22..00,288808013,Malignant neoplasm of lower respiratory tract,430621000,2765453013
+Primary malignancy lung and trachea,B220.00,721391000006116,Malignant neoplasm of trachea,363432004,482662016
+Primary malignancy lung and trachea,B220100,288810010,Malignant neoplasm of mucosa of trachea,187854004,288810010
+Primary malignancy lung and trachea,B220z00,288811014,Malignant neoplasm of trachea NOS,363432004,482662016
+Primary malignancy lung and trachea,B221.00,155361017,Malignant neoplasm of main bronchus,372065009,1210643012
+Primary malignancy lung and trachea,B221000,288813012,Malignant neoplasm of carina of bronchus,187857006,288813012
+Primary malignancy lung and trachea,B221100,155287019,Malignant neoplasm of hilus of lung,93827000,155287019
+Primary malignancy lung and trachea,B221z00,288815017,Malignant neoplasm of main bronchus NOS,372065009,1210643012
+Primary malignancy lung and trachea,B222.00,403688010,"Malignant neoplasm of upper lobe, bronchus or lung",269464000,403688010
+Primary malignancy lung and trachea,B222.11,414849013,Pancoast's syndrome,278065000,414849013
+Primary malignancy lung and trachea,B222000,288819011,Malignant neoplasm of upper lobe bronchus,187861000,288819011
+Primary malignancy lung and trachea,B222100,288820017,Malignant neoplasm of upper lobe of lung,187862007,288820017
+Primary malignancy lung and trachea,B222z00,288821018,"Malignant neoplasm of upper lobe, bronchus or lung NOS",269464000,403688010
+Primary malignancy lung and trachea,B223.00,288822013,"Malignant neoplasm of middle lobe, bronchus or lung",187864008,288822013
+Primary malignancy lung and trachea,B223000,288823015,Malignant neoplasm of middle lobe bronchus,187865009,288823015
+Primary malignancy lung and trachea,B223100,288824014,Malignant neoplasm of middle lobe of lung,187866005,288824014
+Primary malignancy lung and trachea,B223z00,288825010,"Malignant neoplasm of middle lobe, bronchus or lung NOS",187864008,288822013
+Primary malignancy lung and trachea,B224.00,288826011,"Malignant neoplasm of lower lobe, bronchus or lung",187868006,288826011
+Primary malignancy lung and trachea,B224000,288827019,Malignant neoplasm of lower lobe bronchus,187869003,288827019
+Primary malignancy lung and trachea,B224100,288828012,Malignant neoplasm of lower lobe of lung,187870002,288828012
+Primary malignancy lung and trachea,B224z00,288829016,"Malignant neoplasm of lower lobe, bronchus or lung NOS",187868006,288826011
+Primary malignancy lung and trachea,B225.00,723301000006110,Malignant neoplasm of overlapping lesion of bronchus and lung,109371002,1219469018
+Primary malignancy lung and trachea,B22y.00,288832018,Malignant neoplasm of other sites of bronchus or lung,363358000,482516016
+Primary malignancy lung and trachea,B22z.00,403689019,Malignant tumour of lung,363358000,482516016
+Primary malignancy lung and trachea,B22z.11,733371000006119,Lung cancer,93880001,3288586014
+Primary malignancy lung and trachea,B907.00,678461000006119,"Neoplasm of uncertain behaviour trachea, bronchus and lung",95026005,157494019
+Primary malignancy lung and trachea,B907200,511663010,Neoplasm of uncertain behaviour of lung,94920007,511663010
+Primary malignancy lung and trachea,B907z00,680041000006119,"Neop of uncertain behaviour of trachea, bronchus or lung NOS",118616009,177035012
+Primary malignancy lung and trachea,BB5S200,1219789016,[M]Bronchiolo-alveolar adenocarcinoma,112677002,1219789016
+Primary malignancy lung and trachea,BB5S211,305201000006114,[M]Alveolar cell carcinoma,112677002,1219789016
+Primary malignancy lung and trachea,BB5S212,306131000006118,[M]Bronchiolar carcinoma,112677002,1219789016
+Primary malignancy lung and trachea,BB5S400,305181000006113,[M]Alveolar adenocarcinoma,36310008,60606019
+Primary malignancy lung and trachea,Byu2000,292105018,Malignant neoplasm of bronchus or lung,1090881000000100,2732641000000116
+Primary malignancy lung and trachea,ZV10100,344781000006115,"[V]Personal history of malignant neoplasm of trachea, bronchus or lung",412341000000106,876411000000119
+Primary malignancy lung and trachea,ZV10111,1227559018,[V]Personal history of malignant neoplasm of bronchus,415077006,2534963014
+Primary malignancy lung and trachea,ZV10112,1227560011,[V]Personal history of malignant neoplasm of lung,415082004,2534968017

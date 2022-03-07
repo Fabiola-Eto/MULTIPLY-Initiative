@@ -1,0 +1,27 @@
+Condition,ReadCode,MedCodeId,Term,SnomedCTConceptId,SnomedCTDescriptionId
+Pancreatitis,14CG.00,404861000000110,History of acute pancreatitis,247421000000100,404861000000110
+Pancreatitis,14CH.00,404881000000118,History of chronic pancreatitis,247431000000103,404881000000118
+Pancreatitis,A723.00,18532015,Mumps pancreatitis,10665004,18532015
+Pancreatitis,A785100,353692014,Cytomegaloviral pancreatitis,235947007,353692014
+Pancreatitis,D201612,351123016,Pancytopenia with pancreatitis,234367000,351123016
+Pancreatitis,J670.00,303630010,Acute pancreatitis,197456007,303630010
+Pancreatitis,J670000,303632019,Acute pancreatitis unspecified,197456007,303630010
+Pancreatitis,J670100,303633012,Acute recurrent pancreatitis,197458008,303633012
+Pancreatitis,J670200,493743018,Acute haemorrhagic pancreatitis,4399003,493743018
+Pancreatitis,J670300,303636016,Acute suppurative pancreatitis,197460005,303636016
+Pancreatitis,J670400,98289011,Subacute pancreatitis,59154002,98289011
+Pancreatitis,J670500,353686015,Gallstone acute pancreatitis,235941008,353686015
+Pancreatitis,J670600,353688019,Idiopathic acute pancreatitis,235943006,353688019
+Pancreatitis,J670700,2116751000000111,Biliary acute pancreatitis,811431000000107,2116751000000111
+Pancreatitis,J670800,353687012,Alcohol-induced acute pancreatitis,235942001,353687012
+Pancreatitis,J670900,353689010,Drug-induced acute pancreatitis,235944000,353689010
+Pancreatitis,J670y00,1816471000006113,Other acute pancreatitis,197456007,303630010
+Pancreatitis,J670z00,396402014,Acute pancreatitis NOS,197456007,303630010
+Pancreatitis,J670z11,125722013,Pancreatitis,75694006,125722013
+Pancreatitis,J671.00,352985010,Chronic pancreatitis,235494005,352985010
+Pancreatitis,J671000,353698013,Alcohol-induced chronic pancreatitis,235952002,353698013
+Pancreatitis,J671100,353697015,Gallstone chronic pancreatitis,235951009,353697015
+Pancreatitis,J672.00,303643010,Cyst and pseudocyst of pancreas,197464001,303643010
+Pancreatitis,J672100,178612013,Pseudocyst of pancreas,111374002,178612013
+Pancreatitis,J672z00,303644016,Pancreatic cyst and pseudocyst NOS,197464001,303643010
+Pancreatitis,Jyu8400,303793019,[X]Other chronic pancreatitis,235494005,352985010

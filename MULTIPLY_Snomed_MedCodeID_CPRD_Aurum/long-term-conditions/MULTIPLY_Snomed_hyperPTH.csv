@@ -1,0 +1,20 @@
+Condition,ReadCode,MedCodeId,Term,SnomedCTConceptId,SnomedCTDescriptionId
+Hyperparathyroidism,711..11,219891000000119,Parathyroid gland operations,43882005,493699013
+Hyperparathyroidism,7114.11,88639010,Parathyroidectomy,53304009,88639010
+Hyperparathyroidism,7114200,246211000006119,Partial parathyroidectomy + parathyroid tissue transposition,171997006,266355014
+Hyperparathyroidism,7114300,266356010,Subtotal parathyroidectomy,41237009,68788011
+Hyperparathyroidism,7114400,266357018,Parathyroidectomy NEC,53304009,88639010
+Hyperparathyroidism,7114y00,266358011,Other specified excision of parathyroid gland,53304009,88639010
+Hyperparathyroidism,7115z00,266366019,Other operation on parathyroid gland NOS,43882005,197739016
+Hyperparathyroidism,C120.00,111289013,Hyperparathyroidism,66999008,111289013
+Hyperparathyroidism,C120.11,41211000006118,Osteitis fibrosa cystica,84727000,140466019
+Hyperparathyroidism,C120.12,63791000006110,Von Recklinghausen's bone disease,84727000,1234973018
+Hyperparathyroidism,C120000,60663012,Primary hyperparathyroidism,36348003,60663012
+Hyperparathyroidism,C120100,830981000006111,Osteitis fibrosa cystica generalisata,84727000,140459015
+Hyperparathyroidism,C120111,140466019,Osteitis fibrosa cystica,84727000,140466019
+Hyperparathyroidism,C120112,1234973018,von Recklinghausen's bone disease,84727000,1234973018
+Hyperparathyroidism,C120200,129770011,Tertiary hyperparathyroidism,78200003,129770011
+Hyperparathyroidism,C1z3100,49080014,Ectopic hyperparathyroidism,29326002,49080014
+Hyperparathyroidism,Cyu4100,293766019,[X]Other hyperparathyroidism,66999008,111289013
+Hyperparathyroidism,K08y100,151534010,Secondary hyperparathyroidism,91478007,151534010
+Hyperparathyroidism,N332500,312190010,Brown tumour of hyperparathyroidism,203471008,312190010

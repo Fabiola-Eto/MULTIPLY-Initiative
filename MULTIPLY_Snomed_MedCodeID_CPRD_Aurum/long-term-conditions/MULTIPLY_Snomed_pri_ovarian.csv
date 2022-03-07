@@ -1,0 +1,8 @@
+Condition,ReadCode,MedCodeId,Term,SnomedCTConceptId,SnomedCTDescriptionId
+Primary malignancy ovarian,B440.00,723281000006111,Malignant tumour of ovary,363443007,482684016
+Primary malignancy ovarian,B440.11,1228570010,Cancer of ovary,363443007,1228570010
+Primary malignancy ovarian,BB5j200,307971000006119,Endometrioid carcinoma,30289006,50697019
+Primary malignancy ovarian,BB5j500,307921000006115,"[M]Endometrioid adenofibroma, malignant",18105004,1221668019
+Primary malignancy ovarian,BBQA100,317041000006111,"[M]Struma ovarii, malignant",18854008,1222203017
+Primary malignancy ovarian,D212000,451077018,Anaemia in ovarian carcinoma,307726001,451077018
+Primary malignancy ovarian,ZV10414,1227571012,[V]Personal history of malignant neoplasm of ovary,672291000119107,2995672010

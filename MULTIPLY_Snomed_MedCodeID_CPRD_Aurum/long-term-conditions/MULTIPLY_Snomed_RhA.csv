@@ -1,0 +1,68 @@
+Condition,ReadCode,MedCodeId,Term,SnomedCTConceptId,SnomedCTDescriptionId
+Rheumatoid Arthritis,14G1.00,251794010,H/O: rheumatoid arthritis,161567008,251794010
+Rheumatoid Arthritis,2G25.00,255923010,O/E - hands - ulnar deviation,164454008,255923010
+Rheumatoid Arthritis,2G25.11,255922017,O/E - ulnar deviation,164454008,255922017
+Rheumatoid Arthritis,2G27.00,255925015,O/E-hands-rheumatoid spindling,164456005,255925015
+Rheumatoid Arthritis,38DZ.00,2842168015,Disease Activity Score,763259004,3638311016
+Rheumatoid Arthritis,38DZ000,2839291014,Disease activity score 28 joint in rheumatoid arthritis,441870009,2817437013
+Rheumatoid Arthritis,66H..13,219021000000114,Rheumatoid arthritis monitoring,275902004,411871019
+Rheumatoid Arthritis,66HB000,2196791000000119,Rheumatoid arthritis annual review,847261000000104,2196791000000119
+Rheumatoid Arthritis,7P20300,371261000000111,Delivery of rehabilitation for rheumatoid arthritis,231041000000107,371261000000111
+Rheumatoid Arthritis,9mM..00,2275501000000119,Rheumatoid arthritis monitoring invitation,882321000000105,2275501000000119
+Rheumatoid Arthritis,9mM0.00,2275671000000111,Rheumatoid arthritis monitoring invitation first letter,882401000000106,2275671000000111
+Rheumatoid Arthritis,9mM1.00,2275711000000112,Rheumatoid arthritis monitoring invitation second letter,882421000000102,2275711000000112
+Rheumatoid Arthritis,9mM2.00,2275751000000111,Rheumatoid arthritis monitoring invitation third letter,882441000000109,2275751000000111
+Rheumatoid Arthritis,9mM3.00,2275791000000115,Rheumatoid arthritis monitoring verbal invitation,882461000000105,2275791000000115
+Rheumatoid Arthritis,9mM4.00,2275831000000110,Rheumatoid arthritis monitoring telephone invitation,882481000000101,2275831000000110
+Rheumatoid Arthritis,F371200,297544012,Polyneuropathy in rheumatoid arthritis,193180002,297544012
+Rheumatoid Arthritis,F396400,297641010,Myopathy due to rheumatoid arthritis,193250002,297641010
+Rheumatoid Arthritis,G5y8.00,300221014,Rheumatoid myocarditis,195136004,300221014
+Rheumatoid Arthritis,G5yA.00,48361011,Rheumatoid carditis,28880005,48361011
+Rheumatoid Arthritis,H570.00,162301000006117,Rheumatoid lung,398726004,1786545019
+Rheumatoid Arthritis,N005.00,463281000006113,Adult onset Still's disease,239920006,359482019
+Rheumatoid Arthritis,N04..00,168751000006115,Rheumatoid arthritis and other inflammatory polyarthropathy,69896004,116082011
+Rheumatoid Arthritis,N040.00,116082011,Rheumatoid arthritis,69896004,116082011
+Rheumatoid Arthritis,N040000,309787016,Rheumatoid arthritis of cervical spine,201764007,309787016
+Rheumatoid Arthritis,N040100,309788014,Rheumatoid arthritis of spine,9631008,16840014
+Rheumatoid Arthritis,N040200,309789018,Rheumatoid arthritis of shoulder,201766009,309789018
+Rheumatoid Arthritis,N040300,309790010,Rheumatoid arthritis of sternoclavicular joint,201767000,309790010
+Rheumatoid Arthritis,N040400,309791014,Rheumatoid arthritis of acromioclavicular joint,201768005,309791014
+Rheumatoid Arthritis,N040500,309792019,Rheumatoid arthritis of elbow,201769002,309792019
+Rheumatoid Arthritis,N040600,162051000006115,Rheumatoid arthritis of distal radio-ulnar joint,201770001,309793012
+Rheumatoid Arthritis,N040700,309794018,Rheumatoid arthritis of wrist,201771002,309794018
+Rheumatoid Arthritis,N040800,162111000006117,Rheumatoid arthritis of metacarpophalangeal joint,201772009,309795017
+Rheumatoid Arthritis,N040900,162131000006111,Rheumatoid arthritis of proximal interphalangeal joint of finger,201773004,309796016
+Rheumatoid Arthritis,N040A00,162041000006117,Rheumatoid arthritis of distal interphalangeal joint of finger,201774005,309797013
+Rheumatoid Arthritis,N040B00,309798015,Rheumatoid arthritis of hip,201775006,309798015
+Rheumatoid Arthritis,N040C00,162141000006118,Rheumatoid arthritis of sacroiliac joint,201776007,309799011
+Rheumatoid Arthritis,N040D00,309800010,Rheumatoid arthritis of knee,201777003,309800010
+Rheumatoid Arthritis,N040E00,162191000006110,Rheumatoid arthritis of tibio-fibular joint,201778008,309801014
+Rheumatoid Arthritis,N040F00,309802019,Rheumatoid arthritis of ankle,201779000,309802019
+Rheumatoid Arthritis,N040G00,309803012,Rheumatoid arthritis of subtalar joint,201780002,309803012
+Rheumatoid Arthritis,N040H00,309804018,Rheumatoid arthritis of talonavicular joint,201781003,309804018
+Rheumatoid Arthritis,N040J00,309805017,Rheumatoid arthritis of other tarsal joint,429192004,2696026017
+Rheumatoid Arthritis,N040K00,168761000006118,Rheumatoid arthritis of 1st metatarsophalangeal joint,201783000,309807013
+Rheumatoid Arthritis,N040L00,162101000006115,Rheumatoid arthritis of lesser metatarsophalangeal joint,201784006,309808015
+Rheumatoid Arthritis,N040M00,162081000006111,Rheumatoid arthritis of interphalangeal joint of toe,201785007,309809011
+Rheumatoid Arthritis,N040N00,1779323014,Rheumatoid vasculitis,400054000,1779323014
+Rheumatoid Arthritis,N040P00,359292012,Seronegative rheumatoid arthritis,239792003,359292012
+Rheumatoid Arthritis,N040Q00,309812014,Rheumatoid bursitis,84017003,139318017
+Rheumatoid Arthritis,N040R00,162341000006115,Rheumatoid nodule,33719002,485614018
+Rheumatoid Arthritis,N040S00,426510015,Rheumatoid arthritis - multiple joint,287006005,426510015
+Rheumatoid Arthritis,N040T00,309816012,Flare of rheumatoid arthritis,201791009,309816012
+Rheumatoid Arthritis,N041.00,95067016,Felty's syndrome,57160007,95067016
+Rheumatoid Arthritis,N042.00,16911000006114,Rheumatoid arthritis with organ / system involvement,239793008,359293019
+Rheumatoid Arthritis,N042100,1778239014,Rheumatoid lung disease,398726004,1778239014
+Rheumatoid Arthritis,N042200,485614018,Rheumatoid nodule,33719002,485614018
+Rheumatoid Arthritis,N042z00,162231000006117,Rheumatoid arthropathy + visceral/systemic involvement NOS,239793008,359293019
+Rheumatoid Arthritis,N047.00,451461014,Seropositive erosive rheumatoid arthritis,308143008,3517964017
+Rheumatoid Arthritis,N04X.00,149911000006117,Seropositive rheumatoid arthritis,239791005,359291017
+Rheumatoid Arthritis,N04y000,1786545019,Rheumatoid lung,398726004,1786545019
+Rheumatoid Arthritis,N04y011,1786505011,Caplan's syndrome,398640008,1786506012
+Rheumatoid Arthritis,N04y012,311496011,Fibrosing alveolitis associated with rheumatoid arthritis,10713006,311496011
+Rheumatoid Arthritis,N04y200,463301000006112,Adult-onset Still's disease,239920006,359482019
+Rheumatoid Arthritis,N362200,111401000006119,Swan-neck deformity of finger,23060008,1223034016
+Rheumatoid Arthritis,Nyu1000,424981000006114,[X]Rheumatoid arthritis+involvement/other organs or systems,239793008,359293019
+Rheumatoid Arthritis,Nyu1100,312518013,[X]Other seropositive rheumatoid arthritis,239791005,359291017
+Rheumatoid Arthritis,Nyu1200,312520011,[X]Other specified rheumatoid arthritis,69896004,116082011
+Rheumatoid Arthritis,Nyu1G00,312534011,"[X]Seropositive rheumatoid arthritis, unspecified",239791005,359291017

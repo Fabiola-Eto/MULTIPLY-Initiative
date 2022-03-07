@@ -1,0 +1,67 @@
+Condition,ReadCode,MedCodeId,Term,SnomedCTConceptId,SnomedCTDescriptionId
+"Non-malignant tumour of brain, central nervous system and pituitary",710..00,393922013,Pituitary gland and pineal gland operations,265245002,393922013
+"Non-malignant tumour of brain, central nervous system and pituitary",710..12,219881000000116,Pituitary gland operation,36928000,486582014
+"Non-malignant tumour of brain, central nervous system and pituitary",7100y00,266290016,Other specified excision of pituitary gland,52699005,87695016
+"Non-malignant tumour of brain, central nervous system and pituitary",7100z00,410873011,Excision of pituitary gland NOS,52699005,87695016
+"Non-malignant tumour of brain, central nervous system and pituitary",7101000,266296010,Cryotherapy to pituitary gland,171951009,266296010
+"Non-malignant tumour of brain, central nervous system and pituitary",7101100,266297018,Implantation of radioactive substance into pituitary gland,171952002,266297018
+"Non-malignant tumour of brain, central nervous system and pituitary",7102.00,266301010,Operation on pituitary gland,36928000,197236012
+"Non-malignant tumour of brain, central nervous system and pituitary",7102000,266302015,Excision of lesion of pituitary gland,171957008,266302015
+"Non-malignant tumour of brain, central nervous system and pituitary",7102200,266304019,Decompression of pituitary gland,171959006,266304019
+"Non-malignant tumour of brain, central nervous system and pituitary",7102300,266305018,Exploration of pituitary gland,171960001,266305018
+"Non-malignant tumour of brain, central nervous system and pituitary",7102y00,266307014,Other specified other operation on pituitary gland,36928000,197236012
+"Non-malignant tumour of brain, central nervous system and pituitary",7102z00,266308016,Other operation on pituitary gland NOS,36928000,197236012
+"Non-malignant tumour of brain, central nervous system and pituitary",710y.00,226401000006118,Pituitary gland and/or pineal gland operations,265245002,1489884012
+"Non-malignant tumour of brain, central nervous system and pituitary",710z.00,266313017,Pituitary gland and pineal gland operations NOS,265245002,1489884012
+"Non-malignant tumour of brain, central nervous system and pituitary",B7F..00,406273018,Benign neoplasm of brain and other parts of nervous system,92247009,152724018
+"Non-malignant tumour of brain, central nervous system and pituitary",B7F0.00,152433015,Benign neoplasm of brain,92030004,152433015
+"Non-malignant tumour of brain, central nervous system and pituitary",B7F0.11,543101000006113,Cerebral tumour - benign,275269004,411229013
+"Non-malignant tumour of brain, central nervous system and pituitary",B7F0000,290617010,"Benign neoplasm of brain, supratentorial",189162003,290617010
+"Non-malignant tumour of brain, central nervous system and pituitary",B7F1.00,506031000006117,Benign neoplasm of cranial nerves,92071005,152485018
+"Non-malignant tumour of brain, central nervous system and pituitary",B7F1000,237011,Acoustic neuroma,126949007,237011
+"Non-malignant tumour of brain, central nervous system and pituitary",B7F2.00,152459017,Benign neoplasm of cerebral meninges,92051001,152459017
+"Non-malignant tumour of brain, central nervous system and pituitary",B7F2000,290621015,Cerebral meningioma,189164002,290621015
+"Non-malignant tumour of brain, central nervous system and pituitary",B7F2z00,290622010,Benign neoplasm of cerebral meninges NOS,92051001,152459017
+"Non-malignant tumour of brain, central nervous system and pituitary",B7F3.00,152907019,Benign neoplasm of spinal cord,92405007,152907019
+"Non-malignant tumour of brain, central nervous system and pituitary",B7F4.00,152908012,Benign neoplasm of spinal meninges,92406008,152908012
+"Non-malignant tumour of brain, central nervous system and pituitary",B7F4000,290627016,Spinal meningioma,189167009,290627016
+"Non-malignant tumour of brain, central nervous system and pituitary",B7F4z00,290628014,Benign neoplasm of spinal meninges NOS,92406008,152908012
+"Non-malignant tumour of brain, central nervous system and pituitary",B7FX.00,507141000006111,"Benign neoplasm of meninges, unspecified",109913001,174606011
+"Non-malignant tumour of brain, central nervous system and pituitary",B7Fz.00,290633013,Benign neoplasm of brain or other nervous system NOS,92048008,152454010
+"Non-malignant tumour of brain, central nervous system and pituitary",B7H2.00,406274012,Benign neoplasm of pituitary gland and craniopharyngeal duct,271479005,406274012
+"Non-malignant tumour of brain, central nervous system and pituitary",B7H2.11,379886010,Pituitary adenoma,254956000,379886010
+"Non-malignant tumour of brain, central nervous system and pituitary",B7H2000,152784015,Benign neoplasm of pituitary gland,92296004,152784015
+"Non-malignant tumour of brain, central nervous system and pituitary",B7H2100,508141000006110,Benign neoplasm of Rathke's pouch,189179009,290647012
+"Non-malignant tumour of brain, central nervous system and pituitary",B7H2200,290649010,Benign neoplasm of sella turcica,189180007,290649010
+"Non-malignant tumour of brain, central nervous system and pituitary",B7H2300,152487014,Benign neoplasm of craniopharyngeal duct,92072003,152487014
+"Non-malignant tumour of brain, central nervous system and pituitary",B7H2z00,507971000006117,Benign neoplasm of pituitary and craniopharyngeal duct NOS,271479005,406274012
+"Non-malignant tumour of brain, central nervous system and pituitary",B7H3.00,152782016,Benign neoplasm of pineal gland,92294001,152782016
+"Non-malignant tumour of brain, central nervous system and pituitary",B7H4.00,152450018,Benign neoplasm of carotid body,92044005,152450018
+"Non-malignant tumour of brain, central nervous system and pituitary",B7H5.00,290655017,Benign neoplasm of aortic body and other paraganglia,92085000,152502015
+"Non-malignant tumour of brain, central nervous system and pituitary",B7H5000,152553019,Benign neoplasm of glomus jugulare,92121009,152553019
+"Non-malignant tumour of brain, central nervous system and pituitary",B7H5100,152364017,Benign neoplasm of aortic body,91979007,152364017
+"Non-malignant tumour of brain, central nervous system and pituitary",B7H5200,152475019,Benign neoplasm of coccygeal body,92063006,152475019
+"Non-malignant tumour of brain, central nervous system and pituitary",B7H5z00,290660018,Benign neoplasm of aortic body and other paraganglia NOS,92085000,152502015
+"Non-malignant tumour of brain, central nervous system and pituitary",B920z00,679441000006113,Neop uncertain behaviour pituitary and craniopharyngeal NOS,95004009,157471015
+"Non-malignant tumour of brain, central nervous system and pituitary",BB5V.00,291438019,[M]Pituitary adenomas and carcinomas,128665000,207081015
+"Non-malignant tumour of brain, central nervous system and pituitary",BB5Vz00,291439010,[M]Pituitary adenoma or carcinoma NOS,127024001,312016
+"Non-malignant tumour of brain, central nervous system and pituitary",BBb5.00,2550826017,[M]Choroid plexus papilloma NOS,18021007,2550826017
+"Non-malignant tumour of brain, central nervous system and pituitary",BBd..00,291862016,Meningeal neoplasm (morphology),127579001,866019
+"Non-malignant tumour of brain, central nervous system and pituitary",BBd0.00,312341000006110,Meningioma,19453003,32764010
+"Non-malignant tumour of brain, central nervous system and pituitary",BBd3.00,312401000006116,Meningotheliomatous meningioma,68944005,114503013
+"Non-malignant tumour of brain, central nervous system and pituitary",BBd3.11,308011000006114,[M]Endotheliomatous meningioma,68944005,114503013
+"Non-malignant tumour of brain, central nervous system and pituitary",BBd4.00,308681000006111,[M]Fibrous meningioma,511008,1930013
+"Non-malignant tumour of brain, central nervous system and pituitary",BBd5.00,315731000006110,[M]Psammomatous meningioma,38431002,64214013
+"Non-malignant tumour of brain, central nervous system and pituitary",BBd6.00,305471000006116,[M]Angiomatous meningioma,73918009,122759015
+"Non-malignant tumour of brain, central nervous system and pituitary",BBd7.00,309591000006118,[M]Haemangioblastic meningioma,35701008,59550018
+"Non-malignant tumour of brain, central nervous system and pituitary",BBd7.11,305341000006116,[M]Angioblastic meningioma,35701008,59550018
+"Non-malignant tumour of brain, central nervous system and pituitary",BBd8.00,291867010,[M]Haemangiopericytic meningioma,36060005,60174016
+"Non-malignant tumour of brain, central nervous system and pituitary",BBd9.00,317741000006114,Transitional meningioma,64967004,107991012
+"Non-malignant tumour of brain, central nervous system and pituitary",BBdz.00,291869013,[M]Meningioma NOS,19453003,32764010
+"Non-malignant tumour of brain, central nervous system and pituitary",BBe5.11,304311000006116,[M]Acoustic neuroma,126949007,237011
+"Non-malignant tumour of brain, central nervous system and pituitary",C133y00,398800015,Other specified pituitary dwarfism,367460001,492180012
+"Non-malignant tumour of brain, central nervous system and pituitary",C137z00,292743011,Iatrogenic pituitary disorder NOS,86842008,144020013
+"Non-malignant tumour of brain, central nervous system and pituitary",C13A.00,356251016,Pituitary apoplexy,237701005,356251016
+"Non-malignant tumour of brain, central nervous system and pituitary",C13z.00,292751014,Pituitary disease,399244003,1786769017
+"Non-malignant tumour of brain, central nervous system and pituitary",C150200,226301000006110,Pituitary-dependent Cushing's disease,190502001,292760018
+"Non-malignant tumour of brain, central nervous system and pituitary",PK24200,315522013,Accessory pituitary gland,205750001,315522013

@@ -1,0 +1,21 @@
+Condition,ReadCode,MedCodeId,Term,SnomedCTConceptId,SnomedCTDescriptionId
+Primary malignancy liver,B15..00,288688013,Malignant neoplasm of liver and intrahepatic bile ducts,187767006,288688013
+Primary malignancy liver,B150.00,157732017,Primary malignant neoplasm of liver,95214007,157732017
+Primary malignancy liver,B150000,288690014,Primary carcinoma of liver,187769009,288690014
+Primary malignancy liver,B150100,342834014,Hepatoblastoma of liver,109843000,342834014
+Primary malignancy liver,B150200,342851019,Primary angiosarcoma of liver,109844006,342851019
+Primary malignancy liver,B150300,342807011,Hepatocellular carcinoma,109841003,342807011
+Primary malignancy liver,B150z00,288692018,Primary malignant neoplasm of liver NOS,95214007,157732017
+Primary malignancy liver,B152.00,288700011,Malignant neoplasm of liver,93870000,155343014
+Primary malignancy liver,B15z.00,288702015,Malignant neoplasm of liver and intrahepatic bile ducts NOS,187767006,288688013
+Primary malignancy liver,B903.00,679281000006118,Neoplasm of uncertain behaviour of liver and biliary passages,271482000,406280016
+Primary malignancy liver,B903000,511643015,Neoplasm of uncertain behaviour of liver,94910002,511643015
+Primary malignancy liver,BB5D500,1224870013,[M]Hepatocellular carcinoma NOS,25370001,1224870013
+Primary malignancy liver,BB5D511,309871000006116,[M]Hepatoma NOS,25370001,1224870013
+Primary malignancy liver,BB5D512,309891000006115,"[M]Hepatoma, malignant",25370001,1224870013
+Primary malignancy liver,BB5D513,311211000006112,[M]Liver cell carcinoma,25370001,1224870013
+Primary malignancy liver,BB5D700,1231089017,[M]Combined hepatocellular carcinoma and cholangiocarcinoma,52178006,1231089017
+Primary malignancy liver,BB5D711,309851000006114,[M]Hepatocholangiocarcinoma,52178006,1231089017
+Primary malignancy liver,BB5D800,1221209015,"[M] Hepatocellular carcinoma, fibrolamellar",15619004,1221210013
+Primary malignancy liver,Byu1100,292101010,Liver carcinoma,109841003,342812012
+Primary malignancy liver,ZV10015,1227558014,[V]Personal history of malignant neoplasm of liver,415080007,2531431010

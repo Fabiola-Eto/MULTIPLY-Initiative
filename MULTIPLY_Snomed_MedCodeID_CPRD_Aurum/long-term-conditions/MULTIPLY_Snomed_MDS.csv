@@ -1,0 +1,21 @@
+Condition,ReadCode,MedCodeId,Term,SnomedCTConceptId,SnomedCTDescriptionId
+Myelodysplastic syndromes,7Q09700,1694851000000112,Myelodysplastic syndrome drugs Band 1,764091000000100,1694851000000112
+Myelodysplastic syndromes,B937.14,683041000006112,Myelodysplastic syndrome (clinical),109995007,174702016
+Myelodysplastic syndromes,B937000,291252015,"Refractory anaemia without sideroblasts, so stated",189509003,291252015
+Myelodysplastic syndromes,B937100,2535668013,Refractory anaemia with sideroblasts,109998009,2535668013
+Myelodysplastic syndromes,B937200,186311000006115,Refractory anaemia with excess blasts,398623004,1783650013
+Myelodysplastic syndromes,B937300,179151000006119,Refractory anaemia with excess blasts in transformation (clinical),110000005,202883012
+Myelodysplastic syndromes,B937600,1815751000006117,Refractory anaemia without ring sideroblasts,189509003,291252015
+Myelodysplastic syndromes,B937700,1815761000006115,Refractory anaemia with ringed sideroblasts,109998009,2771764017
+Myelodysplastic syndromes,B937800,2137201000000112,Refractory anaemia with multilineage dysplasia,820601000000103,2137201000000112
+Myelodysplastic syndromes,B937900,2872268016,5q minus syndrome,277597005,2872268016
+Myelodysplastic syndromes,B937911,1815791000006111,Myelodysplastic syndrome with isolated del(5q) chromosomal abnormality,277597005,2872270013
+Myelodysplastic syndromes,B937W00,683071000006116,Myelodysplastic syndrome,109995007,2659757019
+Myelodysplastic syndromes,B937W11,683051000006114,Myelodysplasia,109995007,174702016
+Myelodysplastic syndromes,B937X00,179181000006110,"Refractory anaemia, unspecified",109996008,202875018
+Myelodysplastic syndromes,BBmA.00,1216006019,[M] Refractory anaemia with sideroblasts,128846006,1216006019
+Myelodysplastic syndromes,BBmB.00,315831000006119,[M] Refractory anaemia with excess of blasts with transformation,128848007,1216011017
+Myelodysplastic syndromes,BBmL.00,1216009014,[M] Refractory anaemia with excess of blasts,128847002,1216009014
+Myelodysplastic syndromes,BBv..00,313331000006110,Myelodysplastic syndrome,128623006,1208660014
+Myelodysplastic syndromes,ByuHD00,292274012,"[X]Myelodysplastic syndrome, unspecified",109995007,2659757019
+Myelodysplastic syndromes,D213.00,344913019,Refractory anaemia,109996008,344913019

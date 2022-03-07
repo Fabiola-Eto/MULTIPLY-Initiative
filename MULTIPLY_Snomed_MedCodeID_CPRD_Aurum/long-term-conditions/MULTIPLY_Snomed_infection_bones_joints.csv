@@ -1,0 +1,150 @@
+Condition,ReadCode,MedCodeId,Term,SnomedCTConceptId,SnomedCTDescriptionId
+Infection of bones and joints,A022400,12270011,Salmonella osteomyelitis,6803002,12270011
+Infection of bones and joints,A15..00,1494889019,Tuberculosis of bones and joints,17653001,1494889019
+Infection of bones and joints,A985.00,494009014,Gonococcal joint infection,44743006,494009014
+Infection of bones and joints,A985z00,395404019,Gonococcal joint infection NOS,44743006,74639010
+Infection of bones and joints,AB65600,422230018,Osseous cryptococcosis,283688006,422230018
+Infection of bones and joints,AC23000,287771012,Echinococcus granulosus infection of bone,187137009,287771012
+Infection of bones and joints,AE03.00,287964012,Late effects of tuberculosis of bones and joints,187255005,287964012
+Infection of bones and joints,AyuJ200,287965013,[X]Sequelae of tuberculosis of bones and joints,187255005,287965013
+Infection of bones and joints,F4G0400,109408010,Orbital osteomyelitis,65875003,109408010
+Infection of bones and joints,J064.12,220981000000110,Osteomyelitis of jaw,87415007,144930019
+Infection of bones and joints,J064400,54093010,Acute osteomyelitis of jaw,32392003,54093010
+Infection of bones and joints,J064500,64096017,Chronic osteomyelitis of jaw,38297003,64096017
+Infection of bones and joints,N010.00,495040011,Pyogenic arthritis,372939007,1229170014
+Infection of bones and joints,N010000,309441011,Pyogenic arthritis of unspecified site,372939007,1211457012
+Infection of bones and joints,N010100,1228677017,Pyogenic arthritis of the shoulder region,36678001,1228677017
+Infection of bones and joints,N010200,400157014,Pyogenic arthritis of the upper arm,239779001,359268016
+Infection of bones and joints,N010211,359268016,Elbow pyogenic arthritis,239779001,359268016
+Infection of bones and joints,N010300,1229825015,Pyogenic arthritis of the forearm,267879008,400158016
+Infection of bones and joints,N010311,359267014,Wrist pyogenic arthritis,239778009,359267014
+Infection of bones and joints,N010400,1232174014,Pyogenic arthritis of the hand,61112000,1232174014
+Infection of bones and joints,N010500,400159012,Pyogenic arthritis of the pelvic region and thigh,267880006,400159012
+Infection of bones and joints,N010511,1229173011,Hip pyogenic arthritis,372941008,1229173011
+Infection of bones and joints,N010600,400160019,Pyogenic arthritis of the lower leg,267881005,400160019
+Infection of bones and joints,N010611,359266017,Knee pyogenic arthritis,239777004,359266017
+Infection of bones and joints,N010700,400161015,Pyogenic arthritis of the ankle and foot,267882003,400161015
+Infection of bones and joints,N010711,483811000006116,Pyogenic arthritis of ankle,20358003,34235018
+Infection of bones and joints,N010x00,58293010,Pyogenic arthritis of multiple sites,34934005,58293010
+Infection of bones and joints,N010y00,309463019,Pyogenic arthritis of other specified sites,372939007,1211457012
+Infection of bones and joints,N010z00,309464013,Pyogenic arthritis NOS,372939007,1229170014
+Infection of bones and joints,N11y000,311112016,Brucella spondylitis,202698007,311112016
+Infection of bones and joints,N11y100,311113014,Enterobacterial spondylitis,202699004,311113014
+Infection of bones and joints,N12zG00,311190013,Infection of intervertebral disc - pyogenic,202756004,311190013
+Infection of bones and joints,N25..00,161571000006113,SAPHO syndrome,60684003,100823019
+Infection of bones and joints,N30..00,40691000006117,Infection of bone,111253001,178471017
+Infection of bones and joints,N300.00,2471514017,Acute osteomyelitis,409780002,2471514017
+Infection of bones and joints,N300.12,455901000006117,Acute bone infection,409780002,2471514017
+Infection of bones and joints,N300000,311775017,Acute osteomyelitis of unspecified site,409780002,2471514017
+Infection of bones and joints,N300100,458761000006113,Acute osteomyelitis of shoulder region,7587000,13543014
+Infection of bones and joints,N300200,1494966011,Acute osteomyelitis of the upper arm,203164005,1494966011
+Infection of bones and joints,N300300,458721000006119,Acute osteomyelitis of forearm,19956000,33595013
+Infection of bones and joints,N300400,1495531012,Acute osteomyelitis of the hand,10188004,1495531012
+Infection of bones and joints,N300500,400320011,Acute osteomyelitis of the pelvic region and thigh,268016009,400320011
+Infection of bones and joints,N300511,823741000006111,Acute osteomyelitis of hip,287052003,3286671018
+Infection of bones and joints,N300512,237641000006118,Acute osteomyelitis of pelvic region,80507005,133587013
+Infection of bones and joints,N300513,1494968012,Thigh acute osteomyelitis,203170004,1494968012
+Infection of bones and joints,N300600,311785016,Acute osteomyelitis of the lower leg,203153007,311785016
+Infection of bones and joints,N300700,400321010,Acute osteomyelitis of the ankle and foot,268017000,400321010
+Infection of bones and joints,N300711,359768015,Ankle - acute osteomyelitis,240143007,359768015
+Infection of bones and joints,N300712,359767013,Foot - acute osteomyelitis,240142002,359767013
+Infection of bones and joints,N300800,311790018,Acute osteomyelitis of other specified site,409780002,2471514017
+Infection of bones and joints,N300900,99455019,Acute osteomyelitis of multiple sites,59867002,99455019
+Infection of bones and joints,N300A00,311792014,Acute osteomyelitis-cervical spine,203157008,311792014
+Infection of bones and joints,N300B00,311793016,Acute osteomyelitis-thoracic spine,203158003,311793016
+Infection of bones and joints,N300C00,311794010,Acute osteomyelitis-lumbar spine,203159006,311794010
+Infection of bones and joints,N300D00,311795011,Acute osteomyelitis-sacrum,203160001,311795011
+Infection of bones and joints,N300E00,311796012,Acute osteomyelitis-coccyx,203161002,311796012
+Infection of bones and joints,N300F00,311797015,Acute osteomyelitis-clavicle,203162009,311797015
+Infection of bones and joints,N300H00,311799017,Acute osteomyelitis-humerus,203164005,311799017
+Infection of bones and joints,N300J00,311800018,Acute osteomyelitis-radius,203165006,311800018
+Infection of bones and joints,N300K00,311801019,Acute osteomyelitis-ulna,203166007,311801019
+Infection of bones and joints,N300L00,311802014,Acute osteomyelitis-carpal bone,203167003,311802014
+Infection of bones and joints,N300M00,311803016,Acute osteomyelitis-metacarpal,203168008,311803016
+Infection of bones and joints,N300N00,311804010,Acute osteomyelitis-phalanx of finger/thumb,203169000,311804010
+Infection of bones and joints,N300P00,1234478019,Acute osteomyelitis-pelvis,80507005,1234478019
+Infection of bones and joints,N300Q00,311805011,Acute osteomyelitis-femur,203170004,311805011
+Infection of bones and joints,N300R00,311806012,Acute osteomyelitis-patella,203171000,311806012
+Infection of bones and joints,N300S00,311807015,Acute osteomyelitis-tibia,203172007,311807015
+Infection of bones and joints,N300T00,311808013,Acute osteomyelitis-fibula,203173002,311808013
+Infection of bones and joints,N300U00,311809017,Acute osteomyelitis-calcaneum,203174008,311809017
+Infection of bones and joints,N300V00,311810010,Acute osteomyelitis-talus,203175009,311810010
+Infection of bones and joints,N300W00,311811014,Acute osteomyelitis of foot,240142002,3035435017
+Infection of bones and joints,N300X00,311812019,Acute osteomyelitis-metatarsal,203177001,311812019
+Infection of bones and joints,N300Y00,311813012,Acute osteomyelitis-phalanx of toe,203178006,311813012
+Infection of bones and joints,N300z00,311816016,Acute osteomyelitis NOS,409780002,2471514017
+Infection of bones and joints,N300Z00,311815017,Acute haematogenous osteomyelitis,203179003,311815017
+Infection of bones and joints,N301.00,68341014,Chronic osteomyelitis,40970001,68341014
+Infection of bones and joints,N301.12,798701000006111,Garre's sclerosing osteomyelitis,75886002,503142011
+Infection of bones and joints,N301000,311823015,Chronic osteomyelitis of unspecified site,40970001,68341014
+Infection of bones and joints,N301100,311824014,Chronic osteomyelitis of the shoulder region,203184009,311824014
+Infection of bones and joints,N301200,311825010,Chronic osteomyelitis of the upper arm,203185005,311825010
+Infection of bones and joints,N301300,311826011,Chronic osteomyelitis of the forearm,203186006,311826011
+Infection of bones and joints,N301400,1495654011,Chronic osteomyelitis of the hand,13325005,1495654011
+Infection of bones and joints,N301500,400322015,Chronic osteomyelitis of the pelvic region and thigh,268018005,400322015
+Infection of bones and joints,N301511,359775019,Pelvis - chronic osteomyelitis,240150006,359775019
+Infection of bones and joints,N301512,359774015,Thigh - chronic osteomyelitis,240149006,359774015
+Infection of bones and joints,N301600,311832018,Chronic osteomyelitis of the lower leg,203189004,311832018
+Infection of bones and joints,N301700,400323013,Chronic osteomyelitis of the ankle and foot,268019002,400323013
+Infection of bones and joints,N301711,359773014,Ankle - chronic osteomyelitis,240148003,359773014
+Infection of bones and joints,N301712,359772016,Foot - chronic osteomyelitis,240147008,359772016
+Infection of bones and joints,N301800,311837012,Chronic osteomyelitis of other specified site,40970001,68341014
+Infection of bones and joints,N301900,110702011,Chronic osteomyelitis of multiple sites,66634003,110702011
+Infection of bones and joints,N301A00,311839010,Chronic osteomyelitis-cervical spine,203193005,311839010
+Infection of bones and joints,N301B00,311840012,Chronic osteomyelitis-thoracic spine,203194004,311840012
+Infection of bones and joints,N301C00,311841011,Chronic osteomyelitis-lumbar spine,203195003,311841011
+Infection of bones and joints,N301D00,311842016,Chronic osteomyelitis-sacrum,203196002,311842016
+Infection of bones and joints,N301E00,311843014,Chronic osteomyelitis-coccyx,203197006,311843014
+Infection of bones and joints,N301L00,359776018,Chronic multifocal osteomyelitis,240151005,359776018
+Infection of bones and joints,N301M00,359778017,Chronic osteomyelitis with draining sinus,240152003,359778017
+Infection of bones and joints,N301z00,311851012,Chronic osteomyelitis NOS,40970001,68341014
+Infection of bones and joints,N302.00,400324019,Osteomyelitis,60168000,99949018
+Infection of bones and joints,N302.11,360276014,Bone infection,111253001,178471017
+Infection of bones and joints,N302000,311855015,Unspecified osteomyelitis of unspecified site,60168000,99949018
+Infection of bones and joints,N302100,311856019,Unspecified osteomyelitis of the shoulder region,60168000,99949018
+Infection of bones and joints,N302200,311857011,Unspecified osteomyelitis of the upper arm,60168000,99949018
+Infection of bones and joints,N302300,311858018,Unspecified osteomyelitis of the forearm,60168000,99949018
+Infection of bones and joints,N302400,311859014,Unspecified osteomyelitis of the hand,60168000,99949018
+Infection of bones and joints,N302500,311860016,Unspecified osteomyelitis of the pelvic region and thigh,60168000,99949018
+Infection of bones and joints,N302600,311861017,Unspecified osteomyelitis of the lower leg,60168000,99949018
+Infection of bones and joints,N302700,311862012,Osteomyelitis of ankle AND/OR foot,28769004,48174014
+Infection of bones and joints,N302800,311863019,Unspecified osteomyelitis of other specified site,60168000,99949018
+Infection of bones and joints,N302900,311864013,Unspecified osteomyelitis of multiple sites,60168000,99949018
+Infection of bones and joints,N302a00,311889019,Osteomyelitis of vertebra,203241002,311889019
+Infection of bones and joints,N302z00,311893013,Unspecified osteomyelitis NOS,60168000,99949018
+Infection of bones and joints,N303.00,311894019,Periostitis without osteomyelitis,203245006,311894019
+Infection of bones and joints,N303000,235391000006113,"Periostitis without osteomyelitis, of unspecified site",203245006,311894019
+Infection of bones and joints,N303100,235371000006112,"Periostitis without osteomyelitis, of the shoulder region",203245006,311894019
+Infection of bones and joints,N303200,235381000006110,"Periostitis without osteomyelitis, of the upper arm",203245006,311894019
+Infection of bones and joints,N303300,311898016,"Periostitis without osteomyelitis, of the forearm",203249000,311898016
+Infection of bones and joints,N303400,311899012,"Periostitis without osteomyelitis, of the hand",203250000,311899012
+Infection of bones and joints,N303500,235321000006111,"Periostitis without osteomyelitis, of the pelvic region and thigh",203251001,311900019
+Infection of bones and joints,N303600,235361000006117,Periostitis of lower leg,55083007,91574010
+Infection of bones and joints,N303700,235331000006114,"Periostitis without osteomyelitis, of the ankle and foot",12890007,22103019
+Infection of bones and joints,N303800,235311000006115,"Periostitis without osteomyelitis, of other specified site",203245006,311894019
+Infection of bones and joints,N303900,235301000006118,"Periostitis without osteomyelitis, of multiple sites",203245006,311894019
+Infection of bones and joints,N303z00,311910011,Periostitis without osteomyelitis NOS,203245006,311894019
+Infection of bones and joints,N304.00,1228335014,Tuberculosis of spine (Pott's),35984006,1228335014
+Infection of bones and joints,N304.11,82541000006118,Tuberculosis of vertebral column,35984006,60049017
+Infection of bones and joints,N308.00,123091000006110,Subacute osteomyelitis,67322009,111860018
+Infection of bones and joints,N308100,123151000006117,Subacute osteomyelitis-thoracic spine,203297004,311946019
+Infection of bones and joints,N308300,123141000006119,Subacute osteomyelitis-sacrum,203299001,311948018
+Infection of bones and joints,N309.00,111860018,Subacute osteomyelitis,67322009,111860018
+Infection of bones and joints,N30z.00,520081000006110,Bone infection,111253001,360276014
+Infection of bones and joints,N30z000,311964014,"Bone infection NOS, of unspecified site",111253001,178471017
+Infection of bones and joints,N30z100,311965010,"Bone infection NOS, of the shoulder region",111253001,178471017
+Infection of bones and joints,N30z200,311966011,"Bone infection NOS, of the upper arm",111253001,178471017
+Infection of bones and joints,N30z300,311967019,"Bone infection NOS, of the forearm",111253001,178471017
+Infection of bones and joints,N30z400,311968012,"Bone infection NOS, of the hand",111253001,178471017
+Infection of bones and joints,N30z500,311969016,"Bone infection NOS, of the pelvic/thigh",111253001,178471017
+Infection of bones and joints,N30z600,311970015,"Bone infection NOS, of the lower leg",111253001,178471017
+Infection of bones and joints,N30z700,311971016,"Bone infection NOS, of ankle and foot",111253001,178471017
+Infection of bones and joints,N30z800,400325018,"Bone infection NOS, of other specified site",111253001,178471017
+Infection of bones and joints,N30z900,311975013,"Bone infection NOS, of multiple sites",111253001,178471017
+Infection of bones and joints,N30zz00,311963015,Bone infection NOS,111253001,360276014
+Infection of bones and joints,NyuC000,312695018,[X]Other acute osteomyelitis,60168000,99949018
+Infection of bones and joints,NyuC100,312697014,[X]Other chronic haematogenous osteomyelitis,40970001,68341014
+Infection of bones and joints,NyuC200,312698016,[X]Other chronic osteomyelitis,40970001,68341014
+Infection of bones and joints,NyuC300,312699012,[X]Other osteomyelitis,60168000,99949018
+Infection of bones and joints,SP06500,324943012,Infection of bone graft,213126000,324943012
+Infection of bones and joints,SP06600,324944018,Infection of bone allograft,213127009,324944018

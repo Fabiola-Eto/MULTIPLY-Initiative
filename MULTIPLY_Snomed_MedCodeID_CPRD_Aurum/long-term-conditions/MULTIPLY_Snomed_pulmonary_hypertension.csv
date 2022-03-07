@@ -1,0 +1,4 @@
+Condition,ReadCode,MedCodeId,Term,SnomedCTConceptId,SnomedCTDescriptionId
+Pulmonary hypertension,G410.00,43850011,Pulmonary arterial hypertension,11399002,2968228010
+Pulmonary hypertension,G41y000,146259010,Secondary pulmonary hypertension,88223008,146259010
+Pulmonary hypertension,G41y100,350517010,Thromboembolic pulmonary hypertension,233947005,350517010

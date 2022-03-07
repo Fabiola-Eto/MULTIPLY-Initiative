@@ -1,0 +1,4 @@
+Condition,ReadCode,MedCodeId,Term,SnomedCTConceptId,SnomedCTDescriptionId
+Sjogren's disease,F396700,297645018,Myopathy due to Sjogren's disease,193253000,297645018
+Sjogren's disease,H57y300,301720019,Lung disease with Sjogren's disease,196137000,301720019
+Sjogren's disease,N002.00,141091000006112,Sicca syndrome,83901003,139128015

@@ -1,0 +1,8 @@
+Condition,ReadCode,MedCodeId,Term,SnomedCTConceptId,SnomedCTDescriptionId
+Psoriatic arthropathy,M160.00,55627011,Psoriatic arthropathy,33339001,55627011
+Psoriatic arthropathy,M160.11,55628018,Psoriatic arthritis,33339001,55628018
+Psoriatic arthropathy,M160000,198881000006116,Psoriatic spondylitis,200956002,308727011
+Psoriatic arthropathy,M160100,359321011,Distal interphalangeal psoriatic arthropathy,239812005,359321011
+Psoriatic arthropathy,M160200,32869011,Arthritis mutilans,19514005,32869011
+Psoriatic arthropathy,M160z00,308730016,Psoriatic arthropathy NOS,33339001,55627011
+Psoriatic arthropathy,Nyu1300,312521010,Psoriasis with arthropathy,33339001,55626019

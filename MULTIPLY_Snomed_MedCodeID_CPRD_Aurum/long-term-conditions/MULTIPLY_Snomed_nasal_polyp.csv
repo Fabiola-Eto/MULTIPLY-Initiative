@@ -1,0 +1,25 @@
+Condition,ReadCode,MedCodeId,Term,SnomedCTConceptId,SnomedCTDescriptionId
+Nasal polyp,2D33.00,255593013,O/E - nasal polyp present,736499003,3517886017
+Nasal polyp,7402900,451074013,Excision of polyp of nasal septum,307723009,451074013
+Nasal polyp,7402911,451073019,Nasal septum polypectomy,307723009,451073019
+Nasal polyp,7406000,267569019,Nasal polypectomy,172825008,267569019
+Nasal polyp,7406700,456346011,Nasal polypectomy using auto-debrider,312595006,456346011
+Nasal polyp,7416F00,912771000006112,Functional endoscopic sinus surgery - polypectomy of nasal sinus,401307002,1780494010
+Nasal polyp,H11..00,681691000006114,Polyp of nasal cavity and/or nasal sinus,736499003,3517886017
+Nasal polyp,H110.00,87782018,Polyp of nasal cavity,736499003,3517886017
+Nasal polyp,H110000,51348012,Choanal polyp,30677002,51348012
+Nasal polyp,H110100,51349016,Nasopharyngeal polyp,30677002,51349016
+Nasal polyp,H110z00,301156010,Polyp of nasal cavity NOS,32307003,53968018
+Nasal polyp,H111.00,44865016,Polypoid sinus degeneration,26808007,44865016
+Nasal polyp,H111000,301158011,Woakes' ethmoiditis,195756009,301158011
+Nasal polyp,H111z00,301159015,Polypoid sinus degeneration NOS,26808007,44865016
+Nasal polyp,H11y.00,396094010,Other polyp of sinus,32307003,53968018
+Nasal polyp,H11y.11,681821000006111,Nasal sinus polyps,32307003,53968018
+Nasal polyp,H11y000,301163010,Polyp of frontal sinus,195759002,301163010
+Nasal polyp,H11y100,40240015,Polyp of ethmoidal sinus,23966000,40240015
+Nasal polyp,H11y200,48663018,Polyp of maxillary sinus,29074008,48663018
+Nasal polyp,H11y211,484189011,Antral (maxillary) polyp,29074008,484189011
+Nasal polyp,H11y300,150282011,Polyp of sphenoidal sinus,90685008,150282011
+Nasal polyp,H11yz00,301170010,Other polyp of sinus NOS,32307003,53968018
+Nasal polyp,H11z.00,301171014,Polyp of nasal sinus,32307003,53968018
+Nasal polyp,Hyu2300,301826015,Polyp of nasal sinus,32307003,53968018

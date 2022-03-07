@@ -1,0 +1,17 @@
+Condition,ReadCode,MedCodeId,Term,SnomedCTConceptId,SnomedCTDescriptionId
+Juvenile arthritis,N043.00,755441000006119,Juvenile rheumatoid arthritis - Still's disease,410795001,2472447010
+Juvenile arthritis,N043000,309824019,Juvenile rheumatoid arthropathy unspecified,410793008,2472445019
+Juvenile arthritis,N043100,125937016,Acute polyarticular juvenile rheumatoid arthritis,75822003,125937016
+Juvenile arthritis,N043200,123542016,Pauciarticular juvenile rheumatoid arthritis,74391003,502690012
+Juvenile arthritis,N043300,309827014,Monarticular juvenile rheumatoid arthritis,201799006,309827014
+Juvenile arthritis,N043z00,309828016,Juvenile rheumatoid arthritis NOS,410795001,2472447010
+Juvenile arthritis,N045.00,309829012,Juvenile arthritis,239796000,359297018
+Juvenile arthritis,N045000,359312010,Juvenile ankylosing spondylitis,239805001,359312010
+Juvenile arthritis,N045100,2472449013,Juvenile seronegative polyarthritis,410797009,2472449013
+Juvenile arthritis,N045200,359310019,Juvenile arthritis in psoriasis,239803008,359310019
+Juvenile arthritis,N045300,309833017,Juvenile arthritis in Crohn's disease,201805000,309833017
+Juvenile arthritis,N045400,309836013,Juvenile arthritis in ulcerative colitis,201807008,309836013
+Juvenile arthritis,N045500,2472447010,Juvenile rheumatoid arthritis,410795001,2472447010
+Juvenile arthritis,N045600,502690012,Pauciarticular onset juvenile chronic arthritis,74391003,502690012
+Juvenile arthritis,Nyu1500,312523013,[X]Other juvenile arthritis,239796000,359297018
+Juvenile arthritis,Nyu1600,394571000006116,Chronic arthritis of juvenile onset,410793008,2472445019

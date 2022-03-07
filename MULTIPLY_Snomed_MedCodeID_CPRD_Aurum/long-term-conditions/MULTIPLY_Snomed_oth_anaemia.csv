@@ -1,0 +1,71 @@
+Condition,ReadCode,MedCodeId,Term,SnomedCTConceptId,SnomedCTDescriptionId
+Other anaemias,145..11,411530016,H/O: anaemia,275538002,411530016
+Other anaemias,1454.00,251617011,H/O: anaemia NOS,275538002,411530016
+Other anaemias,4234.00,257182019,Haemoglobin very low,165396004,257182019
+Other anaemias,4235.00,257185017,Haemoglobin low,165397008,257185017
+Other anaemias,D0...00,399193019,Deficiency anaemias,267513007,399193019
+Other anaemias,D00..11,789001000006115,Hypochromic - microcytic anaemia,44666001,493975011
+Other anaemias,D00..12,703501000006114,Microcytic - hypochromic anaemia,44666001,493975011
+Other anaemias,D00y100,493975011,Microcytic hypochromic anaemia,44666001,493975011
+Other anaemias,D00z200,293885013,Idiopathic hypochromic anaemia,191136008,293885013
+Other anaemias,D01..00,399196010,Other deficiency anaemias,267513007,399193019
+Other anaemias,D01..11,496576014,Megaloblastic anaemia,53165003,496576014
+Other anaemias,D012112,351101015,Megaloblastic anaemia due to dietary causes,234358000,351101015
+Other anaemias,D012500,731981000006116,Macrocytic anaemia,83414005,505602015
+Other anaemias,D013.00,293946019,Other specified megaloblastic anaemia NEC,53165003,88429014
+Other anaemias,D013z00,293949014,Other specified megaloblastic anaemia NEC NOS,53165003,88429014
+Other anaemias,D014.00,293952018,Protein-deficiency anaemia,85746008,142125016
+Other anaemias,D014000,479141000006117,Amino-acid deficiency anaemia,85746008,142125016
+Other anaemias,D014100,41521000006112,Orotic aciduria,47641009,79408019
+Other anaemias,D014z00,293956015,Anemia due to protein deficiency,85746008,142125016
+Other anaemias,D01y.00,293959010,Other specified nutritional deficiency anaemia,267513007,399192012
+Other anaemias,D01y000,293961018,Vitamin C deficiency anaemia,191161006,293961018
+Other anaemias,D01y100,293965010,Anaemia due to vitamin E deficiency,24962009,482070013
+Other anaemias,D01yy00,293966011,Other specified other nutritional deficiency anaemia,267513007,399192012
+Other anaemias,D01yz00,293969016,Other specified nutritional deficiency anaemia NOS,267513007,399192012
+Other anaemias,D01z.00,399205010,Other deficiency anaemias NOS,267513007,399193019
+Other anaemias,D01z.11,351100019,Megaloblastic anaemia NOS,53165003,496576014
+Other anaemias,D01z000,293977017,[X]Megaloblastic anaemia NOS,53165003,496576014
+Other anaemias,D0y..00,293978010,Other specified deficiency anaemias,267513007,399193019
+Other anaemias,D0z..00,293981017,Deficiency anaemias NOS,267513007,399193019
+Other anaemias,D104100,294021010,Thalassaemia minor,19442009,2770070012
+Other anaemias,D104400,294032010,Alpha trait thalassaemia,191187006,294032010
+Other anaemias,D104500,510131000006116,Beta thalassaemia trait,269175006,402962015
+Other anaemias,D104800,501116019,Beta minor thalassaemia,269175006,402962015
+Other anaemias,D2...00,294148013,Aplastic and other anaemias,271737000,406636013
+Other anaemias,D21..00,38181000006111,Other and unspecified anaemias,271737000,406638014
+Other anaemias,D210.00,493120017,Sideroblastic anaemia,41841004,493120017
+Other anaemias,D210000,499346019,Congenital sideroblastic anaemia,48983004,81603013
+Other anaemias,D210100,508873014,Acquired sideroblastic anaemia,90175006,508873014
+Other anaemias,D210200,294231010,Pyridoxine-responsive sideroblastic anaemia,191260004,294231010
+Other anaemias,D210300,294232015,Secondary sideroblastic anaemia due to disease,191261000,294232015
+Other anaemias,D210400,294235018,Secondary sideroblastic anaemia due to drugs and toxins,191262007,294235018
+Other anaemias,D210z00,294236017,Sideroblastic anaemia NOS,41841004,493120017
+Other anaemias,D211.00,399228011,Acute posthaemorrhagic anaemia,267530009,399228011
+Other anaemias,D211.11,445119014,Normocytic anaemia following acute bleed,303060002,445119014
+Other anaemias,D212.00,294245016,Anaemia in neoplastic disease,191265009,294245016
+Other anaemias,D212000,451077018,Anaemia in ovarian carcinoma,307726001,451077018
+Other anaemias,D213.00,344913019,Refractory anaemia,109996008,344913019
+Other anaemias,D214.00,294251014,Chronic anaemia,191268006,294251014
+Other anaemias,D215.00,454255014,Anaemia secondary to renal failure,310647000,454255014
+Other anaemias,D215000,480871000006117,Anaemia of chronic renal failure,49708008,495474017
+Other anaemias,D21y.00,15581000006119,Other specified anaemias,271737000,406638014
+Other anaemias,D21y000,582091000006116,Congenital dyshaematopoietic anaemia,52951008,88102013
+Other anaemias,D21y011,496498015,Congenital dyserythropoietic anaemia,52951008,496498015
+Other anaemias,D21y012,351096015,Congenital dyserythropoiesis NEC,52951008,88102013
+Other anaemias,D21y200,745101000006113,Leukoerythroblastic anaemia,2694001,483387010
+Other anaemias,D21y300,821351000006113,Hereditary erythroblast multinuclearity with positive acid serum test,68870007,1233095010
+Other anaemias,D21yy00,294275014,Other specified other anaemia,271737000,406638014
+Other anaemias,D21yz00,294278011,Other specified anaemia NOS,271737000,406636013
+Other anaemias,D21z.00,399230013,Anaemia,271737000,406638014
+Other anaemias,D21z.11,351071018,Anaemia,271737000,406638014
+Other anaemias,D21z.12,351067016,Normocytic anaemia,300980002,442184016
+Other anaemias,D21z.13,351097012,Macrocytic anemia,83414005,505602015
+Other anaemias,D2y..00,294290013,Other specified anaemias,271737000,406638014
+Other anaemias,D2z..00,294291012,Anaemia,271737000,406638014
+Other anaemias,Dyu0.00,294564014,Nutritional anaemia,66612000,500483015
+Other anaemias,Dyu2200,294603013,Anaemia of chronic disease,234347009,351077019
+Other anaemias,Dyu2400,294607014,[X]Other specified anaemias,271737000,406636013
+Other anaemias,Q455.00,499626019,Congenital anaemia,63565007,499626019
+Other anaemias,Q456.00,494753011,Anaemia of prematurity,47100003,494753011
+Other anaemias,Qyu5C00,316946018,"[X]Other congenital anaemias, not elsewhere classified",63565007,105647010

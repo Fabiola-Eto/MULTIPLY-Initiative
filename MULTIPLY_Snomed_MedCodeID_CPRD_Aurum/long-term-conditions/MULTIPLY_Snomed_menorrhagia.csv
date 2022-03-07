@@ -1,0 +1,18 @@
+Condition,ReadCode,MedCodeId,Term,SnomedCTConceptId,SnomedCTDescriptionId
+Menorrhagia and polymenorrhoea,151G.00,252010011,Length of cycle decreasing,161726001,252010011
+Menorrhagia and polymenorrhoea,1572.00,252086010,H/O: polymenorrhoea,161781008,252086010
+Menorrhagia and polymenorrhoea,1573.00,252089015,H/O: menorrhagia,161782001,252089015
+Menorrhagia and polymenorrhoea,1573.11,252088011,H/O: heavy periods,161782001,252088011
+Menorrhagia and polymenorrhoea,K592.00,650761000006113,Excessive and frequent menstruation,266601003,396785012
+Menorrhagia and polymenorrhoea,K592.11,794741000006118,Frequent menses,266601003,396785012
+Menorrhagia and polymenorrhoea,K592.12,1490164018,Hypermenorrhoea,386692008,1490164018
+Menorrhagia and polymenorrhoea,K592000,1480833015,Menorrhagia,386692008,1480833015
+Menorrhagia and polymenorrhoea,K592011,1491707013,Heavy periods,386692008,1491707013
+Menorrhagia and polymenorrhoea,K592012,1573461000000112,Heavy menstrual bleeding,386692008,1573461000000112
+Menorrhagia and polymenorrhoea,K592100,87776016,Polymenorrhoea,52754008,87776016
+Menorrhagia and polymenorrhoea,K592111,496427018,Epimenorrhoea,52754008,496427018
+Menorrhagia and polymenorrhoea,K592z00,305050012,Excessive or frequent menstruation NOS,266601003,396785012
+Menorrhagia and polymenorrhoea,K593.11,355429018,Pubertal bleeding and menorrhagia,237126008,355429018
+Menorrhagia and polymenorrhoea,K5A0.00,146604018,Premenopausal menorrhagia,386692008,1480833015
+Menorrhagia and polymenorrhoea,K5A0.11,146606016,Climacteric menorrhagia,386692008,1480833015
+Menorrhagia and polymenorrhoea,K5A6.00,1629301000006115,Perimenopausal menorrhagia,386692008,1480833015

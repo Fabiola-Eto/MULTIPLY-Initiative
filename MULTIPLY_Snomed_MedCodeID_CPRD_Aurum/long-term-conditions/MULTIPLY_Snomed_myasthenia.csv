@@ -1,0 +1,4 @@
+Condition,ReadCode,MedCodeId,Term,SnomedCTConceptId,SnomedCTDescriptionId
+Myasthenia gravis,F380.00,151829017,Myasthenia gravis,91637004,151829017
+Myasthenia gravis,F380100,297581011,Juvenile or adult myasthenia gravis,193207007,297581011
+Myasthenia gravis,F380z00,297582016,Myasthenia gravis NOS,91637004,151829017

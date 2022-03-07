@@ -1,0 +1,71 @@
+Condition,ReadCode,MedCodeId,Term,SnomedCTConceptId,SnomedCTDescriptionId
+Obesity,1444.00,251604013,H/O: obesity,161453001,251604013
+Obesity,212Q.00,298511000000116,Obesity resolved,198181000000102,298511000000116
+Obesity,222A.00,280881000006115,O/E - obese,162690006,253576010
+Obesity,22A5.11,253576010,O/E - obese,162690006,253576010
+Obesity,22K5.00,253848011,Body mass index 30+ - obesity,162864005,253848011
+Obesity,22K7.00,2160062010,Body mass index 40+ - severely obese,408512008,2160062010
+Obesity,66C..00,401534016,Obesity monitoring,268522006,401534016
+Obesity,66C1.00,264752011,Initial obesity assessment,170794003,264752011
+Obesity,66C2.00,264753018,Follow-up obesity assessment,170795002,264753018
+Obesity,66C4.00,264756014,Has seen dietician - obesity,170797005,264756014
+Obesity,66C5.00,264757017,Treatment of obesity changed,170798000,264757017
+Obesity,66C6.00,264758010,Treatment of obesity started,170799008,264758010
+Obesity,66CE.00,264768017,Reason for obesity therapy - occupational,170807005,264768017
+Obesity,66CZ.00,264769013,Obesity monitoring NOS,268522006,401534016
+Obesity,7611400,363171000000115,Sleeve gastrectomy with duodenal switch,427980007,2695236010
+Obesity,7611500,363331000000119,Sleeve gastrectomy,87604009,1659621000000112
+Obesity,7611600,2675969012,Laparoscopic sleeve gastrectomy,427074001,2675969012
+Obesity,7613100,394134012,Partitioning of stomach,265364006,394134012
+Obesity,7613111,484706010,Mason vertical banded gastroplasty,30803004,484706010
+Obesity,7613200,2532982016,Laparoscopic adjustable gastric banding,414574004,2532982016
+Obesity,7613300,2676217018,Partitioning of stomach using band,426273008,2676217018
+Obesity,7613400,2676329012,Partitioning of stomach using staples,427029008,2676329012
+Obesity,7613500,367801000000110,Partitioning of stomach NEC,265364006,394134012
+Obesity,7613600,743041000000117,Maintenance of gastric band,442261001,2819623018
+Obesity,7614100,394135013,Bypass of stomach by anastomosis of stomach to duodenum,265365007,394135013
+Obesity,7615000,530851000006113,Bypass of stomach by anastomosis of stomach to transposed jejunum,173748000,269141014
+Obesity,7616000,394136014,Bypass of stomach by anastomosis of stomach to jejunum,49245001,1780471000000115
+Obesity,7616013,716651000006115,Mason high gastric bypass,49245001,1230693017
+Obesity,7616015,206821000006116,Printer high gastric bypass,49245001,1230693017
+Obesity,7616600,637091000000114,Laparoscopic gastric bypass,708983005,3037509016
+Obesity,761A500,2676331015,Removal of gastric band,426559000,2676331015
+Obesity,7633.00,269399016,Bypass of jejunum,173911002,269399016
+Obesity,7633000,394155014,Bypass of jejunum by anastomosis of jejunum to jejunum,265380001,394155014
+Obesity,7633100,269403013,Bypass of jejunum by anastomosis of jejunum to ileum,173913004,269403013
+Obesity,7633200,394156010,Bypass of jejunum by anastomosis of jejunum to colon,265381002,394156010
+Obesity,7633y00,269410019,Other specified bypass of jejunum,173911002,269399016
+Obesity,7633z00,269411015,Bypass of jejunum NOS,173911002,269399016
+Obesity,7642500,2676202017,Duodenal switch,426738005,2676202017
+Obesity,9OK..00,21621000000119,Obesity monitoring administration,713951000000106,1565191000000115
+Obesity,9OK..11,26111000000114,Obesity clinic administration,713971000000102,1565211000000116
+Obesity,9OK1.00,285741017,Attends obesity monitoring,185741002,285741017
+Obesity,9OK2.00,285742012,Obesity monitoring refused,763085007,3637819012
+Obesity,9OK3.00,285743019,Obesity monitoring default,185743004,285743019
+Obesity,9OK4.00,270301000006112,Obesity monitoring first letter,185744005,285744013
+Obesity,9OK5.00,270311000006110,Obesity monitoring second letter,185745006,285745014
+Obesity,9OK6.00,270321000006119,Obesity monitoring third letter,185746007,285746010
+Obesity,9OK7.00,270381000006115,Obesity monitoring verbal invite,185747003,285747018
+Obesity,9OK8.00,270281000006113,Obesity monitoring telephone invite,185748008,285748011
+Obesity,9OKA.00,285750015,Obesity monitoring check done,185750000,285750015
+Obesity,9OKZ.00,16131000000113,Obesity monitoring admin.NOS,713951000000106,1565191000000115
+Obesity,C38..00,293631011,Obesity and other hyperalimentation,302872003,444857015
+Obesity,C380.00,2535065012,Obesity,414916001,2535065012
+Obesity,C380000,2537960015,Obesity due to excess calories,415530009,2537960015
+Obesity,C380100,293634015,Drug-induced obesity,190965006,293634015
+Obesity,C380200,293635019,Extreme obesity with alveolar hypoventilation,190966007,293635019
+Obesity,C380300,356968010,Morbid obesity,238136002,356968010
+Obesity,C380400,370698013,Central obesity,248311001,370698013
+Obesity,C380500,356966014,Generalised obesity,238134004,356966014
+Obesity,C380600,436946011,Adult-onset obesity,296526005,436946011
+Obesity,C380700,434770018,Lifelong obesity,294493008,434770018
+Obesity,C38y.11,232631000006113,Pickwickian syndrome,190966007,2535848016
+Obesity,C38y000,2535848016,Pickwickian syndrome,190966007,2535848016
+Obesity,C38y011,1803041000000114,Obesity hypoventilation syndrome,190966007,1803041000000114
+Obesity,C38z.00,293650011,Disorder of hyperalimentation,302872003,444857015
+Obesity,C38z000,451432013,Simple obesity,415530009,2535221011
+Obesity,Cyu7.00,293802014,[X]Obesity and other hyperalimentation,414916001,2535065012
+Obesity,Cyu7000,293803016,[X]Other obesity,414916001,2535065012
+Obesity,ZC2CM00,5686511000006112,Dietary advice for obesity,284352003,422996015
+Obesity,ZV45P00,742371000000117,History of bypass of stomach,698450007,2974458010
+Obesity,ZV65319,1227771010,[V]Dietary counselling in obesity,424753004,2645393015

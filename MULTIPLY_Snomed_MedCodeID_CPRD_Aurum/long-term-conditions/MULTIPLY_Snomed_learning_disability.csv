@@ -1,0 +1,125 @@
+Condition,ReadCode,MedCodeId,Term,SnomedCTConceptId,SnomedCTDescriptionId
+Learning disability,13VC900,2435151000000112,Intellectual development disorder of unknown aetiology,954731000000103,2435151000000112
+Learning disability,14g..00,1140131000000110,History of developmental disorder,512711000000104,1140131000000110
+Learning disability,14g0.00,2388891000000118,Early childhood developmental disability,716710007,3307284014
+Learning disability,14g0000,1939571000006115,Early childhood developmental disability of unknown aetiology,954711000000106,2435131000000117
+Learning disability,38VB.00,1941111000006118,Clinical Outcomes in Routine Evaluation Learning Disabilities,718440004,3312281015
+Learning disability,918e.00,2548475019,On learning disability register,416075005,2548475019
+Learning disability,94Z9.00,1158321000000112,Preferred place of death: learning disability unit,518741000000100,1158321000000112
+Learning disability,9HB..00,189601000000111,Learning disabilities administration status,112851000000104,189601000000111
+Learning disability,9HB0.00,2474708013,Learning disabilities health action plan declined,413162002,2474708013
+Learning disability,9HB1.00,189611000000113,Learning disabilities health action plan offered,112861000000101,189611000000113
+Learning disability,9HB2.00,2474709017,Learning disabilities health action plan reviewed,413163007,2474709017
+Learning disability,9HB3.00,2474674015,Learning disabilities health assessment,413126003,2474674015
+Learning disability,9HB4.00,2534201018,Completion of learning disabilities health action plan,712491005,3082259017
+Learning disability,9HB5.00,302211000000112,Learning disabilities annual health assessment,199751000000100,302211000000112
+Learning disability,9HB6.00,1142901000000119,Learning disabilities annual health assessment declined,514021000000103,1142901000000119
+Learning disability,9HB6.11,1177021000000114,Learning disabilities annual health check declined,514021000000103,1177021000000114
+Learning disability,9HB7.00,1741521000006113,Did not attend learning disabilities annual health assessment,514041000000105,1142941000000116
+Learning disability,9HB7.11,1177051000000116,Did not attend learning disabilities annual health check,514041000000105,1177051000000116
+Learning disability,9mA..00,1162851000000116,Learning disability annual health check invitation,520801000000100,1162851000000116
+Learning disability,9mA0.00,1162891000000112,Learning disability annual health check verbal invitation,520821000000109,1162891000000112
+Learning disability,9mA1.00,1162931000000119,Learning disability annual health check telephone invitation,520841000000102,1162931000000119
+Learning disability,9mA2.00,1164251000000114,Learning disability annual health check letter invitation,521421000000100,1164251000000114
+Learning disability,9mA2000,1755011000006114,Learning disability annual health check invitation first letter,712781000000107,1562661000000110
+Learning disability,9mA2100,1755021000006118,Learning disability annual health check invitation second letter,712801000000108,1562701000000116
+Learning disability,9mA2200,1755031000006115,Learning disability annual health check invitation third letter,712821000000104,1562741000000118
+Learning disability,9Nh4.00,2249771000000115,Under care of community learning disability team,870651000000103,2249771000000115
+Learning disability,9Nlh.00,2403181000000114,Seen by learning disability team,716569003,3306662014
+Learning disability,E2F2.00,295633011,Specific learning difficulty,161129001,251223010
+Learning disability,E2F3.00,133891000006115,Disorder of speech and language development,268672004,401825015
+Learning disability,E2F3z00,295642016,Speech or language developmental disorder NOS,268672004,401825015
+Learning disability,E2Fz.00,295652017,Developmental disorder NOS,5294002,9881017
+Learning disability,E3...00,151009017,Mental retardation,110359009,3643707012
+Learning disability,E30..00,507246016,"Mild mental retardation, IQ in range 50-70",86765009,507246016
+Learning disability,E30..11,413177014,Educationally subnormal,276854003,413177014
+Learning disability,E30..12,667621000006119,Feeble-minded,86765009,507246016
+Learning disability,E30..13,215821000000119,Moron,86765009,507246016
+Learning disability,E31..00,9881000006115,Other specified mental retardation,110359009,175156010
+Learning disability,E310.00,700071000006118,"Moderate mental retardation, IQ in range 35-49",61152003,3643518014
+Learning disability,E310.11,785941000006115,Imbecile,61152003,3643518014
+Learning disability,E311.00,146051000006113,"Severe mental retardation, IQ in range 20-34",40700009,3643515012
+Learning disability,E312.00,201751000006110,Profound mental retardation with IQ less than 20,31216003,3643527010
+Learning disability,E312.11,787151000006113,Idiocy,31216003,3643527010
+Learning disability,E31z.00,295662012,Other specified mental retardation NOS,110359009,175156010
+Learning disability,E3y..00,295661017,Other specified mental retardation,110359009,175156010
+Learning disability,E3z..00,295664013,Intellectual disability,110359009,175156010
+Learning disability,Eu7..00,398231000006111,[X]Mental retardation,110359009,3643707012
+Learning disability,Eu70.00,398381000006119,[X]Mild mental retardation,86765009,507246016
+Learning disability,Eu70.12,398411000006116,[X]Mild mental subnormality,86765009,507246016
+Learning disability,Eu70000,398661000006116,[X]Mld mental retard with statement no or min impairm behav,86765009,143892017
+Learning disability,Eu70100,398651000006118,[X]Mld mental retard sig impairment behav req attent/treatmt,86765009,143892017
+Learning disability,Eu70y00,296557014,"[X]Mild mental retardation, other impairments of behaviour",86765009,143892017
+Learning disability,Eu70z00,398391000006116,Mild intellectual disability,86765009,3643513017
+Learning disability,Eu71.00,398811000006118,Moderate intellectual disability,61152003,3643518014
+Learning disability,Eu71.11,398821000006114,[X]Moderate mental subnormality,61152003,3643518014
+Learning disability,Eu71000,398771000006118,[X]Mod mental retard with statement no or min impairm behav,61152003,101619019
+Learning disability,Eu71100,398761000006113,[X]Mod mental retard sig impairment behav req attent/treatmt,61152003,101619019
+Learning disability,Eu71y00,296565012,[X]Mod retard oth behav impair,61152003,101619019
+Learning disability,Eu71z00,398781000006115,[X]Mod mental retardation without mention impairment behav,61152003,3643518014
+Learning disability,Eu72.00,426591000006111,Severe intellectual disability,40700009,3643515012
+Learning disability,Eu72.11,426611000006117,[X]Severe mental subnormality,40700009,3643515012
+Learning disability,Eu72000,426531000006112,[X]Sev mental retard with statement no or min impairm behav,40700009,67882016
+Learning disability,Eu72100,426521000006114,[X]Sev mental retard sig impairment behav req attent/treatmt,40700009,67882016
+Learning disability,Eu72y00,296574014,"[X]Severe mental retardation, other impairments of behaviour",40700009,67882016
+Learning disability,Eu72z00,426541000006119,[X]Sev mental retardation without mention impairment behav,40700009,3643515012
+Learning disability,Eu73.00,423501000006112,Profound intellectual disability,31216003,3643527010
+Learning disability,Eu73.11,423521000006119,[X]Profound mental subnormality,31216003,3643527010
+Learning disability,Eu73000,423491000006116,[X]Profound ment retrd wth statement no or min impairm behav,31216003,52225019
+Learning disability,Eu73100,423481000006119,[X]Profound ment retard sig impairmnt behav req attent/treat,31216003,52225019
+Learning disability,Eu73y00,423511000006110,"[X]Profound mental retardation, other impairments of behavr",31216003,52225019
+Learning disability,Eu73z00,423361000006118,[X]Prfnd mental retardation without mention impairment behav,31216003,52225019
+Learning disability,Eu7y.00,296586012,[X]Other mental retardation,110359009,175156010
+Learning disability,Eu7y000,404861000006115,[X]Oth mental retard with statement no or min impairm behav,110359009,175156010
+Learning disability,Eu7y100,404851000006117,[X]Oth mental retard sig impairment behav req attent/treatmt,110359009,175156010
+Learning disability,Eu7yy00,296592018,"[X]Other mental retardation, other impairments of behaviour",110359009,175156010
+Learning disability,Eu7yz00,411791000006118,[X]Other mental retardation without mention impairment behav,110359009,175156010
+Learning disability,Eu7z.00,401902015,[X]Unspecified mental retardation,110359009,175156010
+Learning disability,Eu7z.11,398201000006115,[X]Mental deficiency NOS,110359009,175156010
+Learning disability,Eu7z.12,398251000006116,[X]Mental subnormality NOS,110359009,175156010
+Learning disability,Eu7z000,430061000006113,[X]Unsp mental retard with statement no or min impairm behav,110359009,175156010
+Learning disability,Eu7z100,430081000006115,[X]Unsp mentl retard sig impairment behav req attent/treatmt,110359009,175156010
+Learning disability,Eu7zy00,431231000006115,"[X]Unspecified mental retardatn, other impairments of behav",110359009,175156010
+Learning disability,Eu7zz00,430071000006118,[X]Unsp mental retardation without mention impairment behav,110359009,175156010
+Learning disability,Eu80.00,427261000006119,[X]Specific developmental disorders of speech and language,268672004,401825015
+Learning disability,Eu80y00,401906017,[X]Other developmental disorders of speech and language,268672004,401825015
+Learning disability,Eu80z00,376891000006117,[X]Developmental disorder of speech and language unspecified,268672004,401825015
+Learning disability,Eu81.00,296643017,[X]Specific developmental disorders of scholastic skills,1855002,4203013
+Learning disability,Eu81400,1129811000000119,Moderate learning disability,984671000000103,2504061000000114
+Learning disability,Eu81500,1129781000000117,Severe learning disability,508171000000105,1129801000000116
+Learning disability,Eu81600,1550041000000110,Mild learning disability,984661000000105,2504041000000113
+Learning disability,Eu81700,1550051000000113,Profound learning disability,984681000000101,2504081000000117
+Learning disability,Eu81800,1887331000006119,Specific learning disability,889211000000104,2290291000000110
+Learning disability,Eu81y00,401909012,[X]Other developmental disorders of scholastic skills,1855002,4203013
+Learning disability,Eu81z00,296657015,Developmental disorder of scholastic skill,1855002,478661012
+Learning disability,Eu81z11,395061000006117,Learning disability,1855002,478664016
+Learning disability,Eu81z12,395071000006112,[X]Learning disorder NOS,1855002,478661012
+Learning disability,Eu81z13,395051000006119,[X]Learn acquisition disab NOS,110359009,3643707012
+Learning disability,Eu82.00,1495285013,[X]Specific developmental disorder of motor function,268674003,401828018
+Learning disability,Eu83.00,296663012,Mixed developmental disorder,442059001,2819191012
+Learning disability,Eu84.00,420581000006111,Autism spectrum disorder,35919005,3078949014
+Learning disability,Eu84112,398241000006118,[X]Mental retardation with autistic features,231536004,347022013
+Learning disability,Eu84400,417681000006116,[X]Overactive disorder assoc mental retard/stereotype movts,35919005,59939011
+Learning disability,Eu84y00,296678017,[X]Other pervasive developmental disorders,35919005,59939011
+Learning disability,Eu84z00,296679013,"[X]Pervasive developmental disorder, unspecified",35919005,3078949014
+Learning disability,Eu8z.11,424181000006111,[X]Psychological developmental disorder NOS,192562009,296607011
+Learning disability,F1y0.00,2900005013,Fragile X associated tremor ataxia syndrome,448045004,2900005013
+Learning disability,PJ0..00,628281000006114,Down's syndrome,41040004,598021000000114
+Learning disability,PJ0..11,68472012,Mongolism,41040004,598021000000114
+Learning disability,PJ0..12,222121000000113,Trisomy 21,41040004,68470016
+Learning disability,PJ0z.00,378493013,Down's syndrome NOS,41040004,598021000000114
+Learning disability,PJ0z.11,1224878018,Trisomy 21 NOS,41040004,222121000000113
+Learning disability,PJ1..00,239991000006111,Patau syndrome,21111006,35483012
+Learning disability,PJ12.11,378500015,Partial trisomy 13 in Patau's syndrome,254268004,378500015
+Learning disability,PJ1z.00,378499012,Patau's syndrome NOS,21111006,35482019
+Learning disability,PJ2..00,636711000006113,Edward's syndrome - trisomy 18,51500006,85776017
+Learning disability,PJ22.11,378497014,Partial trisomy 18 in Edward's syndrome,254266000,378497014
+Learning disability,PJ2z.00,378496017,Edward's syndrome NOS,51500006,85775018
+Learning disability,PJyy200,315486012,Fragile X chromosome,205720009,315486012
+Learning disability,PJyy400,2090010,Fragile X syndrome,613003,2090010
+Learning disability,Z7CBE00,342177013,Intellectual functioning disability,228156007,342177013
+Learning disability,Z7CBE00,1821361000006110,Intellectual functioning disability,228156007,1821361000006110
+Learning disability,ZS34.00,296657015,Developmental disorder of scholastic skill,1855002,478661012
+Learning disability,ZS34.11,395061000006117,Learning disability,1855002,478664016
+Learning disability,ZS34.11,1620441000006116,Learning disability,1620441000006100,1620441000006116
+Learning disability,ZS34.11,6762801000006118,Learning disability,408468001,2163986010

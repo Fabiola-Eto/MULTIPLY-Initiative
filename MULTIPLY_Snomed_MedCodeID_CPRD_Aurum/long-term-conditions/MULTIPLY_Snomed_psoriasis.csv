@@ -1,0 +1,38 @@
+Condition,ReadCode,MedCodeId,Term,SnomedCTConceptId,SnomedCTDescriptionId
+Psoriasis,14F2.00,251784017,H/O: psoriasis,161562002,251784017
+Psoriasis,38Gg.00,2239001000000113,Psoriasis area and severity index score,866341000000101,2239081000000115
+Psoriasis,M16..00,308725015,Psoriasis and similar disorders,9014002,15886015
+Psoriasis,M160.00,55627011,Psoriatic arthropathy,33339001,55627011
+Psoriasis,M160.11,55628018,Psoriatic arthritis,33339001,55628018
+Psoriasis,M160000,198881000006116,Psoriatic spondylitis,200956002,308727011
+Psoriasis,M160100,359321011,Distal interphalangeal psoriatic arthropathy,239812005,359321011
+Psoriasis,M160200,32869011,Arthritis mutilans,19514005,32869011
+Psoriasis,M160z00,308730016,Psoriatic arthropathy NOS,33339001,55627011
+Psoriasis,M161.00,308731017,Other psoriasis,9014002,15886015
+Psoriasis,M161000,308732012,Psoriasis unspecified,9014002,15886015
+Psoriasis,M161100,308733019,Psoriasis annularis,200962007,308733019
+Psoriasis,M161200,308734013,Psoriasis circinata,200963002,308734013
+Psoriasis,M161300,308735014,Psoriasis diffusa,200964008,308735014
+Psoriasis,M161400,198791000006112,Plaque psoriasis,200965009,308736010
+Psoriasis,M161500,308739015,Psoriasis geographica,200966005,308739015
+Psoriasis,M161600,61797015,Guttate psoriasis,37042000,61797015
+Psoriasis,M161700,308740018,Psoriasis gyrata,200967001,308740018
+Psoriasis,M161800,308741019,Psoriasis inveterata,200968006,308741019
+Psoriasis,M161900,198841000006110,Psoriasis ostracea,200969003,308742014
+Psoriasis,M161A00,308744010,Psoriasis palmaris,200970002,308744010
+Psoriasis,M161B00,308745011,Psoriasis plantaris,200971003,308745011
+Psoriasis,M161C00,308746012,Psoriasis punctata,200972005,308746012
+Psoriasis,M161D00,308747015,Pustular psoriasis,200973000,308747015
+Psoriasis,M161E00,308749017,Psoriasis universalis,200974006,308749017
+Psoriasis,M161F00,308750017,Psoriasis vulgaris,200975007,308750017
+Psoriasis,M161F11,1629311000006117,Chronic large plaque psoriasis,402307000,1781467015
+Psoriasis,M161H00,308752013,Erythrodermic psoriasis,200977004,308752013
+Psoriasis,M161J00,1887571000006111,Flexural psoriasis,238600001,357612014
+Psoriasis,M161z00,308753015,Psoriasis,9014002,15886015
+Psoriasis,M166.00,483572016,Palmoplantar pustular psoriasis,27520001,483572016
+Psoriasis,M16y.00,308775018,Acquired disorder of keratinisation,399937000,1773474010
+Psoriasis,M16y000,357623013,Scalp psoriasis,238608008,357623013
+Psoriasis,M16z.00,308776017,Psoriasis and similar disorders NOS,9014002,15886015
+Psoriasis,Myu3000,309331014,[X]Other psoriasis,9014002,15886015
+Psoriasis,N045200,359310019,Juvenile arthritis in psoriasis,239803008,359310019
+Psoriasis,Nyu1300,312521010,Psoriasis with arthropathy,33339001,55626019

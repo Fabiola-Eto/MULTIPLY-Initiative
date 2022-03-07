@@ -1,0 +1,3 @@
+Condition,ReadCode,MedCodeId,Term,SnomedCTConceptId,SnomedCTDescriptionId
+Intracranial hypertension,F282.00,113392018,Benign intracranial hypertension,68267002,113392018
+Intracranial hypertension,F282.11,500972019,Pseudotumour cerebri,68267002,1233031015

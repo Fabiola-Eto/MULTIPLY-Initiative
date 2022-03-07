@@ -1,0 +1,8 @@
+Condition,ReadCode,MedCodeId,Term,SnomedCTConceptId,SnomedCTDescriptionId
+Parkinson's disease,147F.00,1148731000000112,History of Parkinson's disease,515841000000104,1148731000000112
+Parkinson's disease,Eu02300,295688010,Dementia in Parkinsons disease,425390006,2921040013
+Parkinson's disease,F11x900,636681000000117,Cerebral degeneration in Parkinson's disease,341551000000108,636681000000117
+Parkinson's disease,F12..00,81717011,Parkinson's disease,49049000,81717011
+Parkinson's disease,F120.00,81719014,Paralysis agitans,49049000,81717011
+Parkinson's disease,F12z.00,297037012,Parkinson's disease NOS,49049000,81717011
+Parkinson's disease,F130300,297043014,Orthostatic hypotension co-occurrent and due to Parkinson's disease,718685006,3313002011

@@ -1,0 +1,9 @@
+Condition,ReadCode,MedCodeId,Term,SnomedCTConceptId,SnomedCTDescriptionId
+Sleep apnoea,Fy03.00,136581000006114,Sleep apnoea,73430006,200354014
+Sleep apnoea,Fy03.11,267911000006119,Obstructive sleep apnoea,78275009,2966563014
+Sleep apnoea,H5B..00,200354014,Sleep apnoea,73430006,200354014
+Sleep apnoea,H5B0.00,219501000000111,Obstructive sleep apnoea,78275009,2966563014
+Sleep apnoea,R005100,317034011,Insomnia with sleep apnoea,41975002,197601019
+Sleep apnoea,R005300,405691012,Hypersomnia with sleep apnoea,79280005,200785019
+Sleep apnoea,R005311,457106016,[D]Sleep apnoea syndrome,502901000000102,1112961000000111
+Sleep apnoea,R005312,303181000006112,[D]Syndrome sleep apnoea,502901000000102,1112961000000111

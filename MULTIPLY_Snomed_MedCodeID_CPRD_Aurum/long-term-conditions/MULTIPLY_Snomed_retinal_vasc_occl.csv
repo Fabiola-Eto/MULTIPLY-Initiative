@@ -1,0 +1,19 @@
+Condition,ReadCode,MedCodeId,Term,SnomedCTConceptId,SnomedCTDescriptionId
+Retinal vascular occlusions,F423.00,122485015,Retinal vascular occlusion,73757007,122485015
+Retinal vascular occlusions,F423000,297783012,Unspecified retinal vascular occlusion,73757007,122485015
+Retinal vascular occlusions,F423100,64469014,Central retinal artery occlusion,38742007,64469014
+Retinal vascular occlusions,F423200,169751000006113,Retinal arterial branch occlusion,50821009,1230906015
+Retinal vascular occlusions,F423211,1230906015,Branch retinal artery occlusion,50821009,1230906015
+Retinal vascular occlusions,F423300,169951000006111,Retinal microembolism,76975009,127782012
+Retinal vascular occlusions,F423400,2537044017,Hollenhorst plaque,404670008,2537044017
+Retinal vascular occlusions,F423500,297786016,Retinal partial arterial occlusion NOS,232035005,347674010
+Retinal vascular occlusions,F423700,297787013,Transient arterial retinal occlusion,87224000,144637019
+Retinal vascular occlusions,F423800,113737013,Central retinal vein occlusion,68478007,113737013
+Retinal vascular occlusions,F423811,494431010,Retinal vein thrombosis,46085004,494431010
+Retinal vascular occlusions,F423900,170141000006114,Retinal venous branch occlusion,24596005,481961010
+Retinal vascular occlusions,F423911,481961010,Branch retinal vein occlusion,24596005,481961010
+Retinal vascular occlusions,F423A00,297791015,Retinal venous engorgement,193379006,297791015
+Retinal vascular occlusions,F423z00,297792010,Retinal vascular occlusion NOS,73757007,122485015
+Retinal vascular occlusions,F42y700,67167012,Retinal cotton wool spots,39832008,67167012
+Retinal vascular occlusions,FyuF500,299476010,Retinal artery occlusion,232035005,347674010
+Retinal vascular occlusions,FyuF600,299477018,[X]Other retinal vascular occlusions,73757007,122485015

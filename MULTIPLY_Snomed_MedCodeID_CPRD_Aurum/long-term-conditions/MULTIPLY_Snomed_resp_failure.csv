@@ -1,0 +1,8 @@
+Condition,ReadCode,MedCodeId,Term,SnomedCTConceptId,SnomedCTDescriptionId
+Respiratory failure,Fy04.00,345396012,Sleep-related respiratory failure,230499002,345396012
+Respiratory failure,H59..00,2471399010,Respiratory failure,409622000,2471399010
+Respiratory failure,H591.00,67242018,Chronic respiratory failure,39871006,67242018
+Respiratory failure,H592.00,618361000000112,Chronic type 1 respiratory failure,428173007,3038448017
+Respiratory failure,H593.00,618371000000117,Chronic type 2 respiratory failure,426896000,3038584014
+Respiratory failure,R2y1.00,317954010,[D]Respiratory failure,409622000,2471399010
+Respiratory failure,R2y1z00,317957015,[D]Respiratory failure NOS,409622000,2471399010

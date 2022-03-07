@@ -1,0 +1,174 @@
+Condition,ReadCode,MedCodeId,Term,SnomedCTConceptId,SnomedCTDescriptionId
+Schizophrenia and non-organic psychosis,1464.00,251628010,H/O: schizophrenia,161468000,251628010
+Schizophrenia and non-organic psychosis,146H.00,300411000000110,H/O: psychosis,198991000000103,300411000000110
+Schizophrenia and non-organic psychosis,1BG..00,48238012,Flight of ideas,28810003,48238012
+Schizophrenia and non-organic psychosis,1BH..00,480834016,Delusions,2073000,480834016
+Schizophrenia and non-organic psychosis,1BH..11,4569010,Delusion,2073000,4569010
+Schizophrenia and non-organic psychosis,1BH0.00,1452014,Delusion of persecution,216004,1452014
+Schizophrenia and non-organic psychosis,1BH1.00,369805011,Grandiose delusions,247667002,369805011
+Schizophrenia and non-organic psychosis,1BH2.00,492910018,Ideas of reference,41189006,492910018
+Schizophrenia and non-organic psychosis,1BH3.00,2548181016,Paranoid ideation,417233008,2548181016
+Schizophrenia and non-organic psychosis,212T.00,996171000006114,"Psychosis, schizophrenia and bipolar affective disorder resolved",200951000000109,305361000000112
+Schizophrenia and non-organic psychosis,212W.00,492821000000113,Schizophrenia resolved,285521000000103,492821000000113
+Schizophrenia and non-organic psychosis,212X.00,492881000000114,Psychosis resolved,285551000000108,492881000000114
+Schizophrenia and non-organic psychosis,225E.00,2549129012,O/E - paranoid delusions,416611006,2549129012
+Schizophrenia and non-organic psychosis,225F.00,2549426013,O/E - delusion of persecution,416890005,2549426013
+Schizophrenia and non-organic psychosis,285..11,402504012,"Psychotic condition, insight present",268957000,402504012
+Schizophrenia and non-organic psychosis,286..11,215691000006112,Poor insight into psychotic condition,12200008,21006010
+Schizophrenia and non-organic psychosis,8G13100,2502581000000119,CBTp - cognitive behavioural therapy for psychosis,718026005,3310934015
+Schizophrenia and non-organic psychosis,8HHs.00,300931000000113,Referral to psychosis early intervention service,199191000000109,300931000000113
+Schizophrenia and non-organic psychosis,E03y300,294714016,Postpartum psychosis,18260003,30832017
+Schizophrenia and non-organic psychosis,E1...00,294724012,Non-organic psychoses,191525009,294724012
+Schizophrenia and non-organic psychosis,E10..00,294725013,Schizophrenic disorders,191526005,294725013
+Schizophrenia and non-organic psychosis,E100.00,294727017,Simple schizophrenia,191527001,294727017
+Schizophrenia and non-organic psychosis,E100.11,294726014,Schizophrenia simplex,191527001,294726014
+Schizophrenia and non-organic psychosis,E100000,294728010,Unspecified schizophrenia,58214004,96745016
+Schizophrenia and non-organic psychosis,E100100,28758018,Subchronic schizophrenia,16990005,28758018
+Schizophrenia and non-organic psychosis,E100200,1234861017,Chronic schizophrenic,83746006,1234861017
+Schizophrenia and non-organic psychosis,E100300,294730012,Acute exacerbation of subchronic schizophrenia,111482003,178722014
+Schizophrenia and non-organic psychosis,E100400,294731011,Acute exacerbation of chronic schizophrenia,191531007,294731011
+Schizophrenia and non-organic psychosis,E100500,9225016,Schizophrenia in remission,4926007,9225016
+Schizophrenia and non-organic psychosis,E100z00,294734015,Simple schizophrenia NOS,191527001,294727017
+Schizophrenia and non-organic psychosis,E101.00,819351000006115,Hebephrenic schizophrenia,35252006,2881679010
+Schizophrenia and non-organic psychosis,E101000,294735019,Unspecified hebephrenic schizophrenia,35252006,2881679010
+Schizophrenia and non-organic psychosis,E101400,294739013,Acute exacerbation of chronic hebephrenic schizophrenia,191539009,294739013
+Schizophrenia and non-organic psychosis,E101500,294740010,Hebephrenic schizophrenia in remission,31373002,3425623018
+Schizophrenia and non-organic psychosis,E101z00,294741014,Hebephrenic schizophrenia NOS,35252006,2881679010
+Schizophrenia and non-organic psychosis,E102.00,294742019,Catatonic schizophrenia,191542003,294742019
+Schizophrenia and non-organic psychosis,E102000,294744018,Unspecified catatonic schizophrenia,191542003,294742019
+Schizophrenia and non-organic psychosis,E102100,71539017,Subchronic catatonic schizophrenia,42868002,71539017
+Schizophrenia and non-organic psychosis,E102400,294751010,Acute exacerbation of chronic catatonic schizophrenia,191548004,294751010
+Schizophrenia and non-organic psychosis,E102500,178723016,Catatonic schizophrenia in remission,111483008,178723016
+Schizophrenia and non-organic psychosis,E102z00,294753013,Catatonic schizophrenia NOS,191542003,294742019
+Schizophrenia and non-organic psychosis,E103.00,107878010,Paranoid schizophrenia,64905009,107878010
+Schizophrenia and non-organic psychosis,E103000,294754019,Unspecified paranoid schizophrenia,64905009,107878010
+Schizophrenia and non-organic psychosis,E103100,132503015,Subchronic paranoid schizophrenia,79866005,132503015
+Schizophrenia and non-organic psychosis,E103200,52897013,Chronic paranoid schizophrenia,31658008,52897013
+Schizophrenia and non-organic psychosis,E103300,294757014,Acute exacerbation of subchronic paranoid schizophrenia,191554003,294757014
+Schizophrenia and non-organic psychosis,E103400,294758016,Acute exacerbation of chronic paranoid schizophrenia,191555002,294758016
+Schizophrenia and non-organic psychosis,E103500,105029017,Paranoid schizophrenia in remission,63181006,105029017
+Schizophrenia and non-organic psychosis,E103z00,294760019,Paranoid schizophrenia NOS,64905009,107878010
+Schizophrenia and non-organic psychosis,E105.00,294764011,Latent schizophrenia,191559008,294764011
+Schizophrenia and non-organic psychosis,E105000,294765012,Unspecified latent schizophrenia,191559008,294764011
+Schizophrenia and non-organic psychosis,E105200,294767016,Chronic latent schizophrenia,191562006,294767016
+Schizophrenia and non-organic psychosis,E105400,294769018,Acute exacerbation of chronic latent schizophrenia,191564007,294769018
+Schizophrenia and non-organic psychosis,E105500,294770017,Latent schizophrenia in remission,191565008,294770017
+Schizophrenia and non-organic psychosis,E105z00,294771018,Latent schizophrenia NOS,191559008,294764011
+Schizophrenia and non-organic psychosis,E106.00,43595011,Residual schizophrenia,26025008,43595011
+Schizophrenia and non-organic psychosis,E107.00,155141000006116,Schizoaffective schizophrenia,191567000,294772013
+Schizophrenia and non-organic psychosis,E107.11,294773015,Cyclic schizophrenia,191567000,294773015
+Schizophrenia and non-organic psychosis,E107000,78531000006116,Unspecified schizo-affective schizophrenia,191567000,294772013
+Schizophrenia and non-organic psychosis,E107100,123611000006110,Subchronic schizo-affective schizophrenia,191569002,294775010
+Schizophrenia and non-organic psychosis,E107200,556631000006116,Chronic schizoaffective schizophrenia,191570001,294776011
+Schizophrenia and non-organic psychosis,E107300,456801000006115,Acute exacerbation subchronic schizo-affective schizophrenia,191571002,294777019
+Schizophrenia and non-organic psychosis,E107400,456731000006115,Acute exacerbation of chronic schizo-affective schizophrenia,191572009,294778012
+Schizophrenia and non-organic psychosis,E107500,155151000006119,Schizoaffective schizophrenia in remission,191574005,294780018
+Schizophrenia and non-organic psychosis,E107z00,155161000006117,Schizo-affective schizophrenia NOS,191567000,294772013
+Schizophrenia and non-organic psychosis,E10y.00,401764014,Other schizophrenia,58214004,96745016
+Schizophrenia and non-organic psychosis,E10y.11,294788013,Cenesthopathic schizophrenia,191577003,294788013
+Schizophrenia and non-organic psychosis,E10y000,1219653018,Atypical schizophrenia,111484002,1219653018
+Schizophrenia and non-organic psychosis,E10y100,294787015,Coenesthopathic schizophrenia,191577003,294787015
+Schizophrenia and non-organic psychosis,E10yz00,294789017,Other schizophrenia NOS,58214004,96745016
+Schizophrenia and non-organic psychosis,E10z.00,294790014,Schizophrenia,58214004,96745016
+Schizophrenia and non-organic psychosis,E12..00,243361000006117,Paranoid disorder,191667009,294903010
+Schizophrenia and non-organic psychosis,E120.00,294904016,Simple paranoid state,191668004,294904016
+Schizophrenia and non-organic psychosis,E121.00,401768012,Chronic paranoid psychosis,268622001,401768012
+Schizophrenia and non-organic psychosis,E121.11,161371000006118,Sander's disease,268622001,401768012
+Schizophrenia and non-organic psychosis,E122.00,44335019,Paraphrenia,26472000,44335019
+Schizophrenia and non-organic psychosis,E123.00,294909014,Shared paranoid disorder,191670008,294909014
+Schizophrenia and non-organic psychosis,E123.11,294908018,Folie a deux,191670008,294908018
+Schizophrenia and non-organic psychosis,E12y.00,294910016,Other paranoid states,191667009,294903010
+Schizophrenia and non-organic psychosis,E12y000,294911017,Paranoia querulans,191672000,294911017
+Schizophrenia and non-organic psychosis,E12yz00,294912012,Other paranoid states NOS,191667009,294903010
+Schizophrenia and non-organic psychosis,E12z.00,294913019,Paranoid psychosis,191667009,3012206013
+Schizophrenia and non-organic psychosis,E134.00,294924017,Psychogenic paranoid psychosis,191680007,294924017
+Schizophrenia and non-organic psychosis,E13y.00,294926015,Other reactive psychoses,231437006,346896012
+Schizophrenia and non-organic psychosis,E13yz00,294929010,Other reactive psychoses NOS,231437006,346896012
+Schizophrenia and non-organic psychosis,E13z.00,223611000000117,Non-organic psychosis,191525009,2575698010
+Schizophrenia and non-organic psychosis,E13z.11,346895011,Psychotic disorder,69322001,115142010
+Schizophrenia and non-organic psychosis,E1y..00,294949018,Other specified non-organic psychoses,191525009,294724012
+Schizophrenia and non-organic psychosis,E1z..00,401771016,Non-organic psychosis NOS,191525009,2575698010
+Schizophrenia and non-organic psychosis,E212.00,88108012,Schizoid personality disorder,52954000,88108012
+Schizophrenia and non-organic psychosis,E212000,295049014,Unspecified schizoid personality disorder,52954000,88108012
+Schizophrenia and non-organic psychosis,E212200,155281000006119,Schizotypal personality,31027006,51933014
+Schizophrenia and non-organic psychosis,E212z00,295052018,Schizoid personality disorder NOS,52954000,88108012
+Schizophrenia and non-organic psychosis,Eu02z12,359091000006115,[X] Presenile psychosis NOS,268612007,401757012
+Schizophrenia and non-organic psychosis,Eu02z15,359161000006110,[X] Senile psychosis NOS,268612007,401757012
+Schizophrenia and non-organic psychosis,Eu0z.12,428451000006119,Psychotic symptom present,280427006,418027011
+Schizophrenia and non-organic psychosis,Eu2..00,296022017,"[X]Schizophrenia, schizotypal and delusional disorders",417601000000102,939641000000117
+Schizophrenia and non-organic psychosis,Eu20.00,425601000006114,[X]Schizophrenia,58214004,96745016
+Schizophrenia and non-organic psychosis,Eu20000,418221000006118,[X]Paranoid schizophrenia,64905009,107878010
+Schizophrenia and non-organic psychosis,Eu20011,418261000006112,[X]Paraphrenic schizophrenia,64905009,1232626010
+Schizophrenia and non-organic psychosis,Eu20100,388741000006110,[X]Hebephrenic schizophrenia,35252006,2881679010
+Schizophrenia and non-organic psychosis,Eu20111,378051000006119,[X]Disorganised schizophrenia,35252006,486103011
+Schizophrenia and non-organic psychosis,Eu20200,370451000006110,[X]Catatonic schizophrenia,191542003,294742019
+Schizophrenia and non-organic psychosis,Eu20211,370461000006112,[X]Catatonic stupor,191542003,294742019
+Schizophrenia and non-organic psychosis,Eu20212,425641000006111,[X]Schizophrenic catalepsy,191542003,294742019
+Schizophrenia and non-organic psychosis,Eu20213,425651000006113,[X]Schizophrenic catatonia,191542003,294742019
+Schizophrenia and non-organic psychosis,Eu20214,294743012,[X]Schizophrenic flexibilatis cerea,191542003,294743012
+Schizophrenia and non-organic psychosis,Eu20300,296031017,Undifferentiated schizophrenia,111484002,178724010
+Schizophrenia and non-organic psychosis,Eu20311,366571000006114,[X]Atypical schizophrenia,111484002,1219653018
+Schizophrenia and non-organic psychosis,Eu20400,423041000006119,[X]Post-schizophrenic depression,231485007,346956014
+Schizophrenia and non-organic psychosis,Eu20500,424841000006113,[X]Residual schizophrenia,26025008,43595011
+Schizophrenia and non-organic psychosis,Eu20511,371031000006115,[X]Chronic undifferentiated schizophrenia,111484002,178724010
+Schizophrenia and non-organic psychosis,Eu20600,426881000006111,[X]Simple schizophrenia,191527001,294727017
+Schizophrenia and non-organic psychosis,Eu20y00,401855010,[X]Other schizophrenia,58214004,96745016
+Schizophrenia and non-organic psychosis,Eu20y12,425681000006117,[X]Schizophreniform disord NOS,58214004,96745016
+Schizophrenia and non-organic psychosis,Eu20y13,425711000006116,[X]Schizophrenifrm psychos NOS,58214004,96745016
+Schizophrenia and non-organic psychosis,Eu20z00,296040018,"[X]Schizophrenia, unspecified",58214004,96745016
+Schizophrenia and non-organic psychosis,Eu21.00,401856011,Schizotypal personality disorder,31027006,51933014
+Schizophrenia and non-organic psychosis,Eu21.11,395031000006114,[X]Latent schizophrenic reaction,191559008,294764011
+Schizophrenia and non-organic psychosis,Eu21.12,367951000006113,Borderline schizophrenia,274952002,410869013
+Schizophrenia and non-organic psychosis,Eu21.13,395021000006111,[X]Latent schizophrenia,191559008,294764011
+Schizophrenia and non-organic psychosis,Eu21.14,423271000006116,Prepsychotic schizophrenia,247804008,369984013
+Schizophrenia and non-organic psychosis,Eu21.15,423471000006117,Prodromal schizophrenia,247804008,369985014
+Schizophrenia and non-organic psychosis,Eu21.16,423731000006114,[X]Pseudoneurotic schizophrenia,31027006,51933014
+Schizophrenia and non-organic psychosis,Eu21.17,423741000006116,[X]Pseudopsychopathic schizophrenia,31027006,51933014
+Schizophrenia and non-organic psychosis,Eu21.18,425731000006110,[X]Schizotypal personality disorder,31027006,51933014
+Schizophrenia and non-organic psychosis,Eu22.00,419861000006117,Persistent delusional disorder,231487004,346958010
+Schizophrenia and non-organic psychosis,Eu22000,215841000000114,Delusional disorder,48500005,80801017
+Schizophrenia and non-organic psychosis,Eu22011,215851000000112,[X]Paranoid psychosis,191667009,3012206013
+Schizophrenia and non-organic psychosis,Eu22012,418231000006115,[X]Paranoid state,191667009,294903010
+Schizophrenia and non-organic psychosis,Eu22013,418251000006110,Late paraphrenia,38295006,1229409019
+Schizophrenia and non-organic psychosis,Eu22014,425921000006114,[X]Sensitiver Beziehungswahn,41189006,492910018
+Schizophrenia and non-organic psychosis,Eu22015,215871000000115,[X]Paranoia,417233008,2548181016
+Schizophrenia and non-organic psychosis,Eu22100,914471000006113,[X]Delusional misidentification syndrome,44906001,1230157015
+Schizophrenia and non-organic psychosis,Eu22111,914461000006118,[X]Capgras syndrome,44906001,1230158013
+Schizophrenia and non-organic psychosis,Eu22200,967791000006111,[X]Cotard syndrome,357705009,2840462017
+Schizophrenia and non-organic psychosis,Eu22300,1667581000000114,[X]Paranoid state in remission,755301000000102,1667581000000114
+Schizophrenia and non-organic psychosis,Eu22y00,401857019,[X]Other persistent delusional disorders,231487004,346958010
+Schizophrenia and non-organic psychosis,Eu22y11,376501000006110,[X]Delusional dysmorphophobia,231487004,346958010
+Schizophrenia and non-organic psychosis,Eu22y12,394461000006110,[X]Involutional paranoid state,231487004,346958010
+Schizophrenia and non-organic psychosis,Eu22y13,418181000006110,[X]Paranoia querulans,231487004,346958010
+Schizophrenia and non-organic psychosis,Eu22z00,296066015,"[X]Persistent delusional disorder, unspecified",231487004,346958010
+Schizophrenia and non-organic psychosis,Eu23000,362391000006117,Acute polymorphic psychotic disorder without symptoms of schizophrenia,712824002,3286009016
+Schizophrenia and non-organic psychosis,Eu23011,367961000006110,[X]Bouffee delirante,63204009,2820485012
+Schizophrenia and non-organic psychosis,Eu23012,376271000006119,[X]Cycloid psychosis,307417003,450678015
+Schizophrenia and non-organic psychosis,Eu23100,362381000006115,Acute polymorphic psychotic disorder co-occurrent with symptoms of schizophrenia,712850003,3286050012
+Schizophrenia and non-organic psychosis,Eu23111,367971000006115,[X]Bouffee delirante with symptoms of schizophrenia,712850003,3286050012
+Schizophrenia and non-organic psychosis,Eu23112,376281000006116,Cycloid psychosis,307417003,450678015
+Schizophrenia and non-organic psychosis,Eu23200,362421000006113,Acute schizophrenia-like psychotic disorder,278853003,415877014
+Schizophrenia and non-organic psychosis,Eu23214,425671000006115,[X]Schizophrenic reaction,278853003,415877014
+Schizophrenia and non-organic psychosis,Eu23300,401859016,[X]Other acute predominantly delusional psychotic disorders,231489001,346960012
+Schizophrenia and non-organic psychosis,Eu23312,424071000006112,[X]Psychogenic paranoid psychosis,191680007,294924017
+Schizophrenia and non-organic psychosis,Eu23z12,424511000006112,[X]Reactive psychosis,231437006,346896012
+Schizophrenia and non-organic psychosis,Eu25.00,425541000006110,Schizoaffective disorder,68890003,114425016
+Schizophrenia and non-organic psychosis,Eu25000,425511000006111,"Schizoaffective disorder, manic type",271428004,406210011
+Schizophrenia and non-organic psychosis,Eu25011,425571000006119,"[X]Schizoaffective psychosis, manic type",271428004,406210011
+Schizophrenia and non-organic psychosis,Eu25012,425701000006119,"[X]Schizophreniform psychosis, manic type",271428004,406211010
+Schizophrenia and non-organic psychosis,Eu25100,425501000006113,"Schizoaffective disorder, depressive type",84760002,140519016
+Schizophrenia and non-organic psychosis,Eu25111,425561000006114,"[X]Schizoaffective psychosis, depressive type",84760002,140519016
+Schizophrenia and non-organic psychosis,Eu25112,425691000006119,"[X]Schizophreniform psychosis, depressive type",84760002,1234980016
+Schizophrenia and non-organic psychosis,Eu25200,425521000006115,"Schizoaffective disorder, mixed type",270901009,405368015
+Schizophrenia and non-organic psychosis,Eu25211,376251000006112,[X]Cyclic schizophrenia,270901009,405368015
+Schizophrenia and non-organic psychosis,Eu25212,398631000006113,Mixed schizophrenic and affective pschosis,270901009,405369011
+Schizophrenia and non-organic psychosis,Eu25y00,296095012,[X]Other schizoaffective disorders,68890003,114425016
+Schizophrenia and non-organic psychosis,Eu25z00,296096013,"[X]Schizoaffective disorder, unspecified",68890003,114425016
+Schizophrenia and non-organic psychosis,Eu25z11,425551000006112,[X]Schizoaffective psychosis NOS,68890003,114425016
+Schizophrenia and non-organic psychosis,Eu26.00,1667591000000111,[X]Nonorganic psychosis in remission,755311000000100,1667591000000111
+Schizophrenia and non-organic psychosis,Eu2y.00,412201000006113,[X]Other nonorganic psychotic disorders,191525009,2575698010
+Schizophrenia and non-organic psychosis,Eu2y.11,370981000006112,[X]Chronic hallucinatory psychosis,480111000000107,885251000000119
+Schizophrenia and non-organic psychosis,Eu2z.00,401862018,[X]Unspecified nonorganic psychosis,191525009,2575698010
+Schizophrenia and non-organic psychosis,Eu2z.11,424231000006116,Psychotic,69322001,2920943016
+Schizophrenia and non-organic psychosis,Eu60100,425591000006118,[X]Schizoid personality disorder,52954000,88108012
+Schizophrenia and non-organic psychosis,ZV11000,460273017,[V]Personal history of schizophrenia,161464003,251624012

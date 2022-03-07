@@ -1,0 +1,20 @@
+Condition,ReadCode,MedCodeId,Term,SnomedCTConceptId,SnomedCTDescriptionId
+Primary malignancy pancreatic,B17..00,723401000006118,Malignant tumour of pancreas,363418001,482635012
+Primary malignancy pancreatic,B170.00,725121000006118,Malignant tumour of head of pancreas,363419009,482638014
+Primary malignancy pancreatic,B171.00,288717016,Malignant neoplasm of body of pancreas,187791002,288717016
+Primary malignancy pancreatic,B172.00,288720012,Malignant neoplasm of tail of pancreas,187792009,288720012
+Primary malignancy pancreatic,B173.00,288723014,Malignant neoplasm of pancreatic duct,187793004,288723014
+Primary malignancy pancreatic,B174.00,288727010,Malignant neoplasm of Islets of Langerhans,187794005,288727010
+Primary malignancy pancreatic,B175.00,1219538019,"Malignant neoplasm, overlapping lesion of pancreas",109848009,1219538019
+Primary malignancy pancreatic,B17y.00,288731016,Malignant neoplasm of other specified sites of pancreas,363418001,482635012
+Primary malignancy pancreatic,B17y000,288734012,Malignant neoplasm of ectopic pancreatic tissue,187798008,288734012
+Primary malignancy pancreatic,B17yz00,288735013,Malignant neoplasm of specified site of pancreas NOS,363418001,482635012
+Primary malignancy pancreatic,B17z.00,288736014,Malignant neoplasm of pancreas NOS,363418001,482635012
+Primary malignancy pancreatic,B905100,511733014,Neoplasm of uncertain behaviour of pancreas,94978003,511733014
+Primary malignancy pancreatic,BB5B.00,291375013,[M]Pancreatic adenomas and carcinomas,126859007,147017
+Primary malignancy pancreatic,BB5B100,310661000006117,[M]Islet cell carcinoma,60346004,100246011
+Primary malignancy pancreatic,BB5B300,310361000006113,Malignant insulinoma,20955008,1222592015
+Primary malignancy pancreatic,BB5B500,309401000006112,Malignant glucagonoma,66515009,1232802010
+Primary malignancy pancreatic,BB5B600,312881000006110,[M]Mixed islet cell and exocrine adenocarcinoma,999000,2755014
+Primary malignancy pancreatic,BB5Bz00,291377017,[M]Pancreatic adenoma or carcinoma NOS,126859007,147017
+Primary malignancy pancreatic,BB5C100,308941000006114,Malignant gastrinoma,19756007,1222357010

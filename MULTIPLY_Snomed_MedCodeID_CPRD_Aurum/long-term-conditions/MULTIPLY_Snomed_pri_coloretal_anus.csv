@@ -1,0 +1,48 @@
+Condition,ReadCode,MedCodeId,Term,SnomedCTConceptId,SnomedCTDescriptionId
+Primary malignancy colorectal and anus,9Ow1.00,517421000000115,Bowel cancer detected by national screening programme,294301000000103,517421000000115
+Primary malignancy colorectal and anus,B13..00,726331000006111,Malignant neoplasm of colon,363406005,3446619012
+Primary malignancy colorectal and anus,B130.00,725191000006116,Malignant tumour of hepatic flexure,363407001,482614010
+Primary malignancy colorectal and anus,B131.00,721421000006112,Malignant tumour of transverse colon,363408006,482615011
+Primary malignancy colorectal and anus,B132.00,725951000006112,Malignant tumour of descending colon,363409003,482618013
+Primary malignancy colorectal and anus,B133.00,721991000006115,Malignant tumour of sigmoid colon,363410008,482619017
+Primary malignancy colorectal and anus,B134.00,1216464010,Malignant neoplasm of caecum,363350007,1216464010
+Primary malignancy colorectal and anus,B134.11,380129018,Carcinoma of caecum,255081007,380129018
+Primary malignancy colorectal and anus,B135.00,727281000006117,Malignant neoplasm of appendix,363411007,482621010
+Primary malignancy colorectal and anus,B136.00,727321000006111,Malignant tumour of ascending colon,363412000,482623013
+Primary malignancy colorectal and anus,B137.00,721821000006114,Malignant neoplasm of splenic flexure of colon,363413005,482625018
+Primary malignancy colorectal and anus,B138.00,288670017,"Malignant neoplasm, overlapping lesion of colon",187757001,288670017
+Primary malignancy colorectal and anus,B139.00,459527013,Hereditary nonpolyposis colon cancer,315058005,459527013
+Primary malignancy colorectal and anus,B13y.00,288671018,Malignant neoplasm of other specified sites of colon,363406005,482611019
+Primary malignancy colorectal and anus,B13z.00,403682011,Malignant tumour of colon,363406005,482611019
+Primary malignancy colorectal and anus,B13z.11,573611000006118,Colonic cancer,363406005,482611019
+Primary malignancy colorectal and anus,B14..00,288675010,"Malignant neoplasm of rectum, rectosigmoid junction and anus",187760008,288675010
+Primary malignancy colorectal and anus,B140.00,722441000006110,Malignant tumour of rectosigmoid junction,363414004,482627014
+Primary malignancy colorectal and anus,B141.00,155488014,Malignant tumour of rectum,363351006,482502014
+Primary malignancy colorectal and anus,B141.11,379088010,Carcinoma of rectum,254582000,379090011
+Primary malignancy colorectal and anus,B141.12,379089019,Rectal carcinoma,254582000,379090011
+Primary malignancy colorectal and anus,B142.00,155076015,Malignant tumour of anal canal,363352004,482503016
+Primary malignancy colorectal and anus,B142.11,380137014,Anal carcinoma,363352004,482503016
+Primary malignancy colorectal and anus,B142000,174518012,Malignant neoplasm of cloacogenic zone,363491008,482769017
+Primary malignancy colorectal and anus,B143.00,288685011,Malignant tumour of anus,363490009,482768013
+Primary malignancy colorectal and anus,B14y.00,729581000006111,"Malig neop other site rectum, rectosigmoid junction and anus",187760008,288675010
+Primary malignancy colorectal and anus,B14z.00,720501000006110,"Malignant neoplasm rectum,rectosigmoid junction and anus NOS",187760008,288675010
+Primary malignancy colorectal and anus,B18y000,288748012,Malignant neoplasm of mesocolon,187809000,288748012
+Primary malignancy colorectal and anus,B18y200,288751017,Malignant neoplasm of mesorectum,187811009,288751017
+Primary malignancy colorectal and anus,B1z0.11,841331000006115,Cancer of bowel,363508008,1228620018
+Primary malignancy colorectal and anus,B803.00,153133016,Carcinoma in situ of colon,92568009,153133016
+Primary malignancy colorectal and anus,B803000,153187010,Carcinoma in situ of hepatic flexure of colon,92608001,153187010
+Primary malignancy colorectal and anus,B803100,153388012,Carcinoma in situ of transverse colon,92773000,153388012
+Primary malignancy colorectal and anus,B803200,153141016,Carcinoma in situ of descending colon,92575005,153141016
+Primary malignancy colorectal and anus,B803300,153313014,Carcinoma in situ of sigmoid colon,92708008,153313014
+Primary malignancy colorectal and anus,B803600,153102018,Carcinoma in situ of ascending colon,92542002,153102018
+Primary malignancy colorectal and anus,B803700,290749015,Carcinoma in situ of splenic flexure of colon,189229003,290749015
+Primary malignancy colorectal and anus,B803z00,290750015,Carcinoma in situ of colon NOS,92568009,153133016
+Primary malignancy colorectal and anus,B804.00,290751016,Carcinoma in situ of rectum and rectosigmoid junction,189231007,290751016
+Primary malignancy colorectal and anus,B804100,153300015,Carcinoma in situ of rectum,92696009,153300015
+Primary malignancy colorectal and anus,B804z00,290752011,Carcinoma in situ of rectum or rectosigmoid junction NOS,126837005,125017
+Primary malignancy colorectal and anus,B902400,511501015,Neoplasm of uncertain behaviour of colon,94801006,511501015
+Primary malignancy colorectal and anus,BB5N.00,403752014,[M]Adenomatous and adenocarcinomatous polyps of colon,442921000000108,950601000000111
+Primary malignancy colorectal and anus,BB5Nz00,291402014,[M]Adenomatous or adenocarcinomatous polyps of the colon NOS,68496003,113765010
+Primary malignancy colorectal and anus,ZV10011,1227555012,[V]Personal history of malignant neoplasm of anus,415080007,2531431010
+Primary malignancy colorectal and anus,ZV10014,1227557016,[V]Personal history of malignant neoplasm of large intestine,415080007,2531431010
+Primary malignancy colorectal and anus,ZV10017,1227554011,[V]Personal history of malignant neoplasm of rectum,415080007,2531431010

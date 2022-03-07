@@ -1,0 +1,19 @@
+Condition,ReadCode,MedCodeId,Term,SnomedCTConceptId,SnomedCTDescriptionId
+Sarcoidosis,AD5..00,52728016,Sarcoidosis,31541009,52728016
+Sarcoidosis,AD50.00,1223250017,Sarcoidosis of lung,24369008,1223250017
+Sarcoidosis,AD51.00,1232607019,Sarcoidosis of lymph nodes,64757003,1232607019
+Sarcoidosis,AD52.00,287930013,Sarcoidosis of lung with sarcoidosis of lymph nodes,187233002,287930013
+Sarcoidosis,AD53.00,1231546012,Sarcoidosis of skin,55941000,1231546012
+Sarcoidosis,AD53000,502127019,Lupus pernio,72470008,502127019
+Sarcoidosis,AD54.00,454209012,Sarcoidosis of inferior turbinates,310607007,454209012
+Sarcoidosis,AD55.00,477671011,Sarcoid arthropathy,361197009,477671011
+Sarcoidosis,Cyu0600,293742013,[X]Sarcoidosis of other and combined sites,31541009,52728016
+Sarcoidosis,F013.00,296819018,Meningitis due to sarcoidosis,192673008,296819018
+Sarcoidosis,F326300,297440017,Multiple cranial nerve palsies in sarcoidosis,193101001,297440017
+Sarcoidosis,F374900,297566017,Polyneuropathy in sarcoidosis,193195000,297566017
+Sarcoidosis,F396500,297643013,Myopathy due to sarcoidosis,193251003,297643013
+Sarcoidosis,G558300,161591000006114,Sarcoid heart disease,195033009,300056015
+Sarcoidosis,G5y7.00,1494958019,Sarcoid myocarditis,195033009,1494958019
+Sarcoidosis,H57y200,40879015,Pulmonary sarcoidosis,24369008,40879015
+Sarcoidosis,J63A.00,303525019,Hepatic granulomas in sarcoidosis,197368002,303525019
+Sarcoidosis,N233200,311616019,Myositis in sarcoidosis,203042003,311616019

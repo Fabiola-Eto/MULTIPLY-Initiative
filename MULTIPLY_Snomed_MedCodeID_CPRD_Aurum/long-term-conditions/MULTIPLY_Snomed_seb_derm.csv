@@ -1,0 +1,15 @@
+Condition,ReadCode,MedCodeId,Term,SnomedCTConceptId,SnomedCTDescriptionId
+Seborrheic dermatitis,M100.00,226461000006117,Pityriasis capitis - dandruff,156329007,243878010
+Seborrheic dermatitis,M101.00,84230010,Seborrhoeic dermatitis,50563003,84230010
+Seborrheic dermatitis,M101.11,220911000000115,Seborrhoeic dermatitis of scalp,156329007,243878010
+Seborrheic dermatitis,M101.12,84231014,Seborrhoeic eczema,50563003,84231014
+Seborrheic dermatitis,M165100,308772015,Pityriasis folliculorum,200993008,308772015
+Seborrheic dermatitis,M165200,308773013,Pityriasis streptogenes,200994002,308773013
+Seborrheic dermatitis,M244.11,1783489011,Seborrhoea capitis,156329007,243878010
+Seborrheic dermatitis,M263.00,143792011,Seborrhoea,86708008,143792011
+Seborrheic dermatitis,M263000,309144011,Seborrhoea corporis,201236001,309144011
+Seborrheic dermatitis,M263100,309147016,Seborrhoea faciei,201237005,309147016
+Seborrheic dermatitis,M263200,309148014,Seborrhoea nasi,201238000,309148014
+Seborrheic dermatitis,M263300,106347012,Seborrhoea oleosa,63977007,106347012
+Seborrheic dermatitis,M263z00,309155011,Seborrhoea NOS,86708008,143792011
+Seborrheic dermatitis,Myu2000,309316017,[X]Other seborrhoeic dermatitis,50563003,84230010

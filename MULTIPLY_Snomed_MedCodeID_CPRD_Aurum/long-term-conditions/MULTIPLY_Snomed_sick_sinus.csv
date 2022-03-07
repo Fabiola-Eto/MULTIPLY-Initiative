@@ -1,0 +1,4 @@
+Condition,ReadCode,MedCodeId,Term,SnomedCTConceptId,SnomedCTDescriptionId
+Sick sinus syndrome,G566000,109275012,Sinoatrial block,65778007,109275012
+Sick sinus syndrome,G57y300,60214017,Sick sinus syndrome,36083008,60214017
+Sick sinus syndrome,G57y400,300163018,Sinus node dysfunction,60423000,498734013

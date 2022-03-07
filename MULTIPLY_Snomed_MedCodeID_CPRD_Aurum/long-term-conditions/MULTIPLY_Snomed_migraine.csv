@@ -1,0 +1,27 @@
+Condition,ReadCode,MedCodeId,Term,SnomedCTConceptId,SnomedCTDescriptionId
+Migraine,1474.00,251645017,H/O: migraine,161481007,251645017
+Migraine,1474000,1747081000000119,History of migraine with aura,608837004,2958210010
+Migraine,8B6N.00,2159945013,Migraine prophylaxis,408381007,2159945013
+Migraine,F26..00,63055014,Migraine,37796009,63055014
+Migraine,F260.00,7596016,Migraine with typical aura,230462002,345348012
+Migraine,F260.11,7595017,Migraine with aura,4473006,7595017
+Migraine,F261.00,93295014,Common migraine,56097005,93295014
+Migraine,F261.11,93294013,Migraine without aura,56097005,93294013
+Migraine,F261000,93296010,Atypical migraine,56097005,93296010
+Migraine,F261z00,297336013,Common migraine NOS,56097005,93295014
+Migraine,F262.00,297337016,Migraine variants,193030005,297337016
+Migraine,F262200,126030010,Abdominal migraine,75879005,126030010
+Migraine,F262300,138248010,Basilar migraine,83351003,138248010
+Migraine,F262400,158460019,Ophthalmic migraine,95655001,158460019
+Migraine,F262800,1746951000000114,Migraine induced by oestrogen contraceptive,781381000000100,1746951000000114
+Migraine,F262z00,297351016,Migraine variant NOS,193030005,297337016
+Migraine,F26y.00,297352011,Other forms of migraine,37796009,63055014
+Migraine,F26y000,98501012,Hemiplegic migraine,59292006,98501012
+Migraine,F26y100,82623012,Ophthalmoplegic migraine,49605003,82623012
+Migraine,F26y111,700211000006115,Moebius' ophthalmoplegic migraine,49605003,82623012
+Migraine,F26y200,345355014,Status migrainosus,230467008,345355014
+Migraine,F26y300,297354012,Complicated migraine,193039006,297354012
+Migraine,F26yz00,297355013,Other forms of migraine NOS,37796009,63055014
+Migraine,F26z.00,297356014,Migraine NOS,37796009,63055014
+Migraine,Fyu5300,299338017,[X]Other migraine,37796009,63055014
+Migraine,K584.11,221281000000113,Menstrual migraine,23186000,38943013

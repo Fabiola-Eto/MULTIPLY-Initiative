@@ -1,0 +1,28 @@
+Condition,ReadCode,MedCodeId,Term,SnomedCTConceptId,SnomedCTDescriptionId
+Rheumatic valve dz,G11..11,505828015,Rheumatic mitral valve disease,83898004,505828015
+Rheumatic valve dz,G110.11,143386015,Rheumatic mitral stenosis,86466006,143386015
+Rheumatic valve dz,G111.00,52032016,Rheumatic mitral insufficiency,31085000,52032016
+Rheumatic valve dz,G111.11,1227426018,Mitral incompetence - rheumatic,31085000,1227426018
+Rheumatic valve dz,G111.12,700741000006112,Rheumatic mitral regurgitation,31085000,52030012
+Rheumatic valve dz,G12..00,20721017,Rheumatic aortic valve disease,12023003,20721017
+Rheumatic valve dz,G120.00,119660019,Rheumatic aortic stenosis,72011007,119660019
+Rheumatic valve dz,G121.00,129504017,Rheumatic aortic insufficiency,78031003,129504017
+Rheumatic valve dz,G121.11,1234202016,Aortic incompetence - rheumatic,78031003,1234202016
+Rheumatic valve dz,G121.12,488451000006114,Rheumatic aortic regurgitation,78031003,129502018
+Rheumatic valve dz,G122.00,30011012,Rheumatic aortic stenosis with insufficiency,17759006,30011012
+Rheumatic valve dz,G12z.00,299597013,Rheumatic aortic valve disease NOS,12023003,20718019
+Rheumatic valve dz,G140000,168601000006114,Rheumatic tricuspid stenosis,88318005,146419014
+Rheumatic valve dz,G140100,1232960018,Rheumatic tricuspid insufficiency,67696008,1232960018
+Rheumatic valve dz,G140111,87501000006118,Rheumatic tricuspid regurgitation,67696008,1232959011
+Rheumatic valve dz,G140112,1232958015,Tricuspid incompetence - rheumatic,67696008,1232958015
+Rheumatic valve dz,G140200,299620010,Rheumatic tricuspid stenosis and insufficiency,194741006,299620010
+Rheumatic valve dz,G14021X,299619016,Rheumatic tricuspid stenosis and regurgitation,194741006,299619016
+Rheumatic valve dz,G14021Y,299618012,Rheumatic tricuspid stenosis and incompetence,194741006,299618012
+Rheumatic valve dz,G140z00,299624018,Rheumatic tricuspid valve disease NOS,49699002,82772011
+Rheumatic valve dz,G141.00,31507017,Rheumatic pulmonary valve disease,18687009,31507017
+Rheumatic valve dz,G141000,168541000006110,Rheumatic pulmonary stenosis,91442002,151483011
+Rheumatic valve dz,G141100,1228148017,Rheumatic pulmonary insufficiency,34126003,1228148017
+Rheumatic valve dz,G141200,1495489016,Rheumatic pulmonary stenosis and insufficiency,85971001,1495489016
+Rheumatic valve dz,G141z00,299626016,Rheumatic pulmonary valve disease NOS,18687009,31504012
+Rheumatic valve dz,G14z.11,168651000006113,"Rheumatic valvulitis, chronic NOS",87648004,145328019
+Rheumatic valve dz,Gyu1100,300864010,[X]Other rheumatic aortic valve diseases,12023003,20718019

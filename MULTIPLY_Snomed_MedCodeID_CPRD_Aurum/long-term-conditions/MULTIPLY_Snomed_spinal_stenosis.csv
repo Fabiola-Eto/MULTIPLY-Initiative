@@ -1,0 +1,22 @@
+Condition,ReadCode,MedCodeId,Term,SnomedCTConceptId,SnomedCTDescriptionId
+Spinal stenosis,N130.00,138588018,Cervical spinal stenosis,83561009,138588018
+Spinal stenosis,N130000,311194016,Idiopathic cervical spinal stenosis,202760001,311194016
+Spinal stenosis,N130100,311195015,Degenerative cervical spinal stenosis,202761002,311195015
+Spinal stenosis,N130200,311196019,Iatrogenic cervical spinal stenosis,202762009,311196019
+Spinal stenosis,N130300,311197011,Cervical spinal stenosis secondary to other disease,83561009,138587011
+Spinal stenosis,N140.00,400282015,"Spinal stenosis, excluding cervical region",267980005,400282015
+Spinal stenosis,N140.11,126406018,Spinal stenosis,76107001,126406018
+Spinal stenosis,N140000,311229014,Spinal stenosis of unspecified region,76107001,126406018
+Spinal stenosis,N140100,68961012,Thoracic spinal stenosis,41341006,68961012
+Spinal stenosis,N140200,30978014,Lumbar spinal stenosis,18347007,30978014
+Spinal stenosis,N140300,311230016,Idiopathic thoracic spinal stenosis,202782008,311230016
+Spinal stenosis,N140400,311231017,Degenerative thoracic spinal stenosis,202783003,311231017
+Spinal stenosis,N140600,311236010,Thoracic spinal stenosis secondary to other disease,41341006,68960013
+Spinal stenosis,N140700,311237018,Idiopathic lumbar spinal stenosis,202787002,311237018
+Spinal stenosis,N140800,311238011,Degenerative lumbar spinal stenosis,202788007,311238011
+Spinal stenosis,N140900,311239015,Iatrogenic lumbar spinal stenosis,202789004,311239015
+Spinal stenosis,N140A00,311240018,Lumbar spinal stenosis secondary to other disease,18347007,30977016
+Spinal stenosis,N140z00,311241019,Spinal stenosis NOS,76107001,126406018
+Spinal stenosis,Zw04300,461576019,[Q] Central spinal stenosis,76107001,126406018
+Spinal stenosis,Zw04400,461577011,[Q] Lateral spinal stenosis,76107001,126406018
+Spinal stenosis,Zw04500,461578018,[Q] Central and lateral spinal stenosis,76107001,126406018

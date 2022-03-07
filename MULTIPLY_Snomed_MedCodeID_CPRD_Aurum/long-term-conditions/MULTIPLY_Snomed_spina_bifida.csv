@@ -1,0 +1,86 @@
+Condition,ReadCode,MedCodeId,Term,SnomedCTConceptId,SnomedCTDescriptionId
+Spina bifida,7010111,773321000006118,Insertion of Halber valve for spina bifida,82762009,741991000000112
+Spina bifida,7043.00,32117016,Repair of spina bifida,19054000,32117016
+Spina bifida,7043100,493453016,Closure of spinal myelomeningocele,42839003,493453016
+Spina bifida,7043200,89369017,Closure of spinal meningocele,53766007,89369017
+Spina bifida,7043y00,266010011,Other specified repair of spina bifida,19054000,32117016
+Spina bifida,7043z00,266011010,Repair of spina bifida NOS,19054000,32117016
+Spina bifida,P1...00,110447013,Spina bifida,67531005,110447013
+Spina bifida,P10..00,88663019,Spina bifida with hydrocephalus,53318002,88663019
+Spina bifida,P100.00,312742010,Unspecified spina bifida with hydrocephalus,53318002,88663019
+Spina bifida,P100000,312743017,"Spina bifida with hydrocephalus, unspecified",53318002,88663019
+Spina bifida,P100100,312744011,Cervical spina bifida with hydrocephalus,203934001,312744011
+Spina bifida,P100200,312745012,Thoracic spina bifida with hydrocephalus,203935000,312745012
+Spina bifida,P100300,312746013,Lumbar spina bifida with hydrocephalus,203936004,312746013
+Spina bifida,P100z00,134741000006119,Spina bifida with hydrocephalus NOS,53318002,88663019
+Spina bifida,P101.11,377002017,Closed spina bifida with Arnold-Chiari malformation,253117002,377002017
+Spina bifida,P102.00,400758012,Spina bifida with hydrocephalus - open,268143001,400758012
+Spina bifida,P102.11,377001012,Fissured spine with hydrocephalus,253116006,377001012
+Spina bifida,P102.13,376996015,Myelocele with hydrocephalus,253114009,376996015
+Spina bifida,P102.14,376995016,Rachischisis with hydrocephalus,253113003,376995016
+Spina bifida,P102200,312759017,Thoracic spina bifida with hydrocephalus - open,203942000,312759017
+Spina bifida,P102300,312760010,Lumbar spina bifida with hydrocephalus - open,203943005,312760010
+Spina bifida,P102400,312761014,Sacral spina bifida with hydrocephalus - open,203944004,312761014
+Spina bifida,P102z00,312762019,Spina bifida with hydrocephalus - open NOS,268143001,400758012
+Spina bifida,P103.00,312763012,Spina bifida with hydrocephalus - closed,203946002,312763012
+Spina bifida,P103000,312764018,Unspecified spina bifida with hydrocephalus - closed,203946002,312763012
+Spina bifida,P103300,312767013,Lumbar spina bifida with hydrocephalus - closed,203950009,312767013
+Spina bifida,P103400,312768015,Sacral spina bifida with hydrocephalus - closed,203951008,312768015
+Spina bifida,P103z00,400759016,Spina bifida with hydrocephalus - closed NOS,203946002,312763012
+Spina bifida,P103z11,377003010,Thoracolumbar spina bifida with hydrocephalus - closed,253118007,377003010
+Spina bifida,P104.00,312773014,Spina bifida with hydrocephalus of late onset,203954000,312773014
+Spina bifida,P105.00,312774015,Spina bifida with stenosis of aqueduct of Sylvius,203955004,312774015
+Spina bifida,P10y.00,312775019,Other specified spina bifida with hydrocephalus,67531005,110447013
+Spina bifida,P10y000,607741000006116,Dandy - Walker syndrome with spina bifida,203957007,312776018
+Spina bifida,P10z.00,312778017,Spina bifida with hydrocephalus NOS,53318002,88663019
+Spina bifida,P11..00,312779013,Spina bifida without mention of hydrocephalus,67531005,110447013
+Spina bifida,P110000,134831000006116,"Spina bifida without hydrocephalus, site unspecified",67531005,110447013
+Spina bifida,P110100,312784019,Cervical spina bifida without mention of hydrocephalus,32232003,53841019
+Spina bifida,P110200,312785018,Thoracic spina bifida without mention of hydrocephalus,528711000000105,1181151000000115
+Spina bifida,P110300,312786017,Lumbar spina bifida without mention of hydrocephalus,530041000000105,1183881000000115
+Spina bifida,P110z00,78661000006114,Unspecified spina bifida without hydrocephalus NOS,67531005,110447013
+Spina bifida,P111.00,312788016,Spinal hydromeningocele,203967002,312788016
+Spina bifida,P112.00,64724016,Hydromyelocele,38116000,64724016
+Spina bifida,P113.00,312799019,Spinal meningocele,65144005,108261011
+Spina bifida,P113000,312800015,Spinal meningocele of unspecified site,171131006,265175015
+Spina bifida,P113100,312801016,Cervical spinal meningocele,203980004,312801016
+Spina bifida,P113200,312802011,Thoracic spinal meningocele,203981000,312802011
+Spina bifida,P113300,312803018,Lumbar spinal meningocele,203982007,312803018
+Spina bifida,P113z00,312804012,Spinal meningocele NOS,171131006,265175015
+Spina bifida,P114.00,2534752017,Meningomyelocele,414667000,2534752017
+Spina bifida,P114000,312805013,Meningomyelocele of unspecified site,414667000,2534752017
+Spina bifida,P114100,312806014,Cervical meningomyelocele,203985009,312806014
+Spina bifida,P114200,312807017,Thoracic meningomyelocele,203986005,312807017
+Spina bifida,P114300,312808010,Lumbar meningomyelocele,203987001,312808010
+Spina bifida,P114z00,312809019,Meningomyelocele NOS,414667000,2534752017
+Spina bifida,P115.00,136110016,Myelocele,82058009,136110016
+Spina bifida,P115000,312810012,Myelocele of unspecified site,82058009,136110016
+Spina bifida,P115100,312811011,Cervical myelocele,203990007,312811011
+Spina bifida,P115200,312812016,Thoracic myelocele,203991006,312812016
+Spina bifida,P115300,312813014,Lumbar myelocele,203992004,312813014
+Spina bifida,P115z00,312814015,Myelocele NOS,82058009,136110016
+Spina bifida,P116.00,312815019,Myelocystocele,203994003,312815019
+Spina bifida,P116100,312817010,Cervical myelocystocele,203996001,312817010
+Spina bifida,P116300,312819013,Lumbar myelocystocele,203998000,312819013
+Spina bifida,P116z00,312820019,Myelocystocele NOS,203994003,312815019
+Spina bifida,P117.00,400761013,Spina bifida without hydrocephalus - open,268146009,400761013
+Spina bifida,P117.11,376994017,Fissured spine,253112008,376994017
+Spina bifida,P117.12,196761000006117,Rachischisis,61819007,102746015
+Spina bifida,P117200,312829018,Thoracic spina bifida without hydrocephalus - open,204004001,312829018
+Spina bifida,P117300,312830011,Lumbar spina bifida without hydrocephalus - open,204005000,312830011
+Spina bifida,P117400,312831010,Sacral spina bifida without hydrocephalus - open,204006004,312831010
+Spina bifida,P117z00,312832015,Spina bifida without hydrocephalus - open NOS,268146009,400761013
+Spina bifida,P118.00,312833013,Spina bifida without hydrocephalus - closed,204008003,312833013
+Spina bifida,P118000,312834019,Unspecified spina bifida without hydrocephalus - closed,204008003,312833013
+Spina bifida,P118100,312835018,Cervical spina bifida without hydrocephalus - closed,204010001,312835018
+Spina bifida,P118300,312838016,Lumbar spina bifida without hydrocephalus - closed,204012009,312838016
+Spina bifida,P118400,312839012,Sacral spina bifida without hydrocephalus - closed,204013004,312839012
+Spina bifida,P118z00,400762018,Spina bifida without hydrocephalus - closed NOS,204008003,312833013
+Spina bifida,P118z11,376993011,Thoracolumbar spina bifida without hydrocephalus - closed,253111001,376993011
+Spina bifida,P11y.00,400763011,Other specified spina bifida without hydrocephalus,67531005,110447013
+Spina bifida,P11y.11,114171000006116,Syringomyelocele,67531005,110447013
+Spina bifida,P11z.00,400764017,Spina bifida without mention of hydrocephalus NOS,67531005,110447013
+Spina bifida,P11z.12,136111017,Syringomyelocele,67531005,110447013
+Spina bifida,P1z..00,312852019,Spina bifida NOS,67531005,110447013
+Spina bifida,PG17.00,127701015,Spina bifida occulta,76916001,127701015
+Spina bifida,Pyu0400,315657017,[X]Unspecified spina bifida with hydrocephalus,53318002,88663019

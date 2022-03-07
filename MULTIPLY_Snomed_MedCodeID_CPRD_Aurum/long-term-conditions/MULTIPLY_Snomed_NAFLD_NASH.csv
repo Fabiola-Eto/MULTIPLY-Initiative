@@ -1,0 +1,9 @@
+Condition,ReadCode,MedCodeId,Term,SnomedCTConceptId,SnomedCTDescriptionId
+Non-alcoholic fatty liver disease and steatohepatitis (NASH and NAFLD),C32y500,125801000006114,Fatty metamorphosis of viscera,270881008,405333015
+Non-alcoholic fatty liver disease and steatohepatitis (NASH and NAFLD),C32y511,820371000006114,Hepatic familial steatosis,270881008,405333015
+Non-alcoholic fatty liver disease and steatohepatitis (NASH and NAFLD),J610.00,83834016,Alcoholic fatty liver,50325005,83834016
+Non-alcoholic fatty liver disease and steatohepatitis (NASH and NAFLD),J61y100,303457015,Non-alcoholic fatty liver,197315008,303457015
+Non-alcoholic fatty liver disease and steatohepatitis (NASH and NAFLD),J61y700,303463012,Steatosis of liver,197321007,303463012
+Non-alcoholic fatty liver disease and steatohepatitis (NASH and NAFLD),J61y800,2819666013,Nonalcoholic steatohepatitis,442685003,2819666013
+Non-alcoholic fatty liver disease and steatohepatitis (NASH and NAFLD),J61y900,1786201000006119,Fatty change of liver,197321007,303463012
+Non-alcoholic fatty liver disease and steatohepatitis (NASH and NAFLD),J61y911,1786211000006116,Fatty liver,197321007,2819770010

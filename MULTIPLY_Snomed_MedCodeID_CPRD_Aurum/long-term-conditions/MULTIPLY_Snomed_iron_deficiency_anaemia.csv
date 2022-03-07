@@ -1,0 +1,21 @@
+Condition,ReadCode,MedCodeId,Term,SnomedCTConceptId,SnomedCTDescriptionId
+Iron deficiency with and without anaemia,1451.00,251611012,H/O: anaemia - iron deficient,161456009,251611012
+Iron deficiency with and without anaemia,D0...11,507619019,Asiderotic anaemia,87522002,507616014
+Iron deficiency with and without anaemia,D0...12,507621012,Sideropenic anaemia,87522002,507616014
+Iron deficiency with and without anaemia,D00..00,745851000006117,Iron deficiency anaemia,87522002,507616014
+Iron deficiency with and without anaemia,D000.00,745811000006118,Anaemia due to chronic blood loss,413533008,2532901013
+Iron deficiency with and without anaemia,D000.11,351092018,Normocytic anaemia due to chronic blood loss,234352004,351092018
+Iron deficiency with and without anaemia,D000.12,745801000006116,Iron deficiency anaemia due to blood loss,413533008,2532901013
+Iron deficiency with and without anaemia,D001.00,293864013,Iron deficiency anaemia due to dietary causes,191128004,293864013
+Iron deficiency with and without anaemia,D00y.00,399195014,Iron deficiency anemia,87522002,507616014
+Iron deficiency with and without anaemia,D00y.11,281961000006111,Kelly - Paterson syndrome,80126007,132937017
+Iron deficiency with and without anaemia,D00y.12,219431000006113,Plummer - Vinson syndrome,80126007,132937017
+Iron deficiency with and without anaemia,D00y000,132939019,Sideropenic dysphagia,80126007,132939019
+Iron deficiency with and without anaemia,D00y011,755101000006110,Kelly-Paterson syndrome,80126007,132937017
+Iron deficiency with and without anaemia,D00y012,132937017,Plummer-Vinson syndrome,80126007,132937017
+Iron deficiency with and without anaemia,D00yz00,293877016,Iron deficiency anemia,87522002,507616014
+Iron deficiency with and without anaemia,D00z.00,293880015,Unspecified iron deficiency anaemia,87522002,507616014
+Iron deficiency with and without anaemia,D00z000,504528016,Achlorhydric anaemia,80875006,504528016
+Iron deficiency with and without anaemia,D00z100,293884012,Chlorotic anaemia,87522002,507623010
+Iron deficiency with and without anaemia,D00zz00,293888010,Iron deficiency anaemia NOS,87522002,507616014
+Iron deficiency with and without anaemia,Dyu0000,294567019,[X]Other iron deficiency anaemias,87522002,507616014

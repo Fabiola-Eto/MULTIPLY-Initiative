@@ -1,0 +1,6 @@
+Condition,ReadCode,MedCodeId,Term,SnomedCTConceptId,SnomedCTDescriptionId
+Primary malignancy thyroid,B53..00,721291000006110,Malignant tumour of thyroid gland,363478007,482743011
+Primary malignancy thyroid,B8yy000,153380017,Carcinoma in situ of thyroid,92767001,1235765010
+Primary malignancy thyroid,B924000,511931018,Neoplasm of uncertain behaviour of thyroid gland,95138004,511931018
+Primary malignancy thyroid,B924100,511741014,Neoplasm of uncertain behaviour of parathyroid gland,94983006,511741014
+Primary malignancy thyroid,ZV10y15,1227582016,[V]Personal history of malignant neoplasm of thyroid,266987004,397818015

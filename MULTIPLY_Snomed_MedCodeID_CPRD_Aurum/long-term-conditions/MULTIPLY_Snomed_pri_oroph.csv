@@ -1,0 +1,143 @@
+Condition,ReadCode,MedCodeId,Term,SnomedCTConceptId,SnomedCTDescriptionId
+Primary malignancy oro-pharyngeal,B0...00,406052010,"Malignant neoplasm of lip, oral cavity and pharynx",271323007,406052010
+Primary malignancy oro-pharyngeal,B0...11,380095017,"Carcinoma of lip, oral cavity and pharynx",255069008,380095017
+Primary malignancy oro-pharyngeal,B00..00,724891000006113,Malignant neoplasm of lip,363348004,482495016
+Primary malignancy oro-pharyngeal,B00..11,403771011,Carcinoma of lip,269515006,403771011
+Primary malignancy oro-pharyngeal,B000.00,1228504019,"Malignant neoplasm of upper lip, vermilion border",363372009,1228504019
+Primary malignancy oro-pharyngeal,B000000,720801000006112,Malignant tumour of vermilion border of lip,421249001,2618242015
+Primary malignancy oro-pharyngeal,B000100,288350019,"Malignant neoplasm of upper lip, lipstick area",187601000,288350019
+Primary malignancy oro-pharyngeal,B000z00,288351015,Malignant tumour of vermilion border of upper lip,363372009,482541011
+Primary malignancy oro-pharyngeal,B001.00,724421000006114,"Malignant neoplasm of lower lip, vermilion border",363373004,1228505018
+Primary malignancy oro-pharyngeal,B001000,288354011,"Malignant neoplasm of lower lip, external",187604008,288354011
+Primary malignancy oro-pharyngeal,B001100,1228506017,"Malignant neoplasm of lower lip, lipstick area",363373004,1228506017
+Primary malignancy oro-pharyngeal,B001z00,288355012,Malignant tumour of vermilion border of lower lip,363373004,482542016
+Primary malignancy oro-pharyngeal,B002.00,288363013,"Malignant neoplasm of upper lip, inner aspect",187606005,288363013
+Primary malignancy oro-pharyngeal,B002100,288372017,"Malignant neoplasm of upper lip, frenulum",187608006,288372017
+Primary malignancy oro-pharyngeal,B002200,288364019,"Malignant neoplasm of upper lip, mucosa",187606005,288364019
+Primary malignancy oro-pharyngeal,B002300,288362015,"Malignant neoplasm of upper lip, oral aspect",187606005,288362015
+Primary malignancy oro-pharyngeal,B002z00,288377011,"Malignant neoplasm of upper lip, inner aspect NOS",187606005,288356013
+Primary malignancy oro-pharyngeal,B003.00,406399011,"Malignant neoplasm of lower lip, inner aspect",271568003,406399011
+Primary malignancy oro-pharyngeal,B003000,288380012,"Malignant neoplasm of lower lip, buccal aspect",187613005,288380012
+Primary malignancy oro-pharyngeal,B003100,288382016,"Malignant neoplasm of lower lip, frenulum",187614004,288382016
+Primary malignancy oro-pharyngeal,B003200,724401000006116,Malignant tumour of lower labial mucosa,271568003,406400016
+Primary malignancy oro-pharyngeal,B003300,724411000006118,"Malig neoplasm of lower lip, oral aspect",271568003,406398015
+Primary malignancy oro-pharyngeal,B003z00,288387010,"Malignant neoplasm of lower lip, inner aspect NOS",271568003,406398015
+Primary malignancy oro-pharyngeal,B004.00,288388017,Malignant tumour of labial mucosa,187622006,288402019
+Primary malignancy oro-pharyngeal,B004000,724901000006112,"Malignant neoplasm of lip unspecified, buccal aspect",187622006,288392012
+Primary malignancy oro-pharyngeal,B004200,288391017,"Malignant neoplasm of lip unspecified, mucosa",187622006,288392012
+Primary malignancy oro-pharyngeal,B004300,288393019,"Malignant neoplasm of lip, oral aspect",187622006,288393019
+Primary malignancy oro-pharyngeal,B005.00,726351000006116,Malignant neoplasm of commissure of lip,363374005,482544015
+Primary malignancy oro-pharyngeal,B006.00,288404018,Malignant neoplasm of overlapping lesion of lip,187624007,288404018
+Primary malignancy oro-pharyngeal,B007.00,453301018,Malignant tumour of lip,363348004,482495016
+Primary malignancy oro-pharyngeal,B00z000,288408015,"Malignant neoplasm of lip, unspecified, external",363348004,482495016
+Primary malignancy oro-pharyngeal,B00z100,288409011,Malignant tumour of lipstick area of lip,275399006,411376018
+Primary malignancy oro-pharyngeal,B00zz00,288410018,"Malignant neoplasm of lip, vermilion border NOS",421249001,2618242015
+Primary malignancy oro-pharyngeal,B01..00,721311000006114,Malignant tumour of tongue,363375006,482546018
+Primary malignancy oro-pharyngeal,B010.00,727381000006110,Malignant tumour of base of tongue,363376007,482549013
+Primary malignancy oro-pharyngeal,B010.11,1228509012,Malignant neoplasm of posterior third of tongue,363376007,1228509012
+Primary malignancy oro-pharyngeal,B010000,288411019,Malignant neoplasm of base of tongue dorsal surface,187631006,288411019
+Primary malignancy oro-pharyngeal,B010z00,288412014,Malignant neoplasm of fixed part of tongue NOS,363376007,482548017
+Primary malignancy oro-pharyngeal,B011.00,155211011,Malignant neoplasm of dorsal surface of tongue,187633009,288413016
+Primary malignancy oro-pharyngeal,B011100,288417015,Malignant neoplasm of midline of tongue,187635002,288417015
+Primary malignancy oro-pharyngeal,B011z00,288418013,Malignant neoplasm of dorsum of tongue NOS,187633009,288413016
+Primary malignancy oro-pharyngeal,B012.00,288419017,"Malignant neoplasm of tongue, tip and lateral border",187637005,288419017
+Primary malignancy oro-pharyngeal,B013.00,155669014,Malignant neoplasm of ventral surface of tongue,94134006,155669014
+Primary malignancy oro-pharyngeal,B013000,288423013,Malignant neoplasm of anterior 2/3 of tongue ventral surface,187640005,288423013
+Primary malignancy oro-pharyngeal,B013100,288427014,Malignant neoplasm of frenulum linguae,187641009,288427014
+Primary malignancy oro-pharyngeal,B013z00,288429012,Malignant neoplasm of ventral surface of tongue,1090271000000101,2731401000000113
+Primary malignancy oro-pharyngeal,B014.00,288430019,Malignant neoplasm of anterior 2/3 of tongue unspecified,363360003,482519011
+Primary malignancy oro-pharyngeal,B015.00,288433017,"Malignant neoplasm of tongue, junctional zone",187644001,288433017
+Primary malignancy oro-pharyngeal,B016.00,724881000006110,Malignant neoplasm of lingual tonsil,363377003,482550013
+Primary malignancy oro-pharyngeal,B017.00,1219531013,Malignant overlapping lesion of tongue,109823006,1219531013
+Primary malignancy oro-pharyngeal,B01y.00,288434011,Malignant neoplasm of other sites of tongue,363375006,482546018
+Primary malignancy oro-pharyngeal,B01z.00,288435012,Malignant neoplasm of tongue NOS,363375006,482546018
+Primary malignancy oro-pharyngeal,B02..00,1228510019,Malignant neoplasm of major salivary glands,363378008,1228510019
+Primary malignancy oro-pharyngeal,B020.00,723501000006117,Malignant tumour of parotid gland,363379000,482554016
+Primary malignancy oro-pharyngeal,B021.00,1228513017,Malignant neoplasm of submandibular gland,363380002,1228513017
+Primary malignancy oro-pharyngeal,B022.00,721881000006113,Malignant neoplasm of sublingual gland,363381003,482558018
+Primary malignancy oro-pharyngeal,B02y.00,288437016,Malignant neoplasm of other major salivary glands,363378008,482552017
+Primary malignancy oro-pharyngeal,B02z.00,288438014,Malignant tumour of major salivary gland,363378008,482553010
+Primary malignancy oro-pharyngeal,B03..00,725861000006118,Malignant neoplasm of gum,363382005,482560016
+Primary malignancy oro-pharyngeal,B030.00,720761000006115,Malignant neoplasm of upper gum,363383000,482562012
+Primary malignancy oro-pharyngeal,B031.00,724311000006111,Malignant neoplasm of lower gum,363384006,482567018
+Primary malignancy oro-pharyngeal,B03y.00,288439018,Malignant neoplasm of other sites of gum,363382005,482560016
+Primary malignancy oro-pharyngeal,B03z.00,288440016,Malignant neoplasm of gum NOS,363382005,482560016
+Primary malignancy oro-pharyngeal,B04..00,725611000006117,Malignant neoplasm of floor of mouth,363385007,2969212012
+Primary malignancy oro-pharyngeal,B040.00,288443019,Malignant neoplasm of anterior portion of floor of mouth,187652003,288443019
+Primary malignancy oro-pharyngeal,B041.00,288444013,Malignant neoplasm of lateral portion of floor of mouth,187653008,288444013
+Primary malignancy oro-pharyngeal,B042.00,1219533011,"Malignant neoplasm, overlapping lesion of floor of mouth",109830000,1219533011
+Primary malignancy oro-pharyngeal,B04y.00,288448011,Malignant neoplasm of other sites of floor of mouth,363385007,482569015
+Primary malignancy oro-pharyngeal,B04z.00,288449015,Malignant tumour of floor of mouth,363385007,482570019
+Primary malignancy oro-pharyngeal,B05..00,288450015,Malignant neoplasm of other and unspecified parts of mouth,363505006,482796019
+Primary malignancy oro-pharyngeal,B050.00,727151000006117,Malignant neoplasm of cheek mucosa,363386008,482571015
+Primary malignancy oro-pharyngeal,B050.11,727561000006112,Malignant neoplasm of buccal mucosa,363386008,482571015
+Primary malignancy oro-pharyngeal,B051.00,288453018,Malignant neoplasm of vestibule of mouth,187658004,288453018
+Primary malignancy oro-pharyngeal,B051000,288454012,Malignant neoplasm of upper buccal sulcus,187659007,288454012
+Primary malignancy oro-pharyngeal,B051100,288459019,Malignant neoplasm of lower buccal sulcus,187660002,288459019
+Primary malignancy oro-pharyngeal,B052.00,725101000006111,Malignant neoplasm of hard palate,363387004,482573017
+Primary malignancy oro-pharyngeal,B053.00,721621000006110,Malignant neoplasm of soft palate,363388009,482575012
+Primary malignancy oro-pharyngeal,B054.00,721041000006111,Malignant neoplasm of uvula,363389001,482577016
+Primary malignancy oro-pharyngeal,B055.00,288469013,Malignant tumour of palate,363390005,482579018
+Primary malignancy oro-pharyngeal,B055000,288470014,Malignant neoplasm of junction of hard and soft palate,187666008,288470014
+Primary malignancy oro-pharyngeal,B055100,1228523014,Malignant neoplasm of roof of mouth,363390005,1228523014
+Primary malignancy oro-pharyngeal,B055z00,288471013,Malignant neoplasm of palate NOS,363390005,482579018
+Primary malignancy oro-pharyngeal,B056.00,722541000006111,Malignant neoplasm of retromolar area,363391009,482581016
+Primary malignancy oro-pharyngeal,B05y.00,288473011,Malignant neoplasm of other specified mouth parts,363505006,482796019
+Primary malignancy oro-pharyngeal,B05z.00,288474017,Malignant neoplasm of mouth NOS,363505006,482796019
+Primary malignancy oro-pharyngeal,B06..00,723571000006111,Malignant tumour of oropharynx,363392002,482583018
+Primary malignancy oro-pharyngeal,B060.00,721351000006110,Malignant tumour of tonsil,363393007,482586014
+Primary malignancy oro-pharyngeal,B060000,1228530015,Malignant neoplasm of faucial tonsil,363393007,1228530015
+Primary malignancy oro-pharyngeal,B060100,1228529013,Malignant neoplasm of palatine tonsil,363393007,1228529013
+Primary malignancy oro-pharyngeal,B060200,723321000006117,Overlapping malignant neoplasm of tonsil,110013004,174720013
+Primary malignancy oro-pharyngeal,B060z00,288478019,Malignant neoplasm tonsil NOS,363393007,482585013
+Primary malignancy oro-pharyngeal,B061.00,721361000006112,Malignant neoplasm of tonsillar fossa,363394001,482587017
+Primary malignancy oro-pharyngeal,B062.00,288486019,Malignant neoplasm of tonsillar pillar,187675005,288486019
+Primary malignancy oro-pharyngeal,B062000,288485015,Malignant neoplasm of faucial pillar,187675005,288485015
+Primary malignancy oro-pharyngeal,B062100,725811000006116,Malignant tumour of anterior pillar of fauces,254459004,378845014
+Primary malignancy oro-pharyngeal,B062200,2475984012,Malignant neoplasm of palatoglossal arch,254459004,2475984012
+Primary malignancy oro-pharyngeal,B062300,723391000006115,Malignant neoplasm of palatopharyngeal arch,187675005,288479010
+Primary malignancy oro-pharyngeal,B062z00,288505015,Malignant tumour of tonsillar fossa,363394001,482587017
+Primary malignancy oro-pharyngeal,B063.00,721481000006111,Malignant neoplasm of vallecula,363395000,482589019
+Primary malignancy oro-pharyngeal,B064.00,288506019,Malignant neoplasm of anterior epiglottis,187681002,288506019
+Primary malignancy oro-pharyngeal,B064000,288507011,"Malignant neoplasm of epiglottis, free border",187682009,288507011
+Primary malignancy oro-pharyngeal,B064100,288508018,Malignant neoplasm of glossoepiglottic fold,187683004,288508018
+Primary malignancy oro-pharyngeal,B064z00,288509014,Malignant neoplasm of anterior epiglottis NOS,187681002,288506019
+Primary malignancy oro-pharyngeal,B065.00,288510016,Malignant neoplasm of junctional region of epiglottis,187685006,288510016
+Primary malignancy oro-pharyngeal,B066.00,155332018,Malignant neoplasm of lateral wall of oropharynx,448868009,2901613017
+Primary malignancy oro-pharyngeal,B067.00,288515014,Malignant neoplasm of posterior wall of oropharynx,187688008,288515014
+Primary malignancy oro-pharyngeal,B06y.00,288516010,"Malignant neoplasm of oropharynx, other specified sites",363392002,482583018
+Primary malignancy oro-pharyngeal,B06yz00,288517018,Malignant neoplasm of other specified site of oropharynx NOS,363392002,482583018
+Primary malignancy oro-pharyngeal,B06z.00,288518011,Malignant neoplasm of oropharynx NOS,363392002,482583018
+Primary malignancy oro-pharyngeal,B07..00,288522018,Malignant neoplasm of nasopharynx,187692001,288522018
+Primary malignancy oro-pharyngeal,B070.00,1228532011,Malignant neoplasm of roof of nasopharynx,363397008,1228532011
+Primary malignancy oro-pharyngeal,B071.00,288529010,Malignant neoplasm of posterior wall of nasopharynx,187693006,288529010
+Primary malignancy oro-pharyngeal,B071000,288533015,Malignant neoplasm of adenoid,187694000,288533015
+Primary malignancy oro-pharyngeal,B071100,288532013,Malignant neoplasm of pharyngeal tonsil,187694000,288532013
+Primary malignancy oro-pharyngeal,B071z00,288541015,Malignant tumour of posterior wall of nasopharynx,187693006,288528019
+Primary malignancy oro-pharyngeal,B072.00,724841000006116,Malignant neoplasm of lateral wall of nasopharynx,363398003,482595018
+Primary malignancy oro-pharyngeal,B072000,288546013,Malignant neoplasm of pharyngeal recess,187697007,288546013
+Primary malignancy oro-pharyngeal,B072z00,288550018,Malignant tumour of lateral wall of nasopharynx,363398003,482595018
+Primary malignancy oro-pharyngeal,B073.00,288552014,Malignant neoplasm of anterior wall of nasopharynx,187700006,288552014
+Primary malignancy oro-pharyngeal,B073100,288556012,Malignant neoplasm of nasopharyngeal soft palate surface,187702003,288556012
+Primary malignancy oro-pharyngeal,B073200,720491000006119,Malignant tumour of posterior margin of nasal septum and choanae,254484001,378896011
+Primary malignancy oro-pharyngeal,B073z00,288561014,Malignant tumour of anterior wall of nasopharynx,187700006,288553016
+Primary malignancy oro-pharyngeal,B074.00,1219467016,"Malignant neoplasm, overlapping lesion of nasopharynx",109367000,1219467016
+Primary malignancy oro-pharyngeal,B07y.00,288563012,Malignant neoplasm of other specified site of nasopharynx,187692001,288519015
+Primary malignancy oro-pharyngeal,B07z.00,288564018,Malignant tumour of nasopharynx,187692001,288526015
+Primary malignancy oro-pharyngeal,B08..00,725241000006116,Malignant neoplasm of hypopharynx,363399006,482598016
+Primary malignancy oro-pharyngeal,B080.00,723031000006117,Malignant neoplasm of postcricoid region,363400004,482599012
+Primary malignancy oro-pharyngeal,B081.00,722421000006115,Malignant neoplasm of pyriform sinus,363401000,482602019
+Primary malignancy oro-pharyngeal,B082.00,727761000006116,"Malignant neoplasm of aryepiglottic fold, hypopharyngeal aspect",187708004,288566016
+Primary malignancy oro-pharyngeal,B083.00,288568015,Malignant neoplasm of posterior pharynx,187709007,288568015
+Primary malignancy oro-pharyngeal,B08y.00,288570012,Malignant neoplasm of other specified hypopharyngeal site,363399006,482597014
+Primary malignancy oro-pharyngeal,B08z.00,288571011,Malignant tumour of hypopharynx,363399006,482598016
+Primary malignancy oro-pharyngeal,B0z..00,729591000006114,"Malig neop other/ill-defined sites lip, oral cavity, pharynx",271323007,406052010
+Primary malignancy oro-pharyngeal,B0z0.00,288573014,Malignant neoplasm of pharynx unspecified,363507003,482800013
+Primary malignancy oro-pharyngeal,B0z1.00,288578017,Malignant neoplasm of Waldeyer's ring,187716008,288578017
+Primary malignancy oro-pharyngeal,B0z2.00,724781000006117,Malignant neoplasm of laryngopharynx,363399006,1228533018
+Primary malignancy oro-pharyngeal,B0zy.00,723801000006115,"Malignant neoplasm of other sites lip, oral cavity, pharynx",271323007,406052010
+Primary malignancy oro-pharyngeal,B0zz.00,288582015,"Malignant neoplasm of lip, oral cavity and pharynx NOS",271323007,406052010
+Primary malignancy oro-pharyngeal,BB5y000,1228188010,Basal cell adenocarcinoma,34603009,57743014
+Primary malignancy oro-pharyngeal,Byu0.00,396301000006110,"[X]Malignant neoplasm of lip, oral cavity and pharynx",271323007,406052010
+Primary malignancy oro-pharyngeal,ZV10019,1227556013,[V]Personal history of malignant neoplasm of tongue,415080007,2531431010
+Primary malignancy oro-pharyngeal,ZV10y16,345101000006114,[V]Personal history of malignant neoplasm of tongue,429409005,2694432015

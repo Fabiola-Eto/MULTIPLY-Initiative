@@ -1,0 +1,216 @@
+Condition,ReadCode,MedCodeId,Term,SnomedCTConceptId,SnomedCTDescriptionId
+Peripheral arterial disease,14F7.00,2232441000000113,H/O: arterial lower limb ulcer,863401000000101,2232441000000113
+Peripheral arterial disease,14NB.00,451376017,H/O: Peripheral vascular disease procedure,308071004,451376017
+Peripheral arterial disease,2G63.00,450665015,Ischaemic toe,307408003,450665015
+Peripheral arterial disease,662U.00,216185010,Peripheral vascular disease monitoring,134379001,216185010
+Peripheral arterial disease,7A10000,639341000006115,Emergency bypass of aorta by anastomosis of axillary artery to femoral artery,175276005,271413015
+Peripheral arterial disease,7A10100,530051000006117,Bypass aorta by anastomosis axillary to femoral artery NEC,233379008,349697018
+Peripheral arterial disease,7A10200,501011000006118,Axillofemoral bypass graft,388997005,1493587018
+Peripheral arterial disease,7A10300,271416011,Axillo-unifemoral PTFE bypass graft,175279003,271416011
+Peripheral arterial disease,7A12.00,271431019,Other bypass of bifurcation of aorta,233373009,349683014
+Peripheral arterial disease,7A12000,639371000006111,Emergency bypass of bifurcation of aorta by anastomosis of aorta to femoral artery,175290008,271432014
+Peripheral arterial disease,7A12100,530061000006115,Bypass of bifurcation of aorta by anastomosis of aorta to femoral artery,448171003,2900875010
+Peripheral arterial disease,7A12111,224121000000118,Aortic bifurcation bypass graft,233373009,349688017
+Peripheral arterial disease,7A12112,410961010,Dacron aortofemoral Y graft,275038008,410961010
+Peripheral arterial disease,7A12300,530071000006110,Bypass of bifurcation of aorta by anastomosis of aorta to iliac artery,265495003,394305010
+Peripheral arterial disease,7A12311,488631000006116,Aorto biiliac graft,265495003,394305010
+Peripheral arterial disease,7A12312,410962015,Dacron aortoiliac Y graft,275039000,410962015
+Peripheral arterial disease,7A12y00,271444012,Other specified other bypass of bifurcation of aorta,233373009,349683014
+Peripheral arterial disease,7A12z00,271445013,Other bypass of bifurcation of aorta NOS,233373009,349683014
+Peripheral arterial disease,7A19200,271509013,Open embolectomy of bifurcation of aorta,175348000,271509013
+Peripheral arterial disease,7A41.00,394323019,Iliac artery bypass,405477007,2157280014
+Peripheral arterial disease,7A41000,639471000006115,Emerg bypass iliac art by iliac/femoral art anastomosis NEC,51018000,85012019
+Peripheral arterial disease,7A41100,530201000006110,Bypass of iliac artery by anastomosis of iliac artery to femoral artery,51018000,1780391000000113
+Peripheral arterial disease,7A41200,639491000006119,Emerg bypass iliac artery by femoral/femoral art anast NEC,233380006,349698011
+Peripheral arterial disease,7A41211,640081000006119,Emergency femoro-femoral prosthetic cross over graft,275040003,410963013
+Peripheral arterial disease,7A41300,530191000006112,Bypass iliac artery by femoral/femoral art anastomosis NEC,233380006,349698011
+Peripheral arterial disease,7A41311,668731000006114,Femoro-femoral prosthetic cross over graft,175685004,272001019
+Peripheral arterial disease,7A41400,639391000006112,Emerg bypass comm iliac art by aorta/com iliac art anast NEC,116360008,183983017
+Peripheral arterial disease,7A41600,639521000006117,Emerg bypass leg artery by aorta/com fem art anastomosis NEC,116360008,183983017
+Peripheral arterial disease,7A41900,530091000006111,Bypass common iliac artery by aorta/com iliac art anast NEC,116360008,183983017
+Peripheral arterial disease,7A41B00,530221000006117,Bypass leg artery by aorta/com femoral art anastomosis NEC,116360008,183983017
+Peripheral arterial disease,7A41C00,530231000006119,Bypass leg artery by aorta/deep femoral art anastomosis NEC,405482000,2157285016
+Peripheral arterial disease,7A41F00,785611000006113,Ilio-femoral prosthetic cross over graft,175594003,271866014
+Peripheral arterial disease,7A41y00,271867017,Other specified other bypass of iliac artery,116360008,183983017
+Peripheral arterial disease,7A41z00,271868010,Other bypass of iliac artery NOS,116360008,183983017
+Peripheral arterial disease,7A42.00,394326010,Reconstruction of iliac artery,265516003,394326010
+Peripheral arterial disease,7A42.11,349652010,Reconstruction of common iliac artery,233345007,349652010
+Peripheral arterial disease,7A42000,641691000006118,Endarterectomy of iliac artery and patch repair of iliac artery,265517007,394327018
+Peripheral arterial disease,7A42011,410964019,Endarterectomy and patch repair of common iliac artery,275041004,410964019
+Peripheral arterial disease,7A42012,394328011,Iliac endarterectomy and patch,265517007,394328011
+Peripheral arterial disease,7A42100,394329015,Endarterectomy of iliac artery,307800001,451173017
+Peripheral arterial disease,7A42111,410965018,Endarterectomy of common iliac artery,233304004,349571019
+Peripheral arterial disease,7A42y00,271880019,Other specified reconstruction of iliac artery,265516003,394326010
+Peripheral arterial disease,7A42z00,271881015,Reconstruction of iliac artery NOS,265516003,394326010
+Peripheral arterial disease,7A43.00,394330013,Other open operations on iliac artery,265511008,394321017
+Peripheral arterial disease,7A43.11,410966017,Other open operations on common iliac artery,265511008,394321017
+Peripheral arterial disease,7A43000,394331012,Repair of iliac artery,450703003,2916807015
+Peripheral arterial disease,7A43011,410967014,Repair of common iliac artery,450704009,2916913013
+Peripheral arterial disease,7A43100,394332017,Open embolectomy of iliac artery,265521000,394332017
+Peripheral arterial disease,7A43111,411214011,Open embolectomy of common iliac artery,275254000,411214011
+Peripheral arterial disease,7A43300,455900010,Open insertion of iliac artery stent,312226000,455900010
+Peripheral arterial disease,7A44000,271900018,Percutaneous transluminal angioplasty of iliac artery,175612005,271900018
+Peripheral arterial disease,7A44100,271901019,Percutaneous transluminal embolectomy of iliac artery,175613000,271901019
+Peripheral arterial disease,7A44300,271905011,Insertion of iliac artery stent,175615007,271905011
+Peripheral arterial disease,7A44400,455901014,Percutaneous transluminal insertion of iliac artery stent,312227009,455901014
+Peripheral arterial disease,7A44y00,271907015,Other specified transluminal operation on iliac artery,265522007,394333010
+Peripheral arterial disease,7A44z00,271908013,Transluminal operation on iliac artery NOS,265522007,394333010
+Peripheral arterial disease,7A47.00,394338018,Other emergency bypass of femoral artery or popliteal artery,405516005,2157318011
+Peripheral arterial disease,7A47.11,32181000006113,Other emerg bypass femoral or popliteal art by anastomosis,116360008,183983017
+Peripheral arterial disease,7A47.13,349670013,Other emergency bypass of deep femoral artery,116360008,183983017
+Peripheral arterial disease,7A47.14,349669012,Other emergency bypass of popliteal artery,116360008,183983017
+Peripheral arterial disease,7A47.15,349668016,Other emergency bypass of superficial femoral artery,116360008,183983017
+Peripheral arterial disease,7A47.16,349667014,Other emergency bypass of femoral artery,405463009,2157266019
+Peripheral arterial disease,7A47000,639431000006118,Emerg bypass femoral art by fem/pop art anast c prosth NEC,112828007,184069011
+Peripheral arterial disease,7A47100,639581000006118,Emerg bypass popliteal art by pop/pop art anast c prosth NEC,233384002,349710011
+Peripheral arterial disease,7A47200,639421000006116,Emerg bypass femoral art by fem/pop a anast c vein graft NEC,112828007,184069011
+Peripheral arterial disease,7A47300,639551000006114,Emerg bypass pop art by pop/pop art anast c vein graft NEC,233384002,349710011
+Peripheral arterial disease,7A47400,639451000006113,Emerg bypass femoral art by fem/tib art anast c prosth NEC,233383008,349706013
+Peripheral arterial disease,7A47600,639441000006111,Emerg bypass femoral art by fem/tib a anast c vein graft NEC,233383008,349706013
+Peripheral arterial disease,7A47700,639561000006111,Emerg bypass pop art by pop/tib art anast c vein graft NEC,233384002,349710011
+Peripheral arterial disease,7A47B00,639541000006112,Emerg bypass pop art by pop/peron art anast c vein graft NEC,233384002,349710011
+Peripheral arterial disease,7A47C00,639461000006110,Emerg bypass femoral artery by fem/fem art anastomosis NEC,116360008,183983017
+Peripheral arterial disease,7A47D00,639601000006111,Emerg bypass popliteal artery by pop/fem art anastomosis NEC,116360008,183983017
+Peripheral arterial disease,7A47y00,31361000006114,Other emergency bypass of femoral or popliteal artery OS,405516005,2157318011
+Peripheral arterial disease,7A47z00,31351000006112,Other emergency bypass of femoral or popliteal artery NOS,116360008,183983017
+Peripheral arterial disease,7A48.00,394339014,Arterial bypass of lower limb artery,405469008,2157272019
+Peripheral arterial disease,7A48.11,349666017,Other bypass of femoral or popliteal artery by anastomosis,405516005,2157318011
+Peripheral arterial disease,7A48.12,349665018,Other bypass of common femoral artery,405463009,2157266019
+Peripheral arterial disease,7A48.14,349663013,Femoral artery bypass,405463009,2157266019
+Peripheral arterial disease,7A48.15,349662015,Popliteal-distal bypass,233384002,349710011
+Peripheral arterial disease,7A48.16,349661010,Other bypass of superficial femoral artery,405463009,2157266019
+Peripheral arterial disease,7A48000,530131000006113,Bypass of femoral artery by anastomosis of femoral artery to popliteal artery using prosthesis,312688006,1780381000000111
+Peripheral arterial disease,7A48100,530811000006112,Bypass popliteal artery by pop/pop a anast c prosthesis NEC,233384002,349710011
+Peripheral arterial disease,7A48200,530141000006115,Bypass of femoral artery by anastomosis of femoral artery to popliteal artery using vein graft,50807007,1780371000000114
+Peripheral arterial disease,7A48300,530821000006116,Bypass popliteal artery by pop/pop a anast c vein graft NEC,233384002,349710011
+Peripheral arterial disease,7A48400,530151000006118,Bypass femoral artery by fem/tib art anast c prosthesis NEC,233383008,349706013
+Peripheral arterial disease,7A48500,530831000006118,Bypass popliteal artery by pop/tib a anast c prosthesis NEC,233384002,349710011
+Peripheral arterial disease,7A48600,530161000006116,Bypass of femoral artery by anastomosis of femoral artery to tibial artery using vein graft,448529008,2899845012
+Peripheral arterial disease,7A48700,530841000006111,Bypass popliteal artery by pop/tib a anast c vein graft NEC,233384002,349710011
+Peripheral arterial disease,7A48800,530111000006119,Bypass femoral artery by fem/peron a anast c prosthesis NEC,233383008,349706013
+Peripheral arterial disease,7A48A00,530121000006110,Bypass of femoral artery by anastomosis of femoral artery to peroneal artery using vein graft,448323005,2901040016
+Peripheral arterial disease,7A48B00,530781000006110,Bypass popliteal art by pop/peron art anast c vein graft NEC,233384002,349710011
+Peripheral arterial disease,7A48C00,530171000006111,Femoral-femoral artery vascular bypass,44662004,74498014
+Peripheral arterial disease,7A48D00,530791000006113,Bypass popliteal artery by pop/fem artery anastomosis NEC,112828007,184069011
+Peripheral arterial disease,7A48E00,668741000006116,Femorofemoral prosthetic crossover graft,175685004,272001019
+Peripheral arterial disease,7A48y00,36061000006118,Other bypass of femoral artery or popliteal artery OS,405469008,2157272019
+Peripheral arterial disease,7A48z00,272003016,Other bypass of femoral artery or popliteal artery NOS,405469008,2157272019
+Peripheral arterial disease,7A49.00,394340011,Reconstruction of femoral artery or popliteal artery,265528006,394340011
+Peripheral arterial disease,7A49.11,410976019,Reconstruction of common femoral artery,275053000,410976019
+Peripheral arterial disease,7A49.13,410977011,Reconstruction of femoral artery,275054006,410977011
+Peripheral arterial disease,7A49.14,410974016,Reconstruction of popliteal artery,275051003,410974016
+Peripheral arterial disease,7A49.15,411078012,Reconstruction of superficial femoral artery,275145005,411078012
+Peripheral arterial disease,7A49000,641681000006116,Endarterectomy of femoral artery and patch repair of femoral artery,175689005,272011014
+Peripheral arterial disease,7A49100,641701000006118,Endarterectomy of popliteal artery and patch repair of popliteal artery,175690001,272012019
+Peripheral arterial disease,7A49200,272013012,Femoral endarterectomy,16589005,28064017
+Peripheral arterial disease,7A49300,272014018,Endarterectomy of popliteal artery,233310004,349583017
+Peripheral arterial disease,7A49400,201771000006117,Profundoplasty of femoral artery and patch repair of deep femoral artery,175693004,272015017
+Peripheral arterial disease,7A49500,201761000006112,Profundoplasty of popliteal artery and patch repair of popliteal artery,175694005,272016016
+Peripheral arterial disease,7A49600,272017013,Profundoplasty of femoral artery NEC,405376002,2157187018
+Peripheral arterial disease,7A49700,272018015,Profundoplasty of popliteal artery NEC,405376002,2157187018
+Peripheral arterial disease,7A49800,272019011,Reconstruction of femoral artery with vein graft,175697003,272019011
+Peripheral arterial disease,7A49900,272020017,Reconstruction of popliteal artery with vein graft,175698008,272020017
+Peripheral arterial disease,7A49y00,187331000006112,Reconstruction of femoral or popliteal artery OS,265528006,394340011
+Peripheral arterial disease,7A49z00,272022013,Reconstruction of femoral or popliteal artery NOS,265528006,394340011
+Peripheral arterial disease,7A4A.00,394341010,Other open operations on femoral artery or popliteal artery,118805000,183489012
+Peripheral arterial disease,7A4A.11,410981011,Other open operations on common femoral artery,118805000,183489012
+Peripheral arterial disease,7A4A.13,410979014,Other open operations on popliteal artery,118805000,183489012
+Peripheral arterial disease,7A4A.14,410978018,Other open operations on superficial femoral artery,118805000,183489012
+Peripheral arterial disease,7A4A000,272029016,Repair of femoral artery NEC,265528006,394340011
+Peripheral arterial disease,7A4A100,272030014,Repair of popliteal artery,405375003,2157186010
+Peripheral arterial disease,7A4A200,272031013,Open embolectomy of femoral artery,175704008,272031013
+Peripheral arterial disease,7A4A211,272032018,Open thrombectomy of femoral artery,175704008,272032018
+Peripheral arterial disease,7A4A212,272033011,Open femoral embolectomy,175704008,272033011
+Peripheral arterial disease,7A4A300,272035016,Open embolectomy popliteal artery,175705009,272035016
+Peripheral arterial disease,7A4A311,272034017,Open thrombectomy of popliteal artery,175705009,272034017
+Peripheral arterial disease,7A4A700,272041011,Repair of femoral artery with temporary silastic shunt,175710008,272041011
+Peripheral arterial disease,7A4A800,272042016,Repair of popliteal artery with temporary silastic shunt,175711007,272042016
+Peripheral arterial disease,7A4Ay00,24571000006113,Other open operation on femoral or popliteal artery OS,118805000,183489012
+Peripheral arterial disease,7A4B000,272052017,Percutaneous transluminal angioplasty of femoral artery,175715003,272052017
+Peripheral arterial disease,7A4B100,239491000006117,Percutaneous angioplasty of popliteal artery,175716002,272053010
+Peripheral arterial disease,7A4B200,272055015,Percutaneous transluminal embolectomy of femoral artery,175717006,272055015
+Peripheral arterial disease,7A4B300,272056019,Percutaneous transluminal embolectomy of popliteal artery,175718001,272056019
+Peripheral arterial disease,7A4B400,272059014,Percutaneous transluminal embolisation of femoral artery,175719009,272059014
+Peripheral arterial disease,7A4B500,272061017,Percutaneous transluminal embolisation of popliteal artery,175720003,272061017
+Peripheral arterial disease,7A4B800,238621000006112,Percutaneous transluminal thrombolysis of femoral graft using streptokinase,309449009,452880015
+Peripheral arterial disease,7A4B900,1548341000006118,Percutaneous transluminal insertion of stent into femoral artery,426093007,2675938013
+Peripheral arterial disease,7A50.00,272074011,Revision of reconstruction of artery,175729002,272074011
+Peripheral arterial disease,7A50000,272075012,Revision of reconstruction involving aorta,175730007,272075012
+Peripheral arterial disease,7A50100,272076013,Revision of reconstruction involving iliac artery,175731006,272076013
+Peripheral arterial disease,7A50200,272077016,Revision of reconstruction involving femoral artery,175732004,272077016
+Peripheral arterial disease,7A50300,272078014,Revision of reconstruction of popliteal artery,175733009,272078014
+Peripheral arterial disease,A3A0F00,286570019,Gas gangrene-foot,186423003,286570019
+Peripheral arterial disease,C107.00,616441000006113,Peripheral vascular disorder due to diabetes mellitus,421895002,3688501014
+Peripheral arterial disease,C107.11,616351000006115,Diabetes mellitus with gangrene,422275004,2616612015
+Peripheral arterial disease,C107.12,616831000006118,Diabetes with gangrene,422275004,2616612015
+Peripheral arterial disease,C107000,616591000006117,"Diabetes mellitus, juvenile +peripheral circulatory disorder",421365002,2618205010
+Peripheral arterial disease,C107100,616581000006115,"Diabetes mellitus, adult, + peripheral circulatory disorder",422166005,2618204014
+Peripheral arterial disease,C107200,616561000006113,"Diabetes mellitus, adult with gangrene",421631007,2618206011
+Peripheral arterial disease,C107300,787101000006114,IDDM with peripheral circulatory disorder,421895002,2618203015
+Peripheral arterial disease,C107400,674961000006118,Peripheral circulatory disorder associated with type 2 diabetes mellitus,422166005,2623039019
+Peripheral arterial disease,C107z00,292523015,Diabetes mellitus NOS with peripheral circulatory disorder,421895002,2618203015
+Peripheral arterial disease,C108600,771351000006111,Insulin dependent diabetes mellitus with gangrene,422275004,2616612015
+Peripheral arterial disease,C108612,84331000006112,Type 1 diabetes mellitus with gangrene,420825003,2618207019
+Peripheral arterial disease,C108G00,772141000006118,Insulin dependent diab mell with peripheral angiopathy,421895002,2618203015
+Peripheral arterial disease,C109500,281211000006117,Gangrene associated with type 2 diabetes mellitus,421631007,2967779019
+Peripheral arterial disease,C109511,84881000006119,Type II diabetes mellitus with gangrene,421631007,2618206011
+Peripheral arterial disease,C109512,84511000006112,Type 2 diabetes mellitus with gangrene,421631007,2618206011
+Peripheral arterial disease,C109F00,280561000006111,Non-insulin-dependent diabetes mellitus with peripheral angiopathy,314902007,459307013
+Peripheral arterial disease,C109F11,84961000006116,Type II diabetes mellitus with peripheral angiopathy,314902007,459306016
+Peripheral arterial disease,C109F12,84591000006119,Type 2 diabetes mellitus with peripheral angiopathy,314902007,459308015
+Peripheral arterial disease,C10E600,292541011,Type 1 diabetes mellitus with gangrene,420825003,2618207019
+Peripheral arterial disease,C10E611,292543014,Type I diabetes mellitus with gangrene,420825003,2618207019
+Peripheral arterial disease,C10E612,913621000006112,Insulin dependent diabetes mellitus with gangrene,422275004,2616612015
+Peripheral arterial disease,C10EG00,913931000006116,Type 1 diabetes mellitus with peripheral angiopathy,31211000119101,3315042015
+Peripheral arterial disease,C10F500,292583018,Type 2 diabetes mellitus with gangrene,421631007,2618206011
+Peripheral arterial disease,C10F511,292582011,Type II diabetes mellitus with gangrene,421631007,2618206011
+Peripheral arterial disease,C10FF00,459308015,Type 2 diabetes mellitus with peripheral angiopathy,314902007,459308015
+Peripheral arterial disease,G700.11,223991000000116,Aortoiliac disease,233956002,350529018
+Peripheral arterial disease,G702.00,300433019,Extremity artery atheroma,195254008,300433019
+Peripheral arterial disease,G702z00,300434013,Extremity artery atheroma NOS,195254008,300433019
+Peripheral arterial disease,G73..00,395791015,Other peripheral vascular disease,400047006,1779317016
+Peripheral arterial disease,G73..11,350535018,Peripheral ischaemic vascular disease,233958001,350535018
+Peripheral arterial disease,G73..12,742481000006118,Ischaemic leg,233961000,350546015
+Peripheral arterial disease,G73..13,350533013,Peripheral ischaemia,233958001,350533013
+Peripheral arterial disease,G731.00,87208017,Thromboangiitis obliterans,52403007,87208017
+Peripheral arterial disease,G731000,87210015,Buerger's disease,52403007,87210015
+Peripheral arterial disease,G731z00,300503012,Thromboangiitis obliterans NOS,52403007,87208017
+Peripheral arterial disease,G732.00,300504018,Peripheral gangrene,195301007,300504018
+Peripheral arterial disease,G732000,300505017,Gangrene of toe,195302000,300505017
+Peripheral arterial disease,G732100,300506016,Gangrene of foot,195303005,300506016
+Peripheral arterial disease,G733.00,443199013,Ischaemic foot,301755001,443199013
+Peripheral arterial disease,G73y.00,300510018,Other specified peripheral vascular disease,400047006,1779317016
+Peripheral arterial disease,G73y000,302011,Diabetic peripheral angiopathy,127014009,302011
+Peripheral arterial disease,G73y100,300511019,Peripheral angiopathic disease EC NOS,400047006,1779317016
+Peripheral arterial disease,G73y200,41903014,Acrocyanosis,25003006,41903014
+Peripheral arterial disease,G73y400,454901000006118,Acroparaesthesia - Schultze's type,57105000,1216757012
+Peripheral arterial disease,G73y500,454891000006117,Acroparaesthesia - Nothnagel's type,77788005,503681010
+Peripheral arterial disease,G73y511,503681010,Nothnagel's vasomotor acroparaesthesia,77788005,503681010
+Peripheral arterial disease,G73y600,300512014,Acroparaesthesia - unspecified,79256006,131501015
+Peripheral arterial disease,G73y700,124092018,Erythrocyanosis,74725000,124092018
+Peripheral arterial disease,G73y800,61977017,Erythromelalgia,37151006,61977017
+Peripheral arterial disease,G73yz00,300514010,Other specified peripheral vascular disease NOS,400047006,1779317016
+Peripheral arterial disease,G73z.00,235911000006116,Peripheral vascular disease,400047006,1779317016
+Peripheral arterial disease,G73z000,105536013,Intermittent claudication,63491006,105536013
+Peripheral arterial disease,G73z011,411512011,Claudication,63491006,3559347018
+Peripheral arterial disease,G73zz00,300515011,Peripheral vascular disease NOS,400047006,1779317016
+Peripheral arterial disease,G740.12,350564010,Aortoiliac obstruction,233972005,350564010
+Peripheral arterial disease,G742400,300539018,Embolism and thrombosis of the femoral artery,195323006,300539018
+Peripheral arterial disease,G742500,300540016,Embolism and thrombosis of the popliteal artery,195324000,300540016
+Peripheral arterial disease,G742600,300541017,Embolism and thrombosis of the anterior tibial artery,195325004,300541017
+Peripheral arterial disease,G742700,300542012,Embolism and thrombosis of the dorsalis pedis artery,195326003,300542012
+Peripheral arterial disease,G742900,300547018,Embolism and thrombosis of a leg artery NOS,195318006,300534011
+Peripheral arterial disease,G742z00,300550015,Peripheral arterial embolism and thrombosis NOS,195318006,300534011
+Peripheral arterial disease,G74y000,300553018,Embolism and/or thrombosis of the common iliac artery,195335005,300553018
+Peripheral arterial disease,G74y100,300554012,Embolism and/or thrombosis of the internal iliac artery,734298005,3503835018
+Peripheral arterial disease,G74y200,300555013,Embolism and/or thrombosis of the external iliac artery,734299002,3503839012
+Peripheral arterial disease,G74y300,300556014,Embolism and thrombosis of the iliac artery unspecified,266262004,395794011
+Peripheral arterial disease,Gyu7400,300963017,[X]Other specified peripheral vascular diseases,400047006,1779317016
+Peripheral arterial disease,M271.12,357895013,Ischaemic leg ulcer,238793001,357895013
+Peripheral arterial disease,M271000,309177010,Ischaemic ulcer diabetic foot,201250006,309177010
+Peripheral arterial disease,M271300,357894012,Arterial leg ulcer,238793001,357894012
+Peripheral arterial disease,M271400,357893018,Mixed venous and arterial leg ulcer,238792006,357893018
+Peripheral arterial disease,R054200,317347010,[D]Gangrene of toe in diabetic,195302000,300505017
+Peripheral arterial disease,R054300,317348017,[D]Widespread diabetic foot gangrene,195303005,300506016
+Peripheral arterial disease,R055000,317351012,Shock,27942005,46780018
+Peripheral arterial disease,R055011,1222508013,[D]Peripheral circulatory failure,27942005,46780018

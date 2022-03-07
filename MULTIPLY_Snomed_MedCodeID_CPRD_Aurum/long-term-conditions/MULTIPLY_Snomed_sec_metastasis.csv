@@ -1,0 +1,140 @@
+Condition,ReadCode,MedCodeId,Term,SnomedCTConceptId,SnomedCTDescriptionId
+Secondary malignancy and metastasis,1D18.00,459732012,Pain from metastases,315241008,459732012
+Secondary malignancy and metastasis,5136.00,261676014,X-ray metastasis control,168516003,261676014
+Secondary malignancy and metastasis,B153.00,151331000006114,Secondary malignant neoplasm of liver,94381002,156291015
+Secondary malignancy and metastasis,B56..00,406333010,Secondary malignant neoplasm of lymph node,94392001,156323012
+Secondary malignancy and metastasis,B56..11,732441000006113,Lymph node metastases,94392001,156323012
+Secondary malignancy and metastasis,B560.00,157761000006113,Metastasis to head and neck lymph node,303194003,445248014
+Secondary malignancy and metastasis,B560000,157821000006114,Secondary malignant neoplasm of parotid lymph nodes,94475009,156541015
+Secondary malignancy and metastasis,B560100,157961000006111,Secondary malignant neoplasm of mastoid lymph nodes,1090151000000104,2731161000000118
+Secondary malignancy and metastasis,B560200,157921000006117,Secondary malignant neoplasm of superficial cervical lymph nodes,1090141000000102,2731141000000119
+Secondary malignancy and metastasis,B560300,157971000006116,Secondary malignant neoplasm of occipital lymph nodes,94449005,156479010
+Secondary malignancy and metastasis,B560400,157591000006113,Secondary malignant neoplasm of parotid lymph nodes,94475009,156541015
+Secondary malignancy and metastasis,B560500,157891000006111,Secondary malignant neoplasm of submandibular lymph nodes,94609005,156851012
+Secondary malignancy and metastasis,B560600,157801000006116,Secondary malignant neoplasm of lymph nodes of face,94393006,156327013
+Secondary malignancy and metastasis,B560700,157901000006110,Secondary malignant neoplasm of submental lymph nodes,94611001,156855015
+Secondary malignancy and metastasis,B560800,157491000006114,Secondary malignant neoplasm of anterior cervical lymph nodes,1090131000000106,2731121000000114
+Secondary malignancy and metastasis,B560900,157571000006112,Secondary malignant neoplasm of deep cervical lymph nodes,1090121000000109,2731101000000117
+Secondary malignancy and metastasis,B560z00,152611000006116,Secondary unspec malig neop lymph nodes head/face/neck NOS,303194003,445248014
+Secondary malignancy and metastasis,B561.00,157751000006111,Secondary and unspec malig neop intrathoracic lymph nodes,94351005,156213018
+Secondary malignancy and metastasis,B561000,157691000006112,Secondary malignant neoplasm of internal mammary lymph nodes,1090091000000108,2731041000000115
+Secondary malignancy and metastasis,B561100,157671000006111,Secondary malignant neoplasm of intercostal lymph nodes,94344001,156191012
+Secondary malignancy and metastasis,B561200,157601000006117,Secondary malignant neoplasm of diaphragmatic lymph nodes,1090161000000101,2731181000000110
+Secondary malignancy and metastasis,B561300,157481000006111,Secondary malignant neoplasm of mediastinal lymph nodes,94408005,156373010
+Secondary malignancy and metastasis,B561400,157861000006115,Secondary and unspec malig neop post mediastinal lymph nodes,94408005,156373010
+Secondary malignancy and metastasis,B561500,157831000006112,Secondary and unspec malig neop paratracheal lymph nodes,1090081000000106,2731021000000110
+Secondary malignancy and metastasis,B561600,157911000006113,Secondary malignant neoplasm of tracheobronchial lymph nodes,94642006,156931014
+Secondary malignancy and metastasis,B561700,157641000006115,Secondary malignant neoplasm of tracheobronchial lymph nodes,94642006,156931014
+Secondary malignancy and metastasis,B561800,157531000006114,Secondary and unspec malig neop bronchopulmonary lymph nodes,94227002,155885019
+Secondary malignancy and metastasis,B561900,157871000006110,Secondary malignant neoplasm of bronchopulmonary lymph nodes,94227002,155885019
+Secondary malignancy and metastasis,B561z00,157741000006114,Secondary and unspec malig neop intrathoracic LN NOS,94351005,156213018
+Secondary malignancy and metastasis,B562.00,157711000006110,Secondary and unspec malig neop intra-abdominal lymph nodes,94347008,156199014
+Secondary malignancy and metastasis,B562000,157551000006119,Secondary malignant neoplasm of coeliac lymph nodes,1090191000000107,2731241000000112
+Secondary malignancy and metastasis,B562100,157941000006112,Secondary malignant neoplasm of mesenteric lymph nodes,94410007,156379014
+Secondary malignancy and metastasis,B562200,157631000006113,Secondary malignant neoplasm of mesenteric lymph nodes,94410007,156379014
+Secondary malignancy and metastasis,B562300,157561000006117,Secondary malignant neoplasm of iliac lymph nodes,94336001,156171017
+Secondary malignancy and metastasis,B562400,157611000006119,Secondary and unspec malig neop external iliac lymph nodes,94336001,156171017
+Secondary malignancy and metastasis,B562z00,157701000006112,Secondary and unspec malig neop intra-abdominal LN NOS,94347008,156199014
+Secondary malignancy and metastasis,B563.00,157501000006118,Secondary malignant neoplasm of lymph nodes of upper limb,94398002,156345013
+Secondary malignancy and metastasis,B563000,157521000006111,Secondary malignant neoplasm of axillary lymph nodes,94181007,155759012
+Secondary malignancy and metastasis,B563100,157951000006114,Secondary malignant neoplasm of supratrochlear lymph nodes,1090101000000100,2731061000000119
+Secondary malignancy and metastasis,B563200,157651000006118,Secondary malignant neoplasm of infraclavicular lymph nodes,94338000,156175014
+Secondary malignancy and metastasis,B563300,157841000006119,Secondary malignant neoplasm of pectoral axillary lymph nodes,94477001,156545012
+Secondary malignancy and metastasis,B563z00,157511000006115,Secondary and unspec malig neop axilla and upper limb LN NOS,94398002,156345013
+Secondary malignancy and metastasis,B564.00,157661000006116,Secondary and unspec malig neop inguinal and lower limb LN,94395004,156335011
+Secondary malignancy and metastasis,B564000,157931000006119,Secondary malignant neoplasm of superficial inguinal lymph nodes,94612008,156857011
+Secondary malignancy and metastasis,B564100,157581000006110,Secondary malignant neoplasm of deep inguinal lymph nodes,1090201000000109,2731261000000113
+Secondary malignancy and metastasis,B564z00,157811000006118,Secondary and unspec malig neop of inguinal and leg LN NOS,94395004,156335011
+Secondary malignancy and metastasis,B565.00,157731000006116,Secondary and unspec malig neop intrapelvic lymph nodes,94350006,156209013
+Secondary malignancy and metastasis,B565000,157681000006114,Secondary malignant neoplasm of internal iliac lymph nodes,1090221000000100,2731301000000115
+Secondary malignancy and metastasis,B565100,157621000006110,Secondary malignant neoplasm of inferior epigastric lymph nodes,1090181000000105,2731221000000117
+Secondary malignancy and metastasis,B565200,157541000006116,Secondary malignant neoplasm of circumflex iliac lymph nodes,1090211000000106,2731281000000116
+Secondary malignancy and metastasis,B565300,157881000006113,Secondary malignant neoplasm of sacral lymph nodes,1090171000000108,2731201000000114
+Secondary malignancy and metastasis,B565z00,157721000006119,Secondary and unspec malig neop intrapelvic LN NOS,94350006,156209013
+Secondary malignancy and metastasis,B56y.00,157771000006118,Secondary and unspec malig neop lymph nodes multiple sites,303201005,445249018
+Secondary malignancy and metastasis,B56z.00,157781000006115,Secondary and unspec malig neop lymph nodes NOS,94392001,156323012
+Secondary malignancy and metastasis,B57..00,151111000006118,Secondary malignant neoplasm of respiratory and digestive systems,269473008,403703010
+Secondary malignancy and metastasis,B57..11,704711000006119,Metastases of respiratory and/or digestive systems,269473008,403703010
+Secondary malignancy and metastasis,B57..12,380193010,Secondary carcinoma of respiratory and/or digestive systems,269473008,403703010
+Secondary malignancy and metastasis,B570.00,156319016,Secondary malignant neoplasm of lung,94391008,156319016
+Secondary malignancy and metastasis,B571.00,156375015,Secondary malignant neoplasm of mediastinum,94409002,156375015
+Secondary malignancy and metastasis,B572.00,156585018,Secondary malignant neoplasm of pleura,94493005,156585018
+Secondary malignancy and metastasis,B573.00,289515018,Secondary malignant neoplasm of respiratory tract,94515004,156631011
+Secondary malignancy and metastasis,B574.00,151621000006119,Secondary malignant neoplasm of small intestine,94580002,156781013
+Secondary malignancy and metastasis,B574000,156007019,Secondary malignant neoplasm of duodenum,94275007,156007019
+Secondary malignancy and metastasis,B574100,156231017,Secondary malignant neoplasm of jejunum,94357009,156231017
+Secondary malignancy and metastasis,B574200,156169017,Secondary malignant neoplasm of ileum,94335002,156169017
+Secondary malignancy and metastasis,B574z00,151151000006117,Secondary malig neop of small intestine or duodenum NOS,94580002,156781013
+Secondary malignancy and metastasis,B575.00,151321000006111,Secondary malignant neoplasm of large intestine,94365007,156249017
+Secondary malignancy and metastasis,B575000,155967013,Secondary malignant neoplasm of colon,94260004,155967013
+Secondary malignancy and metastasis,B575100,156627017,Secondary malignant neoplasm of rectum,94513006,156627017
+Secondary malignancy and metastasis,B575z00,151101000006116,Secondary malig neop of large intestine or rectum NOS,94365007,156249017
+Secondary malignancy and metastasis,B576.00,151131000006112,Secondary malignant neoplasm of retroperitoneum and peritoneum,188445006,289527015
+Secondary malignancy and metastasis,B576000,1215809015,Secondary malignant neoplasm of retroperitoneum,94628003,1215809015
+Secondary malignancy and metastasis,B576100,1235875018,Secondary malignant neoplasm of peritoneum,94627008,1235875018
+Secondary malignancy and metastasis,B576200,353772013,Malignant ascites,236005001,353772013
+Secondary malignancy and metastasis,B576z00,151141000006119,Secondary malig neop of retroperitoneum or peritoneum NOS,188445006,289527015
+Secondary malignancy and metastasis,B577.00,156291015,Secondary malignant neoplasm of liver,94381002,156291015
+Secondary malignancy and metastasis,B577.11,739801000006115,Metastasis to liver,94381002,511275014
+Secondary malignancy and metastasis,B577000,1815011000006116,Secondary malignant neoplasm of liver and intrahepatic bile duct,813671000000107,2121471000000111
+Secondary malignancy and metastasis,B57y.00,289530010,Secondary malignant neoplasm of gastrointestinal tract,94313005,156111011
+Secondary malignancy and metastasis,B57z.00,151121000006114,Secondary malig neop of respiratory or digestive system NOS,269473008,403703010
+Secondary malignancy and metastasis,B58..00,151421000006117,Secondary malignant neoplastic disease,128462008,206784011
+Secondary malignancy and metastasis,B58..11,380206018,Secondary carcinoma of other specified sites,128462008,206783017
+Secondary malignancy and metastasis,B580.00,156237018,Secondary malignant neoplasm of kidney,94360002,156237018
+Secondary malignancy and metastasis,B581.00,289535017,Secondary malignant neoplasm of other urinary organs,94663008,156981017
+Secondary malignancy and metastasis,B581000,156973018,Secondary malignant neoplasm of ureter,94659001,156973018
+Secondary malignancy and metastasis,B581100,155773015,Secondary malignant neoplasm of bladder,94186002,155773015
+Secondary malignancy and metastasis,B581200,156977017,Secondary malignant neoplasm of urethra,94661005,156977017
+Secondary malignancy and metastasis,B581z00,289536016,Secondary malignant neoplasm of other urinary organ NOS,94663008,156981017
+Secondary malignancy and metastasis,B582.00,156777013,Secondary malignant neoplasm of skin,94579000,156777013
+Secondary malignancy and metastasis,B582000,289538015,Secondary malignant neoplasm of skin of head,188454009,289538015
+Secondary malignancy and metastasis,B582100,156719018,Secondary malignant neoplasm of skin of face,94554003,156719018
+Secondary malignancy and metastasis,B582200,156747019,Secondary malignant neoplasm of skin of neck,94566009,156747019
+Secondary malignancy and metastasis,B582300,156765015,Secondary malignant neoplasm of skin of trunk,94575006,156765015
+Secondary malignancy and metastasis,B582400,289542017,Secondary malignant neoplasm of skin of shoulder and arm,188458007,289542017
+Secondary malignancy and metastasis,B582500,289543010,Secondary malignant neoplasm of skin of hip and leg,188459004,289543010
+Secondary malignancy and metastasis,B582600,156699010,Secondary malignant neoplasm of skin of breast,94544002,156699010
+Secondary malignancy and metastasis,B582z00,289545015,Secondary malignant neoplasm of skin NOS,94579000,156777013
+Secondary malignancy and metastasis,B583.00,289546019,Secondary malignant neoplasm of brain and spinal cord,188462001,289546019
+Secondary malignancy and metastasis,B583000,155879014,Secondary malignant neoplasm of brain,94225005,155879014
+Secondary malignancy and metastasis,B583100,156825010,Metastasis to spinal cord,94600009,1235865016
+Secondary malignancy and metastasis,B583200,543041000006111,Cerebral metastases,94248000,1235820013
+Secondary malignancy and metastasis,B583z00,289549014,Secondary malignant neoplasm of brain or spinal cord NOS,188462001,289546019
+Secondary malignancy and metastasis,B584.00,289550014,Secondary malignant neoplasm of other part of nervous system,94442001,156461011
+Secondary malignancy and metastasis,B585.00,1235814012,Secondary malignant neoplasm of bone and bone marrow,94222008,1235814012
+Secondary malignancy and metastasis,B585000,216227011,Pathological fracture due to metastatic bone disease,134421000,216227011
+Secondary malignancy and metastasis,B586.00,156493015,Secondary malignant neoplasm of ovary,94455000,156493015
+Secondary malignancy and metastasis,B587.00,155711012,Secondary malignant neoplasm of adrenal gland,94161006,155711012
+Secondary malignancy and metastasis,B58y.00,406266011,Secondary malignant neoplasm of other specified sites,128462008,206784011
+Secondary malignancy and metastasis,B58y000,511250010,Secondary malignant neoplasm of breast,94297009,511250010
+Secondary malignancy and metastasis,B58y100,156989015,Secondary malignant neoplasm of uterus,94665001,156989015
+Secondary malignancy and metastasis,B58y200,289553011,Secondary malignant neoplasm of cervix uteri,188469005,289553011
+Secondary malignancy and metastasis,B58y211,289554017,Secondary cancer of the cervix,188469005,289554017
+Secondary malignancy and metastasis,B58y300,156997010,Secondary malignant neoplasm of vagina,94668004,156997010
+Secondary malignancy and metastasis,B58y400,157025019,Secondary malignant neoplasm of vulva,94681006,157025019
+Secondary malignancy and metastasis,B58y411,511385013,Secondary cancer of the vulva,94681006,511385013
+Secondary malignancy and metastasis,B58y500,156607018,Secondary malignant neoplasm of prostate,94503003,156607018
+Secondary malignancy and metastasis,B58y600,156883018,Secondary malignant neoplasm of testis,94623007,156883018
+Secondary malignancy and metastasis,B58y700,156557015,Secondary malignant neoplasm of penis,94481001,156557015
+Secondary malignancy and metastasis,B58y800,289557012,Secondary malignant neoplasm of epididymis and vas deferens,188471005,2668736017
+Secondary malignancy and metastasis,B58y900,156919012,Secondary malignant neoplasm of tongue,94638008,156919012
+Secondary malignancy and metastasis,B58yz00,151401000006110,Secondary malignant neoplasm of other specified site NOS,128462008,206784011
+Secondary malignancy and metastasis,B58z.00,289559010,Secondary malignant neoplasm of other specified site NOS,128462008,206784011
+Secondary malignancy and metastasis,B590.00,403704016,Disseminated malignancy,405843009,2163172012
+Secondary malignancy and metastasis,B590.11,450901012,Carcinomatosis,307593001,450901012
+Secondary malignancy and metastasis,B594.00,409845013,Secondary malignant neoplasm of unknown site,274088005,409845013
+Secondary malignancy and metastasis,BB03.00,313711000006115,"Neoplasm, metastatic",14799000,25140016
+Secondary malignancy and metastasis,BB03.11,316301000006114,[M]Secondary neoplasm,14799000,25140016
+Secondary malignancy and metastasis,BB13.00,291327015,"Carcinoma, metastatic",79282002,131542017
+Secondary malignancy and metastasis,BB13.11,316291000006113,[M]Secondary carcinoma,79282002,131544016
+Secondary malignancy and metastasis,BB2B.00,291348018,"Squamous cell carcinoma, metastatic",64204000,106728012
+Secondary malignancy and metastasis,BB53.00,291374012,"Adenocarcinoma, metastatic",4590003,7897016
+Secondary malignancy and metastasis,BB85100,312621000006112,Metastatic signet ring cell carcinoma,4305004,8252015
+Secondary malignancy and metastasis,BBy2.00,314021000006111,"[M]No microscopic confirmation of tumour, clinically metastatic",128462008,206783017
+Secondary malignancy and metastasis,ByuC200,359291000006111,Secondary malignant neoplasm of lymph nodes of multiple sites,94396003,156339017
+Secondary malignancy and metastasis,ByuC300,425771000006113,Secondary malignant neoplasm of respiratory tract,94515004,156631011
+Secondary malignancy and metastasis,ByuC400,425781000006111,Secondary malignant neoplasm of gastrointestinal tract,94313005,156111011
+Secondary malignancy and metastasis,ByuC500,359271000006110,Secondary malignant neoplasm of urinary system,94663008,156981017
+Secondary malignancy and metastasis,ByuC600,359281000006113,Secondary malignant neoplasm of nervous system,94442001,156461011
+Secondary malignancy and metastasis,ByuC700,292165015,[X]Secondary malignant neoplasm of other specified sites,128462008,206784011

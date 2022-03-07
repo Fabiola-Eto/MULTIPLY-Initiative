@@ -1,0 +1,61 @@
+Condition,ReadCode,MedCodeId,Term,SnomedCTConceptId,SnomedCTDescriptionId
+Post-traumatic stress and stress-related disorders,13H4.12,717221000006112,Marital stress,65118005,500032013
+Post-traumatic stress and stress-related disorders,13HT100,121671000006117,Stress at home,105485001,290505019
+Post-traumatic stress and stress-related disorders,13HT111,627541000006119,Domestic stress,105485001,290504015
+Post-traumatic stress and stress-related disorders,13JM.13,412065014,Stress at work,276074009,412065014
+Post-traumatic stress and stress-related disorders,1B1T.00,338135018,Feeling stressed,224974006,338135018
+Post-traumatic stress and stress-related disorders,1S1..00,51671015,Flashbacks,30871003,51671015
+Post-traumatic stress and stress-related disorders,1S10.00,2549694013,Short duration flashbacks,417143004,2549694013
+Post-traumatic stress and stress-related disorders,1S11.00,2548473014,Long duration flashbacks,416073003,2548473014
+Post-traumatic stress and stress-related disorders,1S12.00,2549240012,Episodic flashbacks,416714005,2549240012
+Post-traumatic stress and stress-related disorders,67J..00,460118013,Stress counselling,315600006,460118013
+Post-traumatic stress and stress-related disorders,9ON8.00,121841000006114,Stress monitoring telephone invite,185784001,285788018
+Post-traumatic stress and stress-related disorders,E28..00,500650019,Acute stress reaction,67195008,500648010
+Post-traumatic stress and stress-related disorders,E280.00,295474019,Acute panic state due to acute stress reaction,192037000,295474019
+Post-traumatic stress and stress-related disorders,E281.00,295475018,Acute fugue state due to acute stress reaction,192038005,295475018
+Post-traumatic stress and stress-related disorders,E282.00,295476017,Acute stupor state due to acute stress reaction,192039002,295476017
+Post-traumatic stress and stress-related disorders,E283.00,295477014,Other acute stress reactions,67195008,500648010
+Post-traumatic stress and stress-related disorders,E283000,295478016,Acute situational disturbance,192041001,295478016
+Post-traumatic stress and stress-related disorders,E283100,459711000006119,Acute post-trauma stress state,192042008,295482019
+Post-traumatic stress and stress-related disorders,E283z00,295483012,Other acute stress reaction NOS,67195008,500648010
+Post-traumatic stress and stress-related disorders,E284.00,121871000006118,Stress reaction causing mixed disturbance of emotion and conduct,192044009,295484018
+Post-traumatic stress and stress-related disorders,E28z.00,401810015,Acute stress reaction NOS,67195008,500648010
+Post-traumatic stress and stress-related disorders,E29..00,478089014,Adjustment reaction,17226007,478089014
+Post-traumatic stress and stress-related disorders,E290000,123751014,Grief reaction,74506000,123751014
+Post-traumatic stress and stress-related disorders,E292.00,461821000006111,"Adjustment reaction, predominant disturbance other emotions",17226007,29122012
+Post-traumatic stress and stress-related disorders,E292500,295503012,Culture shock,192054008,295503012
+Post-traumatic stress and stress-related disorders,E292y00,497343017,Adjustment reaction with mixed disturbance of emotion,55668003,497343017
+Post-traumatic stress and stress-related disorders,E292z00,295504018,Adjustment reaction with disturbance of other emotion NOS,17226007,29122012
+Post-traumatic stress and stress-related disorders,E293.00,506324018,Adjustment reaction with predominant disturbance of conduct,84984002,506324018
+Post-traumatic stress and stress-related disorders,E293000,295505017,Adjustment reaction with aggression,192056005,295505017
+Post-traumatic stress and stress-related disorders,E293100,295507013,Adjustment reaction with antisocial behaviour,192057001,295507013
+Post-traumatic stress and stress-related disorders,E293200,295508015,Adjustment reaction with destructiveness,192058006,295508015
+Post-traumatic stress and stress-related disorders,E293z00,461801000006118,Adjustment reaction with predominant disturbance conduct NOS,84984002,140904012
+Post-traumatic stress and stress-related disorders,E294.00,461761000006110,Adjustment reaction with mixed disturbance of emotion and conduct,66381006,500397012
+Post-traumatic stress and stress-related disorders,E29y.00,295510018,Other adjustment reactions,17226007,478089014
+Post-traumatic stress and stress-related disorders,E29y000,295511019,Concentration camp syndrome,192061007,295511019
+Post-traumatic stress and stress-related disorders,E29y100,295512014,Other post-traumatic stress disorder,47505003,494851018
+Post-traumatic stress and stress-related disorders,E29y200,295513016,Adjustment reaction with physical symptoms,192063005,295513016
+Post-traumatic stress and stress-related disorders,E29y300,295514010,Elective mutism due to an adjustment reaction,192064004,295514010
+Post-traumatic stress and stress-related disorders,E29y400,461701000006114,Adjustment reaction due to hospitalisation,192065003,295515011
+Post-traumatic stress and stress-related disorders,E29y500,295517015,Other adjustment reaction with withdrawal,17226007,29122012
+Post-traumatic stress and stress-related disorders,E29yz00,295518013,Other adjustment reactions NOS,17226007,29122012
+Post-traumatic stress and stress-related disorders,E29z.00,295519017,Adjustment reaction NOS,17226007,478089014
+Post-traumatic stress and stress-related disorders,Eu43.00,424471000006119,Stress and adjustment reaction,271952001,406972015
+Post-traumatic stress and stress-related disorders,Eu43000,362441000006118,[X]Acute stress reaction,67195008,500648010
+Post-traumatic stress and stress-related disorders,Eu43012,362401000006115,[X]Acute reaction to stress,67195008,500648010
+Post-traumatic stress and stress-related disorders,Eu43100,423021000006114,Post-traumatic stress disorder,47505003,494851018
+Post-traumatic stress and stress-related disorders,Eu43200,362691000006113,Adjustment disorder,17226007,29122012
+Post-traumatic stress and stress-related disorders,Eu43300,1755921000006119,Acute posttraumatic stress disorder following military combat,446175003,2882462013
+Post-traumatic stress and stress-related disorders,Eu43400,1755931000006116,Chronic post-traumatic stress disorder following military combat,699241002,2983141010
+Post-traumatic stress and stress-related disorders,Eu43500,1755941000006114,Delayed posttraumatic stress disorder following military combat,446180007,2882461018
+Post-traumatic stress and stress-related disorders,Eu43y00,296271019,[X]Other reactions to severe stress,271952001,406972015
+Post-traumatic stress and stress-related disorders,Eu43z00,296272014,"[X]Reaction to severe stress, unspecified",271952001,406972015
+Post-traumatic stress and stress-related disorders,R00zW00,302741000006114,Emotional stress,442347009,2821158018
+Post-traumatic stress and stress-related disorders,Ry15.00,317980011,Undue concern and preoccupation with stressful events,274653009,410489019
+Post-traumatic stress and stress-related disorders,Ryu5800,318033015,"[X]State of emotional shock and stress, unspecified",442347009,2821158018
+Post-traumatic stress and stress-related disorders,Z771.00,960991000006112,Stress management,960991000006108,960991000006112
+Post-traumatic stress and stress-related disorders,Z771.00,1807161000006114,Stress management,226060000,339617016
+Post-traumatic stress and stress-related disorders,Z7CG400,51671015,Flashbacks,30871003,51671015
+Post-traumatic stress and stress-related disorders,ZS7C700,4997841000006117,Post-traumatic mutism,229675006,344281018
+Post-traumatic stress and stress-related disorders,ZV4B200,460748018,[V]Stressful work schedule,276074009,412065014

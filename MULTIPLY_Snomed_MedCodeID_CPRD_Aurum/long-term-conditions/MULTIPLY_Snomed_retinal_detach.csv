@@ -1,0 +1,32 @@
+Condition,ReadCode,MedCodeId,Term,SnomedCTConceptId,SnomedCTDescriptionId
+Retinal detachments and breaks,1481.00,251652015,H/O: retinal detachment,161487006,251652015
+Retinal detachments and breaks,7271.00,503951016,Photocoagulation of retina for detachment,78917001,503951016
+Retinal detachments and breaks,7271000,1221344016,Xenon photocoagulation of retina for detachment,10006000,1221344016
+Retinal detachments and breaks,7271100,1235016010,Laser photocoagulation of retina for detachment,85231002,1235016010
+Retinal detachments and breaks,7271y00,267137016,Other specified photocoagulation of retina for detachment,78917001,130949012
+Retinal detachments and breaks,7271z00,267138014,Photocoagulation of retina for detachment NOS,78917001,130949012
+Retinal detachments and breaks,F41..00,399429017,Retinal detachments and defects,29555009,49448017
+Retinal detachments and breaks,F41..11,170051000006112,Retinal tear,95690009,158516016
+Retinal detachments and breaks,F410.00,169841000006116,Retinal detachment with break,19620000,479741018
+Retinal detachments and breaks,F410000,297722017,Unspecified retinal detachment with retinal defect,19620000,33037011
+Retinal detachments and breaks,F410100,297723010,New partial retinal detachment with single defect,193319001,297723010
+Retinal detachments and breaks,F410200,297724016,New partial retinal detachment with multiple defects,193320007,297724016
+Retinal detachments and breaks,F410300,297725015,New partial retinal detachment with giant tear defect,232004004,347636019
+Retinal detachments and breaks,F410400,297726019,New partial retinal detachment with retinal dialysis,193322004,297726019
+Retinal detachments and breaks,F410500,297727011,Recent total retinal detachment,193323009,297727011
+Retinal detachments and breaks,F410600,297728018,Recent subtotal retinal detachment,193324003,297728018
+Retinal detachments and breaks,F410700,297729014,Old partial retinal detachment,193325002,297729014
+Retinal detachments and breaks,F410800,297730016,Old total retinal detachment,193326001,297730016
+Retinal detachments and breaks,F410900,297731017,Old subtotal retinal detachment,193327005,297731017
+Retinal detachments and breaks,F410z00,297732012,Retinal detachment with defect NOS,19620000,33037011
+Retinal detachments and breaks,F413.00,297742014,Retinal defects without detachment,193338005,297742014
+Retinal detachments and breaks,F413100,297744010,Round hole of retina without detachment,51226000,85346010
+Retinal detachments and breaks,F413200,297745011,Horseshoe retinal tear without detachment,193341001,297745011
+Retinal detachments and breaks,F413300,297746012,Multiple retinal defects without detachment,193342008,297746012
+Retinal detachments and breaks,F413400,66667015,Retinal break,40024006,66667015
+Retinal detachments and breaks,F413z00,297749017,Retinal defects without detachment NOS,193338005,297742014
+Retinal detachments and breaks,F41y.00,297750017,Other forms of retinal detachment,42059000,70200018
+Retinal detachments and breaks,F41y000,1228202019,Traction retinal detachment,34711008,1228202019
+Retinal detachments and breaks,F41yz00,297751018,Other retinal detachments NOS,42059000,70200018
+Retinal detachments and breaks,F41z.00,297752013,Retinal detachment,42059000,70200018
+Retinal detachments and breaks,FyuF400,299475014,[X]Other retinal detachments,42059000,70200018
