@@ -1,0 +1,140 @@
+Condition,ReadCode,MedCodeId,Term,SnomedCTConceptId,SnomedCTDescriptionId
+Peripheral venous and lymphatic disease,14A9.00,251690014,H/O: varicose veins,161509009,251690014
+Peripheral venous and lymphatic disease,2482.00,254104013,O/E - varicose veins,163052007,254104013
+Peripheral venous and lymphatic disease,38Q3.00,2288411000000115,LYMQOL (Lymphoedema Quality of Life Tool) - leg,705031001,2463941000000119
+Peripheral venous and lymphatic disease,7A66111,571551000006119,Cockett subfascial ligation of perforating varicose vein,302357009,443996017
+Peripheral venous and lymphatic disease,7A66112,124301000006115,Subfascial ligation of varicose veins,302357009,443996017
+Peripheral venous and lymphatic disease,7A67.00,1221208011,Ligation of varicose vein of leg,15617002,1221208011
+Peripheral venous and lymphatic disease,7A67200,272209014,Ligation of recurrent varicose vein of leg,175819004,272209014
+Peripheral venous and lymphatic disease,7A67300,394358017,Ligation of perforating varicose vein of leg,265543008,394358017
+Peripheral venous and lymphatic disease,7A67311,743601000006118,Linton ligation of perforating varicose vein of leg,265543008,394358017
+Peripheral venous and lymphatic disease,7A67y00,272214013,Other specified ligation of varicose vein of leg,15617002,26472016
+Peripheral venous and lymphatic disease,7A67z00,272215014,Ligation of varicose vein of leg NOS,15617002,1221208011
+Peripheral venous and lymphatic disease,7A68.00,272216010,Injection of varicose vein of lower limb,449705007,2913093017
+Peripheral venous and lymphatic disease,7A68000,272219015,Injection sclerotherapy of varicose vein of lower limb,449708009,2912878012
+Peripheral venous and lymphatic disease,7A68200,1548941000006119,Ultrasound guided foam sclerotherapy for varicose vein of leg,425542000,2675890017
+Peripheral venous and lymphatic disease,7A68300,360251000000111,Transilluminated powered phlebectomy for varicose vein of leg,429623000,2900604011
+Peripheral venous and lymphatic disease,7A68400,1548961000006115,Injection of sclerosing substance into varicose vein leg NEC,449708009,2912878012
+Peripheral venous and lymphatic disease,7A68y00,272221013,Other specified injection into varicose vein of leg,80227005,133111010
+Peripheral venous and lymphatic disease,7A68z00,272222018,Injection into varicose vein of leg NOS,449705007,2913093017
+Peripheral venous and lymphatic disease,7A69.00,272223011,Other operations on varicose vein of leg,274023003,409763017
+Peripheral venous and lymphatic disease,7A69200,394359013,Stripping of lower limb varicose veins,9365003,16429014
+Peripheral venous and lymphatic disease,7A69211,715361000006118,Mayo stripping of varicose vein,265855005,394888016
+Peripheral venous and lymphatic disease,7A69300,394360015,Avulsion of varicose vein of leg,265545001,394360015
+Peripheral venous and lymphatic disease,7A69311,501531000006116,Babcock subcutaneous enucleation of varicose veins,265545001,394360015
+Peripheral venous and lymphatic disease,7A69400,272234014,Local excision of varicose vein of leg,175834005,272234014
+Peripheral venous and lymphatic disease,7A69500,272235010,Incision of varicose vein of lower limb,449700002,2912769012
+Peripheral venous and lymphatic disease,7A69600,299441000000114,Endovascular radiofrequency ablation of varicose vein of leg,448606008,2398391000000112
+Peripheral venous and lymphatic disease,7A69700,311501000000116,Endovascular laser ablation of varicose vein of leg,713158000,1088601000000114
+Peripheral venous and lymphatic disease,7A69y00,272236011,Other specified other operation on varicose vein of leg,274023003,409763017
+Peripheral venous and lymphatic disease,7A69z00,272237019,Varicose vein operation,274023003,409763017
+Peripheral venous and lymphatic disease,7A6L.00,358141000000110,Combined operations on varicose vein of leg,274023003,409763017
+Peripheral venous and lymphatic disease,7A6Ly00,384681000000110,Other specified combined operations on varicose vein of leg,274023003,409763017
+Peripheral venous and lymphatic disease,7A6Lz00,377221000000113,Combined operations on varicose vein of leg NOS,274023003,409763017
+Peripheral venous and lymphatic disease,7A6M.00,357921000000117,Transluminal operations on varicose vein of leg,274023003,409763017
+Peripheral venous and lymphatic disease,7A6M100,1549411000006118,Endovenous radiofrequency obliteration of varicose vein of lower limb,448606008,2901369015
+Peripheral venous and lymphatic disease,7A6M300,1587911000006113,Percutaneous transluminal laser ablation of varicose vein of lower limb,609166008,2958283018
+Peripheral venous and lymphatic disease,7A6My00,377241000000118,Other specified transluminal operations on varicose vein leg,274023003,409763017
+Peripheral venous and lymphatic disease,7A6Mz00,384721000000115,Transluminal operations on varicose vein of leg NOS,274023003,409763017
+Peripheral venous and lymphatic disease,7H66.11,653661000006113,Excision of lymphoedema tissue,47700006,79485019
+Peripheral venous and lymphatic disease,7H66100,393534013,Excision of lymphoedematous tissue of arm,265007006,393534013
+Peripheral venous and lymphatic disease,7H66111,545461000006117,Charles correction for lymphoedema of arm,265007006,393534013
+Peripheral venous and lymphatic disease,7H66211,106311000006119,Thompson correction for lymphoedema,47700006,79485019
+Peripheral venous and lymphatic disease,7H66300,393538011,Excision of lymphoedematous tissue of leg,302469000,444156010
+Peripheral venous and lymphatic disease,7H66311,802141000006112,Gibson excision of lymphoedematous tissue of leg,234306006,351011012
+Peripheral venous and lymphatic disease,7H66312,827101000006119,Homan correction for lymphoedema,234307002,351014016
+Peripheral venous and lymphatic disease,7H66313,98491000006112,Tough excision of lymphoedematous tissue of leg,234306006,351011012
+Peripheral venous and lymphatic disease,7H66400,276024011,Excision of lymphoedematous tissue of scrotum,178340006,276024011
+Peripheral venous and lymphatic disease,7H66500,276026013,Excision of lymphoedematous tissue NEC,47700006,79485019
+Peripheral venous and lymphatic disease,7H66y11,351008011,Kondoleon correction for lymphoedema,234305005,351008011
+Peripheral venous and lymphatic disease,8BAh.00,1660201000000118,Lymphoedema care,445710004,2882783018
+Peripheral venous and lymphatic disease,8HkZ.00,1156251000000114,Referral to community lymphoedema service,518161000000100,1156251000000114
+Peripheral venous and lymphatic disease,8HT7.00,284064017,Referral to varicose vein clinic,183858000,284064017
+Peripheral venous and lymphatic disease,8L2..00,284209016,Varicose vein operation planned,183981004,284209016
+Peripheral venous and lymphatic disease,9N0V.00,285169016,Seen in varicose vein clinic,185189000,285169016
+Peripheral venous and lymphatic disease,9NoB.00,2326351000000113,Seen in lymphoedema clinic,904571000000103,2326351000000113
+Peripheral venous and lymphatic disease,9NoB000,2297741000000112,Seen in community lymphoedema clinic,892341000000102,2297741000000112
+Peripheral venous and lymphatic disease,D418.00,294540013,Calcified lymph nodes,191394000,294540013
+Peripheral venous and lymphatic disease,G8...00,300648017,"Vein, lymphatic and circulatory diseases NOS",49601007,2474885016
+Peripheral venous and lymphatic disease,G83..00,65611000006114,VV - Varicose veins of leg,72866009,1788137014
+Peripheral venous and lymphatic disease,G830.00,300721013,Varicose veins of the leg with ulcer,195445008,300721013
+Peripheral venous and lymphatic disease,G831.00,411635018,Varicose veins of the leg with eczema,275700003,411635018
+Peripheral venous and lymphatic disease,G831.11,489882019,Varicose eczema,366362000,489882019
+Peripheral venous and lymphatic disease,G832.00,300723011,Varicose veins of the leg with ulcer and eczema,195447000,300723011
+Peripheral venous and lymphatic disease,G833.00,300724017,Varicose veins of the leg with rupture,195448005,300724017
+Peripheral venous and lymphatic disease,G834.00,300727012,Varicose veins of lower extremity,72866009,121026013
+Peripheral venous and lymphatic disease,G834000,350683012,Varicose veins of leg with long saphenous vein distribution,234055007,350683012
+Peripheral venous and lymphatic disease,G834100,350684018,Varicose veins of leg with short saphenous vein distribution,234056008,350684018
+Peripheral venous and lymphatic disease,G835.00,300728019,Infected varicose ulcer,195450002,300728019
+Peripheral venous and lymphatic disease,G836.00,457115011,Varicose vein of leg with phlebitis,313254003,457115011
+Peripheral venous and lymphatic disease,G837.00,914591000006113,Venous ulcer of leg,402863005,1781953019
+Peripheral venous and lymphatic disease,G83z.00,300730017,Varicose veins of the leg NOS,72866009,1788137014
+Peripheral venous and lymphatic disease,G85..00,395804011,Venous varices,128060009,194654014
+Peripheral venous and lymphatic disease,G85y.00,300795013,Other specified varicose veins,128060009,194654014
+Peripheral venous and lymphatic disease,G85z.00,300796014,Varicose veins,128060009,474288018
+Peripheral venous and lymphatic disease,G86..00,585611000006112,Non-infective lymphatic disorders,266273006,395807016
+Peripheral venous and lymphatic disease,G86..11,350732017,Lymphoedema,234097001,350732017
+Peripheral venous and lymphatic disease,G860.00,211481000006113,Post-mastectomy secondary lymphoedema,33129002,485419019
+Peripheral venous and lymphatic disease,G860.11,638611000006118,Elephantiasis-postmastectomy,33129002,485419019
+Peripheral venous and lymphatic disease,G861.00,395808014,Other lymphoedema,234097001,350732017
+Peripheral venous and lymphatic disease,G861.11,638601000006116,Elephantiasis-non filarial-NOS,234097001,350731012
+Peripheral venous and lymphatic disease,G861000,208981000006111,Primary (congenital) lymphoedema,399889006,1783720014
+Peripheral venous and lymphatic disease,G861100,453401000006112,Secondary lymphoedema,28590005,483926012
+Peripheral venous and lymphatic disease,G861200,737311000006118,Infantile lymphoedema (praecox),234097001,350731012
+Peripheral venous and lymphatic disease,G861211,1783735010,Lymphoedema praecox,234097001,350731012
+Peripheral venous and lymphatic disease,G861300,1783746013,Lymphoedema tarda,400158000,1783746013
+Peripheral venous and lymphatic disease,G861500,2614621000000117,Lymphoedema following breast cancer,1035841000000108,2614621000000117
+Peripheral venous and lymphatic disease,G861z00,300819013,Other lymphoedema NOS,234097001,350732017
+Peripheral venous and lymphatic disease,G862.00,3466013,Lymphangitis,1415005,3466013
+Peripheral venous and lymphatic disease,G862000,131044013,Chronic lymphangitis,78973009,131044013
+Peripheral venous and lymphatic disease,G862100,26453016,Subacute lymphangitis,15607007,26453016
+Peripheral venous and lymphatic disease,G86y.00,25371000006119,Other noninfective lymphatic disorder,266273006,395807016
+Peripheral venous and lymphatic disease,G86y000,557161000006118,Chylocele - nonfilarial,195495009,300822010
+Peripheral venous and lymphatic disease,G86y100,88149012,Chylous ascites,52985009,88149012
+Peripheral venous and lymphatic disease,G86y200,300826013,Chylous cyst,195497001,300826013
+Peripheral venous and lymphatic disease,G86y300,300827016,Lymph node fistula,195498006,300827016
+Peripheral venous and lymphatic disease,G86y400,300828014,Lymph vessel fistula,195499003,300828014
+Peripheral venous and lymphatic disease,G86y500,300829018,Lymph node infarction,195500007,300829018
+Peripheral venous and lymphatic disease,G86y600,300830011,Lymph vessel infarction,195501006,300830011
+Peripheral venous and lymphatic disease,G86y800,300832015,Lymph vessel rupture,195503009,300832015
+Peripheral venous and lymphatic disease,G86y900,350757010,Lymphocele,234109007,350757010
+Peripheral venous and lymphatic disease,G86yA00,1174271000000111,Infected lymphocele,444997000,2872761014
+Peripheral venous and lymphatic disease,G86yz00,25381000006116,Other noninfective lymphatic disorders NOS,266273006,395807016
+Peripheral venous and lymphatic disease,G86z.00,585601000006114,Noninfective lymphatic disorder NOS,266273006,395807016
+Peripheral venous and lymphatic disease,G8X..00,624241000006112,Disorder of vein,90507008,150007011
+Peripheral venous and lymphatic disease,G8y1.00,34363019,Postphlebitic syndrome,20427003,34363019
+Peripheral venous and lymphatic disease,G8y2000,136990016,Stricture of vein,82582006,136990016
+Peripheral venous and lymphatic disease,G8y2z00,300846015,Compression of vein,14540002,24706017
+Peripheral venous and lymphatic disease,G8y3.00,2645973019,Chronic peripheral venous hypertension,423674003,2645973019
+Peripheral venous and lymphatic disease,G8y4.00,2168741000000113,Postthrombotic syndrome,20427003,3321079013
+Peripheral venous and lymphatic disease,G8yy000,300848019,Chronic venous insufficiency,20696009,34827013
+Peripheral venous and lymphatic disease,G8yy100,300849010,Venous collateral circulation NOS,49601007,82610017
+Peripheral venous and lymphatic disease,G8yy200,300850010,Phlebosclerosis,195518005,300850010
+Peripheral venous and lymphatic disease,G8yy300,2619508015,Venofibrosis,195518005,2619508015
+Peripheral venous and lymphatic disease,Gyu8.00,377441000006114,"[X]Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified",414171000000108,967351000000113
+Peripheral venous and lymphatic disease,Gyu8600,300982014,[X]Varicose veins of other specified sites,128060009,194654014
+Peripheral venous and lymphatic disease,Gyu8700,300983016,[X]Other specified disorders of veins,90507008,150007011
+Peripheral venous and lymphatic disease,Gyu8900,405111000006112,[X]Oth spcfd noninfectv disordrs/lymphatc vessls+lymph nodes,362971004,482103013
+Peripheral venous and lymphatic disease,Gyu8A00,300986012,"[X]Disorder of vein, unspecified",90507008,150007011
+Peripheral venous and lymphatic disease,J57yK00,303366015,Intestinal lymphangiectasis,197260007,303366015
+Peripheral venous and lymphatic disease,L41..11,355723016,Varicose veins - obstetric,237345008,355723016
+Peripheral venous and lymphatic disease,L410600,451448014,Varicose veins of legs in the puerperium,308134004,451448014
+Peripheral venous and lymphatic disease,L411.11,355726012,Perineal obstetric varicose veins,237347000,355726012
+Peripheral venous and lymphatic disease,L411.12,355724010,Vulval obstetric varicose veins,237346009,355724010
+Peripheral venous and lymphatic disease,M1y2.00,486191017,Gravitational eczema,35498005,486191017
+Peripheral venous and lymphatic disease,M211500,308882012,Lymphoedematous keratoderma,201057001,308882012
+Peripheral venous and lymphatic disease,P8y4.00,75278011,Congenital pulmonary lymphangiectasis,45142002,75278011
+Peripheral venous and lymphatic disease,PF5E100,590281000006112,Constriction ring with lymphoedema,268264007,400914015
+Peripheral venous and lymphatic disease,PF6D100,314929018,Constriction ring of lower limb with lymphoedema,205385004,314929018
+Peripheral venous and lymphatic disease,PH00.00,583571000006118,Hereditary lymphoedema,254199006,378402014
+Peripheral venous and lymphatic disease,PH01.00,821691000006110,Hereditary trophoedema,254199006,378402014
+Peripheral venous and lymphatic disease,PH02.00,222081000000110,Hereditary lymphoedema type I,399889006,1773470018
+Peripheral venous and lymphatic disease,PH02.11,222091000000112,Meige's disease,230325003,345153014
+Peripheral venous and lymphatic disease,PH03.00,315206013,Congenital elephantiasis,205545009,315206013
+Peripheral venous and lymphatic disease,TJC8z00,331306010,Adverse reaction to antivaricose drugs NOS,293567009,433788015
+Peripheral venous and lymphatic disease,Z111200,4995291000006119,Lymphoedema bandaging,229510000,344053018
+Peripheral venous and lymphatic disease,Z6G7D00,4995051000006116,Lymphoedema massage,229488002,344025018
+Peripheral venous and lymphatic disease,ZL22900,5942051000006114,Under care of lymphoedema care nurse,305565001,448025011
+Peripheral venous and lymphatic disease,ZL62900,5954721000006110,Referral to lymphoedema care nurse,306327003,449308010
+Peripheral venous and lymphatic disease,ZLA2900,5944461000006113,Seen by lymphoedema care nurse,305742009,448266017
+Peripheral venous and lymphatic disease,ZLD7700,5957031000006115,Discharge by lymphoedema care nurse,306501004,449543012

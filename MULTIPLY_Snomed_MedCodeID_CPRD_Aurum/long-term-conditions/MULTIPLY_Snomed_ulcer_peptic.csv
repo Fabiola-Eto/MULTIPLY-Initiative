@@ -1,0 +1,142 @@
+Condition,ReadCode,MedCodeId,Term,SnomedCTConceptId,SnomedCTDescriptionId
+Peptic ulcer disease,14C1.00,397833011,H/O: peptic ulcer,266998003,397833011
+Peptic ulcer disease,14C1.11,411541019,H/O: duodenal ulcer,275547005,411541019
+Peptic ulcer disease,14C1.12,411542014,H/O: gastric ulcer,275548000,411542014
+Peptic ulcer disease,1956.00,252563014,Peptic ulcer symptoms,162033007,252563014
+Peptic ulcer disease,7612111,502691000006110,Balfour excision of gastric ulcer,287832000,427398016
+Peptic ulcer disease,7612500,269116019,Resection of gastric ulcer by cautery,173731008,269116019
+Peptic ulcer disease,761D500,459010010,Endoscopic injection haemostasis of duodenal ulcer,314627002,459010010
+Peptic ulcer disease,761D600,459013012,Endoscopic injection haemostasis of gastric ulcer,314629004,459013012
+Peptic ulcer disease,761J.00,269309011,Operations on gastric ulcer,173841001,269309011
+Peptic ulcer disease,761J.11,269308015,Stomach ulcer operations,173841001,269308015
+Peptic ulcer disease,761J000,269310018,Closure of perforated gastric ulcer,173842008,269310018
+Peptic ulcer disease,761J100,394147019,Closure of gastric ulcer NEC,173841001,269307013
+Peptic ulcer disease,761J111,410931019,Suture of ulcer of stomach NEC,307259004,450476012
+Peptic ulcer disease,761Jy00,269314010,Gastric ulcer operation,173841001,269307013
+Peptic ulcer disease,761Jz00,269315011,Operation on gastric ulcer NOS,173841001,269307013
+Peptic ulcer disease,7627.00,269371013,Operations on duodenal ulcer,173887007,269371013
+Peptic ulcer disease,7627000,269374017,Closure of perforated duodenal ulcer,173889005,269374017
+Peptic ulcer disease,7627100,118251000006114,Suture of duodenal ulcer not elsewhere classified,307260009,450478013
+Peptic ulcer disease,7627200,362951000000115,Oversew of blood vessel of duodenal ulcer,226891000000104,362951000000115
+Peptic ulcer disease,7627y00,269376015,Duodenal ulcer operation,173887007,269370014
+Peptic ulcer disease,7627z00,269377012,Operation on duodenal ulcer NOS,173887007,269370014
+Peptic ulcer disease,J102000,498969017,Peptic ulcer of oesophagus,6129004,498969017
+Peptic ulcer disease,J11..00,221001000000111,Gastric ulcer,397825006,1777426014
+Peptic ulcer disease,J11..11,37964010,Prepyloric ulcer,22620000,37964010
+Peptic ulcer disease,J11..12,65759011,Pyloric ulcer,39204006,65759011
+Peptic ulcer disease,J110.00,158227015,Acute gastric ulcer,95529005,158227015
+Peptic ulcer disease,J110000,302463015,Acute gastric ulcer without mention of complication,95529005,158227015
+Peptic ulcer disease,J110100,508664015,Acute gastric ulcer with haemorrhage,89748001,508664015
+Peptic ulcer disease,J110111,1235493010,Bleeding acute gastric ulcer,89748001,1235493010
+Peptic ulcer disease,J110200,33419017,Acute gastric ulcer with perforation,19850005,33419017
+Peptic ulcer disease,J110300,495273013,Acute gastric ulcer with haemorrhage AND perforation,48974009,495273013
+Peptic ulcer disease,J110400,302470015,Acute gastric ulcer with obstruction,196632005,302470015
+Peptic ulcer disease,J110y00,302471016,Acute gastric ulcer unspecified,95529005,158227015
+Peptic ulcer disease,J110z00,302472011,Acute gastric ulcer NOS,95529005,158227015
+Peptic ulcer disease,J111.00,158231014,Chronic gastric ulcer,95530000,158231014
+Peptic ulcer disease,J111000,302473018,Chronic gastric ulcer without mention of complication,95530000,158231014
+Peptic ulcer disease,J111100,497833010,Chronic gastric ulcer with haemorrhage,57246001,497833010
+Peptic ulcer disease,J111111,1231704018,Bleeding chronic gastric ulcer,57246001,1231704018
+Peptic ulcer disease,J111200,52347016,Chronic gastric ulcer with perforation,31301004,52347016
+Peptic ulcer disease,J111211,484836012,Perforated chronic gastric ulcer,31301004,484836012
+Peptic ulcer disease,J111300,554311000006114,Chronic gastric ulcer with haemorrhage AND with perforation,76181002,503219010
+Peptic ulcer disease,J111400,302481017,Chronic gastric ulcer with obstruction,196639001,302481017
+Peptic ulcer disease,J111y00,302482012,Chronic gastric ulcer unspecified,95530000,158231014
+Peptic ulcer disease,J111z00,302483019,Chronic gastric ulcer NOS,95530000,158231014
+Peptic ulcer disease,J112.00,2649532016,Anti-platelet induced gastric ulcer,424301005,2649532016
+Peptic ulcer disease,J112z00,317691000000117,Anti-platelet induced gastric ulcer NOS,424301005,2641862015
+Peptic ulcer disease,J113.00,1562921000006116,Non-steroidal anti-inflammatory drug induced gastric ulcer,248891000000103,407821000000113
+Peptic ulcer disease,J113z00,1562931000006118,Non steroidal anti inflammatory drug induced gastric ulc NOS,248891000000103,407821000000113
+Peptic ulcer disease,J11y.00,302485014,Unspecified gastric ulcer,397825006,1777426014
+Peptic ulcer disease,J11y000,302486010,Unspecified gastric ulcer without mention of complication,397825006,1777426014
+Peptic ulcer disease,J11y100,302487018,Gastric ulcer with haemorrhage,15902003,477573015
+Peptic ulcer disease,J11y200,302489015,Gastric ulcer with perforation,9829001,17164015
+Peptic ulcer disease,J11y400,302492016,Gastric ulcer with obstruction,849591000000103,2201671000000116
+Peptic ulcer disease,J11yy00,81311000006115,Gastric ulcer with haemorrhage AND perforation,62366003,499256017
+Peptic ulcer disease,J11yz00,302495019,Unspecified gastric ulcer NOS,397825006,1777426014
+Peptic ulcer disease,J11z.00,396345015,Gastric ulcer NOS,397825006,1777426014
+Peptic ulcer disease,J11z.11,353273019,Gastric erosions,235652004,353273019
+Peptic ulcer disease,J11z.12,457315015,Multiple gastric ulcers,313425006,457315015
+Peptic ulcer disease,J12..00,632091000006116,Duodenal ulcer,51868009,1231048015
+Peptic ulcer disease,J120.00,302502012,Acute duodenal ulcer,196652006,302502012
+Peptic ulcer disease,J120000,302504013,Acute duodenal ulcer without mention of complication,196652006,302502012
+Peptic ulcer disease,J120100,474430017,Acute duodenal ulcer with haemorrhage,12847006,474430017
+Peptic ulcer disease,J120200,101926016,Acute duodenal ulcer with perforation,61347001,101926016
+Peptic ulcer disease,J120300,507303017,Acute duodenal ulcer with haemorrhage AND perforation,86895006,507303017
+Peptic ulcer disease,J120400,302511012,Acute duodenal ulcer with obstruction,196658005,302511012
+Peptic ulcer disease,J120y00,302512017,Acute duodenal ulcer unspecified,196652006,302502012
+Peptic ulcer disease,J120z00,302513010,Acute duodenal ulcer NOS,196652006,302502012
+Peptic ulcer disease,J121.00,206556016,Chronic duodenal ulcer,128286008,206556016
+Peptic ulcer disease,J121000,302514016,Chronic duodenal ulcer without mention of complication,128286008,206556016
+Peptic ulcer disease,J121100,508524014,Chronic duodenal ulcer with haemorrhage,89469000,508524014
+Peptic ulcer disease,J121111,1235462014,Bleeding chronic duodenal ulcer,89469000,1235462014
+Peptic ulcer disease,J121200,83140013,Chronic duodenal ulcer with perforation,49916007,83140013
+Peptic ulcer disease,J121211,495535010,Perforated chronic duodenal ulcer,49916007,495535010
+Peptic ulcer disease,J121300,486596015,Chronic duodenal ulcer with haemorrhage AND perforation,36975000,486596015
+Peptic ulcer disease,J121400,302525013,Chronic duodenal ulcer with obstruction,196666001,302525013
+Peptic ulcer disease,J121y00,302526014,Chronic duodenal ulcer unspecified,128286008,206556016
+Peptic ulcer disease,J121z00,302527017,Chronic duodenal ulcer NOS,128286008,206556016
+Peptic ulcer disease,J122.00,86362013,Duodenal ulcer disease,51868009,86362013
+Peptic ulcer disease,J123.00,353328012,Duodenal erosion,235692002,353328012
+Peptic ulcer disease,J124.00,302530012,Recurrent duodenal ulcer,196671008,302530012
+Peptic ulcer disease,J125.00,2649534015,Anti-platelet induced duodenal ulcer,423643000,2649534015
+Peptic ulcer disease,J126.00,1562941000006111,Duodenal ulcer caused by non-steroidal anti-inflammatory drug,722200003,3331126014
+Peptic ulcer disease,J12y.00,302531011,Unspecified duodenal ulcer,51868009,86362013
+Peptic ulcer disease,J12y000,302532016,Unspecified duodenal ulcer without mention of complication,51868009,86362013
+Peptic ulcer disease,J12y100,302534015,Duodenal ulcer with haemorrhage,27281001,483490017
+Peptic ulcer disease,J12y200,302535019,Duodenal ulcer with perforation,88968005,147516013
+Peptic ulcer disease,J12y300,302537010,Unspecified duodenal ulcer with haemorrhage and perforation,51868009,86362013
+Peptic ulcer disease,J12y400,302538017,Duodenal ulcer with obstruction,849601000000109,2201691000000117
+Peptic ulcer disease,J12yy00,81301000006118,Unspec duodenal ulcer; unspec haemorrhage and/or perforation,51868009,86362013
+Peptic ulcer disease,J12yz00,302541014,Unspecified duodenal ulcer NOS,51868009,86362013
+Peptic ulcer disease,J12z.00,302542019,Duodenal ulcer NOS,51868009,1231048015
+Peptic ulcer disease,J13..00,396346019,Peptic ulcer,13200003,22592012
+Peptic ulcer disease,J13..11,121891000006117,Stress ulcer NOS,13200003,22592012
+Peptic ulcer disease,J130.00,302546016,Acute peptic ulcer,196682000,302546016
+Peptic ulcer disease,J130000,302547013,Acute peptic ulcer without mention of complication,196682000,302546016
+Peptic ulcer disease,J130100,470365013,Acute peptic ulcer with haemorrhage,12274003,470365013
+Peptic ulcer disease,J130200,131281018,Acute peptic ulcer with perforation,79118000,131281018
+Peptic ulcer disease,J130300,361430016,Acute peptic ulcer with haemorrhage and perforation,111353003,361430016
+Peptic ulcer disease,J130400,302553013,Acute peptic ulcer with obstruction,196687006,302553013
+Peptic ulcer disease,J130y00,302554019,Acute peptic ulcer unspecified,196682000,302546016
+Peptic ulcer disease,J130z00,302555018,Acute peptic ulcer NOS,196682000,302546016
+Peptic ulcer disease,J131.00,206557013,Chronic peptic ulcer,128287004,206557013
+Peptic ulcer disease,J131000,302556017,Chronic peptic ulcer without mention of complication,128287004,206557013
+Peptic ulcer disease,J131100,495344012,Chronic peptic ulcer with haemorrhage,49232000,495344012
+Peptic ulcer disease,J131200,6875014,Chronic peptic ulcer with perforation,3483000,6875014
+Peptic ulcer disease,J131400,302562010,Chronic peptic ulcer with obstruction,196694009,302562010
+Peptic ulcer disease,J131y00,302563017,Chronic peptic ulcer unspecified,128287004,206557013
+Peptic ulcer disease,J131z00,302564011,Chronic peptic ulcer NOS,128287004,206557013
+Peptic ulcer disease,J13y.00,302565012,Unspecified peptic ulcer,13200003,22592012
+Peptic ulcer disease,J13y000,302566013,Unspecified peptic ulcer without mention of complication,13200003,22592012
+Peptic ulcer disease,J13y100,302568014,Unspecified peptic ulcer with haemorrhage,13200003,22592012
+Peptic ulcer disease,J13y200,302569018,Unspecified peptic ulcer with perforation,13200003,22592012
+Peptic ulcer disease,J13y300,302571018,Unspecified peptic ulcer with haemorrhage and perforation,13200003,22592012
+Peptic ulcer disease,J13y400,302572013,Peptic ulcer with obstruction,849611000000106,2201711000000115
+Peptic ulcer disease,J13yy00,81501000006111,Unspec peptic ulcer; unspec haemorrhage and/or perforation,13200003,22592012
+Peptic ulcer disease,J13yz00,302575010,Unspecified peptic ulcer NOS,13200003,22592012
+Peptic ulcer disease,J13z.00,302576011,Peptic ulcer NOS,13200003,22592012
+Peptic ulcer disease,J14..00,221011000000113,Gastrojejunal ulcer,16121001,27283019
+Peptic ulcer disease,J14..11,477650018,Anastomotic ulcer,16121001,477650018
+Peptic ulcer disease,J14..12,40392014,Gastrocolic ulcer,24060004,40392014
+Peptic ulcer disease,J14..13,91115011,Jejunal ulcer,54822007,91115011
+Peptic ulcer disease,J14..15,27285014,Stomal ulcer,16121001,27285014
+Peptic ulcer disease,J140.00,302585011,Acute gastrojejunal ulcer,196707000,302585011
+Peptic ulcer disease,J140000,302586012,Acute gastrojejunal ulcer without mention of complication,196707000,302585011
+Peptic ulcer disease,J140100,499719010,Acute gastrojejunal ulcer with haemorrhage,63954007,499719010
+Peptic ulcer disease,J140200,110704012,Acute gastrojejunal ulcer with perforation,66636001,110704012
+Peptic ulcer disease,J140300,504674011,Acute gastrojejunal ulcer with haemorrhage AND perforation,81387001,504674011
+Peptic ulcer disease,J140z00,302594017,Acute gastrojejunal ulcer NOS,196707000,302585011
+Peptic ulcer disease,J141.00,206558015,Chronic gastrojejunal ulcer,128288009,206558015
+Peptic ulcer disease,J141300,494304013,Chronic gastrojejunal ulcer with haemorrhage AND perforation,45640006,494304013
+Peptic ulcer disease,J141400,302601012,Chronic gastrojejunal ulcer with obstruction,196719008,302601012
+Peptic ulcer disease,J14y.00,302604016,Unspecified gastrojejunal ulcer,16121001,27283019
+Peptic ulcer disease,J14y100,302606019,Unspecified gastrojejunal ulcer with haemorrhage,16121001,27283019
+Peptic ulcer disease,J14y200,302608018,Unspecified gastrojejunal ulcer with perforation,16121001,27283019
+Peptic ulcer disease,J14y400,302611017,Gastrojejunal ulcer with obstruction,849621000000100,2201731000000111
+Peptic ulcer disease,J14yz00,302614013,Unspecified gastrojejunal ulcer NOS,16121001,27283019
+Peptic ulcer disease,J14z.00,302615014,Gastrojejunal ulcer NOS,16121001,27283019
+Peptic ulcer disease,J17y800,302675019,Healed gastric ulcer leaving a scar,196775009,302675019
+Peptic ulcer disease,ZV12711,345501000006119,[V]Personal history of peptic ulcer,266998003,397833011
+Peptic ulcer disease,ZV12712,344611000006119,[V]Personal history of duodenal ulcer,275547005,411541019
+Peptic ulcer disease,ZV12C00,454252012,[V] Personal history of gastric ulcer,275548000,411542014

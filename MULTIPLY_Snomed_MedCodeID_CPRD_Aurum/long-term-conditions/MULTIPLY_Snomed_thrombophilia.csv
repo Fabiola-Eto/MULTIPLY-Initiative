@@ -1,0 +1,13 @@
+Condition,ReadCode,MedCodeId,Term,SnomedCTConceptId,SnomedCTDescriptionId
+Thrombophilia,42jH.00,927311000006111,Activated protein C with factor V deficient plasma,999311000000101,2555611000000111
+Thrombophilia,42Qc.00,257494018,Plasma activated protein C resistance,993351000000100,2554781000000111
+Thrombophilia,42Qe.00,257497013,Factor V Leiden genotype,993371000000109,2567831000000115
+Thrombophilia,43GE100,2267501000000115,Lupus anticoagulant positive,878791000000101,2267501000000115
+Thrombophilia,D303700,450270016,Factor V Leiden mutation,307091009,450270016
+Thrombophilia,D303800,450295015,Homozygous Factor V Leiden mutation,307115002,450295015
+Thrombophilia,D303900,450296019,Heterozygous Factor V Leiden mutation,307116001,450296019
+Thrombophilia,D309.00,1221214016,Protein S deficiency,1563006,1221214016
+Thrombophilia,D30A.00,351300013,Thrombophilia,234467004,351300013
+Thrombophilia,D30A000,2871986010,Primary thrombophilia,439698008,2871986010
+Thrombophilia,D30B.00,1233987014,Protein C deficiency,76407009,1233987014
+Thrombophilia,N006.00,44918014,Antiphospholipid syndrome,26843008,44918014

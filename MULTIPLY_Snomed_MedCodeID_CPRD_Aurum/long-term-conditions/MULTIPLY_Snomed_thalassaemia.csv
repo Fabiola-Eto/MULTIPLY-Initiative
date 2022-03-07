@@ -1,0 +1,17 @@
+Condition,ReadCode,MedCodeId,Term,SnomedCTConceptId,SnomedCTDescriptionId
+Thalassaemia,D104.00,492446019,Thalassaemia,40108008,492446019
+Thalassaemia,D104.12,711521000006117,Mediterranean anaemia,40108008,492446019
+Thalassaemia,D104000,399206011,Thalassaemia major,75451007,503017017
+Thalassaemia,D104011,110881000006115,Thalassaemia major - Cooley's anaemia,26682008,483318012
+Thalassaemia,D104200,474030011,Thalassaemia with haemoglobin S disease,127041004,474030011
+Thalassaemia,D104211,141261000006112,Haemoglobin S/beta thalassaemia,127041004,474028014
+Thalassaemia,D104300,501134015,Alpha thalassaemia syndrome,68913001,501132016
+Thalassaemia,D104311,351150014,Homozygous alpha thalassaemia,234383000,351150014
+Thalassaemia,D104600,510081000006116,Beta thalassaemia intermedia,191189009,294036013
+Thalassaemia,D104700,510091000006118,Beta thalassaemia major,26682008,483318012
+Thalassaemia,D104811,500268011,Beta thalassaemia,65959000,500268011
+Thalassaemia,D104900,477758018,Delta-beta thalassaemia,16360009,477758018
+Thalassaemia,D104A00,1229603011,Hereditary leptocytosis,40108008,1229603011
+Thalassaemia,D104z00,399209016,Thalassaemia NOS,40108008,492446019
+Thalassaemia,D104z11,711531000006119,Mediterranean anaemia,40108008,492446019
+Thalassaemia,Dyu1100,294586010,[X]Other thalassaemias,40108008,492446019

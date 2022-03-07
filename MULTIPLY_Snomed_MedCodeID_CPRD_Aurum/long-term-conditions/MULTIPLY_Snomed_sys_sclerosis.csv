@@ -1,0 +1,12 @@
+Condition,ReadCode,MedCodeId,Term,SnomedCTConceptId,SnomedCTDescriptionId
+Systemic sclerosis,F396600,297644019,Myopathy due to scleroderma,193252005,297644019
+Systemic sclerosis,H572.00,301716018,Lung disease with systemic sclerosis,196133001,301716018
+Systemic sclerosis,K0H..00,354513019,Acute scleroderma renal crisis,236503001,354513019
+Systemic sclerosis,K0J0.00,354512012,Renal involvement in scleroderma,236502006,354512012
+Systemic sclerosis,N001.00,309413012,Scleroderma,89155008,147835019
+Systemic sclerosis,N001.11,1785104011,Acrosclerosis,298285004,1785104011
+Systemic sclerosis,N001.12,147833014,Systemic sclerosis,89155008,147833014
+Systemic sclerosis,N001000,147834015,Progressive systemic sclerosis,444133002,2842339011
+Systemic sclerosis,N001100,53211014,CREST syndrome,31848007,53211014
+Systemic sclerosis,N001200,309416016,Systemic sclerosis induced by drugs and chemicals,201443009,309416016
+Systemic sclerosis,Nyu4500,312581012,[X]Other forms of systemic sclerosis,89155008,147833014

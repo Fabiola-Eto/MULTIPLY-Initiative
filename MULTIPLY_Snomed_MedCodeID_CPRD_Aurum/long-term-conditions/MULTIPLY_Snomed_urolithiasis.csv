@@ -1,0 +1,112 @@
+Condition,ReadCode,MedCodeId,Term,SnomedCTConceptId,SnomedCTDescriptionId
+Urolithiasis,14D3.00,251765015,H/O: urinary stone,161548009,251765015
+Urolithiasis,1A52.00,12699010,Renal colic,7093002,12699010
+Urolithiasis,1A52.11,176671000006112,"Renal colic, symptom",7093002,12699010
+Urolithiasis,4G4..00,261016018,O/E: renal calculus,168041003,261016018
+Urolithiasis,4G4..11,261017010,O/E: kidney stone,168041003,261017010
+Urolithiasis,4G41.00,261018017,O/E: oxalate renal calculus,168042005,261018017
+Urolithiasis,4G42.00,404562010,O/E: phosphate -staghorn-stone,269914004,404562010
+Urolithiasis,4G42.11,411861016,Phosphate kidney stone,275893001,411861016
+Urolithiasis,4G43.00,261022010,O/E: uric acid renal calculus,168044006,261022010
+Urolithiasis,4G44.00,261023017,O/E: cystine renal calculus,168045007,261023017
+Urolithiasis,4G4Z.00,261024011,O/E: renal stone NOS,168041003,261017010
+Urolithiasis,4G6..00,261029018,O/E - ureteric calculus,168051002,261029018
+Urolithiasis,4G7..00,261030011,O/E - urethral calculus,168052009,261030011
+Urolithiasis,4G8..00,261031010,O/E - bladder calculus,168053004,261031010
+Urolithiasis,4G81.00,404563017,O/E - vesical oxalate calculus,269915003,404563017
+Urolithiasis,4G81.11,406706014,Oxalate bladder stone,271778003,406706014
+Urolithiasis,4G82.00,404564011,O/E-vesical uric acid calculus,269916002,404564011
+Urolithiasis,4G82.11,406707017,Uric acid bladder stone,271779006,406707017
+Urolithiasis,4G83.00,404565012,O/E-vesical phosphate calculus,269917006,404565012
+Urolithiasis,4G83.11,406708010,Phosphate bladder stone,271780009,406708010
+Urolithiasis,4G8Z.00,261042018,O/E - bladder calculus NOS,168053004,261031010
+Urolithiasis,7B05000,272375016,Nephrotomy with calculus removal,287734006,427287019
+Urolithiasis,7B07.00,239331000006111,Percutaneous nephrolithotomy,386200002,1491474016
+Urolithiasis,7B07.11,678201000006116,Nephroscopic percutaneous lithotripsy of renal calculus,386200002,1491474016
+Urolithiasis,7B07.12,239211000006114,PCL - Percutaneous lithotripsy of renal calculus,386198008,1491473010
+Urolithiasis,7B07000,272394014,Nephroscopy and ultrasound lithotripsy of renal calculus,175951002,272394014
+Urolithiasis,7B07011,272393015,Endoscopic ultrasound fragmentation of renal calculus,175951002,272393015
+Urolithiasis,7B07100,677391000006118,Nephroscopy and electrohydraulic lithotripsy of renal calculus,175952009,272395010
+Urolithiasis,7B07200,677411000006118,Nephroscopy and laser lithotripsy of renal calculus,175953004,272396011
+Urolithiasis,7B07211,272396011,Endoscopic laser fragmentation of renal calculus,175953004,272396011
+Urolithiasis,7B07400,1488616013,Endoscopic extraction of calculus of kidney,450516001,2915897018
+Urolithiasis,7B07y00,272399016,Other specified percutaneous renal stone surgery,386200002,1480380019
+Urolithiasis,7B07z00,272400011,Percutaneous renal stone surgery NOS,386200002,1480380019
+Urolithiasis,7B0B.00,481900014,Extracorporeal shockwave lithotripsy for renal calculus,393072009,1487042014
+Urolithiasis,7B0B.11,481901013,Extracorporeal fragmentation of renal calculus,393072009,1487042014
+Urolithiasis,7B0B000,649111000006118,ESWL for renal calculus of unspecified size,393072009,1487042014
+Urolithiasis,7B0B100,649101000006116,Extracorporeal shockwave lithotripsy for renal calculus less than 2 cm in diameter,175977005,272434012
+Urolithiasis,7B0B200,649091000006110,Extracorporeal shockwave treatment for renal calculus of 2 cm or more in diameter,175978000,272436014
+Urolithiasis,7B0By00,659701000006115,Extracorporeal shockwave lithotripsy for renal calculus OS,393072009,1487042014
+Urolithiasis,7B0Bz00,272438010,Extracorporeal shockwave lithotripsy for renal calculus NOS,393072009,1487042014
+Urolithiasis,7B17000,678191000006119,Nephroscopic laser lithotripsy of ureteric calculus,176050007,272542011
+Urolithiasis,7B17011,272542011,Nephroscopic laser fragmentation of ureteric calculus,176050007,272542011
+Urolithiasis,7B17100,272543018,Other nephroscopic fragmentation of ureteric calculus,236172004,354018019
+Urolithiasis,7B17111,1221571017,Nephroscopic lithotripsy of ureteric calculus,236172004,354018019
+Urolithiasis,7B17200,678161000006110,Nephroscopic extraction of ureteric calculus,176052004,272544012
+Urolithiasis,7B18.00,73521000006110,Ureteroscopic operation for ureteric calculus,297932004,438520013
+Urolithiasis,7B18000,272556013,Ureteroscopic laser lithotripsy of ureteric calculus,176058000,272556013
+Urolithiasis,7B18011,272557016,Ureteroscopic laser fragmentation of ureteric calculus,176058000,272557016
+Urolithiasis,7B18100,272558014,Ureteroscopic fragmentation of ureteric calculus,236179008,354032017
+Urolithiasis,7B18200,73491000006113,Ureteroscopic removal of ureteric calculus,265561004,394380019
+Urolithiasis,7B19.00,607041000006119,Cystoscopic removal of ureteric calculus,176063001,272562015
+Urolithiasis,7B19000,272563013,Cystoscopic laser lithotripsy of ureteric calculus,176064007,272563013
+Urolithiasis,7B19100,272564019,Other cystoscopic fragmentation of ureteric calculus,236190003,354044019
+Urolithiasis,7B19200,394381015,Cystoscopic extraction of ureteric calculus,265562006,394381015
+Urolithiasis,7B19211,503901000006116,Basket extraction of ureteric calculus,302361003,444002018
+Urolithiasis,7B19212,444002018,Dormia basket extraction of ureteric calculus,302361003,444002018
+Urolithiasis,7B19300,272569012,Cystoscopic catheter drainage for ureteric calculus,176067000,272569012
+Urolithiasis,7B19400,272571012,Cystoscopic dilation of ureter for drainage of calculus,176068005,272571012
+Urolithiasis,7B19y00,272572017,Other specified cystoscopic removal of ureteric calculus,176063001,272562015
+Urolithiasis,7B19z00,272573010,Cystoscopic removal of ureteric calculus,795181000000104,1777501000000117
+Urolithiasis,7B1C.00,480263010,Extracorporeal shockwave lithotripsy of ureteric calculus,20042009,480263010
+Urolithiasis,7B1C000,659581000006117,Extracorporeal shockwave lithotripsy of ureter,20042009,33733018
+Urolithiasis,7B1C100,272604014,Extracorporeal shockwave therapy for stone in upper ureter,176091009,272604014
+Urolithiasis,7B1C200,272605010,Extracorporeal shockwave lithotripsy for stone in mid-ureter,176092002,272605010
+Urolithiasis,7B1C300,659741000006118,Extracorporeal shockwave lithotripsy for stone in lower ureter,176093007,272606011
+Urolithiasis,7B1Cy00,659731000006111,Extracorporeal shockwave lithotripsy of ureteric calculus OS,20042009,33733018
+Urolithiasis,7B1Cz00,659751000006116,Extracorporeal shockwave lithotripsy ureteric calculus NOS,20042009,33733018
+Urolithiasis,7B1F000,490291000000113,Endoscopic extraction of calculus of urinary diversion,284301000000102,490291000000113
+Urolithiasis,7B25000,1490829012,Open removal of bladder calculus,370984003,1490829012
+Urolithiasis,7B29100,272732012,Other endoscopic extraction of bladder calculus,287712009,427262014
+Urolithiasis,7B29400,453179011,Electrokinetic lithotripsy of bladder calculus,309708008,453179011
+Urolithiasis,7B2B400,272768019,Removal of bladder calculus by urethral catheter suction,176194004,272768019
+Urolithiasis,7B42300,480970019,Open urethrotomy and removal of calculus,21272003,480970019
+Urolithiasis,7B42400,368981000000111,Open extraction of calculus from urethra,21272003,758741000000110
+Urolithiasis,7B43900,459826012,Endoscopic removal of urethral calculus,315318003,459826012
+Urolithiasis,C341100,398876010,Uric acid nephrolithiasis,274401005,3036817010
+Urolithiasis,C341111,177221000006111,Uric acid renal calculus,274401005,410199019
+Urolithiasis,K100600,39884018,Calculous pyelonephritis,23754003,39884018
+Urolithiasis,K112.00,304094012,Hydronephrosis co-occurrent and due to calculus of kidney and ureter,736640009,3520573015
+Urolithiasis,K12..00,396716015,Calculus of kidney and ureter,266556005,396716015
+Urolithiasis,K12..11,512195010,Kidney calculus,95570007,512195010
+Urolithiasis,K12..12,1229051019,Urinary calculus,95566004,158289015
+Urolithiasis,K120.00,512193015,Calculus of kidney,95570007,512193015
+Urolithiasis,K120.11,354793016,Nephrolithiasis,95570007,512194014
+Urolithiasis,K120.12,158299013,Renal calculus,95570007,158299013
+Urolithiasis,K120.13,158297010,Renal stone,95570007,158297010
+Urolithiasis,K120000,304112014,Staghorn calculus,197794008,304112014
+Urolithiasis,K120z00,304113016,Renal calculus NOS,95570007,158299013
+Urolithiasis,K121.00,484765012,Calculus of ureter,31054009,484765012
+Urolithiasis,K121.11,51972013,Ureteric calculus,31054009,51972013
+Urolithiasis,K121.12,51969018,Ureteric stone,31054009,51969018
+Urolithiasis,K121.13,51973015,Ureterolithiasis,31054009,51973015
+Urolithiasis,K122.00,396715016,Calculus of kidney with calculus of ureter,266556005,396715016
+Urolithiasis,K12z.00,304115011,Urinary calculus NOS,95566004,158289015
+Urolithiasis,K14..00,2478855015,Lower urinary tract calculus,79509009,2478855015
+Urolithiasis,K140.00,117365011,Bladder calculus,70650003,117365011
+Urolithiasis,K140.11,117363016,Bladder stone,70650003,117363016
+Urolithiasis,K140000,30590019,Calculus in diverticulum of bladder,18109005,1221671010
+Urolithiasis,K140100,304172018,Other calculus in bladder,70650003,117361019
+Urolithiasis,K140z00,304173011,Bladder calculus NOS,70650003,117365011
+Urolithiasis,K141.00,34208010,Calculus in urethra,20342001,34208010
+Urolithiasis,K14y.00,304174017,Calculus of lower urinary tract,79509009,131902017
+Urolithiasis,K14z.00,304175016,Lower urinary tract calculus NOS,79509009,131902017
+Urolithiasis,K1A..00,304368014,Urinary calculus in schistosomiasis,197954003,304368014
+Urolithiasis,Kyu3.00,431601000006114,Urolithiasis,95566004,158289015
+Urolithiasis,Kyu3000,305194016,[X]Other lower urinary tract calculus,95566004,158289015
+Urolithiasis,Kyu3100,369131000006110,[X]Calculus of urinary tract in other diseases CE,95566004,158289015
+Urolithiasis,R080.00,317507016,[D]Renal colic,7093002,12699010
+Urolithiasis,R080000,317508014,"[D]Renal colic, unspecified",7093002,12699010
+Urolithiasis,R080100,317509018,[D]Ureteric colic,17329003,478111016
+Urolithiasis,R080z00,317510011,[D]Renal colic NOS,7093002,12699010

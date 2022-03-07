@@ -1,0 +1,7 @@
+Condition,ReadCode,MedCodeId,Term,SnomedCTConceptId,SnomedCTDescriptionId
+Trigeminal neuralgia,1475.00,251646016,H/O: trigeminal neuralgia,161482000,251646016
+Trigeminal neuralgia,A531200,211241000006115,Postherpetic trigeminal neuralgia,17974002,30355011
+Trigeminal neuralgia,F300.00,30355011,Post-herpetic trigeminal neuralgia,17974002,30355011
+Trigeminal neuralgia,F301.00,297427010,Trigeminal neuralgia,31681005,52933011
+Trigeminal neuralgia,F301000,52935016,Tic douloureux,31681005,52935016
+Trigeminal neuralgia,F301z00,297428017,Trigeminal neuralgia NOS,31681005,52933011

@@ -1,0 +1,117 @@
+Condition,ReadCode,MedCodeId,Term,SnomedCTConceptId,SnomedCTDescriptionId
+Type 2 Diabetes,66A3.00,264679015,Diabetic on diet only,170745003,264679015
+Type 2 Diabetes,66A4.00,264681018,Diabetic on oral treatment,170746002,264681018
+Type 2 Diabetes,66o5.00,1966311000006116,Diabetic on oral treatment and glucagon-like peptide 1 receptor agonist,976341000000101,2483721000000113
+Type 2 Diabetes,C107400,674961000006118,Peripheral circulatory disorder associated with type 2 diabetes mellitus,422166005,2623039019
+Type 2 Diabetes,C109.00,280571000006116,Non-insulin dependent diabetes mellitus,44054006,493773010
+Type 2 Diabetes,C109.11,493773010,NIDDM - Non-insulin dependent diabetes mellitus,44054006,493773010
+Type 2 Diabetes,C109.12,84471000006119,Type 2 diabetes mellitus,44054006,197761014
+Type 2 Diabetes,C109.13,84841000006113,Type II diabetes mellitus,44054006,493774016
+Type 2 Diabetes,C109000,587521000006111,Non-insulin-dependent diabetes mellitus with renal comps,420279001,2615535015
+Type 2 Diabetes,C109011,84981000006114,Type II diabetes mellitus with renal complications,420279001,3013392012
+Type 2 Diabetes,C109012,84611000006113,Type 2 diabetes mellitus with renal complications,420279001,2618208012
+Type 2 Diabetes,C109100,587111000006111,Non-insulin-dependent diabetes mellitus with ophthalm comps,422099009,3698440016
+Type 2 Diabetes,C109111,84951000006118,Disorder of eye with type 2 diabetes mellitus,422099009,3698440016
+Type 2 Diabetes,C109112,84581000006117,Type 2 diabetes mellitus with ophthalmic complications,422099009,3698440016
+Type 2 Diabetes,C109200,280591000006115,Non-insulin-dependent diabetes mellitus with neuro comps,421326000,3695406015
+Type 2 Diabetes,C109211,84931000006113,Neurological disorder with diabetes type 2,421326000,3695406015
+Type 2 Diabetes,C109212,84561000006110,Type 2 diabetes mellitus with neurological complications,421326000,3695406015
+Type 2 Diabetes,C109300,280581000006118,Non-insulin-dependent diabetes mellitus with multiple complications,190388001,292578014
+Type 2 Diabetes,C109311,84911000006119,Type II diabetes mellitus with multiple complications,190388001,292576013
+Type 2 Diabetes,C109312,84541000006111,Type 2 diabetes mellitus with multiple complications,190388001,292577016
+Type 2 Diabetes,C109400,280551000006114,Non-insulin-dependent diabetes mellitus with ulcer,190389009,292580015
+Type 2 Diabetes,C109411,85001000006117,Type II diabetes mellitus with ulcer,190389009,292581016
+Type 2 Diabetes,C109412,84631000006119,Type 2 diabetes mellitus with ulcer,190389009,292579018
+Type 2 Diabetes,C109500,281211000006117,Gangrene associated with type 2 diabetes mellitus,421631007,2967779019
+Type 2 Diabetes,C109511,84881000006119,Type II diabetes mellitus with gangrene,421631007,2618206011
+Type 2 Diabetes,C109512,84511000006112,Type 2 diabetes mellitus with gangrene,421631007,2618206011
+Type 2 Diabetes,C109600,641581000006115,Non-insulin-dependent diabetes mellitus with retinopathy,422034002,3035295017
+Type 2 Diabetes,C109611,84991000006112,Type II diabetes mellitus with retinopathy,422034002,3699410014
+Type 2 Diabetes,C109612,84621000006117,Type 2 diabetes mellitus with retinopathy,422034002,3699410014
+Type 2 Diabetes,C109700,281171000006119,Type II diabetes mellitus uncontrolled,443694000,2842387018
+Type 2 Diabetes,C109711,84851000006110,Type II diabetes mellitus - poor control,443694000,2921019012
+Type 2 Diabetes,C109712,84481000006116,Type 2 diabetes mellitus - poor control,443694000,2921019012
+Type 2 Diabetes,C109900,457328010,Non-insulin-dependent diabetes mellitus without complication,313436004,457328010
+Type 2 Diabetes,C109911,85011000006119,Type II diabetes mellitus without complication,313436004,457330012
+Type 2 Diabetes,C109912,84641000006112,Type 2 diabetes mellitus without complication,313436004,457329019
+Type 2 Diabetes,C109A00,280521000006117,Non-insulin dependent diabetes mellitus with mononeuropathy,420436000,3697667019
+Type 2 Diabetes,C109A11,84901000006117,Mononeuropathy with type 2 diabetes mellitus,420436000,3697667019
+Type 2 Diabetes,C109B00,280541000006112,Non-insulin dependent diabetes mellitus with polyneuropathy,713706002,3297353013
+Type 2 Diabetes,C109B11,84971000006111,Type II diabetes mellitus with polyneuropathy,713706002,3297353013
+Type 2 Diabetes,C109B12,84601000006110,Type 2 diabetes mellitus with polyneuropathy,713706002,3297353013
+Type 2 Diabetes,C109C00,280531000006119,Non-insulin dependent diabetes mellitus with nephropathy,420279001,3035432019
+Type 2 Diabetes,C109C11,84921000006110,Renal disorder due to type 2 diabetes mellitus,420279001,3013392012
+Type 2 Diabetes,C109C12,84551000006113,Type 2 diabetes mellitus with nephropathy,420279001,3035432019
+Type 2 Diabetes,C109D00,280511000006113,Non-insulin dependent diabetes mellitus with hypoglyca coma,719216001,3316336015
+Type 2 Diabetes,C109D11,84891000006116,Type II diabetes mellitus with hypoglycaemic coma,719216001,3316336015
+Type 2 Diabetes,C109D12,84521000006116,Type 2 diabetes mellitus with hypoglycaemic coma,719216001,3316336015
+Type 2 Diabetes,C109E00,281161000006114,Non-insulin depend diabetes mellitus with diabetic cataract,420756003,3035281015
+Type 2 Diabetes,C109E11,84871000006117,Cataract due to diabetes mellitus type 2,420756003,3688522015
+Type 2 Diabetes,C109E12,84501000006114,Type 2 diabetes mellitus with diabetic cataract,420756003,3688522015
+Type 2 Diabetes,C109F11,84961000006116,Type II diabetes mellitus with peripheral angiopathy,314902007,459306016
+Type 2 Diabetes,C109F12,84591000006119,Type 2 diabetes mellitus with peripheral angiopathy,314902007,459308015
+Type 2 Diabetes,C109G00,459309011,Non-insulin dependent diabetes mellitus with arthropathy,314903002,459309011
+Type 2 Diabetes,C109G11,84861000006112,Type II diabetes mellitus with arthropathy,314903002,459311019
+Type 2 Diabetes,C109G12,84491000006118,Type 2 diabetes mellitus with arthropathy,314903002,459310018
+Type 2 Diabetes,C109H00,281181000006116,Non-insulin dependent diabetes mellitus with neuropathic arthropathy,314904008,459314010
+Type 2 Diabetes,C109H11,84941000006115,Type II diabetes mellitus with neuropathic arthropathy,314904008,459312014
+Type 2 Diabetes,C109H12,84571000006115,Type 2 diabetes mellitus with neuropathic arthropathy,314904008,459313016
+Type 2 Diabetes,C109J00,840951000006119,Insulin treated Type 2 diabetes mellitus,237599002,2967820013
+Type 2 Diabetes,C109J11,1223148019,Insulin treated non-insulin dependent diabetes mellitus,237599002,1223148019
+Type 2 Diabetes,C109J12,841351000006110,Insulin treated Type II diabetes mellitus,237599002,1223147012
+Type 2 Diabetes,C109K00,850691000006118,Hyperosmolar non-ketotic state in type 2 diabetes mellitus,395204000,1488898011
+Type 2 Diabetes,C10F.00,197761014,Type 2 diabetes mellitus,44054006,197761014
+Type 2 Diabetes,C10F.11,493774016,Type II diabetes mellitus,44054006,493774016
+Type 2 Diabetes,C10F000,914031000006118,Renal disorder associated with type II diabetes mellitus,420279001,2618208012
+Type 2 Diabetes,C10F011,914041000006111,Type II diabetes mellitus with renal complications,420279001,3013392012
+Type 2 Diabetes,C10F100,914051000006113,Disorder of eye with type 2 diabetes mellitus,422099009,3698440016
+Type 2 Diabetes,C10F111,914061000006110,Type II diabetes mellitus with ophthalmic complications,422099009,3698440016
+Type 2 Diabetes,C10F200,914071000006115,Neurologic disorder associated with type 2 diabetes mellitus,421326000,3695406015
+Type 2 Diabetes,C10F211,914081000006117,Type II diabetes mellitus with neurological complications,421326000,3695406015
+Type 2 Diabetes,C10F300,292577016,Type 2 diabetes mellitus with multiple complications,190388001,292577016
+Type 2 Diabetes,C10F311,292576013,Type II diabetes mellitus with multiple complications,190388001,292576013
+Type 2 Diabetes,C10F400,292579018,Type 2 diabetes mellitus with ulcer,190389009,292579018
+Type 2 Diabetes,C10F411,292581016,Type II diabetes mellitus with ulcer,190389009,292581016
+Type 2 Diabetes,C10F500,292583018,Type 2 diabetes mellitus with gangrene,421631007,2618206011
+Type 2 Diabetes,C10F511,292582011,Type II diabetes mellitus with gangrene,421631007,2618206011
+Type 2 Diabetes,C10F600,914151000006112,Retinopathy with type 2 diabetes mellitus,422034002,3699410014
+Type 2 Diabetes,C10F611,914161000006114,Type II diabetes mellitus with retinopathy,422034002,3699410014
+Type 2 Diabetes,C10F700,292590011,Type II diabetes mellitus poorly controlled,443694000,2921019012
+Type 2 Diabetes,C10F711,292589019,Type II diabetes mellitus - poor control,443694000,2921019012
+Type 2 Diabetes,C10F900,457329019,Type 2 diabetes mellitus without complication,313436004,457329019
+Type 2 Diabetes,C10F911,457330012,Type II diabetes mellitus without complication,313436004,457330012
+Type 2 Diabetes,C10FA00,914221000006113,Type 2 diabetes mellitus with mononeuropathy,420436000,2618201018
+Type 2 Diabetes,C10FA11,914231000006111,Type II diabetes mellitus with mononeuropathy,420436000,3697667019
+Type 2 Diabetes,C10FB00,914241000006118,Polyneuropathy due to type 2 diabetes mellitus,713706002,3297353013
+Type 2 Diabetes,C10FB11,914251000006116,Type II diabetes mellitus with polyneuropathy,713706002,3297353013
+Type 2 Diabetes,C10FC00,914261000006119,Diabetes type 2 with nephropathy,420279001,3035432019
+Type 2 Diabetes,C10FC11,914271000006114,Type II diabetes mellitus with nephropathy,420279001,3013392012
+Type 2 Diabetes,C10FD00,459167016,Type 2 diabetes mellitus with hypoglycaemic coma,719216001,3316336015
+Type 2 Diabetes,C10FD11,459169018,Hypoglycaemic coma co-occurrent and due to diabetes mellitus type II,719216001,3316336015
+Type 2 Diabetes,C10FE00,914301000006111,Type 2 diabetes mellitus with diabetic cataract,420756003,3688522015
+Type 2 Diabetes,C10FE11,914311000006114,Type II diabetes mellitus with diabetic cataract,420756003,3688522015
+Type 2 Diabetes,C10FF00,459308015,Type 2 diabetes mellitus with peripheral angiopathy,314902007,459308015
+Type 2 Diabetes,C10FF11,459306016,Type II diabetes mellitus with peripheral angiopathy,314902007,459306016
+Type 2 Diabetes,C10FG00,459310018,Type 2 diabetes mellitus with arthropathy,314903002,459310018
+Type 2 Diabetes,C10FG11,459311019,Type II diabetes mellitus with arthropathy,314903002,459311019
+Type 2 Diabetes,C10FH00,459313016,Type 2 diabetes mellitus with neuropathic arthropathy,314904008,459313016
+Type 2 Diabetes,C10FH11,459312014,Type II diabetes mellitus with neuropathic arthropathy,314904008,459312014
+Type 2 Diabetes,C10FJ00,914391000006116,Insulin treated Type 2 diabetes mellitus,237599002,2967820013
+Type 2 Diabetes,C10FJ11,1223147012,Insulin treated Type II diabetes mellitus,237599002,1223147012
+Type 2 Diabetes,C10FK00,1488898011,Hyperosmolar non-ketotic state in type 2 diabetes mellitus,395204000,1488898011
+Type 2 Diabetes,C10FK11,1667891000000113,Hyperosmolar non-ketotic state in type II diabetes mellitus,395204000,1667891000000113
+Type 2 Diabetes,C10FL00,928541000006117,Persistent proteinuria associated with type 2 diabetes mellitus,421986006,2967751013
+Type 2 Diabetes,C10FL11,928551000006115,Type II diabetes mellitus with persistent proteinuria,421986006,2967751013
+Type 2 Diabetes,C10FM00,928561000006118,Persistent microalbuminuria associated with type 2 diabetes mellitus,420715001,2967769016
+Type 2 Diabetes,C10FM11,928571000006113,Type II diabetes mellitus with persistent microalbuminuria,420715001,2967769016
+Type 2 Diabetes,C10FN00,928581000006111,Ketoacidosis in type 2 diabetes mellitus,421750000,2967754017
+Type 2 Diabetes,C10FN11,928591000006114,Type II diabetes mellitus with ketoacidosis,421750000,2967754017
+Type 2 Diabetes,C10FP00,928601000006118,Ketoacidotic coma in type 2 diabetes mellitus,421847006,2618218019
+Type 2 Diabetes,C10FP11,928611000006115,Ketoacidotic coma in type II diabetes mellitus,421847006,2618218019
+Type 2 Diabetes,C10FQ00,938321000006116,Exudative maculopathy associated with type 2 diabetes mellitus,421779007,2618237011
+Type 2 Diabetes,C10FQ11,938331000006118,Exudative maculopathy with type 2 diabetes mellitus,421779007,3698529010
+Type 2 Diabetes,C10FR00,299621000000117,Gastroparesis with type 2 diabetes mellitus,713703005,3698412014
+Type 2 Diabetes,C10FR11,1667921000000117,Type II diabetes mellitus with gastroparesis,713703005,3698412014
+Type 2 Diabetes,C10P100,2288061000000111,Type II diabetes mellitus in remission,703138006,3007241010
+Type 2 Diabetes,C10P111,2288071000000116,Type 2 diabetes mellitus in remission,703138006,3007259013
+Type 2 Diabetes,L180600,306113018,"Pre-existing diabetes mellitus, non-insulin-dependent",199230006,306113018

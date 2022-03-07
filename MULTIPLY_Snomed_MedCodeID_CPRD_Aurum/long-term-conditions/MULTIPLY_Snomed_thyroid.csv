@@ -1,0 +1,125 @@
+Condition,ReadCode,MedCodeId,Term,SnomedCTConceptId,SnomedCTDescriptionId
+Thyroid disease,143..11,411528018,H/O: thyroid disorder,275536003,411528018
+Thyroid disease,1431.00,251587014,H/O: hyperthyroidism,161442007,251587014
+Thyroid disease,1431.11,251588016,H/O: thyrotoxicosis,161442007,251588016
+Thyroid disease,1432.00,251589012,H/O: hypothyroidism,161443002,251589012
+Thyroid disease,1433.00,251590015,H/O: thyroid disorder NOS,275536003,411528018
+Thyroid disease,212P.00,2548990010,Hyperthyroidism resolved,416477006,2548990010
+Thyroid disease,66B..00,264730019,Thyroid disease monitoring,170780004,264730019
+Thyroid disease,66B4.00,412221013,Thyroid eye disease,276177000,412221013
+Thyroid disease,66BB.00,637341000000118,Hypothyroidism annual review,341861000000109,637341000000118
+Thyroid disease,66BZ.00,264748011,Thyroid disease monitoring NOS,170780004,264730019
+Thyroid disease,7110.00,101731000006118,Thyroidectomy,13619001,23244017
+Thyroid disease,7110.11,654931000006112,Excision of thyroid gland operations,13619001,475405011
+Thyroid disease,7110000,40996015,Total thyroidectomy,24443003,40996015
+Thyroid disease,7110111,355914011,Bilateral subtotal thyroidectomy,30956003,51831010
+Thyroid disease,7110600,266323014,Thyroidectomy NEC,13619001,23244017
+Thyroid disease,7110y00,266324015,Other specified thyroidectomy,13619001,23244017
+Thyroid disease,7113y00,266350016,Other specified other operation on thyroid gland,15463004,195694015
+Thyroid disease,7113z00,266351017,Other operation on thyroid gland NOS,15463004,195694015
+Thyroid disease,8CR5.00,2474336017,Hypothyroidism clinical management plan,736287007,3517030018
+Thyroid disease,9Oj..00,225971000000116,Hypothyroidism monitoring administration,713741000000106,1564981000000116
+Thyroid disease,9Oj0.00,2533422017,Hypothyroidism monitoring first letter,414439002,2533422017
+Thyroid disease,9Oj1.00,2533534011,Hypothyroidism monitoring second letter,414441001,2533534011
+Thyroid disease,9Oj2.00,2533420013,Hypothyroidism monitoring third letter,414442008,2533420013
+Thyroid disease,9Oj3.00,2548835019,Hypothyroidism monitoring verbal invite,416326003,2548835019
+Thyroid disease,9Oj4.00,406721000000115,Hypothyroidism monitoring telephone invitation,248341000000100,406721000000115
+Thyroid disease,C000.12,118901000006115,Substernal thyroid goitre,66392007,199651016
+Thyroid disease,C000.13,355926018,Thyroid nodule,237495005,355926018
+Thyroid disease,C02..00,150375010,Thyrotoxicosis,90739004,150375010
+Thyroid disease,C02..11,57561015,Hyperthyroidism,34486009,57561015
+Thyroid disease,C02..12,355932011,Toxic goitre,237498007,355932011
+Thyroid disease,C020.00,398780011,Toxic diffuse goitre,267374005,398780011
+Thyroid disease,C020.11,490987015,Basedow's disease,353295004,2912991014
+Thyroid disease,C020.12,472452010,Graves' disease,353295004,472452010
+Thyroid disease,C020000,292327018,Toxic diffuse goitre with no crisis,190241003,292327018
+Thyroid disease,C020100,292330013,Toxic diffuse goitre with crisis,190242005,292330013
+Thyroid disease,C020200,356406019,Thyroid-associated dermopathy,237825005,356406019
+Thyroid disease,C020z00,292331012,Toxic diffuse goitre NOS,267374005,398780011
+Thyroid disease,C021.00,200396013,Toxic uninodular goitre,73869005,200396013
+Thyroid disease,C021000,292334016,Toxic uninodular goitre with no crisis,190244006,292334016
+Thyroid disease,C021z00,292338018,Toxic uninodular goitre NOS,73869005,200396013
+Thyroid disease,C022.00,196525014,Toxic multinodular goitre,26389007,196525014
+Thyroid disease,C022000,292339014,Toxic multinodular goitre with no crisis,190247004,292339014
+Thyroid disease,C022z00,292343013,Toxic multinodular goitre NOS,26389007,196525014
+Thyroid disease,C023.00,292346017,Toxic nodular goitre,57777000,497988010
+Thyroid disease,C023000,292347014,Toxic nodular goitre unspecified with no crisis,57777000,96075015
+Thyroid disease,C023100,292350012,Toxic nodular goitre unspecified with crisis,57777000,96075015
+Thyroid disease,C023z00,292354015,Toxic nodular goitre NOS,57777000,497988010
+Thyroid disease,C024.00,507481016,Thyrotoxicosis from ectopic thyroid nodule,87232008,507481016
+Thyroid disease,C024000,292355019,Thyrotoxicosis from ectopic thyroid nodule with no crisis,190255006,292355019
+Thyroid disease,C024z00,292357010,Thyrotoxicosis from ectopic thyroid nodule NOS,87232008,144647016
+Thyroid disease,C02y.00,398782015,Thyrotoxicosis of other specified origin,90739004,150375010
+Thyroid disease,C02y000,292361016,Thyrotoxicosis of other specified origin with no crisis,90739004,150375010
+Thyroid disease,C02y100,292362011,Thyrotoxicosis of other specified origin with crisis,90739004,150375010
+Thyroid disease,C02y300,48600017,Thyroid crisis,29028009,48600017
+Thyroid disease,C02yz00,292365013,Thyrotoxicosis of other specified origin NOS,90739004,150375010
+Thyroid disease,C02z.00,292366014,Thyrotoxicosis without mention of goitre or other cause,90739004,150375010
+Thyroid disease,C02z000,101891000006113,Thyrotoxicosis without mention of goitre or cause no crisis,90739004,150375010
+Thyroid disease,C02z100,101911000006110,"Thyrotoxicosis without mention of goitre, cause with crisis",90739004,150375010
+Thyroid disease,C02zz00,292372014,Thyrotoxicosis NOS,90739004,150375010
+Thyroid disease,C03..00,292373016,Congenital hypothyroidism,190268003,292373016
+Thyroid disease,C03..11,600791000006112,Cretinism,217710005,329968011
+Thyroid disease,C030.00,116846019,Pendred's syndrome,70348004,116846019
+Thyroid disease,C031.00,415431010,Goitrous cretin,278503003,415431010
+Thyroid disease,C03y.00,292376012,Other specified congenital hypothyroidism,190268003,292373016
+Thyroid disease,C03y000,415432015,Congenital hypothyroidism with diffuse goitre,278503003,415432015
+Thyroid disease,C03y100,355957018,Congenital hypothyroidism without goitre,237515009,355957018
+Thyroid disease,C03z.00,398783013,Congenital hypothyroidism NOS,190268003,292373016
+Thyroid disease,C03z.11,588661000006115,Congenital thyroid insufficiency,190268003,292373016
+Thyroid disease,C03z.12,329968011,Cretinism,217710005,329968011
+Thyroid disease,C04..00,178809013,Acquired hypothyroidism,111566002,178809013
+Thyroid disease,C04..11,493538010,Myxoedema,43153006,493538010
+Thyroid disease,C04..12,101171000006116,Thyroid deficiency,40930008,68268011
+Thyroid disease,C04..13,68268011,Hypothyroidism,40930008,68268011
+Thyroid disease,C040.00,2536050019,Post-surgical hypothyroidism,27059002,45271010
+Thyroid disease,C040.11,216181000006112,Postablative hypothyroidism,237527007,355975017
+Thyroid disease,C041.00,292394018,Other postablative hypothyroidism,237527007,355975017
+Thyroid disease,C041000,292395017,Irradiation hypothyroidism,190277005,292395017
+Thyroid disease,C041z00,292396016,Postablative hypothyroidism NOS,237527007,355975017
+Thyroid disease,C042.00,292397013,Iodine hypothyroidism,190279008,292397013
+Thyroid disease,C043.00,292400016,Iatrogenic hypothyroidism,88273006,146340011
+Thyroid disease,C043000,292401017,Hypothyroidism resulting from para-aminosalicylic acid,190282003,292401017
+Thyroid disease,C043100,292402012,Hypothyroidism resulting from phenylbutazone,190283008,292402012
+Thyroid disease,C043200,292403019,Hypothyroidism resulting from resorcinol,190284002,292403019
+Thyroid disease,C043z00,292404013,Iatrogenic hypothyroidism NOS,88273006,146340011
+Thyroid disease,C044.00,211321000006115,Postinfectious hypothyroidism,237528002,355976016
+Thyroid disease,C045.00,356012016,Acquired atrophy of thyroid,237558008,356012016
+Thyroid disease,C046.00,355964016,Autoimmune myxoedema,237519003,355964016
+Thyroid disease,C047.00,91116012,Subclinical hypothyroidism,54823002,91116012
+Thyroid disease,C04y.00,292408011,Other acquired hypothyroidism,111566002,178809013
+Thyroid disease,C04z.00,398784019,Hypothyroidism NOS,40930008,68268011
+Thyroid disease,C04z.11,208391000006113,Pretibial myxoedema - hypothyroid,40930008,68268011
+Thyroid disease,C04z.12,101581000006112,Thyroid insufficiency,40930008,68268011
+Thyroid disease,C04z.13,355961012,"Hypothyroid goitre, acquired",237518006,355961012
+Thyroid disease,C04z000,292417011,Premature puberty due to hypothyroidism,190291004,292417011
+Thyroid disease,C04z100,35727012,Myxoedema coma,21263006,35727012
+Thyroid disease,C05..00,136211012,Thyroiditis,82119001,136211012
+Thyroid disease,C051.00,64445010,Subacute thyroiditis,38727009,64445010
+Thyroid disease,C051.11,2695192017,De Quervain's thyroiditis,428041004,2695192017
+Thyroid disease,C052.00,481187014,Chronic lymphocytic thyroiditis,21983002,481187014
+Thyroid disease,C052.11,481188016,Autoimmune thyroiditis,21983002,481188016
+Thyroid disease,C052.12,36888019,Hashimoto's disease,21983002,36888019
+Thyroid disease,C053.00,554221000006113,Chronic fibrous thyroiditis,84362007,139911019
+Thyroid disease,C053.11,147605012,Riedel's thyroiditis,89024000,147605012
+Thyroid disease,C05y.00,292435019,Other and unspecified chronic thyroiditis,45053005,75139015
+Thyroid disease,C05y400,355987012,Chronic thyroiditis with transient thyrotoxicosis,237538007,355987012
+Thyroid disease,C05z.00,292437010,Thyroiditis NOS,82119001,136211012
+Thyroid disease,C06y.00,292446016,Other specified thyroid disorders,14304000,24320010
+Thyroid disease,C06y100,292448015,Thyroid atrophy,190309006,292448015
+Thyroid disease,C0A5.00,123651000006111,Subclinical iodine deficiency hypothyroidism,237567008,356026013
+Thyroid disease,C134300,88781000006119,TSH deficiency,82598004,505169010
+Thyroid disease,Cyu1100,413721000006119,[X]Other sp cified hypothyroidism,40930008,68268011
+Thyroid disease,Cyu1300,293750016,[X]Other thyrotoxicosis,90739004,150375010
+Thyroid disease,Cyu1400,293751017,Chronic thyroiditis,45053005,75139015
+Thyroid disease,F11x500,542671000006117,Cerebral degeneration due to myxoedema,192816007,297016016
+Thyroid disease,F381400,297588017,Myasthenic syndrome due to hypothyroidism,193212008,297588017
+Thyroid disease,F381600,297591017,Myasthenic syndrome due to thyrotoxicosis,193214009,297591017
+Thyroid disease,F395300,682701000006117,Myopathy due to myxoedema,87844004,507778013
+Thyroid disease,F395400,1233040016,Myopathy due to thyrotoxicosis,68437005,1233040016
+Thyroid disease,F4G2000,33469013,Thyrotoxic exophthalmos,19885005,33469013
+Thyroid disease,FyuBD00,379441000006115,Dysthyroid exophthalmos,509381000000104,1132591000000116
+Thyroid disease,G557500,100438013,Thyrotoxic heart disease,60446003,100438013
+Thyroid disease,L181400,101321000006115,Throid dysfunction in the puerperium - baby delivered during previous episode of care,199240009,306123010
+Thyroid disease,L181500,87809017,Postpartum thyroiditis,52772002,87809017
+Thyroid disease,PK25011,437757015,Retrosternal thyroid gland,297267009,437757015

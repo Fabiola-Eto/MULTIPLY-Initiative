@@ -1,0 +1,11 @@
+Condition,ReadCode,MedCodeId,Term,SnomedCTConceptId,SnomedCTDescriptionId
+Supraventricular tachycardia,14AQ.00,303131000000116,History of supraventricular tachycardia,200071000000101,303131000000116
+Supraventricular tachycardia,3274.00,256480012,ECG: paroxysmal atrial tachy.,164891006,256480012
+Supraventricular tachycardia,G567400,123539010,Wolff-Parkinson-White syndrome,74390002,123539010
+Supraventricular tachycardia,G570.00,111643014,Paroxysmal supraventricular tachycardia,67198005,111643014
+Supraventricular tachycardia,G570000,300106011,Paroxysmal atrial tachycardia,195069001,300106011
+Supraventricular tachycardia,G570100,300110014,Paroxysmal atrioventricular tachycardia,195070000,300110014
+Supraventricular tachycardia,G570200,300111013,Paroxysmal junctional tachycardia,195071001,300111013
+Supraventricular tachycardia,G570300,300114017,Paroxysmal nodal tachycardia,195072008,300114017
+Supraventricular tachycardia,G570z00,300119010,Paroxysmal supraventricular tachycardia NOS,67198005,111643014
+Supraventricular tachycardia,G57y900,300167017,Supraventricular tachycardia,6456007,11705016

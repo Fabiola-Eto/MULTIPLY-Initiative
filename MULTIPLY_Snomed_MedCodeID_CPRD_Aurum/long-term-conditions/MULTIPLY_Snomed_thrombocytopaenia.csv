@@ -1,0 +1,30 @@
+Condition,ReadCode,MedCodeId,Term,SnomedCTConceptId,SnomedCTDescriptionId
+"Thrombocytopaenia - primary, secondary and other",42P2.00,1227080015,Thrombocytopenia,302215000,1227080015
+"Thrombocytopaenia - primary, secondary and other",42P2.11,1490557013,Autoimmune thrombocytopenia,128091003,194685017
+"Thrombocytopaenia - primary, secondary and other",42P8.00,2159799011,Heparin induced thrombocytopenia screening test,1003111000000109,2585401000000118
+"Thrombocytopaenia - primary, secondary and other",C391200,53821000006111,Wiskott-Aldrich syndrome,36070007,60191017
+"Thrombocytopaenia - primary, secondary and other",C391211,100341000006117,Thrombocytopenic eczema with immunodeficiency,36070007,60191017
+"Thrombocytopaenia - primary, secondary and other",D313.00,399233010,Primary thrombocytopenia,267534000,399233010
+"Thrombocytopaenia - primary, secondary and other",D313.11,649701000006117,Evan's syndrome,302873008,444860010
+"Thrombocytopaenia - primary, secondary and other",D313.12,786681000006113,Idiopathic thrombocytopenic purpura,32273002,53913017
+"Thrombocytopaenia - primary, secondary and other",D313.13,786601000006116,Idiopathic purpura,32273002,53913017
+"Thrombocytopaenia - primary, secondary and other",D313.14,473369018,Megakaryocytic hypoplasia,302873008,444860010
+"Thrombocytopaenia - primary, secondary and other",D313.15,444860010,Thrombocytopenic purpura,302873008,444860010
+"Thrombocytopaenia - primary, secondary and other",D313000,53913017,Idiopathic thrombocytopenic purpura,32273002,53913017
+"Thrombocytopaenia - primary, secondary and other",D313011,53918014,Idiopathic purpura,32273002,53913017
+"Thrombocytopaenia - primary, secondary and other",D313012,758831000006117,ITP - idiopathic thrombocytopenic purpura,32273002,3452119018
+"Thrombocytopaenia - primary, secondary and other",D313100,399234016,Congenital thrombocytopenic purpura,267535004,399234016
+"Thrombocytopaenia - primary, secondary and other",D313111,351323011,Hereditary thrombocytopenia NEC,267535004,399234016
+"Thrombocytopaenia - primary, secondary and other",D313300,294375012,[X]Essential thrombocytopenia NOS,302215000,443796011
+"Thrombocytopaenia - primary, secondary and other",D313y00,294376013,Other specified primary thrombocytopenia,302873008,444860010
+"Thrombocytopaenia - primary, secondary and other",D313z00,399235015,Primary thrombocytopenia NOS,267534000,399233010
+"Thrombocytopaenia - primary, secondary and other",D313z11,351315014,Essential thrombocytopenia NOS,267534000,399233010
+"Thrombocytopaenia - primary, secondary and other",D314.00,123869011,Secondary thrombocytopenia,154826009,240835016
+"Thrombocytopaenia - primary, secondary and other",D314011,450586010,Thrombocytopenia due to massive blood transfusion,307342006,450586010
+"Thrombocytopaenia - primary, secondary and other",D314100,294383018,Thrombocytopenia due to drugs,191322006,294383018
+"Thrombocytopaenia - primary, secondary and other",D314300,1887321000006117,Heparin-induced thrombocytopenia,73397007,121892018
+"Thrombocytopaenia - primary, secondary and other",D314y00,294385013,Other specified secondary thrombocytopenia,74576004,123868015
+"Thrombocytopaenia - primary, secondary and other",D314z00,399236019,Secondary thrombocytopenia NOS,74576004,123868015
+"Thrombocytopaenia - primary, secondary and other",D315.00,294389019,Thrombocytopenia NOS,302215000,1227080015
+"Thrombocytopaenia - primary, secondary and other",Dyu3200,294614011,[X]Other primary thrombocytopenia,267534000,399233010
+"Thrombocytopaenia - primary, secondary and other",G756100,129661016,Thrombotic thrombocytopenic purpura,78129009,129661016

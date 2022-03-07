@@ -1,0 +1,21 @@
+Condition,ReadCode,MedCodeId,Term,SnomedCTConceptId,SnomedCTDescriptionId
+Ulcerative colitis,14C4.11,411543016,H/O: ulcerative colitis,275549008,411543016
+Ulcerative colitis,J41..00,2579429013,Idiopathic proctocolitis,64766004,2579429013
+Ulcerative colitis,J41..11,696071000006114,Mucous colitis and/or proctitis,43752006,72962011
+Ulcerative colitis,J41..12,85931000006112,Ulcerative colitis and/or proctitis,295046003,435370011
+Ulcerative colitis,J410.00,435370011,Ulcerative proctocolitis,295046003,435370011
+Ulcerative colitis,J410000,302953018,Ulcerative ileocolitis,196987008,302953018
+Ulcerative colitis,J410100,107644019,Ulcerative colitis,64766004,107644019
+Ulcerative colitis,J410200,496332018,Ulcerative rectosigmoiditis,52506002,496332018
+Ulcerative colitis,J410300,496249010,Ulcerative proctitis,52231000,496249010
+Ulcerative colitis,J410400,2532953017,Exacerbation of ulcerative colitis,414156000,2532953017
+Ulcerative colitis,J410z00,302956014,Ulcerative proctocolitis NOS,295046003,435370011
+Ulcerative colitis,J411.00,85891000006115,Ulcerative enterocolitis,235714007,353357011
+Ulcerative colitis,J412.00,85901000006116,Ulcerative (chronic) ileocolitis,196987008,302953018
+Ulcerative colitis,J413.00,2872721013,Ulcerative pancolitis,444548001,2872721013
+Ulcerative colitis,J41y.00,302959019,Other idiopathic proctocolitis,418130002,2576688010
+Ulcerative colitis,J41yz00,302961011,Other idiopathic proctocolitis NOS,418130002,2576688010
+Ulcerative colitis,J41z.00,302962016,Idiopathic proctocolitis NOS,64766004,2579429013
+Ulcerative colitis,Jyu4100,303762015,[X]Other ulcerative colitis,64766004,107644019
+Ulcerative colitis,N031000,309743013,Arthropathy in ulcerative colitis,201727001,309743013
+Ulcerative colitis,N045400,309836013,Juvenile arthritis in ulcerative colitis,201807008,309836013

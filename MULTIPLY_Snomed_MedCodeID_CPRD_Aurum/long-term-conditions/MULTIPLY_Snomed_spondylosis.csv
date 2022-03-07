@@ -1,0 +1,63 @@
+Condition,ReadCode,MedCodeId,Term,SnomedCTConceptId,SnomedCTDescriptionId
+Spondylosis,F163200,297150011,Myelopathy due to spondylosis,192907007,297150011
+Spondylosis,F337200,297465015,Nerve root and plexus compressions in spondylosis,193120004,297465015
+Spondylosis,N051G00,359402016,Osteoarthritis of spinal facet joint,239863005,359402016
+Spondylosis,N11..00,400266016,Spondylosis and allied disorders,267969005,400266016
+Spondylosis,N11..11,1209790019,Arthritis of spine,8847002,508047017
+Spondylosis,N11..12,18181000006118,Osteoarthritis of spine,8847002,508047017
+Spondylosis,N110.00,400267013,Cervical spondylosis without myelopathy,267970006,400267013
+Spondylosis,N110.11,1481870016,Cervical spondylosis,387800004,1481870016
+Spondylosis,N110.12,219611000000112,Osteoarthritis cervical spine,387800004,1492276018
+Spondylosis,N110000,311055019,Single-level cervical spondylosis without myelopathy,202657000,311055019
+Spondylosis,N110100,311056018,Two-level cervical spondylosis without myelopathy,202658005,311056018
+Spondylosis,N110200,311057010,Multiple-level cervical spondylosis without myelopathy,202659002,311057010
+Spondylosis,N111.00,108431018,Cervical spondylosis with myelopathy,65260001,108431018
+Spondylosis,N111000,311061016,Single-level cervical spondylosis with myelopathy,202661006,311061016
+Spondylosis,N111100,311062011,Two-level cervical spondylosis with myelopathy,202662004,311062011
+Spondylosis,N111200,311063018,Multiple-level cervical spondylosis with myelopathy,202663009,311063018
+Spondylosis,N112.00,400268015,Thoracic spondylosis without myelopathy,267971005,400268015
+Spondylosis,N112.11,1481872012,Thoracic spondylosis,387802007,1481872012
+Spondylosis,N112000,311068010,Single-level thoracic spondylosis without myelopathy,202666001,311068010
+Spondylosis,N112100,311069019,Two-level thoracic spondylosis without myelopathy,202667005,311069019
+Spondylosis,N112200,311070018,Multiple-level thoracic spondylosis without myelopathy,202668000,311070018
+Spondylosis,N112300,400269011,Dorsal spondylosis without myelopathy,267971005,400269011
+Spondylosis,N113.00,19006012,Thoracic spondylosis with myelopathy,10948005,19006012
+Spondylosis,N113000,311072014,Single-level thoracic spondylosis with myelopathy,202670009,311072014
+Spondylosis,N113200,311074010,Multiple-level thoracic spondylosis with myelopathy,202672001,311074010
+Spondylosis,N114.00,80324016,Lumbosacral spondylosis without myelopathy,48210000,80324016
+Spondylosis,N114.11,611421000006111,Degeneration of lumbar spine,239880009,359432012
+Spondylosis,N114.12,359432012,Lumbar spondylosis,239880009,359432012
+Spondylosis,N114000,311079017,Single-level lumbosacral spondylosis without myelopathy,202674000,311079017
+Spondylosis,N114100,311080019,Two-level lumbosacral spondylosis without myelopathy,202675004,311080019
+Spondylosis,N114200,311081015,Multiple-level lumbosacral spondylosis without myelopathy,202676003,311081015
+Spondylosis,N115.00,311082010,Lumbosacral spondylosis with myelopathy,202677007,311082010
+Spondylosis,N115000,311083017,Single-level lumbosacral spondylosis with myelopathy,202678002,311083017
+Spondylosis,N115100,311084011,Two-level lumbosacral spondylosis with myelopathy,202679005,311084011
+Spondylosis,N115200,311085012,Multiple-level lumbosacral spondylosis with myelopathy,202680008,311085012
+Spondylosis,N119.00,311091014,Cervical spondylosis with radiculopathy,202683005,311091014
+Spondylosis,N119000,311093012,Single-level cervical spondylosis with radiculopathy,202684004,311093012
+Spondylosis,N119100,311094018,Two-level cervical spondylosis with radiculopathy,202685003,311094018
+Spondylosis,N119200,311095017,Multiple-level cervical spondylosis with radiculopathy,202686002,311095017
+Spondylosis,N11A.00,311096016,Cervical spondylosis with vascular compression,202687006,311096016
+Spondylosis,N11B.00,311097013,Thoracic spondylosis with radiculopathy,202688001,311097013
+Spondylosis,N11B000,311099011,Single-level thoracic spondylosis with radiculopathy,202689009,311099011
+Spondylosis,N11B100,311100015,Two-level thoracic spondylosis with radiculopathy,202690000,311100015
+Spondylosis,N11B200,311103018,Multiple-level thoracic spondylosis with radiculopathy,202692008,311103018
+Spondylosis,N11C.00,311106014,Lumbosacral spondylosis with radiculopathy,202693003,311106014
+Spondylosis,N11C000,311108010,Single-level lumbosacral spondylosis with radiculopathy,202694009,311108010
+Spondylosis,N11C100,311109019,Two-level lumbosacral spondylosis with radiculopathy,202695005,311109019
+Spondylosis,N11C200,311110012,Multiple-level lumbosacral spondylosis with radiculopathy,202696006,311110012
+Spondylosis,N11D.00,508047017,Osteoarthritis of spine,8847002,508047017
+Spondylosis,N11D000,1492276018,Osteoarthritis of cervical spine,387800004,1492276018
+Spondylosis,N11D100,1492281010,Osteoarthritis of thoracic spine,387802007,1492281010
+Spondylosis,N11D200,359433019,Osteoarthritis of lumbar spine,239880009,359433019
+Spondylosis,N11D300,2476044012,Osteoarthritis of spine NOS,8847002,508047017
+Spondylosis,N11E.00,1705871000006118,Cervical spondylosis,387800004,1481870016
+Spondylosis,N11z.00,130001000006111,Spondylosis,8847002,15601012
+Spondylosis,N11z.11,18191000006115,Osteoarthritis spine,8847002,508047017
+Spondylosis,N11z000,311118017,Spondylosis without myelopathy,68859000,114373013
+Spondylosis,N11z100,311119013,Spondylosis with myelopathy,192907007,297150011
+Spondylosis,N11zz00,400271011,Spondylosis NOS,8847002,15601012
+Spondylosis,Nyu6200,312612019,[X]Other spondylosis with myelopathy,8847002,15601012
+Spondylosis,Nyu6300,312613012,[X]Other spondylosis with radiculopathy,8847002,15601012
+Spondylosis,Nyu6400,312614018,[X]Other spondylosis,8847002,15601012

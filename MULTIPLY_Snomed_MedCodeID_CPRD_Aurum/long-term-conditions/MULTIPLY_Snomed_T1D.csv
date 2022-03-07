@@ -1,0 +1,83 @@
+Condition,ReadCode,MedCodeId,Term,SnomedCTConceptId,SnomedCTDescriptionId
+Type 1 Diabetes,C101000,616641000006110,"Diabetes mellitus, juvenile type, with ketoacidosis",420270002,2618216015
+Type 1 Diabetes,C103000,616651000006112,"Diabetes mellitus, juvenile type, with ketoacidotic coma",421075007,2618217012
+Type 1 Diabetes,C108.12,84281000006115,Type 1 diabetes mellitus,46635009,197984010
+Type 1 Diabetes,C108.13,84651000006114,Type I diabetes mellitus,46635009,494564012
+Type 1 Diabetes,C108011,84801000006111,Type I diabetes mellitus with renal complications,421893009,2623054013
+Type 1 Diabetes,C108012,84431000006117,Type 1 diabetes mellitus with renal complications,421893009,2618211013
+Type 1 Diabetes,C108112,84401000006113,Type 1 diabetes mellitus with ophthalmic complications,739681000,3537386015
+Type 1 Diabetes,C108211,84751000006116,Type I diabetes mellitus with neurological complications,421468001,3695401013
+Type 1 Diabetes,C108212,84381000006113,Type 1 diabetes mellitus with neurological complications,421468001,2618197018
+Type 1 Diabetes,C108311,84731000006111,Multiple complications of type 1 diabetes mellitus,422228004,2967771016
+Type 1 Diabetes,C108411,72721000006113,Unstable type I diabetes mellitus,290002008,429970018
+Type 1 Diabetes,C108412,72711000006117,Unstable type 1 diabetes mellitus,290002008,429971019
+Type 1 Diabetes,C108511,84821000006118,Type I diabetes mellitus with ulcer,190368000,292538019
+Type 1 Diabetes,C108512,84451000006112,Type 1 diabetes mellitus with ulcer,190368000,292540012
+Type 1 Diabetes,C108612,84331000006112,Type 1 diabetes mellitus with gangrene,420825003,2618207019
+Type 1 Diabetes,C108711,84811000006114,Type I diabetes mellitus with retinopathy,420789003,3699407019
+Type 1 Diabetes,C108712,84441000006110,Type 1 diabetes mellitus with retinopathy,420789003,3699407019
+Type 1 Diabetes,C108811,84661000006111,Type I diabetes mellitus poorly controlled,444073006,2872487013
+Type 1 Diabetes,C108812,84291000006117,Type 1 diabetes mellitus - poor control,444073006,2872487013
+Type 1 Diabetes,C108911,84671000006116,Type I diabetes mellitus maturity onset,190372001,292551012
+Type 1 Diabetes,C108912,84301000006116,Type 1 diabetes mellitus maturity onset,190372001,292553010
+Type 1 Diabetes,C108A11,84831000006115,Type I diabetes mellitus without complication,313435000,457325013
+Type 1 Diabetes,C108A12,84461000006114,Type 1 diabetes mellitus without complication,313435000,457326014
+Type 1 Diabetes,C108B11,84721000006113,Mononeuropathy with type 1 diabetes mellitus,420918009,3697664014
+Type 1 Diabetes,C108C11,84791000006110,Polyneuropathy due to diabetes mellitus type I,713705003,3297390014
+Type 1 Diabetes,C108D11,84741000006118,Type I diabetes mellitus with nephropathy,421893009,2623054013
+Type 1 Diabetes,C108D12,84371000006110,Type 1 diabetes mellitus with nephropathy,421893009,2623054013
+Type 1 Diabetes,C108E11,84711000006117,Type I diabetes mellitus with hypoglycaemic coma,314771006,459163017
+Type 1 Diabetes,C108E12,84341000006119,Type 1 diabetes mellitus with hypoglycaemic coma,314771006,459161015
+Type 1 Diabetes,C108F11,84691000006115,Cataract due to diabetes mellitus type 1,421920002,3688521010
+Type 1 Diabetes,C108F12,84321000006114,Type 1 diabetes mellitus with diabetic cataract,421920002,2618234016
+Type 1 Diabetes,C108H11,84681000006118,Type I diabetes mellitus with arthropathy,314893005,459294012
+Type 1 Diabetes,C108J11,84761000006119,Type I diabetes mellitus with neuropathic arthropathy,71771000119100,3010513018
+Type 1 Diabetes,C108J12,84391000006111,Type 1 diabetes mellitus with neuropathic arthropathy,71771000119100,3010513018
+Type 1 Diabetes,C10C.12,2476117016,Maturity onset diabetes in youth type 1,609562003,2967867012
+Type 1 Diabetes,C10E.00,197984010,Type 1 diabetes mellitus,46635009,197984010
+Type 1 Diabetes,C10E.11,494564012,Type I diabetes mellitus,46635009,494564012
+Type 1 Diabetes,C10E000,913451000006117,Type 1 diabetes mellitus with renal complications,421893009,2618211013
+Type 1 Diabetes,C10E011,913461000006115,Type I diabetes mellitus with renal complications,421893009,2623054013
+Type 1 Diabetes,C10E100,913481000006113,Type 1 diabetes mellitus with ophthalmic complications,739681000,3537386015
+Type 1 Diabetes,C10E111,913491000006111,Type I diabetes mellitus with ophthalmic complications,739681000,3698438014
+Type 1 Diabetes,C10E200,913511000006117,Type 1 diabetes mellitus with neurological complications,421468001,2618197018
+Type 1 Diabetes,C10E300,913541000006118,Type 1 diabetes mellitus with multiple complications,422228004,2618232017
+Type 1 Diabetes,C10E311,913551000006116,Type I diabetes mellitus with multiple complications,422228004,2967771016
+Type 1 Diabetes,C10E400,429971019,Unstable type 1 diabetes mellitus,290002008,429971019
+Type 1 Diabetes,C10E411,429970018,Unstable type I diabetes mellitus,290002008,429970018
+Type 1 Diabetes,C10E500,292540012,Type 1 diabetes mellitus with ulcer,190368000,292540012
+Type 1 Diabetes,C10E511,292538019,Type I diabetes mellitus with ulcer,190368000,292538019
+Type 1 Diabetes,C10E600,292541011,Type 1 diabetes mellitus with gangrene,420825003,2618207019
+Type 1 Diabetes,C10E611,292543014,Type I diabetes mellitus with gangrene,420825003,2618207019
+Type 1 Diabetes,C10E700,913661000006118,Retinopathy with type 1 diabetes mellitus,420789003,3699407019
+Type 1 Diabetes,C10E711,913671000006113,Type I diabetes mellitus with retinopathy,420789003,3699407019
+Type 1 Diabetes,C10E800,292548017,Type 1 diabetes mellitus - poor control,444073006,2872487013
+Type 1 Diabetes,C10E811,292550013,Type I diabetes mellitus - poor control,444073006,2872487013
+Type 1 Diabetes,C10E900,292553010,Type 1 diabetes mellitus maturity onset,190372001,292553010
+Type 1 Diabetes,C10E911,292551012,Type I diabetes mellitus maturity onset,190372001,292551012
+Type 1 Diabetes,C10EA00,457326014,Type 1 diabetes mellitus without complication,313435000,457326014
+Type 1 Diabetes,C10EA11,457325013,Type I diabetes mellitus without complication,313435000,457325013
+Type 1 Diabetes,C10EB00,913781000006117,Type 1 diabetes mellitus with mononeuropathy,420918009,2618199015
+Type 1 Diabetes,C10EC00,913811000006115,Type 1 diabetes mellitus with polyneuropathy,713705003,3297342019
+Type 1 Diabetes,C10EC11,913821000006111,Type I diabetes mellitus with polyneuropathy,713705003,3297390014
+Type 1 Diabetes,C10ED00,913841000006116,Renal disorder associated with type 1 diabetes mellitus,421893009,2623054013
+Type 1 Diabetes,C10ED11,913851000006119,Type I diabetes mellitus with nephropathy,421893009,2623054013
+Type 1 Diabetes,C10EE00,459161015,Type 1 diabetes mellitus with hypoglycaemic coma,314771006,459161015
+Type 1 Diabetes,C10EF00,913901000006112,Type 1 diabetes mellitus with diabetic cataract,421920002,2618234016
+Type 1 Diabetes,C10EG00,913931000006116,Type 1 diabetes mellitus with peripheral angiopathy,31211000119101,3315042015
+Type 1 Diabetes,C10EH00,459292011,Type 1 diabetes mellitus with arthropathy,314893005,459292011
+Type 1 Diabetes,C10EJ00,459296014,Type 1 diabetes mellitus with neuropathic arthropathy,71771000119100,3010513018
+Type 1 Diabetes,C10EK00,928461000006119,Persistent proteinuria associated with type 1 diabetes mellitus,420514000,2967914011
+Type 1 Diabetes,C10EL00,1780311019,Type 1 diabetes mellitus with persistent microalbuminuria,401110002,1780311019
+Type 1 Diabetes,C10EL11,928491000006110,Type I diabetes mellitus with persistent microalbuminuria,401110002,1780311019
+Type 1 Diabetes,C10EM00,928501000006119,Ketoacidosis in type 1 diabetes mellitus,420270002,2967817017
+Type 1 Diabetes,C10EM11,928511000006116,Type I diabetes mellitus with ketoacidosis,420270002,2967817017
+Type 1 Diabetes,C10EN00,928521000006112,Ketoacidotic coma in type 1 diabetes mellitus,421075007,2967758019
+Type 1 Diabetes,C10EN11,928531000006110,Type I diabetes mellitus with ketoacidotic coma,421075007,2967758019
+Type 1 Diabetes,C10EP00,938301000006114,Exudative maculopathy with type 1 diabetes mellitus,420486006,3698521013
+Type 1 Diabetes,C10EP11,938311000006112,Type I diabetes mellitus with exudative maculopathy,420486006,2618236019
+Type 1 Diabetes,C10EQ00,299601000000114,Gastroparesis with type 1 diabetes mellitus,713702000,3698406016
+Type 1 Diabetes,C10EQ11,1667941000000112,Type I diabetes mellitus with gastroparesis,713702000,3698406016
+Type 1 Diabetes,C10ER00,2674067015,Latent autoimmune diabetes mellitus in adult,426875007,2674067015
+Type 1 Diabetes,C10P000,2288011000000114,Type I diabetes mellitus in remission,703137001,3007238018
+Type 1 Diabetes,C10P011,2288041000000110,Type 1 diabetes mellitus in remission,703137001,3007274010

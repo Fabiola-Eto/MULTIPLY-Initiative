@@ -1,0 +1,35 @@
+Condition,ReadCode,MedCodeId,Term,SnomedCTConceptId,SnomedCTDescriptionId
+"Vitamin B12 deficiency, with and without anaemia",1452.00,251614016,History of anaemia vitamin B12 deficient,161457000,3009146015
+"Vitamin B12 deficiency, with and without anaemia",42T2.00,257553011,Serum vitamin B12 low,165645009,257553011
+"Vitamin B12 deficiency, with and without anaemia",66E..00,264780013,B12 deficiency monitoring,170818005,264780013
+"Vitamin B12 deficiency, with and without anaemia",66E1.00,501111000006119,B12 deficiency initial assessment,170819002,264781012
+"Vitamin B12 deficiency, with and without anaemia",66E2.00,501131000006113,B12 deficiency follow-up assessment,170820008,264782017
+"Vitamin B12 deficiency, with and without anaemia",66E3.00,264783010,B12 injections started,170821007,264783010
+"Vitamin B12 deficiency, with and without anaemia",66E4.00,264784016,B12 injections - at home,170822000,264784016
+"Vitamin B12 deficiency, with and without anaemia",66E5.00,264785015,B12 injections - at surgery,170823005,264785015
+"Vitamin B12 deficiency, with and without anaemia",66E6.00,264786019,Reticulocytosis after B12,170824004,3076147019
+"Vitamin B12 deficiency, with and without anaemia",66E7.00,501101000006117,B12 def.-dubious diag.criteria,170825003,264787011
+"Vitamin B12 deficiency, with and without anaemia",66E8.00,264788018,B12 injections stopped,170826002,264788018
+"Vitamin B12 deficiency, with and without anaemia",66EZ.00,501121000006110,B12 defic. monitoring NOS,170818005,264780013
+"Vitamin B12 deficiency, with and without anaemia",7L18500,452074010,Intramuscular injection of vitamin B12,308752009,452074010
+"Vitamin B12 deficiency, with and without anaemia",C262100,293008012,Vitamin B12 deficiency,190634004,293008012
+"Vitamin B12 deficiency, with and without anaemia",D010.00,505888017,Pernicious anaemia,84027009,505888017
+"Vitamin B12 deficiency, with and without anaemia",D010.11,223491000000112,Addison's anaemia,84027009,505888017
+"Vitamin B12 deficiency, with and without anaemia",D010.12,351107016,Biermer's congenital pernicious anaemia,234362006,351107016
+"Vitamin B12 deficiency, with and without anaemia",D010.13,351106013,Congenital deficiency of intrinsic factor,234361004,351106013
+"Vitamin B12 deficiency, with and without anaemia",D011.00,399198011,Megaloblastic anaemia due to vitamin B>12< deficiency,49472006,495412014
+"Vitamin B12 deficiency, with and without anaemia",D011.11,62261000006118,Vitamin B12-deficient megaloblastic anaemia,49472006,1216683014
+"Vitamin B12 deficiency, with and without anaemia",D011000,399201018,Vitamin B12 deficiency anaemia due to dietary causes,267517008,399201018
+"Vitamin B12 deficiency, with and without anaemia",D011011,223501000000118,Imerslund - Grasbeck syndrome,234363001,351115018
+"Vitamin B12 deficiency, with and without anaemia",D011013,351104011,Vegan's anaemia,234360003,351104011
+"Vitamin B12 deficiency, with and without anaemia",D011100,62031000006117,Vitamin B12 deficiency anaemia due to malabsorption with proteinuria,191142007,293918016
+"Vitamin B12 deficiency, with and without anaemia",D011200,356607016,Transcobalamin II deficiency,237934001,356607016
+"Vitamin B12 deficiency, with and without anaemia",D011X00,62281000006111,Vitamin B>12< deficiency anaemia,49472006,495414010
+"Vitamin B12 deficiency, with and without anaemia",D011z00,293924010,Other vitamin B12 deficiency anaemia NOS,49472006,495412014
+"Vitamin B12 deficiency, with and without anaemia",D013000,293948018,Combined B12 and folate deficiency anaemia,191154007,293948018
+"Vitamin B12 deficiency, with and without anaemia",Dyu0100,294568012,Vitamin B12 deficiency anemia due to dietary causes,267517008,399201018
+"Vitamin B12 deficiency, with and without anaemia",Dyu0200,294571016,[X]Other vitamin B12 deficiency anaemias,49472006,495412014
+"Vitamin B12 deficiency, with and without anaemia",Dyu0600,294579019,"[X]Vitamin B12 deficiency anaemia, unspecified",49472006,495414010
+"Vitamin B12 deficiency, with and without anaemia",F11x600,297018015,Cerebral degeneration due to vitamin B12 deficiency,192817003,297018015
+"Vitamin B12 deficiency, with and without anaemia",F162.00,100638016,Subacute combined degeneration of spinal cord,60576007,498788015
+"Vitamin B12 deficiency, with and without anaemia",F381500,297589013,Myasthenic syndrome due to pernicious anaemia,193213003,297589013

@@ -1,0 +1,24 @@
+Condition,ReadCode,MedCodeId,Term,SnomedCTConceptId,SnomedCTDescriptionId
+Urinary Incontinence,1593.00,252112018,H/O: stress incontinence,161794005,252112018
+Urinary Incontinence,16F..00,503840017,Double incontinence,78459008,503840017
+Urinary Incontinence,1A23.00,1494848017,Incontinence of urine,165232002,1494848017
+Urinary Incontinence,1A24.00,121721000006114,Stress incontinence,22220005,37299019
+Urinary Incontinence,1A24.11,121751000006117,Stress incontinence - symptom,22220005,37299019
+Urinary Incontinence,1A26.00,507635014,Urge incontinence of urine,87557004,507635014
+Urinary Incontinence,3940.00,256950013,Bladder: incontinent,165232002,256950013
+Urinary Incontinence,7B33800,1550421000006119,Insertion retropubic device stress urinary incontinence NEC,59661004,99124016
+Urinary Incontinence,7B33C00,1588121000006119,Bladder neck operation for female stress incontinence,236241009,354131010
+Urinary Incontinence,7B42111,772621000006118,Insertion of Kaufman prosthesis for male incontinence,265597008,394429019
+Urinary Incontinence,7B42113,772951000006119,Insertion of Rosen prosthesis for male incontinence,265597008,394429019
+Urinary Incontinence,8C14.00,282903011,Incontinence care,183001000,282903011
+Urinary Incontinence,8D7..12,781731000006114,Incontinence control,266826009,397460012
+Urinary Incontinence,8D71.00,397460012,Incontinence control,266826009,397460012
+Urinary Incontinence,8HTX.00,2533410015,Referral to incontinence clinic,415274007,2533410015
+Urinary Incontinence,K198.00,37299019,Stress incontinence,22220005,37299019
+Urinary Incontinence,K586.00,121741000006119,Female stress incontinence,60241006,100073015
+Urinary Incontinence,Kyu5A00,305212011,Urinary incontinence,165232002,1489736014
+Urinary Incontinence,R083.00,317523016,[D]Incontinence of urine,165232002,1494848017
+Urinary Incontinence,R083100,317525011,[D]Urethral sphincter incontinence,165232002,1489736014
+Urinary Incontinence,R083200,317526012,[D] Urge incontinence,87557004,507635014
+Urinary Incontinence,R083z00,317527015,[D]Incontinence of urine NOS,165232002,256950013
+Urinary Incontinence,Z9EA.00,5191071000006118,Provision of incontinence appliance,243757003,364566019

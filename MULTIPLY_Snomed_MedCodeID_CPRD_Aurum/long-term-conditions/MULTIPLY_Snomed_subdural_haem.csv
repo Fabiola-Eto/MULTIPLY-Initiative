@@ -1,0 +1,24 @@
+Condition,ReadCode,MedCodeId,Term,SnomedCTConceptId,SnomedCTDescriptionId
+Subdural haematoma,7017000,498516011,Evacuation of intracranial subdural haematoma,59712006,498520010
+Subdural haematoma,7034.00,265980013,Drainage of subdural space,171721007,265980013
+Subdural haematoma,7034y00,265982017,Other specified drainage of subdural space,171721007,265980013
+Subdural haematoma,7034z00,265983010,Drainage of subdural space NOS,171721007,265980013
+Subdural haematoma,G621.00,300294013,Subdural haemorrhage - nontraumatic,195176009,300294013
+Subdural haematoma,G622.00,2475119012,Non-traumatic subdural haemorrhage,195176009,2469010019
+Subdural haematoma,G623.00,2534198011,Subdural haemorrhage,35486000,486181011
+Subdural haematoma,Q200100,316140013,"Subdural haemorrhage unspecified, due to birth trauma",240312009,359984010
+Subdural haematoma,S62..13,320836010,Subdural haemorrhage following injury,209987007,320836010
+Subdural haematoma,S622.00,320752018,Closed traumatic subdural haemorrhage,209947002,320752018
+Subdural haematoma,S622000,124161000006117,Subdural h'ge inj no open intracranial wnd + unspec consc,209947002,320752018
+Subdural haematoma,S622100,124191000006113,Subdural h'ge inj no open intracranial wound+no loss consc,209947002,320752018
+Subdural haematoma,S622200,124181000006110,Subdural h'ge inj no open intracranial wound+<1hr loss consc,209947002,320752018
+Subdural haematoma,S622300,124131000006114,Subdural h'ge inj no open intracran wnd+1-24hr loss consc,209947002,320752018
+Subdural haematoma,S622400,124171000006112,Subdural h'ge inj no open intracranial wnd+>24 LOC +recovery,209947002,320752018
+Subdural haematoma,S622600,124141000006116,Subdural h'ge inj no open intracran wnd+LOC unspec duration,209947002,320752018
+Subdural haematoma,S622z00,124151000006119,Subdural h'ge inj no open intracran wound+concussion unspec,209947002,320752018
+Subdural haematoma,S623.00,320771016,Open traumatic subdural haemorrhage,209956005,320771016
+Subdural haematoma,S623300,124071000006111,Subdural haemorrhage following injury with open intracranial wound AND moderate loss of consciousness (1-24 hours),90165008,508869011
+Subdural haematoma,S628.00,320835014,Traumatic subdural haemorrhage,209987007,320835014
+Subdural haematoma,S629.00,391035012,Traumatic subdural hematoma,262952002,2912898019
+Subdural haematoma,S629000,459511018,Traumatic subdural haematoma without open intracranial wound,315046005,459511018
+Subdural haematoma,S629100,459514014,Traumatic subdural haematoma with open intracranial wound,315047001,459514014

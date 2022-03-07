@@ -1,0 +1,24 @@
+Condition,ReadCode,MedCodeId,Term,SnomedCTConceptId,SnomedCTDescriptionId
+Subarachnoid haemorrhage,G60..00,481028017,Subarachnoid haemorrhage,21454007,481028017
+Subarachnoid haemorrhage,G600.00,300242011,Ruptured berry aneurysm,195154000,300242011
+Subarachnoid haemorrhage,G601.00,300244012,Subarachnoid haemorrhage from carotid siphon and bifurcation,195155004,300244012
+Subarachnoid haemorrhage,G602.00,123511000006114,Subarachnoid haemorrhage from middle cerebral artery,21454007,36011016
+Subarachnoid haemorrhage,G603.00,123481000006118,Subarachnoid haemorrhage from anterior communicating artery,21454007,36011016
+Subarachnoid haemorrhage,G604.00,123521000006118,Subarachnoid haemorrhage from posterior communicating artery,21454007,36011016
+Subarachnoid haemorrhage,G605.00,123491000006115,Subarachnoid haemorrhage from basilar artery,276284000,412361011
+Subarachnoid haemorrhage,G606.00,300253017,Subarachnoid haemorrhage from vertebral artery,195160000,300253017
+Subarachnoid haemorrhage,G60X.00,123441000006112,"Subarachnoid haemorrh from intracranial artery, unspecif",21454007,481028017
+Subarachnoid haemorrhage,G60z.00,300257016,Subarachnoid haemorrhage NOS,21454007,481028017
+Subarachnoid haemorrhage,G680.00,300406018,Sequelae of subarachnoid haemorrhage,195240000,300406018
+Subarachnoid haemorrhage,Gyu6000,300935019,[X]Subarachnoid haemorrhage from other intracranial arteries,21454007,36011016
+Subarachnoid haemorrhage,Gyu6100,300936018,[X]Other subarachnoid haemorrhage,21454007,481028017
+Subarachnoid haemorrhage,Gyu6E00,428181000006115,Subarachnoid hemorrhage,21454007,481028017
+Subarachnoid haemorrhage,S62..12,391042012,Subarachnoid haemorrhage following injury,450375008,2915309017
+Subarachnoid haemorrhage,S620.00,402929011,Subarachnoid haemorrhage following injury without open intracranial wound,28048009,483737017
+Subarachnoid haemorrhage,S620100,123411000006113,Subarachnoid h'ge inj no open intracran wnd+no loss consc,28048009,46957015
+Subarachnoid haemorrhage,S620600,123331000006114,Subarach h'ge inj no open intracran wnd+LOC unspec duration,28048009,46957015
+Subarachnoid haemorrhage,S620z00,123311000006115,Subarach h'ge inj no open intracran wnd + concussion unspec,28048009,46957015
+Subarachnoid haemorrhage,S621.00,320735017,Subarachnoid haemorrhage following injury with open intracranial wound,5251007,496337012
+Subarachnoid haemorrhage,S621100,123381000006110,"Subarachnoid haemorrhage following injury with open intracranial wound, with no loss of consciousness",209940000,320739011
+Subarachnoid haemorrhage,S621z00,123351000006119,Subarachnoid h'ge inj + open intracran wnd+concussion unspec,5251007,9804011
+Subarachnoid haemorrhage,S627.00,391043019,Traumatic haemorrhage into subarachnoid space of neuraxis,450375008,2915656010

@@ -1,0 +1,66 @@
+Condition,ReadCode,MedCodeId,Term,SnomedCTConceptId,SnomedCTDescriptionId
+Venous thromboembolism,14A8100,251689017,H/O: Deep Vein Thrombosis,161508001,251689017
+Venous thromboembolism,8CMWA00,2247661000000111,On deep vein thrombosis care pathway,869611000000104,2247661000000111
+Venous thromboembolism,9kg..00,1059641000000112,Deep vein thrombosis enhanced services administration,492161000000109,1152491000000116
+Venous thromboembolism,9kg0.00,1715671000006119,Deep vein thrombosis enhanced services administration stage 1 service level,503421000000105,1152451000000112
+Venous thromboembolism,9kg0.11,1741651000006115,DVT enhanced services administration stage 1 service level,503421000000105,1152451000000112
+Venous thromboembolism,9kg1.00,1716271000006111,Deep vein thrombosis enhanced services administration stage 2 service level,503451000000100,1152471000000115
+Venous thromboembolism,9kg2.00,1715681000006116,Deep vein thrombosis enhanced services administration stage 3 service level,503481000000106,1152431000000117
+Venous thromboembolism,F05..00,296931015,Phlebitis and thrombophlebitis of intracranial sinuses,192753009,296931015
+Venous thromboembolism,F050.00,1221072019,Embolism of central nervous system venous sinus,14246007,1221072019
+Venous thromboembolism,F050000,296932010,Embolism cavernous sinus,192754003,296932010
+Venous thromboembolism,F050100,296933017,Embolism superior longitudinal sinus,192755002,296933017
+Venous thromboembolism,F050300,296935012,Embolism transverse sinus,192757005,296935012
+Venous thromboembolism,F051.00,100721000006111,Cerebral venous sinus thrombosis,192759008,296937016
+Venous thromboembolism,F051000,100691000006118,Cerebral venous thrombosis of cavernous sinus,89980009,1235519010
+Venous thromboembolism,F051100,296938014,Thrombosis of superior longitudinal sinus,192760003,296938014
+Venous thromboembolism,F051200,100701000006118,Thrombosis lateral sinus,21258007,1222620011
+Venous thromboembolism,F051300,296939018,Thrombosis transverse sinus,192761004,296939018
+Venous thromboembolism,F051z00,296940016,Thrombosis of central nervous system venous sinus NOS,192759008,296937016
+Venous thromboembolism,F053.00,296947018,Thrombophlebitis of central nervous system venous sinuses,192769002,296947018
+Venous thromboembolism,F053000,296948011,Thrombophlebitis of cavernous sinus,192770001,296948011
+Venous thromboembolism,F053100,296949015,Thrombophlebitis of superior longitudinal venous sinus,192771002,296949015
+Venous thromboembolism,F05z.00,231561000006110,Phlebitis or thrombophlebitis of CNS venous sinus NOS,192753009,296931015
+Venous thromboembolism,G401.00,98484016,Pulmonary embolism,59282003,98484016
+Venous thromboembolism,G401100,632111000000118,Recurrent pulmonary embolism,438773007,2793990014
+Venous thromboembolism,G676.00,586241000006116,Non-pyogenic venous sinus thrombosis,195229008,300392014
+Venous thromboembolism,G676000,542251000006112,"Cerebral infarction due to cerebral venous thrombosis, non-pyogenic",195230003,300393016
+Venous thromboembolism,G67A.00,1235913017,Cerebral vein thrombosis,95455008,1235913017
+Venous thromboembolism,G801.00,395801015,Deep vein phlebitis and thrombophlebitis of the leg,266267005,395801015
+Venous thromboembolism,G801.11,2162149016,Deep venous thrombosis,128053003,194647015
+Venous thromboembolism,G801.12,218551000000118,"Deep vein thrombosis, leg",266267005,395801015
+Venous thromboembolism,G801.13,2162148012,Deep vein thrombosis,128053003,2162149016
+Venous thromboembolism,G801600,300672010,Thrombophlebitis of the femoral vein,195410000,300672010
+Venous thromboembolism,G801700,300673017,Thrombophlebitis of the popliteal vein,195411001,300673017
+Venous thromboembolism,G801800,300674011,Thrombophlebitis of the anterior tibial vein,195412008,300674011
+Venous thromboembolism,G801900,300675012,Thrombophlebitis of the dorsalis pedis vein,770111009,3698589012
+Venous thromboembolism,G801A00,300676013,Thrombophlebitis of the posterior tibial vein,195414009,300676013
+Venous thromboembolism,G801B00,300677016,Thrombophlebitis of deep veins of lower extremity,40198004,63532015
+Venous thromboembolism,G801C00,216205019,Deep vein thrombosis of leg related to air travel,134399007,216205019
+Venous thromboembolism,G801D00,2162422011,Deep vein thrombosis of lower limb,404223003,2162422011
+Venous thromboembolism,G801E00,2534187010,Deep vein thrombosis of leg related to intravenous drug use,413956008,2534187010
+Venous thromboembolism,G801F00,1119161000000115,Deep vein thrombosis of peroneal vein,443210003,1664901000000117
+Venous thromboembolism,G801G00,2144741000000111,Recurrent deep vein thrombosis,710167004,3043650017
+Venous thromboembolism,G801z00,300681016,Deep vein phlebitis and thrombophlebitis of the leg NOS,266267005,395801015
+Venous thromboembolism,G80y.11,412645018,Phlebitis and/or thrombophlebitis of iliac vein,276494008,412645018
+Venous thromboembolism,G80y400,300691010,Thrombophlebitis of the common iliac vein,195425000,300691010
+Venous thromboembolism,G80y500,300692015,Thrombophlebitis of the internal iliac vein,195426004,300692015
+Venous thromboembolism,G80y600,300695018,Thrombophlebitis of the external iliac vein,195427008,300695018
+Venous thromboembolism,G80y700,300696017,Thrombophlebitis of iliac vein,42861008,71531019
+Venous thromboembolism,G80y800,300697014,Phlebitis and thrombophlebitis of the iliac vein NOS,276494008,412645018
+Venous thromboembolism,G81..00,30273012,Portal vein thrombosis,17920008,30273012
+Venous thromboembolism,G820.00,527221000006115,Budd-Chiari syndrome,82385007,136654014
+Venous thromboembolism,G820.11,64466019,Hepatic vein thrombosis,82385007,136654014
+Venous thromboembolism,G822.00,300710016,Embolism and thrombosis of the vena cava,195437003,300710016
+Venous thromboembolism,G822000,419640012,Thrombosis of inferior vena cava,281595001,419640012
+Venous thromboembolism,G823.00,300711017,Embolism and thrombosis of the renal vein,195438008,300711017
+Venous thromboembolism,G824.00,437622013,Axillary vein thrombosis,297156001,437622013
+Venous thromboembolism,G825.00,2795114019,Thrombosis of subclavian vein,438647008,2795114019
+Venous thromboembolism,G826.00,2234371000000119,Thrombosis of internal jugular vein,864191000000104,2234371000000119
+Venous thromboembolism,G827.00,2234411000000115,Thrombosis of external jugular vein,864211000000100,2234411000000115
+Venous thromboembolism,Gyu8000,420621000006111,[X]Phlebitis+thrombophlebitis/oth deep vessls/low extremites,195394007,300649013
+Venous thromboembolism,J420200,100821000006116,Superior mesenteric vein thrombosis,197001004,302981012
+Venous thromboembolism,SP12200,216571000006116,Postoperative deep vein thrombosis,213220000,325066018
+Venous thromboembolism,ZV12800,451478017,H/O: Deep vein thrombosis,161508001,2547692019
+Venous thromboembolism,ZV12811,1227369013,[V] Personal history DVT (deep vein thrombosis),161508001,2547692019
+Venous thromboembolism,ZV12900,451479013,[V] Personal history of pulmonary embolism,161512007,251693011
