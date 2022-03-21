@@ -1,11 +1,11 @@
 # List of covariables
 
 
-| **Condition**                                                                 | **Read v2 codelist**                      | **ICD10-10 codelist**                      | **OPCS-4 codelist**                    | **Prodcode codelist**               |
+| **Condition**                                                                 | Read v2 codelist                          | ICD10-10 codelist                          | OPCS-4 codelist                        | **Prodcode codelist**           |
 |-------------------------------------------------------------------------------|-------------------------------------------|--------------------------------------------|----------------------------------------|---------------------------------|
-| Alcohol consumption                                                           | MULTIPLY_Read_alcohol_consumption.csv     |                                            |                                        |                                 |
-| Care home residence                                                           | MULTIPLY_Read_care_home.csv               |                                            |                                        |                                 |
-| Delivery and or stillbirth                                                    |                                           | MULTIPLY_ICD10_delivery_stillbirth.csv     | MULTIPLY_OPCS4_delivery_stillbirth.csv |                                 |
+| Alcohol consumption                                                               | MULTIPLY_Read_alcohol_consumption.csv     |                                            |                                        |                                 |
+| Care home residence                                                               | MULTIPLY_Read_care_home.csv               |                                            |                                        |                                 |
+| Delivery and or stillbirth                                                        |                                           | MULTIPLY_ICD10_delivery_stillbirth.csv     | MULTIPLY_OPCS4_delivery_stillbirth.csv |                                 |
 | Early pregnancy loss                                                          | MULTIPLY_Read_pregnancy_loss.csv          | MULTIPLY_ICD10_pregnancy_loss.csv          | MULTIPLY_OPCS4_pregnancy_loss.csv      |                                 |
 | Influenza vaccination                                                         | MULTIPLY_Read_influenza_vac.csv           |                                            |                                        |                                 |
 | Menopause                                                                     | MULTIPLY_Read_menopause.csv               | MULTIPLY_ICD10_menopause.csv               |                                        | MULTIPLY_Prodcode_menopause.csv |
