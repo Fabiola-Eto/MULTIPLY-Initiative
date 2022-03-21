@@ -13,7 +13,7 @@ The codelists files are hosted in the following folders:
 >
 All code sets have been thoroughly clinically revised by Dr Sarah Finer and Dr Miriam Samuel. 
 >
-Please, note that only for 'Constipation' we have two code lists - one composed by Gemscriptcode/Prodcodes (prescription codes), and another composed by Read v2 codes. Additionally, 'Painful conditions' were defined using only Gemscriptcode/Prodcodes. Note that for both conditions that used prescribing codes we adopted the codelists defined by the CPRD@Cambridge group. The original codelists can be found [here](https://www.phpc.cam.ac.uk/pcu/research/research-groups/crmh/cprd_cam/codelists/v11/). 
+Please, note that 'Constipation' and 'Painful conditions' were the only conditions defined using Gemscriptcode/Prodcodes (prescription codes). For both of them we adopted the codelists of prodcodes defined by the CPRD@Cambridge group. The original codelists can be found [here](https://www.phpc.cam.ac.uk/pcu/research/research-groups/crmh/cprd_cam/codelists/v11/). 
 >
 >
 | Count | Conditions included                                                                          | Read v2 codelist                                  | ICD10-10 codelist                                  | OPCS-4 codelist                            | Prodcode codelist                        |
