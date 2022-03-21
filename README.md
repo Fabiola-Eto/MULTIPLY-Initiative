@@ -6,11 +6,11 @@ This repository hosts codelists of long-term conditions and covariables used in 
 ## Repository content
 >
 > 
-### MULTIPLY_Readv2_medcode_CPRD_GOLD
+### [MULTIPLY_Readv2_medcode_CPRD_GOLD](https://github.com/f-eto/MULTIPLY-Initiative/tree/main/MULTIPLY_Readv2_medcode_CPRD_GOLD)
 Includes codelists of medical codes recorded in the primary care using Read v2 (and their correspondent CPRD GOLD medical codes) that were used to identify our [list of 204 long-term conditions](https://github.com/f-eto/MULTIPLY-Initiative/blob/main/multimorbidity_list.md) e [covariables](https://github.com/f-eto/MULTIPLY-Initiative/blob/main/covariables_list.md). 
 >
 >
-**[MULTIPLY_Snomed_MedCodeID_CPRD_Aurum](https://github.com/f-eto/MULTIPLY-Initiative/tree/main/MULTIPLY_Snomed_MedCodeID_CPRD_Aurum)**
+### [MULTIPLY_Snomed_MedCodeID_CPRD_Aurum](https://github.com/f-eto/MULTIPLY-Initiative/tree/main/MULTIPLY_Snomed_MedCodeID_CPRD_Aurum)
 Contains codelists of medical codes recorded in the primary care using SNOMED (and their correspondent CPRD Aurum medical codes) that matched (via cros-mapping algorithm) either the ReadCode or ReadTerm from the CPRD GOLD codelists, also the codelist for SARS-CoV-2 provided by CPRD (n= 260). The codelists correspond to the 203 out of 204 conditions from the [multimorbidity list](https://github.com/f-eto/qmul-multimorbidity/blob/codesets-included-conditions/multimorbidity_list.md). 'Painful conditions' was selected using only prescribing data (Prodcode/Gemscript codes). Please, note that these codelists were not submitted to clinical revision yet. 
 >
 >
@@ -28,7 +28,7 @@ Contains the Prodcode/Gemscript codelists used to select 'Menopause', 'Constipat
 >
 ### [MULTIPLY_combined_codelists](https://github.com/f-eto/MULTIPLY-Initiative/tree/main/MULTIPLY_combined_codelists)
 >
-Contains all codelists combined in a single file according to type of medical code.
+Contains all codelists combined into a single file according to type of medical code.
 >
 > 
 ### resolved_remission_codes
