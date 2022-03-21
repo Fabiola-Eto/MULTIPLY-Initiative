@@ -1,44 +1,16 @@
 # List of covariables
 
-Covariables to be included according to analysis type and data source. 
 
-| Covariables                                                              | Cross-sectional analysis | Longitudinal analysis | Primary care data | HES data | ONS data |
-|--------------------------------------------------------------------------|:------------------------:|:---------------------:|:-----------------:|:--------:|:--------:|
-| ***Socioeconomic variables***                                            |                          |                       |                   |          |          |
-| Age                                                                      |             Y            |           Y           |         Y         |          |          |
-| Sex                                                                      |             Y            |           Y           |         Y         |          |          |
-| Ethnicity                                                                |             Y            |           Y           |         Y         |     Y    |          |
-| Index of Multiple Deprivation                                            |             Y            |           Y           |         Y         |          |          |
-| ***Health seeking/risk behaviours***                                     |                          |                       |                   |          |          |
-| Alcohol consumption                                                      |                          |           Y           |         Y         |          |          |
-| Smoking status                                                           |                          |           Y           |         Y         |          |          |
-| Influenza vaccination                                                    |                          |           Y           |         Y         |          |          |
-| ***Health service utilisation***                                         |                          |                       |                   |          |          |
-| Number of hospital admissions per year                                   |                          |           Y           |                   |     Y    |          |
-| Number of GP consultations per year                                      |                          |           Y           |         Y         |          |          |
-| ***Prescribing***                                                        |                          |                       |                   |          |          |
-| *Number of unique prescriptions per class on repeat per year*            |                          |           Y           |         Y         |          |          |
-|    Medication name                                                       |                          |           Y           |         Y         |          |          |
-|    Medication class                                                      |                          |           Y           |         Y         |          |          |
-|    Date of prescription                                                  |                          |                       |         Y         |          |          |
-| ***Clinical measures***                                                  |                          |                       |                   |          |          |
-| LDL-C                                                                    |             Y            |           Y           |         Y         |          |          |
-| Total Cholesterol                                                        |             Y            |           Y           |         Y         |          |          |
-| Triglycerides                                                            |             Y            |           Y           |         Y         |          |          |
-| HDL-C                                                                    |             Y            |           Y           |         Y         |          |          |
-| HbA1c                                                                    |             Y            |           Y           |         Y         |          |          |
-| Serum creatinine (mg/dL)                                                 |             Y            |           Y           |         Y         |          |          |
-| Serum creatinine (µmol/L)                                                |             Y            |           Y           |         Y         |          |          |
-| Estimated Glomerular filtration rate                                     |                          |                       |         Y         |          |          |
-| Height                                                                   |             Y            |           Y           |         Y         |          |          |
-| Weight                                                                   |             Y            |           Y           |         Y         |          |          |
-| Blood pressure                                                           |             Y            |           Y           |         Y         |          |          |
-| ***Life events***                                                        |                          |                       |                   |          |          |
-| Pregnancy (defined by 3rd trimester delivery – live birth or stillbirth) |                          |           Y           |         Y         |     Y    |          |
-| Hypertensive disorders of pregnancy                                      |                          |           Y           |         Y         |     Y    |          |
-| Gestational diabetes                                                     |                          |           Y           |         Y         |     Y    |          |
-| Menopause (include prescribing data, Miriam will revise it)              |                          |           Y           |         Y         |     Y    |          |
-| Lives in a care home                                                     |                          |           Y           |         Y         |          |          |
-| *Vital status*                                                           |             Y            |           Y           |                   |          |     Y    |
-|     Date of death                                                        |             Y            |           Y           |                   |          |     Y    |
-|     Cause of death                                                       |                          |           Y           |                   |          |     Y    |
+| **Condition**                                                                 | **Read2 code list**                       | **ICD-10 code list**                       | **OPCS code list**                     | **Prodcode codelist**           |
+|-------------------------------------------------------------------------------|-------------------------------------------|--------------------------------------------|----------------------------------------|---------------------------------|
+| Alcohol consumption                                                           | MULTIPLY_Read_alcohol_consumption.csv     |                                            |                                        |                                 |
+| Care home residence                                                           | MULTIPLY_Read_care_home.csv               |                                            |                                        |                                 |
+| Delivery and or stillbirth                                                    |                                           | MULTIPLY_ICD10_delivery_stillbirth.csv     | MULTIPLY_OPCS4_delivery_stillbirth.csv |                                 |
+| Early pregnancy loss                                                          | MULTIPLY_Read_pregnancy_loss.csv          | MULTIPLY_ICD10_pregnancy_loss.csv          | MULTIPLY_OPCS4_pregnancy_loss.csv      |                                 |
+| Influenza vaccination                                                         | MULTIPLY_Read_influenza_vac.csv           |                                            |                                        |                                 |
+| Menopause                                                                     | MULTIPLY_Read_menopause.csv               | MULTIPLY_ICD10_menopause.csv               |                                        | MULTIPLY_Prodcode_menopause.csv |
+| Pregnancy disorders: gestational diabetes                                     | MULTIPLY_Read_pregnancy_diabetes.csv      | MULTIPLY_ICD10_pregnancy_diabetes.csv      |                                        |                                 |
+| Pregnancy disorders: hypertension in   pregnancy, eclampsia and pre-eclampsia | MULTIPLY_Read_pregnancy_hypertension.csv  | MULTIPLY_ICD10_pregnancy_hypertension.csv  |                                        |                                 |
+| Pregnancy disorders: mental health                                            | MULTIPLY_Read_pregnancy_mental_health.csv | MULTIPLY_ICD10_pregnancy_mental_health.csv |                                        |                                 |
+| Pregnancy disorders: others                                                   | MULTIPLY_Read_pregnancy_others.csv        | MULTIPLY_ICD10_pregnancy_others.csv        |                                        |                                 |
+| Smoking status                                                                | MULTIPLY_Read_smoking_status.csv          |                                            |                                        |                                 |
