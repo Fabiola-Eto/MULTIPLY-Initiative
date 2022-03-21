@@ -1,7 +1,7 @@
 # List of covariables
 
 
-| **Condition**                                                                 | **Read2 code list**                       | **ICD-10 code list**                       | **OPCS code list**                     | **Prodcode codelist**           |
+| **Condition**                                                                 | **Read v2 codelist**                      | **ICD10-10 codelist**                      | **OPCS-4 codelist**                    | **Prodcode codelist**               |
 |-------------------------------------------------------------------------------|-------------------------------------------|--------------------------------------------|----------------------------------------|---------------------------------|
 | Alcohol consumption                                                           | MULTIPLY_Read_alcohol_consumption.csv     |                                            |                                        |                                 |
 | Care home residence                                                           | MULTIPLY_Read_care_home.csv               |                                            |                                        |                                 |
