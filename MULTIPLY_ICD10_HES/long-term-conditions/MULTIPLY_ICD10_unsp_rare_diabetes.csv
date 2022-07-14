@@ -1,7 +1,40 @@
 Condition,ICD10code,ICD10codeDescr
-Ulcerative colitis,K51,Ulcerative colitis
-Ulcerative colitis,K51.0,Ulcerative (chronic) pancolitis
-Ulcerative colitis,K51.2,Ulcerative (chronic) proctitis
-Ulcerative colitis,K51.3,Ulcerative (chronic) rectosigmoiditis
-Ulcerative colitis,K51.8,Other ulcerative colitis
-Ulcerative colitis,K51.9,"Ulcerative colitis, unspecified"
+Unspecified or Rare Diabetes,E10,Insulin-dependent diabetes mellitus
+Unspecified or Rare Diabetes,E12,Malnutrition-related diabetes mellitus
+Unspecified or Rare Diabetes,O242,Diabetes mellitus in pregnancy: Pre-existing malnutrition-related diabetes mellitus
+Unspecified or Rare Diabetes,E13,Other specified diabetes mellitus
+Unspecified or Rare Diabetes,E14,Unspecified diabetes mellitus
+Unspecified or Rare Diabetes,O240,Diabetes mellitus in pregnancy: Pre-existing diabetes mellitus
+Unspecified or Rare Diabetes,O241,Diabetes mellitus in pregnancy: Pre-existing diabetes mellitus
+Unspecified or Rare Diabetes,O243,Diabetes mellitus in pregnancy: Pre-existing diabetes mellitus
+Unspecified or Rare Diabetes,E14.9,Unspecified diabetes mellitus without complications
+Unspecified or Rare Diabetes,E14.1,Unspecified diabetes mellitus with ketoacidosis
+Unspecified or Rare Diabetes,E13.1,Other specified diabetes mellitus with ketoacidosis
+Unspecified or Rare Diabetes,E14.0,Unspecified diabetes mellitus with coma
+Unspecified or Rare Diabetes,E13.0,Other specified diabetes mellitus with coma
+Unspecified or Rare Diabetes,E14.5,Unspecified diabetes mellitus with peripheral circulatory complications
+Unspecified or Rare Diabetes,E14.7,Unspecified diabetes mellitus with multiple complications
+Unspecified or Rare Diabetes,E12.0,Malnutrition-related diabetes mellitus with coma
+Unspecified or Rare Diabetes,E12.1,Malnutrition-related diabetes mellitus with ketoacidosis
+Unspecified or Rare Diabetes,E13.9,Other specified diabetes mellitus without complications
+Unspecified or Rare Diabetes,E14.6,Unspecified diabetes mellitus with other specified complications
+Unspecified or Rare Diabetes,E14.8,Unspecified diabetes mellitus with unspecified complications
+Unspecified or Rare Diabetes,E14.2,Unspecified diabetes mellitus with renal complications
+Unspecified or Rare Diabetes,P70.2,Neonatal diabetes mellitus
+Unspecified or Rare Diabetes,E10.3,Insulin-dependent diabetes mellitus - With ophthalmic complications
+Unspecified or Rare Diabetes,E11.3,Non-insulin-dependent diabetes mellitus - With ophthalmic complications
+Unspecified or Rare Diabetes,E12.3,Malnutrition-related diabetes mellitus - With ophthalmic complications
+Unspecified or Rare Diabetes,E13.3,Other specified diabetes mellitus - With ophthalmic complications
+Unspecified or Rare Diabetes,E14.3,Unspecified diabetes mellitus - With ophthalmic complications
+Unspecified or Rare Diabetes,E10.4,Insulin-dependent diabetes mellitus - With neurological complications
+Unspecified or Rare Diabetes,E11.4,Non-insulin-dependent diabetes mellitus - With neurological complications
+Unspecified or Rare Diabetes,E12.4,Malnutrition-related diabetes mellitus - With neurological complications
+Unspecified or Rare Diabetes,E13.4,Other specified diabetes mellitus - With neurological complications
+Unspecified or Rare Diabetes,E14.4,Unspecified diabetes mellitus - With neurological complications
+Unspecified or Rare Diabetes,E14.5,Unspecified diabetes mellitus with peripheral circulatory complications
+Unspecified or Rare Diabetes,E10.4,Insulin-dependent diabetes mellitus - With neurological complications
+Unspecified or Rare Diabetes,E11.4,Non-insulin-dependent diabetes mellitus - With neurological complications
+Unspecified or Rare Diabetes,E12.4,Malnutrition-related diabetes mellitus - With neurological complications
+Unspecified or Rare Diabetes,E13.4,Other specified diabetes mellitus - With neurological complications
+Unspecified or Rare Diabetes,E14.4,Unspecified diabetes mellitus - With neurological complications
+Unspecified or Rare Diabetes,E14.5,Unspecified diabetes mellitus with peripheral circulatory complications
