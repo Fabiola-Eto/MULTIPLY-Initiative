@@ -1,6 +1,6 @@
 # QMUL-multimorbidity
 ## Overview
-This repository hosts codelists of long-term conditions and covariables used in the study 'Characterisation of multimorbidity clusters and trajectories using data-driven approaches in a nationally-representative population'. Please, to find out more, see [multimorbidity_list.md](https://github.com/f-eto/MULTIPLY-Initiative/blob/main/multimorbidity_list.md).
+This repository hosts codelists of long-term conditions and covariables used in the study 'Characterisation of multimorbidity clusters and trajectories using data-driven approaches in a nationally-representative population'. To find out more, please, see [METHOD.md](https://github.com/f-eto/MULTIPLY-Initiative/blob/main/METHOD.md) and [multimorbidity_list.md](https://github.com/f-eto/MULTIPLY-Initiative/blob/main/multimorbidity_list.md).
 >
 >
 ## Repository content
