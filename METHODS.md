@@ -34,7 +34,9 @@ Our clinical curation of the codelists allowed for some further refinement of th
 
 Following this additional clinical revision step, we refined our list to include 204 long-term conditions,  11,053 Read v2 codes, 2,594 ICD-10 codes, 747 OPCS-4 codes, and 3,829 gemscript codes. Figure 1 shows how these 204 LTCs overlap with the source lists from which they originate. 
 
-![image](https://user-images.githubusercontent.com/68119710/204816986-a8910cae-a378-47de-b818-cb8eaa8a494f.png)
+
+![ven_diagram](https://user-images.githubusercontent.com/68119710/207369376-44e5becd-08df-4e01-a794-876268883be8.png)
+
 
 ##	Building codelists across different clinical coding systems
 After codelists were built in Read v2, we developed codelists composed by three- and four-character codes of the International Classification of Diseases, tenth revision (ICD-10), which is the main coding system used in the context of the secondary health care. We also constructed OPCS-4 (Classification of Interventions and Procedures) codelists to identify any procedure or intervention applied in the secondary health care context related to the included LTC. These codelists types were built following two methods: 
