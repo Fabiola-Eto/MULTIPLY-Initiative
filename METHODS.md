@@ -22,7 +22,7 @@ For each LTC selected in the consensus panel, we searched existing online reposi
 
 Once the clinical revision has been concluded, a curated codelist for each LTC was uploaded onto the MULTIPLY-Initiative GitHub repository. 
 
-The 219 LTC then underwent clinical codelist development with further clinical revision. We compared published codelists used by the original authors in the definition of the 219 conditions where publicly available [7,8]. We revised a total of 263 codelists built on Read v2,  214 codelists built on ICD-10, 13 codelists built on OPCS-4, and 2 codelists built on gemscript codes (prescribing codes). We developed new Read v2 and ICD-10 codelists for 13 conditions, and OPCS-4 codelists for 37 conditions (see [multimorbidity_list.md]( https://github.com/f-eto/MULTIPLY-Initiative/blob/main/multimorbidity_list.md)). The overall process of revision and development resulted in 203 Read v2 codelists, 203 ICD-10 codelists, 49 OPCS-4 codes codelists and 2 gemscript codelists for 204 long-term conditions. 
+The 219 LTC then underwent clinical codelist development with further clinical revision. We compared published codelists used by the original authors in the definition of the 219 conditions where publicly available [2,7,8]. We revised a total of 263 codelists built on Read v2,  214 codelists built on ICD-10, 13 codelists built on OPCS-4, and 2 codelists built on gemscript codes (prescribing codes). We developed new Read v2 and ICD-10 codelists for 13 conditions, and OPCS-4 codelists for 37 conditions (see [multimorbidity_list.md]( https://github.com/f-eto/MULTIPLY-Initiative/blob/main/multimorbidity_list.md)). The overall process of revision and development resulted in 203 Read v2 codelists, 203 ICD-10 codelists, 49 OPCS-4 codes codelists and 2 gemscript codelists for 204 long-term conditions. 
 
 The clinical codes related to SARS-CoV-2 were identified using the Read v2 codelists provided by CPRD GOLD [9]. All codes related to it available at the time of data extraction were classified by MS as "confirmed", "probable", "long covid” and “suspected”, being the latter excluded from the codelist. The WHO list of ICD-10 codes for SARS-CoV-2 was used to identify COVID-related activity in secondary care [10].
 Our clinical curation of the codelists allowed for some further refinement of the conditions, as follows: 
@@ -41,7 +41,7 @@ Following this additional clinical revision step, we refined our list to include
 ##	Building codelists across different clinical coding systems
 After codelists were built in Read v2, we developed codelists composed by three- and four-character codes of the International Classification of Diseases, tenth revision (ICD-10), which is the main coding system used in the context of the secondary health care. We also constructed OPCS-4 (Classification of Interventions and Procedures) codelists to identify any procedure or intervention applied in the secondary health care context related to the included LTC. These codelists types were built following two methods: 
 1. Search for relevant medical terms for each condition using an ICD-10 dictionary; 
-2. Cross-map the revised Read v2 codelists to their equivalent ICD-10 and OPCS-4 codes using constructed cross-mapping tables from lookup files and maps between different coding systems provided by the CPRD (medical.txt) and the UK Biobank (all_lkps_maps.xlsx), respectively. 
+2. Cross-map the revised Read v2 codelists to their equivalent ICD-10 and OPCS-4 codes using constructed cross-mapping tables from lookup files and maps between different coding systems provided by the CPRD (medical.txt) and the UK Biobank (all_lkps_maps.xlsx) [11], respectively. 
 
 
 Both methods were performed using R version 4.0.3. The functions used to search ICD-10 codes using medical terms and cross-map Read v2 codes to ICD-10 and OPCS-4 codes are available in the supplementary material. 
@@ -53,15 +53,15 @@ The MULTIPLY ICD-10 and OPCS-4 codelists were constructed from clinical revision
 1. Mapped from the Read v2 codelists;
 2. Adapted from the CALIBER’s codelists.
 
-To cross-map the Read v2 codes to ICD-10 and OPCS-4 codes we used the UK Biobank clinical coding classification systems and maps file available to the public (all_lkps_maps.xlsx) [19] and the OPCS4.9 file from NHS TRUD as a dictionary for OPCS4 codes and their respective descriptions [20]. The adaptation of the CALIBER’s codelists [21] included the grouping of a few conditions and their respective codes. After extensive clinical revision, a few relevant codes were added, and some inadequate codes were removed. 
+To cross-map the Read v2 codes to ICD-10 and OPCS-4 codes we used the UK Biobank clinical coding classification systems and maps file available to the public (all_lkps_maps.xlsx) [11] and the OPCS4.9 file from NHS TRUD as a dictionary for OPCS4 codes and their respective descriptions [12]. The adaptation of the CALIBER’s codelists [13] included the grouping of a few conditions and their respective codes. After extensive clinical revision, a few relevant codes were added, and some inadequate codes were removed. 
 
 From the 2,594 ICD-10 codes, 61.6% (n= 1,599) were mapped from Read v2 codes, 17.7% (n= 458) were captured from CALIBER’s codelists, 18.2% (n= 472) were mapped and also present in CALIBER’s codelists and 2.5% (n= 65) of the ICD-10 codes were added by the clinicians during the revision process. 
 
 From the 747 OPCS-4 codes, 46.2% (n= 345) were mapped from Read v2 codes, 30.5% (n= 228) were captured from CALIBER’s codelists, 23% (n= 172) codes overlapped between the cross-mapped and CALIBER’s codelists and 0.3% (n= 2) of the OPCS-4 codes were added by the clinicians during the revision process. 
 
-To identify “Painful conditions” and “Constipation” we used two gemscript codelists (medication codes) developed by Payne and colleagues and published on an online repository [8]. 
+To identify “Painful conditions” and “Constipation” we used two gemscript codelists (medication codes) developed by Payne and colleagues and published on an online repository [7]. 
 
-Following clinical revision, the diabetes codelist (adapted from CALIBER [12] and the Cambridge Multimorbidity Score codelist [13] was reclassified into three separate codelists: type 1 diabetes, type 2 diabetes, and rare (e.g. cystic-fibrosis related diabetes) or unspecified type. The reclassification was based on multiple existing Diabetes codelists [12,22–24] and clinically revised by SF. 
+Following clinical revision, the diabetes codelist (adapted from CALIBER [13] and the Cambridge Multimorbidity Score codelist [7] was reclassified into three separate codelists: type 1 diabetes, type 2 diabetes, and rare (e.g. cystic-fibrosis related diabetes) or unspecified type. The reclassification was based on multiple existing Diabetes codelists [3,14-16] and clinically revised by SF. 
 
 When these codelists were applied to the CPRD GOLD data, individuals who had different combinations of diabetes diagnoses over time were identified. It was decided that in individuals with an ‘unspecified or rare’ code who also had a type 1 or type 2 diabetes code, the specific code would be used in the analysis. Likewise, the individuals (0.9%) with both type 1 and type 2 diabetes codes in their health records would be classified as having ‘unspecified or rare’ diabetes.
 
@@ -76,4 +76,11 @@ When these codelists were applied to the CPRD GOLD data, individuals who had dif
 8.	spiros/chronological-map-phenotypes. In: GitHub [Internet]. [cited 2 Dec 2020]. Available: https://github.com/spiros/chronological-map-phenotypes 
 9.	Data highlights | CPRD. [cited 6 Jun 2022]. Available: https://www.cprd.com/data-highlights
 10.	Emergency use ICD codes for COVID-19 disease outbreak. [cited 23 May 2021]. Available: https://www.who.int/standards/classifications/classification-of-diseases/emergency-use-icd-codes-for-covid-19-disease-outbreak
+11. UK Biobank. Clinical coding classification systems and maps [Internet]. [cited 2022 Dec 16]. Available from: https://biobank.ctsu.ox.ac.uk/crystal/refer.cgi?id=592
+12. OPCS-4 data files - TRUD. [cited 6 Jun 2022]. Available: https://isd.digital.nhs.uk/trud/users/guest/filters/0/categories/10/items/119/licences
+13. CALIBER. [cited 6 Jun 2022]. Available: https://www.caliberresearch.org/portal/codelists
+14. Collaborative TO, Mathur R, Rentsch CT, Morton CE, Hulme WJ, Schultze A, et al. Ethnic differences in COVID-19 infection, hospitalisation, and mortality: an OpenSAFELY analysis of 17 million adults in England. medRxiv; 2020. p. 2020.09.22.20198754. doi:10.1101/2020.09.22.20198754
+15. Wright AK, Kontopantelis E, Emsley R, Buchan I, Sattar N, Rutter MK, et al. Life Expectancy and Cause-Specific Mortality in Type 2 Diabetes: A Population-Based Cohort Study Quantifying Relationships in Ethnic Subgroups. Diabetes Care. 2017;40: 338–345. doi:10.2337/dc16-1616
+16. Zhong VW, Juhaeri J, Cole SR, Kontopantelis E, Shay CM, Gordon-Larsen P, et al. Incidence and Trends in Hypoglycemia Hospitalization in Adults With Type 1 and Type 2 Diabetes in England, 1998-2013: A Retrospective Cohort Study. Diabetes Care. 2017;40: 1651–1660. doi:10.2337/dc16-2680
+
 
