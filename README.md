@@ -1,4 +1,5 @@
 # MULTIPLY-Initiative
+[![DOI](https://zenodo.org/badge/316011491.svg)](https://zenodo.org/badge/latestdoi/316011491)
 ## Overview
 This repository hosts codelists of long-term conditions and covariables used in the study 'Characterisation of multimorbidity clusters and trajectories using data-driven approaches in a nationally-representative population'. To find out more, please, see [METHODS.md](https://github.com/f-eto/MULTIPLY-Initiative/blob/main/METHODS.md) and [multimorbidity_list.md](https://github.com/f-eto/MULTIPLY-Initiative/blob/main/multimorbidity_list.md).
 >
