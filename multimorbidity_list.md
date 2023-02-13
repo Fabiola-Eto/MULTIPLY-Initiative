@@ -227,4 +227,4 @@ Please, note that 'Constipation' and 'Painful conditions' were the only conditio
 **Painful Conditions: for the algorithm implementation, please see [pain_constipation_codelist_implementation.md](https://github.com/f-eto/MULTIPLY-Initiative/blob/main/pain_constipation_codelist_implementation.md).  <p>
 ***Type 1 Diabetes, Type 2 Diabetes and Unspecified or Rare Diabetes: for the algorithm implementation, please see [diabetes_codelist_implementation.md](https://github.com/f-eto/MULTIPLY-Initiative/blob/main/diabetes_codelist_implementation.md). <p>
 
-For more information about the Repository content, please see the [README.md](https://github.com/f-eto/qmul-multimorbidity/blob/codesets-included-conditions/README.md) file.
+For more information about the Repository content, please see the [README.md](https://github.com/f-eto/qmul-multimorbidity/blob/codesets-included-conditions/README.md) file
