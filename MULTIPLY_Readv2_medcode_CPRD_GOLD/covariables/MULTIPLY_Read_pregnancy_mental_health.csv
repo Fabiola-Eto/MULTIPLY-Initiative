@@ -1,15 +1,15 @@
-Condition,ReadCode,MedCode,ReadTerm
-Pregnancy disorders: mental health,17614,9, [X]Puerperal psychosis NOS 
-Pregnancy disorders: mental health,100628,12, Mental disorder in puerperium - baby previously delivered 
-Pregnancy disorders: mental health,46756,10," Mental disorders in pregnancy, childbirth and the puerperium "
-Pregnancy disorders: mental health,24927,5, [X]Mental and behav disorders assoc with the puerperium NEC 
-Pregnancy disorders: mental health,113741,13, Mental disorder during pregnancy/childbirth/puerperium NOS 
-Pregnancy disorders: mental health,2114,3, Unspecified puerperal psychosis 
-Pregnancy disorders: mental health,2923,1, Puerperal depression 
-Pregnancy disorders: mental health,40224,6, [X]Mild mental/behav disorder assoc with the puerperium NEC 
-Pregnancy disorders: mental health,40500,8, [X]Severe mental and behav disorder assoc wth puerperium NEC 
-Pregnancy disorders: mental health,103283,11, Mental disorder in the puerperium - baby delivered 
-Pregnancy disorders: mental health,2639,4, Postnatal depression 
-Pregnancy disorders: mental health,13307,7, [X]Postnatal depression NOS 
-Pregnancy disorders: mental health,104989,14, Fetus or neonate affected by maternal postnatal depression 
-Pregnancy disorders: mental health,18702,2, Postnatal depression counselling 
+"Condition","ReadCode","MedCode","ReadTerm"
+"Pregnancy disorders: mental health","Eu53111","17614","[X]Puerperal psychosis NOS"
+"Pregnancy disorders: mental health","L184400","100628","Mental disorder in puerperium - baby previously delivered"
+"Pregnancy disorders: mental health","L184.00","46756","Mental disorders in pregnancy, childbirth and the puerperium"
+"Pregnancy disorders: mental health","Eu53.00","24927","[X]Mental and behav disorders assoc with the puerperium NEC"
+"Pregnancy disorders: mental health","L184z00","113741","Mental disorder during pregnancy/childbirth/puerperium NOS"
+"Pregnancy disorders: mental health","E03y300","2114","Unspecified puerperal psychosis"
+"Pregnancy disorders: mental health","62T1.00","2923","Puerperal depression"
+"Pregnancy disorders: mental health","Eu53000","40224","[X]Mild mental/behav disorder assoc with the puerperium NEC"
+"Pregnancy disorders: mental health","Eu53100","40500","[X]Severe mental and behav disorder assoc wth puerperium NEC"
+"Pregnancy disorders: mental health","L184200","103283","Mental disorder in the puerperium - baby delivered"
+"Pregnancy disorders: mental health","E204.11","2639","Postnatal depression"
+"Pregnancy disorders: mental health","Eu53011","13307","[X]Postnatal depression NOS"
+"Pregnancy disorders: mental health","Q018.00","104989","Fetus or neonate affected by maternal postnatal depression"
+"Pregnancy disorders: mental health","6G00.00","18702","Postnatal depression counselling"
